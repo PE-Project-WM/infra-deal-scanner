@@ -1,0 +1,67 @@
+name: Weekly update (monitor, re-rank, explain, rebuild site)
+
+on:
+  schedule:
+    - cron: '30 5 * * 1'   # every Monday 05:30 UTC (05:30 London in winter, 06:30 in summer)
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: 'Look back this many days for changes (blank = since the last run)'
+        required: false
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/weekly.yml'
+      - 'scripts/monitor.py'
+      - 'scripts/compare.py'
+      - 'scripts/site.py'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: weekly
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas requests beautifulsoup4 lxml
+      - name: Keep last week's ranking for the comparison
+        if: github.event_name != 'push'
+        run: mkdir -p data/monitor && cp data/outputs/ranking_latest.csv data/monitor/previous_ranking.csv
+      - name: Check Companies House for changes and re-read new accounts
+        env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || (github.event_name == 'push' && '90') || '' }}
+        run: python scripts/monitor.py 2>&1 | tee data/monitor/monitor_log.txt
+      - name: Clean, score, compare and rebuild the website
+        env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
+        run: |
+          set -o pipefail
+          python scripts/clean.py 2>&1 | tee data/outputs/clean_log.txt
+          python scripts/score.py 2>&1 | tee data/outputs/score_log.txt
+          python scripts/compare.py 2>&1 | tee data/monitor/compare_log.txt
+          python scripts/site.py
+      - name: Save results
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data docs
+          git commit -m "Weekly update $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
+          git pull --rebase
+          git push
+      - name: Post the update as an issue (GitHub emails it to you)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          F="data/updates/update_$(date -u +%Y-%m-%d).md"
+          gh issue create --title "Weekly update $(date -u '+%d %b %Y'): $(python -c "import json;print(json.load(open('data/updates/latest.json'))['headline'])")" --body-file "$F"

@@ -1,23 +1,42 @@
-# Infra Deal Scanner
+# UK Digital Infrastructure Screen
 
-A screening tool that turns a private equity fund's investment thesis into a ranked list of UK companies, using only public data (Companies House).
+**Live site: https://pe-project-wm.github.io/infra-deal-scanner/**
 
-**Current sub-sector:** UK digital infrastructure (fibre, wireless, data centres, satellite, network build and maintenance), £10m–£250m turnover, privately owned.
+A thesis-led deal screen for UK digital infrastructure (fibre, wireless, data centres, satellite, network build and maintenance). It turns a written investment thesis into a ranked list of companies using only public Companies House data, then checks for changes every week and explains every move in the ranking.
 
-## How it works
+Built by William Mikollovci with Python, GitHub Actions and Claude.
 
-| Step | What it does | Where |
+## What it does
+
+| Step | What happens | Code |
 |---|---|---|
-| 01 Criteria | Thesis turned into a criteria file: industry codes, size band, hard stops, scoring weights | `config/criteria_digital_infra.json` |
-| 02 Universe | Companies House bulk file filtered: 48,467 → 1,209 companies | Colab notebook |
-| 03 Financials | Latest accounts read for every company (tagged iXBRL, with a text fallback) | Colab notebook → `data/inputs/financials_all.csv` |
-| 04 Clean | Flags implausible numbers, looks up ownership (PSC register), merges duplicates, applies the thesis relevance review | `scripts/clean.py` |
-| 05 Score | Ranks candidates on the criteria weights (next) | — |
+| 1. Thesis | A testable claim about the sector, with kill criteria, turned into a criteria file: industry codes, £10–250m turnover, hard stops, scoring weights | `config/criteria_digital_infra.json` |
+| 2. Universe | Companies House bulk data: 48,467 companies in the six industry codes → 1,209 active, private, full-accounts filers | notebook (Colab) |
+| 3. Accounts | Latest accounts read for every company: digital (iXBRL) tags first, the accounts text as a backup, plus a currency check | `scripts/accounts.py` |
+| 4. Clean | Implausible numbers flagged, owners traced through parent companies (PSC register), duplicates merged, off-thesis firms removed with a logged reason | `scripts/clean.py` |
+| 5. Score | Six weighted criteria out of 100; accessibility (ownership) shown separately and never blended into the score | `scripts/score.py` |
+| 6. Weekly update | New accounts, owners, charges, directors and status changes; re-rank and explain each move from the points that changed | `scripts/monitor.py`, `scripts/compare.py` |
+| 7. Website | Rebuilt from the latest run and published with GitHub Pages | `scripts/site.py` → `docs/` |
 
-Every exclusion is logged with a reason in `data/outputs/excluded_log.csv`.
+The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run commits its results to `data/` and opens an issue with the update.
 
-## Running it
+## Outputs
 
-GitHub Actions runs each step on push or from the **Actions** tab. The Companies House API key is stored as the repository secret `CH_API_KEY`.
+- `data/outputs/ranking_latest.csv`: the current ranking, with points per criterion
+- `data/outputs/rankings/`: a dated copy of every ranking
+- `data/outputs/excluded_log.csv`: every company removed, with the reason
+- `data/updates/`: each week's "what changed and why", as Markdown and JSON
 
-*Illustrative analysis from public information only. Not investment advice.*
+## Known limits
+
+- 842 of the 1,209 companies file scanned PDF accounts that are not read yet (OCR is planned).
+- Revenue visibility and debt capacity are estimates; figures read from the accounts text are labelled and should be checked against the filing.
+- Ownership comes from the register of people with significant control (from April 2016), corrected by web checks and the accounts where noted.
+
+## Data and terms
+
+Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), from Companies House.
+
+Illustrative analysis from public information only. Not investment advice, and not a view on any company's prospects.
+
+© 2026 William Mikollovci. All rights reserved. The code is shared for viewing; please ask before reusing it.
