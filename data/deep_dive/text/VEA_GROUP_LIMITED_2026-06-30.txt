@@ -1,0 +1,1952 @@
+
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2025.0.111
+ 2025.0.111
+2026-02-28
+2026-02-28
+2640
+false
+127
+false
+false
+2025-03-01
+104
+false
+13433533
+2025-03-01
+2026-02-28
+13433533
+2024-03-01
+2025-02-28
+13433533
+2026-02-28
+13433533
+2025-02-28
+13433533
+2024-03-01
+13433533
+1
+2025-03-01
+2026-02-28
+13433533
+1
+2024-03-01
+2025-02-28
+13433533
+5
+2025-03-01
+2026-02-28
+13433533
+5
+2024-03-01
+2025-02-28
+13433533
+d:Director1
+2025-03-01
+2026-02-28
+13433533
+d:Director3
+2025-03-01
+2026-02-28
+13433533
+d:Director4
+2025-03-01
+2026-02-28
+13433533
+d:RegisteredOffice
+2025-03-01
+2026-02-28
+13433533
+e:Buildings
+e:ShortLeaseholdAssets
+2025-03-01
+2026-02-28
+13433533
+e:Buildings
+e:ShortLeaseholdAssets
+2026-02-28
+13433533
+e:Buildings
+e:ShortLeaseholdAssets
+2025-02-28
+13433533
+e:PlantMachinery
+2025-03-01
+2026-02-28
+13433533
+e:PlantMachinery
+2026-02-28
+13433533
+e:PlantMachinery
+2025-02-28
+13433533
+e:PlantMachinery
+e:OwnedOrFreeholdAssets
+2025-03-01
+2026-02-28
+13433533
+e:PlantMachinery
+e:LeasedAssetsHeldAsLessee
+2025-03-01
+2026-02-28
+13433533
+e:MotorVehicles
+2025-03-01
+2026-02-28
+13433533
+e:MotorVehicles
+2026-02-28
+13433533
+e:MotorVehicles
+2025-02-28
+13433533
+e:MotorVehicles
+e:OwnedOrFreeholdAssets
+2025-03-01
+2026-02-28
+13433533
+e:MotorVehicles
+e:LeasedAssetsHeldAsLessee
+2025-03-01
+2026-02-28
+13433533
+e:FurnitureFittings
+2025-03-01
+2026-02-28
+13433533
+e:FurnitureFittings
+2026-02-28
+13433533
+e:FurnitureFittings
+2025-02-28
+13433533
+e:FurnitureFittings
+e:OwnedOrFreeholdAssets
+2025-03-01
+2026-02-28
+13433533
+e:FurnitureFittings
+e:LeasedAssetsHeldAsLessee
+2025-03-01
+2026-02-28
+13433533
+e:ComputerEquipment
+2025-03-01
+2026-02-28
+13433533
+e:ComputerEquipment
+2026-02-28
+13433533
+e:ComputerEquipment
+2025-02-28
+13433533
+e:ComputerEquipment
+e:OwnedOrFreeholdAssets
+2025-03-01
+2026-02-28
+13433533
+e:ComputerEquipment
+e:LeasedAssetsHeldAsLessee
+2025-03-01
+2026-02-28
+13433533
+e:OtherPropertyPlantEquipment
+2025-03-01
+2026-02-28
+13433533
+e:OwnedOrFreeholdAssets
+2025-03-01
+2026-02-28
+13433533
+e:LeasedAssetsHeldAsLessee
+2025-03-01
+2026-02-28
+13433533
+e:CurrentFinancialInstruments
+2026-02-28
+13433533
+e:CurrentFinancialInstruments
+2025-02-28
+13433533
+e:Non-currentFinancialInstruments
+2026-02-28
+13433533
+e:Non-currentFinancialInstruments
+2025-02-28
+13433533
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2026-02-28
+13433533
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2025-02-28
+13433533
+e:ReportableOperatingSegment1
+2025-03-01
+2026-02-28
+13433533
+e:ReportableOperatingSegment1
+2024-03-01
+2025-02-28
+13433533
+f:UnitedKingdom
+2025-03-01
+2026-02-28
+13433533
+f:UnitedKingdom
+2024-03-01
+2025-02-28
+13433533
+e:UKTax
+2025-03-01
+2026-02-28
+13433533
+e:UKTax
+2024-03-01
+2025-02-28
+13433533
+e:ShareCapital
+2026-02-28
+13433533
+e:ShareCapital
+2025-02-28
+13433533
+e:ShareCapital
+2024-03-01
+13433533
+e:RetainedEarningsAccumulatedLosses
+2025-03-01
+2026-02-28
+13433533
+e:RetainedEarningsAccumulatedLosses
+2026-02-28
+13433533
+e:RetainedEarningsAccumulatedLosses
+2024-03-01
+2025-02-28
+13433533
+e:RetainedEarningsAccumulatedLosses
+2025-02-28
+13433533
+e:RetainedEarningsAccumulatedLosses
+2024-03-01
+13433533
+e:AcceleratedTaxDepreciationDeferredTax
+2026-02-28
+13433533
+e:AcceleratedTaxDepreciationDeferredTax
+2025-02-28
+13433533
+d:OrdinaryShareClass1
+2025-03-01
+2026-02-28
+13433533
+d:OrdinaryShareClass1
+2026-02-28
+13433533
+d:OrdinaryShareClass1
+2025-02-28
+13433533
+d:FRS102
+2025-03-01
+2026-02-28
+13433533
+d:Audited
+2025-03-01
+2026-02-28
+13433533
+d:FullAccounts
+2025-03-01
+2026-02-28
+13433533
+d:PrivateLimitedCompanyLtd
+2025-03-01
+2026-02-28
+13433533
+e:WithinOneYear
+2026-02-28
+13433533
+e:WithinOneYear
+2025-02-28
+13433533
+e:BetweenOneFiveYears
+2026-02-28
+13433533
+e:BetweenOneFiveYears
+2025-02-28
+13433533
+2
+2025-03-01
+2026-02-28
+13433533
+7
+2025-03-01
+2026-02-28
+13433533
+e:MotorVehicles
+e:LeasedAssetsHeldAsLessee
+2026-02-28
+13433533
+e:MotorVehicles
+e:LeasedAssetsHeldAsLessee
+2025-02-28
+13433533
+g:PoundSterling
+2025-03-01
+2026-02-28
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+13433533
+VEA GROUP LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+28 FEBRUARY 2026
+VEA GROUP LIMITED
+COMPANY INFORMATION
+Directors
+C Karemaker
+S Kitching
+M Nel
+Registered number
+13433533
+Registered office
+Venture House
+2 Arlington Square
+Downshire Way
+Bracknell
+Berkshire
+RG12 1WA
+Independent auditors
+Moore Kingston Smith LLP
+Chartered Accountants and Statutory Auditors
+4 Victoria Square
+St Albans
+Hertfordshire
+AL1 3TF
+VEA GROUP LIMITED
+CONTENTS
+Page
+Strategic report
+1 - 3
+Directors' report
+4 - 5
+Independent auditors' report
+6 - 11
+Statement of comprehensive income
+12
+Balance sheet
+13 - 14
+Statement of changes in equity
+15
+Statement of cash flows
+16
+Analysis of net debt
+17
+Notes to the financial statements
+18 - 29
+VEA GROUP LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+Introduction
+The Directors present their Strategic Report for VEA Group Limited together with the audited financial statements for the year ended 28 February 2026.
+During the year, the Company remained focused on telecommunications and utility infrastructure services. Through VEA Telecoms, it delivered end-to-end turnkey design, build, pre-enablement, home installation and maintenance services for telecom networks. VEA Civils also expanded its offering to support new clients across the wider multi-utility sector.
+Business review
+VEA Group continued to strengthen its position in the Fibre to the Home (FTTH) market. During the year, integrated FTTH operations exceeded 140,000 premises passed. By February 2026, maintenance services covered around 1.28 million premises and are expected to exceed 1.4 million by July 2026.
+VEA Civils delivered substantial civil engineering and pole access services and expanded its pre-enablement offering to additional clients. During the year, the division secured and completed its first project in the water sector. It also recorded encouraging order book growth for FY27, supported by stronger tender activity and improved win rates.
+During the year, the Company launched VEA FM and VEA Highways to pursue opportunities in the Facilities Management and Roads and Highways sectors. Both divisions have made a positive start.
+The Company reported turnover of £32.56 million (2025: £21.06 million) and operating profit of £9.80 million (2025: £3.29 million). Net assets increased to £11.56 million (2025: £4.13 million), reflecting continued investment and strong operational delivery.
+Page 1
+VEA GROUP LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+Principal risks and uncertainties
+The Directors have considered the key risks and uncertainties facing the business. A summary of the principal risks and the steps taken to mitigate them is set out below:
+Contract Management
+The Company’s operations are supported by long-term contracts that are periodically renewed or amended. Failure to renew these contracts, or reductions in scope, could create commercial risk.
+To mitigate this, the Company focuses on quality delivery, strong health and safety performance, and proactive client engagement, supported by a robust bidding and negotiation framework that has delivered positive outcomes to date.
+Skilled Workforce and Supply Chain Dependence
+Continued growth depends on access to skilled employees and dependable supply chain partners across the UK. The Company has invested in training, development and succession planning, and its recruitment strategy combines domestic and international hiring for key roles, supported by competitive pay and performance incentives.
+The Company also maintains strong relationships with preferred suppliers and subcontractors, pays promptly, and monitors performance closely to protect continuity of delivery.
+Health and Safety
+The Company undertakes inherently high-risk work, including confined space entry, working at height and handling hazardous materials. A strong safety-first culture is embedded across the business through rigorous policies, procedures and best-practice standards. Safety, Health, Environmental and Quality (SHEQ) teams operate within each division to provide oversight and assurance, while regular reporting keeps the Directors informed of safety performance and compliance.
+The Company successfully passed Stage 1 audits for ISO 9001, 14001 and 45001 and aims to achieve full certification following the Stage 2 audits scheduled for June 2026.
+Economic Environment
+Economic volatility may affect client investment decisions, which could in turn influence the volume of work awarded and the commercial terms agreed. The Company maintains regular dialogue with clients to identify and respond to emerging risks, while continuing to diversify its client base and service offering to strengthen resilience.
+Financial key performance indicators
+The Board monitors performance and strategic progress through both financial and non-financial KPIs. Core financial KPIs include:
+∙
+Revenue growth: £32,560,948 (
+2025: £
+21,059,192)
+∙
+Operating profit: £9,802,302 (
+2025: £
+3,294,504)
+∙
+Cash flow management
+∙
+Order book value
+Page 2
+VEA GROUP LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+Other key performance indicators
+Operational KPIs include:
+∙
+Monthly premises passed
+∙
+Service Level Agreement (SLA) compliance metrics
+∙
+Site safety performance, measured through internal assessments and client evaluation
+This report was approved by the board
+ and signed on its behalf
+.
+S Kitching
+Director
+Date: 
+26 June 2026
+Page 3
+VEA GROUP LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+28 February 2026
+.
+On 15 April 2025, the Company changed its name to Vea Group Limited (formerly Vea Telecoms UK Limited).
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Strategic report, the Directors' report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Principal activity
+The principal activity of the company is the installation and maintenance of telecommunication and other utility
+projects.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+C Karemaker
+S Kitching
+M Nel
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+ aware of that information.
+Page 4
+VEA GROUP LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+Auditors
+The auditor
+s
+, 
+Moore Kingston Smith LLP
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+S Kitching
+Director
+Date: 
+26 June 2026
+Page 5
+VEA GROUP LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF VEA GROUP LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Vea Group Limited (the 'Company')
+ for the 
+year
+ ended 
+28 February 2026
+, which comprise 
+the Statement of comprehensive income, the Analysis of net debt, the Balance sheet, the Statement of cash flows, the Statement of changes in equity
+ and notes to the financial statements, including significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+28 February 2026
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the FRC's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 6
+VEA GROUP LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF VEA GROUP LIMITED (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon.
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic report and the Directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic report and the Directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic report or the Directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Page 7
+VEA GROUP LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF VEA GROUP LIMITED (CONTINUED)
+Responsibilities of directors
+As explained more fully in the 
+Directors' responsibilities statement
+ set out on page 4, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or 
+have
+ no realistic alternative but to do so.
+Page 8
+VEA GROUP LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF VEA GROUP LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+As part of an audit in accordance with ISAs (UK) we exercise professional judgement and maintain professional scepticism throughout the audit. We also:
+∙
+Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+∙
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purposes of expressing an opinion on the effectiveness of the company’s internal control. 
+∙
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the directors. 
+∙
+Conclude on the appropriateness of the directors’ use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the company’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the company to cease to continue as a going concern.
+∙
+Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation. 
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit. 
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+The objectives of our audit in respect of fraud, are; to identify and assess the risks of material misstatement of the financial statements due to fraud; to obtain sufficient appropriate audit evidence regarding the assessed risks of material misstatement due to fraud, through designing and implementing appropriate responses to those
+Page 9
+VEA GROUP LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF VEA GROUP LIMITED (CONTINUED)
+assessed risks; and to respond appropriately to instances of fraud or suspected fraud identified during the audit. However, the primary responsibility for the prevention and detection of fraud rests with both management and those charged with governance of the company.
+Our approach was as follows:
+∙
+We obtained an understanding of the legal and regulatory requirements applicable to the company and considered that the most significant are [the Companies Act 2006, UK financial reporting standards as issued by the Financial Reporting Council, employment laws, GDPR and health & safety legislation.
+∙
+We obtained an understanding of how the company complies with these requirements by discussions with management and those charged with governance.
+∙
+We assessed the risk of material misstatement of the financial statements, including the risk of material misstatement due to fraud and how it might occur, by holding discussions with management and those charged with governance.
+∙
+We inquired of management and those charged with governance as to any known instances of non-compliance or suspected non-compliance with laws and regulations.
+∙
+Based on this understanding, we designed specific appropriate audit procedures to identify instances of non-compliance with laws and regulations. This included making enquiries of management and those charged with governance and obtaining additional corroborative evidence as required.
+Because of the inherent limitations of an audit, there is a risk that 
+we
+ will not detect all irregularities, including those leading to a material misstatement in the 
+financial statements
+ or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the 
+financial statements
+, as 
+we
+ will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Page 10
+VEA GROUP LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF VEA GROUP LIMITED (CONTINUED)
+Graham Wintle
+ (Senior statutory auditor)
+for and on behalf of
+Moore Kingston Smith LLP
+Chartered Accountants and Statutory Auditors
+4 Victoria Square
+St Albans
+Hertfordshire
+AL1 3TF
+29 June 2026
+Page 11
+VEA GROUP LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+28 FEBRUARY 2026
+2026
+2025
+£
+£
+Turnover
+4
+32,560,948
+21,059,192
+Cost of sales
+(
+18,495,305
+)
+(
+14,197,021
+)
+Gross profit
+14,065,643
+6,862,171
+Administrative expenses
+(
+4,263,341
+)
+(
+3,567,667
+)
+Operating profit
+5
+9,802,302
+3,294,504
+Interest receivable and similar income
+9
+152,872
+54,641
+Profit before tax
+9,955,174
+3,349,145
+Tax on profit
+10
+(
+2,525,206
+)
+(
+829,959
+)
+Profit for the financial year
+7,429,968
+2,519,186
+There was no other comprehensive income for 
+2026
+ (
+2025
+:
+£
+NIL
+).
+The notes on pages 18 to 29 form part of these 
+financial statements
+.
+Page 12
+VEA GROUP LIMITED
+REGISTERED NUMBER: 
+13433533
+BALANCE SHEET
+AS AT 
+28 FEBRUARY 2026
+2026
+2025
+Note
+£
+£
+Fixed assets
+Tangible assets
+11
+190,177
+278,177
+190,177
+278,177
+Current assets
+Stocks
+12
+19,955
+85,272
+Debtors
+13
+2,924,219
+2,282,968
+Cash at bank and in hand
+14
+12,689,126
+7,071,156
+15,633,300
+9,439,396
+Creditors: amounts falling due within one year
+15
+(
+4,202,340
+)
+(
+5,526,404
+)
+Net current assets
+11,430,960
+3,912,992
+Total assets less current liabilities
+11,621,137
+4,191,169
+Provisions for liabilities
+Deferred tax
+16
+(
+59,441
+)
+(
+59,441
+)
+(
+59,441
+)
+(
+59,441
+)
+Net assets
+11,561,696
+4,131,728
+Capital and reserves
+Called up share capital 
+17
+125
+125
+Profit and loss account
+11,561,571
+4,131,603
+11,561,696
+4,131,728
+Page 13
+VEA GROUP LIMITED
+REGISTERED NUMBER: 
+13433533
+BALANCE SHEET
+ (CONTINUED)
+AS AT 
+28 FEBRUARY 2026
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+S Kitching
+Director
+Date: 
+26 June 2026
+The notes on pages 18 to 29 form part of these financial statements.
+Page 14
+VEA GROUP LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+28 FEBRUARY 2026
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 March 2024
+125
+1,612,417
+1,612,542
+Comprehensive income for the year
+Profit for the year
+-
+2,519,186
+2,519,186
+At 1 March 2025
+125
+4,131,603
+4,131,728
+Comprehensive income for the year
+Profit for the year
+-
+7,429,968
+7,429,968
+At 28 February 2026
+125
+11,561,571
+11,561,696
+The notes on pages 18 to 29 form part of these 
+financial statements
+.
+Page 15
+VEA GROUP LIMITED
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+2026
+2025
+£
+£
+Cash flows from operating activities
+Profit for the financial year
+7,429,968
+2,519,186
+Adjustments for:
+Depreciation of tangible assets
+152,130
+133,454
+Interest received
+(
+152,872
+)
+(
+54,641
+)
+Taxation charge
+2,525,206
+829,959
+Decrease/(increase) in stocks
+65,317
+(
+82,147
+)
+(Increase)/decrease in debtors
+(
+660,970
+)
+36,543
+(Increase)/decrease in amounts owed by groups
+(
+60,722
+)
+-
+(Decrease)/increase in creditors
+(
+1,769,176
+)
+3,292,334
+Increase in amounts owed to groups
+62,344
+25,212
+Corporation tax (paid)
+(
+2,048,960
+)
+(
+910,417
+)
+Net cash generated from operating activities
+5,542,265
+5,789,483
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+64,130
+)
+(
+167,514
+)
+Interest received
+152,872
+54,641
+Net cash from investing activities
+88,742
+(
+112,873
+)
+Cash flows from financing activities
+Repayment of/new finance leases
+(
+13,037
+)
+(
+12,583
+)
+Net cash used in financing activities
+(
+13,037
+)
+(
+12,583
+)
+Net increase in cash and cash equivalents
+5,617,970
+5,664,027
+Cash and cash equivalents at beginning of year
+7,071,156
+1,407,129
+Cash and cash equivalents at the end of year
+12,689,126
+7,071,156
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+12,689,126
+7,071,156
+12,689,126
+7,071,156
+The notes on pages 18 to 29 form part of these 
+financial statements
+.
+Page 16
+VEA GROUP LIMITED
+ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+At 1 March 2025
+Cash flows
+At 28 February 2026
+£
+£
+£
+Cash at bank and in hand
+7,071,156
+5,617,970
+12,689,126
+Finance leases
+(15,580
+)
+13,037
+(2,543
+)
+7,055,576
+5,631,007
+12,686,583
+The notes on pages 18 to 29 form part of these 
+financial statements
+.
+Page 17
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+1.
+General information
+Vea Group Limited is a company limited by shares and incorporated in England & Wales under the Companies Act 2006 on 2 June 2021. On 15 April 2025, the Company changed its name to Vea Group Limited (formerly Vea Telecoms UK Limited). The address of the registered office is Venture House, 2 Arlington Square, Downshire Way, Bracknell, Berkshire, RG12 1WA.
+The principal activity of the company is the installation and maintenance of telecommunication and other utility projects.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgment
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following 
+principal
+accounting policies
+ have been applied:
+2.2
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Statement of comprehensive income
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+Page 18
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+2.
+Accounting policies (continued)
+2.3
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.4
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.5
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.6
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Page 19
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+2.
+Accounting policies (continued)
+2.6
+Tangible fixed assets (continued)
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Short-term leasehold property
+-
+2 years Straight line
+Plant and machinery
+-
+3 years Straight line
+Motor vehicles
+-
+5 years Straight line
+Fixtures and fittings
+-
+5 years Straight line
+Computer equipment
+-
+3 years Straight line
+Computer software
+-
+1 year Straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.7
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.8
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.9
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+In the 
+Statement of cash flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+Company
+'s cash management.
+2.10
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+Page 20
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+2.
+Accounting policies (continued)
+2.11
+Holiday pay accrual
+A liability is recognised to the extent of any unused holiday pay entitlement which is accrued at the 
+balance sheet date
+ and carried forward to future periods. This is measured at the undiscounted salary cost of the future holiday entitlement so accrued at the 
+balance sheet date
+.
+2.12
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.13
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+Balance sheet
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Company's
+ cash and cash equivalents, trade and most other debtors due with the operating cycle fall into this category of financial instruments.
+Impairment of financial assets
+At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss. 
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+Page 21
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+2.
+Accounting policies (continued)
+2.13
+Financial instruments (continued)
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Basic financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other creditors, bank loans
+ and
+ other loans are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade creditors are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade creditors are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+The preparation of the financial statements requires management to make judgments, estimates and assumptions that affect the amounts reported for assets and liabilities as at the balance sheet date and the amounts reported for revenues and expenses during the period. The nature of estimation means the actual outcomes could differ from those estimates. 
+The directors consider the stage of completion of each job to be a key estimate in the financial statements. The stage of completion is used in the calculation of the accrued income. 
+Page 22
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2026
+2025
+£
+£
+Sales
+32,560,948
+21,059,192
+32,560,948
+21,059,192
+2026
+2025
+£
+£
+United Kingdom
+32,560,948
+21,059,192
+32,560,948
+21,059,192
+All turnover arose 
+within the United Kingdom
+.
+5.
+Operating profit
+The operating profit is stated after charging:
+2026
+2025
+£
+£
+Exchange differences
+62,344
+21,246
+6.
+Auditors' remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditors
+:
+2026
+2025
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+16,835
+16,250
+Fees payable to the Company's auditors in respect of:
+All non-audit services not included above
+4,665
+5,000
+Page 23
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+7.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2026
+2025
+£
+£
+Wages and salaries
+8,039,771
+7,012,234
+Social security costs
+1,199,105
+533,698
+Cost of defined contribution scheme
+227,024
+115,201
+9,465,900
+7,661,133
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2026
+2025
+No.
+No.
+Employees
+127
+104
+8.
+Directors' remuneration
+2026
+2025
+£
+£
+Directors' emoluments
+2,756,100
+2,633,468
+Company contributions to defined contribution pension schemes
+90,816
+16,210
+2,846,916
+2,649,678
+During the 
+year
+ retirement benefits were accruing to 
+2
+directors
+ (2025 - 
+2
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+1,145,589
+ (2025 - £
+1,145,812
+)
+.
+The value of the 
+Company
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+45,708
+ (2025 - £
+8,158
+)
+.
+9.
+Interest receivable
+2026
+2025
+£
+£
+Other interest receivable
+152,872
+54,641
+152,872
+54,641
+Page 24
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+10.
+Taxation
+2026
+2025
+£
+£
+Corporation tax
+Current tax on profits for the year
+2,525,206
+829,959
+2,525,206
+829,959
+Total current tax
+2,525,206
+829,959
+Deferred tax
+Total deferred tax
+-
+-
+Tax on profit
+2,525,206
+829,959
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+higher than
+ (2025 - lower than) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2025 - 
+25
+%)
+. The differences are explained below:
+2026
+2025
+£
+£
+Profit on ordinary activities before tax
+9,955,174
+3,349,145
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2025 - 25%)
+2,488,794
+837,286
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+1,485
+550
+Capital allowances for year in excess of depreciation
+22,000
+(
+8,514
+)
+Changes in provisions leading to an increase (decrease) in the tax charge
+12,927
+637
+Total tax charge for the year
+2,525,206
+829,959
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+Page 25
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+11.
+Tangible fixed assets
+Short-term leasehold property
+Plant and machinery
+Motor vehicles
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 March 2025
+5,280
+422,505
+72,690
+2,394
+29,064
+531,933
+Additions
+-
+57,547
+-
+-
+6,583
+64,130
+Disposals
+-
+-
+-
+-
+(
+349
+)
+(
+349
+)
+At 28 February 2026
+5,280
+480,052
+72,690
+2,394
+35,298
+595,714
+Depreciation
+At 1 March 2025
+2,640
+211,554
+20,864
+872
+17,826
+253,756
+Charge for the year on owned assets
+2,640
+128,368
+4,955
+479
+8,340
+144,782
+Charge for the year on financed assets
+-
+-
+7,348
+-
+-
+7,348
+Disposals
+-
+-
+-
+-
+(
+349
+)
+(
+349
+)
+At 28 February 2026
+5,280
+339,922
+33,167
+1,351
+25,817
+405,537
+Net book value
+At 28 February 2026
+-
+140,130
+39,523
+1,043
+9,481
+190,177
+At 28 February 2025
+2,640
+210,951
+51,826
+1,522
+11,238
+278,177
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+2026
+2025
+£
+£
+Motor vehicles
+21,308
+28,656
+Page 26
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+12.
+Stocks
+2026
+2025
+£
+£
+Raw materials and consumables
+19,955
+85,272
+19,955
+85,272
+13.
+Debtors
+2026
+2025
+£
+£
+Due after more than one year
+Other debtors
+24,432
+32,332
+2,673,105
+2,143,351
+Due within one year
+Trade debtors
+2,648,673
+2,111,019
+Amounts owed by group undertakings
+60,722
+-
+Other debtors
+63,101
+6,082
+Prepayments and accrued income
+127,291
+53,094
+Tax recoverable
+-
+80,441
+2,924,219
+2,282,968
+14.
+Cash and cash equivalents
+2026
+2025
+£
+£
+Cash at bank and in hand
+12,689,126
+7,071,156
+Page 27
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+15.
+Creditors: Amounts falling due within one year
+2026
+2025
+£
+£
+Trade creditors
+1,187,920
+1,485,741
+Amounts owed to group undertakings
+717,470
+655,126
+Corporation tax
+395,805
+-
+Other taxation and social security
+708,786
+707,266
+Obligations under finance lease and hire purchase contracts
+2,543
+15,580
+Other creditors
+61,046
+46,783
+Accruals and deferred income
+1,128,770
+2,615,908
+4,202,340
+5,526,404
+16.
+Deferred taxation
+2026
+£
+At beginning of year
+(
+59,441
+)
+At end of year
+(
+59,441
+)
+The 
+provision for deferred taxation
+ is made up as follows:
+2026
+2025
+£
+£
+Accelerated capital allowances
+(
+59,441
+)
+(
+59,441
+)
+(
+59,441
+)
+(
+59,441
+)
+17.
+Share capital
+2026
+2025
+£
+£
+Allotted, called up and fully paid
+12,500
+ (2025 - 
+12,500
+)
+Ordinary
+shares of
+£
+0.01
+ each
+125
+125
+Page 28
+VEA GROUP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 28 FEBRUARY 2026
+18.
+Pension commitments
+Pension commitments paid in the period totalled £227,024 
+(2025: £118,816)
+. At the period end pension commitments of £27,219 
+(2025: £23,529)
+ were outstanding. 
+19.
+Commitments under operating leases
+At 
+28 February 2026
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2026
+2025
+£
+£
+Not later than 1 year
+39,241
+132,006
+Later than 1 year and not later than 5 years
+-
+39,241
+39,241
+171,247
+20.
+Related party transactions
+There is an intercompany loan of £615,472 
+(2025: £562,152)
+ due to the parent company. There is no repayment terms on this loan and it is repayable upon demand. There is also a creditor balance due to the parent company at the year end of £101,998 (
+2025: £92,974
+).
+There were transactions with Vea Group Holdings (Pty) during the year. These transactions were carried out at arms length and therefore the directors have elected not to disclose.
+There is a loan of £56,000 (
+2025: £Nil
+) due from Titan Secure Limited, a group company, at the year end. There is no repayment terms on this loan and it is repayable upon demand. There is also a debtor balance due from the group company at the year end of £4,722 (
+2025: £Nil
+).
+Marno Nel, a director of Vea Telecoms UK Limited, has a staff loan due to the company at the year of £385 (
+2025: £Nil
+). There is no interest on the loan.
+During the year, close family members of the director's were employed by the Company and received remuneration of £36,518 (
+2025: £33,124
+).
+21.
+Controlling party
+VEA Group Limited is a subsidiary of VEA Group Holdings (Pty), which is the ultimate controlling party.
+Consolidated financial statements are prepared by Vea Group Holdings (Pty). Its registered address in South Africa is:
+Plot 107
+3 Erasmus Street
+Mnandi AH
+Centurion
+0157
+Page 29

@@ -1,0 +1,1360 @@
+
+A-2-Sea Solutions Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v24.1.4.33
+03223673
+Board of Directors
+1.10.22
+30.9.23
+30.9.23
+other telecommunications activities.
+true
+false
+true
+true
+false
+false
+true
+false
+Ordinary A shares
+1.00000
+Ordinary C non-voting shares
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+03223673
+2022-09-30
+03223673
+2023-09-30
+03223673
+2022-10-01
+2023-09-30
+03223673
+2021-09-30
+03223673
+2021-10-01
+2022-09-30
+03223673
+2022-09-30
+03223673
+ns15:EnglandWales
+2022-10-01
+2023-09-30
+03223673
+ns14:PoundSterling
+2022-10-01
+2023-09-30
+03223673
+ns10:Director1
+2022-10-01
+2023-09-30
+03223673
+ns10:PrivateLimitedCompanyLtd
+2022-10-01
+2023-09-30
+03223673
+ns10:FRS102
+2022-10-01
+2023-09-30
+03223673
+ns10:Audited
+2022-10-01
+2023-09-30
+03223673
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2022-10-01
+2023-09-30
+03223673
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+2022-10-01
+2023-09-30
+03223673
+ns10:FullAccounts
+2022-10-01
+2023-09-30
+03223673
+ns10:OrdinaryShareClass1
+2022-10-01
+2023-09-30
+03223673
+ns10:OrdinaryShareClass2
+2022-10-01
+2023-09-30
+03223673
+ns10:Director2
+2022-10-01
+2023-09-30
+03223673
+ns10:Director3
+2022-10-01
+2023-09-30
+03223673
+ns10:CompanySecretary1
+2022-10-01
+2023-09-30
+03223673
+ns10:RegisteredOffice
+2022-10-01
+2023-09-30
+03223673
+ns10:Director4
+2022-10-01
+2023-09-30
+03223673
+ns5:RetainedEarningsAccumulatedLosses
+2022-09-30
+03223673
+ns5:RetainedEarningsAccumulatedLosses
+2021-09-30
+03223673
+ns5:RetainedEarningsAccumulatedLosses
+2022-10-01
+2023-09-30
+03223673
+ns5:RetainedEarningsAccumulatedLosses
+2021-10-01
+2022-09-30
+03223673
+ns5:CurrentFinancialInstruments
+2023-09-30
+03223673
+ns5:CurrentFinancialInstruments
+2022-09-30
+03223673
+ns5:LeaseholdImprovements
+2022-10-01
+2023-09-30
+03223673
+ns5:PlantMachinery
+2022-10-01
+2023-09-30
+03223673
+ns5:FurnitureFittings
+2022-10-01
+2023-09-30
+03223673
+ns5:MotorVehicles
+2022-10-01
+2023-09-30
+03223673
+ns5:ComputerEquipment
+2022-10-01
+2023-09-30
+03223673
+ns5:ReportableOperatingSegment1
+2022-10-01
+2023-09-30
+03223673
+ns5:ReportableOperatingSegment1
+2021-10-01
+2022-09-30
+03223673
+ns5:ReportableOperatingSegment2
+2022-10-01
+2023-09-30
+03223673
+ns5:ReportableOperatingSegment2
+2021-10-01
+2022-09-30
+03223673
+ns5:ReportableOperatingSegment3
+2022-10-01
+2023-09-30
+03223673
+ns5:ReportableOperatingSegment3
+2021-10-01
+2022-09-30
+03223673
+ns5:ReportableOperatingSegment4
+2022-10-01
+2023-09-30
+03223673
+ns5:ReportableOperatingSegment4
+2021-10-01
+2022-09-30
+03223673
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2022-10-01
+2023-09-30
+03223673
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2021-10-01
+2022-09-30
+03223673
+ns15:UnitedKingdom
+2022-10-01
+2023-09-30
+03223673
+ns15:UnitedKingdom
+2021-10-01
+2022-09-30
+03223673
+ns15:Europe
+2022-10-01
+2023-09-30
+03223673
+ns15:Europe
+2021-10-01
+2022-09-30
+03223673
+ns15:UnitedStates
+2022-10-01
+2023-09-30
+03223673
+ns15:UnitedStates
+2021-10-01
+2022-09-30
+03223673
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2022-10-01
+2023-09-30
+03223673
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2021-10-01
+2022-09-30
+03223673
+ns5:OwnedAssets
+2022-10-01
+2023-09-30
+03223673
+ns5:OwnedAssets
+2021-10-01
+2022-09-30
+03223673
+11
+2022-10-01
+2023-09-30
+03223673
+11
+2021-10-01
+2022-09-30
+03223673
+ns10:OrdinaryShareClass1
+2021-10-01
+2022-09-30
+03223673
+ns5:LeaseholdImprovements
+2022-09-30
+03223673
+ns5:PlantMachinery
+2022-09-30
+03223673
+ns5:FurnitureFittings
+2022-09-30
+03223673
+ns5:LeaseholdImprovements
+2023-09-30
+03223673
+ns5:PlantMachinery
+2023-09-30
+03223673
+ns5:FurnitureFittings
+2023-09-30
+03223673
+ns5:LeaseholdImprovements
+2022-09-30
+03223673
+ns5:PlantMachinery
+2022-09-30
+03223673
+ns5:FurnitureFittings
+2022-09-30
+03223673
+ns5:MotorVehicles
+2022-09-30
+03223673
+ns5:ComputerEquipment
+2022-09-30
+03223673
+ns5:MotorVehicles
+2023-09-30
+03223673
+ns5:ComputerEquipment
+2023-09-30
+03223673
+ns5:MotorVehicles
+2022-09-30
+03223673
+ns5:ComputerEquipment
+2022-09-30
+03223673
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-09-30
+03223673
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-09-30
+03223673
+ns5:WithinOneYear
+2023-09-30
+03223673
+ns5:WithinOneYear
+2022-09-30
+03223673
+ns5:BetweenOneFiveYears
+2023-09-30
+03223673
+ns5:BetweenOneFiveYears
+2022-09-30
+03223673
+ns5:AllPeriods
+2023-09-30
+03223673
+ns5:AllPeriods
+2022-09-30
+03223673
+ns5:DeferredTaxation
+2022-09-30
+03223673
+ns5:DeferredTaxation
+2022-10-01
+2023-09-30
+03223673
+ns5:DeferredTaxation
+2023-09-30
+03223673
+ns10:OrdinaryShareClass1
+2023-09-30
+03223673
+ns10:OrdinaryShareClass2
+2023-09-30
+03223673
+ns5:SharePremium
+2022-09-30
+03223673
+ns5:RetainedEarningsAccumulatedLosses
+2023-09-30
+03223673
+ns5:SharePremium
+2023-09-30
+REGISTERED NUMBER: 
+03223673
+(England and Wales) 
+A-2-SEA SOLUTIONS LIMITED
+STRATEGIC REPORT, REPORT OF THE DIRECTORS AND
+ FINANCIAL STATEMENTS
+ FOR THE YEAR ENDED 30 SEPTEMBER 2023
+Hopper Williams & Bell Limited
+Statutory Auditor
+Highland House
+Mayflower Close
+Chandler's Ford
+Eastleigh
+Hampshire
+SO53 4AR
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Directors  
+4
+Report of the Independent Auditors  
+6
+Statement of Income and Retained Earnings  
+10
+Balance Sheet  
+11
+Notes to the Financial Statements 
+12
+A-2-SEA SOLUTIONS LIMITED
+COMPANY INFORMATION 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+DIRECTORS:
+D R Coughlan
+J E Geisler
+Mrs S Baxter
+SECRETARY:
+Ms M Brereton
+REGISTERED OFFICE:
+Unit 15
+Romsey Industrial Estate
+Romsey
+Hampshire
+SO51 0HR
+REGISTERED NUMBER:
+03223673
+(England and Wales) 
+AUDITORS:
+Hopper Williams & Bell Limited
+Statutory Auditor
+Highland House
+Mayflower Close
+Chandler's Ford
+Eastleigh
+Hampshire
+SO53 4AR
+Page 1
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+STRATEGIC REPORT 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+The directors present their strategic report for the year ended 29 September 2023.
+A-2-Sea delivers expert cable and survey solutions to the global subsea community through provision of products and 
+services:
+1) Supply of specialised subsea fibre optic cable jointing equipment for the telecommunications industry
+2) Shallow water and short haul subsea fibre optic cable installation and repair operations
+3) Emergency call-out repair for subsea fibre optic cable beach and land cable segments, including jointing and testing 
+services
+4) Hydrographic and geophysical survey services for both cable and the subsea telecommunications and offshore renewables 
+industries
+REVIEW OF BUSINESS
+A-2-Sea returned strong growth in FY 2023. Company revenue and profit margins have increased since the previous year. 
+The company has focused on reducing project costs and improving profit margin. In FY 2023 the Net profit margin 
+percentage has increased by 75%, compared to the previous year and the company is forecasting a further increase in FY 
+2024.
+The company has increased it's profit level during the year by placing significant emphasis on financial forecasting and 
+planning processes. The company's performance exceeded the financial targets outlined in the annual forecast budget. 
+Performance was related to good project execution and close financial management, no loans or investment have been 
+required.
+PRINCIPAL RISKS AND UNCERTAINTIES
+Detailed project planning and good execution remain key in minimising risk and uncertainty. Cashflow and liquidity are 
+managed monthly and is considered carefully at the project bid and contract award stages. The industries in which the 
+company operate are buoyant and there is sufficient demand for our services.
+FINANCIAL KEY PERFORMANCE INDICATORS
+A detailed annual forecast budget was approved by the company board 2 months prior to the start of FY 2023. Management 
+accounts were produced monthly and compared against the company forecast budget. Monthly company performance and 
+comparison to the forecast budget were presented to the company's senior managers on a monthly basis for strategic 
+discussion an input to monthly or quarterly objectives.
+During the year, the following performance indicators were reviewed and monitored:
+- Turnover has increased by 30% from FY 2022 to FY 2023.
+- Gross profit margin has increased from 31% (FY 2022) to 47% (FY 2023). This is an increase of 51%
+- Earnings before interest, taxes, depreciation and amortisation has increased from 24% (FY 2022) to 41% (FY 2023). This 
+is an increase of 70%.
+Revenue and profit performance in FY 2023 exceeded the FY 2023 forecast budget. The company is on track to also exceed 
+the FY 2024 forecast budget for FY2024.
+Page 2
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+STRATEGIC REPORT 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+FUTURE OUTLOOK
+We continue to invest in people, equipment and processes to support our growth plans and development of technology.
+ON BEHALF OF THE BOARD:
+Mrs S Baxter
+- Director 
+28 June 2024
+Page 3
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+REPORT OF THE DIRECTORS 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+The directors present their report with the financial statements of the company for the period ended 29 September 2023. This 
+is the final Friday of the month in line with group reporting.
+DIVIDENDS
+The total distribution of dividends for the year ended 30 September 2023 was £3,832,694 (2022: £nil).
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 October 2022 to the date of this report. 
+D R Coughlan
+J E Geisler
+Other changes in directors holding office are as follows: 
+Mrs S Baxter
+was appointed as a director after 30 September 2023 but prior to the date of this report. 
+T M Lynch
+ceased to be a director after 30 September 2023 but prior to the date of this report. 
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements in 
+accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors have 
+elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice 
+(United Kingdom Accounting Standards and applicable law). Under company law the directors must not approve the 
+financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of 
+the profit or loss of the company for that period.  In preparing these financial statements, the directors are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's 
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to 
+ensure that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the 
+assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 4
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+REPORT OF THE DIRECTORS 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and each director has taken all the steps that he or she ought to have 
+taken as a director in order to make himself or herself aware of any relevant audit information and to establish that the 
+company's auditors are aware of that information. 
+ON BEHALF OF THE BOARD:
+Mrs S Baxter
+- Director 
+28 June 2024
+Page 5
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+A-2-SEA SOLUTIONS LIMITED
+Opinion
+We have audited the financial statements of A-2-Sea Solutions Limited (the 'company') for the year ended 
+30 September 2023 which comprise the Statement of Income and Retained Earnings, Balance Sheet and Notes to the 
+Financial Statements, including a summary of significant accounting policies. The financial reporting framework that has 
+been applied in their preparation is applicable law and United Kingdom Accounting Standards, including Financial 
+Reporting Standard 102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom 
+Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 30 September 2023 and of its profit for the year then 
+ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our 
+responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the financial 
+statements section of our report.  We are independent of the company in accordance with the ethical requirements that are 
+relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our 
+other ethical responsibilities in accordance with these requirements.  We believe that the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the 
+preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, 
+individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a period 
+of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic 
+Report and the Report of the Directors, but does not include the financial statements and our Report of the Auditors thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly 
+stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, 
+consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in 
+the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material 
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements 
+themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other 
+information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for which the financial 
+statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal requirements.
+Page 6
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+A-2-SEA SOLUTIONS LIMITED
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we 
+have not identified material misstatements in the Strategic Report or the Report of the Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if, 
+in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches 
+not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page four, the directors are responsible for 
+the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal 
+control as the directors determine necessary to enable the preparation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a going 
+concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless 
+the directors either intend to liquidate the company or to cease operations, or have no realistic alternative but to do so. 
+Page 7
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+A-2-SEA SOLUTIONS LIMITED
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion.  Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will 
+always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material 
+if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on 
+the basis of these financial statements. 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with 
+our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. Due to the 
+inherent limitations of an audit, there is a risk that we will not detect all irregularities even though the audit has been properly 
+planned and performed in accordance with the ISAs (UK). The extent to which our procedures are capable of detecting 
+irregularities, including fraud is detailed below:
+- We obtained an understanding of the legal and regulatory frameworks that are applicable to the company, and the industry 
+in which it operates. These include but are not limited to compliance with the Companies Act 2006, UK Generally Accepted 
+Accounting Practice and the relevant tax compliance regulations for the company.
+- We obtained an understanding of how the company is complying with these frameworks through discussions with 
+management.
+- We enquired with management whether there were any instances of non-compliance with laws and regulations or whether 
+they had knowledge of actual or suspected fraud. These enquiries are corroborated through follow-up audit procedures 
+including but not limited to a review of minutes of meetings,  legal and professional costs and other correspondence.
+- We assessed the susceptibility of the company's financial statements to material misstatement, including the risk of fraud 
+and management override of controls. We designed our audit procedures to respond to this assessment, including the 
+identification and testing of any related party transactions and the testing of journal transactions that arise from management 
+estimates, that are determined to be of significant value or unusual in their nature.
+- We assessed the appropriateness of the collective competence and capabilities of the engagement team, including 
+consideration of the engagement team's knowledge and understanding of the industry in which the company operates in, and 
+their practical experience through training and participation with audit engagements of a similar nature.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Page 8
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+A-2-SEA SOLUTIONS LIMITED
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies 
+Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters we are 
+required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent permitted by law, we do 
+not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit 
+work, for this report, or for the opinions we have formed. 
+Michaela Johns
+(Senior Statutory Auditor) 
+for and on behalf of 
+Hopper Williams & Bell Limited
+Statutory Auditor
+Highland House
+Mayflower Close
+Chandler's Ford
+Eastleigh
+Hampshire
+SO53 4AR
+28 June 2024
+Page 9
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+STATEMENT OF INCOME AND RETAINED EARNINGS 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+2023
+2022
+Notes
+£
+£
+TURNOVER
+3
+17,817,082
+13,676,423
+Cost of sales
+(
+9,453,187
+)
+(
+9,480,789
+)
+GROSS PROFIT
+8,363,895
+4,195,634
+Administrative expenses
+(
+1,615,692
+)
+(
+1,316,368
+)
+6,748,203
+2,879,266
+Other operating income
+-
+500
+OPERATING PROFIT
+5
+6,748,203
+2,879,766
+Interest receivable and similar income 
+6
+14,102
+479
+PROFIT BEFORE TAXATION 
+6,762,305
+2,880,245
+Tax on profit
+7
+(
+1,489,747
+)
+(
+597,166
+)
+PROFIT FOR THE FINANCIAL YEAR 
+5,272,558
+2,283,079
+Retained earnings at beginning of year 
+5,718,116
+3,435,037
+Dividends
+8
+(
+3,832,694
+)
+-
+RETAINED EARNINGS AT END OF 
+YEAR 
+7,157,980
+5,718,116
+The notes form part of these financial statements
+Page 10
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+BALANCE SHEET 
+30 SEPTEMBER 2023
+2023
+2022
+Notes
+£
+£
+FIXED ASSETS
+Tangible assets
+9
+991,471
+1,380,080
+CURRENT ASSETS
+Stocks
+10
+367,415
+42,125
+Debtors
+11
+6,746,530
+3,377,691
+Cash at bank and in hand
+4,595,937
+3,045,731
+11,709,882
+6,465,547
+CREDITORS
+Amounts falling due within one year 
+12
+(
+5,357,188
+)
+(
+1,854,397
+)
+NET CURRENT ASSETS
+6,352,694
+4,611,150
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+7,344,165
+5,991,230
+PROVISIONS FOR LIABILITIES
+14
+(
+186,009
+)
+(
+272,938
+)
+NET ASSETS
+7,158,156
+5,718,292
+CAPITAL AND RESERVES
+Called up share capital
+15
+101
+101
+Share premium
+16
+75
+75
+Retained earnings
+16
+7,157,980
+5,718,116
+SHAREHOLDERS' FUNDS
+7,158,156
+5,718,292
+The financial statements were approved by the Board of Directors and authorised for issue on 
+28 June 2024
+and were signed 
+on its behalf by: 
+Mrs S Baxter
+- Director 
+The notes form part of these financial statements
+Page 11
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+1.
+STATUTORY INFORMATION
+A-2-Sea Solutions Limited is a 
+private company, limited by shares
+, registered in England and Wales. The company's 
+registered number and registered office address can be found on the Company Information page. 
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with FRS102 "The Financial Reporting Standards 
+applicable in the UK and Republic of Ireland" ("FRS 102") and the requirements of the Companies Act 2006 as 
+applicable to companies subject to the small companies regime.
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary 
+amounts in these financial statements are rounded to the nearest £1.
+The financial statements have been prepared under the historical cost convention, modified to include certain 
+financial instruments at fair value. The principal accounting policies adopted are set out below.
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemption in preparing these financial statements, as 
+permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland": 
+•
+the requirements of Section 7 Statement of Cash Flows. 
+Related party exemption
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 102 'The Financial 
+Reporting Standard applicable in the UK and Republic of Ireland', not to disclose related party transactions with 
+wholly owned subsidiaries within the group.
+Turnover
+Turnover is measured at the fair value of consideration received or receivable, net of discounts and value added 
+taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services.
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods have 
+transferred to the buyer.
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The 
+stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total 
+estimated contract costs.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Improvements to property
+- 
+Straight line over 5 years
+Plant and machinery
+- 
+Straight line over 3 years
+Vessels Plant & Equipment
+-   
+Straight line over 3 years and Straight line over 20 years
+Motor vehicles
+- 
+Straight line over 5 years
+Computer equipment
+- 
+Straight line over 5 years
+Stocks
+Stocks are measured at the lower of cost and estimated selling price less costs to complete and sell. Cost is 
+determined using the first in first out method. The carrying amount of stock sold is recognised as an expense in the 
+period in which the related revenue is recognised.
+Page 12
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+2.
+ACCOUNTING POLICIES - continued
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to the 
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will 
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Foreign currencies
+Assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at the balance 
+sheet date.  Transactions in foreign currencies are translated into sterling at the rate of exchange ruling at the date of 
+transaction. Exchange differences are taken into account in arriving at the operating result.
+Pension costs and other post-retirement benefits
+Contribution to defined contribution plans are expenses in the period in which they relate.
+3.
+TURNOVER
+The turnover and profit before taxation are attributable to the one principal activity of the company. 
+An analysis of turnover by class of business is given below: 
+2023
+2022
+£
+£
+Design Development Manufacture
+4,374,949
+1,802,700
+Cable Maintenance
+392,650
+395,850
+Cable Installation
+6,989,136
+2,018,478
+Hydrographic Survey
+6,060,347
+9,459,395
+17,817,082
+13,676,423
+Page 13
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+3.
+TURNOVER - continued
+An analysis of turnover by geographical market is given below: 
+2023
+2022
+£
+£
+United Kingdom
+6,775,454
+6,275,914
+Europe
+2,341,878
+490,709
+United States of America
+7,630,494
+6,871,455
+Rest of the world
+1,069,256
+38,345
+17,817,082
+13,676,423
+4.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£
+£
+Wages and salaries
+2,173,775
+2,017,083
+Social security costs
+229,815
+228,080
+Other pension costs
+53,352
+71,977
+2,456,942
+2,317,140
+The average number of employees during the year was as follows: 
+2023
+2022
+Management
+4
+4
+Admin
+8
+6
+Projects
+39
+37
+51
+47
+2023
+2022
+£
+£
+Directors' remuneration
+-
+-
+5.
+OPERATING PROFIT
+The operating profit is stated after charging/(crediting):
+2023
+2022
+£
+£
+Depreciation - owned assets
+509,128
+435,540
+Loss/(profit) on disposal of fixed assets
+8,615
+(
+25,000
+)
+Auditors' remuneration
+14,850
+13,500
+Foreign exchange differences
+(
+271,498
+)
+(
+144,478
+)
+Operating leases - rent   
+107,992
+88,808
+Page 14
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+6.
+INTEREST RECEIVABLE AND SIMILAR INCOME 
+2023
+2022
+£
+£
+Deposit account interest
+14,102
+479
+7.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+2023
+2022
+£
+£
+Current tax:
+UK corporation tax
+1,576,676
+429,527
+Prior year over/under provision 
+-
+87,091
+Total current tax
+1,576,676
+516,618
+Deferred tax
+(
+86,929
+)
+80,548
+Tax on profit
+1,489,747
+597,166
+UK corporation tax has been charged at 
+25
+% . 
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The difference is explained 
+below: 
+2023
+2022
+£
+£
+Profit before tax
+6,762,305
+2,880,245
+Profit multiplied by the standard rate of corporation tax in the UK of 
+25
+% 
+(2022 - 
+19
+%)  
+1,690,576
+547,247
+Effects of:
+Expenses not deductible for tax purposes
+(
+36,123
+)
+79,557
+Capital allowances in excess of depreciation
+-
+(
+35,409
+)
+Adjustments to tax charge in respect of previous periods 
+-
+(
+87,091
+)
+Change in corporation tax rate   
+(213,963
+)
+-
+Deferred tax movement   
+-
+80,548
+Depreciation of non-qualifying assets  
+49,257
+12,314
+Total tax charge
+1,489,747
+597,166
+Page 15
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+8.
+DIVIDENDS
+2023
+2022
+£
+£
+Ordinary A shares shares of 1 each 
+Interim
+3,832,694
+-
+9.
+TANGIBLE FIXED ASSETS
+Vessels
+Improvements
+Plant and
+Plant &
+to property
+machinery
+Equipment
+£
+£
+£
+COST
+At 1 October 2022
+245,853
+1,140,327
+1,160,345
+Additions
+-
+109,622
+-
+Disposals
+-
+(
+13,981
+)
+-
+At 30 September 2023
+245,853
+1,235,968
+1,160,345
+DEPRECIATION
+At 1 October 2022
+151,175
+725,569
+420,884
+Charge for year 
+39,345
+193,654
+231,253
+Eliminated on disposal
+-
+(
+3,280
+)
+-
+At 30 September 2023
+190,520
+915,943
+652,137
+NET BOOK VALUE
+At 30 September 2023
+55,333
+320,025
+508,208
+At 30 September 2022
+94,678
+414,758
+739,461
+Page 16
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+9.
+TANGIBLE FIXED ASSETS - continued
+Motor
+Computer
+vehicles
+equipment
+Totals
+£
+£
+£
+COST
+At 1 October 2022
+79,755
+246,443
+2,872,723
+Additions
+-
+21,598
+131,220
+Disposals
+-
+-
+(
+13,981
+)
+At 30 September 2023
+79,755
+268,041
+2,989,962
+DEPRECIATION
+At 1 October 2022
+27,147
+167,868
+1,492,643
+Charge for year 
+10,700
+34,176
+509,128
+Eliminated on disposal
+-
+-
+(
+3,280
+)
+At 30 September 2023
+37,847
+202,044
+1,998,491
+NET BOOK VALUE
+At 30 September 2023
+41,908
+65,997
+991,471
+At 30 September 2022
+52,608
+78,575
+1,380,080
+10.
+STOCKS
+2023
+2022
+£
+£
+Stocks
+255,665
+42,125
+Work-in-progress
+111,750
+-
+367,415
+42,125
+11.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£
+£
+Trade debtors
+5,219,318
+111,284
+Amounts owed by group undertakings
+67,340
+75,697
+Amounts recoverable on contract 
+1,007,455
+3,041,449
+Other debtors
+20,427
+-
+Prepayments and accrued income
+431,990
+149,261
+6,746,530
+3,377,691
+Page 17
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+12.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£
+£
+Trade creditors
+914,565
+260,617
+Tax
+684,694
+429,527
+Social security and other taxes 
+514,449
+312,048
+Other creditors
+7,667
+2,696
+Accruals and deferred income
+3,235,813
+849,509
+5,357,188
+1,854,397
+13.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows: 
+2023
+2022
+£
+£
+Within one year
+87,613
+106,845
+Between one and five years
+-
+87,613
+87,613
+194,458
+14.
+PROVISIONS FOR LIABILITIES
+2023
+2022
+£
+£
+Deferred tax
+186,009
+272,938
+Deferred tax
+£
+Balance at 1 October 2022
+272,938
+Utilised during year
+(
+86,929
+)
+Balance at 30 September 2023
+186,009
+15.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£
+£
+100
+Ordinary A shares
+1
+100
+100
+1
+Ordinary C non-voting shares
+1
+1
+1
+101
+101
+Each class of share ranks equally for dividends declared in its class.
+Page 18
+continued...
+A-2-SEA SOLUTIONS LIMITED (REGISTERED NUMBER: 03223673)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+16.
+RESERVES
+Retained
+Share
+earnings
+premium
+Totals
+£
+£
+£
+At 1 October 2022
+5,718,116
+75
+5,718,191
+Profit for the year 
+5,272,558
+5,272,558
+Dividends
+(
+3,832,694
+)
+(
+3,832,694
+)
+At 30 September 2023
+7,157,980
+75
+7,158,055
+17.
+ULTIMATE CONTROLLING PARTY
+The directors regard Subcom LLC to be the immediate parent undertaking by virtue of holding 100% of the issued 
+shares and the smallest group for which consolidated accounts are available.
+A copy of the consolidated financial statements can be obtained from 250 Industrial Way West, Eatontown, New 
+Jersey, 07724, USA.
+The directors do not consider there to be an ultimate controlling party.
+Page 19

@@ -1,0 +1,1005 @@
+
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2024-02-29
+2024-02-29
+2024-05-30
+2024-05-31
+false
+74
+2023-03-01
+Fibre Telecommunications installation
+54
+false
+true
+false
+13433533
+2023-03-01
+2024-02-29
+13433533
+2022-12-01
+2023-02-28
+13433533
+2024-02-29
+13433533
+2023-02-28
+13433533
+2022-12-01
+13433533
+c:Director3
+2023-03-01
+2024-02-29
+13433533
+d:PlantMachinery
+2023-03-01
+2024-02-29
+13433533
+d:PlantMachinery
+2024-02-29
+13433533
+d:PlantMachinery
+2023-02-28
+13433533
+d:PlantMachinery
+d:OwnedOrFreeholdAssets
+2023-03-01
+2024-02-29
+13433533
+d:PlantMachinery
+d:LeasedAssetsHeldAsLessee
+2023-03-01
+2024-02-29
+13433533
+d:MotorVehicles
+2023-03-01
+2024-02-29
+13433533
+d:MotorVehicles
+2024-02-29
+13433533
+d:MotorVehicles
+2023-02-28
+13433533
+d:MotorVehicles
+d:OwnedOrFreeholdAssets
+2023-03-01
+2024-02-29
+13433533
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2023-03-01
+2024-02-29
+13433533
+d:FurnitureFittings
+2023-03-01
+2024-02-29
+13433533
+d:FurnitureFittings
+2024-02-29
+13433533
+d:FurnitureFittings
+2023-02-28
+13433533
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-03-01
+2024-02-29
+13433533
+d:FurnitureFittings
+d:LeasedAssetsHeldAsLessee
+2023-03-01
+2024-02-29
+13433533
+d:ComputerEquipment
+2023-03-01
+2024-02-29
+13433533
+d:ComputerEquipment
+2024-02-29
+13433533
+d:ComputerEquipment
+2023-02-28
+13433533
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2023-03-01
+2024-02-29
+13433533
+d:ComputerEquipment
+d:LeasedAssetsHeldAsLessee
+2023-03-01
+2024-02-29
+13433533
+d:OtherPropertyPlantEquipment
+2023-03-01
+2024-02-29
+13433533
+d:OwnedOrFreeholdAssets
+2023-03-01
+2024-02-29
+13433533
+d:LeasedAssetsHeldAsLessee
+2023-03-01
+2024-02-29
+13433533
+d:CurrentFinancialInstruments
+2024-02-29
+13433533
+d:CurrentFinancialInstruments
+2023-02-28
+13433533
+d:Non-currentFinancialInstruments
+2024-02-29
+13433533
+d:Non-currentFinancialInstruments
+2023-02-28
+13433533
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-02-29
+13433533
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-02-28
+13433533
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2024-02-29
+13433533
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2023-02-28
+13433533
+d:ShareCapital
+2023-03-01
+2024-02-29
+13433533
+d:ShareCapital
+2024-02-29
+13433533
+d:ShareCapital
+2023-02-28
+13433533
+d:ShareCapital
+2022-12-01
+13433533
+d:RetainedEarningsAccumulatedLosses
+2023-03-01
+2024-02-29
+13433533
+d:RetainedEarningsAccumulatedLosses
+2024-02-29
+13433533
+d:RetainedEarningsAccumulatedLosses
+2022-12-01
+2023-02-28
+13433533
+d:RetainedEarningsAccumulatedLosses
+2023-02-28
+13433533
+d:RetainedEarningsAccumulatedLosses
+2022-12-01
+13433533
+d:AcceleratedTaxDepreciationDeferredTax
+2024-02-29
+13433533
+d:AcceleratedTaxDepreciationDeferredTax
+2023-02-28
+13433533
+d:TaxLossesCarry-forwardsDeferredTax
+2024-02-29
+13433533
+d:TaxLossesCarry-forwardsDeferredTax
+2023-02-28
+13433533
+d:OtherDeferredTax
+2024-02-29
+13433533
+d:OtherDeferredTax
+2023-02-28
+13433533
+c:OrdinaryShareClass1
+2023-03-01
+2024-02-29
+13433533
+c:OrdinaryShareClass1
+2024-02-29
+13433533
+c:OrdinaryShareClass1
+2023-02-28
+13433533
+c:FRS102
+2023-03-01
+2024-02-29
+13433533
+c:Audited
+2023-03-01
+2024-02-29
+13433533
+c:FullAccounts
+2023-03-01
+2024-02-29
+13433533
+c:PrivateLimitedCompanyLtd
+2023-03-01
+2024-02-29
+13433533
+d:WithinOneYear
+2024-02-29
+13433533
+d:WithinOneYear
+2023-02-28
+13433533
+d:BetweenOneFiveYears
+2024-02-29
+13433533
+d:BetweenOneFiveYears
+2023-02-28
+13433533
+d:HirePurchaseContracts
+d:WithinOneYear
+2024-02-29
+13433533
+d:HirePurchaseContracts
+d:WithinOneYear
+2023-02-28
+13433533
+d:HirePurchaseContracts
+d:BetweenOneFiveYears
+2024-02-29
+13433533
+d:HirePurchaseContracts
+d:BetweenOneFiveYears
+2023-02-28
+13433533
+c:SmallCompaniesRegimeForAccounts
+2023-03-01
+2024-02-29
+13433533
+2
+2023-03-01
+2024-02-29
+13433533
+7
+2023-03-01
+2024-02-29
+13433533
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2024-02-29
+13433533
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2023-02-28
+13433533
+e:PoundSterling
+2023-03-01
+2024-02-29
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+13433533
+VEA TELECOMS UK LIMITED
+FINANCIAL STATEMENTS
+INFORMATION FOR FILING WITH THE REGISTRAR
+FOR THE PERIOD ENDED
+29 FEBRUARY 2024
+VEA TELECOMS UK LIMITED
+REGISTERED NUMBER: 
+13433533
+BALANCE SHEET
+AS AT 
+29 FEBRUARY 2024
+29 February
+28 February
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+5
+244,117
+97,778
+244,117
+97,778
+Current assets
+Stocks
+3,125
+-
+Debtors: amounts falling due after more than one year
+6
+30,796
+18,522
+Debtors: amounts falling due within one year
+6
+2,208,257
+1,149,516
+Cash at bank and in hand
+7
+1,407,129
+423,775
+3,649,307
+1,591,813
+Creditors: amounts falling due within one year
+8
+(
+2,206,100
+)
+(
+1,639,393
+)
+Net current assets/(liabilities)
+1,443,207
+(
+47,580
+)
+Total assets less current liabilities
+1,687,324
+50,198
+Creditors: amounts falling due after more than one year
+(
+15,341
+)
+-
+Provisions for liabilities
+Deferred tax
+11
+(
+59,441
+)
+(
+12,979
+)
+(
+59,441
+)
+(
+12,979
+)
+Net assets
+1,612,542
+37,219
+Capital and reserves
+Called up share capital 
+12
+125
+100
+Profit and loss account
+1,612,417
+37,119
+1,612,542
+37,219
+Page 1
+VEA TELECOMS UK LIMITED
+REGISTERED NUMBER: 
+13433533
+BALANCE SHEET
+ (CONTINUED)
+AS AT 
+29 FEBRUARY 2024
+The
+financial statements
+ have been prepared in accordance with the provisions applicable to companies subject to the 
+small companies regime and in accordance with the provisions of FRS 102 Section 1A - small entities
+.
+The 
+financial statements
+ have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The 
+Company
+ has opted not to file the 
+statement of comprehensive income
+ in accordance with provisions applicable to companies subject to the small companies' regime.
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+S Kitching
+Director
+Date: 
+30 May 2024
+The notes on pages 4 to 13 form part of these financial statements.
+Page 2
+VEA TELECOMS UK LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE PERIOD ENDED 
+29 FEBRUARY 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 December 2022
+100
+(
+458,587
+)
+(
+458,487
+)
+Comprehensive income for the period
+Profit for the period
+-
+495,706
+495,706
+At 1 December 2022
+100
+37,119
+37,219
+Comprehensive income for the period
+Profit for the period
+-
+1,575,298
+1,575,298
+Contributions by and distributions to owners
+Shares issued during the period
+25
+-
+25
+At 29 February 2024
+125
+1,612,417
+1,612,542
+The notes on pages 4 to 13 form part of these 
+financial statements
+.
+Page 3
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+1.
+General information
+Vea Telecoms UK Limited is a company limited by shares and incorporated in England & Wales
+under the Companies Act 2006 on 2 June 2021. The address of the registered office is Venture House, 2 Arlington Way, Downshire Way, Bracknall, berkshire, RG12 1WA. The principal activity of the company is the installation and maintenance of telecommunication and other utility projects.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland' and the requirements of the 
+Companies Act 2006
+. The disclosure requirements of Section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Statement of comprehensive income
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+Page 4
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+2.
+Accounting policies (continued)
+2.3
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.4
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.5
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.6
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Page 5
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+2.
+Accounting policies (continued)
+2.6
+Tangible fixed assets (continued)
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Plant and machinery
+-
+3 years Straight Line
+Motor vehicles
+-
+5 years Straight line
+Fixtures and fittings
+-
+5 years Straight line
+Computer equipment
+-
+3 years Straight Line
+Computer software
+-
+1 year Straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.7
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.8
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.9
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.10
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+Page 6
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+2.
+Accounting policies (continued)
+2.11
+Holiday pay accrual
+A liability is recognised to the extent of any unused holiday pay entitlement which is accrued at the 
+balance sheet date
+ and carried forward to future periods. This is measured at the undiscounted salary cost of the future holiday entitlement so accrued at the 
+balance sheet date
+.
+2.12
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.13
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+Balance sheet
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Company's
+ cash and cash equivalents, trade and most other receivables due with the operating cycle fall into this category of financial instruments.
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at each reporting date. 
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Page 7
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+2.
+Accounting policies (continued)
+2.13
+Financial instruments (continued)
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instruments any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other payables, bank loans
+ and
+ other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future receipts discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+The preparation of the financial statements requires management to make judgments, estimates and assumptions that affect the amounts reported for assets and liabilities as at the balance sheet date and the amounts reported for revenues and expenses during the period. The nature of estimation means the actual outcomes could differ from those estimates. 
+The directors consider the stage of completion of each job to be a key estimate in the financial statements. The stage of completion is used in the calculation of the accrued income. 
+4.
+Employees
+The average monthly number of employees, including directors, during the 
+period
+ was 
+74
+ (2023 - 
+54
+)
+.
+Page 8
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+5.
+Tangible fixed assets
+Plant and machinery
+Motor vehicles
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 March 2023
+120,120
+-
+1,534
+11,897
+133,551
+Additions
+145,975
+72,690
+860
+11,343
+230,868
+At 29 February 2024
+266,095
+72,690
+2,394
+23,240
+364,419
+Depreciation
+At 1 March 2023
+30,294
+-
+26
+5,453
+35,773
+Charge for the period on owned assets
+70,452
+1,824
+367
+5,150
+77,793
+Charge for the period on financed assets
+-
+6,736
+-
+-
+6,736
+At 29 February 2024
+100,746
+8,560
+393
+10,603
+120,302
+Net book value
+At 29 February 2024
+165,349
+64,130
+2,001
+12,637
+244,117
+At 28 February 2023
+89,826
+-
+1,508
+6,444
+97,778
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+29 February
+28 February
+2024
+2023
+£
+£
+Motor vehicles
+36,004
+-
+Page 9
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+6.
+Debtors
+29 February
+28 February
+2024
+2023
+£
+£
+Due after more than one year
+Other debtors
+30,796
+18,522
+29 February
+28 February
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+1,702,373
+938,287
+Other debtors
+15,581
+11,910
+Prepayments and accrued income
+490,303
+199,319
+2,208,257
+1,149,516
+7.
+Cash and cash equivalents
+29 February
+28 February
+2024
+2023
+£
+£
+Cash at bank and in hand
+1,407,129
+423,775
+8.
+Creditors: Amounts falling due within one year
+29 February
+28 February
+2024
+2023
+£
+£
+Trade creditors
+698,698
+386,403
+Amounts owed to group undertakings
+629,914
+696,200
+Other taxation and social security
+637,513
+342,103
+Obligations under finance lease and hire purchase contracts
+12,822
+-
+Other creditors
+61,768
+35,662
+Accruals and deferred income
+165,385
+179,025
+2,206,100
+1,639,393
+Page 10
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+9.
+Creditors: Amounts falling due after more than one year
+29 February
+28 February
+2024
+2023
+£
+£
+Net obligations under finance leases and hire purchase contracts
+15,341
+-
+15,341
+-
+10.
+Hire purchase and finance leases
+Minimum lease payments under hire purchase fall due as follows:
+29 February
+28 February
+2024
+2023
+£
+£
+Within one year
+12,822
+-
+Between 1-5 years
+15,341
+-
+28,163
+-
+.Hire purchase contracts are secured over the assets to which they relate.
+11.
+Deferred taxation
+2024
+£
+At beginning of year
+(
+12,979
+)
+Charged to profit or loss
+(
+46,462
+)
+At end of year
+(
+59,441
+)
+Page 11
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+11.
+Deferred taxation (continued)
+The 
+provision for deferred taxation
+ is made up as follows:
+29 February
+28 February
+2024
+2023
+£
+£
+Accelerated capital allowances
+(
+61,029
+)
+(
+24,445
+)
+Tax losses carried forward
+-
+10,356
+Other short term timing differences
+1,588
+1,110
+(
+59,441
+)
+(
+12,979
+)
+12.
+Share capital
+29 February
+28 February
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+12,500
+ (2023 - 
+10,000
+)
+Ordinary
+shares of
+£
+0.01
+ each
+125
+100
+On 6 June 2023, 100 ordinary shares with a nominal value of £1.00 were subdivided into 10,000 ordinary shares with a nominal value of £0.01, on the basis of 100 new shares for each 1 share currently held.
+On the same day, 2,500 ordinary shares were issued at par. The allotted shares have full rights regarding voting, payment of dividends and distributions.
+13.
+Pension commitments
+Pension commitments paid in the period totalled £73,745 
+(2023: £11,111)
+. At the period end pension commitments of £17,302 
+(2023: £10,640)
+ were outstanding. 
+14.
+Commitments under operating leases
+At 
+29 February 2024
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+29 February
+28 February
+2024
+2023
+£
+£
+Not later than 1 year
+170,354
+111,898
+Later than 1 year and not later than 5 years
+166,124
+66,700
+336,478
+178,598
+Page 12
+VEA TELECOMS UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE PERIOD ENDED 29 FEBRUARY 2024
+15.
+Related party transactions
+There is an intercompany loan of £545,404 
+(2023: £599,016)
+ due to the parent company. There is no repayment terms on this loan and it is repayable upon demand. There is also a creditor balance due to the parent company at the year end of £84,510 (
+2023: £
+97,184).
+There were transactions with Vea Group Holdings (Pty) during the year. These transactions were carried out at arms length and therefore the directors have elected not to disclose.
+Christoffel Karemaker, a director of Vea Telecoms UK Limited, has a staff loan due to the company at the  year end of £1,833. There is no interest on the loan and it will be repaid via salary sacrifice repayments within a year.
+16.
+Controlling party
+VEA Telecoms UK Limited is a subsidiary of VEA Group Holdings (Pty), which is the ultimate controlling party.
+Consolidated financial statements are prepared by Vea Group Holdings (Pty). Its registered address in South Africa is:
+Plot 107
+3 Erasmus Street
+Mnandi AH
+Centurion
+0157
+17.
+Auditors' information
+The 
+auditors'
+ report on the financial statements for the 
+period
+ ended 
+29 February 2024
+ was 
+unqualified
+.
+The audit report was signed on 
+31 May 2024
+ by 
+Elizabeth Wicks
+ (Senior statutory auditor)
+ on behalf of 
+WMT
+.
+Page 13
