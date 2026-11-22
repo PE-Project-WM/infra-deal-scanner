@@ -25,46 +25,45 @@ Companies with a number to check: 9
 211/211 | 3.6 min
 
 ownership
-UK group, owner-managed         53
 Founder or family-owned         52
+UK group, owner-managed         50
 Likely sponsor-owned (check)    39
-Unknown                         39
+Unknown                         38
 Foreign-owned subsidiary        28
-Duplicates found: 13
-                              CompanyName                          duplicate_of    turnover
-7    FLINT UK TECHNOLOGY SERVICES LIMITED  FLINT UK TECHNOLOGY SERVICES LIMITED  23476420.0
-27                 MAP GROUP (UK) LIMITED                MAP GROUP (UK) LIMITED  75597498.0
-42                  MAZUMA MOBILE LIMITED      LANCASTER GROUP HOLDINGS LIMITED  46014275.0
-47                HENEGHAN & SONS LIMITED             HENEGHAN HOLDINGS LIMITED  41668711.0
-68                      ONESTREAM LIMITED                RIDOWN CAPITAL LIMITED  28996086.0
-83                      PADERO SOLAER LTD                           SUMANDO LTD  25490037.0
-93      SPITFIRE NETWORK SERVICES LIMITED  SPITFIRE TECHNOLOGY HOLDINGS LIMITED  22378763.0
-105                    ABZORB SYSTEMS LTD                      ABZORB GROUP LTD  19614543.0
-130        HUTCHISON TECHNOLOGIES LIMITED                     HUTCHISON LIMITED  15444387.0
-152          ASSET SERVICES GROUP LIMITED                 PROJECT PENNY LIMITED  12836723.0
-160                 TALK STRAIGHT LIMITED        TALK STRAIGHT HOLDINGS LIMITED  12319667.0
-163   MMX COMMUNICATIONS SERVICES LIMITED                       TXO SYSTEMS LTD  11872782.0
-174      TALKTALK BUSINESS DIRECT LIMITED                  TFP TELECOMS LIMITED  78040000.0
+Employee-owned (EOT)             4
+Duplicates found: 11
+                             CompanyName                          duplicate_of    turnover
+42                 MAZUMA MOBILE LIMITED      LANCASTER GROUP HOLDINGS LIMITED  46014275.0
+47               HENEGHAN & SONS LIMITED             HENEGHAN HOLDINGS LIMITED  41668711.0
+68                     ONESTREAM LIMITED                RIDOWN CAPITAL LIMITED  28996086.0
+83                     PADERO SOLAER LTD                           SUMANDO LTD  25490037.0
+93     SPITFIRE NETWORK SERVICES LIMITED  SPITFIRE TECHNOLOGY HOLDINGS LIMITED  22378763.0
+105                   ABZORB SYSTEMS LTD                      ABZORB GROUP LTD  19614543.0
+130       HUTCHISON TECHNOLOGIES LIMITED                     HUTCHISON LIMITED  15444387.0
+152         ASSET SERVICES GROUP LIMITED                 PROJECT PENNY LIMITED  12836723.0
+160                TALK STRAIGHT LIMITED        TALK STRAIGHT HOLDINGS LIMITED  12319667.0
+163  MMX COMMUNICATIONS SERVICES LIMITED                       TXO SYSTEMS LTD  11872782.0
+174     TALKTALK BUSINESS DIRECT LIMITED                  TFP TELECOMS LIMITED  78040000.0
 relevance
-OUT         76
-UNSURE      73
-ADJACENT    42
-IN          20
+OUT         78
+UNSURE      67
+ADJACENT    45
+IN          21
 Candidates: 211 | going forward: 112 | excluded: 99
 
 Going forward, by status:
 status
-Shortlist                  81
+Shortlist                  80
 Watchlist (loss-making)    21
-In band, EBITDA unknown    10
+In band, EBITDA unknown    11
 
 Shortlist going forward, by relevance and ownership:
-ownership  Founder or family-owned  Likely sponsor-owned (check)  UK group, owner-managed  Unknown  All
-relevance                                                                                              
-ADJACENT                        10                             4                        4        6   24
-IN                               1                             2                        0        2    5
-UNSURE                          20                             9                       16        7   52
-All                             31                            15                       20       15   81
+ownership  Employee-owned (EOT)  Founder or family-owned  Likely sponsor-owned (check)  UK group, owner-managed  Unknown  All
+relevance                                                                                                                    
+ADJACENT                      2                       12                             4                        3        5   26
+IN                            0                        1                             2                        0        2    5
+UNSURE                        1                       16                             9                       16        7   49
+All                           3                       29                            15                       19       14   80
 
 PLCs to check are not listed: ['NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs
