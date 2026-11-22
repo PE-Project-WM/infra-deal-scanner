@@ -1,0 +1,30 @@
+# Weekly update: 2026-11-22
+
+**4 new in the top 10, 4 dropped out, 10 moved within it.** Checked 73 ranked companies for changes since 2026-08-24; 11 Companies House events found.
+
+## Top 10 changes
+
+- **VEA Group** (9 → 1): thesis fit UNSURE → IN; accessibility now Low-Medium; revenue visibility +13.7; strategy fit +12.0
+- **The Networking People (TNP)** (1 → 2): accessibility now Low
+- **Satcom Global** (2 → 3): moved because companies around it entered or left the ranking Events: Director resigned (2026-09-02): Leydon, Chris resigned
+- **Clarus Networks** (15 → 4): thesis fit UNSURE → IN; accessibility now High; strategy fit +12.0; revenue visibility +7.5
+- **MAP Group (UK)** (7 → 5): thesis fit UNSURE → IN; strategy fit +12.0; revenue visibility -5.0
+- **C.A. Telecom UK** (19 → 7): thesis fit UNSURE → IN; strategy fit +12.0
+- **A-2-Sea Solutions** (16 → 8): thesis fit UNSURE → IN; strategy fit +12.0; revenue visibility -5.0
+- **Barclay Digital Services** (20 → 9): thesis fit UNSURE → ADJACENT; strategy fit +4.0; revenue visibility +3.7
+- **Siteground Hosting** (8 → 10): moved because companies around it entered or left the ranking
+- **Diona Construction** (10 → 11): moved because companies around it entered or left the ranking
+- **11:11 Systems UK** (3 → out): Foreign-owned subsidiary (not buyable on its own): 11:11 Systems Inc (US); UK arm of the former iland business (web-checked: Endole company page (website iland.com))
+- **Tampnet UK** (4 → out): Foreign-owned subsidiary (not buyable on its own): Tampnet group (Norway), owned by 3i (web-checked: Tampnet UK accounts FY Dec 2025, strategic report)
+- **Wanstor** (5 → out): Foreign-owned subsidiary (not buyable on its own): Previder (Netherlands), part of Odin Group; acquired Oct 2026 (web-checked: ITPro, 27 Oct 2026)
+
+## Current top 10
+
+| Rank | Company | Score | Fit | Accessibility |
+| --- | --- | --- | --- | --- |
+| 1 | VEA Group | 96.0 | IN | Low-Medium |
+| 2 | The Networking People (TNP) | 88.6 | IN | Low |
+| 3 | Satcom Global | 86.0 | IN | High |
+| 4 | Clarus Networks | 85.7 | IN | High |
+| 5 | MAP Group (UK) | 80.0 | IN | Low |
+| 6 | Dstny Global Services UK | 76.9 | ADJACENT | Check |
