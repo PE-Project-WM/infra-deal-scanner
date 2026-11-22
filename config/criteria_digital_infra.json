@@ -1,0 +1,55 @@
+{
+  "_about": "Screening criteria for the Infra Deal Screener. Edit this file to retarget the tool at another sub-sector or fund. Built with the thesis-development, market-map-and-sourcing and deal-screening skills.",
+  "version": "2026-11-21",
+  "sub_sector": "UK digital infrastructure",
+
+  "segments": {
+    "61100": "Fibre and wired telecoms networks",
+    "61200": "Wireless networks, towers and fixed wireless",
+    "61300": "Satellite networks",
+    "61900": "Other telecoms networks",
+    "63110": "Data centres, data processing and hosting",
+    "42220": "Building and maintaining telecoms and utility networks"
+  },
+
+  "hard_stops": {
+    "company_status": ["Active"],
+    "allowed_company_types": ["Private Limited Company", "Public Limited Company"],
+    "exclude_if_listed": true,
+    "accounts_categories_allowed": ["FULL", "GROUP", "MEDIUM"],
+    "min_years_since_incorporation": 3,
+    "country": "United Kingdom"
+  },
+
+  "size_band_gbp": {
+    "turnover_min": 10000000,
+    "turnover_max": 250000000,
+    "note": "Turnover comes from filed accounts in a later step; the bulk company file has no financials."
+  },
+
+  "ebitda_rule": {
+    "shortlist_requires_positive_ebitda": true,
+    "loss_making_network_owners": "Send to a separate watchlist, not the shortlist"
+  },
+
+  "scoring_weights": {
+    "revenue_visibility": 25,
+    "strategy_fit": 20,
+    "size_fit": 15,
+    "margin_quality": 15,
+    "data_completeness": 15,
+    "debt_capacity": 10
+  },
+
+  "scoring_notes": {
+    "revenue_visibility": "Share of revenue from subscriptions, wholesale contracts or multi-year frameworks",
+    "strategy_fit": "Segment, UK focus and ownership against this file",
+    "size_fit": "Turnover inside the band",
+    "margin_quality": "EBITDA margin level and stability over three years",
+    "data_completeness": "Revenue, profit, cash and debt present for every year",
+    "debt_capacity": "Net debt to EBITDA; cash conversion"
+  },
+
+  "fit_and_access_kept_separate": true,
+  "pricing": "Walk-away multiple to be set from disclosed deals before any named company is screened"
+}
