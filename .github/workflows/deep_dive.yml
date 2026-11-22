@@ -1,0 +1,40 @@
+name: Deep dive on the top-ranked companies
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/deep_dive.py'
+      - '.github/workflows/deep_dive.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  deep-dive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas requests beautifulsoup4 lxml
+      - name: Pull the last 3 accounts for the top 10
+        env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
+          TOP_N: '10'
+        run: |
+          mkdir -p data/deep_dive
+          set -o pipefail
+          python scripts/deep_dive.py 2>&1 | tee data/deep_dive/log.txt
+      - name: Save the results back to the repository
+        if: always()
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data/deep_dive
+          git commit -m "Deep dive results $(date -u +%Y-%m-%dT%H:%MZ)" || echo "Nothing to commit"
+          git pull --rebase
+          git push
