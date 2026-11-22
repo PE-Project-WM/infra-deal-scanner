@@ -19,17 +19,18 @@ Companies with a number to check: 9
 75/211 | 1.2 min
 100/211 | 1.7 min
 125/211 | 2.1 min
-150/211 | 2.4 min
+150/211 | 2.5 min
 175/211 | 2.9 min
 200/211 | 3.3 min
 211/211 | 3.5 min
+Ownership overrides applied: 2
 
 ownership
 Founder or family-owned         52
 UK group, owner-managed         49
 Likely sponsor-owned (check)    39
-Foreign-owned subsidiary        36
-Unknown                         31
+Foreign-owned subsidiary        38
+Unknown                         29
 Employee-owned (EOT)             4
 Duplicates found: 11
                              CompanyName                          duplicate_of    turnover
@@ -46,24 +47,24 @@ Duplicates found: 11
 174     TALKTALK BUSINESS DIRECT LIMITED                  TFP TELECOMS LIMITED  78040000.0
 relevance
 OUT         78
-UNSURE      67
-ADJACENT    45
-IN          21
-Candidates: 211 | going forward: 107 | excluded: 104
+UNSURE      61
+ADJACENT    46
+IN          26
+Candidates: 211 | going forward: 105 | excluded: 106
 
 Going forward, by status:
 status
-Shortlist                  76
+Shortlist                  74
 Watchlist (loss-making)    21
 In band, EBITDA unknown    10
 
 Shortlist going forward, by relevance and ownership:
 ownership  Employee-owned (EOT)  Founder or family-owned  Likely sponsor-owned (check)  UK group, owner-managed  Unknown  All
 relevance                                                                                                                    
-ADJACENT                      2                       12                             4                        3        4   25
-IN                            0                        1                             2                        0        1    4
-UNSURE                        1                       16                             9                       16        5   47
-All                           3                       29                            15                       19       10   76
+ADJACENT                      2                       13                             4                        3        3   25
+IN                            1                        3                             2                        2        0    8
+UNSURE                        0                       13                             9                       14        5   41
+All                           3                       29                            15                       19        8   74
 
 PLCs to check are not listed: ['NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs
