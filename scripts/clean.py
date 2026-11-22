@@ -81,6 +81,7 @@ def uk_number(reg):
 
 def ownership(num):
     chain, numbers, since, current = [], [], None, num
+    seen = {num}
     for level in range(4):
         items = psc(current)
         if items is None:
@@ -105,6 +106,9 @@ def ownership(num):
             return 'Foreign-owned subsidiary', chain, numbers, since
         if not nxt:
             return 'UK group, owner-managed', chain, numbers, since
+        if nxt in seen:   # ownership loops back, e.g. an employee ownership trust
+            return 'UK group, owner-managed', chain, numbers, since
+        seen.add(nxt)
         numbers.append(nxt)
         current = nxt
     return 'UK group, owner-managed', chain, numbers, since
@@ -112,7 +116,9 @@ def ownership(num):
 rows, start = [], time.time()
 for i, num in enumerate(D['CompanyNumber'], 1):
     kind, chain, numbers, since = ownership(num)
-    if any(re.search(SPONSOR_WORDS, n.upper()) for n in chain):   # e.g. UK Bidco owned by a Jersey Topco
+    if any(re.search(r'\bEOT\b|EMPLOYEE OWNERSHIP|EMPLOYEE BENEFIT|EMPLOYEE TRUST', n.upper()) for n in chain):
+        kind = 'Employee-owned (EOT)'   # rarely for sale
+    elif any(re.search(SPONSOR_WORDS, n.upper()) for n in chain):   # e.g. UK Bidco owned by a Jersey Topco
         kind = 'Likely sponsor-owned (check)'
     rows.append({'CompanyNumber': num, 'ownership': kind, 'owner_chain': ' > '.join(chain),
                  'parent_numbers': '|'.join(numbers), 'owner_since': since})
@@ -128,11 +134,13 @@ print(D['ownership'].value_counts().to_string())
 in_list = set(D['CompanyNumber'])
 name_of = dict(zip(D['CompanyNumber'], D['CompanyName']))
 D['duplicate_of'] = ''
+D['duplicate_of_number'] = ''
 
 for idx, r in D.iterrows():
-    parents = [p for p in str(r['parent_numbers'] or '').split('|') if p in in_list]
+    parents = [p for p in str(r['parent_numbers'] or '').split('|') if p in in_list and p != r['CompanyNumber']]
     if parents:
         D.at[idx, 'duplicate_of'] = name_of[parents[-1]]
+        D.at[idx, 'duplicate_of_number'] = parents[-1]
 
 first_word = D['CompanyName'].str.upper().str.split().str[0]
 for a in D.index:
@@ -144,6 +152,7 @@ for a in D.index:
             top_is_a = bool(re.search(r'HOLDING|GROUP', D.at[a, 'CompanyName'].upper())) or ta >= tb
             keep, drop = (a, b) if top_is_a else (b, a)
             D.at[drop, 'duplicate_of'] = D.at[keep, 'CompanyName']
+            D.at[drop, 'duplicate_of_number'] = D.at[keep, 'CompanyNumber']
 
 dups = D[D['duplicate_of'] != '']
 print(f'Duplicates found: {len(dups)}')
@@ -154,6 +163,13 @@ D = D.drop(columns=[c for c in ('relevance', 'relevance_reason') if c in D.colum
 D = D.merge(R[['CompanyNumber', 'relevance', 'relevance_reason']], on='CompanyNumber', how='left')
 D['relevance'] = D['relevance'].fillna('UNSURE')
 D['relevance_reason'] = D['relevance_reason'].fillna('Not yet reviewed')
+
+# A group company kept in place of its subsidiary takes the subsidiary's relevance call if it has none of its own
+for _, child in D[D['duplicate_of_number'] != ''].iterrows():
+    parent = D.index[D['CompanyNumber'] == child['duplicate_of_number']]
+    if len(parent) and D.at[parent[0], 'relevance'] == 'UNSURE' and child['relevance'] != 'UNSURE':
+        D.at[parent[0], 'relevance'] = child['relevance']
+        D.at[parent[0], 'relevance_reason'] = f"{child['relevance_reason']} (via subsidiary {child['CompanyName'].title()})"
 print(D['relevance'].value_counts().to_string())
 
 def exclusion(r):
