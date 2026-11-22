@@ -131,6 +131,15 @@ for i, num in enumerate(D['CompanyNumber'], 1):
 O = pd.DataFrame(rows)
 D = D.drop(columns=[c for c in O.columns if c != 'CompanyNumber' and c in D.columns]).merge(O, on='CompanyNumber', how='left')
 D['owner_since_year'] = pd.to_datetime(D['owner_since'], errors='coerce').dt.year
+
+# Ownership found by web checks overrides the register (e.g. recent acquisitions not yet filed)
+OV = f'{CFG}/ownership_overrides.csv'
+if os.path.exists(OV):
+    for _, o in pd.read_csv(OV, dtype=str).iterrows():
+        m = D['CompanyNumber'] == o['CompanyNumber']
+        D.loc[m, 'ownership'] = o['ownership']
+        D.loc[m, 'owner_chain'] = f"{o['owner_chain']} (web-checked: {o['source']})"
+    print(f'Ownership overrides applied: {len(pd.read_csv(OV))}')
 print()
 print(D['ownership'].value_counts().to_string())
 
