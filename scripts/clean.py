@@ -190,4 +190,4 @@ cols = [c for c in cols if c in D.columns]
 D = D.sort_values(['goes_forward', 'status', 'turnover'], ascending=[False, True, False])
 D[cols].to_csv(f'{OUT}/candidates_clean.csv', index=False)
 D[~D['goes_forward']][['CompanyName', 'CompanyNumber', 'status', 'excluded_reason']].to_csv(f'{OUT}/excluded_log.csv', index=False)
-print('Saved candidates_clean.csv and excluded_log.csv to 03_data/processed')
+print('Saved candidates_clean.csv and excluded_log.csv to data/outputs')
