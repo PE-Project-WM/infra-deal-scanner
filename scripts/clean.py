@@ -101,8 +101,11 @@ def ownership(num):
         if level == 0:
             since = c.get('notified_on')
         place = ' '.join(str(ident.get(k, '')) for k in ('country_registered', 'place_registered', 'legal_authority')).lower()
+        is_uk = any(w in place for w in UK_WORDS)
+        if place.strip() and not is_uk:   # registered abroad: don't follow a foreign registration number
+            return 'Foreign-owned subsidiary', chain, numbers, since
         nxt = uk_number(ident.get('registration_number'))
-        if not any(w in place for w in UK_WORDS) and not nxt:
+        if not is_uk and not nxt:
             return 'Foreign-owned subsidiary', chain, numbers, since
         if not nxt:
             return 'UK group, owner-managed', chain, numbers, since
