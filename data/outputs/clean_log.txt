@@ -23,15 +23,17 @@ Companies with a number to check: 9
 175/211 | 2.9 min
 200/211 | 3.3 min
 211/211 | 3.5 min
-Ownership overrides applied: 2
+Ownership overrides applied: 7
 
 ownership
-Founder or family-owned         52
-UK group, owner-managed         49
-Likely sponsor-owned (check)    39
-Foreign-owned subsidiary        38
-Unknown                         29
-Employee-owned (EOT)             4
+Founder or family-owned          52
+UK group, owner-managed          48
+Foreign-owned subsidiary         39
+Likely sponsor-owned (check)     37
+Unknown                          29
+Employee-owned (EOT)              4
+Foreign parent, founder group     1
+Sponsor-owned, recent entry       1
 Duplicates found: 11
                              CompanyName                          duplicate_of    turnover
 42                 MAZUMA MOBILE LIMITED      LANCASTER GROUP HOLDINGS LIMITED  46014275.0
@@ -50,21 +52,21 @@ OUT         78
 UNSURE      61
 ADJACENT    46
 IN          26
-Candidates: 211 | going forward: 105 | excluded: 106
+Candidates: 211 | going forward: 104 | excluded: 107
 
 Going forward, by status:
 status
-Shortlist                  74
+Shortlist                  73
 Watchlist (loss-making)    21
 In band, EBITDA unknown    10
 
 Shortlist going forward, by relevance and ownership:
-ownership  Employee-owned (EOT)  Founder or family-owned  Likely sponsor-owned (check)  UK group, owner-managed  Unknown  All
-relevance                                                                                                                    
-ADJACENT                      2                       13                             4                        3        3   25
-IN                            1                        3                             2                        2        0    8
-UNSURE                        0                       13                             9                       14        5   41
-All                           3                       29                            15                       19        8   74
+ownership  Employee-owned (EOT)  Foreign parent, founder group  Founder or family-owned  Likely sponsor-owned (check)  Sponsor-owned, recent entry  UK group, owner-managed  Unknown  All
+relevance                                                                                                                                                                                
+ADJACENT                      2                              0                       13                             4                            0                        3        3   25
+IN                            1                              1                        3                             0                            1                        1        0    7
+UNSURE                        0                              0                       13                             9                            0                       14        5   41
+All                           3                              1                       29                            13                            1                       18        8   73
 
 PLCs to check are not listed: ['NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs
