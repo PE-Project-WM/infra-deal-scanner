@@ -96,6 +96,8 @@ ACCESS = {'Founder or family-owned': 'High: founder-owned, proprietary approach 
           'Likely sponsor-owned (check)': 'Medium: sponsor-owned, sale timing depends on hold year',
           'UK group, owner-managed': 'Medium: owned via a UK holding company',
           'Employee-owned (EOT)': 'Low: employee-owned, rarely for sale',
+          'Foreign parent, founder group': 'Low-Medium: UK arm of an overseas founder group, carve-out needed',
+          'Sponsor-owned, recent entry': 'Low: sponsor bought in the last 2 years, unlikely to sell soon',
           'Unknown': 'Check: ownership not found'}
 S['accessibility'] = S['ownership'].map(ACCESS).fillna('Check')
 
