@@ -1,0 +1,70 @@
+Candidates to clean: 211
+status
+Shortlist                  156
+Watchlist (loss-making)     38
+In band, EBITDA unknown     17
+Companies with a number to check: 9
+                                  CompanyName    turnover        ebitda  ebitda_margin  turnover_growth                    figures_source                                                          data_flags
+56                          OPUS TECH LIMITED  37385000.0  2.538049e+09         67.890            0.353  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
+74          NEW TECHNOLOGY GROUP HOLDINGS PLC  27191000.0  8.729200e+04          0.003           59.500                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
+83                          PADERO SOLAER LTD  25490037.0  3.679265e+07          1.443            2.005                            Tagged                EBITDA margin above 60%; EBITDA bigger than turnover
+100                               SUMANDO LTD  20875588.0  3.435804e+07          1.646            1.528                  FROM TEXT, check                EBITDA margin above 60%; EBITDA bigger than turnover
+120          MARITIME CARGO PROCESSING P.L.C.  17622891.0  1.259322e+07          0.715            0.005                  FROM TEXT, check                                             EBITDA margin above 60%
+146                                SYSDIG LTD  13621000.0  6.593368e+08         48.406           -0.034  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
+149  ABACUS INFORMATION TECHNOLOGY UK LIMITED  13256290.0  1.482400e+04          0.001            1.445                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
+152              ASSET SERVICES GROUP LIMITED  12836723.0  3.736700e+04          0.003           -0.037                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
+169            TALK STRAIGHT HOLDINGS LIMITED  11203973.0  1.390900e+04          0.001            9.522                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
+25/211 | 0.5 min
+50/211 | 0.8 min
+75/211 | 1.3 min
+100/211 | 1.8 min
+125/211 | 2.2 min
+150/211 | 2.5 min
+175/211 | 3.0 min
+200/211 | 3.4 min
+211/211 | 3.6 min
+
+ownership
+UK group, owner-managed         53
+Founder or family-owned         52
+Likely sponsor-owned (check)    39
+Unknown                         39
+Foreign-owned subsidiary        28
+Duplicates found: 13
+                              CompanyName                          duplicate_of    turnover
+7    FLINT UK TECHNOLOGY SERVICES LIMITED  FLINT UK TECHNOLOGY SERVICES LIMITED  23476420.0
+27                 MAP GROUP (UK) LIMITED                MAP GROUP (UK) LIMITED  75597498.0
+42                  MAZUMA MOBILE LIMITED      LANCASTER GROUP HOLDINGS LIMITED  46014275.0
+47                HENEGHAN & SONS LIMITED             HENEGHAN HOLDINGS LIMITED  41668711.0
+68                      ONESTREAM LIMITED                RIDOWN CAPITAL LIMITED  28996086.0
+83                      PADERO SOLAER LTD                           SUMANDO LTD  25490037.0
+93      SPITFIRE NETWORK SERVICES LIMITED  SPITFIRE TECHNOLOGY HOLDINGS LIMITED  22378763.0
+105                    ABZORB SYSTEMS LTD                      ABZORB GROUP LTD  19614543.0
+130        HUTCHISON TECHNOLOGIES LIMITED                     HUTCHISON LIMITED  15444387.0
+152          ASSET SERVICES GROUP LIMITED                 PROJECT PENNY LIMITED  12836723.0
+160                 TALK STRAIGHT LIMITED        TALK STRAIGHT HOLDINGS LIMITED  12319667.0
+163   MMX COMMUNICATIONS SERVICES LIMITED                       TXO SYSTEMS LTD  11872782.0
+174      TALKTALK BUSINESS DIRECT LIMITED                  TFP TELECOMS LIMITED  78040000.0
+relevance
+OUT         76
+UNSURE      73
+ADJACENT    42
+IN          20
+Candidates: 211 | going forward: 112 | excluded: 99
+
+Going forward, by status:
+status
+Shortlist                  81
+Watchlist (loss-making)    21
+In band, EBITDA unknown    10
+
+Shortlist going forward, by relevance and ownership:
+ownership  Founder or family-owned  Likely sponsor-owned (check)  UK group, owner-managed  Unknown  All
+relevance                                                                                              
+ADJACENT                        10                             4                        4        6   24
+IN                               1                             2                        0        2    5
+UNSURE                          20                             9                       16        7   52
+All                             31                            15                       20       15   81
+
+PLCs to check are not listed: ['NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
+Saved candidates_clean.csv and excluded_log.csv to data/outputs
