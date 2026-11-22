@@ -1,4 +1,4 @@
-name: 04 Clean candidates
+name: 04 Clean and 05 Score
 
 # Runs when the cleaning script, the config or the input data change, or by hand from the Actions tab.
 on:
@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/clean.py'
+      - 'scripts/score.py'
       - 'config/**'
       - 'data/inputs/**'
       - '.github/workflows/clean.yml'
@@ -31,6 +32,7 @@ jobs:
         run: |
           set -o pipefail
           python scripts/clean.py 2>&1 | tee data/outputs/clean_log.txt
+          python scripts/score.py 2>&1 | tee data/outputs/score_log.txt
       - name: Save the results back to the repository
         if: always()
         run: |
