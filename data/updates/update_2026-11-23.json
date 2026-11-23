@@ -1,0 +1,214 @@
+{
+ "date": "2026-11-23",
+ "checked_since": "2026-11-22",
+ "previous_scored_on": "2026-11-22",
+ "headline": "No changes to the top 10 this week",
+ "events_count": 0,
+ "companies_checked": 73,
+ "top10": [
+  {
+   "rank": 1,
+   "company": "VEA Group",
+   "score": 96.0,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 32560948.0,
+   "margin": 0.306,
+   "access": "Low-Medium",
+   "access_note": "UK arm of an overseas founder group, carve-out needed",
+   "town": "Bracknell",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 13.5,
+    "data_completeness": 15.0,
+    "debt_capacity": 10.0
+   }
+  },
+  {
+   "rank": 2,
+   "company": "The Networking People (TNP)",
+   "score": 88.6,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 18099102.0,
+   "margin": 0.127,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "Lancaster",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 13.6,
+    "margin_quality": 8.5,
+    "data_completeness": 15.0,
+    "debt_capacity": 9.0
+   }
+  },
+  {
+   "rank": 3,
+   "company": "Satcom Global",
+   "score": 86.0,
+   "fit": "IN",
+   "segment": "Satellite networks",
+   "turnover": 36305200.0,
+   "margin": 0.138,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "North Shields",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 8.9,
+    "data_completeness": 12.0,
+    "debt_capacity": 7.6
+   }
+  },
+  {
+   "rank": 4,
+   "company": "Clarus Networks",
+   "score": 85.7,
+   "fit": "IN",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 26680567.0,
+   "margin": 0.161,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Bathgate",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 9.8,
+    "data_completeness": 9.0,
+    "debt_capacity": 9.4
+   }
+  },
+  {
+   "rank": 5,
+   "company": "MAP Group (UK)",
+   "score": 80.0,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 75597498.0,
+   "margin": 0.24,
+   "access": "Low",
+   "access_note": "employee-owned, rarely for sale",
+   "town": "Stockton-On-Tees",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 12.8,
+    "data_completeness": 15.0,
+    "debt_capacity": 8.4
+   }
+  },
+  {
+   "rank": 6,
+   "company": "Dstny Global Services UK",
+   "score": 76.9,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 12584106.0,
+   "margin": 0.407,
+   "access": "Check",
+   "access_note": "ownership not found",
+   "town": "Newport Pagnell",
+   "pts": {
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 9.4,
+    "margin_quality": 15.0,
+    "data_completeness": 15.0,
+    "debt_capacity": 8.0
+   }
+  },
+  {
+   "rank": 7,
+   "company": "C.A. Telecom UK",
+   "score": 76.4,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 18385935.0,
+   "margin": 0.135,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Whitstable",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 13.8,
+    "margin_quality": 8.8,
+    "data_completeness": 15.0,
+    "debt_capacity": 10.0
+   }
+  },
+  {
+   "rank": 8,
+   "company": "A-2-Sea Solutions",
+   "score": 73.0,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 15221057.0,
+   "margin": 0.239,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Romsey",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 11.4,
+    "margin_quality": 11.0,
+    "data_completeness": 12.0,
+    "debt_capacity": 9.8
+   }
+  },
+  {
+   "rank": 9,
+   "company": "Barclay Digital Services",
+   "score": 72.0,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 17547732.0,
+   "margin": 0.222,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Belfast",
+   "pts": {
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 13.2,
+    "margin_quality": 12.1,
+    "data_completeness": 9.0,
+    "debt_capacity": 8.2
+   }
+  },
+  {
+   "rank": 10,
+   "company": "Siteground Hosting",
+   "score": 70.7,
+   "fit": "ADJACENT",
+   "segment": "Data centres, data processing and hosting",
+   "turnover": 48984027.0,
+   "margin": 0.051,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "London",
+   "pts": {
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 15.0,
+    "margin_quality": 5.7,
+    "data_completeness": 12.0,
+    "debt_capacity": 8.5
+   }
+  }
+ ],
+ "top10_moves": [],
+ "all_moves": [],
+ "events": [],
+ "ranked": 73
+}
