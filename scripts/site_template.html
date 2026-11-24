@@ -248,7 +248,7 @@ footer p{max-width:80ch;margin-bottom:10px}
   <p class="sub text">The screen points to where to look and gives a first view on price. It is not a valuation and not advice.</p>
   <ul class="limits">
     <li><b>Price check is a first pass</b>Ranges come from listed peers and deal averages, not from deals in each company's niche. Debt and cash are read from each top-ten company's latest accounts, which can be up to two years old, and debt held by owners' holding companies is not visible.</li>
-    <li><b>Repeat revenue is estimated</b>Accounts do not split contracted from one-off sales, so this is judged from the type of business until contract data is gathered.</li>
+    <li><b>Repeat revenue is partly read, partly estimated</b>For the leading companies it is read from the accounts (sales split, income paid in advance, contracts described), which rarely give renewal rates. For the rest it is judged from the type of business.</li>
     <li><b>Balance sheet, not debt capacity</b>Net assets, cash, margin and interest cover where known. True debt capacity needs net debt, capital spending and cash conversion.</li>
     <li id="lim-scanned"><b>Scanned accounts not read yet</b></li>
     <li id="lim-sector"><b>Sector check pending</b></li>
@@ -286,7 +286,7 @@ const money = v => '£' + (v/1e6).toFixed(1) + 'm';
 const pct = v => Math.round(v*100) + '%';
 const CCOL = {revenue_visibility:'#2463c7', strategy_fit:'#e2742a', size_fit:'#2e9a57', margin_quality:'#86563a', balance_sheet:'#7a4fd0'};
 const CRIT = {
-  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur. Estimated for now from the type of business, until contract and customer data are gathered.'],
+  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur. Read from the accounts for the leading companies; estimated from the type of business for the rest.'],
   strategy_fit: ['Fits the case', 'How closely the business matches the investment case. Only companies confirmed to trade in the sector are ranked.'],
   size_fit: ['Right size', 'EBITDA (profit before interest, tax and depreciation) in the £2–15m range most mid-market buyers target.'],
   margin_quality: ['Profit margin', 'How high the EBITDA margin is and, where three or more years of accounts have been read, how steady it has been.'],
@@ -353,6 +353,7 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
       ${l ? `<div><dt>Why this type</dt><dd>${esc(l.deal_type_reason.charAt(0).toUpperCase() + l.deal_type_reason.slice(1))}.</dd></div>
       <div><dt>Sales depend on</dt><dd>${esc(l.demand_driver)}${l.second_driver ? ', then ' + esc(l.second_driver) : ''}</dd></div>` : ''}
       <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
+      ${P.revenue_mix ? `<div><dt>Where sales come from</dt><dd>${esc(P.revenue_mix)} <span style="color:var(--mute)">Source: ${esc(P.revenue_mix_source)}.</span></dd></div>` : ''}
       ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}: ${esc(P.confidence_reasons)}.</dd></div>` : ''}
     </dl></div>
     <div>

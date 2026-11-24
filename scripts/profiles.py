@@ -16,6 +16,7 @@ L = pd.read_csv(f'{OUT}/lenses_latest.csv', dtype={'CompanyNumber': str}).set_in
 H = pd.read_csv(f'{OUT}/history.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{OUT}/history.csv') else pd.DataFrame(columns=['CompanyNumber'])
 HS = pd.read_csv(f'{OUT}/history_summary.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{OUT}/history_summary.csv') else pd.DataFrame()
 BS = pd.read_csv(f'{CFG}/balance_sheet.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{CFG}/balance_sheet.csv') else pd.DataFrame()
+RM = pd.read_csv(f'{CFG}/revenue_mix.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{CFG}/revenue_mix.csv') else pd.DataFrame()
 NOTES = pd.read_csv(f'{CFG}/company_notes.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{CFG}/company_notes.csv') else pd.DataFrame(columns=['CompanyNumber', 'check'])
 m = lambda v: f'£{v / 1e6:.1f}m'
 pct = lambda v: f'{v * 100:.0f}%'
@@ -44,7 +45,7 @@ def why(r):
     if str(r['accessibility']).startswith('High'):
         out.append('Founder-owned, so a direct approach is possible')
     if frac.get('revenue_visibility', 0) >= 0.85:
-        out.append('A type of business that usually earns repeat revenue (estimated)')
+        out.append('Most sales repeat (read from the accounts)' if r['CompanyNumber'] in RM.index else 'A type of business that usually earns repeat revenue (estimated)')
     return out[:4]
 
 def checks(r):
@@ -89,7 +90,12 @@ def checks(r):
     if r['relevance'] == 'ADJACENT':
         out.append('Only adjacent to the investment case: confirm it owns or runs infrastructure')
     out += NOTES.loc[NOTES['CompanyNumber'] == num, 'check'].tolist()
-    out.append('Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates')
+    if num in RM.index:
+        if pd.notna(RM.at[num, 'concentration']):
+            out.append(RM.at[num, 'concentration'])
+        out.append('Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history')
+    else:
+        out.append('Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates')
     return out
 
 def history(num):
@@ -102,7 +108,8 @@ for _, r in R.iterrows():
     num = r['CompanyNumber']
     P[num] = {'rank': int(r['rank']), 'confidence': r['confidence'], 'confidence_reasons': r['confidence_reasons'],
               'why': why(r), 'checks': checks(r), 'history': history(num), 'ebitda': None if pd.isna(r['ebitda']) else float(r['ebitda']),
-              'interest_cover': hs(num, 'interest_cover'), 'capex_share': hs(num, 'capex_share_avg')}
+              'interest_cover': hs(num, 'interest_cover'), 'revenue_mix': RM.at[num, 'evidence'] if num in RM.index else None,
+              'revenue_mix_source': RM.at[num, 'source'] if num in RM.index else None, 'capex_share': hs(num, 'capex_share_avg')}
 json.dump(P, open(f'{OUT}/profiles.json', 'w'), indent=1, default=str)
 for num, p in list(P.items())[:3]:
     print(R.loc[R['CompanyNumber'] == num, 'CompanyName'].iloc[0], json.dumps(p, indent=1, default=str)[:900])

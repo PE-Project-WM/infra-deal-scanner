@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "checked_since": "2026-08-26",
  "previous_scored_on": "2026-11-24",
- "headline": "Scoring method updated (v3.1): 2 new in the top 10, 2 dropped out, 7 moved within it",
+ "headline": "Scoring method updated (v3.1): 2 new in the top 10, 2 dropped out, 6 moved within it",
  "method_changed": true,
  "method_version": "v3.1",
  "events_count": 6,
@@ -11,7 +11,7 @@
   {
    "rank": 1,
    "company": "VEA Group",
-   "score": 91.8,
+   "score": 84.3,
    "fit": "IN",
    "segment": "Building and maintaining telecoms and utility networks",
    "turnover": 32560948.0,
@@ -21,7 +21,7 @@
    "town": "Bracknell",
    "confidence": "High",
    "pts": {
-    "revenue_visibility": 22.5,
+    "revenue_visibility": 15.0,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
     "margin_quality": 19.3,
@@ -31,7 +31,7 @@
   {
    "rank": 2,
    "company": "Clarus Networks",
-   "score": 84.6,
+   "score": 79.6,
    "fit": "IN",
    "segment": "Wireless networks, towers and fixed wireless",
    "turnover": 26680567.0,
@@ -41,7 +41,7 @@
    "town": "Bathgate",
    "confidence": "Low",
    "pts": {
-    "revenue_visibility": 22.5,
+    "revenue_visibility": 17.5,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
     "margin_quality": 13.1,
@@ -50,8 +50,28 @@
   },
   {
    "rank": 3,
+   "company": "Alert Communications",
+   "score": 78.2,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 10761040.0,
+   "margin": 0.32,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "London",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 23.8,
+    "strategy_fit": 12.0,
+    "size_fit": 15.0,
+    "margin_quality": 21.2,
+    "balance_sheet": 6.2
+   }
+  },
+  {
+   "rank": 4,
    "company": "The Networking People (TNP)",
-   "score": 83.0,
+   "score": 78.0,
    "fit": "IN",
    "segment": "Other telecoms networks",
    "turnover": 18099102.0,
@@ -61,7 +81,7 @@
    "town": "Lancaster",
    "confidence": "High",
    "pts": {
-    "revenue_visibility": 22.5,
+    "revenue_visibility": 17.5,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
     "margin_quality": 12.0,
@@ -69,7 +89,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "company": "Dstny Global Services UK",
    "score": 77.7,
    "fit": "ADJACENT",
@@ -89,49 +109,9 @@
    }
   },
   {
-   "rank": 5,
-   "company": "Barclay Digital Services",
-   "score": 73.6,
-   "fit": "ADJACENT",
-   "segment": "Other telecoms networks",
-   "turnover": 17547732.0,
-   "margin": 0.222,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "Belfast",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 12.0,
-    "size_fit": 15.0,
-    "margin_quality": 16.7,
-    "balance_sheet": 12.4
-   }
-  },
-  {
    "rank": 6,
-   "company": "Satcom Global",
-   "score": 73.3,
-   "fit": "IN",
-   "segment": "Satellite networks",
-   "turnover": 27504819.520000003,
-   "margin": 0.138,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "North Shields",
-   "confidence": "Medium",
-   "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
-    "size_fit": 15.0,
-    "margin_quality": 11.4,
-    "balance_sheet": 4.4
-   }
-  },
-  {
-   "rank": 7,
    "company": "MAP Group (UK)",
-   "score": 73.1,
+   "score": 75.5,
    "fit": "IN",
    "segment": "Other telecoms networks",
    "turnover": 75597498.0,
@@ -141,7 +121,7 @@
    "town": "Stockton-On-Tees",
    "confidence": "Medium",
    "pts": {
-    "revenue_visibility": 8.8,
+    "revenue_visibility": 11.2,
     "strategy_fit": 20.0,
     "size_fit": 13.8,
     "margin_quality": 17.8,
@@ -149,49 +129,49 @@
    }
   },
   {
-   "rank": 8,
-   "company": "A-2-Sea Solutions",
-   "score": 73.0,
+   "rank": 7,
+   "company": "Satcom Global",
+   "score": 72.0,
    "fit": "IN",
-   "segment": "Other telecoms networks",
-   "turnover": 15221057.0,
-   "margin": 0.239,
+   "segment": "Satellite networks",
+   "turnover": 27504819.520000003,
+   "margin": 0.138,
    "access": "High",
    "access_note": "founder-owned, proprietary approach possible",
-   "town": "Romsey",
+   "town": "North Shields",
    "confidence": "Medium",
    "pts": {
-    "revenue_visibility": 8.8,
+    "revenue_visibility": 21.2,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
-    "margin_quality": 14.5,
-    "balance_sheet": 14.7
+    "margin_quality": 11.4,
+    "balance_sheet": 4.4
+   }
+  },
+  {
+   "rank": 8,
+   "company": "Barclay Digital Services",
+   "score": 69.9,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 17547732.0,
+   "margin": 0.222,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Belfast",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 13.8,
+    "strategy_fit": 12.0,
+    "size_fit": 15.0,
+    "margin_quality": 16.7,
+    "balance_sheet": 12.4
    }
   },
   {
    "rank": 9,
-   "company": "5G Communications",
-   "score": 69.1,
-   "fit": "ADJACENT",
-   "segment": "Other telecoms networks",
-   "turnover": 20867520.0,
-   "margin": 0.119,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "High Wycombe",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 12.0,
-    "size_fit": 15.0,
-    "margin_quality": 10.7,
-    "balance_sheet": 13.9
-   }
-  },
-  {
-   "rank": 10,
    "company": "Rapid Response Telecoms",
-   "score": 67.8,
+   "score": 69.0,
    "fit": "IN",
    "segment": "Building and maintaining telecoms and utility networks",
    "turnover": 33104076.0,
@@ -201,36 +181,97 @@
    "town": "Barnsley",
    "confidence": "Low",
    "pts": {
-    "revenue_visibility": 8.8,
+    "revenue_visibility": 10.0,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
     "margin_quality": 13.3,
     "balance_sheet": 10.7
    }
+  },
+  {
+   "rank": 10,
+   "company": "Heneghan Holdings",
+   "score": 67.6,
+   "fit": "ADJACENT",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 41678822.0,
+   "margin": 0.414,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Leeds",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 12.0,
+    "size_fit": 14.1,
+    "margin_quality": 21.2,
+    "balance_sheet": 11.5
+   }
   }
  ],
  "top10_moves": [
   {
-   "company": "Dstny Global Services UK",
-   "number": "08414530",
-   "kind": "up",
-   "from": 5,
-   "to": 4,
-   "score_from": 77.7,
-   "score_to": 77.7,
+   "company": "VEA Group",
+   "number": "13433533",
+   "kind": "same",
+   "from": 1,
+   "to": 1,
+   "score_from": 91.8,
+   "score_to": 84.3,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
    "events": []
   },
   {
-   "company": "Barclay Digital Services",
-   "number": "NI624500",
+   "company": "Clarus Networks",
+   "number": "SC492820",
+   "kind": "same",
+   "from": 2,
+   "to": 2,
+   "score_from": 84.6,
+   "score_to": 79.6,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
    "kind": "up",
-   "from": 7,
-   "to": 5,
-   "score_from": 73.6,
-   "score_to": 73.6,
+   "from": 6,
+   "to": 3,
+   "score_from": 73.9,
+   "score_to": 78.2,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": [
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  },
+  {
+   "company": "The Networking People (TNP)",
+   "number": "07667393",
+   "kind": "down",
+   "from": 3,
+   "to": 4,
+   "score_from": 83.0,
+   "score_to": 78.0,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "MAP Group (UK)",
+   "number": "02853596",
+   "kind": "up",
+   "from": 8,
+   "to": 6,
+   "score_from": 73.1,
+   "score_to": 75.5,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -241,9 +282,9 @@
    "number": "05208041",
    "kind": "down",
    "from": 4,
-   "to": 6,
+   "to": 7,
    "score_from": 79.2,
-   "score_to": 73.3,
+   "score_to": 72.0,
    "reasons": [
     "turnover \u00a336.3m \u2192 \u00a327.5m",
     "scoring method changed (v3 to v3.1)"
@@ -253,41 +294,15 @@
    ]
   },
   {
-   "company": "MAP Group (UK)",
-   "number": "02853596",
-   "kind": "up",
-   "from": 8,
-   "to": 7,
-   "score_from": 73.1,
-   "score_to": 73.1,
-   "reasons": [
-    "scoring method changed (v3 to v3.1)"
-   ],
-   "events": []
-  },
-  {
-   "company": "A-2-Sea Solutions",
-   "number": "03223673",
-   "kind": "up",
-   "from": 9,
+   "company": "Barclay Digital Services",
+   "number": "NI624500",
+   "kind": "down",
+   "from": 7,
    "to": 8,
-   "score_from": 73.0,
-   "score_to": 73.0,
+   "score_from": 73.6,
+   "score_to": 69.9,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
-   ],
-   "events": []
-  },
-  {
-   "company": "5G Communications",
-   "number": "03513467",
-   "kind": "new",
-   "from": null,
-   "to": 9,
-   "score_from": null,
-   "score_to": 69.1,
-   "reasons": [
-    "entered the ranking (ADJACENT fit, high accessibility)"
    ],
    "events": []
   },
@@ -296,9 +311,9 @@
    "number": "11480193",
    "kind": "new",
    "from": null,
-   "to": 10,
+   "to": 9,
    "score_from": null,
-   "score_to": 67.8,
+   "score_to": 69.0,
    "reasons": [
     "entered the ranking (IN fit, high accessibility)"
    ],
@@ -307,18 +322,19 @@
    ]
   },
   {
-   "company": "Alert Communications",
-   "number": "03912906",
-   "kind": "down",
-   "from": 6,
-   "to": 14,
-   "score_from": 73.9,
-   "score_to": 66.9,
+   "company": "Heneghan Holdings",
+   "number": "09956206",
+   "kind": "new",
+   "from": null,
+   "to": 10,
+   "score_from": null,
+   "score_to": 67.6,
    "reasons": [
-    "scoring method changed (v3 to v3.1)"
+    "entered the ranking (ADJACENT fit, medium accessibility)"
    ],
    "events": [
-    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
+    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
    ]
   },
   {
@@ -326,11 +342,24 @@
    "number": "06011062",
    "kind": "down",
    "from": 10,
-   "to": 15,
+   "to": 13,
    "score_from": 66.7,
    "score_to": 66.7,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "A-2-Sea Solutions",
+   "number": "03223673",
+   "kind": "out",
+   "from": 9,
+   "to": null,
+   "score_from": 73.0,
+   "score_to": null,
+   "reasons": [
+    "Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100%"
    ],
    "events": []
   }
@@ -341,7 +370,7 @@
    "number": "00714431",
    "kind": "new",
    "from": null,
-   "to": 41,
+   "to": 40,
    "score_from": null,
    "score_to": 38.8,
    "reasons": [
@@ -354,7 +383,7 @@
    "number": "01763970",
    "kind": "down",
    "from": 22,
-   "to": 31,
+   "to": 30,
    "score_from": 47.9,
    "score_to": 47.9,
    "reasons": [
@@ -367,7 +396,7 @@
    "number": "02652955",
    "kind": "down",
    "from": 25,
-   "to": 34,
+   "to": 33,
    "score_from": 44.2,
    "score_to": 44.2,
    "reasons": [
@@ -380,7 +409,7 @@
    "number": "02760731",
    "kind": "down",
    "from": 14,
-   "to": 20,
+   "to": 19,
    "score_from": 60.9,
    "score_to": 60.9,
    "reasons": [
@@ -393,7 +422,7 @@
    "number": "02797895",
    "kind": "down",
    "from": 19,
-   "to": 26,
+   "to": 25,
    "score_from": 55.0,
    "score_to": 55.0,
    "reasons": [
@@ -406,9 +435,9 @@
    "number": "02853596",
    "kind": "up",
    "from": 8,
-   "to": 7,
+   "to": 6,
    "score_from": 73.1,
-   "score_to": 73.1,
+   "score_to": 75.5,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -419,7 +448,7 @@
    "number": "02893478",
    "kind": "new",
    "from": null,
-   "to": 43,
+   "to": 42,
    "score_from": null,
    "score_to": 36.9,
    "reasons": [
@@ -432,7 +461,7 @@
    "number": "03193093",
    "kind": "down",
    "from": 23,
-   "to": 32,
+   "to": 31,
    "score_from": 46.8,
    "score_to": 46.8,
    "reasons": [
@@ -443,13 +472,13 @@
   {
    "company": "A-2-Sea Solutions",
    "number": "03223673",
-   "kind": "up",
+   "kind": "out",
    "from": 9,
-   "to": 8,
+   "to": null,
    "score_from": 73.0,
-   "score_to": 73.0,
+   "score_to": null,
    "reasons": [
-    "scoring method changed (v3 to v3.1)"
+    "Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100%"
    ],
    "events": []
   },
@@ -458,7 +487,7 @@
    "number": "03228824",
    "kind": "down",
    "from": 20,
-   "to": 27,
+   "to": 26,
    "score_from": 54.9,
    "score_to": 54.9,
    "reasons": [
@@ -471,9 +500,9 @@
    "number": "03513467",
    "kind": "new",
    "from": null,
-   "to": 9,
+   "to": 14,
    "score_from": null,
-   "score_to": 69.1,
+   "score_to": 66.6,
    "reasons": [
     "entered the ranking (ADJACENT fit, high accessibility)"
    ],
@@ -484,7 +513,7 @@
    "number": "03752620",
    "kind": "down",
    "from": 13,
-   "to": 18,
+   "to": 17,
    "score_from": 63.3,
    "score_to": 63.3,
    "reasons": [
@@ -497,7 +526,7 @@
    "number": "03868503",
    "kind": "down",
    "from": 26,
-   "to": 35,
+   "to": 34,
    "score_from": 44.0,
    "score_to": 44.0,
    "reasons": [
@@ -508,11 +537,11 @@
   {
    "company": "Alert Communications",
    "number": "03912906",
-   "kind": "down",
+   "kind": "up",
    "from": 6,
-   "to": 14,
+   "to": 3,
    "score_from": 73.9,
-   "score_to": 66.9,
+   "score_to": 78.2,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -525,7 +554,7 @@
    "number": "04085164",
    "kind": "down",
    "from": 18,
-   "to": 25,
+   "to": 24,
    "score_from": 55.8,
    "score_to": 55.8,
    "reasons": [
@@ -538,7 +567,7 @@
    "number": "04210561",
    "kind": "down",
    "from": 16,
-   "to": 23,
+   "to": 22,
    "score_from": 56.7,
    "score_to": 56.7,
    "reasons": [
@@ -551,7 +580,7 @@
    "number": "04213760",
    "kind": "down",
    "from": 12,
-   "to": 17,
+   "to": 16,
    "score_from": 63.6,
    "score_to": 63.6,
    "reasons": [
@@ -564,7 +593,7 @@
    "number": "04380546",
    "kind": "new",
    "from": null,
-   "to": 29,
+   "to": 28,
    "score_from": null,
    "score_to": 49.8,
    "reasons": [
@@ -577,7 +606,7 @@
    "number": "04503928",
    "kind": "new",
    "from": null,
-   "to": 46,
+   "to": 45,
    "score_from": null,
    "score_to": 31.9,
    "reasons": [
@@ -590,7 +619,7 @@
    "number": "04544886",
    "kind": "new",
    "from": null,
-   "to": 19,
+   "to": 18,
    "score_from": null,
    "score_to": 62.3,
    "reasons": [
@@ -603,7 +632,7 @@
    "number": "04570376",
    "kind": "down",
    "from": 30,
-   "to": 39,
+   "to": 38,
    "score_from": 40.9,
    "score_to": 40.9,
    "reasons": [
@@ -616,7 +645,7 @@
    "number": "04632756",
    "kind": "down",
    "from": 29,
-   "to": 38,
+   "to": 37,
    "score_from": 41.9,
    "score_to": 41.9,
    "reasons": [
@@ -629,9 +658,9 @@
    "number": "05208041",
    "kind": "down",
    "from": 4,
-   "to": 6,
+   "to": 7,
    "score_from": 79.2,
-   "score_to": 73.3,
+   "score_to": 72.0,
    "reasons": [
     "turnover \u00a336.3m \u2192 \u00a327.5m",
     "scoring method changed (v3 to v3.1)"
@@ -645,7 +674,7 @@
    "number": "05787755",
    "kind": "down",
    "from": 17,
-   "to": 24,
+   "to": 23,
    "score_from": 56.0,
    "score_to": 56.0,
    "reasons": [
@@ -658,7 +687,7 @@
    "number": "06011062",
    "kind": "down",
    "from": 10,
-   "to": 15,
+   "to": 13,
    "score_from": 66.7,
    "score_to": 66.7,
    "reasons": [
@@ -671,7 +700,7 @@
    "number": "06521296",
    "kind": "down",
    "from": 28,
-   "to": 37,
+   "to": 36,
    "score_from": 42.8,
    "score_to": 42.8,
    "reasons": [
@@ -684,7 +713,7 @@
    "number": "07020016",
    "kind": "down",
    "from": 21,
-   "to": 30,
+   "to": 29,
    "score_from": 49.1,
    "score_to": 49.1,
    "reasons": [
@@ -693,13 +722,13 @@
    "events": []
   },
   {
-   "company": "Dstny Global Services UK",
-   "number": "08414530",
-   "kind": "up",
-   "from": 5,
+   "company": "The Networking People (TNP)",
+   "number": "07667393",
+   "kind": "down",
+   "from": 3,
    "to": 4,
-   "score_from": 77.7,
-   "score_to": 77.7,
+   "score_from": 83.0,
+   "score_to": 78.0,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -710,7 +739,7 @@
    "number": "08824522",
    "kind": "down",
    "from": 32,
-   "to": 45,
+   "to": 44,
    "score_from": 33.1,
    "score_to": 33.1,
    "reasons": [
@@ -723,7 +752,7 @@
    "number": "09180490",
    "kind": "new",
    "from": null,
-   "to": 40,
+   "to": 39,
    "score_from": null,
    "score_to": 39.0,
    "reasons": [
@@ -736,7 +765,7 @@
    "number": "09348602",
    "kind": "down",
    "from": 11,
-   "to": 16,
+   "to": 15,
    "score_from": 64.0,
    "score_to": 64.0,
    "reasons": [
@@ -749,7 +778,7 @@
    "number": "09585068",
    "kind": "new",
    "from": null,
-   "to": 12,
+   "to": 11,
    "score_from": null,
    "score_to": 67.3,
    "reasons": [
@@ -762,7 +791,7 @@
    "number": "09956206",
    "kind": "new",
    "from": null,
-   "to": 11,
+   "to": 10,
    "score_from": null,
    "score_to": 67.6,
    "reasons": [
@@ -778,7 +807,7 @@
    "number": "10021562",
    "kind": "new",
    "from": null,
-   "to": 21,
+   "to": 20,
    "score_from": null,
    "score_to": 58.5,
    "reasons": [
@@ -791,7 +820,7 @@
    "number": "10779280",
    "kind": "new",
    "from": null,
-   "to": 28,
+   "to": 27,
    "score_from": null,
    "score_to": 50.0,
    "reasons": [
@@ -804,9 +833,9 @@
    "number": "11480193",
    "kind": "new",
    "from": null,
-   "to": 10,
+   "to": 9,
    "score_from": null,
-   "score_to": 67.8,
+   "score_to": 69.0,
    "reasons": [
     "entered the ranking (IN fit, high accessibility)"
    ],
@@ -819,7 +848,7 @@
    "number": "12520403",
    "kind": "new",
    "from": null,
-   "to": 47,
+   "to": 46,
    "score_from": null,
    "score_to": 31.8,
    "reasons": [
@@ -828,11 +857,24 @@
    "events": []
   },
   {
+   "company": "VEA Group",
+   "number": "13433533",
+   "kind": "same",
+   "from": 1,
+   "to": 1,
+   "score_from": 91.8,
+   "score_to": 84.3,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
    "company": "Solid Telecommunications",
    "number": "13576894",
    "kind": "down",
    "from": 27,
-   "to": 36,
+   "to": 35,
    "score_from": 43.2,
    "score_to": 43.2,
    "reasons": [
@@ -845,7 +887,7 @@
    "number": "14354114",
    "kind": "down",
    "from": 31,
-   "to": 44,
+   "to": 43,
    "score_from": 35.5,
    "score_to": 35.5,
    "reasons": [
@@ -858,7 +900,7 @@
    "number": "NI064545",
    "kind": "down",
    "from": 15,
-   "to": 22,
+   "to": 21,
    "score_from": 56.9,
    "score_to": 56.9,
    "reasons": [
@@ -873,7 +915,7 @@
    "number": "NI614374",
    "kind": "new",
    "from": null,
-   "to": 42,
+   "to": 41,
    "score_from": null,
    "score_to": 38.3,
    "reasons": [
@@ -886,7 +928,7 @@
    "number": "NI620995",
    "kind": "new",
    "from": null,
-   "to": 13,
+   "to": 12,
    "score_from": null,
    "score_to": 67.0,
    "reasons": [
@@ -897,11 +939,24 @@
   {
    "company": "Barclay Digital Services",
    "number": "NI624500",
-   "kind": "up",
+   "kind": "down",
    "from": 7,
-   "to": 5,
+   "to": 8,
    "score_from": 73.6,
-   "score_to": 73.6,
+   "score_to": 69.9,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Clarus Networks",
+   "number": "SC492820",
+   "kind": "same",
+   "from": 2,
+   "to": 2,
+   "score_from": 84.6,
+   "score_to": 79.6,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -912,7 +967,7 @@
    "number": "SC702923",
    "kind": "down",
    "from": 24,
-   "to": 33,
+   "to": 32,
    "score_from": 44.5,
    "score_to": 44.5,
    "reasons": [
@@ -965,5 +1020,5 @@
    "detail": "Leydon, Chris resigned"
   }
  ],
- "ranked": 47
+ "ranked": 46
 }
