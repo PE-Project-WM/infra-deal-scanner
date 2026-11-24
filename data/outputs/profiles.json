@@ -302,14 +302,27 @@
    "Founder-owned, so a direct approach is possible"
   ],
   "checks": [
-   "Sales up 56% in one year: check how much came from acquisitions or one-off contracts",
    "Figures were read from the text of the accounts: check them against the filing",
+   "Trade debtors went from \u00a31.5m to \u00a35.5m in a year while sales doubled: check how quickly customers pay and whether any of it is disputed",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
-  "history": [],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 12607527.0,
+    "margin": 0.0103306540608638,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 21287366.0,
+    "margin": 0.1525982594558669,
+    "basis": "Operating profit"
+   }
+  ],
   "ebitda": 5411058.0,
-  "interest_cover": null,
-  "capex_share": null
+  "interest_cover": 39.777972676673976,
+  "capex_share": 0.0645014867796779
  },
  "09956206": {
   "rank": 11,
