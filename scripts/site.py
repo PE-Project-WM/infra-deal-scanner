@@ -16,7 +16,13 @@ funnel = [
     ('Profitable and scored', U['ranked']),
 ]
 weights = C['scoring_weights']
-data = {'update': U, 'funnel': funnel, 'weights': weights}
+corr_path = f'{ROOT}/data/outputs/correlation_latest.json'   # Version 2 lenses (scripts/lenses.py)
+corr = json.load(open(corr_path)) if os.path.exists(corr_path) else None
+if corr:
+    by_rank = {t['rank']: t for t in corr['top10']}
+    for t in U['top10']:
+        t['lens'] = by_rank.get(t['rank'])
+data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr}
 payload = json.dumps(data, default=str).replace('</', '<\\/')
 
 page = r'''<!doctype html>
@@ -77,6 +83,29 @@ details>summary:hover{background:#f7f9fb}
 .detail td:last-child{text-align:right;font-feature-settings:"tnum";color:var(--ink);font-weight:600}
 .detail td i{display:inline-block;width:14px;height:5px;border-radius:3px;margin-right:8px;vertical-align:middle}
 .facts p{margin-bottom:6px}.facts b{color:var(--ink);font-weight:600}
+/* lenses */
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.tag{font-size:12px;font-weight:600;line-height:1;padding:4px 8px;border-radius:20px;background:#eef1f4;color:var(--ink2);white-space:nowrap}
+.tag.t-Steady{background:#e3f3ea;color:#1f6e3e} .tag.t-High-growth{background:#e5edfa;color:#1d4f9f} .tag.t-Fixable{background:#fbeee3;color:#9a4c17} .tag.t-Between,.tag.t-Numbers{background:#eceff2;color:var(--slate)}
+.corr{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:22px}
+.corr .flag{display:inline-block;font-weight:700;font-size:13px;letter-spacing:.04em;padding:4px 10px;border-radius:4px;margin-bottom:12px}
+.flag.green{background:#e3f3ea;color:#1f6e3e}.flag.amber{background:#fdf0dc;color:#94580a}.flag.red{background:#fbe4e0;color:#a3301f}
+.corr h3{font-size:19px;font-weight:700;margin-bottom:16px;max-width:60ch}
+.cbar{display:flex;height:34px;border-radius:6px;overflow:hidden;margin-bottom:16px}
+.cbar span{display:flex;align-items:center;padding-left:10px;color:#fff;font-size:13px;font-weight:600;border-right:2px solid var(--sheet);white-space:nowrap;overflow:hidden}
+.cbar span:last-child{border-right:none}
+.clist{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px 24px;font-size:14px;color:var(--ink2)}
+.clist b{display:block;color:var(--ink);font-size:15px}
+.clist i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:7px;vertical-align:-1px}
+.buckets{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:22px}
+.bucket{border-top:3px solid var(--ink);padding-top:10px;font-size:14px;color:var(--ink2)}
+.bucket b{display:block;color:var(--ink);font-size:15.5px}
+@media (max-width:860px){.buckets{grid-template-columns:1fr}.cbar span{font-size:0;padding:0}}
+/* bucket key above the ranking */
+.bkey{display:grid;grid-template-columns:repeat(4,1fr);gap:10px 18px;margin:0 0 18px;font-size:13.5px;color:var(--ink2);line-height:1.4}
+.bkey .tag{display:inline-block;margin:0 0 5px}
+.bkey>span{display:flex;flex-direction:column;align-items:flex-start}
+@media (max-width:860px){.bkey{grid-template-columns:1fr 1fr}}
 /* changes */
 .changes{display:grid;gap:12px}
 .chg{display:grid;grid-template-columns:118px 1fr;gap:18px;padding:14px 0;border-bottom:1px solid var(--rule)}
@@ -130,7 +159,24 @@ footer p{max-width:80ch;margin-bottom:8px}
   <h2>The top ten</h2>
   <p class="sub">Each bar is a bundle of six strands, one per scoring criterion, so you can see why a company ranks where it does. How easy a company would be to buy is shown separately and never added to the score. Select a company for its numbers.</p>
   <div class="legend" id="legend"></div>
+  <div class="bkey" id="bkey" hidden>
+    <span><span class="tag t-Steady">Steady compounder</span>Recurring revenue, stable margins. Suits core infrastructure funds.</span>
+    <span><span class="tag t-Fixable">Fixable dip</span>Falling or thin results with a possible fix. Suits value-add funds.</span>
+    <span><span class="tag t-High-growth">High-growth</span>Turnover up 25%+ in a year, lumpier profit. Suits growth PE.</span>
+    <span><span class="tag t-Between">Between buckets</span>Fits none cleanly; the reason is in each company's detail.</span>
+  </div>
   <ol class="rank" id="rank"></ol>
+</div></section>
+
+<section id="corr-section" hidden><div class="wrap">
+  <h2>Is the top ten really ten bets?</h2>
+  <p class="sub">Each company is tagged with what its revenue mainly depends on. Companies that depend on the same thing would fall together, so they count as one bet. The tags are judgement calls from each company's business description and are shown for review.</p>
+  <div class="corr" id="corr"></div>
+  <div class="buckets">
+    <div class="bucket"><b>Steady compounder</b>Recurring-type revenue and stable margins. Suits core and core-plus infrastructure funds.</div>
+    <div class="bucket"><b>Fixable dip</b>A falling or thin result with a possible fix still to be confirmed. Suits value-add funds.</div>
+    <div class="bucket"><b>High-growth</b>Turnover up 25% or more in a year, with lumpier profit. Suits growth and mid-market PE.</div>
+  </div>
 </div></section>
 
 <section><div class="wrap">
@@ -186,16 +232,29 @@ document.getElementById('rank').innerHTML = U.top10.map((t, idx) => {
   const acc = t.access.replace(/\s+/g,'');
   return `<li><details><summary>
     <span class="pos">${t.rank}</span>
-    <span class="name">${esc(t.company)}<small>${esc(SEG[t.segment] || t.segment)}${t.town ? ', ' + esc(t.town) : ''}</small></span>
+    <span class="name">${esc(t.company)}<small>${esc(SEG[t.segment] || t.segment)}${t.town ? ', ' + esc(t.town) : ''}</small>${t.lens ? `<span class="tags"><span class="tag t-${t.lens.deal_type.split(' ')[0]}">${esc(t.lens.deal_type)}</span><span class="tag">${esc(t.lens.demand_driver)}</span></span>` : ''}</span>
     <span class="bundle" role="img" aria-label="Score ${t.score.toFixed(1)} out of 100">${strands}</span>
     <span class="score">${t.score.toFixed(1)}</span>
     <span class="access a-${acc}"><span class="dot"></span><span><b>${esc(t.access)}</b> access</span></span>
   </summary>
   <div class="detail"><table>${rows}</table>
     <div class="facts"><p><b>Turnover</b> ${money(t.turnover)}${t.margin != null ? ` &nbsp; <b>EBITDA margin</b> ${Math.round(t.margin*100)}%` : ''}</p>
-    <p><b>Thesis fit</b> ${esc(t.fit)}</p><p><b>Accessibility</b> ${esc(t.access_note)}</p></div></div>
+    <p><b>Thesis fit</b> ${esc(t.fit)}</p><p><b>Accessibility</b> ${esc(t.access_note)}</p>
+    ${t.lens ? `<p><b>Deal type</b> ${esc(t.lens.deal_type)}: ${esc(t.lens.deal_type_reason)}. ${esc(t.lens.fund_fit)}.</p>
+    <p><b>Demand driver</b> ${esc(t.lens.demand_driver)}${t.lens.second_driver ? ', then ' + esc(t.lens.second_driver) : ''} (${esc(t.lens.driver_basis)}).</p>` : ''}</div></div>
   </details></li>`;
 }).join('');
+
+if (D.corr) {
+  const c = D.corr.top_n, PAL = ['#2463c7','#e2742a','#2e9a57','#86563a','#7a4fd0','#64707e','#c2412d','#1d8a8a'];
+  document.getElementById('corr-section').hidden = false;
+  document.getElementById('bkey').hidden = false;
+  document.getElementById('corr').innerHTML = `<span class="flag ${c.flag}">${c.flag.toUpperCase()}</span>
+    <h3>${esc(D.corr.headline)}.</h3>
+    <div class="cbar" role="img" aria-label="Top ten split by macro factor">${c.factors.map((f, i) => `<span style="width:${f.share*100}%;background:${PAL[i % PAL.length]}" title="${esc(f.factor)}: ${f.count}">${f.count}</span>`).join('')}</div>
+    <div class="clist">${c.factors.map((f, i) => `<div><b><i style="background:${PAL[i % PAL.length]}"></i>${esc(f.factor)}</b>${f.count} of ${c.n}: ${f.companies.map(esc).join(', ')}</div>`).join('')}</div>
+    <p class="sub" style="margin:16px 0 0;font-size:13.5px">Amber when ${Math.round(D.corr.thresholds.amber_share*100)}% or more of the top ten share one factor, red at ${Math.round(D.corr.thresholds.red_share*100)}%. Across the top twenty it is about ${D.corr.top_20.effective_bets.toFixed(0)} independent bets.</p>`;
+}
 
 const moves = U.top10_moves;
 document.getElementById('changes-sub').textContent = U.previous_scored_on

@@ -16,6 +16,7 @@ Built by William Mikollovci with Python, GitHub Actions and Claude.
 | 4. Clean | Implausible numbers flagged, owners traced through parent companies (PSC register), duplicates merged, off-thesis firms removed with a logged reason | `scripts/clean.py` |
 | 5. Score | Six weighted criteria out of 100; accessibility (ownership) shown separately and never blended into the score | `scripts/score.py` |
 | 6. Weekly update | New accounts, owners, charges, directors and status changes; re-rank and explain each move from the points that changed | `scripts/monitor.py`, `scripts/compare.py` |
+| 6b. Deal types and correlation (Version 2) | Each company labelled Steady compounder, Fixable dip or High-growth (which kind of fund it suits) and tagged with its main demand driver; the top 10 is tested for hidden concentration on one macro factor (amber at 30%, red at 50%) | `scripts/lenses.py`, `config/demand_drivers.json`, `config/demand_driver_overrides.csv` |
 | 7. Website | Rebuilt from the latest run and published with GitHub Pages | `scripts/site.py` → `docs/` |
 
 The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run commits its results to `data/` and opens an issue with the update.
@@ -25,6 +26,8 @@ The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run 
 - `data/outputs/ranking_latest.csv`: the current ranking, with points per criterion
 - `data/outputs/rankings/`: a dated copy of every ranking
 - `data/outputs/excluded_log.csv`: every company removed, with the reason
+- `data/outputs/lenses_latest.csv`: deal type, demand driver and macro factor for every ranked and watchlist company
+- `data/outputs/correlation_report.md`: the top-10 correlation test (also added to each weekly issue)
 - `data/updates/`: each week's "what changed and why", as Markdown and JSON
 
 ## Known limits
