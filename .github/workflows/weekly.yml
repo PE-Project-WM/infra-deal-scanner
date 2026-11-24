@@ -69,7 +69,7 @@ jobs:
           git config user.email "screener-bot@users.noreply.github.com"
           git add data docs
           git commit -m "Weekly update $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
-          git pull --rebase
+          git pull --rebase -X theirs   # this run's results win over an earlier run's logs
           git push
       - name: Post the update as an issue (GitHub emails it to you)
         env:
