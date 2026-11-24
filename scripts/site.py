@@ -64,8 +64,16 @@ growth_infra = [{'company': nice(r['CompanyName']), 'what': plain(r['relevance_r
                  'reason': r['deal_type_reason']} for _, r in wl.sort_values('turnover', ascending=False).iterrows()]
 sc_path = f'{ROOT}/data/outputs/sector_check.csv'
 sector_check = len(pd.read_csv(sc_path)) if os.path.exists(sc_path) else 0
+val_path = f'{ROOT}/data/outputs/valuation_latest.json'   # price check (valuation.py)
+val = json.load(open(val_path)) if os.path.exists(val_path) else None
+if val:
+    vby = {c['rank']: c for c in val['companies']}
+    for t in U['top10']:
+        t['price'] = vby.get(t['rank'])
+    for c in val['companies']:
+        c['company'] = nice(c['CompanyName'])
 data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr, 'all': all_ranked, 'growth_infra': growth_infra,
-        'sector_check': sector_check, 'scanned': 842, 'universe': len(fin)}
+        'sector_check': sector_check, 'scanned': 842, 'universe': len(fin), 'val': val}
 payload = json.dumps(data, default=str).replace('</', '<\\/')
 
 page = open(f'{ROOT}/scripts/site_template.html').read()   # layout and styles live in the template

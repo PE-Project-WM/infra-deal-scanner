@@ -17,6 +17,8 @@ on:
       - 'scripts/site.py'
       - 'scripts/lenses.py'
       - 'scripts/profiles.py'
+      - 'scripts/valuation.py'
+      - 'config/valuation.json'
       - 'scripts/history.py'
       - 'scripts/score.py'
       - 'config/criteria_digital_infra.json'
@@ -62,6 +64,7 @@ jobs:
           python scripts/compare.py 2>&1 | tee data/monitor/compare_log.txt
           python scripts/lenses.py 2>&1 | tee data/outputs/lenses_log.txt
           python scripts/profiles.py 2>&1 | tee data/outputs/profiles_log.txt
+          python scripts/valuation.py 2>&1 | tee data/outputs/valuation_log.txt
           python scripts/site.py
       - name: Save results
         run: |
