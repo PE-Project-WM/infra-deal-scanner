@@ -1,0 +1,159 @@
+"""Step 03c: read the figures from the scanned-accounts text saved by ocr_fetch.py.
+
+For each data/ocr/text/<number>_<filed>.txt, finds the profit and loss account and reads turnover (this year and last),
+operating profit, profit before tax, depreciation and amortisation (from the notes), cash and net assets
+(from the balance sheet). Handles £'000 presentation and dollar or euro accounts.
+Writes data/ocr/ocr_financials.csv; clean.py fills these into companies whose latest accounts are a scan.
+Every figure is labelled "OCR, check": OCR can misread digits, so the sanity checks below drop anything implausible.
+"""
+import os, re, glob
+import pandas as pd
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+TXT = f'{ROOT}/data/ocr/text'
+
+PL_HEAD = re.compile(r'(profit and loss account|statement of (comprehensive )?income|income statement|statement of profit or loss|profit and loss)', re.I)
+BS_HEAD = re.compile(r'(balance sheet|statement of financial position)', re.I)
+NUM = re.compile(r'\(?-?\d{1,3}(?:[,.] ?\d{3})+\)?|\(?-?\d{4,}\)?')
+YEAR = re.compile(r'^(19|20)\d\d$')
+
+LINES = {
+    'turnover': re.compile(r'^\W{0,3}(group |total )?(turnover|revenue)\b', re.I),
+    'operating_profit': re.compile(r'^\W{0,3}(group )?(operating (profit|loss)|(profit|loss)\s*/?\s*\(?(profit|loss)?\)?\s*from operations)', re.I),
+    'profit_before_tax': re.compile(r'^\W{0,3}(profit|loss)[^0-9]{0,40}before (income )?tax', re.I),
+    'depreciation': re.compile(r'^\W{0,3}depreciation\b', re.I),
+    'amortisation': re.compile(r'^\W{0,3}amorti[sz]ation\b', re.I),
+    'cash': re.compile(r'^\W{0,3}cash (at bank( and in hand)?|and cash equivalents|in hand)\b', re.I),
+    'net_assets': re.compile(r'^\W{0,3}(net assets|total equity|total shareholders. funds)\b', re.I),
+}
+
+def numbers(line, small_ok=False):
+    """Amounts on a line, in order; skips years and note numbers. small_ok: the page is in £000s, so small amounts count."""
+    out = []
+    for m in NUM.findall(line) if not small_ok else re.findall(r'\(?-?\d{1,3}(?:[,.] ?\d{3})+\)?|\(?-?\d+\)?', line):
+        neg = m.startswith('(') or m.startswith('-')
+        digits = re.sub(r'[^\d]', '', m)
+        if not digits:
+            continue
+        if YEAR.match(digits) and ',' not in m and '.' not in m:
+            continue
+        v = float(digits)
+        if v >= 1000 or (',' in m or '.' in m) or small_ok:
+            out.append((-v if neg else v, m))
+    if small_ok and len(out) >= 3 and abs(out[0][0]) <= 40 and ',' not in out[0][1]:
+        out = out[1:]   # leading note number
+    return [v for v, _ in out]
+
+def pages(text):
+    parts = re.split(r'=== page (\d+) ===\n', text)
+    return [(int(parts[i]), parts[i + 1]) for i in range(1, len(parts) - 1, 2)]
+
+def scale_of(page):
+    if re.search(r"(£|\$|€|us\$|usd|eur|gbp)\s?['’`]?\s?(000|k)\b|in thousands|['’]000", page, re.I):
+        return 1000
+    if re.search(r"(£|\$|€)\s?m\b|in millions", page, re.I):
+        return 1_000_000
+    return 1
+
+def currency_of(text):
+    head = text[:30000]
+    m = re.search(r'(presentation|functional|reporting) currency[^.]{0,160}', head, re.I)
+    s = m.group(0).lower() if m else ''
+    if 'dollar' in s or 'usd' in s:
+        return 'USD'
+    if 'euro' in s or ' eur' in s:
+        return 'EUR'
+    if not s and len(re.findall(r'US\$|\bUSD\b', head)) > 5 and len(re.findall('£', head)) < 3:
+        return 'USD'
+    return 'GBP'
+
+def first_line(page, key, small_ok=False):
+    for line in page.split('\n'):
+        if LINES[key].search(line):
+            nums = numbers(line, small_ok)
+            if nums:
+                return nums
+    return None
+
+def parse(text):
+    P = pages(text)
+    out = {}
+    pl = [(n, t) for n, t in P if PL_HEAD.search(t) and first_line(t, 'turnover')]
+    if not pl:
+        return {'problem': 'no profit and loss account with turnover found'}
+    n0, page = pl[0]   # group accounts put the consolidated statement first
+    k = scale_of(page) if scale_of(page) > 1 else scale_of(text[:20000])
+    t = first_line(page, 'turnover', k > 1)
+    out['turnover'] = t[0] * k
+    out['turnover_prior'] = t[1] * k if len(t) > 1 else None
+    for key in ('operating_profit', 'profit_before_tax'):
+        v = first_line(page, key, k > 1)
+        if v:
+            out[key] = v[0] * k
+    # depreciation and amortisation from the notes after the P&L (operating profit note)
+    da = 0.0
+    for key in ('depreciation', 'amortisation'):
+        for n, t in P:
+            if n <= n0:
+                continue
+            kt = scale_of(t) if scale_of(t) > 1 else k
+            v = first_line(t, key, kt > 1)
+            if v:
+                da += abs(v[0]) * (scale_of(t) if scale_of(t) > 1 else k)
+                out[key] = abs(v[0]) * (scale_of(t) if scale_of(t) > 1 else k)
+                break
+    if da:
+        out['da_total'] = da
+    bs = [(n, t) for n, t in P if BS_HEAD.search(t) and (first_line(t, 'net_assets') or first_line(t, 'cash'))]
+    if bs:
+        b = bs[0][1]
+        kb = scale_of(b) if scale_of(b) > 1 else k
+        for key in ('cash', 'net_assets'):
+            v = first_line(b, key, kb > 1)
+            if v:
+                out[key] = v[0] * kb
+    m = re.search(r'(year|period|52 weeks|53 weeks) ended\s+(\d{1,2}(st|nd|rd|th)? \w+ \d{4})', text, re.I)
+    out['period_text'] = m.group(2) if m else None
+    out['unit'] = {1: '£', 1000: "000s", 1_000_000: 'millions'}[k]
+    return out
+
+def checks(o):
+    """Drop figures that cannot be right; OCR misreads usually show up as impossible ratios."""
+    t = o.get('turnover')
+    if not t or t < 100_000 or t > 50e9:
+        return 'turnover implausible'
+    if o.get('turnover_prior') and not (0.2 <= t / o['turnover_prior'] <= 5):
+        o['turnover_prior'] = None   # likely misread; keep the current year
+    for key in ('operating_profit', 'profit_before_tax'):
+        if o.get(key) is not None and abs(o[key]) > 1.5 * t:
+            o[key] = None
+    if o.get('da_total') and o['da_total'] > 0.6 * t:
+        o['da_total'] = None
+    return ''
+
+rows = []
+for path in sorted(glob.glob(f'{TXT}/*.txt')):
+    num, filed = os.path.basename(path)[:-4].rsplit('_', 1)
+    text = open(path, errors='ignore').read()
+    o = parse(text)
+    o.update({'CompanyNumber': num, 'filed': filed, 'currency': currency_of(text)})
+    if 'problem' not in o:
+        o['problem'] = checks(o)
+    op, da = o.get('operating_profit'), o.get('da_total')
+    if op is not None and da:
+        o['ebitda'], o['ebitda_basis'] = op + da, 'Operating profit + D&A (OCR)'
+    elif op is not None:
+        o['ebitda'], o['ebitda_basis'] = op, 'ESTIMATE: operating profit only (OCR, no D&A found)'
+    o['figures_source'] = 'OCR, check'
+    rows.append(o)
+
+R = pd.DataFrame(rows)
+cols = ['CompanyNumber', 'filed', 'period_text', 'currency', 'unit', 'turnover', 'turnover_prior', 'operating_profit',
+        'profit_before_tax', 'depreciation', 'amortisation', 'da_total', 'ebitda', 'ebitda_basis', 'cash', 'net_assets',
+        'figures_source', 'problem']
+R = R.reindex(columns=cols)
+R.to_csv(f'{ROOT}/data/ocr/ocr_financials.csv', index=False)
+ok = R[R['problem'].fillna('') == '']
+print(f'Read {len(R)} scanned filings: turnover found for {len(ok)}, operating profit for {ok["operating_profit"].notna().sum()}, '
+      f'D&A for {ok["da_total"].notna().sum()}, cash for {ok["cash"].notna().sum()}')
+print(R['problem'].fillna('').value_counts().to_string())
