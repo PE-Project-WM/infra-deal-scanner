@@ -16,6 +16,7 @@ on:
       - 'scripts/compare.py'
       - 'scripts/site.py'
       - 'scripts/lenses.py'
+      - 'scripts/site_template.html'
       - 'config/demand_drivers.json'
       - 'config/demand_driver_overrides.csv'
 

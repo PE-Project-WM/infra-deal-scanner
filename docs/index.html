@@ -1,249 +1,296 @@
 <!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>UK Digital Infrastructure Screen</title>
-<meta name="description" content="A weekly, thesis-led screen of UK digital-infrastructure companies built from public Companies House filings.">
+<title>UK digital infrastructure: ten companies worth a closer look</title>
+<meta name="description" content="A weekly, plain-English screen of UK digital-infrastructure companies built from public Companies House filings.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
-  --paper:#eef1f4; --sheet:#ffffff; --ink:#18212d; --ink2:#4b5664; --mute:#7c8794; --rule:#d5dbe2;
-  --blue:#2463c7; --orange:#e2742a; --green:#2e9a57; --brown:#86563a; --slate:#64707e; --violet:#7a4fd0;
-  --up:#2e9a57; --down:#c2412d;
+  --ink:#13233a; --ink2:#46566b; --mute:#6b7a8c; --rule:#dde3ea; --band:#f2f5f8; --paper:#ffffff;
+  --link:#0a6c8f;
+  --steady:#1d7048; --steady-bg:#e4f2ea; --dip:#9a5310; --dip-bg:#fbefe2;
+  --growth:#2453a0; --growth-bg:#e5ecf8; --between:#56657a; --between-bg:#edf0f4;
+  --f1:#2453a0; --f2:#0f7f86; --f3:#b0661c; --f4:#6a4fb3; --f5:#56657a; --f6:#a33b2c;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-html{background:var(--paper)}
-body{font-family:Archivo,system-ui,sans-serif;font-variation-settings:"wdth" 100;color:var(--ink);background:var(--paper);line-height:1.5;font-size:16px;-webkit-font-smoothing:antialiased}
-a{color:var(--blue);text-underline-offset:2px}
-a:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--blue);outline-offset:3px;border-radius:2px}
-.wrap{max-width:1120px;margin:0 auto;padding:0 28px}
-header.top{padding:56px 0 28px}
-.byline{font-size:14px;color:var(--ink2);margin-bottom:28px;display:flex;flex-wrap:wrap;gap:6px 18px}
-.byline span{white-space:nowrap}
-h1{font-weight:800;font-variation-settings:"wdth" 118;font-size:clamp(34px,5.4vw,62px);line-height:1.02;letter-spacing:-.015em;max-width:15ch}
-.intro{margin-top:20px;font-size:18px;color:var(--ink2);max-width:62ch}
-.week{margin-top:30px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;padding:16px 0;border-top:2px solid var(--ink);border-bottom:1px solid var(--rule)}
-.week b{font-variation-settings:"wdth" 112;font-weight:700;font-size:19px}
-.week span{color:var(--ink2);font-size:15px}
-section{padding:44px 0}
-h2{font-weight:750;font-variation-settings:"wdth" 112;font-size:26px;letter-spacing:-.01em;margin-bottom:6px}
-.sub{color:var(--ink2);max-width:66ch;margin-bottom:22px}
-/* legend */
-.legend{display:flex;flex-wrap:wrap;gap:8px 20px;margin:0 0 18px;font-size:14px;color:var(--ink2)}
-.legend i{display:inline-block;width:22px;height:6px;border-radius:3px;margin-right:7px;vertical-align:middle}
-/* ranking */
-ol.rank{list-style:none;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;overflow:hidden}
-ol.rank>li{border-top:1px solid var(--rule)}
-ol.rank>li:first-child{border-top:none}
-details>summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:44px minmax(180px,1.15fr) 2fr 64px 150px;align-items:center;gap:18px;padding:16px 22px}
-details>summary::-webkit-details-marker{display:none}
-details>summary:hover{background:#f7f9fb}
-.pos{font-variation-settings:"wdth" 125;font-weight:800;font-size:26px;color:var(--ink);font-feature-settings:"tnum"}
-.name{font-weight:650;font-size:17px;line-height:1.25}
-.name small{display:block;font-weight:400;font-size:13.5px;color:var(--mute);margin-top:2px}
-.bundle{display:flex;height:14px;border-radius:7px;overflow:hidden;background:#e4e8ed}
-.bundle span{height:100%;border-right:2px solid var(--sheet)}
-.bundle span:last-child{border-right:none}
-.score{font-variation-settings:"wdth" 118;font-weight:750;font-size:22px;text-align:right;font-feature-settings:"tnum"}
-.access{font-size:13.5px;line-height:1.3;color:var(--ink2);display:flex;gap:8px;align-items:center}
-.dot{flex:none;width:10px;height:10px;border-radius:50%;border:2px solid currentColor}
-.a-High{color:var(--green)} .a-Medium{color:var(--orange)} .a-Low-Medium{color:var(--orange)} .a-Low{color:var(--down)} .a-Check{color:var(--slate)}
-.a-High .dot{background:var(--green)} .a-Medium .dot{background:var(--orange)}
-.access b{color:var(--ink);font-weight:600}
-.detail{padding:4px 22px 22px 84px;display:grid;grid-template-columns:1.1fr 1fr;gap:28px;font-size:14.5px;color:var(--ink2)}
-.detail table{border-collapse:collapse;width:100%}
-.detail td{padding:5px 0;border-bottom:1px solid #edf0f3}
-.detail td:last-child{text-align:right;font-feature-settings:"tnum";color:var(--ink);font-weight:600}
-.detail td i{display:inline-block;width:14px;height:5px;border-radius:3px;margin-right:8px;vertical-align:middle}
-.facts p{margin-bottom:6px}.facts b{color:var(--ink);font-weight:600}
-/* lenses */
-.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
-.tag{font-size:12px;font-weight:600;line-height:1;padding:4px 8px;border-radius:20px;background:#eef1f4;color:var(--ink2);white-space:nowrap}
-.tag.t-Steady{background:#e3f3ea;color:#1f6e3e} .tag.t-High-growth{background:#e5edfa;color:#1d4f9f} .tag.t-Fixable{background:#fbeee3;color:#9a4c17} .tag.t-Between,.tag.t-Numbers{background:#eceff2;color:var(--slate)}
-.corr{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:22px}
-.corr .flag{display:inline-block;font-weight:700;font-size:13px;letter-spacing:.04em;padding:4px 10px;border-radius:4px;margin-bottom:12px}
-.flag.green{background:#e3f3ea;color:#1f6e3e}.flag.amber{background:#fdf0dc;color:#94580a}.flag.red{background:#fbe4e0;color:#a3301f}
-.corr h3{font-size:19px;font-weight:700;margin-bottom:16px;max-width:60ch}
-.cbar{display:flex;height:34px;border-radius:6px;overflow:hidden;margin-bottom:16px}
-.cbar span{display:flex;align-items:center;padding-left:10px;color:#fff;font-size:13px;font-weight:600;border-right:2px solid var(--sheet);white-space:nowrap;overflow:hidden}
-.cbar span:last-child{border-right:none}
-.clist{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px 24px;font-size:14px;color:var(--ink2)}
-.clist b{display:block;color:var(--ink);font-size:15px}
-.clist i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:7px;vertical-align:-1px}
-.buckets{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:22px}
-.bucket{border-top:3px solid var(--ink);padding-top:10px;font-size:14px;color:var(--ink2)}
-.bucket b{display:block;color:var(--ink);font-size:15.5px}
-@media (max-width:860px){.buckets{grid-template-columns:1fr}.cbar span{font-size:0;padding:0}}
-/* bucket key above the ranking */
-.bkey{display:grid;grid-template-columns:repeat(4,1fr);gap:10px 18px;margin:0 0 18px;font-size:13.5px;color:var(--ink2);line-height:1.4}
-.bkey .tag{display:inline-block;margin:0 0 5px}
-.bkey>span{display:flex;flex-direction:column;align-items:flex-start}
-@media (max-width:860px){.bkey{grid-template-columns:1fr 1fr}}
+body{font-family:"Public Sans",system-ui,sans-serif;color:var(--ink);background:var(--paper);font-size:18px;line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--link);text-underline-offset:3px}
+:focus-visible{outline:3px solid var(--link);outline-offset:3px;border-radius:3px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 28px}
+.text{max-width:68ch}
+section{padding:64px 0}
+section.band{background:var(--band)}
+h1{font-size:clamp(32px,4.6vw,48px);line-height:1.12;font-weight:800;letter-spacing:-.02em;max-width:22ch}
+h2{font-size:clamp(25px,3vw,31px);line-height:1.2;font-weight:700;letter-spacing:-.01em;margin-bottom:12px}
+h3{font-size:19px;line-height:1.3;font-weight:700}
+p.lead{font-size:20px;color:var(--ink2);margin-top:18px}
+p.sub{color:var(--ink2);margin-bottom:28px}
+.small{font-size:15px;color:var(--mute)}
+
+/* hero */
+header{padding:72px 0 56px;border-bottom:1px solid var(--rule)}
+header .meta{margin-top:24px;font-size:15px;color:var(--mute)}
+header .meta b{color:var(--ink2);font-weight:600}
+
+/* in short */
+.short{list-style:none;display:grid;gap:22px;margin-top:8px}
+.short li{padding-left:22px;border-left:4px solid var(--link);font-size:19px}
+.short li b{font-weight:700}
+
+/* labels */
+.type{display:inline-block;font-size:14px;font-weight:600;line-height:1;padding:6px 10px;border-radius:999px;white-space:nowrap}
+.t-steady{background:var(--steady-bg);color:var(--steady)}
+.t-dip{background:var(--dip-bg);color:var(--dip)}
+.t-growth{background:var(--growth-bg);color:var(--growth)}
+.t-between{background:var(--between-bg);color:var(--between)}
+
+/* type key above the table */
+.typekey{background:var(--paper);border:1px solid var(--rule);border-radius:8px;padding:22px 24px;margin-bottom:36px}
+.typekey>p{font-size:16px;color:var(--ink2);margin-bottom:16px}
+.keylist{display:grid;grid-template-columns:repeat(4,1fr);gap:18px 24px}
+.keylist dt{margin-bottom:6px}
+.keylist dd{font-size:15px;line-height:1.5;color:var(--ink2)}
+@media (max-width:820px){.keylist{grid-template-columns:1fr 1fr}}
+@media (max-width:480px){.keylist{grid-template-columns:1fr}}
+/* top ten table */
+.tablehead,.row>summary{display:grid;grid-template-columns:52px 1fr 190px 74px 28px;gap:20px;align-items:center}
+.tablehead{padding:0 20px 10px;font-size:14px;font-weight:600;color:var(--mute);border-bottom:2px solid var(--ink)}
+.tablehead span:nth-child(4){text-align:right}
+.row{border-bottom:1px solid var(--rule)}
+.row>summary{list-style:none;cursor:pointer;padding:20px}
+.row>summary::-webkit-details-marker{display:none}
+.row>summary:hover{background:#f8fafc}
+.rk{font-size:24px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums}
+.co h3{margin-bottom:2px}
+.co p{font-size:16px;color:var(--ink2);line-height:1.45}
+.sc{text-align:right;font-size:22px;font-weight:700;font-variant-numeric:tabular-nums}
+.chev{width:12px;height:12px;border-right:2.5px solid var(--mute);border-bottom:2.5px solid var(--mute);transform:rotate(45deg);justify-self:center;margin-top:-6px;transition:transform .2s}
+.row[open] .chev{transform:rotate(225deg);margin-top:6px}
+.more{padding:4px 20px 28px 92px;display:grid;grid-template-columns:1fr 1fr;gap:36px;font-size:16px;color:var(--ink2)}
+.more h4{font-size:15px;font-weight:700;color:var(--ink);margin-bottom:10px}
+.facts{display:grid;gap:10px}
+.facts div{display:grid;grid-template-columns:150px 1fr;gap:12px}
+.facts dt{color:var(--mute)} .facts dd{color:var(--ink)}
+.bars{display:grid;gap:9px}
+.bar{display:grid;grid-template-columns:150px 1fr 56px;gap:12px;align-items:center;font-size:15px}
+.bar .track{height:8px;background:#e6ebf0;border-radius:4px;overflow:hidden}
+.bar .fill{height:100%;background:var(--link);border-radius:4px}
+.bar span:last-child{text-align:right;color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* four bets */
+.verdict{font-size:22px;line-height:1.45;font-weight:600;max-width:46ch;margin-bottom:36px}
+.groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:32px}
+.group{border-top:5px solid var(--c)}
+.group .n{font-size:15px;font-weight:600;color:var(--c);margin:14px 0 4px}
+.group h3{margin-bottom:10px}
+.group ul{list-style:none;margin-bottom:12px}
+.group li{font-weight:600;font-size:17px;padding:3px 0}
+.group p{font-size:15.5px;color:var(--ink2)}
+.rule-note{margin-top:36px;font-size:15px;color:var(--mute);max-width:72ch}
+
+/* glossary */
+.gloss{display:grid;grid-template-columns:repeat(2,1fr);gap:28px 48px}
+.gloss dt{margin-bottom:6px}
+.gloss dd{color:var(--ink2);font-size:16.5px}
+.gloss.criteria dt{font-weight:700}
+
 /* changes */
-.changes{display:grid;gap:12px}
-.chg{display:grid;grid-template-columns:118px 1fr;gap:18px;padding:14px 0;border-bottom:1px solid var(--rule)}
-.move{font-variation-settings:"wdth" 118;font-weight:750;font-size:18px;font-feature-settings:"tnum"}
-.move.up{color:var(--up)} .move.down,.move.out{color:var(--down)} .move.new{color:var(--blue)} .move.same{color:var(--mute)}
-.chg h3{font-size:16.5px;font-weight:650;margin-bottom:3px}
-.chg p{font-size:15px;color:var(--ink2)}
-.chg ul{margin-top:6px;padding-left:18px;font-size:14px;color:var(--ink2)}
-/* funnel */
-.funnel{display:grid;gap:10px;max-width:880px}
-.fstep{display:grid;grid-template-columns:110px 1fr;align-items:center;gap:18px}
-.fnum{font-variation-settings:"wdth" 125;font-weight:800;font-size:28px;text-align:right;font-feature-settings:"tnum"}
-.fbar{position:relative;height:38px;display:flex;align-items:center}
-.fbar::before{content:"";position:absolute;left:0;top:0;bottom:0;width:var(--w);background:linear-gradient(90deg,var(--blue),#5b8ee0);border-radius:6px;min-width:6px}
-.fbar span{position:relative;padding-left:14px;font-size:14.5px;color:var(--ink)}
-.fbar.narrow span{padding-left:calc(var(--w) + 14px)}
-.fbar:not(.narrow) span{color:#fff}
-/* steps */
-.steps{list-style:none;counter-reset:s;display:grid;grid-template-columns:repeat(5,1fr);gap:20px}
-.steps li{counter-increment:s;border-top:3px solid var(--ink);padding-top:12px;font-size:14.5px;color:var(--ink2)}
-.steps li::before{content:counter(s);font-variation-settings:"wdth" 125;font-weight:800;font-size:22px;color:var(--ink);display:block;margin-bottom:4px}
-.steps b{display:block;color:var(--ink);font-size:15.5px;margin-bottom:4px}
-footer{padding:40px 0 60px;border-top:1px solid var(--rule);font-size:14px;color:var(--mute)}
-footer p{max-width:80ch;margin-bottom:8px}
-@media (max-width:860px){
-  details>summary{grid-template-columns:34px 1fr 56px;gap:10px 14px;padding:14px 16px}
-  .bundle{grid-column:2/4;grid-row:2}
-  .access{grid-column:2/4;grid-row:3}
-  .pos{font-size:22px}.score{font-size:19px}
-  .detail{grid-template-columns:1fr;padding:0 16px 18px 16px}
+.chg{padding:18px 0;border-bottom:1px solid var(--rule);display:grid;grid-template-columns:140px 1fr;gap:20px}
+.chg .mv{font-weight:700}
+.chg p{color:var(--ink2);font-size:16px}
+
+/* funnel and steps */
+.funnel{display:grid;gap:12px;max-width:820px}
+.fstep{display:grid;grid-template-columns:96px 1fr;gap:18px;align-items:center}
+.fnum{font-weight:800;font-size:22px;text-align:right;font-variant-numeric:tabular-nums}
+.fbar{height:32px;position:relative;display:flex;align-items:center}
+.fbar::before{content:"";position:absolute;left:0;top:0;bottom:0;width:var(--w);min-width:6px;background:#cfdde8;border-radius:4px}
+.fbar span{position:relative;padding-left:12px;font-size:15.5px}
+.steps{list-style:none;counter-reset:s;display:grid;grid-template-columns:repeat(5,1fr);gap:24px;margin-top:40px}
+.steps li{counter-increment:s;font-size:15.5px;color:var(--ink2)}
+.steps li::before{content:counter(s);display:block;font-weight:800;font-size:20px;color:var(--ink);margin-bottom:4px}
+.steps b{display:block;color:var(--ink);margin-bottom:4px}
+footer{padding:44px 0 64px;border-top:1px solid var(--rule);font-size:15px;color:var(--mute)}
+footer p{max-width:80ch;margin-bottom:10px}
+
+@media (max-width:820px){
+  body{font-size:17px}
+  .wrap{padding:0 18px}
+  section{padding:48px 0}
+  .tablehead{display:none}
+  .row>summary{grid-template-columns:36px 1fr 56px;gap:6px 12px;padding:18px 6px}
+  .row>summary .typecell{grid-column:2/4;grid-row:2}
+  .chev{display:none}
+  .more{grid-template-columns:1fr;padding:0 6px 24px}
+  .facts div,.bar{grid-template-columns:120px 1fr}
+  .bar{grid-template-columns:120px 1fr 48px}
+  .gloss{grid-template-columns:1fr}
   .chg{grid-template-columns:1fr;gap:4px}
   .steps{grid-template-columns:1fr 1fr}
-  .fstep{grid-template-columns:80px 1fr}.fnum{font-size:21px}
-  .wrap{padding:0 16px}
 }
-@media (prefers-reduced-motion:no-preference){
-  .bundle span{transform-origin:left;animation:lay .9s cubic-bezier(.2,.7,.2,1) both;animation-delay:calc(var(--i) * 60ms)}
-  @keyframes lay{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-}
+@media (prefers-reduced-motion:reduce){.chev{transition:none}}
 </style></head>
 <body>
-<header class="top"><div class="wrap">
-  <div class="byline"><span>By William Mikollovci</span><span id="asof"></span><span>Updated automatically every Monday</span></div>
-  <h1>UK digital infrastructure: the ten best-fit companies</h1>
-  <p class="intro">A screen of every UK fibre, wireless, data-centre and network-services company that files full accounts, ranked against a written investment thesis. It reads public Companies House filings each week and explains every change in the ranking.</p>
-  <div class="week"><b id="headline"></b><span id="checked"></span></div>
+
+<header><div class="wrap">
+  <h1>Ten UK digital-infrastructure companies worth a closer look</h1>
+  <p class="lead text">Every week this page reads the public accounts of UK fibre, wireless, satellite, data-centre and network-building companies, and ranks the best fits for a private investor buying a £10–250m business.</p>
+  <p class="meta"><span id="asof"></span>. By William Mikollovci. Updated automatically every Monday from Companies House.</p>
 </div></header>
 
 <main>
-<section><div class="wrap">
+<section><div class="wrap"><div class="text">
+  <h2>In short</h2>
+  <ul class="short" id="short"></ul>
+</div></div></section>
+
+<section class="band"><div class="wrap">
   <h2>The top ten</h2>
-  <p class="sub">Each bar is a bundle of six strands, one per scoring criterion, so you can see why a company ranks where it does. How easy a company would be to buy is shown separately and never added to the score. Select a company for its numbers.</p>
-  <div class="legend" id="legend"></div>
-  <div class="bkey" id="bkey" hidden>
-    <span><span class="tag t-Steady">Steady compounder</span>Recurring revenue, stable margins. Suits core infrastructure funds.</span>
-    <span><span class="tag t-Fixable">Fixable dip</span>Falling or thin results with a possible fix. Suits value-add funds.</span>
-    <span><span class="tag t-High-growth">High-growth</span>Turnover up 25%+ in a year, lumpier profit. Suits growth PE.</span>
-    <span><span class="tag t-Between">Between buckets</span>Fits none cleanly; the reason is in each company's detail.</span>
+  <p class="sub text">Scored out of 100 against a written investment case. Select a company to see what it does, its numbers and how the score is made up.</p>
+  <div class="typekey">
+    <p>The type of deal says what kind of investor a company suits. It is a label and does not change the score.</p>
+  <dl class="keylist">
+    <div><dt><span class="type t-steady">Steady compounder</span></dt><dd>Mostly repeat revenue and steady margins. Suits infrastructure funds that want reliable income.</dd></div>
+    <div><dt><span class="type t-growth">High-growth</span></dt><dd>Sales up 25% or more in a year, with less predictable profit. Suits growth and mid-market private equity.</dd></div>
+    <div><dt><span class="type t-dip">Fixable dip</span></dt><dd>Sales falling or margins thin, with a possible fix still to be confirmed. Suits funds that buy and turn around.</dd></div>
+    <div><dt><span class="type t-between">Between types</span></dt><dd>Fits none cleanly, often because sales come project by project. The reason is shown for each company.</dd></div>
+  </dl>
   </div>
-  <ol class="rank" id="rank"></ol>
+  <div class="tablehead" aria-hidden="true"><span>Rank</span><span>Company</span><span>Type of deal</span><span>Score</span><span></span></div>
+  <div id="rank"></div>
 </div></section>
 
-<section id="corr-section" hidden><div class="wrap">
-  <h2>Is the top ten really ten bets?</h2>
-  <p class="sub">Each company is tagged with what its revenue mainly depends on. Companies that depend on the same thing would fall together, so they count as one bet. The tags are judgement calls from each company's business description and are shown for review.</p>
-  <div class="corr" id="corr"></div>
-  <div class="buckets">
-    <div class="bucket"><b>Steady compounder</b>Recurring-type revenue and stable margins. Suits core and core-plus infrastructure funds.</div>
-    <div class="bucket"><b>Fixable dip</b>A falling or thin result with a possible fix still to be confirmed. Suits value-add funds.</div>
-    <div class="bucket"><b>High-growth</b>Turnover up 25% or more in a year, with lumpier profit. Suits growth and mid-market PE.</div>
-  </div>
+<section id="bets-section" hidden><div class="wrap">
+  <h2>Ten companies, but how many separate bets?</h2>
+  <p class="sub text">Companies that depend on the same thing would struggle at the same time. So we group the ten by what their sales mainly depend on.</p>
+  <p class="verdict" id="verdict"></p>
+  <div class="groups" id="groups"></div>
+  <p class="rule-note" id="rule-note"></p>
+</div></section>
+
+<section class="band"><div class="wrap">
+  <h2>What the score is made of</h2>
+  <p class="sub text">The score adds up six things, each worth a set number of points.</p>
+
+  <dl class="gloss criteria" id="gloss-score"></dl>
 </div></section>
 
 <section><div class="wrap">
-  <h2>What changed</h2>
-  <p class="sub" id="changes-sub"></p>
-  <div class="changes" id="changes"></div>
+  <h2>What changed this week</h2>
+  <p class="sub text" id="changes-sub"></p>
+  <div id="changes"></div>
 </div></section>
 
-<section><div class="wrap">
-  <h2>From 48,467 companies to ten</h2>
-  <p class="sub">Each filter comes from the thesis. Every company removed is logged with a reason in the repository.</p>
+<section class="band"><div class="wrap">
+  <h2>How the ten were found</h2>
+  <p class="sub text">Each filter comes from the written investment case. Every company removed is logged with a reason.</p>
   <div class="funnel" id="funnel"></div>
-</div></section>
-
-<section><div class="wrap">
-  <h2>How it works</h2>
-  <p class="sub">Five steps, run on GitHub's servers with Python. The ranking and this page rebuild themselves every week.</p>
   <ol class="steps">
-    <li><b>Write the thesis</b>A testable claim about the sector, with kill criteria, turned into a criteria file.</li>
-    <li><b>Pull the register</b>Companies House bulk data filtered by industry code, status and accounts type.</li>
-    <li><b>Read the accounts</b>Digital tags first, the text of the accounts as a backup, with a currency check.</li>
-    <li><b>Clean and check</b>Owners traced through parent companies, duplicates merged, off-thesis firms removed.</li>
-    <li><b>Score and explain</b>Six weighted criteria; each week's moves explained from the points that changed.</li>
+    <li><b>Write the case</b>A testable view of the sector, turned into a list of criteria.</li>
+    <li><b>Pull the register</b>All UK companies in the sector's industry codes.</li>
+    <li><b>Read the accounts</b>Sales, profit, cash and owners from each filing.</li>
+    <li><b>Check and clean</b>Owners traced, duplicates merged, off-topic firms removed.</li>
+    <li><b>Score and explain</b>Six weighted criteria, with every weekly move explained.</li>
   </ol>
 </div></section>
 </main>
 
 <footer><div class="wrap">
   <p>Contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, from Companies House.</p>
-  <p>Illustrative analysis from public information only. Not investment advice, and not a view on any company's prospects. Revenue visibility and debt capacity scores are estimates; figures read from the text of accounts should be checked against the filing.</p>
+  <p>Illustrative analysis from public information only. Not investment advice, and not a view on any company's prospects. Some inputs are estimates; figures read from the text of accounts should be checked against the filing.</p>
   <p>Built with Python, GitHub Actions and Claude. <a href="https://github.com/PE-Project-WM/infra-deal-scanner">Method and code</a>.</p>
 </div></footer>
 
-<script id="data" type="application/json">{"update": {"date": "2026-11-23", "checked_since": "2026-11-22", "previous_scored_on": "2026-11-22", "headline": "No changes to the top 10 this week", "events_count": 0, "companies_checked": 73, "top10": [{"rank": 1, "company": "VEA Group", "score": 96.0, "fit": "IN", "segment": "Building and maintaining telecoms and utility networks", "turnover": 32560948.0, "margin": 0.306, "access": "Low-Medium", "access_note": "UK arm of an overseas founder group, carve-out needed", "town": "Bracknell", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 13.5, "data_completeness": 15.0, "debt_capacity": 10.0}, "lens": {"rank": 1, "deal_type": "High-growth", "deal_type_reason": "turnover up 55% in the latest year, margin 31%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Altnet and operator network build", "second_driver": "Business telecoms (SME)", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"}}, {"rank": 2, "company": "The Networking People (TNP)", "score": 88.6, "fit": "IN", "segment": "Other telecoms networks", "turnover": 18099102.0, "margin": 0.127, "access": "Low", "access_note": "sponsor bought in the last 2 years, unlikely to sell soon", "town": "Lancaster", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 13.6, "margin_quality": 8.5, "data_completeness": 15.0, "debt_capacity": 9.0}, "lens": {"rank": 2, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 13%, turnover +17%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Public sector budgets", "second_driver": "", "macro_factor": "Government spending", "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"}}, {"rank": 3, "company": "Satcom Global", "score": 86.0, "fit": "IN", "segment": "Satellite networks", "turnover": 36305200.0, "margin": 0.138, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "North Shields", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 8.9, "data_completeness": 12.0, "debt_capacity": 7.6}, "lens": {"rank": 3, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 14%, turnover +4%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Offshore energy and maritime", "second_driver": "Public sector budgets", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"}}, {"rank": 4, "company": "Clarus Networks", "score": 85.7, "fit": "IN", "segment": "Wireless networks, towers and fixed wireless", "turnover": 26680567.0, "margin": 0.161, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "Bathgate", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 9.8, "data_completeness": 9.0, "debt_capacity": 9.4}, "lens": {"rank": 4, "deal_type": "High-growth", "deal_type_reason": "turnover up 46% in the latest year, margin 16%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Offshore energy and maritime", "second_driver": "Utility and civil construction", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"}}, {"rank": 5, "company": "MAP Group (UK)", "score": 80.0, "fit": "IN", "segment": "Other telecoms networks", "turnover": 75597498.0, "margin": 0.24, "access": "Low", "access_note": "employee-owned, rarely for sale", "town": "Stockton-On-Tees", "pts": {"revenue_visibility": 8.8, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 12.8, "data_completeness": 15.0, "debt_capacity": 8.4}, "lens": {"rank": 5, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 24%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"}}, {"rank": 6, "company": "Dstny Global Services UK", "score": 76.9, "fit": "ADJACENT", "segment": "Other telecoms networks", "turnover": 12584106.0, "margin": 0.407, "access": "Check", "access_note": "ownership not found", "town": "Newport Pagnell", "pts": {"revenue_visibility": 17.5, "strategy_fit": 12.0, "size_fit": 9.4, "margin_quality": 15.0, "data_completeness": 15.0, "debt_capacity": 8.0}, "lens": {"rank": 6, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 41%, turnover +1%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: business phone services (web-checked: Endole)"}}, {"rank": 7, "company": "C.A. Telecom UK", "score": 76.4, "fit": "IN", "segment": "Building and maintaining telecoms and utility networks", "turnover": 18385935.0, "margin": 0.135, "access": "Medium", "access_note": "owned via a UK holding company", "town": "Whitstable", "pts": {"revenue_visibility": 8.8, "strategy_fit": 20.0, "size_fit": 13.8, "margin_quality": 8.8, "data_completeness": 15.0, "debt_capacity": 10.0}, "lens": {"rank": 7, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 14%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"}}, {"rank": 8, "company": "A-2-Sea Solutions", "score": 73.0, "fit": "IN", "segment": "Other telecoms networks", "turnover": 15221057.0, "margin": 0.239, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "Romsey", "pts": {"revenue_visibility": 8.8, "strategy_fit": 20.0, "size_fit": 11.4, "margin_quality": 11.0, "data_completeness": 12.0, "debt_capacity": 9.8}, "lens": {"rank": 8, "deal_type": "Fixable dip", "deal_type_reason": "turnover down 24% in the latest year; check whether it is temporary", "fund_fit": "Value-add infrastructure and special-situations funds", "demand_driver": "Offshore energy and maritime", "second_driver": "", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"}}, {"rank": 9, "company": "Barclay Digital Services", "score": 72.0, "fit": "ADJACENT", "segment": "Other telecoms networks", "turnover": 17547732.0, "margin": 0.222, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "Belfast", "pts": {"revenue_visibility": 17.5, "strategy_fit": 12.0, "size_fit": 13.2, "margin_quality": 12.1, "data_completeness": 9.0, "debt_capacity": 8.2}, "lens": {"rank": 9, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 22%, turnover +13%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"}}, {"rank": 10, "company": "Siteground Hosting", "score": 70.7, "fit": "ADJACENT", "segment": "Data centres, data processing and hosting", "turnover": 48984027.0, "margin": 0.051, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "London", "pts": {"revenue_visibility": 17.5, "strategy_fit": 12.0, "size_fit": 15.0, "margin_quality": 5.7, "data_completeness": 12.0, "debt_capacity": 8.5}, "lens": {"rank": 10, "deal_type": "Between buckets", "deal_type_reason": "recurring-type revenue but margin only 5%", "fund_fit": "Depends on the reason given", "demand_driver": "Hosting and cloud (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: web hosting for small businesses (confirm)"}}], "top10_moves": [], "all_moves": [], "events": [], "ranked": 73}, "funnel": [["Companies registered under the six digital-infrastructure industry codes", 48467], ["Active, private, filing full accounts, three or more years old", 1209], ["Turnover between \u00a310m and \u00a3250m", 211], ["Left after ownership checks, duplicates and the thesis test", 104], ["Profitable and scored", 73]], "weights": {"revenue_visibility": 25, "strategy_fit": 20, "size_fit": 15, "margin_quality": 15, "data_completeness": 15, "debt_capacity": 10}, "corr": {"date": "2026-11-24", "top_n": {"n": 10, "effective_bets": 3.6, "flag": "amber", "factors": [{"factor": "Altnet funding and interest rates", "share": 0.3, "count": 3, "flag": "amber", "companies": ["VEA Group", "MAP Group (UK)", "C.A. Telecom UK"], "drivers": ["Altnet and operator network build"]}, {"factor": "Offshore oil, gas, wind and shipping activity", "share": 0.3, "count": 3, "flag": "amber", "companies": ["Satcom Global", "Clarus Networks", "A-2-Sea Solutions"], "drivers": ["Offshore energy and maritime"]}, {"factor": "SME IT and telecoms spending", "share": 0.3, "count": 3, "flag": "amber", "companies": ["Dstny Global Services UK", "Barclay Digital Services", "Siteground Hosting"], "drivers": ["Business telecoms (SME)", "Hosting and cloud (SME)"]}, {"factor": "Government spending", "share": 0.1, "count": 1, "flag": "green", "companies": ["The Networking People (TNP)"], "drivers": ["Public sector budgets"]}]}, "top_20": {"n": 20, "effective_bets": 6.5, "flag": "green", "factors": [{"factor": "SME IT and telecoms spending", "share": 0.25, "count": 5, "flag": "green", "companies": ["Dstny Global Services UK", "Barclay Digital Services", "Siteground Hosting", "Babble Cloud", "I.P. Integration"], "drivers": ["Business telecoms (SME)", "Hosting and cloud (SME)"]}, {"factor": "Altnet funding and interest rates", "share": 0.15, "count": 3, "flag": "green", "companies": ["VEA Group", "MAP Group (UK)", "C.A. Telecom UK"], "drivers": ["Altnet and operator network build"]}, {"factor": "Offshore oil, gas, wind and shipping activity", "share": 0.15, "count": 3, "flag": "green", "companies": ["Satcom Global", "Clarus Networks", "A-2-Sea Solutions"], "drivers": ["Offshore energy and maritime"]}, {"factor": "Construction and utility capex", "share": 0.15, "count": 3, "flag": "green", "companies": ["Diona Construction", "F C E Projects", "Taylor Plant"], "drivers": ["Utility and civil construction"]}, {"factor": "Unknown", "share": 0.1, "count": 2, "flag": "green", "companies": ["Egnaro", "Damoco Bidco"], "drivers": ["Unknown"]}, {"factor": "Mobile operator and emergency-services spend", "share": 0.1, "count": 2, "flag": "green", "companies": ["FLR Spectron", "Scci Alphatrack"], "drivers": ["Mobile, radio and critical comms"]}, {"factor": "Government spending", "share": 0.05, "count": 1, "flag": "green", "companies": ["The Networking People (TNP)"], "drivers": ["Public sector budgets"]}, {"factor": "AI and cloud capex", "share": 0.05, "count": 1, "flag": "green", "companies": ["GO Green"], "drivers": ["Data centre and AI compute demand"]}]}, "top10": [{"rank": 1, "deal_type": "High-growth", "deal_type_reason": "turnover up 55% in the latest year, margin 31%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Altnet and operator network build", "second_driver": "Business telecoms (SME)", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"}, {"rank": 2, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 13%, turnover +17%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Public sector budgets", "second_driver": "", "macro_factor": "Government spending", "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"}, {"rank": 3, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 14%, turnover +4%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Offshore energy and maritime", "second_driver": "Public sector budgets", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"}, {"rank": 4, "deal_type": "High-growth", "deal_type_reason": "turnover up 46% in the latest year, margin 16%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Offshore energy and maritime", "second_driver": "Utility and civil construction", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"}, {"rank": 5, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 24%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"}, {"rank": 6, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 41%, turnover +1%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: business phone services (web-checked: Endole)"}, {"rank": 7, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 14%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"}, {"rank": 8, "deal_type": "Fixable dip", "deal_type_reason": "turnover down 24% in the latest year; check whether it is temporary", "fund_fit": "Value-add infrastructure and special-situations funds", "demand_driver": "Offshore energy and maritime", "second_driver": "", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"}, {"rank": 9, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 22%, turnover +13%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"}, {"rank": 10, "deal_type": "Between buckets", "deal_type_reason": "recurring-type revenue but margin only 5%", "fund_fit": "Depends on the reason given", "demand_driver": "Hosting and cloud (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: web hosting for small businesses (confirm)"}], "deal_type_counts": {"ranked": {"Between buckets": 26, "Fixable dip": 26, "High-growth": 11, "Steady compounder": 6, "Numbers to check": 4}, "watchlist": {"Fixable dip": 21}}, "thresholds": {"_rule": "Share of the top N companies driven by one macro factor. Companies sharing a factor are one bet, not several.", "top_n": 10, "amber_share": 0.3, "red_share": 0.5}, "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on altnet funding and interest rates, 3 depend on offshore oil, gas, wind and shipping activity, 3 depend on SME IT and telecoms spending"}}</script>
+<script id="data" type="application/json">{"update": {"date": "2026-11-23", "checked_since": "2026-11-22", "previous_scored_on": "2026-11-22", "headline": "No changes to the top 10 this week", "events_count": 0, "companies_checked": 73, "top10": [{"rank": 1, "company": "VEA Group", "score": 96.0, "fit": "IN", "segment": "Building and maintaining telecoms and utility networks", "turnover": 32560948.0, "margin": 0.306, "access": "Low-Medium", "access_note": "UK arm of an overseas founder group, carve-out needed", "town": "Bracknell", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 13.5, "data_completeness": 15.0, "debt_capacity": 10.0}, "what": "Fibre installation, wireless broadband and managed networks", "growth": 0.546, "lens": {"rank": 1, "deal_type": "High-growth", "deal_type_reason": "turnover up 55% in the latest year, margin 31%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Altnet and operator network build", "second_driver": "Business telecoms (SME)", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"}}, {"rank": 2, "company": "The Networking People (TNP)", "score": 88.6, "fit": "IN", "segment": "Other telecoms networks", "turnover": 18099102.0, "margin": 0.127, "access": "Low", "access_note": "sponsor bought in the last 2 years, unlikely to sell soon", "town": "Lancaster", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 13.6, "margin_quality": 8.5, "data_completeness": 15.0, "debt_capacity": 9.0}, "what": "Managed public-sector networks", "growth": 0.166, "lens": {"rank": 2, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 13%, turnover +17%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Public sector budgets", "second_driver": "", "macro_factor": "Government spending", "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"}}, {"rank": 3, "company": "Satcom Global", "score": 86.0, "fit": "IN", "segment": "Satellite networks", "turnover": 36305200.0, "margin": 0.138, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "North Shields", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 8.9, "data_completeness": 12.0, "debt_capacity": 7.6}, "what": "Satellite communications", "growth": 0.045, "lens": {"rank": 3, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 14%, turnover +4%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Offshore energy and maritime", "second_driver": "Public sector budgets", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"}}, {"rank": 4, "company": "Clarus Networks", "score": 85.7, "fit": "IN", "segment": "Wireless networks, towers and fixed wireless", "turnover": 26680567.0, "margin": 0.161, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "Bathgate", "pts": {"revenue_visibility": 22.5, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 9.8, "data_completeness": 9.0, "debt_capacity": 9.4}, "what": "Connectivity provider: maritime, satellite and site networks", "growth": 0.457, "lens": {"rank": 4, "deal_type": "High-growth", "deal_type_reason": "turnover up 46% in the latest year, margin 16%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Offshore energy and maritime", "second_driver": "Utility and civil construction", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"}}, {"rank": 5, "company": "MAP Group (UK)", "score": 80.0, "fit": "IN", "segment": "Other telecoms networks", "turnover": 75597498.0, "margin": 0.24, "access": "Low", "access_note": "employee-owned, rarely for sale", "town": "Stockton-On-Tees", "pts": {"revenue_visibility": 8.8, "strategy_fit": 20.0, "size_fit": 15.0, "margin_quality": 12.8, "data_completeness": 15.0, "debt_capacity": 8.4}, "what": "Telecoms network services and fibre installation, e.g. for Netomnia", "growth": 0.016, "lens": {"rank": 5, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 24%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"}}, {"rank": 6, "company": "Dstny Global Services UK", "score": 76.9, "fit": "ADJACENT", "segment": "Other telecoms networks", "turnover": 12584106.0, "margin": 0.407, "access": "Check", "access_note": "ownership not found", "town": "Newport Pagnell", "pts": {"revenue_visibility": 17.5, "strategy_fit": 12.0, "size_fit": 9.4, "margin_quality": 15.0, "data_completeness": 15.0, "debt_capacity": 8.0}, "what": "Business phone services, part of the Dstny group", "growth": 0.008, "lens": {"rank": 6, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 41%, turnover +1%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: business phone services (web-checked: Endole)"}}, {"rank": 7, "company": "C.A. Telecom UK", "score": 76.4, "fit": "IN", "segment": "Building and maintaining telecoms and utility networks", "turnover": 18385935.0, "margin": 0.135, "access": "Medium", "access_note": "owned via a UK holding company", "town": "Whitstable", "pts": {"revenue_visibility": 8.8, "strategy_fit": 20.0, "size_fit": 13.8, "margin_quality": 8.8, "data_completeness": 15.0, "debt_capacity": 10.0}, "what": "Fibre installation and telecoms civil works since 2006", "growth": 0.07, "lens": {"rank": 7, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 14%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"}}, {"rank": 8, "company": "A-2-Sea Solutions", "score": 73.0, "fit": "IN", "segment": "Other telecoms networks", "turnover": 15221057.0, "margin": 0.239, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "Romsey", "pts": {"revenue_visibility": 8.8, "strategy_fit": 20.0, "size_fit": 11.4, "margin_quality": 11.0, "data_completeness": 12.0, "debt_capacity": 9.8}, "what": "Subsea fibre cable installation and maintenance", "growth": -0.235, "lens": {"rank": 8, "deal_type": "Fixable dip", "deal_type_reason": "turnover down 24% in the latest year; check whether it is temporary", "fund_fit": "Value-add infrastructure and special-situations funds", "demand_driver": "Offshore energy and maritime", "second_driver": "", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"}}, {"rank": 9, "company": "Barclay Digital Services", "score": 72.0, "fit": "ADJACENT", "segment": "Other telecoms networks", "turnover": 17547732.0, "margin": 0.222, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "Belfast", "pts": {"revenue_visibility": 17.5, "strategy_fit": 12.0, "size_fit": 13.2, "margin_quality": 12.1, "data_completeness": 9.0, "debt_capacity": 8.2}, "what": "Belfast business telecoms provider, Barclay Communications", "growth": 0.13, "lens": {"rank": 9, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 22%, turnover +13%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"}}, {"rank": 10, "company": "Siteground Hosting", "score": 70.7, "fit": "ADJACENT", "segment": "Data centres, data processing and hosting", "turnover": 48984027.0, "margin": 0.051, "access": "High", "access_note": "founder-owned, proprietary approach possible", "town": "London", "pts": {"revenue_visibility": 17.5, "strategy_fit": 12.0, "size_fit": 15.0, "margin_quality": 5.7, "data_completeness": 12.0, "debt_capacity": 8.5}, "what": "Web hosting", "growth": 0.024, "lens": {"rank": 10, "deal_type": "Between buckets", "deal_type_reason": "recurring-type revenue but margin only 5%", "fund_fit": "Depends on the reason given", "demand_driver": "Hosting and cloud (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: web hosting for small businesses (confirm)"}}], "top10_moves": [], "all_moves": [], "events": [], "ranked": 73}, "funnel": [["Companies registered under the six digital-infrastructure industry codes", 48467], ["Active, private, filing full accounts, three or more years old", 1209], ["Turnover between \u00a310m and \u00a3250m", 211], ["Left after ownership checks, duplicates and the thesis test", 104], ["Profitable and scored", 73]], "weights": {"revenue_visibility": 25, "strategy_fit": 20, "size_fit": 15, "margin_quality": 15, "data_completeness": 15, "debt_capacity": 10}, "corr": {"date": "2026-11-24", "top_n": {"n": 10, "effective_bets": 3.6, "flag": "amber", "factors": [{"factor": "Altnet funding and interest rates", "share": 0.3, "count": 3, "flag": "amber", "companies": ["VEA Group", "MAP Group (UK)", "C.A. Telecom UK"], "drivers": ["Altnet and operator network build"], "explain": "Paid by new fibre networks to lay cable. If those networks raise less money or rates stay high, they build less and these companies lose work together."}, {"factor": "Offshore oil, gas, wind and shipping activity", "share": 0.3, "count": 3, "flag": "amber", "companies": ["Satcom Global", "Clarus Networks", "A-2-Sea Solutions"], "drivers": ["Offshore energy and maritime"], "explain": "Serve ships, rigs and offshore wind farms. A fall in offshore activity would hit all of them at once."}, {"factor": "SME IT and telecoms spending", "share": 0.3, "count": 3, "flag": "amber", "companies": ["Dstny Global Services UK", "Barclay Digital Services", "Siteground Hosting"], "drivers": ["Business telecoms (SME)", "Hosting and cloud (SME)"], "explain": "Sell phone, network and hosting services to small and mid-sized businesses. A squeeze on business budgets would hit them together."}, {"factor": "Government spending", "share": 0.1, "count": 1, "flag": "green", "companies": ["The Networking People (TNP)"], "drivers": ["Public sector budgets"], "explain": "Run networks for councils, schools and the NHS. Depends on public budgets."}]}, "top_20": {"n": 20, "effective_bets": 6.5, "flag": "green", "factors": [{"factor": "SME IT and telecoms spending", "share": 0.25, "count": 5, "flag": "green", "companies": ["Dstny Global Services UK", "Barclay Digital Services", "Siteground Hosting", "Babble Cloud", "I.P. Integration"], "drivers": ["Business telecoms (SME)", "Hosting and cloud (SME)"]}, {"factor": "Altnet funding and interest rates", "share": 0.15, "count": 3, "flag": "green", "companies": ["VEA Group", "MAP Group (UK)", "C.A. Telecom UK"], "drivers": ["Altnet and operator network build"]}, {"factor": "Offshore oil, gas, wind and shipping activity", "share": 0.15, "count": 3, "flag": "green", "companies": ["Satcom Global", "Clarus Networks", "A-2-Sea Solutions"], "drivers": ["Offshore energy and maritime"]}, {"factor": "Construction and utility capex", "share": 0.15, "count": 3, "flag": "green", "companies": ["Diona Construction", "F C E Projects", "Taylor Plant"], "drivers": ["Utility and civil construction"]}, {"factor": "Unknown", "share": 0.1, "count": 2, "flag": "green", "companies": ["Egnaro", "Damoco Bidco"], "drivers": ["Unknown"]}, {"factor": "Mobile operator and emergency-services spend", "share": 0.1, "count": 2, "flag": "green", "companies": ["FLR Spectron", "Scci Alphatrack"], "drivers": ["Mobile, radio and critical comms"]}, {"factor": "Government spending", "share": 0.05, "count": 1, "flag": "green", "companies": ["The Networking People (TNP)"], "drivers": ["Public sector budgets"]}, {"factor": "AI and cloud capex", "share": 0.05, "count": 1, "flag": "green", "companies": ["GO Green"], "drivers": ["Data centre and AI compute demand"]}]}, "top10": [{"rank": 1, "deal_type": "High-growth", "deal_type_reason": "turnover up 55% in the latest year, margin 31%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Altnet and operator network build", "second_driver": "Business telecoms (SME)", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"}, {"rank": 2, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 13%, turnover +17%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Public sector budgets", "second_driver": "", "macro_factor": "Government spending", "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"}, {"rank": 3, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 14%, turnover +4%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Offshore energy and maritime", "second_driver": "Public sector budgets", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"}, {"rank": 4, "deal_type": "High-growth", "deal_type_reason": "turnover up 46% in the latest year, margin 16%", "fund_fit": "Growth and mid-market PE", "demand_driver": "Offshore energy and maritime", "second_driver": "Utility and civil construction", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"}, {"rank": 5, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 24%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"}, {"rank": 6, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 41%, turnover +1%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: business phone services (web-checked: Endole)"}, {"rank": 7, "deal_type": "Between buckets", "deal_type_reason": "stable numbers (margin 14%) but project-based revenue (visibility 0.35)", "fund_fit": "Depends on the reason given", "demand_driver": "Altnet and operator network build", "second_driver": "", "macro_factor": "Altnet funding and interest rates", "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"}, {"rank": 8, "deal_type": "Fixable dip", "deal_type_reason": "turnover down 24% in the latest year; check whether it is temporary", "fund_fit": "Value-add infrastructure and special-situations funds", "demand_driver": "Offshore energy and maritime", "second_driver": "", "macro_factor": "Offshore oil, gas, wind and shipping activity", "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"}, {"rank": 9, "deal_type": "Steady compounder", "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 22%, turnover +13%", "fund_fit": "Core and core-plus infrastructure funds", "demand_driver": "Business telecoms (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"}, {"rank": 10, "deal_type": "Between buckets", "deal_type_reason": "recurring-type revenue but margin only 5%", "fund_fit": "Depends on the reason given", "demand_driver": "Hosting and cloud (SME)", "second_driver": "", "macro_factor": "SME IT and telecoms spending", "driver_basis": "Judgement: web hosting for small businesses (confirm)"}], "deal_type_counts": {"ranked": {"Between buckets": 26, "Fixable dip": 26, "High-growth": 11, "Steady compounder": 6, "Numbers to check": 4}, "watchlist": {"Fixable dip": 21}}, "thresholds": {"_rule": "Share of the top N companies driven by one macro factor. Companies sharing a factor are one bet, not several.", "top_n": 10, "amber_share": 0.3, "red_share": 0.5}, "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on altnet funding and interest rates, 3 depend on offshore oil, gas, wind and shipping activity, 3 depend on SME IT and telecoms spending"}}</script>
 <script>
 const D = JSON.parse(document.getElementById('data').textContent);
-const U = D.update, W = D.weights;
-const COLORS = {revenue_visibility:'var(--blue)', strategy_fit:'var(--orange)', size_fit:'var(--green)', margin_quality:'var(--brown)', data_completeness:'var(--slate)', debt_capacity:'var(--violet)'};
-const LABEL = k => k.replace(/_/g,' ').replace(/^./, c => c.toUpperCase());
+const U = D.update, W = D.weights, C = D.corr;
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmtDate = d => new Date(d + 'T12:00:00').toLocaleDateString('en-GB', {day:'numeric', month:'long', year:'numeric'});
 const money = v => '£' + (v/1e6).toFixed(1) + 'm';
-const SEG = {'Fibre and wired telecoms networks':'Fibre networks','Wireless networks, towers and fixed wireless':'Wireless','Satellite networks':'Satellite','Other telecoms networks':'Telecoms services','Data centres, data processing and hosting':'Data centres and hosting','Building and maintaining telecoms and utility networks':'Network build and maintenance'};
+const pct = v => Math.round(v*100) + '%';
+const CRIT = {
+  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur, judged from the type of business.'],
+  strategy_fit: ['Fits the case', 'How closely the business matches the investment case.'],
+  size_fit: ['Right size', 'Sales close to the £20–100m sweet spot.'],
+  margin_quality: ['Profit margin', 'Operating profit before depreciation as a share of sales, and how steady sales are.'],
+  data_completeness: ['Reliable figures', 'Whether the accounts give clean, complete numbers.'],
+  debt_capacity: ['Room to borrow', 'Cash, net assets and margin, as a rough guide to how much debt it could carry.']
+};
+const TYPE = {'Steady compounder':['t-steady','Steady compounder'], 'High-growth':['t-growth','High-growth'], 'Fixable dip':['t-dip','Fixable dip'],
+              'Between buckets':['t-between','Between types'], 'Numbers to check':['t-between','Numbers to check']};
+const typeTag = l => { if (!l) return ''; const [c, t] = TYPE[l.deal_type] || ['t-between', l.deal_type]; return `<span class="type ${c}">${t}</span>`; };
+const ACCESS = {'High':'Easy: owned by its founders','Medium':'Possible','Low-Medium':'Harder','Low':'Hard: recently bought, or rarely sold','Check':'Not yet known'};
+const COLORS = ['var(--f1)','var(--f2)','var(--f3)','var(--f4)','var(--f5)','var(--f6)'];
 
-document.getElementById('asof').textContent = 'Last run ' + fmtDate(U.date);
-document.getElementById('headline').textContent = U.headline + '.';
-document.getElementById('checked').textContent = `${U.companies_checked} ranked companies checked; ${U.events_count} Companies House ${U.events_count === 1 ? 'event' : 'events'}.`;
-document.getElementById('legend').innerHTML = Object.keys(W).map(k => `<span><i style="background:${COLORS[k]}"></i>${LABEL(k)} (${W[k]})</span>`).join('');
+document.getElementById('asof').textContent = 'Last updated ' + fmtDate(U.date);
 
-document.getElementById('rank').innerHTML = U.top10.map((t, idx) => {
-  const strands = Object.keys(W).map((k, i) => `<span style="width:${t.pts[k]}%;background:${COLORS[k]};--i:${idx*6+i}" title="${LABEL(k)}: ${t.pts[k].toFixed(1)} of ${W[k]}"></span>`).join('');
-  const rows = Object.keys(W).map(k => `<tr><td><i style="background:${COLORS[k]}"></i>${LABEL(k)}</td><td>${t.pts[k].toFixed(1)} / ${W[k]}</td></tr>`).join('');
-  const acc = t.access.replace(/\s+/g,'');
-  return `<li><details><summary>
-    <span class="pos">${t.rank}</span>
-    <span class="name">${esc(t.company)}<small>${esc(SEG[t.segment] || t.segment)}${t.town ? ', ' + esc(t.town) : ''}</small>${t.lens ? `<span class="tags"><span class="tag t-${t.lens.deal_type.split(' ')[0]}">${esc(t.lens.deal_type)}</span><span class="tag">${esc(t.lens.demand_driver)}</span></span>` : ''}</span>
-    <span class="bundle" role="img" aria-label="Score ${t.score.toFixed(1)} out of 100">${strands}</span>
-    <span class="score">${t.score.toFixed(1)}</span>
-    <span class="access a-${acc}"><span class="dot"></span><span><b>${esc(t.access)}</b> access</span></span>
+// In short
+const t1 = U.top10[0];
+const counts = {};
+U.top10.forEach(t => { const k = t.lens ? t.lens.deal_type : ''; counts[k] = (counts[k]||0) + 1; });
+const short = [
+  `<b>${esc(t1.company)} ranks first</b> with ${t1.score.toFixed(0)} out of 100: ${esc((t1.what||'').toLowerCase())}, sales of ${money(t1.turnover)}${t1.growth != null ? ` (up ${pct(t1.growth)} last year)` : ''} and a ${pct(t1.margin)} margin.`,
+];
+if (C) {
+  const c = C.top_n;
+  short.push(`<b>The ten are really about ${c.effective_bets.toFixed(0)} separate bets.</b> ${c.factors.filter(f => f.count >= 3).map(f => `${f.count} depend on ${esc(f.factor.charAt(0).toLowerCase() + f.factor.slice(1)).replace(/^sME/,'SME')}`).join(', ')}.`);
+  short.push(`<b>${counts['Steady compounder']||0} are steady compounders</b>, ${counts['High-growth']||0} are high-growth and ${counts['Fixable dip']||0} ${(counts['Fixable dip']||0) === 1 ? 'is a fixable dip' : 'are fixable dips'}, so the list has something for different kinds of fund.`);
+}
+const evs = U.events_count ? `${U.events_count} new Companies House ${U.events_count === 1 ? 'filing was' : 'filings were'} found for the ranked companies.` : 'No new Companies House filings for the ranked companies since the last run.';
+short.push(U.top10_moves.length ? `<b>${esc(U.headline)}.</b> See what changed below.` : `<b>No change to the top ten this week.</b> ${evs}`);
+document.getElementById('short').innerHTML = short.map(s => `<li>${s}</li>`).join('');
+
+// Top ten
+document.getElementById('rank').innerHTML = U.top10.map(t => {
+  const l = t.lens;
+  const bars = Object.keys(W).map(k => `<div class="bar"><span>${CRIT[k][0]}</span><span class="track"><span class="fill" style="display:block;width:${(t.pts[k]/W[k]*100).toFixed(0)}%"></span></span><span>${t.pts[k].toFixed(0)}/${W[k]}</span></div>`).join('');
+  return `<details class="row"><summary>
+    <span class="rk">${t.rank}</span>
+    <span class="co"><h3>${esc(t.company)}</h3><p>${esc(t.what || '')}${t.town ? '. ' + esc(t.town) : ''}</p></span>
+    <span class="typecell">${typeTag(l)}</span>
+    <span class="sc">${t.score.toFixed(0)}</span>
+    <span class="chev" aria-hidden="true"></span>
   </summary>
-  <div class="detail"><table>${rows}</table>
-    <div class="facts"><p><b>Turnover</b> ${money(t.turnover)}${t.margin != null ? ` &nbsp; <b>EBITDA margin</b> ${Math.round(t.margin*100)}%` : ''}</p>
-    <p><b>Thesis fit</b> ${esc(t.fit)}</p><p><b>Accessibility</b> ${esc(t.access_note)}</p>
-    ${t.lens ? `<p><b>Deal type</b> ${esc(t.lens.deal_type)}: ${esc(t.lens.deal_type_reason)}. ${esc(t.lens.fund_fit)}.</p>
-    <p><b>Demand driver</b> ${esc(t.lens.demand_driver)}${t.lens.second_driver ? ', then ' + esc(t.lens.second_driver) : ''} (${esc(t.lens.driver_basis)}).</p>` : ''}</div></div>
-  </details></li>`;
+  <div class="more">
+    <div><h4>Key facts</h4><dl class="facts">
+      <div><dt>Sales</dt><dd>${money(t.turnover)}${t.growth != null ? `, ${t.growth >= 0 ? 'up' : 'down'} ${pct(Math.abs(t.growth))} on the year before` : ''}</dd></div>
+      <div><dt>Profit margin</dt><dd>${t.margin != null ? pct(t.margin) : 'Not available'}</dd></div>
+      ${l ? `<div><dt>Why this type</dt><dd>${esc(l.deal_type_reason.charAt(0).toUpperCase() + l.deal_type_reason.slice(1))}.</dd></div>
+      <div><dt>Sales depend on</dt><dd>${esc(l.demand_driver)}${l.second_driver ? ', then ' + esc(l.second_driver) : ''}</dd></div>` : ''}
+      <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
+    </dl></div>
+    <div><h4>How the ${t.score.toFixed(0)} is made up</h4><div class="bars">${bars}</div></div>
+  </div></details>`;
 }).join('');
 
-if (D.corr) {
-  const c = D.corr.top_n, PAL = ['#2463c7','#e2742a','#2e9a57','#86563a','#7a4fd0','#64707e','#c2412d','#1d8a8a'];
-  document.getElementById('corr-section').hidden = false;
-  document.getElementById('bkey').hidden = false;
-  document.getElementById('corr').innerHTML = `<span class="flag ${c.flag}">${c.flag.toUpperCase()}</span>
-    <h3>${esc(D.corr.headline)}.</h3>
-    <div class="cbar" role="img" aria-label="Top ten split by macro factor">${c.factors.map((f, i) => `<span style="width:${f.share*100}%;background:${PAL[i % PAL.length]}" title="${esc(f.factor)}: ${f.count}">${f.count}</span>`).join('')}</div>
-    <div class="clist">${c.factors.map((f, i) => `<div><b><i style="background:${PAL[i % PAL.length]}"></i>${esc(f.factor)}</b>${f.count} of ${c.n}: ${f.companies.map(esc).join(', ')}</div>`).join('')}</div>
-    <p class="sub" style="margin:16px 0 0;font-size:13.5px">Amber when ${Math.round(D.corr.thresholds.amber_share*100)}% or more of the top ten share one factor, red at ${Math.round(D.corr.thresholds.red_share*100)}%. Across the top twenty it is about ${D.corr.top_20.effective_bets.toFixed(0)} independent bets.</p>`;
+// Separate bets
+if (C) {
+  const c = C.top_n;
+  document.getElementById('bets-section').hidden = false;
+  document.getElementById('verdict').textContent = `The top ten is about ${c.effective_bets.toFixed(0)} separate bets, not ten. ${c.flag === 'green' ? 'No single factor dominates.' : c.flag === 'amber' ? 'Worth knowing, but no single factor dominates.' : 'One factor dominates the list.'}`;
+  document.getElementById('groups').innerHTML = c.factors.map((f, i) => `<div class="group" style="--c:${COLORS[i % COLORS.length]}">
+    <p class="n">${f.count} of ${c.n} companies</p><h3>${esc(f.factor)}</h3>
+    <ul>${f.companies.map(n => `<li>${esc(n)}</li>`).join('')}</ul>
+    <p>${esc(f.explain || '')}</p></div>`).join('');
+  document.getElementById('rule-note').textContent = `We flag the list when ${Math.round(C.thresholds.amber_share*100)}% or more of the ten depend on one thing, and treat it as a serious concentration at ${Math.round(C.thresholds.red_share*100)}%. What each company depends on is a judgement from its business description and is open to review.`;
 }
 
-const moves = U.top10_moves;
-document.getElementById('changes-sub').textContent = U.previous_scored_on
-  ? `Compared with the ranking of ${fmtDate(U.previous_scored_on)}. Each reason comes from the score points that moved and the filings behind them.`
-  : 'The first weekly comparison will appear here.';
-const label = m => ({up:`${m.from} → ${m.to}`, down:`${m.from} → ${m.to}`, new:`New at ${m.to}`, out:`${m.from} → out`, same:`Stays ${m.to}`})[m.kind];
-document.getElementById('changes').innerHTML = moves.length ? moves.map(m => `<div class="chg">
-  <span class="move ${m.kind}">${label(m)}</span>
-  <div><h3>${esc(m.company)}</h3><p>${esc(m.reasons.join('; '))}.</p>
-  ${m.events.length ? `<ul>${m.events.map(e => `<li>${esc(e)}</li>`).join('')}</ul>` : ''}</div></div>`).join('')
-  : '<p class="sub">No changes to the top ten in this run.</p>';
+// Score glossary
+document.getElementById('gloss-score').innerHTML = Object.keys(W).map(k => `<div><dt>${CRIT[k][0]} (up to ${W[k]} points)</dt><dd>${CRIT[k][1]}</dd></div>`).join('');
 
+// Changes
+const moves = U.top10_moves;
+document.getElementById('changes-sub').textContent = U.previous_scored_on ? `Compared with the ranking of ${fmtDate(U.previous_scored_on)}.` : 'The first weekly comparison will appear here.';
+const label = m => ({up:`Up to ${m.to}`, down:`Down to ${m.to}`, new:`New at ${m.to}`, out:`Out of the ten`, same:`Stays at ${m.to}`})[m.kind];
+document.getElementById('changes').innerHTML = moves.length ? moves.map(m => `<div class="chg"><span class="mv">${label(m)}</span>
+  <div><h3>${esc(m.company)}</h3><p>${esc(m.reasons.join('; '))}.</p>${m.events.length ? `<p class="small">${m.events.map(esc).join('<br>')}</p>` : ''}</div></div>`).join('')
+  : `<p class="text">No company moved in or out of the top ten, and the order is unchanged. ${evs}</p>`;
+
+// Funnel
 const maxN = D.funnel[0][1];
-document.getElementById('funnel').innerHTML = D.funnel.map(([lab, n]) => {
-  const w = Math.max(1.2, Math.sqrt(n / maxN) * 100);
-  return `<div class="fstep"><span class="fnum">${n.toLocaleString('en-GB')}</span><div class="fbar ${w < 45 ? 'narrow' : ''}" style="--w:${w.toFixed(1)}%"><span>${esc(lab)}</span></div></div>`;
-}).join('') + `<p class="sub" style="margin-top:8px;font-size:14px">Bar widths use a square-root scale so the small steps stay visible. 842 of the 1,209 companies file scanned PDF accounts that this version cannot read yet.</p>`;
+document.getElementById('funnel').innerHTML = D.funnel.map(([lab, n]) => `<div class="fstep"><span class="fnum">${n.toLocaleString('en-GB')}</span><div class="fbar" style="--w:${Math.max(1.2, Math.sqrt(n/maxN)*100).toFixed(1)}%"><span>${esc(lab)}</span></div></div>`).join('')
+  + `<p class="small" style="margin-top:10px">Bar lengths use a square-root scale so the small steps stay visible. 842 companies file scanned accounts that cannot be read yet.</p>`;
 </script>
 </body></html>

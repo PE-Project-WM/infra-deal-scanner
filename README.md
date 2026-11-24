@@ -17,7 +17,7 @@ Built by William Mikollovci with Python, GitHub Actions and Claude.
 | 5. Score | Six weighted criteria out of 100; accessibility (ownership) shown separately and never blended into the score | `scripts/score.py` |
 | 6. Weekly update | New accounts, owners, charges, directors and status changes; re-rank and explain each move from the points that changed | `scripts/monitor.py`, `scripts/compare.py` |
 | 6b. Deal types and correlation (Version 2) | Each company labelled Steady compounder, Fixable dip or High-growth (which kind of fund it suits) and tagged with its main demand driver; the top 10 is tested for hidden concentration on one macro factor (amber at 30%, red at 50%) | `scripts/lenses.py`, `config/demand_drivers.json`, `config/demand_driver_overrides.csv` |
-| 7. Website | Rebuilt from the latest run and published with GitHub Pages | `scripts/site.py` → `docs/` |
+| 7. Website | Rebuilt from the latest run and published with GitHub Pages | `scripts/site.py` + `scripts/site_template.html` → `docs/` |
 
 The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run commits its results to `data/` and opens an issue with the update.
 
