@@ -71,7 +71,7 @@ for _, r in R.head(TOP_N).iterrows():
     b = BS.loc[num] if num in BS.index else None
     cur = b['currency'] if b is not None else 'GBP'
     fx = FX.get(cur, 1.0)
-    e0, sales0 = e0 * fx, sales0 * fx   # everything below is in pounds
+    # ranking figures are already in pounds (score.py converts them); balance-sheet items are converted below
     conv = fcf_conv = None
     net_debt = debt_parts = None
     if b is not None:

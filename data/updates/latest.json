@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "checked_since": "2026-08-26",
  "previous_scored_on": "2026-11-24",
- "headline": "Scoring method updated (v3.1): 0 new in the top 10, 0 dropped out, 6 moved within it",
+ "headline": "Scoring method updated (v3.1): 2 new in the top 10, 2 dropped out, 7 moved within it",
  "method_changed": true,
  "method_version": "v3.1",
  "events_count": 3,
@@ -114,7 +114,7 @@
    "score": 73.3,
    "fit": "IN",
    "segment": "Satellite networks",
-   "turnover": 36305200.0,
+   "turnover": 27504819.520000003,
    "margin": 0.138,
    "access": "High",
    "access_note": "founder-owned, proprietary approach possible",
@@ -170,42 +170,42 @@
   },
   {
    "rank": 9,
-   "company": "Alert Communications",
-   "score": 66.9,
+   "company": "5G Communications",
+   "score": 69.1,
    "fit": "ADJACENT",
    "segment": "Other telecoms networks",
-   "turnover": 10761040.0,
-   "margin": 0.32,
-   "access": "Medium",
-   "access_note": "sponsor-owned, sale timing depends on hold year",
-   "town": "London",
+   "turnover": 20867520.0,
+   "margin": 0.119,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "High Wycombe",
    "confidence": "Low",
    "pts": {
-    "revenue_visibility": 12.5,
+    "revenue_visibility": 17.5,
     "strategy_fit": 12.0,
     "size_fit": 15.0,
-    "margin_quality": 21.2,
-    "balance_sheet": 6.2
+    "margin_quality": 10.7,
+    "balance_sheet": 13.9
    }
   },
   {
    "rank": 10,
-   "company": "C.A. Telecom UK",
-   "score": 66.7,
+   "company": "Rapid Response Telecoms",
+   "score": 67.8,
    "fit": "IN",
    "segment": "Building and maintaining telecoms and utility networks",
-   "turnover": 18385935.0,
-   "margin": 0.135,
-   "access": "Medium",
-   "access_note": "owned via a UK holding company",
-   "town": "Whitstable",
-   "confidence": "High",
+   "turnover": 33104076.0,
+   "margin": 0.163,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Barnsley",
+   "confidence": "Low",
    "pts": {
     "revenue_visibility": 8.8,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
-    "margin_quality": 7.9,
-    "balance_sheet": 15.0
+    "margin_quality": 13.3,
+    "balance_sheet": 10.7
    }
   }
  ],
@@ -245,6 +245,7 @@
    "score_from": 79.2,
    "score_to": 73.3,
    "reasons": [
+    "turnover \u00a336.3m \u2192 \u00a327.5m",
     "scoring method changed (v3 to v3.1)"
    ],
    "events": [
@@ -278,11 +279,37 @@
    "events": []
   },
   {
+   "company": "5G Communications",
+   "number": "03513467",
+   "kind": "new",
+   "from": null,
+   "to": 9,
+   "score_from": null,
+   "score_to": 69.1,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "new",
+   "from": null,
+   "to": 10,
+   "score_from": null,
+   "score_to": 67.8,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Alert Communications",
    "number": "03912906",
    "kind": "down",
    "from": 6,
-   "to": 9,
+   "to": 14,
    "score_from": 73.9,
    "score_to": 66.9,
    "reasons": [
@@ -291,9 +318,87 @@
    "events": [
     "Director appointed (2026-11-04): Britton, Cara Marie appointed"
    ]
+  },
+  {
+   "company": "C.A. Telecom UK",
+   "number": "06011062",
+   "kind": "down",
+   "from": 10,
+   "to": 15,
+   "score_from": 66.7,
+   "score_to": 66.7,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
   }
  ],
  "all_moves": [
+  {
+   "company": "Fourway Communication",
+   "number": "00714431",
+   "kind": "new",
+   "from": null,
+   "to": 41,
+   "score_from": null,
+   "score_to": 38.8,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avoira",
+   "number": "01763970",
+   "kind": "down",
+   "from": 22,
+   "to": 31,
+   "score_from": 47.9,
+   "score_to": 47.9,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "BDR Voice & Data Solutions",
+   "number": "02652955",
+   "kind": "down",
+   "from": 25,
+   "to": 34,
+   "score_from": 44.2,
+   "score_to": 44.2,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Scci Alphatrack",
+   "number": "02760731",
+   "kind": "down",
+   "from": 14,
+   "to": 20,
+   "score_from": 60.9,
+   "score_to": 60.9,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Chess",
+   "number": "02797895",
+   "kind": "down",
+   "from": 19,
+   "to": 26,
+   "score_from": 55.0,
+   "score_to": 55.0,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
   {
    "company": "MAP Group (UK)",
    "number": "02853596",
@@ -302,6 +407,32 @@
    "to": 7,
    "score_from": 73.1,
    "score_to": 73.1,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Teligent",
+   "number": "02893478",
+   "kind": "new",
+   "from": null,
+   "to": 43,
+   "score_from": null,
+   "score_to": 36.9,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ferns Surfacing",
+   "number": "03193093",
+   "kind": "down",
+   "from": 23,
+   "to": 32,
+   "score_from": 46.8,
+   "score_to": 46.8,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -321,11 +452,63 @@
    "events": []
   },
   {
+   "company": "Elitetele.Com",
+   "number": "03228824",
+   "kind": "down",
+   "from": 20,
+   "to": 27,
+   "score_from": 54.9,
+   "score_to": 54.9,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "5G Communications",
+   "number": "03513467",
+   "kind": "new",
+   "from": null,
+   "to": 9,
+   "score_from": null,
+   "score_to": 69.1,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Windsor Telecom",
+   "number": "03752620",
+   "kind": "down",
+   "from": 13,
+   "to": 18,
+   "score_from": 63.3,
+   "score_to": 63.3,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Medhurst Communications",
+   "number": "03868503",
+   "kind": "down",
+   "from": 26,
+   "to": 35,
+   "score_from": 44.0,
+   "score_to": 44.0,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
    "company": "Alert Communications",
    "number": "03912906",
    "kind": "down",
    "from": 6,
-   "to": 9,
+   "to": 14,
    "score_from": 73.9,
    "score_to": 66.9,
    "reasons": [
@@ -334,6 +517,110 @@
    "events": [
     "Director appointed (2026-11-04): Britton, Cara Marie appointed"
    ]
+  },
+  {
+   "company": "FLR Spectron",
+   "number": "04085164",
+   "kind": "down",
+   "from": 18,
+   "to": 25,
+   "score_from": 55.8,
+   "score_to": 55.8,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "I.P. Integration",
+   "number": "04210561",
+   "kind": "down",
+   "from": 16,
+   "to": 23,
+   "score_from": 56.7,
+   "score_to": 56.7,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Babble Cloud",
+   "number": "04213760",
+   "kind": "down",
+   "from": 12,
+   "to": 17,
+   "score_from": 63.6,
+   "score_to": 63.6,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VCG Technology Services",
+   "number": "04380546",
+   "kind": "new",
+   "from": null,
+   "to": 29,
+   "score_from": null,
+   "score_to": 49.8,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "NEW Technology Group Holdings PLC",
+   "number": "04503928",
+   "kind": "new",
+   "from": null,
+   "to": 46,
+   "score_from": null,
+   "score_to": 31.9,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Radiocoms Systems",
+   "number": "04544886",
+   "kind": "new",
+   "from": null,
+   "to": 19,
+   "score_from": null,
+   "score_to": 62.3,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Spectra Group (UK)",
+   "number": "04570376",
+   "kind": "down",
+   "from": 30,
+   "to": 39,
+   "score_from": 40.9,
+   "score_to": 40.9,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Telappliant",
+   "number": "04632756",
+   "kind": "down",
+   "from": 29,
+   "to": 38,
+   "score_from": 41.9,
+   "score_to": 41.9,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
   },
   {
    "company": "Satcom Global",
@@ -344,11 +631,64 @@
    "score_from": 79.2,
    "score_to": 73.3,
    "reasons": [
+    "turnover \u00a336.3m \u2192 \u00a327.5m",
     "scoring method changed (v3 to v3.1)"
    ],
    "events": [
     "Director resigned (2026-09-02): Leydon, Chris resigned"
    ]
+  },
+  {
+   "company": "Nomios UK&I",
+   "number": "05787755",
+   "kind": "down",
+   "from": 17,
+   "to": 24,
+   "score_from": 56.0,
+   "score_to": 56.0,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "C.A. Telecom UK",
+   "number": "06011062",
+   "kind": "down",
+   "from": 10,
+   "to": 15,
+   "score_from": 66.7,
+   "score_to": 66.7,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ridown Capital",
+   "number": "06521296",
+   "kind": "down",
+   "from": 28,
+   "to": 37,
+   "score_from": 42.8,
+   "score_to": 42.8,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Lily Communications",
+   "number": "07020016",
+   "kind": "down",
+   "from": 21,
+   "to": 30,
+   "score_from": 49.1,
+   "score_to": 49.1,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
   },
   {
    "company": "Dstny Global Services UK",
@@ -364,11 +704,154 @@
    "events": []
   },
   {
+   "company": "Abacus Information Technology UK",
+   "number": "08824522",
+   "kind": "down",
+   "from": 32,
+   "to": 45,
+   "score_from": 33.1,
+   "score_to": 33.1,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ICE Telecommunications",
+   "number": "09180490",
+   "kind": "new",
+   "from": null,
+   "to": 40,
+   "score_from": null,
+   "score_to": 39.0,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Siteground Hosting",
+   "number": "09348602",
+   "kind": "down",
+   "from": 11,
+   "to": 16,
+   "score_from": 64.0,
+   "score_to": 64.0,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Croft Communications",
+   "number": "09585068",
+   "kind": "new",
+   "from": null,
+   "to": 12,
+   "score_from": null,
+   "score_to": 67.3,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Heneghan Holdings",
+   "number": "09956206",
+   "kind": "new",
+   "from": null,
+   "to": 11,
+   "score_from": null,
+   "score_to": 67.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Glenelly Infrastructure Solutions",
+   "number": "10021562",
+   "kind": "new",
+   "from": null,
+   "to": 21,
+   "score_from": null,
+   "score_to": 58.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Abzorb Group",
+   "number": "10779280",
+   "kind": "new",
+   "from": null,
+   "to": 28,
+   "score_from": null,
+   "score_to": 50.0,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "new",
+   "from": null,
+   "to": 10,
+   "score_from": null,
+   "score_to": 67.8,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Opus Tech",
+   "number": "12520403",
+   "kind": "new",
+   "from": null,
+   "to": 47,
+   "score_from": null,
+   "score_to": 31.8,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Solid Telecommunications",
+   "number": "13576894",
+   "kind": "down",
+   "from": 27,
+   "to": 36,
+   "score_from": 43.2,
+   "score_to": 43.2,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Talk Straight Holdings",
+   "number": "14354114",
+   "kind": "down",
+   "from": 31,
+   "to": 44,
+   "score_from": 35.5,
+   "score_to": 35.5,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
    "company": "Adman Civil Projects",
    "number": "NI064545",
-   "kind": "same",
+   "kind": "down",
    "from": 15,
-   "to": 15,
+   "to": 22,
    "score_from": 56.9,
    "score_to": 56.9,
    "reasons": [
@@ -379,6 +862,32 @@
    ]
   },
   {
+   "company": "M & M Contractors (Europe)",
+   "number": "NI614374",
+   "kind": "new",
+   "from": null,
+   "to": 42,
+   "score_from": null,
+   "score_to": 38.3,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "GCU (UK)",
+   "number": "NI620995",
+   "kind": "new",
+   "from": null,
+   "to": 13,
+   "score_from": null,
+   "score_to": 67.0,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Barclay Digital Services",
    "number": "NI624500",
    "kind": "up",
@@ -386,6 +895,19 @@
    "to": 5,
    "score_from": 73.6,
    "score_to": 73.6,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Hutchison",
+   "number": "SC702923",
+   "kind": "down",
+   "from": 24,
+   "to": 33,
+   "score_from": 44.5,
+   "score_to": 44.5,
    "reasons": [
     "scoring method changed (v3 to v3.1)"
    ],
@@ -415,5 +937,5 @@
    "detail": "Leydon, Chris resigned"
   }
  ],
- "ranked": 32
+ "ranked": 47
 }
