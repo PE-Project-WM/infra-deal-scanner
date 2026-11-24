@@ -3,7 +3,7 @@ name: Deep dive on the top-ranked companies
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, v11-ocr-checks]
     paths:
       - 'scripts/deep_dive.py'
       - '.github/workflows/deep_dive.yml'
@@ -14,7 +14,7 @@ permissions:
 jobs:
   deep-dive:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,7 +24,8 @@ jobs:
       - name: Pull the last 3 accounts for the top 10
         env:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}
-          TOP_N: '10'
+          TOP_N: '88'
+          YEARS: '1'
         run: |
           mkdir -p data/deep_dive
           set -o pipefail
