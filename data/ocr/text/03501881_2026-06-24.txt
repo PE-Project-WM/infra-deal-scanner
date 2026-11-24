@@ -1,0 +1,1355 @@
+=== page 1 ===
+(A Airspari
+AIRSPAN COMMUNICATIONS LIMITED
+REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 DECEMBER 2024
+Registered No. 03501881
+UT
+. A08 12/06/2026 #20
+COMPANIES HOUSE
+
+=== page 2 ===
+Airspan Communications Limited
+Company information
+DIRECTORS
+D Brant
+: G Laxdal (appointed 30 January 2024)
+: SECRETARY
+R Flaherty
+AUDITOR
+Grant Thornton
+Chartered Accountants & Statutory Auditors
+13-18 City Quay
+Dublin 2
+Ireland
+D02 ED70
+REGISTERED OFFICE
+Capital Point
+33 Bath Road
+Slough
+Berkshire SL1 3UF .
+COMPANY BANKERS
+Lloyds Bank :
+32 Commercial Way
+Woking .
+Surrey GU21 6ER
+COMPANY LAWYERS
+Dorsey & Whitney LLP
+51 West 52nd Street .
+New York, NY 10019-6119
+United States
+COMPANY REGISTRATION NUMBER: 03501881
+1
+
+=== page 3 ===
+Airspan Communications Limited
+STRATEGIC REPORT (CONTINUED)
+BUSINESS REVIEW
+The Group is wholly owned by Airspan Networks Inc. (“Parent”), registered in Delaware, USA, and
+ultimately owned by Airspan Networks Holdings LLC (“Airspan “TopCo”), Airspan TopCo and all
+subsidiaries are referred to as the “Airspan Group”. The Group is a designer and producer of wireless
+network equipment for 4G and SG networks for both mainstream public telecommunications service
+providers and private network implementations. The Group provides Radio Access Network (“RAN”)
+products based on Open Virtualized Cloud Native Architectures that support technologies including 5G new
+: radio (“SG NR”), Long-Term Evolution (“LTE”), and Fixed Wireless standards, operating in licensed,
+lightly licensed and unlicensed frequencies.
+The financial year was significantly influenced by a court-supervised Chapter 11 restructuring process
+undertaken by the wider Group’s ultimate parent, TopCo. The purpose of the restructuring was to strengthen
+TopCo’s balance sheet, simplify its capital structure and provide a more sustainable platform for future
+operations. During this period, management remained focused on preserving customer relationships,
+maintaining operational continuity, supporting employees and managing liquidity prudently. The Group
+continued to deliver products and services to customers throughout the year, with no material interruption
+to core programmes. Management also continued to prioritise product development, operational efficiency
+and selective commercial opportunities in key markets. Following completion of the restructuring process,
+the Directors believe the Group is better positioned to pursue profitable growth and long-term value
+"creation.
+The market for the Airspan Group’s wireless systems includes mobile carriers, other public network
+operators and private and government network operators for command and contro] in industrial and public
+safety applications such as smart utilities, defence, transportation, mining and oil and gas. Its strategy
+applies the same network technology across all addressable sectors.
+The Airspan Group’s main operations are in Slough, United Kingdom; Mumbai and Bangalore, India;
+Airport City, Israel; and the Company’s corporate headquarters are in the United States (“U.S.”) in Plano,
+Texas.
+The Group has historically incurred losses from operations that have been financed by Airspan Networks
+Inc., the parent company, by intercompany loans or equity share purchases.
+FINANCIAL OVERVIEW ,
+The Group reports its financial statements and the notes to the accounts in United States dollars (“$”).
+The Group’s operating loss after tax for the year ended 31 December 2024 was $78.9 million, (2023: $90.6
+million). Turnover at $22.4 million in 2024 decreased 56% from $50.7 million in 2023, with gross margins
+at 61% and 32% for 2024 and 2023, respectively. Revenues decreased in the Group primarily due to TopCo
+being in Chapter 11 proceedings for most of 2024.
+GOING CONCERN :
+The Group incurred a loss for the year of $78.9 million, accumulated losses of $842.9 million, and had total
+liabilities at 31 December 2024 of $572.8 million, of which $565.8 million is due to the parent company.
+The Group relies on its parent company to provide financing for its operations. TopCo has $20.0 million of
+debt and an invoicing financing facility of up to $20.0 million, that are scheduled to mature in 2026. There
+is uncertainty that TopCo will be able to refinance the debt, extend the debt maturity or have the available
+cash to satisfy the debt.
+In calendar year 2024, the Airspan Group continued to invest in 4G and SG development activities and
+customer engagements. These significant investments, combined with the impact of the continuing global
+economic conditions in 2024, had a significant impact on available resources and credit facilities.
+The ultimate parent company Airspan Networks Holdings Inc. and three United States subsidiaries filed for
+bankruptcy protection under Chapter 11 in Delaware, on 31 March 2024 under a prepackaged plan of
+2
+
+=== page 4 ===
+Airspan Communications Limited
+STRATEGIC REPORT (CONTINUED)
+GOING CONCERN (CONTINUED)
+reorganization. Airspan Networks Holdings Inc. emerged from Chapter 1] as Airspan Networks Holdings
+. LLC on 11 October 2024.
+After emergence from bankruptcy, Airspan Networks Holdings LLC is majority owned by affiliates of
+Fortress Investment Group and all previously incurred third party indebtedness has been eliminated. Fortress
+Investment Group provided additional equity to the Airspan Group and the Airspan Group has access to a
+line of working capital which the directors of the Company expect will allow the parent company to continue
+to provide the necessary financial support to the Company to meet its obligations as they fall due for the
+foreseeable future. .
+To address the need to satisfy the Group’s continuing obligations and realize its long-term strategy,
+management has taken several steps to improve its operating and financial results, including the following:
+¢ acquired synergistic businesses assets
+¢ expanded the business into Distributed Antenna System sales
+© continued to develop 5G product offerings that will expand the market for the Group’s products
+¢ entered into a factoring facility to improve days sales outstanding to provide additional liquidity
+¢ implemented cost reduction initiatives and business synergies to reduce non-strategic costs in
+operations and expanded the Group’s labor force in lower cost geographies, with headcount
+reductions in higher cost geographies
+There can be no assurance that the above actions wil] be successful. Without additional financing or capital,
+the Group’s current cash balance may not be sufficient to satisfy the debt when it becomes due.
+Collectively, these events and conditions indicate that a material uncertainty exists that may cast significant
+doubt about the Group and Company’s ability to continue as a going concer for a period of at least one
+year after the date that these financial statements are issued. The accompanying consolidated financial
+statements do not include any adjustments relating to the recoverability and classification of asset carrying
+amounts or the amount and classification of liabilities that might result from the outcome of this uncertainty.
+PRINCIPAL RISKS AND UNCERTAINTIES FACING THE GROUP AND COMPANY
+Technology Risk
+The Group relies on technology for day-to-day operations that has potential system vulnerabilities, failure
+due to hacking, phishing and ransomware and potential data loss. All modern companies operate with this
+risk and the Group addresses this risk with a robust attention to system vulnerabilities and education of
+users. The Group has strict controls in place and regular communications to staff members to remain
+cautious and vigilant to the threats.
+Supply Chain Risk :
+The Group is reliant on key suppliers for components that are from a single source. An interruption of supply
+: from these key suppliers could disrupt or halt production for products that are designed using these key
+components.
+Key Staff Risk
+The Group is reliant on the wealth of expertise of its staff, and in some cases particular staff members, to
+research, develop and improve the product line. Losing these key employees could risk the development of
+the products and cutting-edge technologies.
+Funding Risk
+The Group is reliant and funded through its parent company, which has provided the financial support for
+the Group to grow to where it is now. The directors believe there is a reasonable expectation that the Group
+will continue to be supported and meet its strategic targets.
+3
+
+=== page 5 ===
+Airspan Communications Limited
+STRATEGIC REPORT (CONTIN UE 'D)
+PRINCIPAL RISKS AND UNCERTAINTIES FACING THE GROUP AND COMPANY
+(CONTINUED)
+Political Risk
+The Group could be impacted by trade tariffs. Movement on these tariffs or changes to the products affected
+by these tariffs could mean heavy taxation and/or the prevention of movement of these products across
+borders. The Group monitors and reviews these tariffs and the products within, regularly and classifications
+are discussed regularly within the Company.
+Regulatory Risk
+Products manufactured by the Group are regulated by a number of regulators across the world, be it the
+FCC in the US, OFCOM in the UK or other regulators in the countries where our products are sold.
+Changes, albeit rare, to requirements, regulations and limits of telecoms equipment by one or some of the
+regulators could render products obsolete in one or more markets. The Group maintains a comprehensive
+understanding of the regulatory environment in the countries that products are produced and sold into.
+Further details related to Risks and Uncertainties facing the Group, are given in the Financial Statements of
+Airspan Networks Holdings LLC.
+FUTURE DEVELOPMENTS
+Over the longer term, the wireless access market is expected to continue to expand because of its economic
+and operational advantages over wired and other access technologies. ,
+RESEARCH AND DEVELOPMENT :
+The Group’s policy is to invest in product innovation and process improvement at a level designed to enable
+it to be a market leader. It is also the Group’s policy to seek out new business opportunities by exploiting
+its skills and technological base. The Group’s activities are concentrated primarily on the development of
+new products and cost reduction programs of existing products.
+CREDITOR PAYMENT POLICY AND PRACTICE
+It is the Group’s policy that payments to suppliers are made in accordance with the terms and conditions
+agreed between the Group and its suppliers, provided that all trading terms and conditions have been
+fulfilled. See disclosure on Creditor Days Outstanding under key performance indicators below.
+KEY PERFORMANCE INDICATORS
+The Group’s main Key Performance Indicators (KPI’s) with commentaries on performance are:
+: e Gross Margin Percentage: 61% (2023: 32%) — increased margin due to product mix of more
+services and less product
+e Sales Days Outstanding: 35 (2023: 5) — decreased revenue due to TopCo being involved in
+Chapter 11 proceedings for most of 2024
+¢ Creditor Days Outstanding: 12 (2023: 45) — decreased due to TopCo being involved in Chapter
+11 proceedings for most of 2024.
+The Directors consider that, due to the restructuring undertaken during the year, certain historic KPIs are of
+limited comparability. Accordingly, management and the Board has monitored business performance
+principally through liquidity, customer delivery continuity and employee retention.
+Throughout the year, the Group maintained continuity of service to customers and experienced no material
+operational disruption during the year.
+4
+
+=== page 6 ===
+Airspan Communications Limited.
+STRATEGIC REPORT (CONTINUED)
+FINANCIAL RISK MANAGEMENT OBJECTIVES AND POLICIES
+The Group uses various financial instruments; these include cash and various items, such as trade debtors
+and trade creditors that arise directly from its operations.
+The existence of these financial instruments exposes the Group to a number of financial risks, which are
+described in more detail below. :
+The main risks arising from the Group's financial instruments are market, currency, liquidity, interest rate
+and credit risks. The directors review and agree policies for managing each of these risks and they are
+summarised below. These policies have remained unchanged from previous years.
+Market risk
+Market risk encompasses three types of risk, being currency risk, fair value interest rate risk and price risk.
+The Group's policies for managing fair value interest rate risk are considered along with those for managing
+cash flow interest rate risk and are set out in the subsection entitled "interest rate risk" below.
+Currency risk
+The Group is exposed to transaction foreign exchange risk as the Group records its transactions in US
+dollars. The Group’s largest currency exposure is in sterling, primarily to pay its staff and operational costs.
+FINANCIAL RISK MANAGEMENT OBJECTIVES AND POLICIES (CONTINUED)
+Liquidity risk
+The Group seeks to manage financial risk by ensuring sufficient liquidity is available to meet foreseeable
+needs. Short term flexibility is achieved by short term loans from the parent company, Airspan Networks
+Inc., which ensure that sufficient facilities are in place to meet at least the forecast cash requirements.
+Interest rate risk
+The interest rate exposure of the Group as at 31 December 2024 to amounts owed to parent undertaking is
+shown in the table below.
+Fixed Floating Total
+$000 $000 $1000
+Amounts owed to
+parent undertaking _ ___ 565,760" 905,760
+: - 565,760 565,760
+Credit risk
+The Group 's principal financial assets are cash and trade debtors. Cash is held with well-known banks with
+a high credit rating. Trade debtors represent a significant risk which is managed by considering the credit
+history of all customers and applying appropriate credit limits and credit terms.
+Section 172 statement
+The Directors acknowledge their duty under Section 172 of the Companies Act 2006 and consider that they
+have, both individually and together, acted in the way that, in good faith, would be most likely to promote
+the success of the Company for the benefit of its members as a whole. In doing so, they have had regard
+(amongst other matters) to:
+(a) the likely consequences of any decision in the long term,
+(b) the interests of the Company's employees,
+(c) the need to foster the Company's business relationships with suppliers, customers and others,
+(d) the impact of the Company's operations on the community and the environment,
+(e) the desirability of the Company maintaining a reputation for high standards of business conduct, and
+(f) the need to act fairly as between members of the Company
+The Directors consider that the information already provided in the Strategic and Directors’ Reports
+adequately covers these matters.
+5
+
+=== page 7 ===
+Airspan Communications Limited’
+STRATEGIC REPORT (CONTINUED)
+This report was approved by the Board of Directors and signed on their behalf on 13 May 2026.
+‘Signed by:
+D pAs662189C8480...
+: Director .
+6
+
+=== page 8 ===
+Airspan Communications Limited
+
+DIRECTORS’ REPORT
+
+The directors present their report and financial statements for the year ended 31 December 2024.
+
+PRINCIPAL ACTIVITIES
+
+The Group’s principal activities are the supply and installation of telecommunications equipment and
+
+research and development in telecommunications.
+
+DIRECTORS
+
+The directors who served during the year were:
+
+D Brant
+G Laxdal (appointed 30 January 2024)
+
+RESULTS AND DIVIDENDS
+
+The Group loss for the year, after taxation, amounted to $78.9 million (2023: $90.6 million loss). The
+directors do not recommend the payment of a dividend for the year.
+
+GLOBAL ECONOMIC CONDITIONS .
+The Group and Company has experienced supply chain disruptions and inflationary impacts across our
+businesses, driven by the impact of regional conflicts, economic sanctions, and general macroeconomic
+factors. These factors have increased our operating costs. While the Group and Company is taking actions
+to respond to the supply chain disruptions, inflationary environment, and global demand dynamics, we may
+not be able to enact these measures in a timely manner, or the measures may not be sufficient to offset the
+increase in costs, which could have a material adverse impact on our results of operations.
+STAKEHOLDER ENGAGEMENT
+
+The Directors recognise the importance of maintaining effective relationships with the Group’s
+stakeholders, including employees, customers, suppliers, shareholders, lenders, regulators and the wider
+communities in which the Group operates.
+
+During the year, the wider Group was subject to a Chapter 1] restructuring process. In that context, the
+Board and management placed particular focus on clear communication, continuity of operations and
+preserving key stakeholder relationships. :
+Engagement with stakeholders was undertaken through regular management communications, customer and
+supplier dialogue, employee updates, and consideration of stakeholder interests in principal decision-
+making matters.
+The Directors consider that appropriate regard was given during the year to the matters set out in section
+172 of the Companies Act 2006.
+EMPLOYMENT OF DISABLED PERSONS
+The Group is committed to equal opportunities in employment and seeks to ensure that disabled persons are
+given full and fair consideration for all vacancies for which they are suitably qualified.
+Where existing employees become disabled, it is the Group’s policy, wherever practicable, to provide
+continuing employment under normal terms and conditions and to provide training, career development and
+promotion opportunities where appropriate.
+
+7
+
+=== page 9 ===
+Airspan Communications Limited
+DIRECTORS’ REPORT
+EMPLOYEE ENGAGEMENT STATEMENT
+The Directors recognise that employees were critical to maintaining business continuity during a period of
+significant organisational change.
+During the year, employee engagement was supported through regular internal communications,
+management briefings and updates regarding business performance and organisational developments,
+including matters arising from the wider Group restructuring process.
+The Group remains committed to maintaining an open dialogue with employees and to providing a safe,
+inclusive and supportive working environment, both during periods of organisational change and in norma!
+operations. .
+INFORMATION GIVEN IN THE STRATEGIC REPORT
+Information in respect of financial risk management objectives and policies, exposure to price risk, credit
+risk, liquidity risk and cash flow risk, future developments and research and development activities are
+given in the strategic report.
+BRANCHES OUTSIDE THE UK
+In addition to its operations in the UK and its subsidiaries in India, Israel, Nepal and Poland, the Company
+; also had a branch in the Philippines during the year.
+OTHER EVENTS
+On 31 March 2024, the Company’s U.S. parent and its U.S. subsidiaries filed voluntary petitions for relief
+under Chapter 11 of title 11 in the U.S. Bankruptcy Court. The Company’s U.S. parent and the U.S.
+subsidiaries emerged from Chapter 11 on 11 October 2024.
+In connection with the Chapter 11 Cases, on | April 2024, the staff of NYSE Regulation announced its
+determination to commence proceedings to delist Airspan TopCo’s common stock (the “Common Stock”)
+from NYSE American LLC (“NYSE American”), and trading of the Common Stock was suspended
+immediately. On 10 April 2024, the staff of NYSE Regulation filed a Form 25-NSE with the SEC to report
+the delisting of the Common Stock from trading on the NYSE American.
+On 11 October 2024, Airspan TopCo filed a Form 15 with the SEC to suspend the Airspan TopCo’s public
+reporting obligations with the SEC under Section 15(d) of the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”).
+CHARITABLE AND POLITICAL DONATIONS
+The Group did not make any charitable or political donations in 2024 or 2023.
+AUDITOR
+Grant Thornton, having expressed their willingness to continue in office, will be deemed reappointed for
+the next financial year in accordance with section 485 of the Companies Act 2006.
+QUALIFYING THIRD PARTY INDEMNITY PROVISIONS
+As permitted by the Companies Act 2006, the Company has indemnified the directors in respect of
+proceedings brought by third parties, and qualifying third party indemnity insurance was in place throughout
+the year and up to the date of approval of these financial statements.
+8
+
+=== page 10 ===
+Airspan Communications Limited
+DIRECTORS’ REPORT
+DIRECTORS’ RESPONSIBILITIES STATEMENT
+The directors are responsible for preparing the Strategic Report, the Directors’ Report and the financial
+statements in accordance with applicable law and regulations. .
+Company law requires the directors to prepare financial statements for each financial year. Under that law
+the directors have elected to prepare the financial statements in accordance with applicable law and United
+Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice) including
+Financial Reporting Standard 102 “The Financial Reporting Standard applicable in the UK and Republic of
+Ireland”. Under Company law the directors must not approve the financial statements unless they are
+satisfied that they give a true and fair view of the state of affairs and profit and loss of the Group and
+Company for that period. In preparing these financial statements, the directors are required to:
+« — select suitable accounting policies for the Group and Company financial statements and then apply
+them consistently;
+e make judgements and accounting estimates that are reasonable and prudent;
+¢ — state whether the financial statements have been prepared in accordance with applicable accounting
+standards, identify those standards, and note the effect and the reasons for any material departure
+from those standards;
+« prepare the financial statements on the going concern basis unless it is inappropriate to presume
+that the Group and Company will continue in business.
+
+. The directors are responsible for keeping adequate accounting records that are sufficient to show and explain
+the Group and Company’s transactions and disclose with reasonable accuracy at any time the financial
+position of the Group and Company and enable them to ensure that the financial statements comply with
+the Companies Act 2006. They are also responsible for safeguarding the assets of the Group and Company
+and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+SUBSEQUENT EVENTS
+
+. During 2024 and 2025, the Group significantly reduced its operations in Israel. The supply chain and
+inventory was moved to the U.S. The Israel building lease ended in April 2025 and was not renewed.
+The Australia subsidiary was dissolved during 2025.
+ENERGY AND CARBON REPORTING
+The Company has complied with the Streamlined Energy and Carbon Reporting requirements.
+The Company’s total UK energy consumption for the year ended 31 December 2024 was 447437 kWh,
+consisting solely of purchased electricity consumed at leased premises.
+The associated greenhouse gas emissions arising from this electricity consumption were 100.8 tonnes CO:ze.
+The Company’s chosen intensity ratio is 23.5 tonnes COze per US$ million of revenue.
+The Company operates principally as a research and development and support centre for other entities within
+the wider group. Accordingly, reported revenue reflects the nature of intercompany service arrangements
+and may not be directly comparable to customer-facing trading entities. As a result, the revenue-based
+intensity ratio should be considered in that context.
+During the year, the Company continued to review opportunities to improve energy efficiency through
+management of office occupancy, equipment efficiency, laboratory utilisation and hybrid working practices.
+Emissions have been calculated using the UK Government GHG Conversion Factors for Company
+Reporting 2024.
+
+. 9
+
+=== page 11 ===
+Airspan Communications Limited
+DIRECTORS’ REPORT
+DISCLOSURE OF INFORMATION TO AUDITORS
+The directors at the time when this Director’s report is approved have confirmed that:
+© so far as each director is aware, there is no relevant audit information of which the Company’s
+auditor is unaware; and
+* the directors have taken al! the steps that they ought to have taken as directors in order to make
+themselves aware of any relevant audit information and to establish that the Company’s auditor is
+aware of that information
+This report was approved by the Board of Directors and signed on their behalf on 13 May 2026.
+‘Signed by:
+Dauid Brant
+DB F3A4682189C8489...
+Director
+Company registration number: 03501881
+* 10
+
+=== page 12 ===
+ve) Grant Thornton
+Independent auditor’s report to the members of
+Airspan Communications Limited
+: Opinion :
+We have audited the financial statements of Airspan Communications Limited (“Company”) and its
+subsidiaries (the “Group”), which comprise the Consolidated and Company balance sheet as at 31
+December 2024, and the Consolidated profit and loss account and statement of comprehensive
+income, the Consolidated statements of cash flows, and the Consolidated and Company statements
+of changes in equity for the year ended 31 December 2024, and the related notes to the financial
+statements, including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the financial statements
+is applicable law and accounting standards issued by the Financial Reporting Council including FRS
+102 “The Financial Reporting Standatd applicable in the UK and Republic of Ireland” (United
+Kingdom Generally Accepted Accounting Practice.
+In our opinion, Airspan Communications Limited’s financial statements:
+© give a true and fair view in accordance with United Kingdom Generally Accepted Accounting
+Practice of the assets, liabilities and financial position of the Group and the Company as at
+31 December 2024 and of the Group financial performance and Group cash flows for the
+year then ended; and
+¢ have been properly prepared in accordance with the requirements of the Companies Act
+2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (SAs (UK))
+and applicable law. Our responsibilities under those standards are further described in the
+‘Responsibilities of the auditor for the audit of the financial statements’ section of our report. We are
+independent of the Group and Company in accordance with the ethical requirements that are relevant
+to out audit of the financial statements in the United Kingdom, including the FRC’s Ethical Standard .
+and the ethical pronouncements established by Chartered Accountants Ireland, applied as determined
+to be appropriate in the circumstances for the entity. We have fulfilled our other ethical
+responsibilities in accordance with these requirements. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion.
+Material uncertainty related to going concern
+In forming our opinion, which is not modified, we draw attention to disclosures made in the Strategic
+Report and Note 1 of the consolidated financial statements in respect of the ability of the Group to
+continue as a going concern. During the year, the Group incurred a loss of $78.9 million, accumulated
+losses of $842.9 million and had total liabilities of $572.8 million, of which $565.8 million was due to
+parent company, at the balance sheet date. The Group is reliant on ongoing access to debt financing
+of its parent company from external sources to fund its operating activities. Collectively, these events
+and conditions indicate that a material uncertainty exists that may cast significant doubt on the Group
+and Company’s ability to continue as a going concern.
+1
+
+=== page 13 ===
+2 GrantThornton
+: >
+Independent auditor’s report to the members of
+Airspan Communications Limited (continued)
+Material uncertainty related to going concern (continued)
+The financial statements have been prepared on a going concern basis which assumes that the Group
+and Company will continue in operational existence for the foreseeable future. The validity of this
+assumption, as stated in the Strategic Report and Note 1, is supported by management’s cash flow
+forecasts, which show improving operating cash flows driven by revenue growth and cost discipline.
+However, the Group remains dependent on external financing and shareholder support of its parent
+company, with key facilities maturing in 2026 and no contractual certainty of renewal. As a result,
+while management believes the Group has adequate resources in the short and medium term, these
+conditions give rise to a material uncertainty related to going concern.
+The financial statements do not include any adjustments relating to the recoverability and
+classification of recorded asset amounts and classifications of liabilities that might be necessary should
+the company be unable to continue in existence.
+In auditing the financial statements, we have concluded that the directors’ use of going concern basis ,
+of accounting in the preparation of the financial statements is apptopriate. Our responsibilities and
+the responsibilities of the directors with respect to going concern ate described in the relevant sections
+. of this report.
+
+Other matter
+For the financial year ended 31 December 2023, the Group was not required to obtain audited
+financial statements, as the Company was considered a qualifying entity and its results were included
+within. the publicly available consolidated financial statement of its immediate parent company.
+Accordingly, the corresponding figures have not been audited.
+Other information
+Other information comprises information included in the annual report, other than the financial
+statements and our auditor’s report thereon, including the Directors’ Report and the Strategic Report.
+The directors are responsible for the other information. Our opinion on the financial statements does
+not cover the other information and, except to the extent otherwise explicitly stated in our report, we
+do not express any form of assurance conclusion thereon,
+In connection with our audit of the financial statements, our responsibility is to read the other
+information and, in doing so, consider whether the other information is materially inconsistent with
+the financial statements or our knowledge obtained in the audit, or otherwise appears to be materially
+misstated. If we identify such material inconsistencies in the financial statements, we are required to
+determine whether there is a material misstatement in the financial statements or a material
+misstatement of the other information. If, based on the work we have performed, we conclude that
+there is a material misstatement of this other information, we ate required to report that fact.
+We have nothing to report in this regard.
+
+12
+
+=== page 14 ===
+2 GrantThornton
+: ?
+Independent auditor’s report to the members of
+Airspan Communications Limited (continued)
+Opinions on other matters prescribed by the Companies Act 2006 .
+In our opinion, based on the work undertaken in the course of the audit:
+¢ the information given in the Strategic Report and the Directors’ Report for the financial year
+for which the financial statements are prepared is consistent with the financial statements;
+and
+¢ the Strategic Report and the Directors’ Report have been prepared in accordance with
+applicable legal requirements.
+Mattets on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the
+course of the audit, we have not identified any material misstatements in the Strategic Report and the
+Directors’ Report. We have nothing to report in respect of the following matters where the
+Companies Act 2006 requires us to report to you if, in our opinion:
+© adequate accounting records have not been kept, or returns adequate for our audit have not
+been received from branches not visited by us; or
+e the financial statements are not in agreement with the accounting records and returns; or
+© certain disclosures of directors’ remuneration specified by law are not made; ot
+¢ we have not received all the information and explanations we require for our audit;
+Responsibilities of management and those charged with governance for the financial
+statements
+As explained more fully in the Directors' responsibilities statement, management is responsible for
+the preparation of the financial statements which give a true and fair view in accordance with United
+Kingdom Generally Accepted Accounting Practice, including FRS 102, and for such internal control
+as directors determine necessary to enable the preparation of financial statements are free from
+material misstatement, whether due to fraud or error.
+In preparing the financial statements, management is responsible for assessing the Group and
+Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going
+concern and using the going concern basis of accounting unless management either intends to
+liquidate the Group or company ot to cease operations, or has no realistic alternative but to do so.
+Those charged with governance are responsible for overseeing the Group and Company’s financial
+reporting process.
+Responsibilities of the auditor for the audit of the financial statements
+The objectives of an auditor are to obtain reasonable assurance about whether the financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes their opinion. Reasonable assurance is a high level of assurance but is not a
+guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material
+misstatement when it exists. Misstatements can arise from fraud or error and are considered material
+if, individually or in the aggregate, they could reasonably be expected to influence the economic
+decisions of users taken on the basis of these financial statements.
+: 13
+
+=== page 15 ===
+2 GrantThornton
+Independent auditor’s report to the members of
+Airspan Communications Limited (continued)
+Responsibilities of the auditor for the audit of the financial statements (continued)
+A further description of an auditor’s responsibilities for the audit of the financial statements is located
+on the Financial Reporting Council’s website at: www.ftc.org.uk/auditorsresponsibilities, This
+description forms part of our auditor’s report.
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect
+of irregularities, including fraud. Owing to the inherent limitations of an audit, there is an unavoidable
+risk that material misstatement in the financial statements may not be detected, even though the audit
+is properly planned and performed in accordance with the ISAs (UK). The extent to which our
+procedures are capable of detecting irregularities, including fraud is detailed below.
+Based on our understanding of the Group and industry, we identified that the principal risks of non-
+compliance with laws and regulations including data protection requirements in the jurisdictions in
+which the Company operates and holds data and environment regulations and we considered the
+extent to which non-compliance might have a material effect on the financial statements. We also
+considered those laws and regulations that have a direct impact on the preparation of the financial
+statements such as the Companies Act 2006 and UK tax legislation. The Audit engagement partner
+considered the experience and expertise of the engagement team to ensure that the team had
+appropriate competence and capabilities to identify or recognise non-compliance with the laws and
+regulation. We evaluated management’s incentives and opportunities for fraudulent manipulation of
+the financial statements (including the risk of override of controls) and determined that the principal
+risks were related to posting inappropriate journal entries to manipulate financial performance and
+management bias through judgements and assumptions in significant accounting estimates, in
+particular in relation to significant one-off or unusual transactions. We apply professional scepticism
+through the audit to consider potential deliberate omission or concealment of significant transactions,
+or incomplete/inaccurate disclosures in the financial statements.
+In response to these principal risks, our audit procedures included but were not limited to:
+
+* enquiries of management and the board on the policies and procedures in place regarding
+compliance with laws and regulations, including consideration of known or suspected
+instances of non-compliance and whether they have knowledge of any actual, suspected or
+alleged fraud;
+
+¢ inspection of the Group’s regulatory and legal correspondence and review of minutes of
+board meetings during the year to corroborate enquiries made;
+
+© gaining an understanding of the entity’s current activities, the scope of authorisation and the
+effectiveness of its control environment to mitigate risks related to fraud; :
+
+© discussion amongst the engagement team in relation to the identified laws and regulations
+and regarding the risk of fraud, and remaining alert to any indications of non-compliance or
+opportunities for fraudulent manipulation of financial statements throughout the audit;
+
+14
+
+=== page 16 ===
+2 GrantThornton
+: )
+Independent auditor’s report to the members of
+Airspan Communications Limited (continued)
+- Responsibilities of the auditor for the audit of the financial statements (continued)
+Explanation as to what extent the audit was considered capable of detecting irregularities, including frand
+© identifying and testing journal entries to address the risk of inappropriate journals and
+management override of controls
+¢ designing audit procedures to incorporate unpredictability around the nature, timing or
+extent of our testing
+¢ challenging assumptions and judgements made by management in their significant
+accounting estimates, including impairment assessment of receivable from group entities,
+transfer pricing and share based payment expense; and
+¢ review of the financial statement disclosures to underlying supporting documentation and
+enquities of management.
+The primary responsibility for the prevention and detection of irregularities including fraud rests with
+those charged with governance and management. As with any audit, there remains a risk of non-
+detection or irregularities, as these may involve collusion, forgery, intentional omissions,
+misrepresentations or override of internal controls.
+The purpose of our audit work and to whom we owe our responsibilities
+This report is made solely to the company’s membets, as a body, in accordance with Chapter 3 of
+Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to
+the company’s members those matters we are required to state to them in an auditor’s report and for
+no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility
+to anyone other than the company and the company’s members as a body, for our audit work, for
+this report, or for the opinions we have formed.
+‘DocuSigned by:
+Stephen Murray’ (Senior Statutory Auditor)
+For and on behalf of
+Grant Thornton
+Chartered Accountants & Statutory Auditors
+Dublin
+Ireland
+13 May 2026
+15
+
+=== page 17 ===
+Airspan Communications Limited
+CONSOLIDATED PROFIT AND LOSS ACCOUNT AND STATEMENT OF
+COMPREHENSIVE INCOME
+for the year ended 31 December 2024
+2024 2023
+Notes $000 $000
+(unaudited)
+TURNOVER 2 22,407 50,651
+Cost of sales (8,715) (34,643)
+Gross profit 13,692 16,008
+Distribution costs (7,170) (14,596)
+Administrative expenses (59,097) (71,330)
+Research and development tax credit © 7 2,702 588
+Other (expense)/ income 8 (118) 228
+OPERATING LOSS 3 (49,991) (69,102)
+\
+. Interest payable and similar charges 6 (27,827) (21,412)
+LOSS ON ORDINARY ACTIVITIES BEFORE
+TAXATION (77,818) (90,514)
+Taxation 7 (1,067) (50)
+LOSS FOR THE FINANCIAL YEAR (78,885) (90,564)
+Other comprehensive loss for the year - -
+Total comprehensive loss for the year : (78,885) (90,564)
+All amounts relate to continuing operations.
+The accompanying accounting policies and notes form an integral part of the financial statements.
+16
+
+=== page 18 ===
+Airspan Communications Limited
+CONSOLIDATED BALANCE SHEET
+. for the year ended 31 December 2024
+2024 2023
+Notes $000 $000
+(unaudited)
+FIXED ASSETS
+Intangible assets 9 169 374
+Tangible assets 10 2,345 4,067
+2,514 4,441
+CURRENT ASSETS
+Stocks 12 33 3,960
+Debtors: amounts falling due within one year 13 7,511 4,709
+Debtors: amounts falling due after one year 14 224 458
+Cash at bank and in hand 15 901 2,216
+8,669 11,343
+CREDITORS: amounts falling due within one year 16 (6,995) (21,950)
+TOTAL ASSETS LESS CURRENT LIABILITIES 4,188 (6,166)
+Creditors: amounts falling due after one year 16 (565,760) (475,404)
+PROVISIONS FOR LIABILITIES - G,117)
+(561,572) (482,687)
+CAPITAL AND RESERVES
+Called up share capital 17 281,375 281,375 :
+Profit and loss account 18 (842,947) (764,062)
+SHAREHOLDERS’ DEFICIT (561,572) (482,687)
+The accompanying accounting policies and notes form an integral part of the financial statements.
+The financial statements were approved and authorised for issue by the Board of Directors and signed on
+their behalf on 13 May 2026.
+Registration number 03501881
+‘Signed by:
+& Brot
+F3A4682189C 8489...
+D Brant :
+Director
+17
+
+=== page 19 ===
+Airspan Communications Limited
+COMPANY BALANCE SHEET
+for the year ended 31 December 2024
+2024 2023
+Notes $000 $000
+FIXED ASSETS
+Intangible assets 9 130 220
+Tangible assets 10 465 562
+595 782
+CURRENT ASSETS
+Stocks 10 154
+Debtors: amounts falling due within one year 13 6,456 2,619
+Debtors: amounts falling due after one year 14 213,780 221,563
+Cash at bank and in hand 15 584 496
+220,830 224,832
+CREDITORS: amounts falling due within one year 16 (3,039) (4,537)
+TOTAL ASSETS LESS CURRENT LIABILITIES 218,386 221,077
+Creditors: amounts falling due after one year 16 (321,260) (304,046)
+( 102,874 ) ( 82,969)
+CAPITAL AND RESERVES
+Called up share capital 17 281,375 281,375
+Profit and loss account 18 (384,249) (364,344)
+SHAREHOLDERS’ DEFICIT (102,874) (82,969)
+The accompanying accounting policies and notes form an integral part of the financial statements.
+: The financial statements were approved and authorised for issue by the Board of Directors and signed on
+: their behalf on 13 May 2026.
+Registration number 03501881
+The Company’s loss for the current financial year amounted to $19.9 million (2023: $20.6 million).
+‘Signed by: .
+F3A4682189C8489... ;
+D Brant
+Director
+TB
+
+=== page 20 ===
+Airspan Communications Limited
+CONDOLIDATED STATEMENT OF CASH FLOWS
+for the year ended 31 December 2024
+2024 2023
+Notes $000 $000
+(unaudited)
+Cash flows from operating activities
+Loss for the financial year (78,885) (90,564)
+Adjustments for:
+Depreciation 10 1,987 2,586
+Amortisation of software intangibles 9 200 240
+Loss on disposal of fixed assets 72 206
+7 Interest payable 27,827 21,412
+Change in debtors {2,678) 5,475
+Change in stocks 3,927 11,093
+Change in creditors (14,955) (5,250)
+Change in provisions (1,117) (86)
+Net cash used in operating activities (63,622) (54,888)
+Cash flows from investing activities
+Payment to acquire tangible fixed assets 10 (332) (1,255)
+Payment to acquire intangible fixed assets - (64)
+Net cash usedin investing activities (332) (1,319)
+Cash flows from financing activities
+Increase in loan from parent undertaking 62,639 55,813
+Interest paid : (57)
+Net cash generated by financing activities 62,639 55,756
+Net decrease in cash and cash equivalents (1,315) (451)
+Cash and cash equivalents at the beginning of year 2,216 2,667
+Cash and cash equivalents at end of year 901 2,216
+Cash at bank and in hand per balance sheet 901 2,216
+The accompanying accounting policies and notes form an integral part of the financial statements.
+19
+
+=== page 21 ===
+Airspan Communications Limited
+CONSOLIDATED STATEMENT OF CASH FLOWS (CONTINUED)
+for the year ended 31 December 2024
+Analysis of Net Debt
+Group At I January Non-cash At 31 December
+2024 Cash flows Movements 2024
+$000 $000: $000 $000
+Cash at bank and in hand 2,216 (1,315) - 901
+Debt due within 1 year (431) 431 - -
+Debt due after 1 year (475,404) (90,466) 110 (565,760)
+(473,619) (91,350) 110 (564,859)
+The accompanying accounting policies and notes form an integral part of the financial statements.
+20
+
+=== page 22 ===
+Airspan Communications Limited
+CONSOLIDATED AND COMPANY STATEMENT OF CHANGES IN EQUITY
+for the year ended 31 December 2024
+Group Total
+Share Profit and shareholders’
+capital loss account funds
+$000 5000. $000
+At | January 2023 (unaudited) 281,375 (673,498) (392,123)
+Loss and totai comprehensive loss for the year - (90,564) (90,564)
+At 31 December 2023 (unaudited) 281,375 (764,062) (482,687)
+Loss and total comprehensive loss for the year : (78,885) (78,885)
+At 31 December 2024 281,375 (842,947) (561,572)
+— ee
+Company Total
+Share Profit and shareholders’
+capital floss account funds
+5000 $000 $000
+At 1 January 2023 281,375 (343,769) (62,394)
+Loss and total comprehensive loss for the year - (20,575) (20,575)
+At 31 December 2023 281,375 (364,344) (82,969)
+Loss and total comprehensive loss for the year - (19,905) (19,905)
+At 3t December 2024 281,375 (384,249) (102,874)
+The accompanying accounting policies and notes form an integral part of the financial statements.
+24
+
+=== page 23 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+1. PRINCIPAL ACCOUNTING POLICIES
+Company Information
+The Company is incorporated in England and Wales. The registered office is at Capital Point, 33 Bath
+Road, Slough, Berkshire SL1 3UF.
+Basis of preparation
+These financial statements have been prepared in accordance with applicable United Kingdom accounting
+standards, including Financial Reporting Standard 102 — 'The Financial Reporting Standard applicable in
+the United Kingdom and Republic of Ireland (‘FRS 102’), and with the Companies Act 2006. The financial
+statements have been prepared on the historical cost basis except for the modification to a fair value basis
+for certain financial instruments as specified in the accounting policies below.
+Basis of consolidation ,
+The consolidated financial statements incorporate the financial statements of the Company and entities .
+controlled by the Group (its subsidiaries). Control is achieved where the Group has the power to govern the
+financial and operating policies of an entity to obtain benefits from its activities. Accounting policies
+consistent with those of the parent are used and all intra-group transactions, balances, income and expenses
+are eliminated in full on consolidation.
+Going concern
+The Group incurred a loss for the year of $78.9 million, accumulated losses of $842.9 million, and had total
+liabilities at 31 December 2023 of $572.8 million, of which $565.8 million is due to the parent company.
+The Group relies on its parent company to provide financing for its operations. TopCo has $20.0 million
+of debt and an invoicing financing facility of up to $20.0 million, that are scheduled to mature in 2026.
+There is uncertainty that TopCo will be able to refinance the debt, extend the debt maturity or have the
+available cash to satisfy the debt.
+In calendar year 2024, the Airspan Group continued to invest in 4G and 5G development activities and
+customer engagements. These significant investments, combined with the impact of the continuing global
+economic conditions in 2024, had a significant impact on available resources and credit facilities.
+The ultimate parent company Airspan Networks Holdings Inc. and three United States subsidiaries filed for
+bankruptcy protection under Chapter 11 in Delaware, on 31 March 2024 under a prepackaged plan of
+reorganization. Airspan Networks Holdings Inc. emerged from Chapter 11 as Airspan Networks Holdings
+LLC on 11 October 2024.
+After emergence from bankruptcy, Airspan Networks Holdings LLC is majority owned by affiliates of
+Fortress Investment Group and all previously incurred third party indebtedness has been eliminated. Fortress
+Investment Group provided additional equity to the Airspan Group and the Airspan Group has access to a
+line of working capital which the directors of the Company expect will allow the parent company to continue
+to provide the necessary financial support to the Company to meet its obligations as they fall due for the
+foreseeable future.
+To address the need to satisfy the Group’s continuing obligations and realize its long-term strategy,
+management has taken several steps to improve its operating and financial results, including the following:
+© acquired synergistic businesses assets
+¢ expanded the business into Distributed Antenna System sales
+* continued to develop 5G product offerings that will expand the market for the Group’s products
+e — entered into a factoring facility to improve days sales outstanding to provide additional liquidity
+¢ implemented cost reduction initiatives and business synergies to reduce non-strategic costs in
+operations and expanded the Group’s labor force in lower cost geographies, with headcount
+reductions in higher cost geographies
+There can be no assurance that the above actions will be successful. Without additional financing or capital,
+the Group’s current cash balance may not be sufficient to satisfy the debt when it becomes due.
+22
+
+=== page 24 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+1, PRINCIPAL ACCOUNTING POLICIES (continued)
+Collectively, these events and conditions indicate that a material uncertainty exists that may cast significant
+doubt about the Group and Company’s ability to continue as a going concern for a period of at least one
+. . year after the date that these financial statements are issued. The accompanying consolidated financial
+statements do not include any adjustments relating to the recoverability and classification of asset carrying
+amounts or the amount and classification of liabilities that might result from the outcome of this uncertainty.
+Significant judgements and estimates
+The preparation of financial statements in conformity with FRS 102 requires management to make
+judgements, estimates and assumptions that affect the application of policies and reported amounts of assets
+and liabilities, income and expenses. The estimates and associated assumptions are based on historical
+experience, Airspan Group’s transfer pricing policy, and various other factors that are believed to be
+reasonable under the circumstances, the results of which form the basis of making the judgements about
+income and expenses, and carrying values of assets and liabilities that are not readily apparent from other
+sources. Actual results may differ from these estimates. The judgements, estimates and assumptions which
+have a significant risk of causing a material adjustment to the carrying amount of assets and liabilities are
+discussed below.
+The Group has recognised provisions for impairment of trade receivables which requires management to
+make judgements. The judgements, estimates and associated assumptions necessary to calculate these
+provisions are based on historical experience and currently known factors which may vary over time,
+resulting in changes in the measurement of recorded amounts as compared to initial estimates.
+The Group is dependent on the Airspan TopCo for both long-term and short-term financing. Assessing the
+Group’s going concern requires management to make judgements and assumptions based on historical
+experience, business forecasts and discussions with lenders.
+Functional and presentation currency
+The functional and presentational currency of the Group is the US Dollar as that is considered to be the
+currency of the primary economic environment in which the trade of the Group is conducted. Consequently,
+all items in the accounts are stated in US dollars.
+Intangible fixed assets
+Intangible assets are amortised using the straight-line method over their estimated period of benefit, ranging
+from one to ten years. All acquired intangibles are independently valued at the time of their acquisition and
+reviewed for impairment annually. All intangible assets are valued by using the expected present value of
+future cash flows derived from them.
+Share-based payments
+The Company estimated the fair value of share-based awards in the equity of the US parent on the date of
+grant using an option-pricing model. The value of the portion of the award that was ultimately expected to
+vest was recognised as an expense in the Group profit and loss account and statement of comprehensive
+income over the requisite service periods. Share-based compensation expense recognised in the profit and
+loss account and statement of comprehensive income includes compensation expense for share-based
+awards granted based on the estimated grant date fair value using the Black Scholes pricing model.
+Compensation expense for all share-based awards was recognised using the straight-line single-option
+method together with a corresponding liability to the Parent Company. Share-based compensation expense
+was based on awards that are ultimately expected to vest as such, share-based compensation expense was
+reduced to reflect estimated forfeitures. Forfeitures are required to be estimated at the time of grant and
+revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates. All share-based
+options and awards were cancelled when the ultimate parent emerged from bankruptcy on 11 October, 2024.
+The options and awards that were outstanding at the cancellation date were accounted for on an accelerated
+basis. See Note 22.
+23
+
+=== page 25 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+1, PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+Tangible fixed assets
+Tangible fixed assets, with the exception of freehold property, are measured using the cost model. These
+assets are stated at historical cost less accumulated depreciation and any accumulated impairment losses.
+Historical cost includes expenditure that is directly attributable to bringing the asset to the location and
+condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is provided on all tangible fixed assets at rates calculated to write off the cost, less estimated
+residual value based on prices prevailing at the date of acquisition, of each asset evenly over its expected
+useful life as follows:
+Leasehold improvements - over the lesser of the minimum lease term or the useful life
+Plant and machinery - over 2 to 5 years
+Fixtures and fittings - over 4 to 5 years
+The carrying values of tangible fixed assets are reviewed for impairment when events or changes in
+circumstances indicate that the carrying value may not be recoverable.
+Debtors
+Short term debtors are measured at transaction price, less any impairment. Loans receivable are measured
+initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the
+effective interest method, less any impairment.
+Creditors ; :
+Short term trade creditors are measured at the transaction price. Other financial liabilities, including loans,
+are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised
+cost using the effective interest method.
+Provisions for liabilities
+Provisions are recognised when the Group has a present obligation (legal or constructive) as a result of a
+past event, it is probable that the Group will be required to settle the obligation, and a reliable estimate can
+be made of the amount of the obligation.
+The amount recognised as a provision is the best estimate of the consideration required to settle the present
+obligation at the end of the reporting period, taking into account the risks and uncertainties surrounding the
+obligation.
+Where the effect of the time value of money is material, the amount expected to be required to settle the
+obligation is recognised at present value using a pre-tax discount rate. The unwinding of the discount is
+recognised as a finance cost in profit or loss in the period it arises. :
+Fixed asset investments
+Investments in subsidiary undertakings are stated at cost and are reviewed for impairment whenever events
+or changes in circumstances indicate that the carrying value may not be recoverable. Other investments are
+carried at market value. .
+Deferred taxation
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the
+balance sheet date where transactions or events have occurred at that date that will result in an obligation to
+pay more, or a right to pay less or to receive more, tax with the following exceptions:
+24
+
+=== page 26 ===
+Airspan Communications Limited
+
+NOTES TO THE ACCOUNTS
+
+for the year ended 3! December 2024 :
+
+1. PRINCIPAL ACCOUNTING POLICIES (CONTINUED)
+Deferred taxation (continued)
+
+* provision is made for deferred tax that would arise on remittance of the retained earnings of overseas
+subsidiaries, associates and joint ventures only to the extent that, at the balance sheet date, dividends
+have been accrued as receivable;
+
+e deferred tax assets are recognised only to the extent that the directors consider that it is more likely
+than not that there will be suitable taxable profits from which the future reversal of the underlying
+timing differences can be deducted.
+
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods
+
+in which timing differences reverse, based on tax rates and laws enacted or substantively enacted at the
+
+balance sheet date. :
+
+Foreign currency translation
+
+For the purpose of presenting consolidated financial statements, the assets and liabilities of the Group’s
+
+foreign operations are translated from their functional currency to U.S. dollars using the closing exchange
+
+rate. Income and expenses are translated using the average rate for the period, unless exchange rates
+fluctuated significantly during that period, in which case the exchange rates at the dates of the transactions
+are used. Exchange differences arising on the translation of group companies are recognised in other
+
+(expense)/income.
+
+Foreign currency transactions are translated into the functional currency using the average rates in effect at
+
+the dates of the transactions.
+At each period end, foreign currency monetary items are translated using the closing rate. Non-monetary
+items measured at historical cost are translated using the exchange rate at the date of the transaction and
+non-monetary items measured at fair value are measured using the exchange rate when fair value was
+determined.
+Foreign exchange gains and losses resulting ftom the settlement of transactions and from the translation at
+period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are
+recognised in the Profit and loss account and statement of comprehensive income.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in
+the Profit and loss account and statement of comprehensive income within Other Charges.
+
+; Revenue recognition
+Revenue is recognised when all of the following conditions are met:
+
+*® an arrangement exists with the customer,
+
+e delivery has occurred or services have been rendered,
+
+* the price for the product or service is fixed and determinable, and
+
+* collection of the receivable is reasonably assured.
+
+Revenue from product sales, including sales to distributors and resellers, is generally recognised at the time
+the product is shipped to the customer. Billings are classified as deferred revenue if customer acceptance is
+required, rights of return exist, or other significant obligations remain that are essential to the functionality
+of the delivered products. Once these conditions have been satisfied, revenue is recognised. The estimated
+cost of any post-sale obligations, including basic product warranties, is accrued at the time revenue is
+recognised based on historical experience.
+
+Revenue from time and material service contracts is recognised once the services have been performed.
+
+25
+
+=== page 27 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+1. ACCOUNTING POLICIES (CONTINUED)
+Revenue recognition (continued)
+Revenue from service contracts that relate to a period of cover is recognised ratably over the given
+contract period.
+In certain cases, agreements are entered into with customers whereby the Company is obligated to deliver
+multiple products and/or multiple services (multiple deliveries). In these transactions, the total revenue to
+be earned under the arrangement is allocated among the various elements based on their relative fair value.
+. Revenue for these transactions is recognised on each element when the revenue recognition criteria have
+been met for that element. Revenue is recognised for delivered products and services only if: (i) the above
+Product Revenue or Service Revenue criteria are met; (ii) undelivered products or services are not essential
+to the functionality of the delivered elements, (iii) payment for the delivered products or services is not
+. contingent upon delivery of the remaining products or services, and (iv) the fair value for each of the
+undelivered elements is known.
+Research and development expenditure
+Expenditure on research and development is expensed as incurred.
+Leasing commitments :
+Assets held under finance leases, which are leases where substantially all the risks and rewards of ownership
+of the asset have passed to the Group, are capitalised in the balance sheet and are depreciated over their
+useful lives. The capital elements of future obligations under leases and hire purchase contracts are included
+as liabilities in the balance sheet. The interest elements of the rental obligations are charged in the Profit
+and loss account and statement of comprehensive income over the periods of the leases and hire purchase
+contracts and represent a constant proportion of the balance of capital repayments outstanding. Rentals
+payable under operating leases are charged in the Profit and loss account and statement of comprehensive
+income on a Straight-line basis over the lease term.
+Pensions
+The Group contributes to a defined contribution pension plan for all eligible employees. Contributions are
+charged in the Profit and loss account and statement of comprehensive income as they become payable in
+accordance with the rules of the scheme. .
+Branches
+In addition to its operations in the UK and its subsidiaries in India, Israel, Nepal and Poland, the Company
+also had a branch in the Philippines during the year.
+Financial instruments
+The Group enters into basic financial instruments transactions that result in the recognition of financial
+assets and liabilities like trade and other accounts receivable, trade payables, intercompany payables and
+receivables, and loans.
+
+. Debt instruments (other than those wholly repayable of receivable within one year), such as loans, are
+initially measured at present value of the future cash flows and subsequently at amortised cost using the
+effective interest method. Debt instruments that are payable or receivable within one year, typically trade
+payables or receivables, are measured, initially and subsequently, at the undiscounted amount of the cash
+or other consideration, expected to be paid or received.
+
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting period
+for objective evidence of impairment. If objective evidence of impairment is found, an impairment loss is
+recognised in the Profit and loss account and statement of comprehensive income.
+Financial assets and liabilities are offset and the net amount reported in the Statement of financial position
+when there is an enforceable right to set off the recognised amounts and there is an intention to settle on a
+net basis or to realise the asset and settle the liability simultaneously.
+
+. 26
+
+=== page 28 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+1, ACCOUNTING POLICIES (CONTINUED)
+Cash and cash equivalents
+The Group recognises cash equivalents as defined as short-term, highly liquid investments that are readily
+convertible to known amounts of cash and that are subject to an insignificant risk of changes in value.
+, Holiday pay accrual
+The Group recognises a provision for annual leave accrued by employees as a result of services rendered in
+the current period, and which employees are entitled to carry forward and use within the next 12 months.
+The provision is measured at the estimated salary cost payable for the period of absence.
+Borrowing costs
+All borrowing costs are recognised in the Profit and loss account and statement of comprehensive income
+in the year in which they are incurred.
+2 TURNOVER
+Turnover, stated net of value added tax, is derived from the supply, installation and support of wireless
+access telecommunications infrastructure systems and as such is treated as one reportable segment.
+: An analysis of turnover by geographical market is given below:
+2024 2023
+: $000 $000
+(unaudited)
+Africa/Middle East $ 2,349 $ 10,369
+Asia Pacific 11,938 21,030
+Europe 7,847 19,198
+North America 273 -
+South America - 54
+$ 22,407 $ 50,651
+27
+
+=== page 29 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+3 LOSS ON ORDINARY ACTIVITIES BEFORE TAXATION
+This is stated after charging/(crediting):
+: 2024 2023
+: $000 $000
+(unaudited)
+Writedown of inventory 1,947 12,300
+Transfer pricing expense : 29,769 24,795
+Depreciation of owned fixed assets 1,987 2,586
+Amortisation of software intangible assets 200 240
+Research and development expenditure 24,505 37,377
+Auditor remuneration - audit services - company 96 61
+- audit services - group 146 93
+- taxcompliance 19 8
+-- advisory fees : 91 100
+Operating lease rentals - land and buildings 845 1,580
+Foreign exchange gain (29) (230)
+The Group operates on a residual profit method across the main companies of the Group. Accordingly, a
+transfer pricing expense of $29.8 million (2023: $24.8 million) was recognised for the year ended 31
+December 2024.
+4. DIRECTORS’ EMOLUMENTS :
+Renumeration in respect of directors was as follows: :
+2024 2023
+$000 $000
+(unaudited)
+Wages and salaries 378 385
+Pension costs 28 26
+Other benefits 7 4
+Emoluments 413 415
+The total amount set out above relates to renumeration in respect of the highest paid director.
+28
+
+=== page 30 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+5. STAFF COSTS ;
+Staff costs during the financial year were as follows:
+2024 2023
+, $000 3000
+(unaudited)
+Wages and salaries 25,175 34,181
+Social security costs 1,635 2,291
+Other pension costs 1,313 3,616
+28,123 40,088
+; Share-based payments (1,417) 3,221
+26,706 43,309
+The average monthly number of employees of the group during the year was as follows:
+2024 2023
+No. No.
+(unaudited)
+Sales, marketing and customer services 49 80
+Development 224 357
+Management, administration and distribution 26 33
+299 470
+2024 2023
+$000 $000
+(unaudited)
+Key Management Personnel compensation 726 1,297
+The group paid $1.3 million (2023: $3.6 million) into defined contribution pension schemes during the
+year. Unpaid amounts at 31 December 2024 were $0.1 million (2023: $0.4 million).
+29
+
+=== page 31 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+6. INTEREST PAYABLE AND SIMILAR CHARGES
+Company 2024 2023
+$000 $000
+Interest due on amounts owed to parent undertaking 16,143 13,603
+: Interest income on amounts due from group (11,234) (10,156)
+Bank and overdraft charges 65 13
+4,974 3,460
+. Group 2024 2023
+$000 3000
+(unaudited)
+Interest due on amounts owed to parent undertaking 27,619 21,355
+Interest due on social security taxassessment 179 -
+: Bank and overdraft charges 29 57
+27,827 21,412
+7. TAXATION
+(a) Current tax charge
+2024 2023
+$000 $000
+(unaudited)
+. Foreign tax charge 241 50
+Tax charge on R&D tax credits 826 >
+: 1,067 50
+Deferred tax on current year results
+No deferred tax has been provided for the reasons given in note (c) below
+(b) Factors affecting current tax:
+The tax assessed on the loss on activities is different from the standard rate of corporation tax in the UK.
+The differences are reconciled below:
+2024 2023
+$000 $000
+. (unaudited)
+Loss on activities before taxation (77,818) (90,514)
+Loss on activities multiplied by standard rate
+of corporation tax in the UK of 19% (14,785) (17,198)
+Add/(deduct) effects of:
+Expenses not deductible for tax purposes 109 604
+Capital allowances - (398)
+Other timing differences - 9
+Lower tax rates on overseas earnings (2,149) (2,843)
+Unrecognised tax on losses 16,825 19,826
+30
+
+=== page 32 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+7. TAXATION (CONTINUED)
+: 2024 2023
+$000 $000
+: Overseas taxes 241 50
+Tax charge on R&D tax credits. . 826 :
+Current tax for the year 1,067 50
+The Company files for tax credits under the Research and Development Expenditure Credit (“RDEC”)
+regime, which is primarily comprised of wages and salaries related to our research and development
+employees. The estimated RDEC tax credits are presented in the Profit and loss account and statement of
+comprehensive income of $2.7 million for 2024 (2023: $0.6 million).
+(c) Deferred tax
+The Group has not recognised a potential deferred tax asset of $134.2 million (2023: $117.4 million).
+Deferred tax may only be recognised once the Group can reasonably expect to generate taxable profits.
+8. OTHER (EXPENSE)/INCOME .
+2024 2023
+. $000 $000
+(unaudited)
+Foreign exchange gain 30 230
+Gain on debt extinguishment 441 -
+Social security tax asssessment . (566) -
+Other miscellaneous charges (23) : (2)
+(118) 228
+31
+
+=== page 33 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+9. INTANGIBLE FIXED ASSETS
+Group Company
+Software Software
+$000 $000
+Cost:
+At 1 January 2024 (unaudited) 1,409 858
+Disposals (624) (483)
+At 31 December 2024 785 375
+Amortisation:
+At 1 January 2024 (unaudited) 1,035 638
+Amortisation 200 90
+Disposals (619) (483)
+At 31 December 2024 616 245
+Net book value:
+At 31 December 2024 169 130
+At 1 January 2024 (unaudited) 374 220
+32
+
+=== page 34 ===
+Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+10. TANGIBLE FIXED ASSETS
+Group Plant and Fixtures Leasehold
+machinery and fittings improvements Total
+$000 $000 $000 $000
+Cost:
+At | January 2024 (unaudited) 10,218 416 1,038 11,672
+Additions 305 10 17 332
+Disposals (3,490) (283) (766) __. (4,539)
+At 31 December 2024 7,033 143 289 7,465
+Depreciation:
+At 1 January 2024 (unaudited) 6,455 300 850 7,605
+Depreciation during the year 1,902 34 51 1,987
+Disposals (3,463) (262) (747) (4,472)
+At 31 December 2024 4,894 72 154 5,120
+Net book value:
+At 31 December 2024 2,139 71 135 2,345
+At | January 2024 (unaudited) 3,763 116 188 4,067
+Company Plant and Fixtures Leasehold
+Machinery and fittings improvements Total
+3000 $000 $000 $000
+Cost:
+At 1 January 2024 1,782 176 541 2,499
+Additions 172 - - 172
+Disposals (757) (160) (539) (1,456)
+At 31 December 2024 1,197 16 2 1,215
+Depreciation:
+At 1 January 2024 1,231 166 540 1,937
+Depreciation during the year 263 3 1 267
+Disposals (755) (160) (539) (1,454)
+At 31 December 2024 739 9 2 750
+Net book value: :
+At 31 December 2024 458 7 - 465
+At 1 January 2024 551 10 1 562
+33
+
+=== page 35 ===
+; Airspan Communications Limited
+NOTES TO THE ACCOUNTS
+for the year ended 31 December 2024
+11. INVESTMENTS
+Details of the investments (all active subsidiary companies unless otherwise noted) in which the Company
+holds 20% or more of any class of share capital are as follows:
+Proportion of
+voting rights ;
+Name ofcompany Holding. and sharesheld Nature of business
+Airspan Networks Limited Ordinary shares 100% Telecom equipment development
+(Incorporated in Israel)
+Bareket 2 Building
+Negev Street :
+Airport City 70100 Israel
+Airspan Networks (Poland) Sp zoo Ordinary shares 100% Telecom equipment sales
+(Incorporated in Poland)
+Aleje Jerozolimskie 214
+02 486 Warszawa Poland
+Airspan Networks (India) Private Limited Ordinary shares 99% Telecom equipment sales
+{Incorporated in India)
+1957, Sector 45,
+Gurgaon - 122001, Haryana, India
+Airspan Communications Limited (Nepal) Ordinary shares 100% Telecom equipment sales
+Nabha Marg, Lazimpat-2
+Kathmandu, Nepal '
+Airspan Italy SRL Ordinary shares 100% Telecom equipment sales
+(Incorporated in Italy)
+Cong TY TNHH Airspan Vietnam Ordinary shares 100% Contract manufacturer liason
+€ncorporated in Vietnam)
+Airspan Solutions Limited Ordinary shares 100% Dormant
+(Incorporated in Israel)
+Airspan Networks (Finland) OY Limited Ordinary shares 100% Dissolved in 2024
+(Incorporated in Finland) :
+Airspan Networks Pty Limited Ordinary shares 100% Dormant
+(Incorporated in Australia)
+Suite 503, Level 5, South Tower
+815 Pacific Highway.
+Chatswood, NSW 2067 Australia
+The investment costs are immaterial.
+34
+

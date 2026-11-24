@@ -1,5 +1,5 @@
-Read 8 scanned filings: turnover found for 4, operating profit for 4, D&A for 3, cash for 4
+Read 842 scanned filings: turnover found for 607, operating profit for 479, D&A for 458, cash for 513
 problem
-                                                  4
-no profit and loss account with turnover found    3
-turnover implausible                              1
+                                                  607
+no profit and loss account with turnover found    213
+turnover implausible                               22

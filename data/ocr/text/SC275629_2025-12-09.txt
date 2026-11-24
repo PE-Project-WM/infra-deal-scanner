@@ -1,0 +1,1191 @@
+=== page 1 ===
+. Company Registration No. SC275629
+IOMART MANAGED SERVICES LIMITED
+Annual Report and Financial Statements ;
+31 March 2025 :
+: >
+< .
+a
+2 *AEGP3IHM*
+‘ AOS 04/12/2025 #312
+= COMPANIES HOUSE
+™ a
+
+=== page 2 ===
+IOMART MANAGED SERVICES LIMITED
+
+ANNUAL REPORT AND FINANCIAL STATEMENTS 2025
+CONTENTS Page
+. ; Officers and professional advisers . ;
+Strategic report 2
+. Directors' report 12
+Directors' responsibilities statement 16
+| Independent auditor's report 17
+Statement of comprehensive income 20
+; Statement of financial position 21
+Statement of changes in equity 22
+. Notes to the financial statements : 23
+
+=== page 3 ===
+IOMART MANAGED SERVICES LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS 2025
+OFFICERS AND PROFESSIONAL ADVISERS :
+DIRECTORS . .
+S Cunningham
+A Chamberlain
+R Last .
+COMPANY SECRETARY ,
+’ J Brown
+REGISTERED OFFICE
+. 6 Atlantic Quay
+55 Robertson Street
+Glasgow .
+G2 8JD
+INDEPENDENT AUDITOR j
+Deloitte LLP
+2 New Street Square
+London
+EC4A 3BZ
+SOLICITORS
+Pinsent Masons LLP
+141 Bothwell Street
+Glasgow
+G2 7EQ .
+1
+oN
+
+=== page 4 ===
+IOMART MANAGED SERVICES LIMITED
+
+STRATEGIC REPORT
+
+Year ended 31 March 2025
+
+‘The Directors present their Annual Report, comprising the Strategic Report and Directors’ Report, and the audited
+financial statements for the year ended 31 March 2025. .
+REVIEW OF THE BUSINESS
+
+The principal activity of the Company is the provision of managed cloud services from data centres owned and
+operated by the Company.
+
+Strategy and business model
+
+The Company’s strategic growth plan is focused on two main activities:
+
+1, Protect and Expand Our Core. The Company is committed to strengthening and growing its existing customer
+base, leveraging its robust hybrid cloud infrastructure and associated services.
+
+2. Broaden Our Solutions Portfolio. The Company aims to deliver to existing and new customers a fully
+comprehensive secure private, public and hybrid cloud offering by continuing to evolve its product suite to
+meet the digital needs of its customers.
+
+The Company’s vision remains clear and consistent: to establish iomart as the UK’s leading provider of secure hybrid
+cloud services to our market. The cloud landscape continues to expand rapidly, with customer needs becoming
+increasingly complex as they seek to harness the latest technologies. The Company is well-positioned to meet this
+demand, with deep expertise across private, public, and hybrid cloud infrastructures, cyber security expertise, and a
+comprehensive suite of managed services that support our customers’ digital transformation agendas.
+
+Business model .
+The Company’s business model involves the provision of cloud and managed services, delivering computing power, -
+storage, data protection and security capability customers’ need for the effective operation of their businesses. The
+Company has invested in an estate of data centres, an extensive fibre network and for each customer the servers,
+routers, firewalls and other assets that are necessary to create the IT infrastructure they require within a private cloud
+environment. These resources, along with the associated staff, are shared across most of the Company’s revenue
+streams. Customers pay for the provision of that infrastructure, with the potential to add third party technology and
+provide various degrees of a managed services to wrap around their technology requirements.
+
+Larger customers tend to have multi-year contracts for complex cloud solutions, which are invoiced and paid on a
+monthly basis. Many of the Company’s smaller customers pay in advance for the provision of services which results
+in a substantial sum of deferred revenue, which is then recognised over the period of the service provision. A
+significant proportion of our revenue is therefore recurring and the combination of multi-year contracts and payment
+in advance provides us with strong revenue visibility.
+
+The Company has three core offerings, being: cloud managed services, self-managed infrastructure and non-recurring
+revenue.
+
+¢ iomart cloud managed services: (£57.5m revenue (2024: £55.1m): provides fully managed, complex
+bespoke designs, resulting in resilient solutions involving differing cloud infrastructures. This cloud
+infrastructure can be either on-premise, private cloud or public cloud which for us at the moment would be
+utilising Microsoft Azure or indeed a combination of all three which we term ‘hybrid cloud services’ as is
+standard industry nomenclature. This often will be accompanied by our data protection and security offering.
+
+e = Self-managed infrastructure: (£24.6m revenue (2024: £31.0m): provides dedicated, physical, self-service
+servers to customers. We deliver many thousands of physical servers for our customers using highly
+automated systems and processes which we continue to develop and improve. Our own regional data centre
+estate and fibre network position us well to offer such infrastructure as a service.
+
+e Non-recurring revenue: (£5.6m revenue (2024: £3.3m): this relates primarily to on-premise equipment and
+software reselling, as well a8 consultancy and professional services activities. By their nature, the equipment
+and software reselling activity is lower margin, but we continue to offer it as the vast majority of our
+
+. customers need us to provide the end-to-end solution of which this is often a critical part. Non-recurring
+activities often provide an important introduction to the iomart’s broader service capabilities and therefore
+the opportunity to understand the customer and develop the relationship to a deeper level of recurring service
+provision. .
+
+\
+2
+
+=== page 5 ===
+IOMART MANAGED SERVICES LIMITED
+, STRATEGIC REPORT
+
+Year ended 31 March 2025
+
+Operational Review :
+
+Cloud managed services (recurring revenue)
+
+: Cloud managed services revenue has increased by £2.4m (4%). The Company’s order bookings in this area of the
+business grew well over the year, as both existing customers and prospects have responded positively to our broader
+solution set and our re-invigorated focus on customer service. However, the run-rate entering FY25 was lower than
+the previous year and as the year progressed, the Company also saw some customer losses and lower levels of renewals
+from some existing customers which, in combination, negated the growth in order bookings.
+
+Selfmanaged infrastructure (recurring revenue)
+Self-managed infrastructure revenue decreased by £6.4m (21%). The Company has seen organic reductions within
+this area for a number of years as dedicated servers, being the largest product in this area, is most susceptible to a
+move to public cloud infrastructure as the customers have retained their own technical IT skills and an infrastructure
+only service is more transactional. The last 12 months have seen an acceleration of customer churn especially from
+the long tail of our customer base and also on a disproportionate basis from the smaller acquired brands of Memset
+and Bytemark as the Company sought to consolidate platforms and service teams to more resilient core offerings.
+Non-recurring revenue (non-recurring revenue)
+Non-recurring revenue has increased by £2.3m (70%) and relates primarily to on premise product and licence reselling
+plus consultancy projects. The revenue increase in the year is a result of improved order bookings as a result of restored
+hardware refresh activity as the economic situation stabilizes.
+KEY PERFORMANCE INDICATOR REVIEW
+2025 2024
+Revenue £87,621,669 £89,393,045
+Revenue growth % (2%) 1%
+Adjusted EBITDA! £21,475,254 £27,620,753
+Adjusted EBITDA margin? % 25% 31%
+Profit before tax £481,056 £10,318,878
+Profit before tax margin % 1% 12%
+' Throughout these financial statements adjusted EBITDA is earnings before interest, tax, depreciation and amortisation (EBITDA) and share-based payment
+charges and exceptional non-recurring costs. A reconciliation of adjusted EBITDA is provided in note 4.
+? Adjusted EBITDA margin % is defined as adjusted EBITDA / Revenue (both as disclosed above) as a %.
+During the year, restructuring of fellow group undertakings, P2 Technologies Limited and PAV I.T. Services Limited
+took place in order to fully integrate each entity’s business into the iomart Group’s operations. All trade and assets
+associated with these companies were transferred to the Company on 24 September 2024. The companies are non-
+trading entities.
+While not impacting the current year Income statement, on 31 March 2025 the trade and assets of the brand,
+Simpleservers, was transferred to Easyspace Limited, a fellow group undertaking. This transfer took place as
+Simpleservers customer base is more aligned with the activities and business model of Easyspace Limited.
+Revenue ,
+The Company generated revenue of £87.6m (2024: £89.4m) which is a movement of -2% (2024: 1%). The decline in
+revenue was primarily driven by elevated churn levels especially in self-managed infrastructure as noted earlier. The
+Company continued to maintain a high level of recurring revenue at 93.7% (2024: 96.3%), with the reduction on the
+prior year. The Company remains focussed on retaining its high recurring revenue business model with the
+combination of multi-year contracts and payments in advance providing us with good revenue visibility.
+3
+
+=== page 6 ===
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT
+Year ended 31 March 2025
+Adjusted EBITDA!
+Adjusted EBITDA for the year was £21.5m (2024: £27.6m), a decrease of £6.1m, which in adjusted EBITDA margin?
+terms translates to 25% (2024: 31%). The lower margin percentage is a function of the gross margin profile and the
+high fixed cost base nature of our private cloud business activity and administration expenses.
+Profit before tax
+Profit before tax for the year was £0.5m (2024: £10.3m), a decrease of £9.8m, driving a profit before tax margin of
+1% (2024: 12%). This was largely driven by the decline in the high margin revenue activity with the self-managed
+infrastructure recurring revenues, which was only partially mitigated by growth in non-recurring revenue which is
+typically a lower margin. In addition, administrative costs increased by £6.4m but that includes a material impact due
+to the reclassification and price increases on the Broadcom VMware licence agreements in April 2024. Due to the
+long-term commitments made, these software costs are now capitalised and represent as intangible asset amortisation,
+replacing the previous licence consumption cost of sale classification. Administrative costs also included an
+exceptional non-recurring impairment charge on goodwill of £0.8m.
+Market position
+The past year has presented significant challenges as the Group, and therefore the Company, continues to reposition
+iomart in higher-growth segments of the IT services sector. The Company is focused on transforming its market
+position and its product offering as this is central to driving sustainable, organic revenue growth. The Company has
+taken proactive steps to address margin pressures stemming from shifts in its revenue mix and also customer renewal
+levels. While the benefits of product realignment and cost optimisation will take time to fully materialise, these actions
+position the Company well for a return to revenue and profit growth in FY27 and beyond.
+Sales Momentum
+FY25 has been a pivotal year as the Company transitioned its portfolio, added significant capability, made operational
+enhancements, and brought a sharper focus to our value proposition. Growth was led by Microsoft related solutions,
+with demand for the Group's core offerings in managed private cloud and back-up & data protection services providing
+a stable foundation.
+Momentum in order bookings was tempered by accelerated customer churn from legacy self-managed infrastructure,
+plus some private managed cloud customers. Specifically on the self-managed infrastructure revenue reductions,
+through the Company’s reprioritisation of this customer base, the Company have lost business with a year-on-year
+revenue impact of £1.6m from Bytemark and Memset combined customers. These businesses were acquired in 2020
+and 2021, respectively. Rapidswitch, the largest of iomart’s sub brands in this area, while still seeing revenue declines,
+was maintained at a consistent level. Although the dedicated server market remains under pressure, the Company
+continues to explore opportunities to mitigate the rate of decline in this segment. This includes more dedicated sales
+focus on the wider data centre services, which would include Rapidswitch offerings serviced primarily from our
+Maidenhead site.
+Enhanced Portfolio & Technology Partnerships
+This year the Company has taken strides to enhance its end-to-end proposition and product portfolio. The Company’s
+combined capabilities allow it to compete more effectively in the market with enhanced services, top-tier vendor
+partnerships, greater scale and references across cloud managed services, modern work, data protection and cyber
+security, cementing our position as a leading UK secure cloud provider.
+FY25 also saw the deepening of our strategic alliances with Broadcom VMware (iomart has Pinnacle Partner status).
+This partnership not only enhances the Company’s go-to-market capabilities but also enables joint innovation and
+continued initiatives.
+Operational Excellence & People
+The Company will continue to invest in systems integration, cost efficiency, and automation to build a more scalable,
+modern service organisation, whilst recognising that many of our legacy brands can, with renewed support and focus,
+continue to generate good opportunities for iomart. The investment the Company has made in streamlining and
+improving its operations has delivered measurable improvements in customer service around satisfaction scores, ‘right
+first time’ deployment and service delivery turnaround times, benefitting customer retention and generating sales
+opportunities. .
+
+4
+
+=== page 7 ===
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT
+Year ended 31 March 2025
+Operational Excellence & People (continued)
+During the year, the Group, and therefore the Company, invested in its first Apprentice Scheme in its service desk
+function, launched a DEI Council and Women’s Network, and upgraded the offices in London to support a high-
+performance culture.
+The Company have also implemented a series of strategic measures aimed at enhancing operational efficiency and
+reducing its ongoing cost base. This includes targeted workforce adjustments, optimisation of data centre operations,
+and improvements across the Company’s supply chain processes. Collectively, these initiatives are projected to deliver
+annualised cost savings of approximately £4m.
+Commitment to ESG and sustainability
+The Company believes that integrating environmental, social and governance (“ESG”) considerations across the
+business enables it to improve customer satisfaction whilst benefiting the environment and society and improving its
+profitability. Our ongoing commitment is for the Company to be aligned with UK Government targets. As such, the
+Group, and therefore the Company, has committed to achieve Net Zero by 2050, or earlier, if possible. The Company
+commenced purchasing Renewable Energy Guarantees of Origin (“REGO”) certified renewable electricity across its .
+UK data centre estate in 2021, which significantly reduces carbon emissions.
+The Company continues to look at ways to increase the energy efficiency across its UK data centre estate. During
+FY25 the Company commenced the replacement of its cooling system in the Gosport data centre which will reduce
+fike for like energy consumption on our cooling requirements on this site by at least 30%.
+In terms of the Company’s social agenda, we continued our support of the charity SmartSTEMs who organise and
+host events to inspire and engage young people from underprivileged backgrounds with the range of careers in STEM.
+This also leverages their partnership with Generation, a company that transforms education to employment systems
+to prepare, place and support people from disadvantaged backgrounds into careers that would otherwise be
+inaccessible. The Company recognises, like many technology companies, that gender balance in the workplace needs
+to improve; the Company have continued its sponsorship of the “Empowering Woman in Leadership” programme
+which is designed to address the lack of gender diversity in leadership roles across the technology sector.
+PRINCIPAL RISKS AND UNCERTAINTIES
+The Directors who are responsible for the Company’s system of risk management and internal controls, have
+established systems to ensure that an appropriate level of oversight and control is provided to manage principal risks
+and uncertainties identified that could have a material impact on the Company’s performance. The controls are
+designed to help the company meet its business objectives by appropriately managing, rather than eliminating, the
+risks of failure to achieve business objectives, as any system can only provide reasonable, not absolute, assurance
+against material misstatement or loss. A risk management framework is in place which sets out the ongoing processes
+for the identification, assessment and management of risks, and for their ongoing monitoring and review. Effective
+risk management is essential to enable us to deliver on the Company’s strategy and to achieve our operational
+objectives.
+Potential material risks and uncertainties remain similar to the prior year. These risks are as follows:
+Staff
+As with any service organisation iomart is dependent on the skill, experience and commitment of its employees and
+especially a relatively small number of senior staff. The performance of the Company could be adversely affected if
+the required staffing levels are not maintained or senior staff are not retained. The Company seeks to recruit and retain
+suitably skilled and experienced staff by offering a challenging and rewarding work environment. This includes
+competitive and innovative reward packages and a strong commitment to training and development. The Company
+also has the ability to manage and recruit resource across multiple locations which creates, to some degree, flexibility
+on where it recruits and deploys its resources.
+
+5
+
+=== page 8 ===
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT ©
+Year ended 31 March 2025
+PRINCIPAL RISKS AND UNCERTAINTIES (CONTINUED)
+Data centre operation
+Any downtime experienced at the Company’s data centres would immediately have an impact on its ability to provide
+customers with the level of service they demand. Should the Company be unable to provide the required level of
+service this could have an adverse effect on the Company’s performance through the loss of customers and reputation.
+The Company’s ongoing investment in preventative maintenance and lifecycle replacement programme ensures its
+data centres continue to operate effectively. The Company also continually look at new innovations and technology
+within the sector that can help to deliver operational efficiency and effectiveness in line with its [S050001 energy
+management system, and its obligations within the Carbon Reduction Commitment (“CRC”) Energy Efficiency
+Scheme.
+Network
+The Company provides an essential service to an extensive client base many of whom rely on the provision of that
+service for their major internet presence. The service the Company provides to its customers is dependent on the
+continued operation of the diverse fibre network which connects our data centre estate. Should the network fail, there
+would be an adverse impact on customers and any diminution in the level of service could have serious consequences
+for customer acquisition and retention. The Company has implemented a resilient network throughout its data centre
+estate with no single points of failure to ensure the likelihood of network failure is minimised.
+Data and Cyber Security
+There has been a sharp rise in recent years in cyber and data related crime. The security of customer, commercial and
+personal data presents both a reputational and financial risk to the Company. The Company continues to make
+substantial investment in physical and data security systems and to promote a culture within the organisation which
+embeds security across all of our operations. iomart continues to develop its security portfolio to equip its customers
+with the means to counter the types of security threats that clients face. The Company continues to focus on enhancing
+its internal process improvement, security awareness and training to ensure it provides solutions which customers can
+rely on. The Company also carries specific insurance in relation to cyber related crime. The Company’s contracts and
+associated schedules with customers make it clear where responsibilities lie in relation to the roles and responsibilities
+of each party for the security of data and data protection in general.
+Competition and product portfolio
+iomart operates in a competitive and fluid marketplace and while the Directors believe the Company enjoys significant
+strengths and advantages in competing for business, some of the competitors are significantly larger, allowing them
+to offer similar services for lower prices than the Company would be prepared to match, or launching new product
+offerings with significantly enhanced features. Consequently, these competitors could materially adversely impact
+the scale of the Company’s revenues and its profitability. In response to this, the Company maintains a broad customer
+base, with currently no single customer with more than 4% of the Group’s annual revenue. The Company also
+mitigates the risk by establishing strong relationships with our customers, developing tailor-made and value-creating
+solutions and delivering excellent service performance while being cost competitive in our day to day business. The
+Company’s development team are continually working towards both enhancing, and augmenting, the services and
+products iomart currently offers. The Company’s product board meets regularly to keep abreast of new technology
+which could enhance the Company's service portfolio. ;
+In the last two years the Company created a new executive position of Chief Portfolio Officer and has invested in its
+product capabilities through the recruitment of product managers and built its product marketing team. Furthermore,
+the Company have expanded its strategic partnerships team and established new governance to ensure it maximises
+. the benefits, and pricing, available from key vendor alliances and that products stay relevant. This greater product led
+approach ensures that the Company stays abreast of market developments and has a faster pace to its go to market
+initiatives. .
+Key suppliers .
+The Company is dependent on certain key suppliers for the continued operation of its business, the most significant
+of which are those for electricity, bandwidth and servers. Were any of these key suppliers to fail in their service
+: provision to the Company this could have an adverse effect on the Company’s ability to provide services to its
+_ customers. In all cases these suppliers are obtained from reputable organisations chosen after a thorough selection
+process. After selection, the Company actively seeks to maintain strong relationships with the chosen suppliers. The
+Group also seeks to maintain either several sources of supply or, in the case of electricity, alternative sources of power.
+6
+
+=== page 9 ===
+IOMART MANAGED SERVICES LIMITED :
+
+STRATEGIC REPORT
+
+Year ended 31 March 2025
+
+PRINCIPAL RISKS AND UNCERTAINTIES (CONTINUED)
+
+Inflationary pressure
+
+Our largest cost base is our people cost which is managed centrally with annual salary awards and reviews of our
+
+benefits packages to staff. Other significant costs, excluding electricity, relate to licence, data centre and connectivity
+
+costs. Monthly reviews are undertaken of the cost base and we are in discussion with customers and suppliers where
+
+we are seeing any inflationary impact. In addition, our pricing model is regularly reviewed to ensure that contracts
+
+are priced adequately to cover inflation risk.
+
+Our UK data centres are large consumers of electricity to power servers and provide cooling. While electricity costs
+
+remain high, the energy market is stable. We have a proactive hedging strategy in place which is administered on our
+
+behalf by energy consultants, Schneider Electric.
+
+Growth management
+
+The Company seeks to achieve high levels of growth through a combination of organic and acquisitive means. As a
+
+consequence, the Company needs to continue to evolve as an organisation to meet the demands that such growth
+
+places on its business operations. Failure to evolve in the necessary way could lead to deterioration in overa!] business
+
+performance. As part of the Company’s annual strategy and budget review process, which is updated as necessary
+
+throughout the year, the Company identifies the resource and organisational changes that are needed to support its
+
+growth. In addition, an integration and migration plan is produced for each acquisition that is made to ensure the
+
+acquired operation is appropriately integrated into the Group’s operations.
+
+FUTURE DEVELOPMENTS
+
+Our clear strategy for growth is designed to increase our customer portfolio in the higher growth areas of the expanding
+
+cloud market. Unlike many of our peers we are doing this from a position of strength with our secure, resilient cloud
+
+and network infrastructure, strong customer base, robust business model and financial position. The underlying drivers
+
+for cloud computing, increasing complexity of the technical landscape and customers looking for a trusted and
+
+experienced service partner gives the Directors confidence in the outlook for the long-term prospects for the Company.
+
+STAKEHOLDER ENGAGEMENT
+
+Stakeholder engagement is critical to the long-term success and sustainability of our business and the Directors
+
+recognise their responsibility to take into consideration the needs and concerns of our key stakeholders as part of their
+
+discussion and decision-making processes. During the year, Directors confirm they have acted in a way that promotes
+
+the success of the Company for the benefit of its members as a whole, and in doing so have had regard to the .
+
+stakeholders and key matters set out in Section 172(1) (a) to (f) of the Companies Act 2006 (“Section 172”).
+
+The Directors consider that the Company’s key stakeholders are its employees, customers, suppliers and key partners
+
+and the environment. The Directors recognise that they are expected to take into account the interests of those
+
+stakeholders whilst prioritising the long-term success of the Company. This can mean that the interests of certain
+
+stakeholder groups in the short-term may need to be balanced against such long-term success.
+
+The Directors view the key stakeholders and principal methods of engagement as shown in the table below. In all
+
+cases, the level of engagement informs the Directors, both in relation to stakeholder concerns and the likely impact on
+
+decision-making. The Directors use monthly board meetings as a mechanism to address and meet their obligations
+
+under Section 172. .
+7
+
+=== page 10 ===
+t
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT
+Year ended 31 March 2025
+STAKEHOLDER ENGAGEMENT (continued) ‘
+Stakeholder | Why effective engagement is important | How we engage
+Group
+Employees People are at the heart of everything we do | - Regular townhalls with CEO, CFO and Executive
+and we recognise the key to our success is | team to help bring employees up to date with latest
+led by our employees. To deliver our | strategy and performance and allow for Q&A
+strategic plans, we need to attract, develop, - Employee engagement surveys with results
+reward and retain valuable talent. Our resented no the Baad y
+culture defines the behaviours we all hold |
+ourselves to account on and helps drive our | - Learning management system to support training
+strategy of building a high performing | requirements
+team. . . .
+- Access to independent whistleblowing process .
+- Senior management and Board visits to different
+locations
+- Chief People Officer invited to engage with the
+Board and the Chair of the Remuneration Committee :
+on areas including recruitment and retention and
+succession planning
+- HR team send regular communication to engage with
+employees on health and wellbeing with invitations to
+| regular webinars
+- Regular ‘iocomms’ from the CEO providing updates
+on activity and news in the Company
+- The Board receives regular HR updates covering
+employee KPIs and updates on employee matters
+which drives a positive connection to the wider
+employee base
+- Launch in the current year of a new company wide
+intranet which provides communications channels in a
+modern way to employees
+Customers Understanding the varying needs and | - The Directors receive updates on sales and customer
+challenges of our customers is critical to | feedback monthly, which informs strategic decisions
+the Company's Success and to ensuring we | _ Chief Revenue Officer is invited to engage with the
+grow through organic and new customers. . .
+. Directors on a regular basis to provide updates on
+We engage with our customers to ensure i ner .
+performance to drive operational priorities to deliver a
+we continue to enhance and develop our high-quality customer experience
+product portfolio to meet their needs. gh-quality P
+- We ensure that our customers have the opportunity
+to speak to their support team, account manager or a
+member of senior management throughout each stage
+of their customer journey
+- Regular service reviews to address feedback from
+customers
+- We host stands at key technology events and run our /
+own private events to connect with existing and
+prospective customers
+8
+
+=== page 11 ===
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT
+Year ended 31 March 2025
+STAKEHOLDER ENGAGEMENT (CONTINUED)
+Stakeholder Why effective engagement is How we engage
+Group important
+Suppliers and To support our business model and | - Regular open and honest two-way interaction with
+key partners strategy, we require an efficient and | suppliers
+effective supply chain. Suppliers are | _ CEO engagement with a number of key strategic
+critical to the products and service we .
+~ . . partners and key vendor alliances to ensure we
+provide to our customers including the . . . a
+. monitor the quality of our suppliers to optimise
+development of our product portfolio and ‘ . .
+vee . operational efficiency, ensure we receive the best level
+new products, competitive pricing and .
+. . of service and continue to contract on favourable terms
+service delivery. The Company has a to support the business
+number of key strategic partners that we PP
+engage with to support delivery of our | - We have specific product and vendor management in
+business in a number of key areas} place for our strategic partners being Microsoft,
+including IT _ infrastructure and | Broadcom and Commvault who undertake regular
+communication products and services, | updates, both informal and formal, as part of the
+software, provision of power and our | partnership programmes of these technology partners
+landlords on leased property. - The Directors approve all key supplier contracts
+above certain thresholds in accordance with the
+Company’s delegation of authority limits :
+Environment The Company recognises the | - The Directors consider and approve capital
+environmental impact arising from our | investments that support the Company’s reduction in
+business activities and is committed to | carbon emissions from our data centres
+minimising the impact we have on the . .
+. - The Directors receive regular management reports on
+environment to secure the long-term
+energy performance and outputs of our data centres to
+future of the Company. The Company ° .
+demonstrate our commitment to Energy Saving
+operates a number of data centres vee < - .
+Opportunities Scheme (“ESOS”) and Streamlined
+throughout the UK and we operate our Energy and Carbon Reporting (“SECR™)
+data centres in a way intended to reduce gy P 8
+the impact on our local environment, | - The Directors also receive updates on compliance
+including the usage of energy and | with ISO standards, environmental and energy
+greenhouse gas emissions. efficiency management policies and updates on
+improvement activities through monthly reporting
+9
+
+=== page 12 ===
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT .
+Year ended 31 March 2025
+STAKEHOLDER ENGAGEMENT (CONTINUED)
+The following table covers the key decisions made during the year and the stakeholder group(s) impacted by these
+decisions.
+Key Impact Key decisions made Key
+Stakeholder
+Group
+impacted
+Long-term In February 2025, the Directors held an annual strategy day to review the current | Employees,
+strategy and position of the Company and develop the vision and strategy for the business. The | Customers,
+performance Directors considered the potential impact that the Company’s growth plans might | Suppliers,
+of the have on its key stakeholders to ensure that there is a healthy balance between | Environment
+Company growth, internal and external factors and wider stakeholder considerations.
+The Directors approved the Company’s FY26 financial budget and five-year plan
+which took into consideration the strategic plan and any specific priorities and
+challenges faced by the Company. The Directors considered the potential impact
+on our key stakeholders to ensure that the budget achieved a responsible balance :
+between operating performance and short and long-term considerations that matter
+to our key stakeholders.
+The Directors approved the commitment to a 5-year licence programme with | Suppliers,
+Broadcom. This commitment ensures that existing customers continue to benefit | Customers
+from our deep VMware know-how and capability but will also allow us to support
+new customers who require an intermediary partner to support their own
+requirements.
+Financing and | The Directors approved major capital expenditure to support the capital investment | Customers,
+capital spend | of our infrastructure and data centres. During the year, the Directors approved the | Suppliers,
+5-year Broadcom VMware license arrangement, along with the matching USD | Environment
+hedging for the future annual payments.
+The Board reviews the dividend policy and approves the interim dividend taking
+into account the results and financial position of the Company.
+Other Matters
+Workforce engagement and promoting ethical business practices
+We define corporate responsibility as ensuring that we have, or are developing sound policies, practices or
+programmes that address business transparency and ethics, workplace practices and employee relationships and.
+customer consultation. In practice, our commitment to corporate responsibility plays out in a wide variety of ways
+and includes our employee engagement programme, which is designed to foster an inclusive workplace by
+encouraging our people to continually improve performance in this area. Key practices include:
+
+e = Anti-Bribery and Corruption - The Company is committed to ensuring it has appropriate processes in place
+to mitigate the risk of bribery and corruption and has a business ethics and anti-bribery policy which is
+outlined in our Group employee handbook and on our corporate website available to all staff.
+
+© Modern Slavery Act - The Company is committed to conducting business responsibly and ensuring that our
+supply chain has ethical employment practices, working conditions and has procedures in place to prevent
+modern slavery or human trafficking. Our Modern Slavery statement, which is updated and approved
+annually by the Group Board, details processes in place to help manage the risks outlined by the legislation
+and is available on the iomart website.
+
+© = Whistleblowing - We recognise the importance of all of our employees and strive to achieve an inclusive
+work environment and an open culture. The Company is committed to maintaining high ethical standards in
+all areas of work and practice and has a detailed whistleblowing policy in place, which was updated and
+approved by the Group Audit Committee in the current year. The policy is outlined in the Group employee
+handbook and available on our corporate website.
+
+10
+
+=== page 13 ===
+IOMART MANAGED SERVICES LIMITED
+STRATEGIC REPORT
+: Year ended 31 March 2025
+Workforce engagement and promoting ethical business practices (continued)
+
+e Data Privacy policy — The Company has a data protection policy and information security management
+systems in place to ensure we have appropriate data security systems and processes to protect our data and
+are fully accredited with ISO 27001 ‘Information Security Management Systems’.
+
+© Diversity and inclusion — The Company’s diversity and inclusion strategy aims to make iomart a great place
+to work, where all our employees feel they belong and are supported to succeed. We seek to promote
+diversity and equal opportunities within our workforce, and drive an inclusive culture, that respects and
+values differences and does not discriminate on grounds of colour, ethnic origin, gender, age, religion,
+political or other opinion, disability, or sexual orientation. Full and fair consideration is given to applications
+for employment made by disabled persons having regard to their aptitudes and abilities. Appropriate training
+is arranged for disabled persons, including retraining for alternative work of employees who become
+disabled, to promote their career development within the organisation. A fair remuneration policy is adopted
+throughout the Group. In April 2025, we reported our fourth Group gender pay report which has shown an
+improvement in our reported metrics. We will continue to develop our recruitment strategy to drive further
+improvements and diversity.
+
+© Minimum Living Wage — as in the past, our most recent Group annual salary review in April 2025, retained
+our commitment to ensuring we comply with the minimum living wage guidance.
+
+. The Strategic Report on pages 2 to 10 has been approved by the Board and is signed on its behalf:
+DY G
+S Cunningham ‘
+Director
+24 September 2025 :
+f
+, ul
+
+=== page 14 ===
+IOMART MANAGED SERVICES
+DIRECTORS’ REPORT ,
+Year ended 31 March 2025
+The Directors present their annual report and the audited financial statements for the year ended 31 March 2025.
+PRINICPAL ACTIVITY
+The principal activity of the Company is the provision of managed cloud services from data centres owned and
+operated by the Company. The Company’s registered number is SC275629.
+RESULTS AND DIVIDENDS
+The results for the year are set out on page 19. The profit before taxation for the year was £0.5m (2024: £10.3m). For
+further details on the Company’s financial performance refer to the Strategic Report on pages 2 to 10.
+During the year the Directors paid a dividend of £7.0m (2024: £7.0m). The Directors do not recommend payment of
+a final dividend (2024: £nil) bringing the total distribution in the year to £7.0m (2024: £7.0m).
+DIRECTORS AND THEIR INTERESTS
+The following Directors have held office throughout the year and to the date of this report:
+S Cunningham
+A Chamberlain (appointed 30 June 2025)
+R Last (appointed 30 June 2025)
+L Dimes (resigned 5 June 2025)
+The interests of the Directors in the shares of the parent undertaking, iomart Group ple, are disclosed in that company’s
+financial statements.
+DONATIONS
+No political donations have been made during the year ended 31 March 2025 (2024: Enil).
+Insurance for Directors and Officers
+As part of the Group, the Company under the Company’s Articles of Association, and subject to the provisions of the
+Companies Act, indemnifies all Directors or other officers against liability incurred by them in the execution or
+discharge of their duties or exercise of their powers, including but not limited to any liability for the costs of legal
+proceedings where judgement is given in their favour. This indemnity was in place during the financial year and is
+ongoing up to the date of this report. In addition, the Group, and therefore the Company, has purchased and maintains
+appropriate insurance cover against legal action brought against Directors and officers of the Company and
+subsidiaries. .
+RESEARCH AND DEVELOPMENT
+The Company develops cloud computing products including private cloud platforms, hybrid cloud platforms, virtual
+platforms, online backup and storage solutions and email related products. Development costs of £2,469,589 were
+capitalised in the current year (note 8) (2024: £1,465,722).
+FUTURE DEVELOPMENTS
+The Company’s business activities, together with the factors likely to affect its future development, performance and
+position are set out in the Strategic Report on pages 2 to 11.
+
+12
+
+=== page 15 ===
+IOMART MANAGED SERVICES
+
+DIRECTORS’ REPORT
+
+Year ended 31 March 2025
+
+FINANCIAL RISK MANAGEMENT OBJECTIVES AND POLICIES
+
+The Company’s financial instruments comprise cash and liquid resources and leases together with various items such
+
+as trade debtors and trade creditors that arise directly from its operations. The main purpose of these financial
+
+instruments is to provide finance for the Company’s operations. The Company does not enter into derivative financial
+
+instruments.
+
+Liquidity risk :
+
+The Company seeks to manage financial risk to ensure sufficient liquidity is available for ongoing operations and to
+
+meet foreseeable needs and to invest cash safely and profitably. As discussed in Note 22, the Group parent company
+
+secured a new Revolving Credit Facility ("RCF") in which the Company acts as a guarantor. The RCF totals £115
+
+million and was secured from a syndicate of three banks. Liquidity risk from this is considered low as the Group was
+
+in compliance with all covenants under its original banking facility arrangements throughout the 31 March 2025
+
+reporting period. In addition, Directors of the Group have prepared robust budgets and forecasts for the years ending
+
+31 March 2026 and 31 March 2027 respectively. These budgets and forecasts take into account the financial covenant
+
+requirements as well as possible downside scenarios. Even under the downside scenario, the Group is forecast to
+
+maintain sufficient liquidity and comply with all financial covenants without requiring mitigating actions. As a result,
+
+risk associated with this is deemed to be low.
+
+Interest rate risk and currency risk
+
+The Company is not materially exposed to movements in interest rates. The level of non-monetary and monetary
+
+assets and liabilities denominated in foreign currencies in the Company are minimal, therefore, the company is not
+
+materially exposed to currency movements.
+
+Credit risk
+
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial losses
+
+to the Company. The Company provides standard credit terms (normally 30 days) to some of its customers which has
+
+resulted in trade debtors of £9,477,868 (2024: £9,003,318) which are stated net of applicable provisions and which
+
+represent the total amount exposed to credit risk (note 10). The Company manages trade receivable balances vigilantly
+
+and takes prompt action on overdue accounts. The lease deposits of £111,211 (2024: £111,211) are held in escrow
+
+accounts with the landlord’s main UK bankers. The Company’s cash at bank is held within clearing banks in the UK.
+
+As a result of the aforementioned, the risk of exposure to credit is minimal in relation to trade debtors and cash at
+, bank.
+
+EMPLOYEES
+
+The Company seeks to ensure that employee policies and processes are aligned with the Company’s core values and
+
+promote the long-term strategy of the Company. The Company regularly communicates with all staff providing
+
+information on developments within the Company including updates on the strategy through Company-wide
+
+announcements and all employee calls. The Company has a policy of encouraging training through our ‘iosmart’
+
+learning management system.
+
+People are at the heart of the Company’s core values and the Company continuously strives to build a diverse and
+
+inclusive environment where its employees feel valued.
+
+The Company is committed to attracting and retaining the highest level of personnel. The Company seeks to achieve
+
+this through, amongst other things, the application of high standards in recruitment.
+
+The Company has continued to focus on ensuring the health and wellbeing of our employees with a number of key
+
+initiatives during the year including:
+
+e Anemployee assistance programme with a third party provider, Health Assured, offering free counselling
+support available 24/7 for all employees and their families;
+
+e All employees have access to Health Assured’s ‘My Healthy Advantage’ phone app giving access to, among
+other things, mindfulness videos, mini health checks, health coaching and healthy eating guidance.
+
+e ~=We have continued our partnership with a charity, Mindapples, as part of our employee wellbeing programme
+to improve mental health and help people take better care of their minds improving resilience and
+productivity.
+
+13
+
+=== page 16 ===
+' IOMART MANAGED SERVICES
+DIRECTORS’ REPORT
+Year ended 31 March 2025
+EMPLOYEES (CONTINUED)
+A number of employees participate in the growth of the business through the ownership of share options with some
+employees also participating in a bonus scheme. Staff are eligible to receive share options in the Group under the
+iomart Group ple’s share incentive schemes and it is the Company’s policy to make specific awards as appropriate to
+attract and retain the best available people. See page 11 of the Strategic Report for the Company’s policy on diversity
+and inclusion.
+CUSTOMERS AND SUPPLIERS
+The Company seeks to be honest and fair in all relationships with customers and encourages feedback from our
+customers through account managers and engagement with individual customers through customer support teams. On
+a regular basis we engage with customers to obtain feedback on our performance.
+The Company treats all of its suppliers with the utmost respect and seeks to be honest and fair in all relationships with
+them. We seek to honour the terms and conditions of our agreements in place with such suppliers and subcontractors.
+Additionally, we recognise the importance to the Company and our suppliers of complying with all payment terms
+and we report on a half-yearly basis on our payment practices, policies and performances in line with the Reporting
+on Payment Practices and Performance Regulations 2017.
+Information on our engagement with customers and suppliers is included in the Stakeholder Engagement report on
+page 9.
+GREENHOUSE GAS (“GHG”) EMISSIONS REPORTING
+The Company seeks to minimise the impact of its operations on the environment and is committed to reducing its
+GHG emissions. As in prior periods, we are pleased to report that iomart is aligned with the UK Government targets
+and committed to achieving Net Zero by 2050, and earlier, if possible. We are proud that a combination of our
+renewable electricity commitments and other efficiencies has already ensured we have reduced our scope ! & 2 total
+carbon emissions by over 99% since our benchmark year of FY21.
+Key sources of energy, primarily electricity to power our data centre estate, are monitored by the Company to allow
+us to be continually mindful of our energy consumption. The Group, and therefore the Company, applies a set of
+global environmental standards to all of our activities and our environmental and energy management systems are
+certified to ISO 14001 and ISO 50001 (internationally accepted environmental standards). These certifications provide
+a framework against which we have developed comprehensive environmental procedures and monitoring systems.
+These processes have allowed us to measure our environmental performance and focus our activities on delivering
+. improvements.
+From | August 2021, all of the Company’s UK data centres have procured 100% renewable electricity through
+Renewable Energy Guarantees of Origin (“REGO”) certificates. This has significantly reduced the Company’s carbon
+footprint in the UK.
+The proactive management of our GHG emissions is central to the Company’s operations with a clear focus on
+controlling and reducing our carbon footprint. The Company aims to improve the energy efficiency of its operations
+and ensure continued compliance with ISO 50001:2018 as the basis for its energy management arrangements and has
+committed to:
+¢ setting objectives for reducing energy consumption and maintaining an energy efficiency programme;
+managing energy usage to our related business premises;
+¢ compliance to existing and new, applicable environmental regulations;
+e improving the power usage effectiveness for each of our data centres;
+e providing training on good energy management practices and encouraging employee involvement in energy
+efficiency improvement initiatives; and
+e The Group, and so the Company, participates in the Energy Saving Opportunities Scheme (“ESOS”) with
+annual ESOS audits carried out throughout the Group and is committed to meeting the requirements of the
+Streamlined Energy and Carbon Reporting (“SECR”) regulations.
+14
+
+=== page 17 ===
+IOMART MANAGED SERVICES
+DIRECTORS’ REPORT
+Year ended 31 March 2025
+GREENHOUSE GAS (“GHG”) EMISSIONS REPORTING (CONTINUED)
+Last year, the Group’s Board approved a £1.3m replacement of a cooling system in a major data centre as well as
+other critical assets in key data centres to help drive our carbon reduction as we work towards carbon neutrality. The
+Company’s solar panel installation for the Maidenhead data centre, which was completed in May 2024 has contributed
+163,557 kilowatt-hours (“kWh”) of clean energy to that operation between May 24 (project completion) and March
+2025.
+Detailed reporting of iomart Group plc’s total gross greenhouse gas (““GHG”) emissions, methodology applied and
+energy efficiency actions are available in the iomart Group plc consolidated financial statements for the year ended
+31 March 2025.
+GOING CONCERN
+The Company’s business activities, together with the factors likely to affect its future development, performance and
+position are set out in the Strategic Report on pages 2 to 10.
+The Company has considerable financial resources together with long-term contracts with a number of customers and
+suppliers across different geographic areas and industries. As a consequence, the Directors believe that the Company
+, is well placed to manage its business risks.
+The Directors have considered the Company’s budgets and the cash flow forecasts for the next three financial years,
+and associated risks, including the risk of climate change and the impact on our data centre estate and the useful
+economic life of assets, and the availability of bank and leasing facilities. We have run appropriate scenario and stress
+tests applying reasonable downside sensitivities and are confident we have the resources to meet our liabilities as they
+fall due.
+After making enquiries, the Directors have a reasonable expectation that the Company will be able to meet its financial
+obligations and has adequate resources to continue in operational existence for the foreseeable future (being a period
+extending at least twelve months from the date of approval of these financial statements). For this reason they continue
+to adopt the going concern basis in preparing the financial statements.
+For further information on the Director’s assessment, refer to note 2.
+INDEPENDENT AUDITOR AND DISCLOSURE OF INFORMATION TO AUDITOR
+The Directors confirm that each of the persons who is a Director at the date of approval of this annual report confirms
+that:
+e so far as each Director is aware, there is no relevant audit information of which the Company’s auditor is
+unaware; and
+e the Directors have taken all the steps that they ought to have taken as Directors in order to make themselves
+aware of any relevant audit information and to establish that the Company’s auditor is aware of that
+information.
+This information is given and should be interpreted in accordance with the provisions of s418 of the Companies Act
+2006.
+Deloitte LLP have expressed their willingness to continue in office as auditors. A resolution to reappoint them will be
+proposed at the forthcoming Annual General Meeting of iomart Group ple (parent company of iomart Managed
+Services Limited).
+Approved by the Board of Directors and signed by order of the Board .
+qb
+J Brown
+Company Secretary
+24 September 2025 :
+15
+
+=== page 18 ===
+IOMART MANAGED SERVICES LIMITED
+DIRECTORS’ RESPONSIBILITIES STATEMENT
+Year ended 31 March 2025
+DIRECTORS’ RESPONSIBILITIES STATEMENT
+The Directors are responsible for preparing the annual report and the financial statements in accordance with *
+applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year. Under that law the
+Directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards and applicable law), including FRS 101 “Reduced
+Disclosure Framework”. Under company law the Directors must not approve the financial statements unless they are
+satisfied that they give a true and fair view of the state of affairs of the Company and of the profit or loss of the
+Company for that period.
+In preparing these financial statements, the Directors are required to:
+
+« select suitable accounting policies and then apply them consistently;
+
+« make judgements and accounting estimates that are reasonable and prudent;
+
+: @ state whether applicable UK Accounting Standards have been followed, subject to any material departures
+disclosed and explained in the financial statements; and
+© prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+Company’s transactions and disclose with reasonable accuracy at any time the financial position of the Company and
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible
+for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of
+: fraud and other irregularities.
+The directors are responsible for the maintenance and integrity of the corporate and financial information included on
+the company’s website. Legislation in the United Kingdom governing the preparation and dissemination of financial
+statements may differ from legislation in other jurisdictions.
+16
+
+=== page 19 ===
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF IOMART MANAGED
+SERVICES LIMITED
+Report on the audit of the financial statements
+Opinion
+In our opinion the financial statements of iomart Managed Services Limited (the ‘company’):
+e give atrue and fair view of the state of the company’s affairs as at 31 March 2025 and of its loss for the year then
+ended;
+e have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice,
+including Financial Reporting Standard 101 Reduced Disclosure Framework; and
+
+« have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements which comprise:
+e the statement of comprehensive income;
+© the statement of financial position
+e the statement of changes in equity; and
+«the related notes 1 to 22.
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom
+Accounting Standards, including Financial Reporting Standard 101 Reduced Disclosure Framework (United Kingdom
+Generally Accepted Accounting Practice). :
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (‘ISAs (UK)’) and applicable
+law. Our responsibilities under those standards are further described in the auditor’s responsibilities for the audit of
+the financial statements section of our report.
+We are independent of the company in accordance with the ethical requirements that are relevant to our audit of the
+financial statements in the UK, including the Financial Reporting Council’s (the ‘FRC’s’) Ethical Standard, and we
+have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting
+in the preparation of the financial statements is appropriate.
+
+, Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the company’s ability to continue as a going
+
+: concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant
+sections of this report.
+Other information
+The other information comprises the information included in the annual report, other than the financial statements and
+our auditor’s report thereon. The directors are responsible for the other information contained within the annual report.
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise
+explicitly stated in our report, we do not express any form of assurance conclusion thereon. ,
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially
+inconsistent with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears
+to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are
+required to determine whether this gives rise to a material misstatement in the financial statements themselves. If,
+based on the work we have performed, we conclude that there is a material misstatement of this other information, we
+are required to report that fact.
+We have nothing to report in this regard.
+17
+
+=== page 20 ===
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF IOMART MANAGED
+
+SERVICES LIMITED
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement, the directors are responsible for the preparation
+
+of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as
+
+the directors determine is necessary to enable the preparation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue as
+
+a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of
+
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic
+
+alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements .
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with
+
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and
+
+are considered material if, individually or in the aggregate, they could reasonably be expected to influence the
+
+economic decisions of users taken on the basis of these financial statements.
+
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s website
+
+at: www.fre.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in
+
+line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including
+
+fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+
+We considered the nature of the company’s industry and its control environment and reviewed the company’s
+
+documentation of its policies and procedures relating to fraud and compliance with laws and regulations. We also
+
+enquired of management and the directors about their own identification and assessment of the risks of irregularities,
+including those that are specific to the company’s business sector.
+
+We obtained an understanding of the legal and regulatory framework that the company operates in, and identified the
+
+key laws and regulations that:
+
+: e had a direct effect on the determination of material amounts and disclosures in the financial statements. These
+included the UK Companies Act and relevant tax legislation; and
+
+« did not have a direct effect on the financial statements but compliance with which may be fundamental to the
+
+. company’s ability to operate or to avoid a material penalty.
+
+We discussed among the audit engagement team, including relevant internal specialists such as IT specialists,
+
+regarding the opportunities and incentives that may exist within the organisation for fraud and how and where fraud
+
+might occur in the financial statements.
+
+As a result of performing the above, we identified the greatest potential for fraud to be in relation to the occurrence of
+
+revenue recognised in relation to new contracts entered in Q4 of the financial year. The specific procedures performed
+
+to respond to this risk included: .
+
+e Obtaining an understanding of and testing controls across the business established to ensure appropriate timing
+of recognition of revenue;
+
+e Detailed testing of new contracts that have been entered into in Q4 at increased levels of samples, reflective of
+the risk level, agreeing start dates, end dates and contract values to signed customer contract documentation in
+order to confirm that the revenue recognition policy is set up correctly;
+
+. «¢ Obtaining evidence to support commencement of service period as the key revenue recognition point;
+
+* Performing a reconciliation between revenue recognised and the Q4 new contract report to address the risk
+relating to completeness;
+
+18
+‘
+
+=== page 21 ===
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF IOMART MANAGED
+
+SERVICES LIMITED
+
+In common with all audits under ISAs (UK), we are also required to perform specific procedures to respond to the
+
+risk of management override. In addressing the risk of fraud through management override of controls, we tested the
+
+appropriateness of journal entries and other adjustments; assessed whether the judgements made in making accounting
+
+estimates are indicative of a potential bias; and evaluated the business rationale of any significant transactions that are
+
+unusual or outside the normal course of business.
+
+In addition to the above, our procedures to respond to the risks identified included the following:
+
+e reviewing financial statement disclosures by testing to supporting documentation to assess compliance with
+provisions of relevant laws and regulations described as having a direct effect on the financial statements;
+
+e performing analytical procedures to identify any unusual or unexpected relationships that may indicate risks of
+material misstatement due to fraud;
+
+© enquiring of management and internal legal counsel concerning actual and potential litigation and claims, and
+instances of non-compliance with laws and regulations; and
+
+e reading minutes of meetings of those charged with governance.
+
+Report on other legal and regulatory requirements
+
+Opinions on other matters prescribed by the Companies Act 2006 .
+
+In our opinion, based on the work undertaken in the course of the audit:
+
+e the information given in the strategic report and the directors’ report for the financial year for which the financial
+statements are prepared is consistent with the financial statements; and ,
+
+e the strategic report and the directors’ report have been prepared in accordance with applicable legal requirements.
+
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the
+
+audit, we have not identified any material misstatements in the strategic report or the directors’ report.
+
+Matters on which we are required to report by exception
+
+Under the Companies Act 2006 we are required to report in respect of the following matters if, in our opinion:
+
+e adequate accounting records have not been kept, or returns adequate for our audit have not been received from
+branches not visited by us; or
+
+e the financial statements are not in agreement with the accounting records and returns; or
+
+© certain disclosures of directors’ remuneration specified by law are not made; or
+
+e we have not received all the information and explanations we require for our audit.
+
+We have nothing to report in respect of these matters.
+
+Use of our report
+
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the
+
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those
+
+matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted
+
+by law, we do not accept or assume responsibility to anyone other than the company and the company’s members as
+
+a body, for our audit work, for this report, or for the opinions we have formed. ’
+
+Edward Salter FCA (Senior statutory auditor)
+
+For and on behalf of Deloitte LLP
+
+Statutory Auditor
+
+London, United Kingdom .
+
+24 September 2025
+
+, 19
+
+=== page 22 ===
+IOMART MANAGED SERVICES LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+. Year ended 31 March 2025
+2025 2024
+Note £ £ :
+Revenue 3 87,621,669 89,393,045
+Cost of sales (40,719,930) (39,429,071)
+Gross profit 46,901,739 49,963,974
+: Administrative expenses, (45,116,726) (38,721,600)
+Operating profit 4 1,785,013 11,242,374
+: Interest payable and similar expenses 5 (1,303,957) (923,496)
+Profit before taxation 481,056 10,318,878
+Taxation 7 (1,025,552) (2,694,556)
+(Loss)/profit for the financial year (544,496) 7,624,322
+Other comprehensive expenses
+Amounts which may be reclassified to profit or loss
+Currency hedge loss (83,615) -
+Total comprehensive (loss)/income for the year (628,111) 7,624,322
+All of the activities of the Company are classed as continuing.
+The accompanying accounting policies and notes form an integral part of these financial statements. :
+20
+
+=== page 23 ===
+IOMART MANAGED SERVICES LIMITED
+STATEMENT OF FINANCIAL POSITION
+As at 31 March 2025
+2024*
+2025 Restated
+Note £ £
+FIXED ASSETS ;
+Intangible assets 8 18,401,322 3,797,008
+Tangible fixed assets 9 55,387,939 59,724,997
+Debtors 10 111,211 111,211
+73,900,472 63,633,216
+CURRENT ASSETS
+Debtors 10 33,798,009 33,899,163
+Cash at bank and in hand 1,918,014 3,063,021
+35,716,023 36,962,184
+CREDITORS: amounts falling due .
+within one year 12 (31,013,474) (27,246,604)
+NET CURRENT ASSETS 4,702,549 9,715,580
+TOTAL ASSETS LESS CURRENT
+LIABILITIES 78,603,021 73,348,796
+CREDITORS: amounts falling due
+after more than one year 13 (31,433,947) (18,162,039)
+Provisions for liabilities and charges 14 (2,030,160) (2,520,161)
+NET ASSETS 45,138,914 52,666,596
+CAPITAL AND RESERVES
+Called up share capital 15 1 1
+Profit and loss account 42,270,765 49,815,261
+Other reserves 2,951,763 2,851,334
+Hedge Reserve (83,615) -
+SHAREHOLDERS’ FUNDS 45,138,914 52,666,596
+* Details of restatement are disclosed in note 2
+These financial statements were approved by the Board of Directors and authorised for issue on 24 September 2025
+and are signed on their behalf by:
+ns a G
+S Cunningham
+Director
+Company number: $C275629
+The accompanying accounting policies and notes form an integral part of these financial statements.
+21
+

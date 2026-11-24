@@ -1,0 +1,1781 @@
+=== page 1 ===
+tof
+M Group Telecom (Fixed Network
+Solutions) Limited
+Annual report and financial statements
+; for the year ended 31 March 2026
+Registered number 07563201
+BEB
+ae
+“ *AF8GM5DV*
+A3 14/08/2026 #37
+COMPANIES HOUSE : :
+
+=== page 2 ===
+{ M Group Telecom (Fixed Network Solutions) Limited
+Annual report and financial statements
+- for the year ended 31 March 2026
+
+Contents Page
+Company information .........ccccteecccceecesesesseseseeteaeseesereneeieneesseeeesnseentecusstteseteeiteesssneestsereesssee T
+Strategic report for the year ended 31 March 2026 ...........cccccceceees ce cereeeeceetetcesiensetseenecsseeiene 2
+Directors’ report for the year ended 31 March 2026 ...........ccccce lic eect ttseetsettertresitsreerescee 10
+Independent auditor's report to the members of M Group Telecom (Fixed Network Solutions) Ltd.. 15
+Statement of comprehensive income for the year ended 31 March 2026...............ccccceceeereee 20
+Balance sheet as at 31 March 2026 0.0.0... renter tittttit titties 24
+Statement of changes in equity for the year ended 31 March 2026 .............0ccceeesesteeteeteeeseess 22
+Notes to the financial statements for the year ended 31 March 2026 ...........cccccccccesseesseeeeeeeenees 23
+
+=== page 3 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Company information
+
+Directors P Carolan
+AR Findlay
+K M Fuller
+C Keen
+AH P Loosveld
+MA Turner
+D W Whyte (appointed on 24 November 2025)
+J Yarr
+
+Company secretaries AN Badel
+
+Registered office Abel Smith House
+Gunnels Wood Road
+Stevenage
+Hertfordshire
+SG1 2ST
+
+Registered number 07563201
+
+Independent auditor Deloitte LLP
+1 New Street Square
+London
+
+: EC4A 3HQ
+1
+a)
+
+=== page 4 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Strategic report
+for the year ended 31 March 2026
+The Directors present their strategic report together with the audited financial statements for M Group
+Telecom (Fixed Network Solutions) Limited (the “Company”) for the year ended 31 March 2026.
+Principal activities
+The principal activity of the Company during the year was that of telecommunications services.
+Review of the business
+M Group Telecom (Fixed Network Solutions) Limited undertake infrastructure design, build and
+maintenance in the fixed telecom market.
+Since the formation of M Group Telecom (Fixed Network Solutions) Limited (“MFNS’), the business has
+continued to grow and strengthen its relationship with its key client, Openreach. This is driven by the
+market pressure from the public for greater digital services and government facus on providing full fibre
+networks.
+During the year, MFNS has continued to grow delivery volumes on its contracts with Openreach, to
+support the ambition to bring ‘Full Fibre’ broadband to 30 million premises throughout the UK by 2030,
+delivering significant economic, social and environmental benefits for communities. In these contracts,
+MFNS plays a crucial role in building, maintaining, and connecting a new fibre network to millions of
+premises. We have been successful in securing and mobilising new tranches of fibre build, both urban
+and rural, in these programmes. Our build contracts continue to deliver in line with expectations. MFNS
+also operate a repair and maintenance contract, the OQpenreach Services Agreement (‘OSA), where we
+have seen increasing demand in line with an expanding new network footprint.
+We compliment the fibre network build programmes by providing integration and maintenance services,
+new connections and technology services.
+Additionally, we provide a customer connections service “Service Delivery Unit” for Openreach, this
+contract underpins the scale required to provide our clients with a turnkey offering that covers everything
+from the exchange or switch site right into their customers’ homes.
+Turnover in the year was £373.0m (2025: £261.9m) and EBITDA was £34.8m (2025: £18.6m). The
+Company has net assets of £42.4m (2025: £45.5m). Profitability improvements are underpinned by
+increased revenues in the year, and the associated strong operating performance has supported
+improved margins and profitability through scale. In addition, following the acquisition of Telent
+Technology Services Limited by fellow parent company M Group Telecom Holdings Limited, the
+management of common Openreach contracts moved under the operational delivery of the Company,
+enabling sharing of best practice and further scale efficiencies. These profitability benefits have been
+further enhanced by leveraging our Group-wide programme of process standardisation and
+harmonisation across activity types, brining further efficiency benefits. The stability in net assets profile
+reflects well controlled business growth across an established contract portfolio, driving similar
+movements in debtor and creditor profiles, including Group arrangements.
+Key performance indicators (KPIs)
+The Board monitors the progress on the overall Company's strategy and trading by reference to KPIs,
+the principal measures being turnover, EBITDA (earnings before interest, tax, depreciation and
+amortisation) and accident frequency rate (AFR). The Group’s performance against these can be found
+in the consolidated financial statements of the M Group Limited (“the Group”).
+The 12 Month Rolling AFR (i.e. Number of Reporting of Injuries, Diseases and Dangerous Occurrences
+Regulations (RIDDOR) incidents and accidents x 100,000hrs / No. of hours worked) decreased from
+0.01 for the 12-months ended 31 March 2025 to 0.00 for the 12 months ended 31 March 2026,
+demonstrating a positive improvement year on year.
+
+2
+
+=== page 5 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Strategic report
+for the year ended 31 March 2026 (continued)
+Key performance indicators (KPIs) (continued)
+The following table provides a reconciliation from operating profit to EBITDA and the calculation of
+EBITDA:
+Year ended 31 Year ended 31
+March 2026 March 2025
+£000 £000
+Operating profit 33,263 17,384
+Amortisation on intangible assets (Note 11) 1,085 806
+Depreciation on tangible assets (Note 12) 400 400
+EBITDA 34,748 18,590
+Principal risks and uncertainties :
+This section of the strategic report has been adopted from the Group. The Group's risks are reviewed
+quarterly at the Group Risk Board, chaired by the CFO, and a formal review of the principal risks is
+completed annually. The updated principal risks are then shared with the Audit Committee.
+Below is a summary of the Group’s principal risks that are relevant to the Company, together with the
+mitigating actions being taken which have been considered for the Company where applicable.
+Business interruption
+There are a variety of unpredictable events that could arise and cause a significant degree of business
+- interruption for the Company. Such events may include major asset failures, unplanned outages, extreme
+weather, pandemics, industrial action, third party or supplier failures, regulatory interventions or health
+and safety incidents.
+There is a risk that if any of these unpredictable events were to occur the Company may not be able to
+adapt to the changed environment, or recover operations quickly, resulting in prolonged disruption to its
+: activities. This could result in contractual penalties, loss of revenue, increased operating and recovery
+costs, reputational damage and adverse impacts on clients, stakeholders and regulatory relationships.
+The Group holds ISO 22301 and 27001 accreditations, has robust crisis management and business
+continuity plans, diversified supply chains, and appropriate insurance coverage to mitigate the risk of any
+business interruption events.
+Contract management and delivery :
+The Company has large contracts, often covering multiple year timespans. Historically, the work under
+these contracts has been completed on a ‘cost plus’ basis, but the industry has seen a trend moving
+, towards contracts with a fixed price element, or with more onerous terms. This creates additional risk as
+the Company could lose margin if the contract is not priced and managed carefully.
+The Company operates a robust Scheme of Delegated Authority, that also includes the review of contract
+terms by commercial and legal teams, to mitigate any risk as much as possible during the tendering and
+contract award phase. Larger or higher-risk contracts are subject to full legal and governance review at
+Group level. Following this, regular management reviews at divisional and Group level provide ongoing
+scrutiny of commercial performance and emerging risks.
+3
+
+=== page 6 ===
+M Group Telecom (Fixed Network Solutions) Limited
+
+Strategic report
+
+for the year ended 31 March 2026 (continued)
+
+Principal risks and uncertainties (continued)
+
+Contract management and delivery (continued)
+
+These measures are further reinforced through a comprehensive commercial assurance framework
+
+aligned to the three lines of defence model, ensuring effective risk management, independent oversight,
+
+and continuous improvement.
+
+Skills shortages :
+
+The Company requires a large workforce, across the UK, with a range of skills to deliver high-quality
+
+work on time for our clients. We operate in markets where skill shortages are common across specific
+
+roles; these may vary over time as the UK skills market fluctuates dependent on demand and major UK
+
+projects. This creates a risk that we may be unable to obtain the skills needed to deliver for our clients.
+
+The Company invests heavily in training and development to ensure everyone reaches their maximum
+
+potential and stays with the Group as long as possible. Succession plans are in place for key roles, and
+
+we have mapped top talent and identified development opportunities for these individuals. The Group
+
+has more than 400 employees engaged on apprenticeship programmes, supports the Armed Forces
+
+Community and partners with People Plus, who support with transitioning ex-offenders into employment.
+
+We are also investing in systems so we can deliver as efficiently as possible, reducing the number of
+
+new hires we need as we continue to grow.
+
+The Company has invested heavily in this area. However, there are still some markets and areas where
+
+skill shortages prevail across the industry, which is difficult to mitigate, and so creates a moderate risk
+
+for the Company. ,
+
+. Health and safety
+
+The Group's operations are complex and involve working in situations that could result in significant
+
+health and safety risk if not managed effectively, such as working in confined spaces, at height or with
+
+hazardous materials.
+
+Failure to manage these risks could result in a serious road traffic incident, customer, employee or third-
+
+party injury or fatality or operational incidents. Asignificant event of this nature could cause serious harm
+
+and have financial, legal and reputational consequences.
+
+The Company promotes a culture that puts safety first and so has established minimum standards,
+
+policies, procedures and safe working practices that must be followed by everyone working for, or on
+
+behalf of, the Company.
+
+The Board is provided with assurance that these practices are being followed, and health and safety
+
+risks are being effectively managed via our in-house specialist Safety, Health, Environmental and Quality
+
+teams, who are embedded into every Division across the Group.
+
+The Group places significant focus on working safely, to ensure the risk of a significant health and safety
+
+event occurring is low.
+
+Reliance on supply chain
+
+The nature of the work delivered across the Company means that we are reliant on being able to obtain
+
+the materials needed, as well as access to individuals that are adequately skilled to deliver this work.
+4
+
+=== page 7 ===
+M Group Telecom (Fixed Network Solutions) Limited
+
+Strategic report
+
+for the year ended 31 March 2026 (continued)
+
+Principal risks and uncertainties (continued)
+
+Reliance on supply chain (continued)
+
+The Group uses subcontractors, alongside its large directly employed workforce, to deliver work for
+
+clients and so there is a risk that any disruption to the supply chain (materials or labour) would impact
+
+the ability of the Company to deliver services toits clients. This could result in delays completing work,
+
+increased costs, penalties from clients and reputational damage.
+
+The Company mitigates this risk by establishing preferred supplier relationships with a small number of
+
+suppliers, and subcontractors, for all key areas within the supply chain. This not only helps to ensure
+
+continuity and stability within our supply chain but also means that we are able to deliver the best value
+
+to our clients. Suppliers are paid promptly, and performance of suppliers is regularly reviewed with
+
+actions taken as required.
+
+The Company has a robust supply chain that has continued to deliver the individuals and materials
+
+needed throughout challenging periods. This risk has improved this year, becoming low risk for the
+
+Company.
+
+Economic uncertainty
+
+Economic or market regulatory conditions at both a macro and micro level can impact the amount of
+
+expenditure our clients can make. Given many of the Group’s contracts are framework agreements which
+
+do not provide guaranteed levels of turnover, these economic or regulatory conditions could impact the
+
+volume of work that we receive or may mean that clients extend payment terms to manage their cash
+
+resources.
+
+If not carefully managed, this could lead to reduced turnover or liquidity risks for the Company. We
+
+engage in regular dialogue with our clients to continually assess these risks and adjust our resources
+: accordingly. A large proportion of our work is delivered via subcontract and is structured such that if there
+
+was a reduction in client spend, the subcontract costs would reduce accordingly.
+
+The nature of the work performed by the Company means that a large proportion is essential, rather than
+
+discretionary spend, which ensures the volume of work, and therefore our turnover projections, in the
+
+medium term are resilient. Further, the variety of work completed across the Group and the number of
+
+markets in which we operate, provides diversification which helps to mitigate this risk.
+
+The Company operates within the UK and so our economic and regulatory exposure risk is concentrated
+
+within this area. If this risk were to materialise the impact could be significant, but having regular dialogue
+
+with clients means the likelihood of a significant reduction in work is low.
+
+Climate change
+
+Climate change creates both physical and transitional risks for the Company. From a physical risk
+
+perspective, climate change could bring more extreme weather events, such as hotter spells and
+
+flooding, which create risks for the safety of our, largely outdoor working, employees and a commercial
+
+risk if they are unable to work in extreme scenarios.
+
+From a transitional perspective, the Company is required to manage, and reduce, its greenhouse gas
+
+emissions, and to comply with Policy that could change, which potentially creates uncertainty and
+
+additional cost. There is also a commercial risk if we do not transition at the pace required by our clients.
+
+5
+
+=== page 8 ===
+M Group Telecom (Fixed Network Solutions) Limited
+
+Strategic report
+
+for the year ended 31 March 2026 (continued)
+
+Principal risks and uncertainties (continued) .
+
+Climate change (continued)
+
+Climate change risks are managed at a Group level, where the Group has an 8-weekly Carbon Reduction
+
+Group, chaired by the ESG & Innovation Director. This, along with the Group's Operational and Risk
+
+forums ensures climate change risks are identified and managed. For the physical risks, we ensure we
+
+have the necessary PPE, welfare facilities, tools and equipment to allow our employees to work safely
+
+and are cognisant of forecasted adverse weather events.
+
+For the transitional risks, we monitor policy developments closely and have an ambitious carbon
+
+reduction strategy, which is underway.
+
+While climate change creates risk for the Group, it also creates significant opportunity and so overall the
+
+risk posed from climate change is low for the Group.
+
+Cyber security :
+
+Asignificant cyber security incident could result in disruption to critical services, impairment of operational
+
+systems, safety incidents, loss or corruption of sensitive data, financial loss, regulatory sanctions,
+
+contractual liabilities, reputational damage, and reduced stakeholder confidence.
+
+Given the essential nature of the Company’s services, a prolonged or severe incident could have a
+
+broader societal impact and may attract heightened regulatory and government scrutiny.
+
+The Company relies on the wider mitigation tools of the Group, which has the use ofa UK-managed :
+
+Security Operations centre, monitoring the networks continuously with effective security solutions. These
+
+include internet-based security solutions, active network monitoring, Multi-Factor Authentication and
+
+penetration testing. In addition, the Group holds an ISO 27001 and Cyber Essentials accreditation and
+
+has developed crisis management and business continuity plans to mitigate the risk of any business
+. interruption events. Ongoing employee training and awareness reduces the risk of human error or social
+
+engineering.
+
+IT systems and infrastructure are assessed for loss of service impact at the point of design, have
+
+appropriate levels of recoverability and redundancy built in including, where required, non-IT alternative
+, capabilities, and have periodic risk reviews and testing for vulnerability and exposure.
+
+The cyber security risk around the world has been increasing in recent years and the Group has seen
+
+this trend too, with attempted cyber attacks occurring daily. However, the impact of a cyber security
+
+incident could be significant, and so this creates moderate risk for the Group.
+
+Legal & regulatory
+
+These requirements span a variety of areas, such as financial reporting, tax, GDPR, health and safety,
+
+environment, employment and Al. This creates a risk that the Company could be, or become, non-
+
+compliant with these laws and regulations.
+
+Non-compliance with legal and regulatory requirements could lead to financial penalties, preclusion from
+
+tendering, reputational damage, operational impacts and/or implications for our licence to operate in a
+
+worst-case scenario.
+
+The Group has defined its Code of Conduct which documents the Group Policies for the most significant
+
+areas of legal and regulatory compliance. This framework sets out how the Company is managed to
+
+ensure compliance with Divisional policies and processes sitting underneath aligned to this framework.
+
+6
+
+=== page 9 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Strategic report
+for the year ended 31 March 2026 (continued)
+Principal risks and uncertainties (continued)
+Legal & regulatory (continued)
+More granular controls then exist to ensure compliance at a detailed level, with governance and oversight
+of this provided in the relevant forums based on the nature of the risk.
+Our people are required to complete e-learning covering Financial Crime, Data Protection, Modern
+Slavery, Inclusion & Diversity and IT Security when they first join the Company and annually thereafter.
+The nature of the Group means that noncompliance with legal and regulatory requirements will always
+be a risk; however, we have well defined policies, processes, governance and oversight to ensure this
+risk is mitigated to an acceptable level. As a result, this risk is rated as low.
+Future developments
+The current year financial performance of MFNS is in line with our growth strategy and is aligned with
+our strategy to grow our service portfolio outside of fibre build. We continue to build on our key
+relationship with Openreach, supporting critical national infrastructure, as a preferred partner. The
+Company will move into its next strategic phase over the next financial year and beyond as the business
+pivots towards further offerings in repair and maintenance and Connections across Fixed Networks, with
+Commercial Fibre build beyond its peak and transitioning towards Project Gigabit Fibre build. This is
+achievable through the increasing strength and depth in our core business combined with Divisional, and
+M Group relationships and end-to-end service offerings.
+Section 172(1) statement
+This section of the strategic report has been adopted from the Group. The Directors believe that the
+disclosures below are appropriate to understand the range of factors set out in section 172(1) (a)-(f).
+Section 172(1) of the Companies Act 2006 requires each Director of a company to act in the way he or
+she considers, in good faith, would most likely promote the success of the company for the benefit of its
+members as a whole but having regard to a range of factors set out in section 172(1) (a)-(f) in the
+Companies Act 2006. In discharging our section 172(1) duty, we have regard for these factors taking
+them into consideration when decisions are made.
+In addition, we also have regard to other factors which we consider relevant to the decisions being made.
+Those factors for example include the interest and views of our clients and their end users, regulatory
+bodies, and our relationship with our lenders. We delegate authority for day-to-day management of the
+Company to the Executive Directors and engage management in setting, approving and overseeing
+execution of the business strategy and related policies. .
+What our stakeholders have told us matters most to them
+Effective engagement of stakeholder groups supports the principles of Section 172(1) of the Companies
+Act 2006, which sets out that Directors should have regard to stakeholder interests when discharging
+their duty to promote the success of the company. Our success depends on forging positive relationships
+with the people, communities and organisations that have an interest in our business and may be
+impacted by the decisions we make. The Directors identify principal decisions as those with significant
+long-term implications for the Group and its stakeholders, distinct from routine business decisions. All
+principal decisions are made at Group level.
+
+7
+
+=== page 10 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Strategic report
+for the year ended 31 March 2026 (continued)
+Section 172(1) statement (continued)
+What our stakeholders have told us matters most to them (continued)
+People
+We endeavour to listen to our people, to provide feedback and keep them engaged and informed.
+Successful performance can be delivered through a high level of engagement ensuring our people share
+the Company's core values and feel supported by our inclusive culture. We are committed to creating an
+environment in which our people feel valued, supported and fulfilled. A dedicated feedback survey was
+used to inform the Directors on the decision to re-brand and the introduction of the new Group wide
+values and behaviours; responsible, open, together, ambitious.
+The Directors continue to engage and listen to all feedback to harness the talent within the Company
+and ensure a working environment that allows people to flourish. During the year a group wide People
+Opinion Survey took place enabling us to address areas for improvement to make the Group a better
+place towork. The feedback from this engagement has been considered by the Directors and has helped
+to inform short-term actions and long-term people strategies.
+Clients
+We have long-term relationships with our client across multiple contracts. We aim to meet the specific
+need of our clients to deliver best in class solutions. During the year we continued to have key account
+support and face-to-face meetings to continue to invest in these relationships.
+Suppliers and subcontractors
+Dialogue with suppliers and subcontractors is important to mitigate supply chain risk and to ensure we
+have access to the most cost effective and reliable products and services. During the year we worked
+closely with our supply chain to ensure we can meet our business requirements in a sustainable way.
+Having key account support and face-to-face meetings helps to build trust and long-term relationships
+which is beneficial to both parties.
+Our code of conduct sets out clear standards regarding our ways of working with our supply chain. The
+code of conduct emphasizes ethical business practices, transparency, and integrity. The code of conduct
+applies to all employees within the Group, regardless of their role or level of seniority. Through our
+anonymous whistleblowing service, we also encourage employees to report any concerns about
+misconduct or wrongdoing. This commitment underlines our dedication to maintain exemplary high
+standards of business conduct and act fairly throughout our operations.
+Communities and the environment
+During the year, we continued to collaborate with local schools to encourage an interest in STEM
+(science, technology, engineering, and maths) subjects among school students and help to raise
+awareness of careers in our sector. Through our workshops, many students get a taste of our staffs
+challenges and an understanding of the practical application of STEM subjects. Year after year, we
+continue to increase the number of school workshops delivered and reach a larger audience of students,
+enriching the educational experience for students and establishing a mutually beneficial relationship
+between the education sector and the Group, supporting our future talent recruitment and ensuring young
+people gain meaningful employment.
+
+8
+
+=== page 11 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Strategic report
+for the year ended 31 March 2026 (continued)
+Section 172(1) statement (continued)
+What our stakeholders have told us matters most to them (continued)
+Additionally, we continued to actively partner with the armed forces by offering meaningful and fulfilling
+careers to those who have served their country. We continue to expand our apprentice and graduate
+intake and create new programmes for the long-term unemployed. The Directors receive periodic -
+updates on these initiatives and ensure their wider visibility in the organisation.
+As set out on page 11, we are committed to minimising our environmental impact, promoting good
+environmental practice across all our operations. ESG metrics are presented to the Directors periodically.
+' Shareholders
+Our shareholders aim to continue to increase the long-term strategic value of the Company in partnership
+with the management team. We target long term profitable growth, both organically and through
+acquisitions that enable a broadening of the Company’s service offering.
+The strategic report was approved and authorised for issue by the Board of Directors.
+On behalf of the Board,
+y Pectucu Gasben
+P Carolan
+Director
+. 3 July 2026
+Registered Number: 07563201 . .
+Abel Smith House
+Gunnels Wood Road
+Stevenage
+Hertfordshire
+: SG1 2ST
+9
+
+=== page 12 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Directors’ report
+for the year ended 31 March 2026
+The Directors present their annual report together with the audited financial statements of the Company
+: for the year ended 31 March 2026.
+Information disclosed within the Strategic report
+In accordance with section 414c (11) of the Companies Act 2006, the Directors have chosen to include
+the principal activities of the Company; review of the business; engagement with suppliers, clients and
+others; and future developments in the strategic Report.
+Dividends ‘
+: An intragroup dividend of £28m was paid in the year to the Company’s immediate parent undertaking M
+Group Telecoms Holdings Limited (2025: £Nil).
+. Directors
+The Directors who served during the year and up to the date of signing were as follows:
+P Carolan .
+AR Findlay
+KM Fuller
+C Keen
+AHP Loosveld
+MA Turner
+DW Whyte (appointed on 24 November 2025)
+J Yarr ,
+Third party indemnity
+All Directors of the Company are covered by qualifying third-party indemnity insurance taken out by
+M Group Services Limited, intermediate parent company, as allowed by section 234 of the Companies
+Act 2006. These insurances were in force throughout the period to 31 March 2026 and continue to the
+date of signing the financial statements.
+Going concern
+Profit for the financial year was £24.9m (2025: £18.1m). The Company had net assets of £42.4m (2025:
+£45.5m) and cash at bank and in hand of £2.2m (2025: £2.1m). The Company has net current liabilities
+of £48.5m primarily due to the structure of intercompany funding provided to other group companies
+during the year.
+The Directors have undertaken the going concern assessment for the Group for a minimum of 12 months
+from the date of signing these financial statements.
+The Directors have taken into account the outlook for the Group including the resilient sectors in which
+. it operates, the nature of the essential services that we provide to critical national infrastructure, and the
+strong long-term order book (including extensions) with its blue-chip client. The Directors have also taken
+into account uncertainties in preparing financial projections and assessing the future prospects of the
+, Group.
+The Company has access, if needed, to funding from M Group Limited, the parent undertaking of the
+largest group to consolidate these financial statements, which has confirmed its intention to support the
+business for a period of at least twelve months from the date of approval of the financial statements.
+10
+
+=== page 13 ===
+. M Group Telecom (Fixed Network Solutions) Limited
+Directors’ report
+for the year ended 31 March 2026 (continued)
+Going concern (continued)
+Accordingly, based on the Company’s financial and liquidity projections, the expectations of no significant
+changes to the business plan, and the current expectations of the Directors about the prospects of the
+Company, the financial statements have been prepared on the going concern basis.
+Post balance sheet events
+There are no material events since the Balance Sheet date which require disclosure.
+Research & Development
+The Company continues to drive performance improvement, create value adding and innovative
+solutions to client issues across each of our sector businesses. Activities are broad and diverse, such as
+the customisation of applications, technological advances to mobile apps, automated detection systems
+and virtual mapping platforms. During the year the Company incurred a research and development
+expenditure of £72k (2025: received a credit of £105k).
+Financial risk management objectives and policies
+Financial risk faced by the Company include liquidity and funding risk, market risk including interest rate
+risk, inflation risk, and credit risk. The Company reviews these risks on an ongoing basis in accordance
+: with internal policies.
+Liquidity risk
+The Company’s cash and short-term liabilities are managed centrally by the Group. The liquidity and
+funding risk is the risk that the Group will encounter difficulty in meeting the obligations associated with
+its financial fiabilities. The Group finances its liquidity position and its operations by a combination of
+retained profits, bank borrowings and leases. The Group policy is to maintain a level of cash together
+with sufficient committed bank facilities to meet liquidity needs and to fund acquisition opportunities as
+they arise, to maintain a smooth debt profile and to ensure senior bank debt does not exceed the
+: covenants ratios set in the senior facility agreement.
+
+Market risk :
+The Company is exposed to various elements of market risk, which include inflation risk. The Company
+is not exposed to significant foreign exchange risk as it operates in the UK and has no overseas :
+subsidiaries. Interest rate risk is the risk that debt issued at variable interest rates will give rise to cash
+flow risk, management reviews debt commitments and cash flow forecasts on a regular basis to manage
+this risk. Inflation risk is the risk that inflationary uplifts in rates will give rise to cash flow risk, the Company
+manages this risk mainly via framework agreements with a contractual allowance for annual inflationary
+uplift.
+Credit risk
+Credit risk represents the risk that a counterparty will not meet its obligations leading to a financial loss
+for the Company. Credit risk arises from cash at bank, and debtors. For cash at bank, the Company holds
+positions with an approved list of investment-grade rated counterparties. Maximum exposure to credit
+risk at the end of the reporting period reflects the carrying amount of the Company's financial assets,
+including cash at bank and debtors, the majority of which relate to amounts owed by group undertakings.
+These are considered low risk due to the expectation that balances will be settled in the normal course
+of business, and the fact that companies within the Group have access to funding, if required, from M
+Group Limited.
+
+"1
+
+=== page 14 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Directors’ report
+for the year ended 31 March 2026 (continued)
+Employee engagement
+Employees are kept informed on matters affecting them. The Company communicates through regular
+briefings, presentations, electronic mailings, an intranet and the wide circulation of publications, to
+achieve awareness of all employees in relation to the financial and economic factors that affect the
+performance of the Company. Reward and recognition schemes are in place to encourage participation
+in the Company’s performance, highlight the achievements and successes of our people and to thank
+them for their hard work and dedication. Employees are encouraged to participate in a confidential
+opinion survey carried out annually.
+Disabled employees
+The Company is an equal opportunities employer and applications from disabled persons are fully and
+fairly considered, having regard to the aptitudes and abilities of the applicant. In the event of disability,
+every effort is made to ensure that employment continues, and appropriate training is given. Career
+development and promotion of disabled people is, as far as possible, identical to that of other employees.
+Modern slavery and Human rights
+The Company supports and carries out its business in a manner compatible with the protection of
+individuals’ human rights. The Company does this through its compliance with relevant legislation and
+through its insistence on ethical business practices. The Company has policies that reflect the rights
+granted to individuals under the Human Rights Act 1998, such as the areas of non-discrimination, data
+protection, dignity at work and health and wellbeing. Furthermore, the Company is committed to
+preventing modern slavery and human trafficking in all its activities and ensures that its supply chains
+are free from slavery and human trafficking, as set out in our most recent Madern Slavery Statement
+available here: https://mgroupltd.com/media/afqneebw/modern-slavery-report-2025.pdf.
+Stakeholders’ engagement
+Based on our engagement with and feedback from stakeholders, we factor their views into the decision
+making of the Board. Our statement describing how the Board has had regard to the matters set out in
+section 172 (1) (a) to (f) of the Companies Act 2006 when performing its duty under section 172(1) is set
+out on pages 7 to 9.
+Environmental performance
+Everyone at the Company provides a vital service or solution that ensures the essential infrastructure
+services of everyday life meets the needs of millions of people across the UK and Ireland. Our philosophy
+is to be ‘for more than profit’ and now, more than ever, we are driving an ethos that ensures our operations
+are responsible, sustainable, and beneficial to the environmental and communities in which we work.
+Our people work in every environment from the busiest towns and cities through to the remotest areas. .
+In all that we do, we aim to minimise our environmental impact. It is our responsibility to share good
+environmental practice while continuing to develop sustainable processes and behaviours across our
+business and to our clients’ and supply chain.
+The Company is a subsidiary undertaking that is included in the consolidated environmental performance
+disclosures, including disclosures required under Streamlined Energy and Carbon Reporting (“SECR”)
+of M Group Limited, the parent undertaking of the largest group to consolidate these financial statements.
+As such, it has taken the exemption from preparing a Company specific SECR disclosure.
+
+12
+
+=== page 15 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Directors’ report
+for the year ended 31 March 2026 (continued)
+: Statement of Directors’ responsibilities
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance
+with applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year. Under that
+law the Directors have prepared the Company’s financial statements in accordance with United Kingdom
+Generally Accepted Accounting Practice (United Kingdom Accounting Standards, comprising FRS 102 .
+“The Financial Reporting Standard applicable in the UK and Republic of Ireland”, and applicable law).
+Under company law the Directors must not approve the financial statements unless they are satisfied
+that they give a true and fair view of the state of affairs of the Company and of the profit or loss of the
+Company for that year. In preparing the financial statements, the Directors are required to:
+e select suitable accounting policies and then apply them consistently;
+e state whether applicable United Kingdom Accounting Standards, comprising FRS 102, have
+been followed;
+e make judgements and accounting estimates that are reasonable and prudent; and
+¢ prepare the financial statements on the going concern basis unless it is inappropriate to presume
+that the Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and
+explain the Company's transactions and disclose with reasonable accuracy at any time the financial
+position of the Company and enable them to ensure that the financial statements comply with the
+Companies Act 2006.
+The Directors are also responsible for safeguarding the assets of the Company and hence for taking
+reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors of the Company are responsible for the maintenance and integrity of the corporate and
+financial information included on the Company's website. Legislation in the United Kingdom governing
+the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+Statement of disclosure of information to auditor
+In the case of each Director in office at the date the Directors’ Report is approved:
+: e so far as the Director is aware, there is no relevant audit information of which the Company's
+auditor are unaware; and
+e they have taken all the steps that they ought to have taken as a Director in order to make
+themselves aware of any relevant audit information and to establish that the Company's auditor
+is aware of that information.
+This confirmation is given and should be interpreted in accordance with the provisions of s418 of the
+Companies Act 2006.
+; 13
+
+=== page 16 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Directors’ report
+for the year ended 31 March 2026 (continued) ;
+Statement of Directors’ responsibilities (continued) -
+Auditor
+Aresolution to appoint KPMG as auditor for the Group and its undertakings (including the Company) will
+: be proposed at the forthcoming Annual General Meeting.
+The Directors’ report was approved and authorised for issue by the Board of Directors. 7
+On behalf of the Board, :
+P Carolan ,
+Director
+3 July 2026 :
+Registered Number: 07563201 , Abel Smith House
+Gunnels Wood Road
+Stevenage
+Hertfordshire
+SG1 2ST
+5 .
+14
+
+=== page 17 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Independent auditor’s report to the members of M Group Telecom
+(Fixed Network Solutions) Limited
+Report on the audit of the financial statements
+Opinion
+In our opinion the financial statements of M Group Telecom (Fixed Network Solutions) Limited:
+¢ give a true and fair view of the state of the company's affairs as at 31 March 2026 and of its profit for
+the year then ended;
+e have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice, including Financial Reporting Standard 102 “The Financial Reporting Standard applicable
+in the UK and Republic of Ireland”; and .
+« have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements which comprise:
+e the statement of comprehensive income;
+e the balance sheet;
+e the statement of changes in equity;
+e the related notes 1 to 25.
+The financial reporting framework that has been applied in their preparation is applicable law and United
+Kingdom Accounting Standards, including Financial Reporting Standard 102 “The Financial Reporting
+Standard applicable in the UK and Republic of freland” (United Kingdom Generally Accepted Accounting
+Practice).
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and
+applicable law. Our responsibilities under those standards are further described in the auditor's
+responsibilities for the audit of the financial statements section of our report.
+We are independent of the company in accordance with the ethical requirements that are relevant to our
+audit of the financial statements in the UK, including the Financial Reporting Council’s (the ‘FRC’s’)
+Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these
+requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to
+provide a basis for our opinion.
+Conclusions relating to going concern :
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis
+: of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to
+events or conditions that, individually or collectively, may cast significant doubt on the company’s ability
+to continue as a going concern for a period of at least twelve months from when the financial statements
+are authorised for issue.
+15
+
+=== page 18 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Independent auditor’s report to the members of M Group Telecom
+(Fixed Network Solutions) Limited (continued)
+Conclusions relating to going concern (continued) .
+Our responsibilities and the responsibilities of the directors with respect to going concern are described
+in the relevant sections of this report. :
+Other information
+The other information comprises the information included in the annual report, other than the financial
+statements and our auditor’s report thereon. The directors are responsible for the other information
+contained within the annual report. Our opinion on the financial statements does not cover the other
+information and, except to the extent otherwise explicitly stated in our report, we do not express any form
+of assurance conclusion thereon. ,
+Our responsibility is to read the other information and, in doing so, consider whether the other information
+is materially inconsistent with the financial statements or our knowledge obtained in the course of the
+audit, or otherwise appears to be materially misstated. If we identify such material inconsistencies or
+apparent material misstatements, we are required to determine whether this gives rise to a material
+misstatement in the financial statements themselves. If, based on the work we have performed, we
+conclude that there is a material misstatement of this other information, we are required to report that
+fact.
+We have nothing to report in this regard.
+Responsibilities of directors :
+As explained more fully in the directors’ responsibilities statement, the directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for
+such internal control as the directors determine is necessary to enable the preparation of financial
+statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the company’s ability
+to continue as a going concern, disclosing, as applicable, matters related to going concern and using the
+going concern basis of accounting unless the directors either intend to liquidate the company or to cease
+operations, or have no realistic alternative but to do so.
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the
+basis of these financial statements. ;
+
+16
+
+=== page 19 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Independent auditor’s report to the members of M Group Telecom
+(Fixed Network Solutions) Limited (continued) ;
+Auditor’s responsibilities for the audit of the financial statements (continued)
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s
+website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect
+of irregularities, including fraud. The extent to which our procedures are capable of detecting
+irregularities, including fraud is detailed below.
+We considered the nature of the company’s industry and its control environment, and reviewed the
+company’s documentation of their policies and procedures relating to fraud and compliance with laws
+and regulations. We also enquired of management, internal audit and the directors about their own
+identification and assessment of the risks of irregularities, including those that are specific to the
+company’s business sector.
+We obtained an understanding of the legal and regulatory frameworks that the company operates in, and
+identified the key laws and regulations that:
+« had a direct effect on the determination of material amounts and disclosures in the financial
+statements. These included UK Companies Act and tax legislation; and
+e donot havea direct effect on the financial statements but compliance with which may be fundamental
+to the company’s ability to operate or to avoid a material penalty. These included employee laws,
+health and safety, environmental regulations, GDPR and the Bribery Act.
+We discussed among the audit engagement team including relevant internal specialists suchas tax and
+IT regarding the opportunities and incentives that may exist within the organisation for fraud and how
+and where fraud might occur in the financial statements.
+As a result of performing the above, we identified the greatest potential for fraud in the following area,
+and our procedures performed to address it are described below:
+e The accuracy of revenue recognised on unbilled, unagreed and uncertified WIP that remains
+outstanding at the year-end: .
+
+o Evaluating management's assessment on the overall customer contract performance
+during the period to understand any key issues around the contract and challenge the
+rationale for material provisions, contract positions and judgements made by
+management;
+
+o Assessing the accuracy of the revenue recognised and ageing of the WIP through
+testing on a sample basis and agreeing the revenue to be recognised on WIP to
+management reporting and confirmations from commercial teams; and
+
+7
+
+=== page 20 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Independent auditor’s report to the members of M Group Telecom
+; (Fixed Network Solutions) Limited (continued)
+
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+
+(continued)
+
+o Obtaining an understanding from respective financial and Commercial Directors of the
+WIP position at year-end and any judgements around recoverability issues and
+evaluating residual balances that remain unpaid for collectability.
+
+In common with all audits under ISAs (UK), we are also required to perform specific procedures to
+respond to the risk of management override. In addressing the risk of fraud through management
+override of controls, we tested the appropriateness of journal entries and other adjustments; assessed
+whether the judgements made in making accounting estimates are indicative of a potential bias; and
+evaluated the business rationale of any significant transactions that are unusual or outside the normal
+course of business.
+
+In addition to the above, our procedures to respond to the risks identified included the following:
+
+e reviewing financial statement disclosures by testing to supporting documentation to assess
+compliance with provisions of relevant laws and regulations described as having a direct effect on ,
+the financial statements;
+
+e performing analytical procedures to identify any unusual or unexpected relationships that may
+indicate risks of material misstatement due to fraud;
+
+e® enquiring of management, internal audit and in-house legal counsel concerning actual and potential
+litigation and claims, and instances of non-compliance with laws and regulations; and /
+
+e reading minutes of meetings of those charged with governance, reviewing internal audit reports and
+reviewing correspondence with HMRC.
+
+Report on other legal and regulatory requirements
+
+Opinions on other matters prescribed by the Companies Act 2006
+
+In our opinion, based on the work undertaken in the course of the audit:
+
+e the information given in the strategic report and the directors’ report for the financial year for which
+the financial statements are prepared is consistent with the financial statements; and
+
+e the strategic report and the directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+In the light of the knowledge and understanding of the Company and its environment obtained in the
+
+course of the audit, we have not identified any material misstatements in the strategic report or the
+
+directors’ report. —-
+18
+J
+
+=== page 21 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Independent auditor’s report to the members of M Group Telecom
+(Fixed Network Solutions) Limited (continued)
+Matters on which we are required to report by exception :
+Under the Companies Act 2006 we are required to report in respect of the following matters if, in our
+opinion:
+e adequate accounting records have not been kept, or returns adequate for our audit have not been :
+received from branches not visited by us; or
+e the financial statements are not in agreement with the accounting records and returns; or
+e certain disclosures of directors’ remuneration specified by law are not made; or
+e¢ we have not received all the information and explanations we require for our audit. :
+We have nothing to report in respect of these matters.
+Use of our report
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part
+16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the
+company's members those matters we are required to state to them in an auditor's report and for no
+other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone
+other than the company and the company's members as a body, for our audit work, for this report, or for
+the opinions we have formed.
+kale Dowson
+
+Kate Darlison, FCA (Statutory auditor) .
+For and on behalf of Deloitte LLP
+Statutory Auditor
+London, United Kingdom
+03 July 2026 ;
+
+. 19
+
+=== page 22 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Statement of comprehensive income
+for the year ended 31 March 2026 ,
+Year to 31 = Year to 31
+Notes March 2026 March 2025
+£000 £'000
+OT  Reclassified™
+(Note 7)
+. Gross profit 51,220 38,132
+Administrative expenses (17,885) (20,853)
+Other operating (expenses income 108
+Operating profit 7 33,263 17,384
+Profit before taxation. 33,884 20,434
+Profit for the financial year 24,856 18,090
+Other comprehensive income forthe year
+Total comprehensive income fortheyear CCHS 18,090
+The accompanying notes on pages 23 to 42 are an integral part of these financial statements. :
+The above result relates to continuing operations for the current financial year.
+20
+
+=== page 23 ===
+M Group Telecom (Fixed Network Solutions) Limited :
+Balance sheet
+; as at 31 March 2026
+At 31 March = At 31 March
+2026 2025
+Notes £000 £000
+Fixed assets
+Intangible assets 1 2,623 3,099
+Tangible assets 12 1,473 1,873
+Loans to group undertakings 13 100,000 20,425
+. . 104,096 25,397
+Current assets
+, Debtors 14 51,641 96,583
+Cash at bank and in hand 2,234 2,116
+53,875 98,699
+Creditors: amounts falling due within one year 15 (102,344) (72,831)
+Net current (liabilities) / assets (48,469) 25,868
+Total assets less current liabilities 55,627 51,265
+Creditors: amounts falling due after more than one year 16 (1,170) (1,490)
+Provisions for liabilities 18 (12,026) (4,282)
+Net assets 42,431 45,493
+Capital and reserves
+Called up share capital 20 - -
+Share based payment reserve 125 43
+Profit and loss account 20 42,306 45,450 :
+Shareholders’ funds 42,431 45,493
+The notes on pages 23 to 42 are an integral part of these financial statements.
+The financial statements on pages 20 to 42 were approved and authorised for issue by the Board of
+Directors on 3 July 2026 and were signed on its behalf by:
+Petnce Corson UNAS
+P Carolan K M Fuller
+Director Director
+M Group Telecom (Fixed Network Solutions) Limited :
+Registered Number: 07563201 .
+24
+
+=== page 24 ===
+‘M Group Telecom (Fixed Network Solutions) Limited
+Statement of changes in equity
+for the year ended 31 March 2026
+, Called up Share based Profit and loss Shareholders’
+share capital payment reserve account funds
+£7000 £'000 £000 £000
+Balance as at 1 April 2024 . . 27,360 27,360
+Total comprehensive income for . . 18,090 18,090
+the year .
+Share based payment ° 48 : 43
+Balance as at 31 March 2025 a 43 45,450 45,493
+Total comprehensive income for . . 24,856 24,856
+the year
+Share based payment ° 82 . 82
+Dividends paid (Note 20) 7 : (28,000) (28,000)
+Balance as at 31 March 2026 ° 128 42,306 42,431
+The notes on pages 23 to 42 are an integral part of these financial statements. .
+: 22
+
+=== page 25 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026
+
+1 General information
+The Company is a private company limited by shares incorporated in the United Kingdom under the
+Companies Act 2006 and is registered in England. The address of its registered office is Abel Smith
+House, Gunnels Wood Road, Stevenage, Hertfordshire, SG1 2ST.
+
+2 Statement of compliance
+The individual financial statements of M Group Telecom (Fixed Network Solutions) Limited have been
+prepared in compliance with United Kingdom Accounting Standards, including Financial Reporting
+Standard 102, “The Financial Reporting Standard applicable in the United Kingdom and the Republic
+of Ireland” ("FRS 102”) and the Companies Act 2006.
+
+3 Summary of significant accounting policies
+The principal accounting policies applied in the preparation of these financial statements are set out
+below. These policies have been consistently applied to all the periods presented, unless otherwise
+stated. .
+Basis of preparation
+The financial statements are prepared on a going concern basis under the historical cost convention.
+The preparation of financial statements in conformity with FRS 102 requires the use of certain critical
+accounting estimates. It also requires management to exercise its judgement in the process of applying
+the Company's accounting policies. The areas involving a higher degree of judgement or complexity,
+or areas where assumptions and estimates are significant to the financial statements are disclosedin
+note 4.
+Exemptions for qualifying entities under FRS 102
+FRS 102 allows a qualifying entity certain disclosure exemptions, subject to certain conditions which
+have been complied with. The Company is a qualifying entity as its results are consolidated into the
+financial statements of M Group Limited (the “Group”) which are publicly available.
+As a qualifying entity the Company has taken advantage of the following exemptions
+
+« from preparing a statement of cash flows, as allowed by FRS 102 paragraph 1.12(b)
+
+« from disclosing a table of financial instruments as allowed by FRS 102 paragraph 1.12(c)
+
+e from disclosing transactions with entities that are part of the M Group Limited where 100% of the
+voting rights of these entities are controlled within the Group as required by FRS 102 paragraph
+33.1A
+
+« from disclosing share-based payment arrangements, required under FRS 102 paragraphs
+26.18(b), 26.19 to 26.21 and 26.23
+
+e from disclosing key management personnel compensation, as required by FRS 102 paragraph
+33.7.
+
+23
+
+=== page 26 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+3 Summary of significant accounting policies (continued) :
+
+Going concern
+Profit for the financial year was £24.9m (2025: £18.1m). The Company had net assets of £42.4m
+(2025: £45.5m) and cash at bank and in hand of £2.2m (2025: £2.1m). The Company has net current
+liabilities of £48.5m primarily due to the structure of intercompany funding provided to other group
+companies during the year.
+The Directors have undertaken the going concern assessment for the Group for a minimum of 12
+months from the date of signing these financial statements.
+The Directors have taken into account the outlook for the Group including the resilient sectors in which
+it operates, the nature of the essential services that we provide to critical national infrastructure, and
+the strong long-term order book (including extensions) with its blue-chip client. The Directors have also
+taken into account uncertainties in preparing financial projections and assessing the future prospects
+of the Group.
+The Company has access, if needed, to funding from its ultimate holding company M Group Limited
+the parent undertaking of the largest group to consolidate these financial statements, which has
+confirmed its intention to support the business for a period of at least twelve months from the date of
+approval of the financial statements.
+Accordingly, based on the Company’s financial and liquidity projections, the expectations of no
+significant changes to the business plan, and the current expectations of the Directors about the
+prospects of the Company, the financial statements have been prepared on the going concern basis.
+Foreign currencies
+The Company's functional and presentation currency is in pound sterling. Monetary amounts in these
+financial statements are rounded to the nearest thousand.
+Revenue recognition
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the
+Company and that these benefits can be measured reliably.
+Revenue is measured at the fair value of the consideration received or receivable for goods and
+services provided and net of discounts and value added taxes.
+Contract income :
+The activities of the Company are largely undertaken through long-term framework contracts. Under
+these contracts revenue is recognised in line with each separate service completed. Where losses are
+foreseeable in respect of future supplies committed under these framework contracts, appropriate
+provisions are made. In addition, an accrual is maintained for future remedial works that may be
+required in respect of supplies already made.
+
+24
+
+=== page 27 ===
+M Group Telecom (Fixed Network Solutions) Limited a
+Notes to the financial statements -
+for the year ended 31 March 2026 (continued)
+3 Summary of significant accounting policies (continued)
+: Revenue recognition (continued)
+Amounts recoverable on contracts are stated as accrued income less provision for losses and
+payments on account. Payments on account in excess of amounts recoverable on contracts are
+included in creditors.
+Employee benefits
+Short-term benefits
+Short-term benefits, including holiday pay and other similar non-monetary benefits, are recognised as
+an expense in the period in which the service is received.
+Defined contribution pension plans
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the Company pays fixed contributions into a separate entity. Once the
+contributions have been paid the Company has no further payment obligations. The contributions are
+recognised as an expense when they are due. Amounts not paid are shown in accruals in the balance
+sheet. The assets of the plan are held separately from the Company in independently administered
+funds. :
+Taxation :
+Taxation expense for the year comprises current and deferred tax recognised in the reporting year.
+Tax is recognised in the profit and loss account.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax
+Current tax is the amount of income tax payable in respect of the taxable profit for the year. Tax is
+: calculated on the basis of tax rates and laws that have been enacted by the year end.
+
+Management periodically evaluates positions taken in tax returns with respect to situations in which
+applicable tax regulation is subject to interpretation. It establishes provisions where appropriate on the
+basis of amounts expected to be paid to the tax authorities.
+Deferred tax
+Deferred tax arises from timing differences that are differences between taxable profits and total
+comprehensive income as stated in the financial statements.
+These timing differences arise from the inclusion of income and expenses in tax assessments in
+periods different from those in which they are recognised in financial statements. Deferred tax is
+recognised on all timing differences at the reporting date except for certain exceptions.
+
+25
+
+=== page 28 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+3 Summary of significant accounting policies (continued)
+
+Taxation (continued) :
+Unrelieved tax losses and other deferred tax assets are only recognised when it is probable that they
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Deferred
+tax is measured using tax rates and laws that have been enacted or substantively enacted by the year
+end and that are expected to apply to the reversal of the timing difference.
+Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within
+debtors. Deferred tax assets and deferred tax liabilities are offset only when the Company has a right
+to set off related current tax assets and tax liabilities, which is generally the case for balances within
+the same taxable entity.
+Business combinations and goodwill _
+Business combinations are accounted for by applying the purchase method.
+The cost of a business combination is the fair value of the consideration given, liabilities incurred or .
+assumed and of equity instruments issued plus the costs directly attributable to the business
+combination.
+On acquisition of a business, fair values are attributed to the identifiable assets, liabilities and
+contingent liabilities unless the fair value cannot be measured reliably, in which case the value is
+incorporated in goodwill. Where the fair value of contingent liabilities cannot be reliably measured, they
+are disclosed on the same basis as other contingent liabilities.
+Goodwill recognised represents the excess of the fair value and directly attributable costs of the
+purchase consideration over the fair values to the Company's interest in the identifiable net assets,
+liabilities and contingent liabilities acquired.
+On acquisition, goodwill is allocated to cash-generating units (CGU) that are expected to benefit from
+the combination.
+Goodwill is amortised over its expected useful life, which is estimated to be ten years.
+Intangible assets .
+Intangible assets are stated at cost less accumulated amortisation and accumulated impairment
+losses. Amortisation is calculated, using the straight-line method, to allocate the amortisable amount
+of the assets less their estimated residual value over their expected useful lives, which is estimated to
+be 3 to 10 years for software.
+Amortisation is charged to the profit and loss account.
+The assets are reviewed for impairment if the above factors indicate that the carrying amount may be ,
+impaired. :
+
+26
+
+=== page 29 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+3 Summary of significant accounting policies (continued)
+Tangible assets
+Tangible assets are included at historic purchase cost less accumulated depreciation and accumulated
+impairment losses. Cost includes the original purchase price of the asset and the costs directly
+attributable to bringing the asset into its working condition for its intended use.
+Depreciation and residual values
+: Depreciation of assets is calculated at rates expected to write off cost less the estimated residual value
+of the relevant assets over their expected useful lives. The expected useful lives of the assets to the
+business are reassessed periodically in light of experience. The expected useful lives used are
+principally 1 to 15 years for vehicles, plant, fixtures, fittings and equipment.
+Derecagnition
+Tangible assets are derecognised on disposal or when no future economic benefits are expected. On
+disposal, the difference between the net disposal proceeds and the carrying amount is recognised in
+the profit or loss.
+Impairment of non-financial assets
+Non-financial assets are assessed for indicators of impairment at each balance sheet date. If there is
+objective evidence of impairment, an impairment loss is recognised in profit or loss as described below.
+An asset is impaired where there is objective evidence that, as a result of one or more events that
+occurred after initial recognition, the estimated recoverable value of the asset has been reduced. The
+recoverable amount of an asset is the higher of its fair value less costs to sell and its value in use.
+The recoverable amount of goodwill is derived from measurement of the present value of the future
+. cash flows of the cash-generating units of which the goodwill is a part. Any impairment loss in respect
+of a CGU is allocated first to the goodwill attached to that CGU, and then to other assets within that
+CGU on a pro-rata basis.
+Where indicators exist for a decrease in impairment loss previously recognised for assets other than
+goodwill, the prior impairment loss is tested to determine reversal. An impairment loss is reversed on
+an individual impaired asset to the extent that the revised recoverable value does not lead to a revised
+carrying amount higher than the carrying value had no impairment been recognised. Where a reversal
+of impairment occurs in respect of a CGU, the reversal is applied first to the assets of the CGU, except
+for goodwill, on a pro-rata basis. Impairment of goodwill is never reversed.
+27
+
+=== page 30 ===
+M Group Telecom (Fixed Network Solutions) Limited
+
+Notes to the financial statements
+
+for the year ended 31 March 2026 (continued)
+
+3. Summary of significant accounting policies (continued)
+
+Provisions and contingencies
+
+Provisions
+
+A provision is recognised when the Company has a present legal or constructive obligation as a result
+
+of a past event for which it is probable that an outflow of resources will be required to settle the
+
+obligation and the amount can be reliably estimated. The amount recognised as a provision is the best
+
+estimate of the consideration required to settle the present obligation at the balance sheet date, taking
+
+into account the risks and uncertainties surrounding the obligation. If the effect is material, and where
+
+provisions are determined by discounting the expected future cash flows at a pre-tax rate, that reflects
+
+current market assessments of the time value of money and, where appropriate, the risks specific to
+
+the liability. The increase in the provision due to passage of time is recognised as a finance cost. A
+
+provision for onerous contracts is recognised for contracts in which the unavoidable costs of meeting
+
+the obligations under the contract exceed the economic benefits expected to be received under it.
+
+Contingencies
+
+Contingent liabilities arising as a result of past events are not recognised when (i) it is not probable
+: that there will be an outflow of resources or that the amount cannot be reliably measured at the
+
+reporting date or (ii) the existence will be confirmed by the occurrence or non-occurrence of uncertain
+
+future events not wholly within the Company’s control. Contingent liabilities are disclosed in the
+
+financial statements unless the probability of an outflow of resources is remote. Contingent assets are
+
+not recognised. Contingent assets are disclosed in the financial statements when an inflow of
+
+economic benefits is probable.
+
+Leased assets
+
+At inception the Company assesses agreements that transfer the right to use assets to the Company.
+
+The assessment considers whether the arrangement is, or contains, a lease based on the substance
+
+of the arrangement.
+
+Operating leased assets
+
+Leases that do not transfer all the risks and rewards of ownership are classified as operating leases.
+
+Payments under operating leases are charged to the profit or loss on a straight-line basis over the
+
+period of the lease.
+
+Finance leased assets
+
+Lease of assets that transfer substantially all the risks and rewards incidental to ownership are
+
+classified as finance leases.
+
+Finance leases are capitalised at commencement of the lease as fixed assets at the fair value of the
+
+leased asset, or if lower, the present value of the minimum lease payments calculated using the interest
+
+rate implicit in the lease. Where the implicit rate cannot be determined the Company’s incremental
+
+borrowing rate is used. Incremental direct costs, incurred in negotiating and arranging the lease, are
+
+included in the cost of the asset.
+
+28
+
+=== page 31 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+3 Summary of significant accounting policies (continued)
+
+Leased assets (continued)
+Assets are depreciated over the shorter of the lease term and the estimated useful life of the asset.
+Assets are assessed for impairment at each reporting date.
+The capital element of lease obligations is recorded as a liability on inception of the arrangement.
+Lease payments are apportioned between capital repayment and finance charge, using the effective
+interest rate method, to produce a constant rate of charge on the balance of the capital repayments
+outstanding.
+Cash and cash equivalents . ,
+Cash and cash equivalents includes deposits held at call with banks, other short-term highly liquid
+investments with original maturities of three months or less and bank overdrafts. Bank overdrafts are
+shown within borrowings in creditors falling due within one year.
+Financial instruments
+The Company has chosen to adopt Sections 11 and 12 of FRS 102 in respect of financial instruments.
+Financial assets
+Basic financial assets, including trade and other debtors, amounts recoverable on contracts, cash and
+bank balances, and loans to fellow Group companies are initially recognised at transaction price,
+unless the arrangement constitutes a financing transaction, where the transactionis measured at the
+present value of the future receipts discounted at a market rate of interest.
+Such assets are subsequently carried at amortised cost using the effective interest method.
+At the end of each reporting period financial assets measured at amortised cost are assessed for
+objective evidence of impairment. If an asset is impaired the impairment loss is the difference between
+the carrying amount and the present value of the estimated cash flows discounted at the asset's *
+original effective interest rate. The impairment loss is recognised in profit or loss.
+If there is a decrease in the impairment loss arising from an event occurring after the impairment was
+recognised the impairment is reversed. The reversal is such that the current carrying amount does not
+exceed what the carrying amount would have been had the impairment not previously been
+recognised. The impairment reversal is recognised in profit or loss.
+Financial assets are derecognised when (a) the contractual rights to the cash flows from the asset
+expire or are settled, or (b) substantially all the risks and rewards of the ownership of the asset are
+transferred to another party or (c) control of the asset has been transferred to another party who has
+the practical ability to unilaterally sell the asset to an unrelated third party without imposing additional
+restrictions. : .
+
+29
+
+=== page 32 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+3 Summary of significant accounting policies (continued)
+
+Financial instruments (continued)
+Financial liabilities
+Basic financial liabilities, including trade and other creditors, loans from fellow Group companies, are
+initially recognised at transaction price, unless the arrangement constitutes a financing transaction,
+where the debt instrument is measured at the present value of the future receipts discounted at a
+market rate of interest.
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+Fees paid on the establishment of loan facilities are recognised as transaction costs of the loan to the /
+extent that it is probable that some or alll of the facility will be drawn down. In this case, the fee is
+deferred until the draw-down occurs. To the extent there is no evidence that it is probable that some
+or all of the facility will be drawn down, the fee is capitalised as a prepayment for liquidity s ervices and
+amortised over the period to which it relates.
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary
+course of business from suppliers. Trade creditors are classified as current liabilities if payment is due
+within one year or less. If not, they are presented as non-current liabilities. Trade creditors are
+recognised initially at transaction price and subsequently measured at amortised cost using the
+effective interest method.
+Financial liabilities are derecognised when the liability is extinguished, that is when the contractual
+obligation is discharged, cancelled, or expires.
+Offsetting
+Financial assets and liabilities are offset, and the net amounts presented in the financial statements
+when there is an enforceable right to set off the recognised amounts and there is an intention to settle
+on a net basis or to realise the asset and settle to liability simultaneously.
+Share capital :
+Ordinary shares are classified as equity. Incremental costs directly attributable to the issue of new
+ordinary shares or options are shown in equity as a deduction, net of tax, from the proceeds.
+Distributions to equity holders
+Dividends and other distributions to the Company’s shareholders are recognised as a liability in the
+financial statements in the period in which the dividends and other distributions are approved by the
+Company's shareholders. These amounts are recognised in the statement of changes in equity.
+Related party transactions . ‘
+The Company discloses transactions with related parties which are not wholly owned within the same
+Group. Where appropriate, transactions of a similar nature are aggregated unless, in the opinion of
+the Directors, separate disclosure is necessary to understand the effect of the transactions on the
+Company’s financial statements.
+
+. 30
+
+=== page 33 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements ;
+for the year ended 31 March 2026 (continued)
+4 Critical accounting judgements and key sources of estimation uncertainty
+: Estimates and judgements are continually evaluated and are based on historical experience and other
+factors, including expectations of future events that are believed to be reasonable under the
+circumstances. ,
+Critical judgements in applying the entity’s accounting policies
+There are no specific judgements that have been made that would result in a material change to the
+statutory financial statements.
+Critical accounting estimates and assumptions
+The Company makes estimates and assumptions concerning the future. The resulting accounting
+estimates will, by definition, seldom equal the related actual results. However, there are no critical
+estimates and assumptions that have a significant risk of causing a material adjustment to the carrying
+: amount of assets and liabilities within the next financial year.
+Other areas of judgement and accounting estimates
+While these areas do not meet the definition of significant accounting estimates or critical accounting
+judgements, the recognition and measurement of certain material assets and liabilities are based on
+: assumptions and/or are subject to longer term uncertainties.
+The other areas of judgement and accounting estimates are:
+Amounts recoverable on contract provisioning and unbilled or unagreed accrued work in progress
+(WIP) - Accounting estimate
+The Company delivers complex infrastructure projects to both public and private sectors in the UK.
+Consistent with its revenue recognition policy, the Company makes an estimate to value work in
+progress for portion of revenue where work is performed but is not billed and/or agreed with the
+customers as at the year-end. As at the year-end, an estimate of the recoverable value has been made
+and a provision is recorded for any known or anticipated losses. See note 14 for the net carrying
+amount of amounts recoverable on contracts. :
+31
+i
+
+=== page 34 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+. for the year ended 31 March 2026 (continued)
+5 Turnover
+The Company had one class of business providing telecommunications services. All turnover relates :
+~ to activities in the United Kingdom.
+Year ended Year ended
+: 31 March 31 March
+2026 2025
+: £'000 £'000
+Third party turnover : 370,348 241,452
+Intercompany turnover 2,661 20,466
+373,009 261,918
+6 Other operating (expenses) / income
+Yearended Year ended
+31 March 31 March
+2026 2025
+: £7000 £'000
+R&D (expenditure)/credit (72) 105
+7 Operating Profit
+. Year ended Year ended
+31 March 31 March
+2026 2025
+£000 £000
+Operating profit is stated after charging:
+
+; Operating lease rentals 1,363 1,000
+Amortisation (Note 11) 1,085 806
+Depreciation (Note 12) 400 400
+Services provided by the Company’s auditor
+
+: Fees payable to the Company’s auditor for the audit of the financial
+statements : 150 211
+: No fees were paid to the Company's auditor in respect of non-audit services (2025: £nil).
+32
+
+=== page 35 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+7 Operating profit (continued)
+*Following the completion of business rationalisation in the current year, and to align with the wider
+Group’s presentation, the prior year classification between cost of sales and administrative expenses
+was incorrect. The impact of this is a £13.9m increase to administrative expense, and a £13.9m
+decrease to cost of sales. There is no net impact on the profit and loss account.
+8 Employees and Directors ©
+Year ended 31 Year ended
+The aggregate remuneration comprised: March 31 March
+2026 2025
+£7000 £000
+Wages and salaries 37,632 32,753
+Social security casts 3,393 " 2,755
+Pension costs 963 944
+Staff costs 41,988 36,452
+The average monthly number of employees (including executive Directors):
+Year ended Year ended
+31 March 31 March
+2026 2025
+Number Number
+Management and supervisory 184 162
+Operational staff 401 451
+; 585 613
+33
+
+=== page 36 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements ;
+for the year ended 31 March 2026 (continued)
+8 Employees and Directors (continued) .
+. Year ended Year ended
+31 March 31 March
+Directors’ remuneration 2026 2025
+£000 £000
+. Emoluments 1,380 1,264
+Pension contributions 77 60
+1,457 1,324
+Highest paid Director
+Emoluments 545 602
+Pension contributions 45 33
+590 635
+Retirement benefits are accruing to three Directors under a defined contribution scheme (2025: three).
+Certain Directors are remunerated for services across anumber of Group entities and the cost is borne
+by the entity in which they are employed, hence there are no costs to include in these financial
+statements. No recharges have been made in the current year in respect of Directors’ services to this
+Company. The disclosures above reflect amounts received by the directors for qualifying services
+provided to this Company.
+, 9 Finance income - net
+: Year ended Year ended
+31 March 31 March
+2026 2025
+£000 £000
+Interest payable and similar expenses
+External payable (2,781) (2,498)
+Total interest payable and similar expenses (2,781) (2,498)
+Interest receivable and similar income
+Interest receivable — Group companies 3,402 5,548
+: : Total interest receivable and similar income 3,402 5,548
+Net finance income - net 621 3,050
+34
+
+=== page 37 ===
+M Group Telecom (Fixed Network Solutions) Limited ;
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+10 Tax on profit
+Tax expense included in profit or loss Yearended Year ended
+31 March 31 March
+2026 2025
+£000 £000
+Current tax:
+UK Corporation Tax 8,746 5,544
+Adjustments in respect of previous periods (80) (3,067)
+Total current tax charge 8,666 2,477
+Deferred tax:
+Origination and reversal of timing differences (Note 18) (26) (263)
+Adjustments in respect of previous periods 388 130
+Total deferred tax charge / (credit) . 362 (133) .
+Tax on profit 9,028 2,344
+Reconciliation of tax expense
+The tax assessed for the year is higher than (2025: lower than) the standard rate of corporation tax in
+the UK of 25% (2025: 25%). The differences are explained below:
+Year ended Year ended
+31 March 31 March
+2026 2025
+£'000 £'000
+§ see
+Profit before taxation 33,884 20,434
+’ Profit before taxation multiplied by the standard UK rate of tax 25%
+(2025: 25%) 8,474 5,109
+Effects of:
+Expenses not deductible for tax purposes 150 127
+Non qualifying depreciation 46 -
+Income not taxable for tax purposes - (8)
+Amortisation of goodwill 53 53
+7 Adjustments in respect of previous periods 308 (2,937)
+Total tax expense for the year 9,028 2,344
+: ; 35
+
+=== page 38 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+10 Tax on profit (continued)
+The deferred taxation balances have been measured using 25%, which is the enacted rate applicable
+: in the reporting periods when the timing differences reverse.
+The Group monitors income tax developments in all jurisdictions in which it operates, including the
+OECD Base Erosion and Profit Shifting (BEPS) initiative (Pillar 2), which may impact the Group’s future
+tax liabilities. The UK has introduced a global minimum corporation tax in line with the OECD Inclusive
+Framework on BEPS, which requires a minimum corporation tax rate of 15% in each jurisdiction in
+which the Group operates.
+The current tax charge, as indicated in the Group statutory accounts, includes the impact of the Global
+Minimum Tax legislation implemented in the UK, specifically a multinational top-up tax of nil for the
+year ended 31 March 2026.
+11 Intangible assets
+Goodwill Software Total
+£000 £7000 £7000
+Cost at 1 April 2025 2,140 2,330 4,470
+Additions - 609 609
+Cost at 31 March 2026 2,140 2,939 5,079
+Accumulated amortisation at 1 April 2025 (456) (915) (1,371)
+Charge for the year , (214) (871) (1,085)
+Accumulated amortisation at 31 March 2026 (670) (1,786) (2,456)
+: Net book value at 31 March 2026 1,470 1,153 2,623
+Net book value at 31 March 2025 1,684 1,415 3,099
+36
+
+=== page 39 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+12 Tangible assets
+Vehicle, fixtures,
+fittings and equipment
+£000
+CostattApril2025,0 2791
+Additions . -
+Costat31March2026 2,794 ~
+Accumulated depreciation at TAprl 2025, = —t—<i=i‘—s™S™S™~*~*~*~*~*~*~*~*~:~:~:”:””~””CSC« BY
+Charge for the year ; (400)
+Accumulated depreciation at 31March 2026  (4,318).
+Net bookvalueat31March 2026 © 4,473
+Netbook valueat31March2025,—t—“‘(}‘‘(‘O‘O(NSNSNNO#*;*~*~*~;”;”OWOWOCA;«CSZ3~
+The net book value of the Company's tangible fixed assets held under finance leases at 31 March
+2026 is £1,381k (2025: £1,743k), of which all of this balance relates to Motor Vehicles.
+13 Loans to group undertakings
+At 31 March = At 31 March
+2026 2025
+£000 £°000
+The amount owed by Group undertakings relates to a loan of £100,000k accruing interest at 8.25%
+with a maturity date of December 2030. :
+: 37
+
+=== page 40 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+14 Debtors
+At 34 At 31
+March 2026 = March 2025
+Amounts falling due within one year £'000 £000
+Trade debtors. ~=—S=SC~C~<“‘“*“‘“‘<CSC 72CTS 8 BOSCSCS*~«S SD
+Amounts recoverable on contracts — external 23,748 10,587
+Amounts owed by Group undertakings 17,881 81,930
+Corporation tax : 48 -
+Other debtors 53 235
+Prepayments : 631 99
+BAT 86,583
+Amounts owed by Group undertakings consist of:
+e loan of £17,500k accruing interest at a variable rate (2.75% as at 31 March 2026) with a
+maturity date of March 2027.
+e the remainder of the balance is interest free and repayable on demand. : :
+15 Creditors: amounts falling due within one year
+At 31 At 31
+, March 2026 March 2025
+£000 £'000
+Tradecreditos ——sssi(itstsi‘s™S™*™*;*;*;”;”;”;*C*CTSCO*«* OS
+Amounts owed to Group undertakings 15,702 13,254
+Corporation tax - 214
+Other taxation and social security , 808 738
+: Obligations under finance leases (Note 17) 320 300
+VAT liability 15,589 7,612
+Contract liabilities 2,639 2,534
+Accruals and deferred income 42,625 33,286
+902,344 72,831
+Amounts owed to Group undertakings are unsecured, interest free and are repayable on demand.
+38
+
+=== page 41 ===
+M Group Telecom (Fixed Network Solutions) Limited
+, Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+15 Creditors: amounts falling due within one year (continued)
+Corporation tax has been included within amounts owed to group undertakings.
+16 Creditors: amounts falling due more than one year ;
+At 31 At 31
+March 2026 = March 2025
+Amounts falling due more than one year £7000 £'000
+Obligations under finance leases (Note 17) 1,170 1,490 :
+1,170 1,490
+17 Finance leases
+. : At 31 At 34
+: March 2026 March 2025
+£000 £000
+Obligations under financeleases ~ 1,490 1,790
+The future minimum finance lease payments are as follows:
+At 31 At 31
+March 2026 March 2025
+£000 £000
+Less than one year 320 300
+Between one and five years 1,170 1,490
+Carrying amount of liability 1,490 1,780
+The finance leases relate to plant utilised in the trade of the Company. They are secured by fixed
+charges on the assets concerned.
+39
+
+=== page 42 ===
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements :
+for the year ended 31 March 2026 (continued)
+18 Provisions for liabilities ;
+Contract DiJapidations Deferred Total
+provisions provision tax provisions
+£000 £°000 £'000 £000
+Brought forward at 1 April 2025 4,011 - 271 4,282
+Reclassification* 3,058 337 - 3,395
+Charge to profit or loss 2,572 1,415 362 4,349
+Carried forward at 31 March 2026 9,641 1,752 633 12,026
+*Reclassification
+Following a review of the financial statements, the classification of certain liabilities has been changed
+to more appropriately reflect the events that gave rise to those obligations and the degree of
+uncertainty.
+: Contract provisions
+Contract provisions include provisions for potential remediation and rectification costs.
+Dilapidations provision
+The dilapidation provision relates to potential costs to return a leasehold property to its original state
+at the end of the fease. Dilapidations provisions are expected to be utilised at the end of the respective
+leases.
+The deferred tax liability consists of the following:
+At 31 March At 31 March
+2026 2025
+£000 £000
+Fixed asset timing differences 653 313
+Short term timing differences - trading (20) (42)
+Total deferred tax liability 633 271
+The amount of deferred tax expected to be reversed in the next 12 months is £20k (2025: £42k).
+There are no unused tax Josses or unused tax credits.
+40
+
+=== page 43 ===
+M Group Telecom (Fixed Network Solutions) Limited -~-
+Notes to the financial statements
+for the year ended 31 March 2026 (continued)
+19 Pensions and similar obligations
+The amount recognised as an expense for the defined contribution scheme was: :
+Year to Year to
+31 March 31 March
+2026 2025
+£000 £°000
+Current year contributions 963 944
+Contributions amounting to £165k were outstanding at the year-end (2025: £163k).
+20 Called up share capital and other reserves
+At "At
+31 March 31 March
+2026 2025
+£°000 £'000
+Allotted and fully paid share capital
+1 (2025: 1) ordinary share of £1 each - -
+There is a single class of ordinary shares. There are no restrictions on the distribution of dividends and
+the repayment of capital. The profit and loss reserve represents cumulative profits or losses, including
+net of dividends paid and other adjustments.
+The profit and loss reserve represents cumulative profits or losses, including net of dividends paid and
+other adjustments.
+The Company paid £28,000k of intragroup dividends for the year to the Company's immediate parent
+undertaking M Group Telecoms Holdings Limited (2025: £nil).
+21 Contingent liabilities
+There exists cross guarantees under a Group banking arrangement in place whereby Group
+companies have guaranteed the liabilities of other Group companies to their clearing banks. Net .
+indebtedness recognised by the Company under this arrangement at 31 March 2026 was £nil (2025:
+£nil). Group bank debt is disclosed in the financial statements of M Group Limited.
+4
+
+=== page 44 ===
+‘
+M Group Telecom (Fixed Network Solutions) Limited
+Notes to the financial statements
+for the year ended 31 March 2026 (continued) |
+22 Operating lease commitments .
+Total future minimum lease payments under non-cancellable operating leases were as follows:
+- At 31 March At 31 March
+2026 2025
+Payments due . £000 £000
+Within one year 826 551
+Between one and five years 778 683
+7,604 7,234
+23 Related party transactions
+The Company has taken advantage of the exemption under FRS 102.33.1A, and has not disclosed
+transactions with entities that are part of the M Group Limited, where 100% of the voting rights of these
+entities are controlled within the Group. ;
+24 Immediate and ultimate parent undertaking and controlling party
+The Company's immediate parent undertaking is M Group Telecom Holdings Limited, a company
+registered in England and Wales. M Group Limited is the parent undertaking of the smallest and largest
+group to consolidate these financial statements.
+Copies of M Group Limited consolidated financial statements can be obtained from the Company
+Secretary at the registered office: Abel Smith House, Gunnels Wood Road, Stevenage, Hertfordshire,
+SG1 2ST.
+In the opinion of the Directors, the Company's ultimate parent company and ultimate controlling party
+is CVC Capital Partners plc, a company incorporated in Jersey.
+25 Post balance sheet events
+. There are no material events since the Balance Sheet date which require disclosure.
+42 :
+

@@ -1,0 +1,1150 @@
+=== page 1 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1FF82
+. ; _ _— . , Registered number: 03295353
+_— NETWORK MERCHANTS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+: i *AETIK422*
+; ” ie 23/12/2025 #6
+COMPANIES HOUSE
+
+=== page 2 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+a aS SN ,
+NETWORK MERCHANTS LIMITED
+COMPANY INFORMATION .
+Directors S Hart
+S Pinado
+Company secretary S Hart
+Registered number 03295353
+, Registered office Fourth Floor
+1 All Saints Street .
+Bristol
+, BS1 2LZ
+i
+Independent auditor Grant Thornton UK LLP
+Chartered Accountants & Statutory Auditor :
+. 6th Floor
+3 Callaghan Square
+Cardiff
+CF10 5BT :
+Bankers JPMorgan Chase Bank
+25 Bank Street
+. London :
+E14 5JP :
+Solicitors Ashfords
+Tower Wharf
+Cheese Lane
+Bristol
+BS2 OJJ
+
+=== page 3 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82 . :
+. NETWORK MERCHANTS LIMITED
+CONTENTS
+
+: Page
+Strategic Report 1-2
+Directors’ Report , 3-5
+Independent Auditor's Report : 6-10
+Statement of Comprehensive Income 11
+Statement of Financial Position _ 12
+Statement of Changes in Equity 13
+Notes to the Financial Statements 14-31
+
+=== page 4 ===
+Docusign Envelope 1D: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82 :
+“.
+NETWORK MERCHANTS LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+. The directors present the Strategic Report for the year ended 31 December 2024.
+’ Fair review of the business
+Network Merchants Limited is the UK trading entity within the Network Merchants Inc. (“NMI”) group, which is
+headed by NMI Topco (incorporated in the USA). The combined group is a leader in omnichannel payments
+technology, joining both card-present acumen and card-not-present expertise. Together, we are able to deliver a
+unified payment solution to ISOs, ISVs and VARs servicing merchants in omnichannel environments.
+The NMI group has been at the forefront of the technical innovations enabling and driving this migration of
+payment methods and is well placed to power the next era of payments as merchants and consumers look for a
+simplified, secure, and holistic card payment solution in an increasingly complex environment.
+The upgrades to the gateway infrastructure have continued. The combination of industry-mandated increasing
+levels of security combined with cost reducing the infrastructure using the latest virtualisation techniques has .-
+provided Network Merchants Limited with one of the most technically advanced gateways in the world. This will
+allow us to at least triple transaction volumes with minimal or no requirement to upgrade our infrastructure.
+Transaction volumes rose from 788 million in 2023 to 876 million in 2024 and the greater transaction volume in
+the year facilitated an increase in revenue from £19.0m to £20.6m, a rise of 9%. This translated into an increase
+in profit for the financial year due to good cost management control with cost of sales and admin expenses both
+falling year on year, amongst other items.
+The cash position has remained strong over the year as a result of good cash collection processes translating
+the profit to cash inflows and the group has transferred excess cash to other entities in the NMI group to ensure
+optimal resource allocation. The strong performance of the group and the aforementioned changes in working
+capital resulted in cash moving from £7.2m to £5.1m while overall net assets rose from £10.4m to £16.5m.
+Key performance indicators
+Financial
+. 2024 2023
+, £ £
+Turnover 20,635,773 18,954,704
+Profit for the financial year 6,096,969 4,461,824
+Net assets 16,461,996 10,365,027
+Non-financial
+. 2024 2023
+Transactions processed 876 million’ 788 million
+Gateway availability >99.99% >99.99%
+This is the fourteenth consecutive year that the gateway availability benchmark of 99.99% has been exceeded.
+Page 1
+
+=== page 5 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Risks and uncertainties
+The principal risks within the company relate to credit risk, business continuity and current economic conditions.
+The directors recognise this and wherever possible a payment in advance model is adopted. Where customers
+are post billed this is monitored and services may be suspended where payment is overdue. This encourages
+payment within terms.
+The board recognises that a major outage on its processing payment platform could disrupt income flow and
+continuity of service to customers. To mitigate this risk the company operates four processing nodes. One is
+sited in the UK, one in the Netherlands and two in North America with each node replicating the data from all the
+other nodes in real time. Each location has independent power services and fully diverse communications
+routings. Any one node has sufficient capacity to absorb the traffic from the other three nodes.
+The current UK and wider global economic environments are such that customers and their merchants and end
+consumers are suffering from rising costs which could impact the volume of transactions processed or the
+revenue that the company is able to make from these transactions. The directors note that a significant portion of
+the company's revenue is recurring, and the company can leverage its gateway’s reliability in new and existing
+relationships to ensure customer retention and new customer growth continues despite challenging market
+conditions.
+We acknowledge the uncertainties inherent in forecasting future sales growth, and the risk remains that such
+growth targets are not achieved, which could impact on the company’s ability to meet its future obligations and
+could impact the carrying value of some of the company’s assets. This risk is managed by the regular review and
+update of sales forecasts and managing the company’s cost base required to service its revenue streams.
+On behalf of the board :
+Seat Kart
+
+S Hart
+Director :
+Date: 10/12/2025
+
+Page 2
+
+=== page 6 ===
+Docusign Envelope 1D: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+eH
+NETWORK MERCHANTS LIMITED
+
+DIRECTORS’ REPORT ,
+FOR THE YEAR ENDED 31 DECEMBER 2024
+The directors present their Annual Report and financial statements for the year ended 31 December 2024.
+Principal activities ‘
+The principal activity of the company continued to be payment service provision for unattended terminals and
+cardholder not present situations.
+. Directors
+
+The directors who held office during the year and up to the date of signature of the financial statements were as
+follows: . :
+S Hart
+V Sondhi (resigned 2 September 2025)
+S Pinado (appointed 2 September 2025)
+Results and dividends ,
+The results for the year are set out on page 11. No ordinary dividends were paid. The directors do not
+recommend payment of a final dividend.
+Qualifying third party indemnity provisions -
+The company has made qualifying third party indemnity provisions for the benefit of its directors during the year.
+These provisions remain in force at the reporting date.
+Financial risk management
+In order to finance the company’s operations, the company utilises financial instruments that arise from its
+
+. operations such as trade debtors and creditors, alongside cash and intercompany debtors and creditors. These
+financial instruments expose the company to financial risks, of which the significant risks are described in more
+detail below. The directors review and agree policies for managing these risks, which remain unchanged from :
+previous years. The directors note that due to the nature of the company’s financial instruments it is not
+
+. significantly exposed to price risk. .
+Credit risk ;
+The company is paid in advance where possible but there are a number of customers that pay in arrears. The
+company also has significant intercompany debtors and the combination of these two leaves it exposed to credit
+tisk. To mitigate this risk, customers must pass credit checks before services are provided and failure to pay
+within agreed terms is a breach of contract which can result in the cessation of services crucial to the customer's
+operations.
+Credit risk related to intercompany balances is actively monitored by the directors. Credit risk associated with
+cash is minimal due to the high credit ratings of the institutions used by the company. :
+Currency risk . :
+The company undertakes a variety of transactions in overseas currencies and seeks to mitigate the financial risk
+of such transactions by operating bank accounts in these overseas currencies. However, the company remains
+partly exposed to adverse exchange rate fluctuations.
+Cash flow risk
+The directors prepare detailed cash flow forecasts which indicate the future expected incomings and outgoings
+of cash, and that any potential shortfalls are identified in advance with appropriate steps taken to ensure that
+suitable facilities are agreed ahead of when they are forecast to be required in order for the company to continue
+its operations.
+
+Page 3
+
+=== page 7 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+DIRECTORS’ REPORT (CONTINUED) ,
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Financial risk management (continued)
+Liquidity risk
+The company seeks to invest cash safely and profitably such that it has sufficient liquidity available to meet
+foreseeable requirements and manage liquidity risk.
+Future developments :
+The company continues to invest across the business, notably continuing to invest in systems and process
+improvements to increase platform performance, security, and functionality.
+Senior management of the company is focused on accelerating growth through technological innovation in the
+areas of unattended payments, transit, and the unified card present and e-commerce transactions. The world of
+payments is an ever-evolving space, and Network Merchants Limited is very well positioned to expand its growth
+in the UK, Europe and US marketplaces. .
+Post balance sheet events
+There are no post balance sheet events.
+Directors’ confirmations
+The directors confirm that:
+. so far as the directors are aware, there is no relevant audit information of which the company's auditor is
+unaware; and
+. they have taken all the necessary steps that they ought to have taken as directors in order to make
+themselves aware of all relevant audit information and to establish that the company's auditor is aware of
+that information.
+Directors’ Responsibilities Statement
+The directors are responsible for preparing the Strategic Report, the Directors’ Report and the financial
+statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have elected to prepare the financial statements in accordance with United Kingdom Generally
+Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law
+the directors must not approve the financial statements unless they are satisfied that they give a true and fair
+view of the state of affairs of the company and of the profit or loss of the company for that period. In preparing
+these financial statements, the directors are required to: :
+. select suitable accounting policies and then apply them consistently;
+. make judgements and accounting estimates that are reasonable and prudent; and .
+. prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+company will continue in business.
+
+"The directors are responsible for keeping adequate accounting records that are sufficient to show and explain
+the company's transactions and disclose with reasonable accuracy at any time the financial position of the
+company and enable them to ensure that the financial statements comply with the Companies Act 2006. They _
+are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities.
+
+: Page 4
+
+=== page 8 ===
+Docusign Envelope ID: 9274E 1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Independent auditors
+The auditor, Grant Thornton UK LLP, will be proposed for reappointment in accordance with section 485 of the
+Companies Act 2006.
+On behalf of the board
+Suatt Kart
+
+S Hart
+Director
+Date: 10/12/2025 ;
+
+: Page 5
+
+=== page 9 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1F F82
+2 Grant Thornton
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF NETWORK MERCHANTS LIMITED
+Opinion
+We have audited the financial statements of Network Merchants Limited (the 'company’) for the year ended 31
+December 2024, which comprise the Statement of Comprehensive Income, the Statement of Financial Position,
+the Statement of Changes in Equity and notes to the financial statements, including a summary of significant
+accounting policies. The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, including Financial Reporting Standard 102 ‘The Financial Reporting
+Standard applicable in the UK and Republic of Ireland’ (United Kingdom Generally Accepted Accounting
+Practice).
+In our opinion:
+° the financial statements give a true and fair view of the state of the company's affairs as at 31 December
+2024 and of its profit for the year then ended;
+. the financial statements have been properly prepared in accordance with United Kingdom Generally
+Accepted Accounting Practice, and
+. the financial statements have been prepared in accordance with the requirements of the Companies Act
+2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the ‘Auditor's responsibilities for the audit
+of the financial statements' section of our report. We are independent of the company in accordance with the
+ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC's
+: Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+opinion.
+: Conclusions relating to going concern
+We are responsible for concluding on the appropriateness of the directors’ use of the going concern basis of
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or
+conditions that may cast significant doubt on the company's ability to continue as a going concern. If we conclude
+that a material uncertainty exists, we are required to draw attention in our report to the related disclosures in the
+: financial statements or, if such disclosures are inadequate, to modify the auditor's opinion. Our conclusions are
+based on the audit evidence obtained up to the date of our report. However, future events or conditions may
+cause the company to cease to continue as a going concern. :
+In our evaluation of the directors' conclusions, we considered the inherent risks associated with the company's
+business model including effects arising from macro-economic uncertainties such as the current inflationary
+pressures, we assessed and challenged the reasonableness of estimates made by the directors and the related
+disclosures and analysed how those risks might affect the company's financial resources or ability to continue
+operations over the going concern period.
+Page 6
+
+=== page 10 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1F F82
+re) GrantThornton
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF NETWORK MERCHANTS LIMITED
+(CONTINUED)
+Conclusions relating to going concern (continued) .
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of
+. accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the company's ability to continue as a
+going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+: Our responsibilities and the responsibilities of the directors with respect to going concern are described in the
+relevant sections of this report. . :
+Other information
+The other information comprises the information included in the Annual Report and financial statements, other
+than the financial statements and our Auditor's Report thereon. The directors are responsible for the other
+information contained within the Annual Report and financial statements. Our opinion on the financial statements
+does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not
+express any form of assurance conclusion thereon. .
+Our responsibility is to read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears
+to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we
+are required to determine whether there is a material misstatement in the financial statements themselves. If,
+based on the work we have performed, we conclude that there is a material misstatement of this other
+information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 .
+in our opinion, based on the work undertaken in the course of the audit:
+. the information given in the Strategic Report and the Directors’ Report for the financial year for which the
+. financial statements are prepared is consistent with the financial statements; and
+. the Strategic Report and the Directors’ Report have been prepared in accordance with applicable legal
+requirements.
+. . Page 7
+
+=== page 11 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C iF F82
+& GrantThornton
+: INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF NETWORK MERCHANTS LIMITED ~
+(CONTINUED)
+Matter on which we are required to report under the Companies Act 2006 :
+In the light of the knowledge and understanding of the company and its environment obtained in the course of
+the audit, we have not identified material misstatements in the Strategic Report or the Directors’ Report.
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006
+requires us to report to you if, in our opinion:
+. adequate accounting records have not been kept, or returns adequate for our audit have not been
+received from branches not visited by us; or
+
+° the financial statements are not in agreement with the accounting records and returns; or
+° certain disclosures of directors' remuneration specified by law are not made; or
+. we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+
+: As explained more fully in the Directors' Responsibilities Statement set out on page 4, the directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true and fair
+view, and for such internal contro! as the directors determine is necessary to enable the preparation of financial
+statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the company's ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless the directors either intend to liquidate the company or to cease operations, or
+have no realistic alternative but to do so. :
+
+Page 8
+
+=== page 12 ===
+Docusign Envelope ID: 9274E 1F 1-975C-49C5-949A-B37DA2C1FF82
+2 GrantThornton .
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF NETWORK MERCHANTS LIMITED
+(CONTINUED)
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+
+from material misstatement, whether due to fraud or error, and to issue an Auditor's Report that includes our
+
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in
+accordance with ISAs (UK) will always detect a material misstatement when it exists.
+
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they
+
+could reasonably be expected to influence the economic decisions of users taken on the basis of these financial
+
+statements.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. The extent to which our
+
+procedures are capable of detecting irregularities, including fraud, is detailed below: .
+
+. The company is subject to many laws and regulations where the consequences of non-compliance could
+have a material effect on amounts or disclosures in the financial statements. We identified Financial
+Reporting Standard 102 and the Companies Act 2006 as those most likely to have a material effect if
+noncompliance were to occur;
+
+. We obtained an understanding of how the company is complying with significant legal and regulatory
+frameworks through inquiries of management;
+
+. We assessed the susceptibility of the company’s financial statements to material misstatement, including
+how fraud might occur. We considered the opportunity and incentives for management to perpetrate :
+fraud, and the potential impact on the financial statements;
+
+° Audit procedures performed by the engagement team included:
+
+- identifying the significant risk of fraud within revenue recognition and undertaking substantive
+. testing to obtain sufficient and appropriate audit evidence;
+- testing manual journal entries, in particular journal entries relating to management estimates and
+entries determined to be large or relating to unusual transactions; and
+- identifying and testing related party transactions. .
+
+° These audit procedures were designed to provide reasonable assurance that the financial statements
+were free from fraud or error. The risk of not detecting a material misstatement due to fraud is higher than
+the risk of not detecting one resulting from error and detecting irregularities that result from fraud is
+inherently more difficult than detecting those that result from error, as fraud may involve collusion,
+deliberate concealment, forgery or intentional misrepresentations. Also, the further removed non- .
+compliance with laws and regulations is from events and transactions reflected in the financial statements,
+the less likely we would become aware of it; :
+
+: Page 9
+
+=== page 13 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+rey) GrantThornton
+: INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF NETWORK MERCHANTS LIMITED
+(CONTINUED) :
+Auditor's responsibilities for the audit of the financial statements (continued)
+° The engagement partner's assessment of the appropriateness of the collective competence and
+capabilities of the engagement team included:
+- consideration of the engagement team's understanding of, and practical experience with, audit
+engagements of a similar nature and complexity;
+- appropriate training, knowledge of the industry in which the company operates; and
+- understanding of the legal and regulatory requirements specific to the company.
+. We communicated relevant laws and potential fraud risks to all engagement team members and remained _
+alert to any indicators of fraud or non-compliance with laws and regulations throughout the audit;
+A further description of our responsibilities for the audit of the financial statements is located on the Financial
+Reporting Council's website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our
+Auditor's Report.
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members °
+those matters we are required to state to them in an Auditor's Report and for no other purpose. To the fullest
+extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the
+company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+Dylan Rees
+Dylan Rees BSc ACA
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+Cardiff
+Date: 10/12/2025
+- Page 10
+
+=== page 14 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82 :
+NETWORK MERCHANTS LIMITED :
+STATEMENT OF COMPREHENSIVE INCOME :
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2024 2023
+Note £ £
+Turnover 4 20,635,773 18,954,704
+Cost of sales (1,061,254) (1,275,648)
+Gross profit 19,574,519 17,679,056
+Administrative expenses : : (11,557,880) (12,667,225)
+Operating profit 5 8,016,639 5,011,831
+Interest receivable and similar income 8 6 ‘ 37
+Interest payable and similar expenses 9 (2) -
+Profit before tax 8,016,643 5,011,868
+Tax on profit 10 (1,919,674) (550,044)
+’ Profit for the financial year ; 6,096,969 4,461,824
+The Statement of Comprehensive Income has been prepared on the basis that all operations are continuing
+operations.
+There were no recognised gains and losses for 2024 or 2023 other than those included in the Statement of
+Comprehensive Income.
+There was no other comprehensive income for 2024 (2023: £Nil).
+The notes on pages 14 to 31 form part of these financial statements.
+Page 11
+
+=== page 15 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+. REGISTERED NUMBER:03295353
+. STATEMENT OF FINANCIAL POSITION
+AS AT 31 DECEMBER 2024 .
+2024 “2023
+Note £ gz
+Fixed assets
+Intangible assets — 11 96,305 138,391
+Tangible assets 12 768,364 1,023,571
+864,669 1,161,962
+Current assets
+Debtors: amounts falling due within one year 13 15,406,151 7, 166,584
+Cash at bank and in hand 14 5,135,980 7,237,838
+20,542,131 14,404,422
+Creditors: amounts falling due within one
+year 15 (4,894,644). (5,020,307)
+Net current assets ; : 15,647,487 9,384,115
+Total assets less current liabilities 16,512,156 10,546,077
+Provisions for liabilities
+Provision for other liabilities 17 (50,160) (181,050)
+"Net assets 16,461,996 10,365,027
+Capital and reserves
+Called up share capital 18 275 275
+Share premium account 19 66,295 66,295
+Profit and loss account : 19 16,395,426 10,298, 457
+Total equity 16,461,996 10,365,027
+The financial statements were approved and authorised for issue by the board and were signed on its behalf on
+10/12/2025
+Scott Kart
+S Hart
+Director .
+The notes on pages 14 to 31 form part of these financial statements.
+: Page 12
+
+=== page 16 ===
+Docusign Envelope ID: 92746 1F1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+STATEMENT OF CHANGES IN EQUITY :
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Share
+Called up premium Profit and
+share capital account loss account Total equity
+£ £ £ £
+At 1 January 2023 . 275 66,295 5,836,633 5,903,203
+Profit for the year - - 4,461,824 4,461,824
+At 1 January 2024 275 66,295 10,298,457 10,365,027
+Profit for the year - - 6,096,969 6,096,969
+At 31 December 2024 © 275 66,295 16,395,426 16,461,996
+The notes on pages 14 to 31 form part of these financial statements. ;
+. Page 13
+
+=== page 17 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1. General information
+
+Network Merchants Limited is a private company limited by shares, incorporated in England and Wales.
+
+Its registered number is 03295353, and its registered head office is located at Fourth Floor, 1 All Saints
+
+Street, Bristol, BS1 2LZ. .
+
+2. Accounting policies
+
+2.1 Basis of preparation of financial statements
+The financial statements have been prepared under the historical cost convention unless otherwise
+specified within these accounting policies and in accordance with Financial Reporting Standard 102,
+the Financial Reporting Standard applicable in the UK and the Republic of Ireland and the
+Companies Act 2006.
+The company's functional and presentation currency is Sterling and all values are rounded to the
+nearest pound (£) except when otherwise stated. :
+The preparation of financial statements in compliance with FRS 102 requires the use of certain
+critical accounting estimates. It also requires management to exercise judgement in applying the
+company's accounting policies (see note 3).
+The following principal accounting policies have been applied:
+
+2.2° Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemptions in preparing these
+financial statements, as permitted by the FRS 102 “The Financial Reporting Standard applicable in
+the UK and Republic of Ireland":
+
+: . the requirements of Section 7 Statement of Cash Flows;
+. the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d);
+e the requirements of Section 11 Financial instruments paragraphs 11.42, 11.44 to 11.45, 11.47,
+11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c);
+. the requirements of Section 12 Other Financial Instruments paragraphs 12.26 to 12.27,
+12.29(a), 12.29(b) and 12.29A; and
+. the requirements of Section 33 Related Party Disclosures paragraph 33.7.
+This information is included in the consolidated financial statements of Creditcall Holdings Limited as
+at 31 December 2024 and these financial statements may be obtained from Fourth Floor, 1 All Saints
+Street, Bristol, BS1 2LZ and also from Companies House.
+Page 14
+
+=== page 18 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1FF82
+. NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS ,
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2. Accounting policies (continued) :
+_ 2.3 Going concern :
+Given the inter-dependencies of all entities within the Creditcall Holdings Limited group (‘group’), the
+directors consider their assessment of going concern on the group’s forecast cash flows to assess
+going concern for the group, parent company and all subsidiaries. Management considers the
+group’s cash headroom and transfers funds between group companies as is required to meet
+obligations as they fall due, and has formal support letters in place with subsidiaries to support their
+own going concern assumptions.
+In order to assess the going concern assumption, the directors have considered detailed trading and
+cash flow projections, taking into account the impact of current macro-economic factors such as
+inflation, the cost of living crisis and the potential impact of US tariffs, and the uncertainty this
+presents in drawing their conclusions.
+The group has remained resilient over recent years with revenues growing and the business was not
+notably affected by increased inflation and the cost of living crisis due to the variety of operational
+costs incurred. The group has continued to grow revenue and be cash generating throughout the
+year and beyond also showing a profit for the year.
+The group has the full financial support of the wider group headed by its ultimate parent and has
+received a formal confirmation of this support by NMI Intermediate Inc., an intermediate parent within
+the wider group, being the highest level that consolidated financial statements are prepared and
+audited. The formal confirmation of support confirms its intentions to provide continued financial
+support to the group so that it can meet its liabilities as they fall due for a period of at least 12 months
+from the date of approval of these financial statements, and that intercompany balances won't be
+recalled unless the group is able to afford such repayments.
+The directors are confident that the steps that they have taken to mitigate associated risk will ensure
+that the group is well positioned to continue to trade throughout the current uncertain economic
+environment. They have therefore concluded that there is no material uncertainty about the ability of
+the group to continue as a going concern and that it remains appropriate to prepare the financial
+statements on a going concern basis.
+Furthermore, based on the above, and given the formal support letters in place to subsidiaries within
+the group, the directors have also concluded that there is no material uncertainty about the ability of
+the company to continue as a going concern and that it remains appropriate to prepare the financial
+statements on a going concern basis.
+Page 15
+
+=== page 19 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82 .
+_ NETWORK MERCHANTS LIMITED
+: NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2. Accounting policies (continued)
+; 2.4 Foreign currency translation
+Functional and presentation currency
+’ The company's functional and presentational currency is GBP.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange
+rates at the dates of the transactions.
+
+At each period end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+
+: Foreign exchange gains and losses resulting from the settlement of transactions and from the
+
+translation at period-end exchange rates of monetary assets and liabilities denominated in foreign
+currencies are recognised in the Statement of Comprehensive Income except when deferred in other
+comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are
+presented in the Statement of Comprehensive Income within ‘finance income or costs’. All other
+foreign exchange gains and losses are presented in the Statement of Comprehensive Income.
+
+2.5 Revenue recognition :
+Revenue is measured at the fair value of the consideration received or receivable and represents the
+amount receivable for goods supplied or services rendered, net of returns, discounts and rebates
+allowed by the company and value added taxes.
+
+The business has two primary classes of business, and revenue is recognised as follows:
+
+Payment service provisions :
+
+Revenue from transaction fees relates to set fees or a percentage of transaction value per
+: transactions processed via the company’s payment solutions. Revenue is recognised when the
+
+transaction takes place.
+
+Revenue from device monthly fees relates to fees charged each month per terminal connected to the
+
+company’s payment platform. Revenue is recognised in the month that the device is connected.
+
+Revenue from monthly minimum fees relates to additional fees charged each month to customers
+
+whose billing for transaction fees and device monthly fees falls below agreed monthly thresholds.
+
+Revenue is recognised in the month the additional fees are charged.
+
+. Revenue from other fees relates to setup fees, annual fees and other fees charged to customers
+during the course of onboarding or servicing customers on the company's payment platform.
+Revenue is recognised at the point of service or spread over the year as appropriate.
+
+. Page 16
+
+=== page 20 ===
+Docusign Envelope ID: 9274E 1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED ,
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2. Accounting policies (continued)
+2.5 Revenue recognition (continued)
+EMV development projects
+Revenue from support and maintenance relates to ongoing support and maintenance for a set period
+of time. Revenue is initially deferred and recognised on a straight line over the period of the service.
+Revenue for licensing relates to licensing fees charged to customers for each terminal they sell that
+contains the company's software. Revenue is recognised at the point of sale of the terminal.
+Revenue for EMV integration and development relates to bespoke EMV projects with customers.
+_ Revenue is recognised once agreed milestones have been completed. .
+Revenue from other EMV services relates to other consultancy and development services per agreed
+terms. Revenue is recognised once services are completed.
+2.6 Operating leases: the company as lessee ;
+, Rentals paid under operating leases are charged to Statement of Comprehensive Income on a
+: straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a =
+straight-line basis over the lease term, unless another systematic basis is representative of the time
+pattern of the lessee's benefit from the use of the leased asset.
+2.7 Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8 Finance costs
+Finance costs are charged to the Statement of Comprehensive Income over the term of the debt
+using the effective interest method so that the amount charged is at a constant rate on the carrying
+amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital .
+instrument.
+2.9 Employee benefits
+The cost of short-term employee benefits is recognised as a liability and an expense, unless those
+costs are required to be recognised as part of the cost of stock of fixed assets. The cost of any
+unused holiday entitlement is recognised in the period in which the employee's services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably
+committed to terminate the employment of an employee or to provide termination benefits.
+' Page 17
+
+=== page 21 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024 :
+2. Accounting policies (continued)
+2.10 Pensions
+Defined contribution pension plan .
+The company operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the company pays fixed contributions into a separate entity. Once the
+contributions have been paid the company has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid
+are shown in accruals as a liability in the Statement of Financial Position. The assets of the plan are
+held separately from the company in independently administered funds.
+2.11 Current and deferred taxation ;
+The tax expense for the year comprises current and deferred tax. Tax is recognised in the Statement
+of Comprehensive Income except that a charge attributable to an item of income and expense
+recognised as other comprehensive income or to an item recognised directly in equity. is also
+recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been
+enacted or substantively enacted by the reporting date in the countries where the company operates
+and generates income. .
+Deferred tax balances are recognised in respect of all timing differences that have originated but not
+reversed by the reporting date, except that:
+. The recognition of deferred tax assets is limited to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits; and
+° Any deferred tax balances are reversed if and when all conditions for retaining associated tax
+allowances have been met.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of
+business combinations, when deferred tax is recognised on the differences between the fair values of
+assets acquired and the future tax deductions available for them and the differences between the fair
+values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined
+using tax rates and laws that have been enacted or substantively enacted by the reporting date.
+2.12 Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible
+- assets are measured at cost less any accumulated amortisation and any accumulated impairment
+losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life
+cannot be made, the useful life shall not exceed ten years.
+The estimated useful lives range as follows:
+Patents - over 3 years straight line
+: Licenses - over 3 years straight line
+Page 18
+
+=== page 22 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2. Accounting policies (continued)
+2.13 Tangible fixed assets .
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives. :
+Depreciation is provided on the following basis:
+Leasehold improvements - over 7 years straight line
+. Fixtures and fittings - over 4 years straight line
+IT infrastructure - over 3 - 4 years straight line
+The assets’ residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in the Statement of Comprehensive Income.
+2.14 Cash
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty
+on notice of not more than 24 hours.
+2.15 Provisions for liabilities ,
+, Provisions are made where an event has taken place that gives the company a legal or constructive
+. obligation that probably requires settlement by a transfer of economic benefit, and a reliable estimate
+can be made of the amount of the obligation.
+Provisions are charged as an expense to the Statement of Comprehensive Income in the year that
+the company becomes aware of the obligation, and are measured at the best estimate at the
+reporting date of the expenditure required to settle the obligation, taking into account relevant risks
+and uncertainties.
+When payments are eventually made, they are charged to the provision carried in the Statement of
+Financial Position.
+2.16 Financial instruments
+The company has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS
+102 to all of its financial instruments.
+Financial instruments are recognised in the company's Statement of Financial Position when the
+, company becomes party to the contractual provisions of the instrument.
+e
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements,
+when there is a legally enforceable right to set off the recognised amounts and there is an intention to
+settle on a net basis or to realise the asset and settle the liability simultaneously.
+Page 19
+
+=== page 23 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82 .
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2. Accounting policies (continued)
+2.16 Financial instruments (continued)
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially
+measured at their transaction price (adjusted for transaction costs except in the initial measurement
+of financial assets that are subsequently measured at fair value through profit and loss) and are
+subsequently carried at their amortised cost using the effective interest method, less any provision for
+impairment, unless the arrangement constitutes a financing transaction, where the transaction is
+. measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The company's cash and cash
+equivalents, trade and most other debtors due within the operating cycle fall into this category of
+financial instruments.
+Impairment of financial assets
+At the end of each reporting period financial assets measured at amortised cost are assessed for
+objective evidence of impairment. If an asset is impaired the impairment loss is the difference
+between the carrying amount and the present value of the estimated cash flows discounted at the
+asset's original effective interest rate. The impairment loss is recognised in profit or loss.
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the
+estimated future cash flows derived from the financial asset(s) have been adversely impacted. The
+impairment loss will be the difference between the current carrying amount and the present value of
+the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the
+impairment can be reviewed for possible reversal. The reversal will not cause the current carrying
+amount to exceed the original carrying amount had the impairment not been recognised. The
+impairment reversal is recognised in the profit or loss.
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in
+the assets of the company after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other creditors, bank loans and other loans are
+. initially measured at their transaction price (adjusting for transaction costs except in the initial
+measurement of financial liabilities that are subsequently measured at fair value through profit and
+loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the
+present value of the future payments discounted at a market rate of interest, discounting is omitted
+where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate
+method.
+Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary
+course of business from suppliers. Trade creditors are classified as current liabilities if the payment is
+due within one year. If not, they represent non-current liabilities. Trade creditors .are initially
+: recognised at their transaction price and subsequently are measured at amortised cost using the
+effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+’ Page 20
+
+=== page 24 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1F F82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2. Accounting policies (continued)
+2.16 Financial instruments (continued)
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are
+settled, or when the company transfers the asset and substantially all the risks and rewards of
+ownership to another party. If significant risks and rewards of ownership are retained after the
+. . transfer to another party, then the company will continue to recognise the value of the portion of the
+risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the company's contractual obligations expire or are
+: discharged or cancelled.
+
+2.17 Equity instruments :
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in
+the assets of the company after deducting all of its liabilities. Equity instruments issued by the
+company are recorded at the fair value of proceeds received, net of direct issue costs. Dividends
+payable on equity instruments are recognised as liabilities once they are no longer at the discretion of
+the company.
+
+3. Judgements in applying accounting policies and key sources of estimation uncertainty
+
+The preparation of the financial statements requires management to make judgements, estimates and
+
+assumptions that affect the application of accounting policies and reported amounts of assets, liabilities,
+
+income and expenses. Actual results may differ from these estimates.
+
+Estimates and underlying assumptions are reviewed on an ongoing basis. Estimates are based on
+
+historical experience and other assumptions that are considered reasonable in the circumstances. The
+
+actual amount or values may vary in certain instances from the assumptions and estimates made.
+
+Changes will be recorded, with corresponding effect in the financial statements, when, and if, better
+
+information is obtained.
+
+Critical judgements and sources of estimation uncertainty that management have made in the process of
+
+applying accounting policies disclosed herein and that have a significant effect on the amounts recognised
+
+in the financial statements relate to the following:
+
+Estimates
+
+The directors do not consider there to be any significant judgements or estimates to be disclosed.
+
+Judgements : :
+
+In the process of preparing the financial statements, no significant judgements were applied.
+
+Page 21
+
+=== page 25 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024 .
+4. Turnover .
+An analysis of turnover by class of business is as follows:
+2024 2023
+£ £
+Payment service provision 20,595,974 18,409,188
+EMV development projects 39,799 545,516
+20,635,773 18,954,704
+___ Analysis of turnover by country of destination:
+2024 2023
+£ £
+United Kingdom 15,202,063 13,855,199
+: Rest of Europe 2,223,727 1,574,337
+United States of America . 1,824,159 2,102,348
+Rest of the World 1,385,824 1,422,820
+20,635,773 18,954,704
+5. Operating profit
+The operating profit is stated after (crediting)/charging:
+: 2024 2023
+£ £
+Exchange (gains)/losses (197,700) 78,426
+(Utilisation of)/charge to provisions (130,890) 63,755
+Depreciation of owned tangible fixed assets 411,989 379,011
+Amortisation of intangible assets 81,362 36,739
+Operating lease charges 422,269 596,944
+6. Auditor's remuneration
+. . 2024 2023
+£ £
+Fees payable to the company's auditor and its associates for audit services:
+. Audit of the financial statements of the company 60,270 62,944
+: The company has taken advantage of the exemption not to disclose amounts paid for non-audit services
+as these are disclosed in the group accounts of the parent company.
+Page 22
+
+=== page 26 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS .
+FOR THE YEAR ENDED 31 DECEMBER 2024
+7. Employees :
+- Staff costs were as follows:
+. 2024 2023
+£ £
+: Wages and salaries 6,265,493 7,084,729
+Social security costs 827,094 848, 066
+Cost of defined contribution scheme 208,686 244,495
+7,301,273 8,177,290
+No director's remuneration was paid by the company during the year.
+The average monthly number of employees, including the directors, during the year was as follows:
+2024 2023
+: . No. No.
+Finance and Administration 14 16
+Sales and Marketing . 15 15
+Production 68 93
+97 — 124
+8. Interest receivable and similar income
+2024 2023
+£ £
+Interest on bank deposits 6 37
+9. Interest payable and similar expenses
+: 2024 2023
+; £ £
+Other interest payable 2 -
+Page 23
+
+=== page 27 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+10. Taxation ,
+2024 2023
+. : £ £
+Corporation tax :
+UK corporation tax on profits for the period 1,909,849 403,495
+Total current tax 1,909,849 403,495
+Deferred tax
+Origination and reversal of timing differences 9,825 139,999
+Changes to tax rates : - 8,805
+Adjustment in respect of prior periods - (2,255)
+, Total deferred tax 9,825 146,549
+Taxation on profit on ordinary activities 1,919,674 550,044
+, Factors affecting tax charge for the year .
+: The tax assessed for the year is lower than (2023: lower than) the standard rate of corporation tax in the
+UK of 25.00% (2023: 23.52%). The differences are explained below:
+2024 2023
+£ £
+Profit on before tax 8,016,643 5,011,868
+Expected tax charge based on the standard rate of corporation tax in the
+UK of 25.00% (2023: 23.52%) 2,004,161 1,178,791
+Effects of:
+Tax effect of expenses that are not deductible in determining taxable profit 26,598 15,950 ;
+Tax effect of income not taxable in determining taxable profit : - (744)
+Adjustment from previous periods - (2,255)
+Effects of group relief . (111,085) (650,503)
+Adjust deferred tax to reconciliation rate - 8,805
+Total tax charge for the year 1,919,674 550,044
+Page 24 -
+
+=== page 28 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024 .
+10. Taxation (continued) -
+Factors that may affect future tax charges :
+In the Spring ‘Budget 2021, the UK Government announced that from 1 April 2023 the corporation tax rate
+would increase to 25% (rather than remaining at 19%, as previously enacted). There has been no change
+to corporation tax rates for the financial year end date. For the current financial year the weighted average
+tax rate is 25%. Deferred taxes at the Statement of Financial Pasition date have been measured using
+these enacted tax rates and reflected in these financial statements.
+11. Intangible assets
+: ’ Patents. Licenses Total
+£ £ £
+Cost ;
+At 1 January 2024 : 19,086 1,031,134 1,050,220
+Additions - 39,276 39,276
+Disposals - (789,841) (789,841)
+At 31 December 2024 19,086 280,569 299,655
+Amortisation
+. At 1 January 2024 19,086 892,743 911,829
+Amortisation charged for the year - 81,362 81,362
+On disposals . - (789,841) (789,841)
+At 31 December 2024 19,086 184,264 203,350
+Net book value
+At 31 December 2024 . 96,305 96,305
+At 31 December 2023 - 138,391 138,391
+Amortisation on intangible assets is charged to administrative expenses.
+All disposals were scrapped with no cash consideration and no profit or loss on disposal.
+; . Page 25
+
+=== page 29 ===
+Docusign Envelope ID: 9274E1F1-975C-49C5-949A-B37DA2C1FF82
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+“42. Tangible fixed assets ,
+Leasehold Fixtures and IT
+improvements fittings infrastructure Total
+. £ £ £- £
+Cost ,
+At 1 January 2024 1,300,492 1,627,912 1,684,506 4,612,910
+Additions . - 48,030 108,752 156,782
+Disposals - (1,048,787) (1,193,638) (2,242,425)
+At 31 December 2024 1,300,492 627,155 599,620 2,527,267
+Depreciation
+At 1 January 2024 610,524 1,499,225 1,479,590 3,589,339
+Charge for the year 176,492 106,102 129,395 411,989
+Disposals 7 (1,048,787) (1,193,638) (2,242,425)
+At 31 December 2024 787,016 — 556,540 415,347 = 1,758,903
+Net book value ° ‘
+At 31 December 2024 513,476 70,615 184,273 768,364
+At 31 December 2023 , 689,968 128,687 204,916 1,023,571
+Depreciation on tangible fixed assets is charged to administrative expenses.
+All disposals were scrapped with no cash consideration and no profit or loss on disposal.
+, . : Page 26
+
+=== page 30 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+. NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+13. Debtors: amounts falling due within one year
+2024 2023
+£ £
+. Note
+Trade debtors 2,547,102 2,496,338
+Amounts owed by group undertakings . 11,987,231 3,684,167
+Other debtors 223,834 246,221
+Deferred tax asset . 16 67,295 77,120
+Prepayments and accrued income 580,689 662,738
+15,406,151 7,166,584 ;
+Trade debtors are stated after provisions for impairment of £3,121 (2023: £4,972).
+Amounts owed by group undertakings are unsecured, interest-free and repayable on demand.
+14. Cash
+2024 2023
+£ £
+Cash at bank and in hand : 5,135,980 7,237,838
+15. Creditors: amounts falling due within one year _ .
+2024 2023
+£ £
+Trade creditors 419,954 332,899
+Amounts owed to group undertakings 965,708 2,549,001
+Corporation tax : 1,909,849 70,153
+Other taxation and social security 723,705 807,258
+Deferred income 193,812 256,684
+Other creditors 52,484 68,693
+Accruals 629,132 935,619
+. 4,894,644 5,020,307
+Amounts owed to group undertakings are non-interest bearing, unsecured and repayable on demand.
+Page 27
+
+=== page 31 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+‘ NETWORK MERCHANTS LIMITED
+. NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+16. Deferred taxation
+. 2024 2023
+, £ £
+At beginning of year 77,120 223,669
+Adjustment in respect of prior years - 2,255
+: Charge to the profit or loss : : (9,825) (148,804)
+At end of year 67,295 77,120
+The deferred tax asset is made up as follows:
+2024 2023
+£ £
+Fixed asset timing differences 45,214 26,269
+Short term timing differences 22,081 50,851
+67,295 77,120
+- . . Page 28
+
+=== page 32 ===
+Docusign Envelope ID: 9274E1F 1-975C-49C5-949A-B37DA2C1FF82
+; ee
+NETWORK MERCHANTS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+17. Provisions
+Onerous
+lease Dilapidations
+. provision provision Total
+£ £ £
+At 1 January 2024 13,358 167,692 181,050
+Charged to profit or loss ot 25,080 25,080
+. Amounts utilised (13,358) (142,612) (155,970)
+At 31 December 2024 - 50,160 50,160
+Onerous lease provision :
+Where leasehold property becomes vacant, the group provides for all costs, net of anticipated income, to
+the end of the lease or the anticipated date of the disposal or sublease. The provision relates to offices in
+Bristol which were vacated in March 2020 and are surplus to the group's requirements. In March 2022,
+the company sublet its vacant offices in Bristol with the sublease running until December 2023.
+The provision was utilised over the remaining life of the lease once the offices became vacant again from
+December 2023 to January 2024.
+: Dilapidations provision
+As part of its property leasing agreements the company has an obligation to keep property repaired, to
+‘redecorate in the last year of term and fully reinstate our offices to as originally demised at the end of our
+lease. An assessment of the costs relating to the company's old office associated with these liabilities
+was conducted in June 2020 by external consultants, and an estimated charge of £101,369 determined.
+in 2024, it was agreed with the managing agent that the total cost of dilapidations for the old office was
+£142,612. The increase in the provision of £41,243 was charged to the profit and loss account in 2023.
+The provision was fully utilised in 2024.
+An assessment of the costs relating to the company's current office associated with these liabilities was
+conducted in July 2024 by external consultants, and an estimated charge of £180,766 determined.
+£25,080 of this estimate was charged to the profit and loss account in 2023 and in 2024.
+18. Share capital , :
+2024 2023
+£ £
+: Allotted, called up and fully paid .
+27,535,000 (2023: 27,535,000) Ordinary shares of 0.001p each 275 275
+Ordinary shares have one vote per share and right to distribution of the company retained earnings.
+There was no movement in the company share capital during the period.
+. Page 29
+
