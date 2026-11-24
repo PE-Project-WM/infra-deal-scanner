@@ -1,0 +1,1282 @@
+=== page 1 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93 :
+Registered No: 04836315
+Datapipe Europe Limited
+Annual report and financial statements
+for the year ended 31 December 2024
+! AG 28/10/2025 #74
+COMPANIES HOUSE
+
+=== page 2 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Annual report and financial statements for the year ended 31 December 2024
+Contents
+Officers and professional adViSOFS .............ccceccssseceeeseeseuseceeseseeseceeseeseenenecsesaesesecsesesassesssseeecsaeescseeesssestetateatensatseteeee T
+Strategic report for the year ended 31 December 2024 ..........ceeseseeeesesseeseesiecseesnesneeniestssneesensesnceneesnecnesseeneessesenee 2
+Directors’ report for the year ended 31 December 2024 ooo... ceecccecessccnesecseseececseseseseecseneecaeeenensesnseetstetststecteneeses D
+Independent auditors’ report to the members of Datapipe Europe Limited ..0.0.00.0.0. eect B
+Statement of comprehensive income for the year ended 31 December 2024.02.00... ce cecceeceeereeteeeeeeeeeeeee ee AZ
+Balance sheet as at 31 December 2024.00.00... ccc cscs cece ece cen cee ces ceeeerceecerceneeseereeenieaeeeeeeerertease eee dD
+Statement of changes in equity for the year ended 31 December 2024.0.0..........cccceccccccceeteeteeeeseeeseeceteteseaeseeeteneee 14
+Notes to the financial statements for the year ended 31 December 2024 ..0.0.......ccceececeeeeteeseeeseeeeteeeeeetteteteeeee 15
+
+=== page 3 ===
+Docusign Envelope ID: 34280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Officers and professional advisors
+The Board of Directors
+Aimee Marroquin
+Antony Rook
+Registered Office
+Unit 2, 6 Millington Road
+Hyde Park Hayes
+Hayes
+Middlesex
+UB3 4AZ
+Independent Auditors
+PricewaterhouseCoopers LLP :
+40 Clarendon Road
+Watford
+. Hertfordshire
+WD17 1JJ
+United Kingdom
+1
+
+=== page 4 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93 .
+Datapipe Europe Limited
+Strategic report for the year ended 31 December 2024
+The directors present the strategic report of Datapipe Europe Limited (the “Company") for the year ended 31 December 2024
+which is part of the annual report and audited financial statements.
+Principal activities
+The Company's principal activity is the provision of private and hybrid cloud services to the fast-growing UK market. Its services
+are all offered to customers on an annual or multi-year contract which provide the business with a high leve! of income visibility
+and maintaining this contracted turnover stream remains the principal strategy of the Company. The Company's future
+developments are discussed in the Strategic report.
+Business review :
+Revenue has decreased year on year by 85% (2024: £282,045, 2023: £1,831,283) due to customer churn (customers who have
+not renewed their contract at expiration). Cost of sales has decreased by 40% (2024: £2,105,324, 2023: £3,488,033) due to a fall
+in intercompany hosting expenses as a result of customer chum and a fall in rent and electricity costs due to two data centre
+leases expiring part way through 2024. The costs relating to data centre rental charges are fixed and whilst these leases ceased
+in 2024, the associated costs do not fall directly in line with revenue. This has resulted in a 10% increase to gross losses, with a
+result of £1,823,279 (2023: £1,656,750).
+The intercompany balance receivable from Datapipe Israel Limited totalling £2,222,453 was waivered in 2024 which has resulted
+in a significant increase to administrative expenses compared to 2023. -
+. During the year the company has recognised an impairment loss in relation to its investment in Adapt Services Limited of
+£1,130,264 (2023: £3,860,600). This is explained in further detail in note 13.
+On 25" April 2024 final dividends were issued from Centric Telecom Limited, Elinia Limited and Sleek Network Limited. These
+distributions related to a return of capital on the investments of £246,906 as well as dividend income of £2,831,759 (2023:
+£2,500,000 dividend received from Adapt Services Limited) (note 5).
+. The items outlined above have contributed to a loss before tax of £6,607,339 (2023: £8,544,469) which represents a decrease to
+losses of 23% compared to the prior year.
+The net liabilities of the company at the end of the year amounted to £76,259,781 (2023: net liabilities of £71,173,406), primarily
+due to increases losses incurred from decreases in revenue from customer, churn, impairments recognised to investments and
+intercompany loan waivers. £62,800,000 of this balance relates to an intercompany loan which is due to be repaid in August 2026.
+Effective on January 1, 2023, the Group reorganized around a two-business unit operating model, Public Cloud and Private
+Cloud. Public Cloud and Private Cloud have very different business dynamics and require different skill sets and levels of
+investment to manage. This two-business unit operating model ensures increased focus, delivery and service quality for our
+customers. Beginning in 2023, we changed our segment reporting to reflect this reorganization under two reporting segments:
+Public Cloud and Private Cloud. The services across these two segments fall under the umbrella of cloud computing and include:
+Private cloud services
+These service offerings provide compute, storage and applications accessed by a specific customer, either with a cloud
+management layer (in managed private cloud) or without one (in managed hosting). We offer managed private clouds powered
+by leading technologies like VMware, Microsoft and OpenStack in our data centres as well as in those owned by customers or
+by third parties such as colocation providers. We also offer managed VMware on AWS, delivering an increasingly popular hybrid
+combination. Our private cloud offerings can be used with or without virtualization software.
+Private Cloud: Rackspace Private Cloud enables our customers to achieve their business outcomes at our world class data
+centres or in a colocation or edge facility strategic to our customers’ success and connected by our RackConnect Global network
+service, virtual backbone, or provider-based network services. The Private Cloud product portfolio includes:
+¢ Programmatic Infrastructure
+Programmatic Infrastructure is the foundation of Private Cloud and includes hardware and services for compute,
+network, storage, and data protection services. We partner with OEMs like Dell, Cisco, Palo Alto Networks, and NetApp
+to provide standard offers at scale or solutions tailored to our customers’ specific needs. . .
+« Cloud Operating Systems
+These services provide the operating layer for physical devices with a software defined data center from VMware by
+Broadcom or OpenStack. These offers include Enterprise, Business, Flex, and Anywhere packages to match our
+customers’ needs and locations.
+¢ — Platform-as-a-Service
+Our PaaS offers include RMPK (a managed Kubernetes service), RXDB (a privately hosted Database-as-a-Service
+solution specializing in High Availability NoSQL databases), RSDM (a team of database experts to manage and :
+optimize your database estate), and SPOT (a unique cloud infrastructure offer auctioned in an open market as turnkey
+fully managed Kubernetes clusters).
+2
+
+=== page 5 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93,
+Datapipe Europe Limited
+Strategic report for the year ended 31 December 2024 (continued)
+Business review (continued)
+« Private Cloud Solutions
+These solutions are specific to certain customer use cases including Al, ERP services like SAP and Oracle, Epic
+workloads for customers in our healthcare vertical, and Sovereign and Government compliant services.
+« — Private Cloud Services
+To solve our customers’ challenges and meet them where they are in their digital transformation, we provide managed
+services, professional services, Elastic Engineering services, and security services. Additionally, our Rackspace Email
+service provides a fully managed email platform for customers and carriers.
+Public Cloud: These offerings address the challenges of managing applications and data on the AWS, Microsoft Azure and
+Google Cloud public clouds. We bundle the underlying public cloud infrastructure with our expertise and experience, managed
+services and proprietary tools. While the infrastructure providers are responsible for their data centres, servers, storage,
+networking and operating system software, we help customers navigate, migrate, modemize, architect and deploy their
+applications on those leading public cloud platforms. After a migration, we manage, secure and optimize the customer's
+environments on an ongoing basis using our tools, automation and expertise, while supporting the customer with robust service
+level agreements. These offerings do not require us to commit significant capital expenditures given that third parties provide the
+infrastructure.
+Within Public Cloud, we deliver innovative Cloud Offerings (pre-defined playbooks) that are delivered using services (Professional
+Services, Elastic Engineering, and Managed Services) to provide solutions to customer problems across all three public clouds
+(AWS, Azure, and Google Cloud). These solutions accelerate a "Do With" approach to cloud transformation and are enabled by
+Rackspace assets and accelerators. We take these solutions to our customers through four service lines - Cloud Platform, Cloud
+Apps, Cloud Security and Cloud Data.
+e — Cloud Platform
+The Cloud Platform Service Line focuses on providing platform-related services such as cloud strategy and
+architecture, platform and infrastructure migrations, and modem cloud infrastructure. The outcomes are to have a well-
+architected, optimized sustainable workloads on a cloud platform.
+*® Cloud Apps
+The application service line is focused on building and managing applications within a cloud technology stack. It
+involves building new cloud-native applications on AWS, Azure, and Google Cloud, as well as modernizing legacy
+applications through methods like re-platforming, container adoption, refactoring, and rewriting.
+e Cloud Security .
+We provide fully-integrated security solutions that combine cutting-edge technology with our in-house Security
+Operations Center to provide customers with threat detection, analysis and remediation capabilities. Additionally, we
+have integrated security platforms into our management tools to give our customers one view of their organization's
+vulnerability and threats.
+We offer additional managed security services to customers in the areas of (i) security threat assessment and
+prevention, (ii) proactive threat detection and response, (iii) rapid remediation, (iv) governance, risk and compliance
+assistance across multiple cloud platforms and (v) Privacy and Data Protection services, including detailed access
+restrictions and reporting. Our 24x7x365 Customer Security Operations Center is staffed by experienced Global
+Information Assurance Certification (GIAC) Security analysts. .
+* Cloud Data
+Cloud Data Services are dedicated to helping customers accelerate the adoption of modern data solutions while
+enabling their business transformation. Leveraging our IP, delivery frameworks, and reference architectures, we
+provide professional services and managed services across Data Modernization, Cloud Native Data Platforms, Self
+Service Analytics, Al, and Machine Learning across AWS, Azure, and Google Cloud.
+We offer professional services across our entire portfolio, including hybrid, multicloud solutions, applications, security and data.
+As part of our professional services process, we meet customers at every stage of their cloud journey and design solutions
+. focused on modemizing their infrastructure and applications to enhance the value of their cloud technologies. This process often .
+serves as the starting point for new business opportunities; following our initial professional services engagement, a customer
+will typically use any combination of our managed services under long-term contracts and will often use our professional services
+Multiple times as their technology needs continue to evolve. For some new customer relationships, the early stages of the
+relationship can be weighted toward infrastructure revenue; in these cases, our customer success sales team is tasked with up-
+selling and cross-selling additional services, including professional services, to enhance the overall customer relationship.
+Future developments
+: The directors aim to maintain the management policies and processes that support the principal activity of the Company. The
+Company is continually reviewing and refining these policies and processes to improve the framework of financial control and to
+manage costs effectively. Since the acquisition by Rackspace Limited, the Company continues to contract for the provision of
+services only for existing customers. All new customers are signed by other Rackspace group entities. The Company continues :
+to perform all support activities for their customer base.
+3
+
+=== page 6 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Strategic report for the year ended 31 December 2024 (continued)
+Principal risks and uncertainties
+Management has considered numerous risks that may affect the business such as competition, security breaches, interruptions
+to infrastructure, failure to maintain adequate internal systems, maintaining a high level of customer care, maintaining our
+corporate culture, managing our growth effectively, data centre capacity, current economic conditions, protecting and enforcing
+our intellectual property rights.
+Financial key performance indicators
+The key performance indicator for the Company is revenue and management of the cost. Revenue has decreased year on year
+by 85% (2023: 57% decline) due to customer churn. Costs of sales have decreased by 40% (2023: 36% decline) due to a fall in
+intercompany hosting expense as a result of customer churn and a fall in rent and electricity costs due to two data centre
+leases expiring part way through 2024. The costs relating to data centre rental charges are fixed and whilst these leases
+ceased in 2024 they mean that costs of sales do not fall directly in line with revenue. The gross loss margin has therefore
+declined year on year (2024: (646%), 2023: (90%)). The impact of the above has increased gross losses by 10%. Management
+continues to review performance on a regular basis and appropriate actions are taken as required.
+This report. was approved by the board on 21* October 2025 and signed on its behalf by:
+Rime Mawrvoepsiv.
+
+A Marroquin
+Director
+21* October 2025
+
+: 4
+
+=== page 7 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Directors’ report for the year ended 31 December 2024
+The directors present their annual report and the audited financial statements for Datapipe Europe Limited (the "Company”) for
+the year ended 31 December 2024.
+Principal activities
+The Company's principal activity is the provision of private and hybrid cloud services to the fast-growing UK market. Its services
+are all offered to customers on an annual or multi-year contract which provide the business with a high level of income visibility
+and maintaining this contracted turnover stream remains the principal strategy of the Company. The Company’s future
+developments are discussed in the Strategic report.
+Results and dividends
+
+° Revenue has decreased year on year by 85% (2024: £282,045, 2023: £1,831,283) due to customer churn (customers who have
+not renewed their contract at expiration). Cost of sales has decreased by 40% (2024: £2,105,324, 2023: £3,488,033) due to a fall
+in intercompany hosting expenses as a result of customer churn and a fall in rent and electricity costs due to two data centre
+leases expiring part way through 2024. The costs relating to data centre rental charges are fixed and whilst these leases ceased
+in 2024, the associated costs do not fall directly in line with revenue. This has resulted in a 10% increase to gross losses, with a
+tesult of £1,823,279 (2023: £1,656,750).
+The intercompany balance receivable from Datapipe Israel Limited totalling £2,222,453 was waivered in 2024 which has resulted
+
+. in a significant increase to administrative expenses compared to 2023.
+During the year the company has recognised an impairment loss in relation to its investment in Adapt Services Limited of
+£1,130,264 (2023: £3,860,600). This is explained in further detail in note 13.
+On 25th April 2024 final dividends were issued from Centric Telecom Limited, Elinia Limited and Sleek Network Limited. These
+distributions related to a return of capital on the investments of £246,906 as well as dividend income of £2,831,759 (2023:
+£2,500,000 dividend received from Adapt Services Limited) (note 5).
+The items outlined above have contributed to a loss before tax of £6,607,339 (2023: £8,544,469) which represents a decrease to
+losses of 23% compared to the prior year.
+The net liabilities of the company at the end of the year amounted to £76,259,781 (2023: net liabilities of £71,173,406), primarily :
+due to increases losses incurred from decreases in revenue from customer churn, impairments recognised to investments and
+intercompany loan waivers. £62,800,000 of this balance relates to an intercompany loan which is due to be repaid in August 2026.
+The company will continue to provide private and hybrid cloud services to existing customers in the fast-growing UK market.
+Going concern
+The Company is in a net current liability position of £14,436,426 (2023: net current liability of £10,747,021). The company is ina
+net liabilities position at year end of £76,259,781 (2023: £71,173,406) primarily due to decreases in revenue resulting from
+customer churn and impairments recognised to investments. £62,800,000 of this balance relates to an intercompany loan which
+is due to be repaid in August 2026.
+Given the customer contracts are being renewed with other group entities, we have considered revenue with highest churn and
+extrapolated fixed costs. In addition, we haven't considered repayment of intercompany loan as it is not due until August 2026.
+After considering these aspects, we have obtained a letter of support from Rackspace Technology, Inc., to support the company
+in its operations for at least 12 months from the signing of financial statements and also support the company in repaying the
+intercompany loan. Therefore, the directors have adopted going concern basis of preparation in the financial statements.
+Events subsequent to reporting date
+There are no other adjusting events that existed at the balance sheet date.
+Russian invasion of Ukraine
+On 24 February 2022, Russla Invaded Ukraine, marking this as a major advance in the ongoing Russo-Ukrainian conflict that
+commenced in 2014. The Company is closely monitoring the development of the ongoing conflict and its related impact on the
+Company's business, particularly in the Moscow branch. Principal concern areas include the impact of sanctions on the operations
+of the company, supply chain and resource disruptions (including staff), loss of business relationships and financial restrictions.
+The Moscow branch is a customer gears leased to Nike customer. It is not constituted by the Russian law or domiciled in Russia.
+The assets and liabilities are not significant and are confined to bank balance, trade receivables, PPE as well as the deferred tax
+asset with small amount of liabilities. In addition, the branch’s gross assets position is £107,447 as of December 2024 and
+liabilities position is £34. The entity has ceased trading since the reporting date and is currently being transitioned to dormant
+status.
+The branch's exposure is not deemed material for the Company and the conflict has not had a significant impact on the Company's
+operations or financial performance. :
+5
+
+=== page 8 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Directors’ report for the year ended 31 December 2024 (continued)
+; Carbon Emission Reporting .
+Per the guidance of the Department for Business, Energy and Industrial Strategy (BEIS), an analysis of the Company's carbon
+emissions under Streamlined Energy & Carbon Reporting was carried out for the year ending December 2024. It was concluded
+that the Company is not in scope for Carbon emission reporting as it does not meet the threshold of Large companies in the
+current year and preceding years.
+Financial risk management
+The Company finances its activities with a combination of intercompany loans, operating leases, cash and short-term deposits
+and capital contributions. Overdrafts are used to satisfy short term cash flow requirements. Other financial assets and liabilities,
+such as trade receivables and trade payables arise directly from the Company's operating activities. Financial instruments give
+tise to credit risk, liquidity risk, interest rate and foreign currency risk.
+Credit risk
+Credit risk is the risk of financial loss to the Company if a customer or counterparty to a financial instrument fails to meet its
+contractual obligations and arises principally from the Company's trade. The Company has a detailed bad debt policy that
+considers factor such as ageing profile and historic default rates. See Note 14 for exact provision details.
+Liquidity risk
+Liquidity risk is the risk that the Company will not be able to meet its financial obligations as they fall due. The Company's use of
+financial instruments is confined to bank accounts. Management ensures that the Company has sufficient cash at bank and debt
+facilities from group undertakings to allow it to settle all obligations as they fall due.
+Foreign currency risk
+Foreign currency risk exists where a financial transaction is denominated in a currency other than the functional currency of the
+Company with the risk being an adverse movement in the exchange rate of the denomination currency in relation to the functional
+currency before the date of the transaction is completed.
+Most customers are invoiced, and substantially all of the Company's expenses are paid, in the functional currency of the
+Company however some customers are invoiced in currencies other than the functional currency.
+Directors
+The directors who served during the year and up to the date of signing the financial statements were:
+Aimee Marroquin
+Antony Rook
+Qualifying third party directors’ indemnity
+Rackspace US, Inc. has purchased directors’ and officers’ liability insurance for all directors and maintained such insurance
+. throughout the year and at the date of approval of the financial staternents. The company has entered into a qualifying third party .
+indemnity arrangement for the benefit of all its directors in a form and scope which comply with the requirements of the Companies
+Act 2006 and which were in force throughout the year and remain in force.
+Cover was in place during the financial year and up to the date of signing the financial statements, in respect of payments incurred
+by directors or officers of the Company in respect of losses arising from:
+* — any claim made against them by reason of wrongful acts committed by them whilst in the capacity of director or officer of
+the Company;
+
+« disqualification proceedings;
+« the attendance at an investigation; and
+«attendance at any environmental proceedings. :
+
+6
+
+=== page 9 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Directors’ report for the year ended 31 December 2024 (continued)
+Statement of directors’ responsibilities in respect of financial statements
+The directors are responsible for preparing the Annual Report and financial statements in accordance with applicable law and
+regulation.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have
+prepared the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom
+Accounting Standards, comprising FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland”,
+and applicable law). Under company law the directors must not approve the financial statements unless they are satisfied that
+they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that period. In
+preparing the financial statements, the directors are required to:
+* select suitable accounting policies and then apply them consistently;
+¢ state whether applicable United Kingdom Accounting Standards, comprising FRS 102, have been followed, subject to
+any material departures disclosed and explained in the financial statements;
+e make judgements and accounting estimates that are reasonable and prudent; and
+© prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company
+will continue in business.
+The directors are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company’s
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure
+that the financial statements comply with the Companies Act 2006.
+: Disclosure of information to auditors
+In the case of each director in office at the date the Directors’ Report is approved:
+; ¢ so far as the director is aware, there is no relevant audit information of which the company’s auditors are unaware; and
+« they have taken all the steps that they ought to have taken as a director in order to make themselves aware of any
+relevant audit information and to establish that the company’s auditors are aware of that information.
+Independent auditors
+PricewaterhouseCoopers LLP will conclude its term as the Company's independent auditors at the end of the current financial
+year.
+This report was approved by the board on 21% October 2025 and signed on its behalf by:
+Rimee Marreeprin,
+A Marroquin
+21* October 2025
+Director .
+7
+
+=== page 10 ===
+Independent auditors’ report to the
+
+directors of Datapipe Europe Limited
+
+Report on the audit of the financial statements
+
+Opinion
+
+In our opinion, Datapipe Europe Limited’s financial statements:
+
+e give a true and fair view of the state of the company’s affairs as at 31 December 2024 and of its loss
+for the year then ended;
+
+e have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice (United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard
+applicable in the UK and Republic of Ireland”, and applicable law); and
+
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+We have audited the financial statements, included within the Annual Report and financial statements
+
+(the “Annual Report”), which comprise: the Balance sheet as at 31 December 2024; Statement of
+
+comprehensive income, Statement of changes in equity for the year then ended; and the notes to the
+
+financial statements, which include a description of the significant accounting policies.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (“ISAs (UK)”) and
+
+applicable law. Our responsibilities under ISAs (UK) are further described in the Auditors’ responsibilities
+
+for the audit of the financial statements section of our report. We believe that the audit evidence we
+have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+. Independence . .
+We remained independent of the company in accordance with the ethical requirements that are relevant
+to our audit of the financial statements in the UK, which includes the FRC’s Ethical Standard, and we have
+fulfilled our other ethical responsibilities in accordance with these requirements.
+
+Conclusions relating to going concern
+
+Based on the work we have performed, we have not identified any material uncertainties relating to
+
+events or conditions that, individually or collectively, may cast significant doubt on the company’s ability
+
+to continue as a going concern for a period of at least twelve months from when the financial statements
+are authorised for issue.
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern
+
+basis of accounting in the preparation of the financial statements is appropriate.
+
+; However, because not all future events or conditions can be predicted, this conclusion is not a guarantee
+as to the company's ability to continue as a going concern. ‘
+8
+
+=== page 11 ===
+Our responsibilities and the responsibilities of the directors with respect to going concern are described
+
+in the relevant sections of this report.
+
+Reporting on other information
+
+The other information comprises all of the information in the Annual Report other than the financial
+
+statements and our auditors’ report thereon. The directors are responsible for the other information.
+
+Our opinion on the financial statements does not cover the other information and, accordingly, we do
+
+not express an audit opinion or, except to the extent otherwise explicitly stated in this report, any form
+
+of assurance thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other
+
+information and, in doing so, consider whether the other information is materially inconsistent with the
+
+financial statements or our knowledge obtained in the audit, or otherwise appears to be materially
+
+misstated. If we identify an apparent material inconsistency or material misstatement, we are required
+
+to perform procedures to conclude whether there is a material misstatement of the financial statements
+
+or a material misstatement of the other information. If, based on the work we have performed, we
+
+conclude that there is a material misstatement of this other information, we are required to report that
+
+fact. We have nothing to report based on these responsibilities.
+
+With respect to the Strategic report and Directors’ report, we also considered whether the disclosures
+
+required by the UK Companies Act 2006 have been included.
+
+Based on our work undertaken in the course of the audit, the Companies Act 2006 requires us also to
+
+report certain opinions and matters as described below.
+
+Strategic report and Directors' report
+
+In our opinion, based on the work undertaken in the course of the audit, the information given in the
+
+Strategic report and Directors' report for the year ended 31 December 2024 is consistent with the
+
+financial statements and has been prepared in accordance with applicable legal requirements.
+
+In light of the knowledge and understanding of the company and its environment obtained in the course
+
+of the audit, we did not identify any material misstatements in the Strategic report and Directors’ report.
+
+Responsibilities for the financial statements and the audit
+
+Responsibilities of the directors for the financial statements
+
+As explained more fully in the Statement of directors’ responsibilities in respect of the financial
+
+statements, the directors are responsible for the preparation of the financial statements in accordance
+
+with the applicable framework and for being satisfied that they give a true and fair view. The directors
+: are also responsible for such internal control as they determine is necessary to enable the preparation
+
+of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability
+
+to continue as a going concern, disclosing, as applicable, matters related to going concern and using the
+
+going concern basis of accounting unless the directors either intend to liquidate the company or to cease
+
+operations, or have no realistic alternative but to do so.
+
+9
+
+=== page 12 ===
+Auditors’ responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+
+are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that
+
+- includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the
+
+basis of these financial statements.
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect
+
+of irregularities, including fraud. The extent to which our procedures are capable of detecting
+irregularities, including fraud, is detailed below.
+
+Based on our understanding of the company and industry, we identified that the principal risks of non-
+
+compliance with laws and regulations related to Data Protection, environmental regulations,
+
+Communications Act 2003, Schedule 46 Finance Act 2009, Climate Change regulations, Corporate
+
+Sustainability Reporting Directive (CSRD) and customs duties, and we considered the extent to which
+
+non-compliance might have a material effect on the financial statements. We also considered those laws
+
+and regulations that have a direct impact on the financial statements such as the Companies Act 2006,
+
+Streamlined Carbon Emission Reporting, Accounting Regulations and relevant UK tax legislation. We
+
+evaluated management’s incentives and opportunities for fraudulent manipulation of the financial
+
+statements (including the risk of override of controls), and determined that the principal risks were
+related to posting inappropriate journal entries to manipulate financial results and potential
+management bias in the selection and application of significant accounting judgements and estimates.
+
+Audit procedures performed by the engagement team included:
+
+Evaluation of design effectiveness of management's controls in relation to period end financial
+reporting.
+
+e Enquiry with management about known or suspected instances of non-compliance with laws and
+regulations and fraud and the review of the legal expense account code to assess if there are any
+undisclosed litigation and claims. .
+
+e Identifying and testing validity of journal entries posted with unusual account combinations following
+our risk criteria assessment.
+
+¢ Considering management's judgements and estimates and assessed them for bias.
+e Reviewed minutes of meetings of management and board of directors.
+There are inherent limitations in the audit procedures described above. We are less likely to become
+aware of instances of non-compliance with laws and regulations that are not closely related to events
+and transactions reflected in the financial statements. Also, the risk of not detecting a material
+misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may
+involve deliberate concealment by, for example, forgery or intentional misrepresentations, or through
+collusion.
+
+A further description of our responsibilities for the audit of the financial statements is located on the
+
+FRC’s website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditors’
+
+; report. ‘ , :
+10
+
+=== page 13 ===
+Use of this report
+This report, including the opinions, has been prepared for and only for the company’s directors as a body
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other purpose. We do not,
+in giving these opinions, accept or assume responsibility for any other purpose or to any other person to
+whom this report is shown or into whose hands it may come save where expressly agreed by our prior
+consent in writing.
+Other required reporting
+Companies Act 2006 exception reporting
+Under the Companies Act 2006 we are required to report to you if, in our opinion:
+e we have not obtained all the information and explanations we require for our audit; or
+e adequate accounting records have not been kept by the company, or returns adequate for our audit
+have-not been received from branches not visited by us; or
+e certain disclosures of directors’ remuneration specified by law are not made; or
+e the financial statements are not in agreement with the accounting records and returns.
+We have no exceptions to report arising from this responsibility.
+Andrey Kucherovskiy (Senior Statutory Auditor)
+for and on behalf of PricewaterhouseCoopers LLP
+Chartered Accountants and Statutory Auditors
+Watford
+21 October 2025
+11
+
+=== page 14 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Statement of comprehensive income for the year ended 31 December 2024
+Notes 2024 2023
+£ £
+Revenue 5 282,045 1,831,283
+Cost of sales (2,105,324) (3,488,033)
+Gross loss (1,823,279) (1,656,750)
+Administrative expenses (2,144,822) (429,450)
+Impairment of other assets 6 (104,281) (327,073)
+Impairment of investments . 13 (1,130,264) (3,860,600)
+Income from shares in group undertakings 5 2,831,759 2,500,000
+: Operating loss 6 (2,370,887) (3,773,873)
+Other interest receivable and similar income 9 3,055 5,691
+Interest payable and similar expenses 10 (4,239,507) (4,776,287)
+Loss before taxation (6,607,339) (8,544,469)
+Tax on loss 11 1,520,964 1,600,573
+Loss for the financial year (5,086,375) (6,943,896)
+Total comprehensive loss for the year (5,086,375) (6,943,896)
+All of the activities of the Company are classed as continuing.
+The notes on pages 15 to 28 form an integral part of the financial statements.
+12
+
+=== page 15 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Balance sheet as at 31 December 2024 .
+31 December 31 December
+Note 2024 2023
+. £ £
+Fixed assets
+Tangible assets 12 67,509 87,309
+Investments 13 909,136. 2,286,306
+976,645 2,373,615
+Current assets :
+Debtors (£1,008,000 falling due after one year (2023: Enil)) 14 2,907,038 7,271,354
+Deferred taxation (falling due after one year) 15 3,386,978 2,115,711
+Cash at bank and in hand 328,567 1,010,649
+6,622,583 10,397,714
+Creditors: amounts falling due within one year 16 (21,059,009) (21,144,735)
+Net current liabilities (14,436,426) (10,747,021)
+Total assets less current liabilities (13,459,781) (8,373,406)
+Creditors: amounts falling due after more than one year 17 {62,800,000) (62,800,000)
+Net liabilities (76,259,781) (71,173,406)
+Capital and reserves
+Called up share capital* 19 - -
+Share premium account - -
+Capital contribution 19 32,961,106 32,961,106
+Profit and loss account 19 (109,220,887) (104,134,512)
+Total shareholders’ deficit (76,259,781) (71,173,406)
+“Balance included £0.001.
+These financial statements on pages 12 to 28 were approved and authorised for issue by the Board of Directors on 21* October 2025,
+and are signed on its behalf by:
+Limes Mavvoopin.
+A Marroquin .
+Director
+The notes on pages 15 to 28 form an integral part of these financial statements.
+13
+
+=== page 16 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited ;
+Statement of changes in equity for the year ended 31 December 2024
+Called up Total’
+share Share Capital Profit and loss shareholders’
+capital* premium contribution account deficit
+£ £ £ £ £
+Balance as at 1 January
+2023 - - 32,961,106 (97,190,616) (64,229,510)
+Loss and total
+comprehensive expense for - - - (6,943,896) (6,943,896)
+the year
+Balance as at 31
+December 2023 - - 32,961,106 (104,134,512) (71,173,406)
+Balance as at 1 January
+2024 - - 32,961,106 (104,134,512) (71,173,406)
+Loss and total .
+comprehensive expense for - - - (5,086,375) (5,086,375)
+the year
+As at 31 December 2024 - : 32,961,106 (109,220,887) (76,259,781)
+*Balance included £0.001.
+The notes on pages 15 to 28 form an integral part of these financial statements.
+14
+
+=== page 17 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024
+1. General information
+Datapipe Europe Limited (the “Company’) is a private company limited by shares and is incorporated and domiciled in England,
+United Kingdom. The address of its registered office and Company is Unit 2, 6 Millington Road, Hyde Park Hayes, Hayes,
+Middlesex, UB3 4AZ. The registered number of the Company is 04836315.
+The principal activity of the Company is outlined in the Directors’ report.
+_ 2. Statement of compliance
+
+The financial statements have been prepared in compliance with United Kingdom Accounting Standards, including Financial
+Reporting Standard 102, “The Financial Reporting Standard applicable in the United Kingdom and the Republic of Ireland” ("FRS
+102”) and the Companies Act 2006.
+3. Accounting Policies
+Summary of significant accounting policies
+The principal accounting policies applied in the preparation of the financial statements are set out below. These policies have
+been consistently applied to all the periods presented, unless otherwise stated.
+Basis of preparation :
+These financial statements are prepared on a going concern basis, under the historical cost convention and in accordance with
+the Companies Act 2006 and applicable accounting standards in the United Kingdom.
+The preparation of financial statements in conformity with FRS 102 requires the use of certain accounting estimates. It also
+requires management to exercise its judgement in the process of applying the Company's accounting policies. The areas involving
+a high degree of judgement or complexity, or areas where assumptions and estimates are significant to the financial statements
+are disclosed in note 4. ©
+Financial reporting standard 102 - reduced disclosure exemptions
+The Company has taken advantage of the following disclosure exemptions in preparing the financial statements, as permitted by
+the FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland”:
+
+« — the requirements of Section 7 Statement of Cash Flows;
+
+« the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d);
+
+e the requirements of Section 11 Financial Instruments paragraphs 11.39 to 11.48A;
+
+* the requirements of paragraphs 12.26, 12.27, 12.29(a), 12.29(b), 12.29A and 12.30;
+
+* — the requirements of Section 26.18(b), 26.19 to 26.21 and 26.23;
+
+« the requirements of Section International tax reform — Pillar Two model rules 29.28 and 29.29
+
+« the requirements of Section 33 Related Party Disclosures paragraph 33.7.
+This information is included in the consolidated financial statements of Rackspace Technology, Inc. for the year ended 31
+December 2024.
+Principles of consolidation
+
+. The Company is a member of a group of companies, where an intermediate parent company and largest group of
+° undertakings, Rackspace Technology, Inc. (note 20) includes the Company in its consolidated financial statements. Therefore, en
+the Company has taken advantage of the exemptions available under section 401 of the Companies Act 2006 from the
+requirement to prepare consolidated financial statements. The consolidated financial statements of this group may be obtained
+from ir.rackspace.com.
+15
+
+=== page 18 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+3. Accounting Policies (continued)
+Going concern
+The Company is in a net current liability position of £14,436,426 (2023: net current liability of £10,747,021). The company is ina
+net liabilities position at year end of £76,259,781 (2023: £71,173,406) primarily due to decreases in revenue resulting from
+customer churn and impairments recognised to investments. £62,800,000 of this balance relates to an intercompany toan which
+is due to be repaid in August 2026.
+Given the customer contracts are being renewed with other group entities, we have considered revenue with highest churn and
+extrapolated fixed costs. In addition, we haven't considered repayment of intercompany loan as it is not due until August 2026.
+After considering these aspects, we have obtained a letter of support from Rackspace Technology, Inc., to support the company
+in its operations for at least 12 months from the signing of financial statements and also support the company in repaying the
+intercompany loan. Therefore, the directors have adopted going concern basis of preparation in the financial statements.
+Foreign currency
+The Company's functional and presentation currency is British Pound Sterling.
+Revenue
+Revenue is recognised to the extent that it is probable that economic benefits will flow to the Company and the revenue can be
+reliably measured. Revenue is measured as the fair value of the consideration received or receivable, exclusive of discounts and
+value added tax.
+Non-recurring revenue: customers are billed in accordance with the contractual terms; if the customers are billed in advance, the
+associated revenue is reflected as deferred income. Revenue is released to the Statement of Comprehensive Income as work is
+completed and services go live.
+Recurring revenue: customers are billed monthly, quarterly or annually in advance. Revenue consists primarily of recurting
+monthly fees from hosting services which is recognised as the services are provided. Hosting service contracts range from one
+month to 5 years. Payments received and billings in advance of providing services are deferred until the services are provided.
+Unbilled invoices for services provided is accrued at the end of each period. At the point of invoicing the associated revenue is
+reflected as deferred income. Revenue is released to the Statement of Comprehensive Income in the financial year the services
+are delivered.
+Fixed asset investments
+Investments in subsidiary undertakings are recorded at cost plus incidental expenses less any provision for impairment.
+Impairment reviews are performed by the directors when there has been an indication of potential impairment.
+Tangible fixed assets and depreciation
+All tangible fixed assets are shown at their original cost to the Company, less accumulated depreciation and impairment losses. :
+Cost includes the original purchase price of the asset and the costs attributable to bringing the asset to its working condition for
+its intended use.
+During the year management reassessed the useful economic life ("UEL”) of computer equipment and revised the UEL to between
+6 years and 7 years, effective from 1 January 2024. This replaces the UEL for previous years of between 4 years and 6 years.
+Depreciation is calculated to write down the cost of an asset, on a straight-line basis over the estimated useful economic life of
+that asset. Depreciation is charged from the month of purchase at the following rates:
+
+Leasehold improvements - Over the period of the lease
+
+Computer equipment -6-7 years
+
+Fixtures and Fittings - 5-7 years
+Assets’ residual values, useful economic lives and depreciation methods are reviewed and adjusted prospectively if appropriate,
+or if there is any indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised within
+administrative expenses within the statement of comprehensive income.
+
+16
+
+=== page 19 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+3. Accounting Policies (continued)
+Cash at bank and in hand
+Cash at bank and in hand includes cash in hand, deposits held at call with banks and bank overdrafts. Bank overdrafts, when
+applicable, are shown within borrowings in current liabilities.
+Leased assets
+At inception the Company assesses agreements that transfer the right to use assets.. The assessment considers whether the
+arrangement is, or contains, a lease based on the substance of the arrangement.
+Operating leased assets .
+Leases that do not transfer all the risks and rewards of ownership are classified as operating leases. Payments (excluding costs
+for services and insurance) made under operating leases are recognised in the profit and loss account on a straight-line basis
+over the term of the lease. Lease incentives received are recognised in the profit and loss account as an integral part of the total
+lease expense.
+Income tax
+Income tax expense comprises current and deferred tax. It is recognised in profit or toss except to the extent that it relates to
+items recognised directly in equity or in other comprehensive income..
+Current or deferred taxation assets and liabilities are not discounted.
+) Current tax
+Current tax is the expected tax payable or receivable on the taxable income or loss for the year, using tax rates enacted or
+substantively enacted at the balance sheet date and any adjustment to tax payable in respect of previous years. The Company
+is a member of a qualifying group of UK resident companies which are considered a tax group under the group relief tax system.
+Under this system, current tax liabilities can be offset by current tax losses arising in other companies within the same tax group.
+Beginning in 2019, payment for group relief is made equal to the tax benefit and amounts are included within the current tax
+disclosures.
+(ii) Deferred tax
+Deferred tax is recognised in respect of temporary differences between the carrying amounts of assets and liabilities for financial
+teporting purposes and the amounts used for taxation purposes. Deferred tax is not recognised for temporary differences on the
+initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither accounting nor
+taxable profit or loss.
+Deferred tax is measured at the tax rates that are expected to be applied to temporary differences when they reverse, using tax
+rates enacted or substantively enacted at the reporting date. The measurement of deferred tax reflects the tax consequences
+that would follow the manner in which the Group expects, at the reporting date, to recover or settle the carrying amount of its
+assets and liabilities. Deferred tax assets and liabilities are offset only if certain criteria are met.
+
+" Adeferred tax asset is recognised for unused tax losses, tax credits and deductible temporary differences, to the extent that itis
+probable that future taxable profits will be available against which they can be utilised. Deferred tax assets are reviewed at each
+reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realised.
+
+Early termination and abandonment , .
+
+As of 30 June 2021, the Company migrated out of two principal datacentres into vacant spaces utilized by Rackspace Limited
+(note 20). This was to better utilize datacentre capacity, reduce carbon footprint and cut down expenditure. The agreement was
+to remain in the space until 2024. However, with the change in strategy, the contract became onerous for the year ending 31
+December 2021. A provision was made based on expected future cash payments discounted at the prevailing incremental
+borrowing rate. The liability was reduced by £2,259,150 for the year ending 31 December 2024 and has created an associated
+abandonment expense of £104,281.
+
+17 :
+
+=== page 20 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+3. Accounting Policies (continued)
+Financial instruments
+The Company has chosen to adopt sections 11 and 12 of FRS102 in respect of financial instruments.
+i) Financial assets
+Basic financial assets, including trade and other receivables, amounts owed by group companies and cash and bank balances
+are initially recognised at transaction price, unless the arrangement constitutes a financing transaction, where the transaction is :
+measured at the present value of the future receipts discounted at a market rate of interest.
+Such assets are subsequently carried at amortised cost using the effective interest method.
+At the end of each reporting period financial assets measured at amortised cost less any impairment losses are assessed for
+objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and
+the present value of the estimated cash flows discounted at the assets original effective interest rate. The impairment loss is
+recognised in profit or loss. .
+If there is a decrease in impairment loss arising from an event occurring after the impairment was recognised, the impairment is
+reversed. The reversal is such that the current carrying amount does not exceed what the carrying amount would have been had
+the impairment not previously been recognised. The impairment reversal is recognised in profit or loss.
+Financial assets are derecognised when (a) the contractual rights to the cash flows from the asset expire or are settled, or (b)
+substantially all the risks and rewards of the ownership of the asset are transferred to another party or (c) despite having retained
+some significant risks and rewards of ownership, control of the asset has been transferred to another party who has the practical
+ability to unilaterally sell the asset to an unrelated party without imposing additional restrictions.
+Financial assets measured at amortised cost comprise of trade receivables, other receivables, accrued income and amounts due
+from group companies.
+Financial liabilities measured at amortised cost comprise of trade payables, other payables, obligations under hire purchase and
+finance lease agreements and amounts owed to group companies.
+(ii) Financial liabilities
+Basic financial liabilities, including trade and other payables, obligations under hire purchase and finance lease agreements and
+loans from fellow group companies that are classified as debt, are initially recognised at transaction price, unless the arrangement
+constitutes a financing transaction, where the debt instrument is measured at the present value of the future receipts discounted
+at a market rate of interest.
+Debt instruments are subsequently recognised at amortised cost, using the effective interest method.
+Fees paid on the establishment of loan facilities are recognised as transaction costs of the loan to the extent that it is probable
+that some or all of the facility will be drawn down. In this case, the fee is deferred until the draw-down occurs. To the extent there
+is no evidence that it is probable that some or all of the facility will be drawn down, the fee is capitalised as a pre-payment for
+liquidity services and amortised over the period of the facility to which it relates.
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary course of business from
+suppliers. Trade payables are classified as current liabilities if payment is due within one year or less. If not, they are presented
+as non-current liabilities. Trade payables are recognised initially at transaction price and subsequently measured at amortised
+cost using the effective interest method.
+Financial liabilities are derecognised when the liability is extinguished, that is when the contractual obligation is discharged,
+cancelled or expires.
+
+18
+
+=== page 21 ===
+Docusign Envelope 1D: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+3. Accounting Policies (continued)
+Finance Costs {interest receivable and similar income and interest payable and similar charges)
+Finance costs are charged to the Statement of Comprehensive Income over the term of the debt using the effective interest
+method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction
+in the proceeds of the associated capital instrument. These costs are included within interest payable and similar charges. Interest
+receivable is charged to the Statement of Comprehensive Income on selected group undertakings receivable balances.
+Share capital
+Ordinary shares and capital contribution are classified as equity. Incremental costs directly attributable to the issue of new ordinary
+shares or options are shown in equity as a deduction, net of tax, from the proceeds. Reserves includes profit or loss generated
+from operations that are distributable to shareholders.
+Cost of sales and administrative expenses
+Cost of revenue primarily consists of expenses related to software licenses, the costs to operate our data center facilities,
+including, infrastructure expense related to our service offerings bundied with third party clouds. Data center facility costs include
+rent, utility costs, maintenance fees, and bandwidth.
+Selling and general and administrative expenses primarily consist of: (i) costs for advertising and promoting our services and to
+generate customer demand; (ii) general costs such as office facilities, software, and equipment expenses, including the related
+depreciation, and other overhead costs.
+4. Critical accounting estimates and assumptions
+The preparation of the financial statements requires management to make judgements, estimates and assumptions that affect
+the application of the accounting policies and the reported amounts of assets and liabilities, revenue and expenses. Actual results
+may differ from these estimates.
+Estimates and underlying assumptions are continually evaluated and are based on historical experience and other factors,
+including expectations of future events that are reasonable under the circumstances. Revisions to accounting estimates are
+recognised in the period in which the estimates are revised and in any future periods affected. The estimates and assumption
+that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next
+financial year are addressed below.
+impairment of trade receivables
+The Company makes an estimate of the recoverable value of trade and other debtors. When assessing impairment of trade and
+other receivables, management considers factors including the ageing profile of receivables, the current financial situation of
+customers and considers their ability to meet payment obligations. This involves analysing historical payment patterns, current
+economic conditions, and forward-looking information to estimate expected credit losses. The Company applies the IFRS 9
+simplified approach to measuring expected credit losses which uses a lifetime expected loss allowance for all trade receivables
+and contract assets. See note 14 for the net carrying amount of receivables and associated impairment provisions.
+
+19
+
+=== page 22 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+4. Critical accounting estimates and assumptions (continued)
+Impairment on investments
+The Company performs an impairment assessment annually on each of its trading subsidiaries to determine if there is any
+indication of impairment on these assets by assessing the asset position against carrying value of the investment. If any such
+indication exists, then an estimated recoverable amount is calculated using net book values combined with estimated future
+cashflows. For the year ending 31 December 2024, the net asset position excluding intercompany receivables and payables are
+lower than the investment value. Hence, management considered it is necessary to calculate value in use to assess the
+recoverable value of investment in these subsidiaries. In calculating the carrying value, we have projected future revenue based
+on historic churn as well as churn forecasted in the future based on actual contracts.
+In addition, the Company receives an estimated income based on lost revenue associated with migration of customers from
+Adapt Limited to Rackspace International GMBH. The cost is estimated based on fixed cost of running datacentres and variable
+cost aligned with revenue. :
+For the year ending 31 December 2024, management have noted that there was an indicator of impairment for its investment in
+Adapt Services Limited as neither the subsidiary’s net assets nor future discounted cashflows supported the value recognised
+within the Company's statement of financial position. Management deemed it necessary to impair the investment. For the year
+ending 31 December 2024, an impairment of £1,130,264 was recognised in relation to the Company's investment in Adapt .
+Services Limited. Note 13 details the assumptions used in calculating the impairment.
+Recoverability of deferred tax asset
+The company recognises deferred tax assets arising from temporary differences in relation to capital allowances and trading
+losses. Under UK tax laws, the deferred tax assets associated with capital allowances and trading losses are recoverable as they
+available for utilisation via group relief. Therefore, the deferred tax asset recognised is recoverable.
+Revenue Recognition
+Revenue recognition involves certain key judgements and estimates that materially affect the timing and amount of revenue
+reported. These judgements are particularly relevant given the nature of our services provided and the structure of our contractual
+arrangements.
+Judgement in identifying performance obligations: Management exercises judgement in determining whether the services
+provided constitute a single performance obligation or multiple distinct obligations. Contract wording and conditions are assessed
+to determine the key criteria in which performance obligations are satisfied and revenue is recognised.
+Timing of revenue recognition: Judgement is applied in determining the timing of revenue recognition, particularly where services
+are performed continuously over time. Revenue is recognised as services are performed, which may differ from the timing of
+invoicing. This requires the recognition of contract assets or deferred revenue depending on the billing cycle.
+
+20
+
+=== page 23 ===
+Docusign Envelope ID: 34280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+5. Revenue and other income : ;
+Revenue
+The whole of revenue is attributable to the principal activity of the Company. An analysis of geographical revenue by destination -
+is given below:
+2024 2023
+£ £
+United Kingdom 94,994 727,450
+. Rest of the world 187,051 1,103,833
+Total 282,045 1,831,283
+An analysis of revenue by product line is given below: :
+2024 2023
+£ £
+Hosting Services 282,045 1,831,283
+Income from shares in group undertakings
+During 2024, the Company received dividend income from the entities below:
+2024 2023
+. £ £
+Dividend received from Adapt Services Limited - 2,500,000
+Dividend received from Sleek Networks Limited 470,369 -
+Dividend received from Centric Telecom Limited 1,399,037 -
+Dividend received from Elinia Limited 962,353 -
+Total 2, 831,759 2,500,000
+6. Operating loss
+Operating loss is stated after charging:
+2024 2023 :
+£ £
+Depreciation of fixed assets (note 12) 19,800 27,460
+Audit services provided by the Company’s auditors with respect to the company's and
+other group companies financial statements 87,422 92,045
+Other professional services . -
+Operating lease rentals - land and building 1,285,466 1,714,070
+impairment of trade receivables (note 14) 2,063,299 171,364
+Impairment of investments (note 13) 1,130,264 3,860,600
+Management fee 108,882 169,461
+Royalty fee : 3,100 27,385
+Hosting support expense 61,079 405,084 a
+Impairment of other assets* 104,281 327,073
+*As of 30 June 2021, the Company migrated out of two principal datacentres into vacant spaces utilized by Rackspace Limited
+(note 20). This was to better utilize datacentre capacity, reduce carbon footprint and lessen expenditure. The agreement was to
+remain in the space until 2024. However, with the change in strategy, the contract became onerous for the year ending 31
+December 2021. The liability was reduced by £2,259,150 in the year and has created an associated abandonment expense of
+. £104,281.
+All remuneration costs for audit and taxation services for the year ended 31 December 2024 have been borne by other Group
+companies. For the year the Group incurred audit services of £411,000 (2023: £567,000), of which £87,422 relates to the
+company directly. There is no recharge made by Rackspace Limited, parent company in relation to the audit fee.
+7 21
+
+=== page 24 ===
+Docusign Envelope ID: 3A280023-F 3A6-43BB-ADE0-C749872F2C93 .
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+7. Staff costs
+_ All staff contracts are held with fellow group companies and therefore the Company has no employees (2023: nil). The Company
+teceives support and management services and hosting services support for which it pays and arm's length management fee
+and hosting service fee respectively. A monthly average of 610 (2023: 709) staff contracts were held with fellow group companies
+at an aggregate payroll cost of £75,085,357 (2023: £91,198,691). There was a reallocation of these staff costs to the company
+through an intercompany hosting expense of £61,079 (2023: £405,084).
+8. Directors’ remuneration
+All directors’ emoluments are borne by other group companies (2023: nil). No recharge from other group companies.
+9. Other interest receivable and similar income
+2024 2023
+. £ £
+Interest income 3,055 5,691
+Total interest receivable and similar income 3,055 5,691
+10. Interest payable and similar expenses
+2024 2023
+£ £
+Foreign currency loss 14,135 550,915
+Interest payable on amounts due to group undertakings 4,225,372 4,225,372
+Total interest payable and similar expenses 4,239,507 4,776,287
+11. Tax on loss
+a) Analysis of credit in the year .
+2024 2023
+£ £
+Current tax:
+UK Corporation tax for the current year (200,109) (1,393,139)
+Prior year adjustment (49,588) 68,788
+Russia corporation tax for the current year : 17,353
+Total current tax credit (249,697) (1,306,998)
+Deferred tax:
+Deferred tax (credit)/charge on loss for the current year (1,324,058) (295,071)
+Adjustment in respect of prior years 52,791 20,329
+Effects of change in tax rates - (18,833)
+Russia branch : :
+Total deferred tax expense (1,271,267) (293,575)
+Tax credit on loss (1,520,964) (1,600,573)
+22
+
+=== page 25 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+11. Tax on loss (continued)
+b) Factors affecting tax credit
+The tax assessed for the financial year is lower than (2023: lower than) the effective rate of corporation tax in the United
+Kingdom for the year of 25% (2023: 23.5%). The difference between the total taxation shown above and the amount
+calculated by applying the standard rate of UK corporation tax to the loss before tax is as follows:
+, 2024 2023
+£ £
+Loss before taxation (6,607,339) (8,544 469)
+Loss before taxation multiplied by the effective rate of corporation tax in the UK of
+25% (2023: 23.5%) (1,651,835) (2,007,951)
+Factors affecting the credit for the year:
+Non-deductible expenses 127,668 907,241
+Russia branch - 17,353
+Adjustments in respect of prior periods 3,203 89,117
+Effects of change in tax rates - (18,833)
+Group relief - -
+Income subject to tax not on books : (587,500)
+Total tax credit (1,520,964) (1,600,573)
+On 20 June 2023, Finance (No.2) Act 2023 was substantively enacted in the UK, introducing a global minimum effective tax
+tate of 15%. The legislation implements a domestic top-up tax and a multinational top-up tax, effective for accounting periods
+on or after 31 December 2023. Accordingly, the first accounting period to which these rules apply to the Group is the current
+year ending 31 December 2024. The Company is applying the exemption under IAS 12 amendment to recognising and
+disclosing the information about deferred tax assets and liabilities related to top-up income taxes for the year ending 31
+December 2024. Furthermore, the information regarding the Group's Pillar Two is detailed in the consolidated financial
+statements of Rackspace Technology Inc. The Company is not expected to incur any top-up taxes due to the Pillar Two
+. legislation in respect of the year ended 31 December 2024
+23
+
+=== page 26 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+12. Tangible assets
+. Leasehold Computer Fixtures and .
+improvements equipment fittings Total
+£ £ £ £
+Cost
+At 1 January 2024 32,583 762,196 9,857 804,636
+Additions - - : -
+Write offs (32,295) (133,553) (9,857) (175,705)
+At 31 December 2024 288 628,643 : 628,931
+Accumulated depreciation
+At 1 January 2024 (32,583) (674,887) (9,857) (717,327)
+Charge for the year - . (19,800) - (19,800)
+Write offs 32,295 133,553 9,857 175,705
+At 34 December 2024 (288) (561,134) - (561,422)
+Net book value
+At 31 December 2023 - 87,309 : 87,309
+At 31 December 2024 - 67,509 - 67,509
+13. Investments
+2024 2023
+£ £
+Shares in subsidiary undertakings
+Cost at 1 January 2,286,306 6,146,906 :
+Return of capital in Centric Telecom Limited (1) -
+Return of capital in Elinia Limited (1) -
+. Return of capital in Sleek Networks Limited (246,904) -
+Impairment in investment in Adapt Services Limited (1,130,264) (3,860,600)
+Net book value at 31 December 909,136 2,286,306
+: . 2024 2023
+£ £
+Analysed as:
+Adapt Holdco Limited - -
+Datapipe UK Limited . - -
+Datapipe Limited : - -
+Datapipe Israel Limited - -
+Adapt Services Limited 909,136 2,039,400
+Elinia Limited . - 1
+Centric Telecom Limited - 4
+Sleek Networks Limited : 246,904
+909,136 2,286,306
+24
+
+=== page 27 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+13. Investments (continued)
+The Company owns 100% of issued share capital of the entities listed below.
+Subsidiary undertakings Dissolution date Country of Share holding Proportion ature of
+incorporation held business
+Datapipe Germany GmbH* 28 January 2021 Germany Ordinary Shares 100% Cormant
+Datapipe Israel Limited” n/a Israel Ordinary shares 100% Dormant
+Adapt Services Limited* nia England Ordinary shares 100% Trading
+Elinia Limited* 10 September 2024 England Ordinary shares 100% Holding
+company
+Elinia Webservices Limited 17 September 2024 England Ordinary shares 100% Trading .
+Centric Telecom Limited* 17 September 2024 England Ordinary shares 100% Trading
+Sleek Networks Limited" 17 September 2024 England Ordinary shares 100% Trading
+Adapt Group Limited* 20 October 2020 England Ordinary shares 100% Holding
+company
+Adapt Holdco Limited* 17 March 2020 England Ordinary shares 100% Holding
+company
+Altimus Acquisitions Limited 17 March 2020 England Ordinary shares 100% Holding
+company
+Sleek Holdco Limited 17 March 2020 England Ordinary shares 100% Holding
+company
+Sleek Network Holdings Limited 17 March 2020 England Ordinary shares 100% Holding
+company
+*Directly held investment
+All entities have a registered address of Unit 2, 6 Millington Road, Hyde Park Hayes, Hayes, Middlesex, UB3 4AZ with the
+exception of Datapipe Germany GmbH (registered address is Mainzer Landstrasse. 50, 60325 Frankfurt).
+The Company evaluates the financial health and business outlook of the subsidiaries, including factors such as industry and
+sector performance, changes in technology as well as operational and financing cash flows. Management has performed an
+impairment review of the cost of investment in the subsidiary by considering the net assets and future cash outlook for the
+subsidiaries.
+For the year ending 31 December 2024, management have noted that there was an indicator of impairment for its investment in
+Adapt Services Limited as neither the subsidiary's net assets nor future discounted cashflows supported the historic cost
+recognised within the financial statements. As a result, management have performed an impairment review of the cost of
+investment in the subsidiary and concluded that an impairment of £1,130,264 has occurred. The recoverable amount was
+determined based on the higher of fair value less cost of sale (“FVLCS") and value in use (“VIU"). The Company estimated the
+recoverable amount using the net recoverable value of net assets held by the subsidiary less costs to sell. Based on these
+calculations, the historic cost recorded within the financial statements could not be supported and therefore management
+determined that it was appropriate to fully impair the investment.
+Key assumptions used in the FVLCS calculation include high confidence over intercompany receivable balances held by Adapt
+Services Limited and selling costs representing 10% of the calculated fair value. The following table summarises additional ——
+impairment to be recorded should any of these assumptions change.
+Sensitivity 2024
+£
+i) Increased ECL of intercompany receivable .
+balances held by Adapt Services Limited
+- Increased by 5% 49,357
+- Increased by 10% 98,714
+ii) Increase in selling costs
+- Increased by 5% 50,508
+- Increased by 10% 101,015
+25
+
+=== page 28 ===
+Docusign Envelope ID: 3A280023-F 3A6-43BB-ADE0-C749872F2C93
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+43. Investments (continued)
+Management have considered that the above changes in key assumptions may result in a material change to the impairment,
+however the likelihood of these assumptions changing is considered very low, given a prudent estimate for selling costs being
+incorporated in the current impairment calculations. :
+14. Debtors
+Debtors: receivable within a year :
+2024 2023
+£ £
+Trade receivables 69,647 37,159
+Amounts owed by group undertakings* 151,479 3,705,427
+Deposits - 1,008,000
+Other receivables 26,059 1,494
+Tax receivable 1,642,774 2,519,274
+Prepayments and accrued income 9,079 -
+1,899,038 7,271,354
+* During the year management waivered the receivable balance owed by Datapipe Israel Limited totalling £2,222,453.
+Trade receivables are stated after provisions for impairment of £2,295 (2023: £236,946). The amounts owed by group
+undertakings are unsecured, interest free and repayable on demand. Tax receivable relates to amounts owed from intercompany
+in relation to Group Relief.
+Debtors: receivable in more than 1 year
+2024 2023
+£ £
+Deposits 1,008,000 -
+1,008,000 -
+15. Deferred taxation (falling due after one year)
+The movement in the deferred taxation asset during the year was:
+2024 2023 ;
+£ £
+At 1 January 2,115,711 1,822,136
+Adjustments in respect of prior years (52,791) (20,329)
+Profit and loss account movement arising during the year 1,324,058 295,071
+Effect of change of tax rate : 18,833
+Asset carried forward 3, 386,978 2,115,711
+The Company's asset for deferred taxation consists of the tax effect of timing differences in respect of:
+° 2024 2023
+Provided Unprovided Provided Unprovided
+£ £ £ £
+Depreciation in excess of capita! allowances 1,631,370 - 1,626,421 -
+Other short term timing differences 574 . : 939 -
+Unutilised tax losses* 1,755,034 3,119,031 488,351 3,112,520
+3,386,978 3,119,031 2,115,711 3,112,520
+*Unprovided unutilised tax losses relate to £12,589,521 of trading losses that arose prior to 1 April 2017 which cannot be
+utilised via group relief. As such, the Company has placed a valuation allowance against these trading losses and has not
+recognised a deferred tax asset.
+26
+
+=== page 29 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93 °
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+16. Creditors: amounts falling due within one year
+2024 2023
+£ £
+Trade payables {162,973) (435,097)
+Amounts owed to group undertakings (20,844,387) (17,876,092)
+Accruals and deferred income (51,649) (2,833,546)
+(21,059,009) (21,144,735)
+17. Creditors: amounts falling due after more than one year
+: 2024 2023
+£ £
+Amounts owed to group undertakings (62,800,000) (62,800,000)
+(62,800,000) (62,800,000)
+Amounts owed to group undertakings are unsecured and repayable after one year. Interest on the outstanding principal balance
+is charged at 6.7% (2023: 6.7%) on £62,800,000 (2023: £62,800,000) with Datapipe Inc. with interest being accrued monthly for
+2024 and 2023.
+18. Commitments under operating leases
+Future minimum lease payments under non-cancellable operating leases are as follows.
+Land and buildings — Land and buildings
+2024 2023
+£ £
+Within 1 year 147,340 4,080,243
+Later than 1 year and not later than 5 years - -
+147,340 4,080,243
+: 19. Capital and reserves
+Allotted and fully paid:
+2024 2023
+. Number £ Number £
+Ordinary shares of £0.001 1 0.001 4 0.001
+Profit and loss account .
+The profit and loss account represents the accumulated profits, losses and distributions of the company, as well as transfers from
+other equity accounts. There are no rights, preferences, or restrictions in relation to ordinary shares.
+20. Ultimate parent company and controlling party ,
+The Company is a wholly owned subsidiary of Rackspace Limited with registered address Unit 2, 6 Millington Road, Hyde Park
+Hayes, Hayes, Middlesex, UB3 4AZ. The ultimate controlling party is Apolfo Global Management, LLC, a limited liability company
+incorporated in Delaware, the United States of America, via its management of certain funds which hold the controlling interest
+in Rackspace Technology, Inc. Rackspace Technology, Inc. listed on the Nasdaq Global Select Market on 5 August, 2020. The
+smallest and largest group to consolidate these financial statements is Rackspace Technology, Inc. These financial statements
+are publicly available at https://ir.rackspace.com/.
+21. Events subsequent to reporting date
+There are no adjusting events that existed at the balance sheet date. .
+: 27
+
+=== page 30 ===
+Docusign Envelope ID: 3A280023-F3A6-43BB-ADE0-C749872F2C93
+
+Datapipe Europe Limited
+Notes to the financial statements for the year ended 31 December 2024 (continued)
+22. Russian invasion of Ukraine
+On 24 February 2022, Russia invaded Ukraine, marking this as a major advance in the ongoing Russo-Ukrainian conflict that
+commenced in 2014. The Company is closely monitoring the development of the ongoing conflict and its related impact on the
+
+, Company’s business, particularly in the Moscow branch. Principal concern areas include the impact of sanctions on the operations
+of the company, supply chain and resource disruptions (including staff), loss of business relationships and financial restrictions.
+The Moscow branch is a customer gears leased to Nike customer. It is not constituted by the Russian law or domiciled in Russia.
+The assets and liabilities are not significant and are confined to bank balance, trade receivables, PPE as well as the deferred tax
+asset with small amount of liabilities. In addition, the branch’s gross assets position is £107,447 as of December 2024 and
+liabilities position is £34. The entity has ceased trading since the reporting date and is currently being transitioned to dormant
+status.
+The branch's exposure is not deemed material for the Company and the conflict has not had a significant impact on the Company’s
+operations or financial performance.
+
+. 28
+

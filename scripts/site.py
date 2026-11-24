@@ -6,6 +6,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 U = json.load(open(f'{ROOT}/data/updates/latest.json'))
 C = json.load(open(f'{ROOT}/config/criteria_digital_infra.json'))
 fin = pd.read_csv(f'{ROOT}/data/inputs/financials_all.csv', dtype={'CompanyNumber': str})
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ocr_apply import apply_ocr
+fin = apply_ocr(fin)   # scanned accounts read by OCR count as read
+scanned_unread = int(fin['status'].astype(str).str.startswith('PDF scan').sum())
+scanned_ocr = int(fin['figures_source'].astype(str).str.startswith('OCR').sum())
 clean = pd.read_csv(f'{ROOT}/data/outputs/candidates_clean.csv', dtype={'CompanyNumber': str})
 IN_BAND = ['Shortlist', 'Watchlist (loss-making)', 'In band, EBITDA unknown']
 shortlist = clean[clean['goes_forward'] & (clean['status'] == 'Shortlist')]
@@ -73,7 +79,7 @@ if val:
     for c in val['companies']:
         c['company'] = nice(c['CompanyName'])
 data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr, 'all': all_ranked, 'growth_infra': growth_infra,
-        'sector_check': sector_check, 'scanned': 842, 'universe': len(fin), 'val': val}
+        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val}
 payload = json.dumps(data, default=str).replace('</', '<\\/')
 
 page = open(f'{ROOT}/scripts/site_template.html').read()   # layout and styles live in the template

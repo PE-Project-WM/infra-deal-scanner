@@ -1,0 +1,1699 @@
+=== page 1 ===
+-DTCC Derivatives Repository Ple
+Annual report and financial statements for
+the year ended 31 December 2025
+
+| Registered number: 07278142
+
+=== page 2 ===
+DTCC DERIVATIVES REPOSITORY PLC
+TABLE OF CONTENTS
+Page
+
+Company Information 1
+Strategic Report 2
+Directors' Report 8
+Statement of Directors' Responsibilities li
+Independent Auditor's Report 12
+Statement of Comprehensive Income Is
+Statement of Financial Position 16
+Statement of Changes in Equity 17
+Statement of Cash Flows 18
+Notes to the Financial Statements 19
+
+=== page 3 ===
+DTCC DERIVATIVES REPOSITORY PLC
+COMPANY INFORMATION
+DIRECTORS: Nadir Azim
+Joshua Lee Beaton
+Michelle Bucci
+Matthew John Cossor
+Lawrence Gore
+Stephane Hauswald
+Michele Hillery
+William Francis Hughes Jr
+David Michael Lawton
+: Thomas Olivier Michel Louis
+. Lynn Maguire
+Helen-Marie Moloney
+Philip Charles Myers
+Katie Ollinger
+Paul Sedgwick
+Drew Shoemaker
+Jennifer Spicijaric
+Brian Steele
+Nicolas Veron
+Chris Wells
+COMPANY SECRETARY: Annette Elizabeth Nichols
+REGISTERED OFFICE: 6% Floor
+1 Finsbury Avenue
+London
+EC2M 2PF
+REGISTERED NUMBER: 07278142 (England and Wales) .
+AUDITOR: Deloitte LLP
+Statutory Auditor
+London, United Kingdom
+1
+
+=== page 4 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+STRATEGIC REPORT
+
+For the year ended 31 December 2025
+
+The Directors, in preparing the strategic report, have complied with s414C of the Companies Act 2006.
+
+Review of the business
+
+DTCC Derivatives Repository Plc ("DDRP" or the "Company") is a wholly owned subsidiary of DTCC (UK)
+
+Limited, whose ultimate parent undertaking is The Depository Trust & Clearing Corporation ("DTCC").
+
+DDRP is a company organised under the laws of England and Wales. DDRP operates primarily in the United
+
+Kingdom (the "UK") and is an approved Trade Repository ("TR") with the Financial Conduct Authority (the
+
+"“FCA"). DDRP is also a service company with the FCA. In addition, DDRP operates in Hong Kong, where it has
+
+a contractual! relationship with the Hong Kong Monetary Authority (the "HKMA") to provide derivatives reporting
+
+services on behalf of its clients.
+
+DDRP provides a number of services that enable clients to meet their regulatory obligations for derivatives
+
+reporting. Together with other DTCC Global Trade Repository ("GTR") subsidiaries, DDRP supports a multitude
+
+of data submissions for Over The Counter ("OTC") derivatives and Exchange Traded Derivatives ("ETD")
+
+transactions including transaction details, confirmation records and valuation data. To provide these services, the
+
+Company uses certain intellectual property licensed for use by its related company, DTCC Deriv/SERV LLC
+
+("Deriv/SERV"). DDRP is one of the largest trade repositories in the competitive UK marketplace.
+
+DDRP also provides services for clients of the Trade Information Warehouse ("TIW"). Deriv/SERV provides
+
+lifecycle event processing for credit default swaps as part of its TIW service and DDRP provides the related TIW
+
+recordkeeping and reporting. The TIW service is not a regulated trade repository service and is ancillary to the
+
+services DDRP provides as part of its FCA trade repository registration.
+
+On 4 December 2025 the FCA approved the Company to operate as an Approved Reporting Mechanism ("ARM")
+
+under the Markets in Financial Instruments Directive/Regulation ("MiFID/R”). The Company expects to
+
+commence the provision of ARM services in 2026.
+
+In the year ended 31 December 2025, DDRP generated total revenucs of $96,792k (2024: $88,396k), an increase
+
+of 9.50% from the prior year. Revenues relating to data and repository services include GTR $75,396k (2024:
+
+$66,973k) and TIW $21,396k (2024: $21,423k) businesses. DDRP remains cash generative to support its
+
+investments, including providing services for enhanced regulatory reporting, maintaining compliance, enhancing
+
+systems and new business initiatives. Additionally, DDRP benefits from a strong Statement of Financial Position
+
+and maintains sufficient cash balances to ensure it can finance its ongoing operations as necessary. See the
+
+Directors report for results and dividends.
+
+Other matters - Global events and Crises
+
+The global economy continues to navigate a dynamic environment shaped by significant policy changes, evolving
+
+trade relationships, and geopolitical challenges, including wars/conflicts in certain regions. Financial markets have
+
+reflected these conditions through periods of volatility influenced by monetary policy adjustments, fiscal
+
+measures, and structural reforms aimed at restoring confidence and supporting sustainable growth. These factors
+
+have the potential to affect the Company’s financial performance, , including revenue trends, interest rate
+
+movements, liquidity and credit conditions, and regulatory developments. At this time, the Company has not
+
+experienced any material adverse financial impact from these events or related conditions.
+
+Key performance indicators
+
+The Company Directors utilise key performance indicators to measure performance, development and position of
+
+the business. DDRP measures its performance against one non-financial and one financial metric:
+
+Non-financial
+
++ Timeliness of regulator and client reporting (measured as a percentage of the total reports delivered on time),
+target 98% (2024: 98%).
+
+This metric (measured as a percentage of the total reports delivered on time, target 98%) is a key performance
+
+indicator as it records and demonstrates the percentage of reports that the Company deliver to both regulators and
+
+participants within the agreed service level agreement targets and timelines. Timely production of these reports is
+
+2
+
+=== page 5 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STRATEGIC REPORT
+For the year ended 31 December 2025
+a core function of the GTR and this metric is a key indicator of how well the Company meets that requirement.
+The Company's performance metric was primarily achieved in 2025 and 2024.
+Financial
+* Percentage increase in revenue year on year, 9.50% (2024: 5.83%).
+This metric is calculated by dividing the current year revenue increase (or decrease) by prior year revenue to
+determine the rate of revenue growth. As the Company did not introduce any new revenue streams during the year,
+the increase in revenue reflects growth from existing activities, along with the implementation of a new fee
+schedule and was in line with business expectations.
+Principal risks and uncertainties
+The Company's activities expose it to a variety of risks: regulatory risk, counterparty credit risk, liquidity risk and
+capital management, and operational risk. The Company's overall risk management programme focuses on the
+unpredictability of financial markets and seeks to minimise potential adverse effects on the Company's financial
+performance.
+Regulatory risk
+Regulatory risk is the risk that a change in laws and regulations will materially impact a security, business, sector
+or market. A change in laws or regulations made by the government or a regulatory body can increase the costs of
+operating a business, reduce the attractiveness of investment and/or change the competitive landscape. Regulatory
+risk can also arise from the Company not complying with the terms and conditions of the registration, which could
+result in the regulator either withdrawing, applying conditions (retrospectively or prospectively) or imposing
+sanctions on the registration for non-compliance.
+The Company’s mandate is to fully comply with both the letter and the spirit of all laws, rules, and regulations to
+which it is subject, in all jurisdictions in which it operates. The Company strives to maintain a proactive and open
+dialogue with its regulators to ensure on-going communication regarding key laws, rules and regulations as well as
+to ensure that its framework is sufficiently strong to mitigate and prevent the risk of non-compliance.
+Counterparty credit risk
+Counterparty risk arises from cash and cash equivalents, short-term investments, trade receivables and
+intercompany receivables from affiliate subsidiaries of DTCC.
+The Company maintains cash and cash equivalents and short-term investments with various financial institutions.
+The Company’s investment policy is designed to limit its exposure with any one financial institution. As part of its
+credit and risk management processes, the Company performs periodic evaluations of the relative credit standing
+of the financial institutions with whom it places funds. The Company generally makes deposits with financial
+institutions with a credit rating of at least BBB+/Baal or better from recognised rating agencies and that are
+approved via its internal credit review process. The Company also monitors the credit ratings of the financial
+institutions with whom it places funds on an ongoing basis to identify any significant change in a financial
+institution’s condition. If such a change takes place, the amounts deposited with such financial institutions may be
+adjusted. .
+Trade receivables are continually reviewed to ensure payment is received and reserved for based on the
+Company’s allowance policies, if required. Given the creditworthiness of DDRP’s clients, trade receivables are
+not deemed to be a significant risk. All clients undergo a thorough onboarding process before being accepted as
+clients and outstanding balances are frequently monitored.
+The Company does not hold any financial assets which have been deemed impaired other than trade receivables in
+accordance with the material accounting policies. There were no financial assets that are past due or impaired
+whose terms have been renegotiated.
+Liquidity risk and capital management
+Liquidity risk is the risk that the Company is unable to meet its payment obligations when they fall due. Liquidity
+risk is managed by DDRP benefiting from a strong Statement of Financial Position and maintaining sufficient cash
+balances to ensure it can finance its ongoing operations at al! times.
+
+. 3
+
+=== page 6 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STRATEGIC REPORT
+For the year ended 31 December 2025
+During the year, the Company defined its capital as called up share capital, capital contribution and retained
+earings. On that basis, the total capital of the Company as at 31 December 2025 and 2024 was $58,147k and
+$55,497k, respectively.
+The Company is subject to regulatory capital requirements pursuant to its authorisation under Regulation (EU) No
+648/2012 of 4 July 2012 of the European Parliament and of the Council on OTC derivatives, central counterparties
+and trade repositories, as adopted by the UK. The Company was in compliance with these requirements at the year
+end and throughout the year.
+Operational risk
+Operational risk is the risk of direct or indirect loss arising from a wide variety of causes associated with the
+Company’s processes such as personnel, technology and infrastructure etc. :
+DDRP’s objective is to manage operational risk to balance the avoidance of financial losses and damage to the
+Company’s reputation with overall cost effectiveness and innovation. The Company closely monitors the internal .
+control and risk environment specific to the operations of the business to ensure the Company continues to offer
+an uninterrupted service for its clients.
+The Company’s principal operational risks arise from maintaining a secure and stable technology platform. The
+Company is reliant upon technology to provide uninterrupted operations as well as protect employees and physical
+assets. The Company's security risk management programme focuses on:
++ Cyber security event detection, communication, and incident management;
++ — Acquisition, development and maintenance of information systems;
++ Computer and communications technology management, technical vulnerability detection and management,
+
+and protection against malicious and mobile code; and
++ Identity and access management and information asset access controls.
+The Company’s business continuity and resilience programme is designed.to ensure the availability of critical
+financial services, reduce the likclihood or impact of significant business disruptive incidents, mitigate legal,
+compliance, regulatory franchise, and reputation risks, and helps ensure the health and safety of employees and
+visitors. Business continuity and resilience is concerned with the governance and implementation of proactive and
+reactive measures that ensure enterprise and business functions have the resilience and recovery capabilities to
+continue operations, should a serious event occur. This is accomplished through:
++ — Integration and alignment with various risk functions;
++ Development of guidance and standards relating to business continuity, crisis management, and location risk;
++ Performance of business continuity simulation exercises; and
++ Promotion of awareness and education.
+Section 172(1) Statement
+The Directors are aware of their duty to “act in the way each Director considers, in good faith, would be most
+likely to promote the success of the Company for the benefit of its members as a whole, and in doing so have
+regard (amongst other matters) to:
+{a) the likely consequences of any decision in the long term;
+(b) the interests of the Company's employees;
+(c) the need to foster the Company's business relationships with suppliers, customers and others;
+(d) the impact of the Company's operations on the community and the environment;
+(e) the desirability of the Company maintaining a reputation for high standards of business conduct; and
+(f} the need to act fairly as between members of the Company.”
+Key Stakeholders
+The Company's key stakeholders are clients, customers, the regulator, the shareholder, the communities the
+Company supports and employees. The following relevant sections describes how the Company engages with each
+stakeholder, whilst the Board activity includes relevant updates affecting these stakeholders, and any key decisions
+made by the Board affecting stakeholders in the year.
+
+4
+
+=== page 7 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STRATEGIC REPORT :
+For the year ended 31 December 2025
+Stakeholder Engagement
+The Board is committed to effective engagement with all of its stakeholders. The Board includes employees from
+users of the Company’s services who provide access to and perspectives from DDRP’s clients and customers. The
+Board, through management, communicates with its regulator as necessary to answer questions, provide
+information and/or address other issues that may arise. Depending on the nature of the issue in question, the
+relevance of each stakeholder group may differ and, as such, as part of its engagement with stakeholders, the
+Board seeks to understand the relative interests and priorities of each group and to have regard to these, as
+appropriate, in its decision-making.
+Decision-Making
+Governance underpins how the Board conducts itself and the culture and values on how business is conducted. In
+making its decisions, the Board considers and discusses a wide range of information from across the Company to
+ensure it understands the implications and impacts of its decisions on the Company’s operations and key
+stakeholders. The Board regularly reviews and discusses financial and operational performance, business strategy,
+tisk management, technology management, key metrics, and legal and regulatory compliance, This information is
+provided to the Board through materials sent in advance of each Board meeting and discussed in depth at each
+meeting where the directors have the opportunity to ask questions of management and provide feedback.
+Additionally, the Board holds an annual strategy session that focuses on the Company’s business plans, strategic
+priorities, and focus areas for the near-term and long-term. As a result of these activities, the Board believes that,
+as individuals and together as a group, it has acted in good faith and in a manner likely to promote the success of
+the Company for the benefit of all of its stakeholders and the matters set out in section 172(1)(a) to (f) of the
+Companies Act 2006 in the decisions taken during the year.
+Customers and suppliers
+Clients and customers are central to the Company's business and as such the Company remains directly connected
+to its immediate eco-system via its traditional mechanisms. Elevating the client experience is embedded in the :
+Company's vision. The Board is comprised of key user representatives as well as independent directors. It also
+operates several advisory groups with members representing the majority of regular service users. The Company
+conducts regular product road shows in the key European jurisdictions supported by a full programme of client
+outreach meetings led by the Operational Client Relationship Management team. Through the Enterprise Client
+Operations team, clients are regularly surveyed on their service experience. Through the Product and Regulatory
+Relations teams, the Company also actively manages the regulatory relationships as well as responds to all
+relevant industry consultations. The Company has limited suppliers due to its arrangement with DTCC Deriv/
+SERV LLC ("Deriv/SERV") which provide most of its support services through an intercompany agreement.
+Relevant Board actions on these matters are noted in the Board activity and key decisions section below under
+strategy, operations and finance.
+Regulator
+The Company’s business model contains both regulated and unregulated activities, therefore without its regulatory
+licences it would not be able to perform the former for its clients, which in tum would influence its returns to
+shareholders. The Company ensures it complies with all relevant laws and regulations by having a sufficiently
+strong framework in place to mitigate and prevent the risk of non-compliance, whilst also engaging in pro-active
+and open dialogue with its regulators. This is noted in the Board activity and key decisions section below under
+the internal control and risk management.
+Shareholder
+Delivering for the Company's sole shareholder ensures the business continues to be successful in the long term and
+can therefore continue to deliver for all the Company's stakeholders, which is noted in the Board activity and key
+decisions section below under strategy, operations and finance.
+Building Communities
+
+’ Building communities is at the core throughout the DTCC group in strategic sponsorship and partnerships, thought
+leadership and community impact through corporate social responsibility (“CSR”) efforts. Creating a diverse and
+inclusive work environment is important to the Company. The Company works hard to continually embed
+
+5
+
+=== page 8 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+STRATEGIC REPORT
+
+For the year ended 31 December 2025
+
+diversity and inclusion into its culture, fostering an environment where all employees are valued and respected and
+
+feel that they can play an active part in the Company’s success. The Company encourages CSR by providing one
+
+day per year, paid time off to volunteer in the local community.
+
+Employees and colleagues
+
+Employees make a critical difference to the Company's success. Investment in employees protects and strengthens
+
+the Company's culture. The Company expects employees to treat each other with dignity and respect, and does not
+
+tolerate discrimination, bullying, harassment or victimisation on any grounds. The Company has very few
+employees as noted in Note 8 of the notes to the financial statements and in the Board activity and key decisions
+section below under leadership and people.
+
+Board activity and key decisions in 2025
+
+The Board of Directors meet regularly throughout the year, monitoring, reviewing and approving a range of
+
+information. The Board activity is summarised into three broad categories with the specific topics covered
+
+throughout the year listed below. ,
+
+Strategy, operations and finance
+
++ Monitored and received regular updates on deliverables, projects and the regulatory landscape;
+
+* — Received general business updates and presentations on financial matters (including updates to fee schedules
+for 2025), strategic initiatives, trading performance, trade repository updates, resilience strategy, the
+Repository and Derivatives Services ("RDS") deliver new capabilities portfolio and various technology and
+risk matters;
+
++ Received regular updates on regulatory rules rewrites and data harmonisation matters and impacts to the
+Company;
+
++ Received regular updates from the Business Risk Committee on its risk management oversight including,
+operational, information, communication, technology and cybersecurity activities for the business;
+
++ Reviewed the business long range forecast and strategic initiatives;
+
++ Reviewed the 2026 business budget;
+
++ Received updates on recent developments in the competitive landscape;
+
++ Received regular feedback from management on customer concerns, expectations and activity; and
+
++ Approved the Company's Annual report and financial statements for the year-ended 31 December 2024 and
+the 2024 annual general meeting ("AGM") notice.
+
+Leadership and people
+
++ Discussed Board and Committee structure changes;
+
++ Continued to focus on the composition, balance and effectiveness of the Board, approved appointments of ~
+new directors on the recommendation of the Nominating Committee;
+
++ Performed the annual Board effectiveness self-assessment; and
+
+. + Held separate Executive sessions with limited management attendance as necessary.
+
+Audit, internal control and risk management
+
++ Reviewed the Group’s Risk Management Framework and principal risks and uncertainties;
+
++ Reviewed and validated the effectiveness of the Group’s systems of internal controls and risk management;
+
++ Reviewed updates on the information and cyber security control environment;
+
++ Received regular status updates on the Operational Resilience programme;
+
++ Reviewed various policies and procedures;
+
++ Approved the Anti-Money Laundering ("AML") Programme;
+
++ Appointed external auditor for fiscal year 2025; :
+
++ Received regular updates from the Audit Committee on the status of Business Risk Management, Technology
+Risk Management, Business Continuity and Resilience, Operational Risk Management and Internal Audit
+updates; and
+
++ Received regular updates from Compliance on regulatory matters and regulatory rules amendments updates
+and reviewed the Annual Compliance Report.
+
+6
+
+=== page 9 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+STRATEGIC REPORT
+
+For the year ended 31 December 2025
+
+Sensitivity analysis .
+
+The Directors do not consider sensitivity to changes in interest rales and exchange rates to be material in the
+
+context of these financial statements because there are no material financial assets or liabilities that are sensitive to
+
+interest rates or exchange rates.
+
+Future developments
+
+The Directors expect the general level and nature of activity to remain the same as the 2025 levels in the
+
+forthcoming year.
+
+Looking ahead, the Company plans to add Markets in Financial Instruments Directive/Regulation ("MiF1ID/R")
+
+Approved Reporting Mechanism ("ARM") service. Regulatory approval has been obtained and UK MiFID license
+
+has been obtained. The service is targeted to be launched by Q2 2026.
+
+Going concern
+
+After reviewing the Company’s annual budget, liquidity requirements and business plans, the Directors have
+: formed a judgment, based upon their knowledge of the Company’s business that its resources will be sufficient to
+
+cover its expenses for the foreseeable future. The Directors have, at the time of approving the financial statements,
+
+a reasonable expectation that the Company has adequate resources to continue in operational existence for the
+
+foreseeable future. Thus they continue to adopt the going concer basis of accounting in preparing the financial
+
+statements.
+
+This report was approved by the Board of Directors and authorised for issue on 4 June 2026. It was signed
+
+on its behalf by:
+
+‘Signed by:
+[ put Sedgwick
+8D8D54C8EBF341B...
+Paul Sedgwick
+Director
+7
+
+=== page 10 ===
+DTCC DERIVATIVES REPOSITORY PLC
+DIRECTORS’ REPORT
+For the year ended 31 December 2025
+General information
+The Directors present their report and audited financial statements (which comprise the Statement of
+Comprehensive Income, Statement of Financial Position, Statement of Changes in Equity, Statement of Cash Flow
+and the Notes to the Financial Statements) for DTCC Derivatives Repository Plc ("DDRP" or the "Company"), as
+of and for the year ended 31 December 2025.
+DDRP is a wholly owned subsidiary of DTCC (UK) Limited, whose ultimate parent undertaking is The Depository
+Trust & Clearing Corporation ("DTCC").
+Results and dividends
+The profit for the year after taxation amounted to $47,650k (2024: $42,732k), an increase of 11.5%, primarily
+driven by comparable increases in both revenue and expenses for the year. During the year, dividends of $45,000k :
+were paid (2024: $40,000k). The Directors do not propose a final dividend.
+Principal activities
+DDRP is a company organised under the laws of England and Wales. DDRP operates primarily in the United
+Kingdom (the "UK") and is an approved Trade Repository ("TR") with the Financial Conduct Authority (the
+"FCA"). DDRP is also a service company with the FCA. In addition, DDRP operates in Hong Kong, where it has a
+contractual relationship with the Hong Kong Monetary Authority (the "HHKMA") to provide derivatives reporting
+services on behalf of its clients.
+DDRP provides a number of services which enable clients to meet their regulatory obligations for derivatives .
+reporting. Together with other DTCC Global Trade Repository ("GTR") subsidiaries, DDRP supports a multitude
+of data submissions for Over The Counter ("OTC") and Exchange Traded Derivatives ("ETD") derivatives
+transactions including transaction details, confirmation records and valuation data.
+DDRP also provides services for clients of the Trade Information Warehouse ("TIW"). DTCC Deriv/SERV LLC
+("Deriv/SERV") provides lifecycle event processing for credit default swaps as part of its TIW service and DDRP
+provides the related TIW recordkeeping and reporting. The TIW service is not a regulated trade repository service
+and is ancillary to the services DDRP provides as part of its FCA trade repository registration.
+Directors
+The following Directors held office throughout the year and to the date of approval of this report:
+
+Held position throughout the entire period
+
+Michelle Bucci .
+
+Matthew John Cossor
+
+Stephane Hauswald
+
+William Francis Hughes Jr
+
+David Michael Lawton
+
+Thomas Olivier Michel Louis
+
+Helen-Marie Moloney
+
+Philip Charles Myers
+
+Paul Sedgwick
+
+Drew Shoemaker
+
+Nicolas Veron
+
+8
+
+=== page 11 ===
+DTCC DERIVATIVES REPOSITORY PLC
+DIRECTORS’ REPORT
+For the year ended 31 December 2025
+Appointed during the period Date Appointed
+Joshua Lee Beaton 30 April 2026
+Lynn Maguire 13 March 2026
+Nadir Azim 29 September 2025
+Lawrence Gore 24 June 2025
+Michele Hillery 08 May 2025
+Brian Steele 08 May 2025
+Katie Ollinger 08 May 2025
+Jennifer Spicijaric 08 May 2025
+Chris Wells 08 May 2025
+Resigned during the period Date Resigned
+Joshua Lee Durham 31 December 2025
+James Gavin Napleton 31 December 2025
+Diane Helene Paredes 31 December 2025
+Ann Katherine Shuman 31 March 2025
+Priti Navinchandra Patel 10 March 2025
+Christopher Mark Childs 22 January 2025
+Individuals are selected to serve on the Board of Directors based on their ability to provide broad industry insight
+and counsel. Board committees may be specifically structured to help achieve key development objectives for
+DDRP.
+Directors are appointed either through ordinary resolution or by a decision of the current Directors, and serve until
+the appointment is terminated through resignation or as otherwise set out in the Company’s Articles of Association
+or the Board Charter.
+Directors’ indemnities
+DTCC, of which DDRP is a subsidiary, has made indemnity provisions for the benefit of the Directors of DDRP
+against liability in respect of proceedings brought by third parties, subject to the conditions set out in the
+Companies Act 2006. These provisions were in force throughout the year and to the date of this report.
+Staff
+It is the policy of both DDRP and DTCC to ensure that no staff members or job applicants face discrimination on
+; the grounds of age, gender reassignment, marriage or civil partnerships, pregnancy and maternity, disability, race,
+religion or belief, sex, and sexual orientation.
+Disclosures
+The following disclosures are within the Strategic Report:
++ Future developments;
++ Principal risks and uncertainties, inclusive of financial instruments; and
++ Engagement with customers and suppliers.
+Political contributions
+No political donations were made to UK organisations, or political contributions to non-UK political organisations
+during the year.
+9
+
+=== page 12 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+DIRECTORS’ REPORT
+
+For the year ended 31 December 2025
+
+Energy and carbon reporting
+
+The Company falls within the scope of Streamlined Energy and Carbon reporting regime, however it is exempt
+from reporting as it produced less than 40,000 kWh of energy in the reporting period.
+
+Events after the reporting period
+
+Events after the reporting period date are disclosed in Note 17.
+
+Statement as to disclosure of information to auditor
+
+Each of the persons who are Directors of the Company at the date when this report is approved confirms that:
+
+° so far as each of the Directors is aware, there is no relevant audit information (being information needed
+by the Company’s auditor in connection with preparing their report) of which the Company’s auditor is
+unaware; and
+
+° — each of the Directors has taken all the steps that he/she ought to have taken as a Director to make himself/
+herself aware of any relevant audit information and to establish that the Company’s auditor is aware of
+that information.
+
+This confirmation is given and should be interpreted in accordance with the provision of Section 418 of the
+Companies Act 2006.
+Independent auditor
+Deloitte LLP were appointed auditor to the Company and in accordance with Section 489 of the Companies Act
+2006, a resolution proposing that they be re-appointed will be put forward at the next General Meeting.
+This report was approved by the Board of Directors and authorised for issue on 4 June 2026. It was signed
+on its behalf by:
+‘Signed by:
+[ paul Sedgwick
+BOBDS4CBEBF34 1B...
+Paul Sedgwick
+Director
+10
+
+=== page 13 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+
+For the year ended 31 December 2025
+
+, Statement of Directors' Responsibilities
+
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance with
+
+applicable law and regulations.
+
+Company law requires the Directors to prepare financial statements for each financial year. Under that law the
+
+Directors have elected to prepare the financial statements in accordance with United Kingdom adopted
+
+international accounting standards. The financial statements also comply with International Financial Reporting
+
+Standards ("IFRSs") as issued by the International Accounting Standards Board ("IASB"). Under company law the
+
+Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of
+
+the state of affairs of the Company and of the profit or loss of the Company for that period. In preparing these
+
+financial statements, International Accounting Standard 1 requires that Directors:
+
+* properly select and apply accounting policies;
+
+* present information, including accounting policies, in a manner that provides relevant, reliable, comparable
+and understandable information;
+
++ provide additional disclosures when compliance with the specific requirements of the financial reporting
+framework are insufficient to enable users to understand the impact of particular transactions, other events and
+conditions on the entity’s financial position and financial performance; and
+
++ make an assessment of the Company’s ability to continue as a going concern.
+
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+
+Company's transactions and disclose with reasonable accuracy at any time the financial position of the Company
+
+and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also
+
+responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities. :
+
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included
+
+on the Company’s website. Legislation in the United Kingdom governing the preparation and dissemination of .
+
+financial statements may differ from legislation in other jurisdictions.
+
+11
+
+=== page 14 ===
+DTCC DERIVATIVES REPOSITORY PLC
+INDEPENDENT AUDITOR'S REPORT
+For the year ended 31 December 2025
+Report on the audit of the financial statements
+Opinion
+In our opinion the financial statements of DTCC Derivatives Repository Ple (the "company"):
+* give a truc and fair view of the state of the company's affairs as at 31 December 2025 and of its profit for the
+year then ended;
++ have been properly prepared in accordance with United Kingdom adopted international accounting standards
+and IFRS Accounting Standards as issued by the International Accounting Standards Board (LASB) and
++ have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements of DTCC Derivatives Repository Ple which comprise:
+* the statement of comprehensive income;
++ the statement of financial position;
++ the statement of changes in equity;
++ the Statement of cash flows; : .
++ the related notes | to 17.
+The financial reporting framework that has been applied in their preparation is applicable law, United Kingdom
+. adopted international accounting standards and IFRS Accounting standards as issued by the [ASB. :
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the auditor's responsibilities for the audit of
+the financial statements section of our report.
+We are independent of the company in accordance with the ethical requirements that are relevant to our audit of the
+financial statements in the UK, including the Financial Reporting Council's (the 'FRC's') Ethical Standard, and we
+have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern .
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the company’s ability to continue as a
+going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the
+relevant sections of this report.
+Other information
+The other information comprises the information included in the annual report, other than the financial statements
+and our auditor’s report thereon. The directors are responsible for the other information contained within the annual
+report. Our opinion on the financial statements does not cover the other information and, except to the extent
+otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+Our responsibility is to read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the financial statements or our knowledge obtained in the course of the audit or
+otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial
+statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement
+of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Responsibilities of directors :
+As explained more fully in the statement of directors’ responsibilities the directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for such
+12
+
+=== page 15 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+INDEPENDENT AUDITOR’S REPORT
+
+For the year ended 31 December 2025
+
+eS
+
+internal control as the directors determine is necessary to enable the preparation of financial statements that are free
+
+from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue
+
+as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of
+
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic
+
+alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+
+material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion.
+
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with
+
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error
+
+and are considered material if. individually or in the aggregate, they could reasonably be expected to influence the
+
+economic decisions of users taken on the basis of these financial statements.
+
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s website
+
+at: www. fre.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+
+Irregularities, including traud, are instances of non-compliance with laws and regulations. We design procedures in
+
+line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including
+
+fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detaited below.
+
+We considered the nature of the company’s industry and its control environment, and reviewed the company’s
+
+documentation of their policies and procedures relating to fraud and compliance with laws and regulations. We also
+
+enquired of management, the audit committee and the directors about their own identification and assessment of
+
+the risks of irregularities including those that are specific to the company's business sector.
+
+We obtained an understanding of the legal and regulatory frameworks that the company operates in, and identified
+
+the key laws and regulations that:
+
++ had a direct effect on the determination of material amounts and disclosures in the financial statements. These
+included UK Companies Act and tax Icgislation; and
+
++ did not have a direct effect on the financial statements but compliance with which may be fundamental to the
+company’s ability to operate or to avoid a material penalty. These included the company’s obligations under
+the Financial Conduct Authority (FCA) Handbook and operating licence.
+
+We discussed among the audit engagement team regarding the opportunities and incentives that may exist within
+
+the organisation for fraud and how and where fraud might occur in the financial statements.
+
+In common with all audits under ISAs (UK), we are also required to perform specific procedures to respond to the
+
+risk of management override. In addressing the risk of fraud through management override of controls, we tested
+
+the appropriateness of journal entries and other adjustments; assessed whether the judgements made in making
+
+accounting cstimates are indicative of a potential bias; and cvaluated the business rationale of any significant
+
+transactions that are unusual or outside the normal course of business.
+
+In addition to the above, our procedures to respond to the risks identified included the following:
+
++ reviewing financial statement disclosures by testing to supporting documentation to assess compliance with
+provisions of relevant laws and regulations described as having a direct effect on the financial statements;
+
+* performing analytical procedures to identify any unusual or unexpected relationships that may indicate risks of
+material misstatement due to fraud;
+
+* enquiring of management and in-house legal counsel concerning actual and potential litigation and claims, and
+instances of non-compliance with laws and regulations; and
+
++ reading minutes of meetings of those charged with governance, and reviewing correspondence with HMRC
+and the FCA.
+
+Report on other legal and regulatory requirements
+
+Opinions on other matters prescribed by the Companies Act 2006
+
+In our opinion, based on the work undertaken in the course of the audit:
+
+13
+
+=== page 16 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+INDEPENDENT AUDITOR’S REPORT
+
+For the year ended 31 December 2025
+
++ the information given in the strategic report and the directors’ report for the financial year for which the
+financial statements are prepared is consistent with the financial statements; and
+
++ the strategic report and the directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the
+
+audit, we have not identified any material misstatements in the strategic report or the directors’ report.
+
+Matters on which we are required to report by exception
+
+Under the Companies Act 2006 we are required to report in respect of the following matters if, in our opinion:
+
++ adequate accounting records have not been kept, or returns adequate for our audit have not been received from
+branches not visited by us; or
+
+. + the financial statements are not in agreement with the accounting records and returns; or
+
++ certain disclosures of directors’ remuneration specified by law are not made; or
+
++ we have not received all the information and explanations we require for our audit.
+
+We have nothing to report in respect of these matters.
+
+Use of our report
+
+This report is made solely to the company’s member, as a body, in accordance with Chapter 3 of Part 16 of the
+
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s member those
+
+matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent
+
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company’s
+
+member as a body, for our audit work, for this report, or for the opinions we have formed.
+
+[ona
+DarES 1300229462... :
+
+Emma Clayton FCA (Senior statutory auditor)
+
+For and on behalf of Deloitte LLP
+
+Statutory Auditor
+
+London, United Kingdom
+
+4 June 2026
+
+14
+
+=== page 17 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STATEMENT OF COMPREHENSIVE INCOME
+For the year ended 31 December 2025
+2025 2024
+
+Notes $000s $000s
+Revenue 5 96,792 88,396
+Expenses:
+License fee 15 19,079 17,395
+Ancillary service fee 15 13,778 14,320
+Employee compensation and related benefits 1,043 1,095
+Professional and other services 443 287
+Occupancy . 117 117
+Information technology 102 27
+Other general and administrative 739 769
+Total expenses 35,301 34,010
+Operating profit 6 61,491 54,386
+Interest income 2,042 2,562
+Profit before taxation 63,533 56,948
+Income tax expense 9 15,883 14,216
+Profit and tota! other comprehensive income for the
+year 47,650, 42,732
+Revenue and operating profit were all derived from continuing operations.
+There was no other comprehensive income in the current and prior year.
+The accompanying notes on pages 19 to 32 are an integral part of these financial statements.
+
+15
+
+=== page 18 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STATEMENT OF FINANCIAL POSITION
+As at 31 December 2025
+2025 2024
+Notes $000s $000s
+Current assets
+Cash and cash equivalents 61,220 30,931
+Short-term investments _ 35,000
+Trade receivables 10 11,348 11,442
+Other current assets 482 376
+Total current assets 73,050 77,749
+Non-current assets
+Deferred tax assets 9 92 82
+Total non-current assets 92 82
+Total assets 73,142 77,831
+Current liabilities
+Taxes payable 3,884 5,593
+Other current liabilities 10,890 16,511
+Total current liabilities 14,774 22,104
+Non-current liabilities :
+Long-term incentive plan 221 230
+Total non-current liabilities 221 230
+Total liabilities 14,995 22,334
+Equity . .
+Called up share capital iat 140 140
+Capital contribution 8,250 - 8,250
+Retained earnings : 49,757 47,107
+Total shareholder's equity 58,147 55,497
+Totai liabilities and shareholder's equity 73,142 77,831
+The accompanying notes on pages 19 to 32 are an integral part of these financial statements.
+The financial statements of DDRP were approved by the Board of Directors and authorised for issue on 4 June
+2026. They were signed on its behalf by:
+‘Signed by:
+[aut Sedgwick
+8D8D54C8E8F 3418...
+Paul Sedgwick
+Director
+Registered number: 07278142
+16
+
+=== page 19 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STATEMENT OF CHANGES IN EQUITY
+For the year ended 31 December 2025
+Called up Capital Retained Total
+share capital contribution earnings equity
+$000s $000s $000s $000s
+Balance at 01 January 2024 140 8,250 44,375 $2,765
+Profit and total comprehensive income
+for the year _— —_ 42,732 42,732
+Dividends (Note 12) _ _— (40,000) (40,000)
+Balance at 31 December 2024 140 8,250 47,107 55,497
+Profit and total comprehensive income
+for the year _— _— 47,650 47,650
+Dividends (Note 12) = = (45,000) (45,000)
+Balance at 31 December 2025 140 8,250 49,757 58,147
+The accompanying notes on pages 19 to 32 are an integral part of these financial statements.
+: 17
+
+=== page 20 ===
+DTCC DERIVATIVES REPOSITORY PLC
+STATEMENT OF CASH FLOWS
+For the year ended 31 December 2025
+Year Year
+ended ended
+2025 2024
+Notes $000s $000s
+Profit for the year 47,650 42,732
+Interest income (2,042) (2,562)
+Income tax 9 15,883 14,216
+Effect of foreign exchange movements (487) (45)
+Operating cash flows before movement in working capital 61,004 54,341
+Decrease / (increase) in trade receivables and other current 77 (1,956)
+(Decrease) / increase in intercompany payables (5,630) 9,489
+Increase in other payables 9 171
+Cash generated by operations 55,460 62,045
+Income taxes paid and group relief transfer (17,138) (16,560)
+Net cash from operating activities 38,322 45,485
+Cash flows from investing activities
+Purchases of Short-term investments (70,000) (70,000)
+Maturities of Short-term investments 105,000 35,000
+Interest on bank deposits and short term investments 1,944 2,456
+Net cash from / (used in) investing activities 36,944 (32,544)
+Cash flows from financing activities
+Dividend payments 12 (45,000) (40,000)
+Net cash (used in) financing activities (45,000) (40,000)
+Net increase / (decrease) in cash and cash equivalents 30,266 (27,059)
+Cash and cash equivalents at beginning of year 30,931 58,011
+Currency translation differences on foreign currency cash
+balances 23 (21)
+Cash and cash equivalents at end of year 61,220 30,931
+The accompanying notes on pages 19 to 32 are an integral part of these financial statements.
+18
+
+=== page 21 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+NOTES TO THE FINANCIAL STATEMENTS
+
+For the year ended 31 December 2025
+
+1. GENERAL INFORMATION
+
+DTCC Derivatives Repository Plc ("DDRP" or "the Company") is a company incorporated in the United Kingdom
+under the Companics Act 2006. The Company is a non-listed public company limited by shares and is registered
+in England and Wales. The address of the registered office is given on page 1. DDRP is a wholly-owned subsidiary
+of DTCC (UK) Limited ("the Parent"), whose ultimate parent undertaking is the Depository Trust & Clearing
+Corporation ("DTCC"). The registered address of the Parent is 1 Finsbury Avenue, London, EC2M 2PF.
+
+The nature of the Company’s operations and its principal activities are set out in the Directors' report on pages 8 to
+10.
+
+1.1. BASIS OF PREPARATION
+
+The financial statements have been prepared in accordance with United Kingdom adopted international accounting
+standards and International Financial Reporting Standards ("IFRSs") as issued by the International Accounting
+Standards Board ("IASB").
+
+The financial statements are prepared under the historical cost convention. A summary of material accounting
+policies is set out below. All accounting policies are applied consistently.
+
+- The preparation of financial statements in conformity with IFRSs requires the use of certain critical accounting .
+estimates as reftected in Note 3. It also requires management to exercise its judgement in the process of applying
+the Company’s material accounting policies.
+
+These financial statements are presented in US dollars because that is the currency of the primary economic
+environment in which the Company operates (functional currency).
+1,2, ADOPTION OF NEW AND REVISED STANDARDS
+In the current year, the Company has applied all the new and revised IFRS Accounting Standards issued by the
+IASB that are mandatorily effective for an accounting period that begins on or after Ol January 2025. Their
+adoption has not had any material impact on the disclosures or on the amounts reported in these financial
+statements.
+At the date of authorisation of these financial statements, the following new and revised IFRS Accounting
+Standards that are relevant to the Company were issued but are not yet effective:
+Effective for annual periods beginning on or after 01 January 2026:
++ Annual Improvements to IFRSs-Volume 11
+Effective for annual periods beginning on or after 01 January 2027:
++ IFRS 18 Presentation and Disclosure in Financial Statements .
+The Company is still evaluating and assessing the timing of adoption and impact on the financial statements and
+related disclosures.
+2. SUMMARY OF MATERIAL ACCOUNTING POLICIES
+Going concern
+The Company's business activities, together with the factors likely to affect its future development, performance
+and position are set out in the Strategic Report on pages 2 to 7.
+After reviewing the Company’s annual budget, liquidity requirements and business plans, the Directors have
+formed a judgment, based upon their knowledge of the Company’s business that its resources will be sufficient to
+cover its expenses for the foreseeable future. The Directors have, at the time of approving the financial statements,
+a reasonable expectation that the Company has adequate resources to continue in operational existence for the
+foreseeable future. Thus they continue to adopt the going concern basis of accounting in preparing the financial
+statements.
+
+19
+
+=== page 22 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+2. SUMMARY OF MATERIAL ACCOUNTING POLICIES (CONTINUED)
+The principal accounting policies adopted are set out below. .
+Revenue recognition
+The Company's revenue is primarily derived from its reporting services. The Global Trade Repository ("GTR")
+service supports data submissions including real-time price reporting, transaction details, confirmation records and
+valuation data. The Trade Information Warehouse (”TIW") Trade Reporting Repository enables regulators and
+market participants to view the market’s overall risk exposure to Over The Counter ("OTC") credit derivatives
+instruments by operating and maintaining the centralised, electronic database for credit default swap contracts
+outstanding in the global marketplace. Repository services include OTC and Exchange Traded Derivatives
+("ETD") derivatives reporting and trade reporting.
+The Company derives its repository service revenue from transaction fees, subscription revenue, support services
+and usage fees. Revenue from transaction fees is billed monthly and calculated based on the number of reported
+transactions and the established fee schedules, less any applicable volume discounts. The volume targets or
+thresholds for the discounts reset monthly. Subscription and support revenues are recognised ratably over the
+performance period of the relevant contract using a time clapsed measure of progress as the customer receives the
+benefits of the services throughout the term of the contract. Usage fees are recognised when services are provided
+based on contractual terms.
+The Company recognises revenue when it transfers control of a product or service to a customer. The Company
+recognises revenue to depict the transfer of promised services and related performance obligations to customers in
+an amount that reflects the consideration to which the Company expects to be entitled, upon satisfaction, in
+exchange for those services.
+Revenue is measured based on the consideration that the Company is contractually entitled to with a customer and
+excludes amounts collected on behalf of third parties. Given the nature of the Company's contracts, there are no
+judgments made by management in relation to estimating variable consideration, adjusting for effects of time value
+of money, or measuring non-cash consideration.
+Interest income
+Interest income is primarily derived from short-term bank deposits and is recognised when it is probable that the
+economic benefits will flow to the Company and the amount of revenue can be measured reliably.
+Interest income on long-term deposits is recognised by applying the effective interest rate method. The effective
+interest rate method is a method of calculating the amortised cost of a financial instrument and of allocating interest
+income or expense over the relevant period. The effective interest rate is the rate that exactly discounts estimated
+future cash receipts or payments (including all fees on points paid or received that form an integral part of the
+effective interest rate, transaction costs and other premiums or discounts) through the expected life of the financial
+instrument, or where appropriate, a shorter period. The application of the effective interest rate method has the
+effect of recognising interest income on the instrument in proportion to the amount outstanding such that the yield
+earned is constant over the period to maturity.
+For the year ended 31 December 2025, interest income in the Statement of Comprehensive Income decreased by
+$521k (2024: decreased by $45k), due to lower interest rates.
+Ancillary service fee
+The Company pays ancillary service fees to DTCC Deriv/SERV LLC ("Deriv/SERV"), a related party, and is
+recognised as an expense in the Statement of Comprehensive Income when the services are received. See Note 15
+for additional information.
+License fees ,
+The Company pays a license fee to Deriv/SERV, a related party, and is recogniscd as an expense in the Statement
+of Comprehensive Income when the services are received. See Note 15 for additional information.
+
+20
+
+=== page 23 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+2. SUMMARY OF MATERIAL ACCOUNTING POLICIES (CONTINUED)
+Foreign currencies
+Transactions in currencies other than the Company’s functional currency (foreign currencies) are recognised at the
+rates of exchange prevailing on the dates of the transactions. At each reporting period, monetary assets and
+liabilities that are denominated in foreign currencies are retranslated at the rates prevailing at that date. Non-
+monetary items carried at fair value that are denominated in foreign currencies are translated at the rates prevailing
+at the date when the fair value was determined. Non-monetary items that are measured in terms of historical cost in
+a foreign currency are not retranslated.
+
+: Operating profit
+Operating profit is stated before interest income and finance costs.
+Employee leave entitlement
+Employee entitlements to annual leave are recognised in the period of service is rendered by the employee. A .
+provision is made for estimated liability for annual leave as a result of services rendered by employees up to the
+end of the reporting period.
+Other long-term employee benefits
+Liabilities recognised in respect of other long-term employee benefits are measured at the fair value of the
+estimated future cash outflows expected to be made by the Company in respect of the services provided by
+employees up to the reporting date.
+Taxation :
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current Tax
+The current tax payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in
+the statement of comprehensive income because taxable profit excludes items of income or expenses that are
+taxable or deductible in other years and it further excludes items that are never taxable or deductible. The
+Company's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by
+the financial statement date.
+Deferred Tax
+The Company records a deferred income tax (benefit) provision when there are temporary differences between
+assets and liabilities measured for financial reporting and for income tax return purposes. These temporary
+differences result in taxable or deductible amounts in future years and are measured using the tax rates and laws
+that will be in effect when such differences are expected to reverse. Deferred tax liabilities are generally recognised
+for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that
+taxable profits will be available against which deductible temporary differences can be utilised. Such assets and
+liabilities are not recognised if the temporary difference arises from the initial recognition of goodwill or from the
+initial recognition (other than in a business combination) of other assets and liabilities in a transaction that affects
+neither the taxable profit nor the accounting profit (permanent differences).
+The carrying amount of deferred tax assets is reviewed at each reporting period and reduced to the extent that it is
+no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. .
+Deferred tax is charged or credited in the Statement of Comprehensive income, except when it relates to items
+charged or credited in other comprehensive income, in which case the deferred tax is also charged or credited in
+other comprehensive income.
+
+21
+
+=== page 24 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+2. SUMMARY OF MATERIAL ACCOUNTING POLICIES (CONTINUED)
+Financial assets
+Financial assets mainly comprise cash and cash equivalents, short-term investments, trade and other receivables.
+Financial assets are recognised and de-recognised on a trade date basis and are initially measured at fair value plus
+transaction costs. All recognised financial assets are measured subsequently in their entirety at either amortised
+cost or fair value, depending on the classification of the financial assets. The classification depends on the nature
+and purpose of financial assets and is determined at the time of initial recognition. Financial assets of the Company
+are classified as Cash and cash equivalents, Short-term investments, Trade receivables and Other current assets.
+Cash and cash equivalents
+All highly liquid investments purchased with an original maturity of three months or less at the date of acquisition
+are classified as Cash and cash equivalents. Cash equivalents consist primarily of highly liquid investments in
+deposits held in banks. Cash and cash equivalents are assessed to have low credit risk at each reporting date as they
+are held with reputable international banking institutions. Cash in bank totals $26,220k (2024: $30,931k) and time
+deposits under three months totals $35,000k (2024: $nil).
+Short-term investments
+Consists of cash invested in bank deposits with original maturities greater than three months and less than one year
+with various yields carried at amortized cost, which approximates fair value due to their short-term maturities.
+Short-term investments are assessed to have low credit risk at each reporting date as they are held with reputable
+international banking institutions. Short-term investments totals $nil (2024: $35,000k).
+Trade receivables - Trade receivables are stated at cost, net of a provision for expected credit losses.
+Other current assets - Are stated at cost. :
+Impairment of financial assets
+The Company uses the simplified approach to assess impairment of financial asscts because trade reccivables are
+typically outstanding for a relatively short period of time and do not contain a significant financing component.
+Under the simplified approach, the loss provision is measured at an amount equal to lifetime expected credit losses.
+The Company uses a provision matrix to determine the expected credit losses for the portfolio. The provision
+matrix is based on its historical observed default rates over the expected life of the trade receivables and is adjusted
+for forward-looking macro-economic factors. The historical observed default rates are updated and changes in the
+forward-looking estimates are analysed at each reporting date.
+Derecognition of financial assets
+The Company derecognises a financial asset only when the contractual rights to the cash flows from the asset
+expire, or it transfers the financial asset and substantially all the risks and rewards of ownership of the asset to
+another entity. If the Company neither transfers nor retains substantially all the risks and rewards of ownership and
+continues to control the transferred asset, the Company recognises its retained interest in the asset and an
+associated liability for amounts it may have to pay. If the Company retains substantially all the risks and rewards of
+ownership of a transferred financial asset, the Company continues to recognise the financial asset and also
+recognises a collateralised borrowing for the proceeds received.
+On derecognition of a financial asset measured at amortised cost, the difference between the asset's carrying
+amount and the sum of the consideration received and receivable is recognised in profit or loss.
+Definition of default
+The Company considers that default has occurred when a financial asset is more than 60 days past due unless the
+Company has reasonable and supportable information to demonstrate that a more lagging default criterion is more
+appropriate.
+
+22
+
+=== page 25 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+2. SUMMARY OF MATERIAL ACCOUNTING POLICIES (CONTINUED)
+Financial assets (continued)
+Write-off policy
+Uncollectible receivables are written-off when collection efforts are unsuccessful and exhausted and there is no
+realistic prospect of recovery or when the amounts are over one year past due, whichever occurs sooner. Write-off
+is the final step in the process of addressing balances that are deemed to be worthless, and permanently
+acknowledging the negative financial impact they have on the Company. Any recoveries made are recognised in
+profit or loss.
+Financial liabilities and equity instruments
+Classification as debt or equity :
+Financial liabilities and equity instruments issued by the Company are classified according to the substance of the
+contractual arrangements entered into and the definitions of a financial liability and an equity instrument.
+Financial liabilities
+Other tiabilities are initially measured at fair value, net of transaction costs, and are subsequently measured at
+amortised cost, with interest expense recognised on an effective yield basis, using the effective interest method.
+Derecognition of financial liabilities
+The Company derecognises financial liabilities when, the Company’s obligations are discharged, cancelled or they
+expire. ,
+Equity instruments
+An equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting
+all of its liabilitics. Equity instruments are recorded at the proceeds received, net of direct issue costs.
+Dividend paid :
+Dividends are recognised as deductions from retained earnings in the year in which they are declared.
+3. CRITICAL JUDGEMENTS IN APPLYING THE COMPANY'S MATERIAL ACCOUNTING
+POLICIES AND KEY SOURCES OF ESTIMATION UNCERTAINTY
+
+In the application of the Company’s material accounting policies, which are described in Note 2, the Directors are
+required to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that .
+are not readily apparent from other sources. The estimates and associated assumptions are based on historical
+experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are
+recognised in the period in which the estimate is revised if the revision affects only that period or in the period of
+the revision and future periods if the revision affects both current and future years.
+Critical judgements in applying the Company’s material accounting policies
+Management is of the opinion that any instance of application of judgements is not expected to have a significant ~
+effect on the amounts recognised in the financial statements.
+Key sources of estimation uncertainty
+There were no estimations of uncertainty at the reporting period that may have a significant risk of causing a
+material adjustment to the carrying amounts of assets and liabilities within the next financial year.
+
+. 23
+
+=== page 26 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+4, FINANCIAL INSTRUMENTS, FINANCIAL RISKS AND CAPITAL MANAGEMENT
+(a) Categories of financial instruments
+The following table sets out the financial instrument classifications as at the end of the reporting period:
+Note 2025 2024
+$000s $000s
+Financial assets at amortised cost
+Cash and cash equivalents 61,220 30,931
+Short-term investments : _ 35,000
+Trade receivables 10 11,348 11,442
+Other current assets “) 326 237
+72,894 77,610
+Financial liabilities at amortised cost
+Other current liabilities 10,890 16,511
+(1) prepayments are included within Other current assets, but are not classified as financial assets, therefore are
+not included in this balance. .
+(b) Financial instruments subjected to offsetting interest and master netting arrangements and similar agreement
+The Company does not have any financial instruments that are subjected to enforceable master netting agreements
+or similar netting agreements.
+(c) Financial risk management policies and objectives
+The Company manages its exposure to financial risks using a variety of techniques and instruments. The risks
+include credit risk, currency risk, interest rate risk and liquidity risk. Management manages and monitors these
+exposures to ensure appropriate measures are implemented in a timely and effective manner.
+During the year, there has been no change to the Company’s exposure to these financial risks or the manner in
+which it manages and measures the risk.
+The Company does not use derivative financial instruments to hedge against the volatility associated with the
+foreign currency transactions, and other financial assets and liabilities created in the ordinary course of business.
+The main financial risks that the Company is exposed to and how it manages these risks are set out below:
+i) Credit risk .
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial
+loss to the Company.
+The Company’s maximum exposure to credit risk in the event of the counterparties’ failure to perform their
+obligations in relation to each class of recognised financial assets is the carrying amount of those assets as
+stated in the Statement of Financial Position at the end of the reporting period. Financial assets that are
+potentially subject to concentrations of credit risk consist principally of cash and bank balances and trade
+receivables. Cash and bank balances are placed with reputable financial institutions. Consequently,
+management does not expect the financial institutions to fail to meet their obligations. No provision for
+impairment loss was made at 31 December 2025 for cash and cash equivalents and short-term investments as
+these financial assets were considered to be of low credit risk and the expected credit loss was minimal. Trade
+receivables from third parties consist of amounts due from customers. Further details of the credit risk on trade
+receivables from third parties are disclosed in Note 10.
+The tables below detail the credit quality of the Company’s financial assets and other items, as well as the
+Company’s maximum exposure to credit risk by credit risk rating grades:
+24
+
+=== page 27 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+4. FINANCIAL INSTRUMENTS, FINANCIAL RISKS AND CAPITAL MANAGEMENT (CONTINUED)
+(c) Financial risk management policies and objectives (continued)
+Gross Loss Net
+carrying Allowance carrying
+Internal amount amount
+2025 Credit Rating - 12m or lifetime ECL $000s $000s $000s
+ECL (simplified
+Cash and cash equivalents Performing approach 61,220 _ 61,220
+ECL (simplified
+Trade receivables Performing approach 11,372 (24) 11,348
+ECL (simplified .
+Other current assets Performing approach 326 _— 326
+1918 04) 72,894
+Gross Loss Net
+carrying Allowance carrying
+Internal amount amount .
+2024 Credit Rating 12m or lifetime ECL $000s $000s $000s
+ECL (simplified
+Cash and cash equivalents Performing approach 30,931 _ 30,931
+ECL (simplified
+Short-term investments Performing approach 35,000 _ 35,000
+ECL (simplified
+Trade receivables Performing approach 11,472 (30) 11,442 :
+ECL (simplified
+Other current assets Performing approach 237 _ 237
+77,640 (30) 77,610
+ii) Foreign exchange risk
+The Company is exposed to foreign currency risk on cash and bank balances and trade receivables that are
+denominated in a currency other than the functional currency of the Company. The currency giving rise to this
+risk is primarily the Euro ("EUR").
+The Company’s exposures to EUR are as follows:
+2025 2024
+. $000s $000s
+Cash and cash equivalents 428 180
+Trade receivables 288 219
+A 10% strengthening of USD against the EUR would decrease the profit for the year by USD $72k (2024:
+$40k). A 10% weakening of USD against EUR would have had an equal but opposite effect. This analysis
+assumes that all other variables, in particular, interest rates, remain constant.
+The foreign currency risk sensitivity rate is deemed to be 10%, which is the change in foreign exchange rate
+that management deems reasonably possible to affect outstanding foreign currency denominated monetary
+items at period end.
+The Company does not have a formal hedging policy with respect to foreign currency exposures.
+iii) Interest rate risk
+Interest rate risk refers to the potential impact on the Company’s earnings arising from changes in interest rates
+that affect the spread earned between yields on its interest-yielding assets and the cost of its interest-bearing
+liabilities.
+25
+
+=== page 28 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+4. FINANCIAL INSTRUMENTS, FINANCIAL RISKS AND CAPITAL MANAGEMENT (CONTINUED)
+(c) Financial risk management policies and objectives (continued)
+All financial assets and liabilities at 31 December 2025 and 2024 are non-interest bearing and are not exposed
+to interest rate risk, except for short-term investments and certain bank balances with fixed deposits at the end
+of the reporting period. The effective interest rate on the fixed deposit is 4.03% (2024: 4.73%) per annum.
+No sensitivity analysis is prepared as the Company does not expect any material effect on the Company’s
+profit or loss arising from the effects of reasonably possible changes to interest rates on interest bearing
+financial assets as the end of the reporting period.
+iv) Liquidity risk
+Liquidity risk refers to the risk of difficulties in meeting payment obtigations. Liquidity risk is managed by
+matching the payment and reccipt cycle.
+Alf financial liabilities are repayable on demand or within the agreed repayment period and are non-interest
+bearing. The Company considers that it will be able to meet its financial liabilities as and when they fall due.
+(d) Fair value of financial assets and financial liabilities
+The carrying amounts of financial assets and liabilities approximate their respective fair values due to the
+relatively short-term maturity of these financial instruments.
+(e) Capital management policies and objectives
+The Company reviews its capital structure at least annually to ensure that the Company will be able to continue as
+a going concern. The capital structure of the Company comprises called up share capital presented as equity,
+capital contribution and retained earnings. The Company is in compliance with all externally imposed capital
+requirements for the financial years ended 31 December 2025 and 2024. The Company’s overall strategy remains
+unchanged from prior year.
+5. REVENUE
+An analysis of the Company’s revenue by product follows:
+Year. Year
+ended ended
+2025 2024
+$000s $000s
+Continuing operations
+Global Trade Repository
+EMIR () 54,103 46,631
+SFTR ® 8,301 7,095
+HKMA ®) 12,992 13,247
+Total 75,396 66,973
+Trade Information Warehouse
+Third party billing 20,000 20,000
+Revenue from related party (Note 15) 1,396 1,423
+Total 21,396 21,423
+Total 96,792 88,396
+(1) European Market Infrastructure Regulation ("EMIR") relates to reporting under Article 9 of Regulation (EU)
+No 648/2012 of 4 July 2012 of the European Parliament and of the Council on OTC derivatives, central
+counterparties and trade repositories.
+26
+
+=== page 29 ===
+DTCC DERIVATIVES REPOSITORY PLC
+
+NOTES TO THE FINANCIAL STATEMENTS :
+
+For the year ended 31 December 2025
+
+§. REVENUE (CONTINUED)
+
+(2) Securities Financing Transaction Regulation ("SFTR") relates to reporting under Article 4 of Regulation (EU)
+No 2015/2365 on transparency of securities financing transactions and of reuse and amending Regulation (EU)
+No 648/2012 (SFTR).
+
+(3) Hong Kong Monetary Authority ("HKMA").
+
+All revenue is generated from fees and is primarily generated from within the UK. In 2025 and 2024 the Company
+
+. did not generate revenue from Ancillary services that are directly related to centrally collecting and maintaining
+
+records of derivatives under Regulation (EU) No 648/2012.
+
+6. OPERATING PROFIT ,
+
+The profit for the year has been arrived at after charging / (crediting): :
+
+: Year Year
+ended ended
+
+2025 2024
+
+$000s $000s
+
+Staff costs (Note 8) 1,043 1,095
+Foreign exchange (gains) / losses - unrealised (38) 29
+Foreign exchange losses - realised 89 91
+Expected credit loss allowances 80 89
+1,174 1,304
+
+Foreign exchange losses / (gains) and expected credit loss allowances are included in Other general and
+
+administrative. The Company's foreign exchange losses / (gains) primarily relate to revaluation on GBP balances
+
+for taxes payables and foreign exchange on the transfer of EUR cash balances to USD cash balances.
+: 7. AUDITOR'S REMUNERATION
+
+Fees payable to Deloitte LLP for the audit of the Company’s annual financial statements were $160k (2024:
+
+$171k). During the financial years 2025 and 2024, there were no fees payable to Deloitte LLP, respectively for
+
+other assurance services, other non-audit services and taxation advisory services.
+
+8. STAFF COSTS
+
+The average monthly number of employees was:
+
+2025 2024
+Number Number
+Administration and General 2 2
+
+Their aggregate remuneration comprised:
+
+Year Year
+
+ended ended
+
+2025 2024
+
+$000s $000s
+
+Wages and salaries 897 940
+Social security costs 130 127
+Other pension costs 16 28
+1,043 1,095
+
+27
+
+=== page 30 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+9. TAXATION
+Year Year
+ended ended
+2025 2024
+$000s $000s
+Current tax charge / (benefit):
+Current year 15,893 14,279
+Adjustments in respect of prior years _— (23)
+15,893 14,256
+Deferred tax charge / (benefit):
+Current year (10) (42)
+Adjustments in respect of prior years —_ 2
+(10) (40)
+Total tax charge 15,883 14,216
+Analysis of the tax charge
+The charge for the year can be reconciled to the income tax expense in the Statement of Comprehensive income as
+follows:
+Year Year
+ended ended
+2025 2024
+$000s $000s
+Profit before tax on continuing operations 63,533 56,948
+Tax at UK corporate tax rate 15,883 14,237
+Adjustments in respect of prior years _— (21)
+Total tax charge iS 883216
+. Corporation tax is calculated at 25.00% (2024: 25.00%) of the estimated taxable profit for the year.
+In July 2023, the UK government enacted legislation related to the Organisation for Economic Co-operation and
+Development (“OECD”) Pillar Two global minimum tax rules. The legislation including the first set of Pillar Two
+rules was effective 1 January 2024 for the Company. In addition, the Finance Act 2025 introduced key changes to
+UK Pillar Two rules effective for 2025, enacting the last set of Pillar Two rules, Under-Taxed Profits Rule
+(SUTPR”), for accounting periods starting on or after 31 December 2024, and incorporating OECD guidance. The
+assessment of the exposure to Pillar Two income taxes is based on the most recent tax filings, country-by-country
+reporting (“CbCR”) and financial statements for the constituent entities in the DTCC Group. Based on the
+assessment, the Company has met the transitional safe harbour test, resulting in no top-up tax in its income tax .
+expense.
+The Company has adopted the amendments to IAS 12 Income Taxes relating to the OECD/G20 Pillar Two model
+tules. As a result of uncertainty regarding the recognition and measurement of deferred taxes arising from Pillar
+Two, the IASB issued amendments to IAS 12 introducing a mandatory temporary exception, whereby entities are
+not required to recognize or disclose deferred tax assets and liabilities related to Pillar Two. The DTCC Group has
+applied the temporary exception as at 31 December 2025 and 2024.
+On 5 January 2026, the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting released a “side-by-
+side package” related to the Pillar Two global minimum tax rules. The package includes (i) agreed upon
+administrative guidance supporting a side-by-side system, (ii) a permanent simplifted effective tax rate (“ETR”)
+safe harbor, (iii) an extension of the transitional CbCR safe harbour, and (iv) a substance-based tax incentive
+(“SBTI”) safe harbour. The Company will continue to monitor the impact of Pillar Two income tax legislation in
+future periods on its global tax profile.
+28 .
+
+=== page 31 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+9. TAXATION (CONTINUED)
+Deferred tax
+The following are the major deferred tax assets recognised by the Company and movements thereon during the
+current and prior reporting period.
+2025 2024
+$000s $000s
+Deferred Tax
+Asset at beginning of year 82 42
+Deferred tax credit on compensation and other short-term timing differences 10 41
+Deferred tax (charge) from prior year in Statement of Comprehensive Income — (1)
+Asset at the end of the year 92 82.
+In respect of:
+Deferred compensation 84 73
+Expected credit loss allowances 6 7
+Capital allowances 1 2
+Other timing differences i _
+Deferred tax asset at the end of the year 92 82
+The utilisation of the deferred tax asset is dependent on the Company's expected future taxable profits in excess of
+the profits arising from the reversal of existing taxable temporary differences. The Company expects the deferred
+tax balance to be fully utilised, so the balance has been recognised in full.
+Deferred tax balances have been calculated using the effective tax rate applicable at the reporting period. As of 31 :
+December 2025 and 2024 , the UK corporate tax rate remains at 25.00%.
+10. TRADE RECEIVABLES
+2025 2024
+$000s $000s
+Trade receivable (gross) . . 11,372 11,472
+Expected credit loss allowance (24) (30)
+Trade receivable (net) 11,348 11,442
+The average credit period for third parties is 17 days (2024: 21 days). No interest is charged on outstanding trade
+receivables from third parties. Expected credit losses are estimated using a provision matrix by reference to :
+historical observed default rates over the expected life of the trade receivables and is adjusted for forward looking
+macro-economic factors. The Company has recognised an expected credit loss of 5% against al! receivables past
+due over 61 to 180 days and 10% against all receivables past due over 180 days based on specific review of the
+Company's customers.
+The analysis of trade receivable from third parties is as follows: 2025 2024
+$000s $000s
+Current or within 60 days past due 10,906 11,118
+61 to 180 days past due 454 281
+More than 180 days past due 12 B
+Expected credit loss allowance (24) (30)
+Net carrying amount 11,348 11,442
+29
+
+=== page 32 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+10. TRADE RECEIVABLES (CONTINUED)
+Movement in expected credit loss allowance 2025 2024
+$000s $000s
+Balance at beginning of the year 30 8
+Provision 80 89
+Less: Write-offs (86) (67)
+Balance at end of the year 24 30
+1t. CALLED UP SHARE CAPITAL
+As at 31 December 2025, 140,122 ordinary shares, authorised, issued and fully paid (2024: 140,122) with a par
+value of €0.8564 (2024: €0.8564) per share, are outstanding.
+12, DIVIDENDS
+Year Year
+ended ended
+2025 2024
+$000s $000s
+Amounts recognised as distributions to equity holders:
+Dividend paid, $214.10 per share 30,000 _—
+Dividend paid, $107.05 per share 15,000 _
+Dividend paid, $249.78 per share _ 35,000
+Dividend paid, $35.68 per share _— 5,000
+45,000 40,000
+13. CONTINGENT LIABILITIES ;
+The Company has no contingent liabilities, financial commitments or guarantees.
+14. DIRECTORS EMOLUMENTS
+: Year Year
+ended ended
+2025 2024
+$000s $000s
+Total emoluments 499 588
+Amounts (excluding shares and share options) receivable under long-term
+incentive schemes 64 153
+Defined contribution plan 27 42
+Total 590 783
+During 2025, only one (2024: one) Director was directly remunerated by the Company. The highest paid Director
+directly remunerated by the Company’s total aggregated remuneration for the year was $341k (2024: $322k). For
+the purpose of this disclosure only, the remaining two key Directors who are employed within the DTCC group
+have been allocated a percentage of their total costs to DDRP based on their estimated services provided to the
+Company. The Director remunerated directly by the Company and the remaining key Directors employed within
+the DTCC group are the only key management personnel of the Company. All remaining Directors, are either not
+paid, or not directly remunerated by the Company.
+30
+
+=== page 33 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS
+For the year ended 31 December 2025
+15. RELATED PARTY TRANSACTIONS ‘
+In the ordinary course of business, the Company enters into related party transactions with other subsidiaries of its
+ultimate Parent.
+Outstanding balances at the end of the year are unsecured, interest free and are settled in cash. There were no
+guarantees provided or received in relation to any related party payables or receivables. Intercompany balances are
+repayable upon demand and the carrying amount of these assets approximates their fair values due to the short-term
+maturity of the balances and credit-worthiness of the counterparty. Therefore, no provisions were deemed
+necessary or made with respect to these balances. Amounts due from or due to related parties are included in other
+current assets or other current liabilities. Key management compensation disclosures are included in Note 14.
+Transactions with Deriv/SERV
+The Company has agreements with Deriv/SERV for the non-exclusive right and license to use Deriv/SERV's
+intellectual property for both GTR and TIW services. The Company pays Deriv/SERV a license fee of 20% of the
+amount of revenue earned, which is included in license fees in the accompanying Statements of Comprehensive
+Income. The agreement also included fees for ancillary services, which are support services that Deriv/SERV
+provides to the Company that are not performed locally but are directly attributable to the support of the local
+business. The cost of ancillary services are allocated to the Company based upon their estimated use of such goods
+or services as determined by various allocation factors including direct expenses, level of support provided and
+utilisation of technology resources and are included in ancillary service fees in the accompanying Statement of
+Comprehensive Income.
+Transactions with DTCC Solutions LLC
+The Company has an agreement with DTCC Solutions LLC, providing access to raw data and public reports to
+create enhanced TIW reports. The Company receives from DTCC Solutions LLC a service fee income of 95% of
+the revenue it generates from this data.
+Transactions with DTCC Europe Limited
+The Company has a services agreement with DTCC Europe Limited for the shared use of occupancy space. The
+Company pays a service fee to DTCC Europe Limited for this use. DTCC Europe Limited also makes payments on
+behalf of the Company which the Company reimburses DTCC Europe Limited for in the following month.
+Payments made on its behalf include payroll, corporate tax and Value Added Tax.
+Transactions with affiliated DTCC subsidiary companies
+Transactions with DTCC and subsidiary companies mainly comprise payments / receipts made for the operating
+expense / revenue of the Company paid / received on its behalf.
+Transactions with related parties .
+Income Expenses Amounts Amounts
+attributable —_ attributable due from due to
+from related _ from related related related
+parties parties parties parties
+$000s $000s $000s $000s
+31 December 2025
+Deriv/SERV _ 32,857 _ 2,765
+DTCC Solutions LLC 1,396 _ M7 _
+DTCC Europe Limited _— 117 —_ 7,146
+Affiliate DTCC subsidiary companies _ _ 5 281
+31 December 2024
+Deriv/SERV _ 31,715 _ 2,569
+DTCC Solutions LLC 1,423 — 129 —
+DTCC Europe Limited _ 117 _ 3,769
+Affiliate DTCC subsidiary companies _— _— 2 9,494
+3
+
+=== page 34 ===
+DTCC DERIVATIVES REPOSITORY PLC
+NOTES TO THE FINANCIAL STATEMENTS :
+For the year ended 31 December 2025
+16. ULTIMATE CONTROLLING PARTY
+The Company’s ultimate parent and controlling entity is DTCC, which is incorporated in the United States of
+America, and heads the largest and smallest group of companies of which the Company is a member. DTCC
+prepares consolidated financial statements in accordance with US GAAP. Copies of its financial statements can be
+obtained from www.dtcc.com. The registered address of DTCC is 570 Washington Blvd., Jersey City, NJ, 07310,
+United States.
+17. EVENTS AFTER THE REPORTING PERIOD
+There were no significant events after the reporting period that would require recognition or disclosure in the
+financial statements.
+
+32
+

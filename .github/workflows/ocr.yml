@@ -1,0 +1,90 @@
+name: 03b Read scanned accounts (OCR)
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Companies per shard (blank = all)'
+        required: false
+      shards:
+        description: 'Parallel jobs (1-20)'
+        required: false
+        default: '12'
+  schedule:
+    - cron: '17 2 1 * *'   # monthly: reads any new scanned filings (already-read filings are skipped)
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.p.outputs.shards }}
+      list: ${{ steps.p.outputs.list }}
+    steps:
+      - id: p
+        run: |
+          N=${{ inputs.shards || '12' }}
+          echo "shards=$N" >> $GITHUB_OUTPUT
+          echo "list=[$(seq -s, 0 $((N-1)))]" >> $GITHUB_OUTPUT
+
+  read:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr poppler-utils
+          pip install pandas requests beautifulsoup4 lxml
+      - name: Download and read the PDFs for this shard
+        env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
+          SHARD: ${{ matrix.shard }}
+          SHARDS: ${{ needs.plan.outputs.shards }}
+          LIMIT: ${{ inputs.limit }}
+        run: python scripts/ocr_fetch.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ocr-shard-${{ matrix.shard }}
+          path: data/ocr
+          retention-days: 7
+
+  save:
+    needs: read
+    if: always()
+    runs-on: ubuntu-latest
+    concurrency:
+      group: weekly
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: ocr-shard-*
+          path: data/ocr
+          merge-multiple: true
+      - name: Read the figures from the text
+        run: python scripts/ocr_parse.py 2>&1 | tee data/ocr/parse_log.txt
+      - name: Save the results back to the repository
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data/ocr
+          git commit -m "OCR results $(date -u +%Y-%m-%dT%H:%MZ)" || echo "Nothing to commit"
+          git pull --rebase -X theirs
+          git push

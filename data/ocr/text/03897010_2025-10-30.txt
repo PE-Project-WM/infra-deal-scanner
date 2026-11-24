@@ -1,0 +1,938 @@
+=== page 1 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+‘ |
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+For the year ended 31 December 2024
+>
+3 *AEESVPID*
+AG 28/10/2025 #57
+COMPANIES HOUSE .
+|
+| (o 2S co ' |
+oI 242 TS
+
+=== page 2 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+
+Rackspace Limited
+
+Registered number 03897010
+
+Annual report and financial statements
+
+31 December 2024
+
+rackspace.
+
+Contents
+
+Page(s)
+Strategic report 3
+Directors’ report 11
+Independent auditors’ report to the members of Rackspace Limited 16
+Statement of Comprehensive Income 20
+Balance Sheet 21
+Statement of Changes in Equity 22
+Notes to the financral statements 23
+
+=== page 3 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010 '
+Annual report and financial statements
+31 December 2024
+Strategic report
+The directors present their strategic report for the year ended 31 December 2024 of Rackspace Limited (“the Company”) The
+Directors’ are responsible for adhering to Section 172(1) of the Compames Act 2006 which imposes a general duty on every
+company director to act, in good faith, in the way they consider would be most likely to promote the success of the Company for
+the benefit of its shareholders and to also have regard to how the Company’s activities and decisions taken will impact Its
+stakeholders The Directors carry out specific measures to ensure compliance with Section 172(1} which are listed in the Strategic
+and Directors’ Report below
+Principal activities
+Revenue represents income from customer agreements for services contracted between the customers and the Company
+In addition, the Company provides services to Rackspace International GMBH (“RIG”) in order for RIG to provide services to end
+customer These customer agreements for services are contracted between Rackspace International GMBH, a related party
+registered in Switzerland, and the relevant customer Other income in the statement of comprehensive income received by the '
+Company from operating activities represents arms-length compensation for the provision of services to Rackspace International
+GMBH under a relevant agreement The Company and RIG are part of the Rackspace group of companies (“the Group”), sharing
+the same ultimate parent company, Rackspace Technology, Inc (note 23)
+Effective on January 1, 2023, the Company reorganized around a two-business unit operating model, Public Cloud and Private
+Cloud Public Cloud and Private Cloud have very different business dynamics and require different skill sets and levels of
+investment to manage This two-business unit operating model ensures increased focus, delivery and service quality for our
+customers Beginning in 2023, we changed our segment reporting to reflect this reorganization under two reporting segments
+Public Cloud and Private Cloud The services across these two segments fall under the umbrella of cloud computing and include :
+Private cloud services
+These service offerings provide compute, storage and applications accessed by a specific customer, either with a cloud
+management layer (in managed private cloud) or without one {in managed hosting) We offer managed private clouds powered
+by leading technologies like VMware, Microsoft and OpenStack in our data centres as well as in those owned by customers or by
+third parties such as colocation providers We also offer managed VMware on AWS, delivering an increasingly popular hybrid |
+combination Our private cloud offerings can be used with or without virtualization software
+Private Cloud Rackspace Private Cloud enables our customers to achieve their business outcomes at our world class data centres
+or ina colocation or edge facility strategic to our customers’ success and connected by our RackConnect Global network service,
+virtual backbone, or provider-based network services The Private Cloud product portfolio includes
+. Programmatic infrastructure
+Programmatic Infrastructure 1s the foundation of Private Cloud and includes hardware and services for compute, network,
+storage, and data protection services We partner with OEMs like Dell, Cisco, Palo Alto Networks, and NetApp to provide standard
+offers at scale or solutions tailored to our customers’ specific needs
+. Cloud Operating Systems
+These services provide the operating layer for physical devices with a software defined data centre from VMware by Broadcom
+or OpenStack These offers include Enterprise, Business, Flex, and Anywhere packages to match our customers’ needs and
+locations
+. Platform-as-o-Service
+Our PaaS offers include RMPK (a managed Kubernetes service}, RXD8 {a privately hosted Database-as-a-Service solution
+specializing in High Availability NoSQL databases), RSDM (a team of database experts to manage and optimize your database
+estate), and SPOT (a unique cloud infrastructure offer auctioned in an open market as turnkey fully managed Kubernetes clusters)
+1
+3
+
+=== page 4 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Principal actwwities (continued)
+. Private Cloud Solutions
+These solutions are specific to certain customer use cases including Al, ERP services like SAP and Oracle, Epic workloads for
+customers in our healthcare vertical, and Sovereign and Government compliant services
+. Private Cloud Services
+To solve our customers’ challenges and meet them where they are in their digital transformation, we provide managed services,
+professional services, Elastic Engineering services, and security services Additionally, our Rackspace Email service provides a fully
+managed email platform for customers and carners
+Public Cloud These offerings address the challenges of managing applications and data on the AWS, Microsoft Azure and Google
+Cloud public clouds We bundle the underlying public cloud infrastructure with our expertise and experience, managed services
+and proprietary tools While the infrastructure providers are responsible for their data centres, servers, storage, networking and
+operating system software, we help customers navigate, migrate, modernize, architect and deploy their applications on those
+leading public cloud platforms After a migration, we manage, secure and optimize the customer's environments on an ongoing
+basis using our tools, automation and expertise, while supporting the customer with robust service level agreements These
+offerings do not require us to commit significant capital expenditures given that third parties provide the infrastructure
+Within Public Cloud, we deliver innovative Cloud Offerings (pre-defined playbooks) that are delivered using services (Professional
+Services, Elastic Engineering, and Managed Services) to provide solutions to customer problems across all three public clouds
+(AWS, Azure, and Google Cloud} These solutions accelerate a "Do With" approach to cloud transformation and are enabled by
+Rackspace assets and accelerators We take these solutions to our customers through four service lines - Cloud Platform, Cloud
+Apps, Cloud Security and Cloud Data
+. Cloud Platform
+The Clous Platform Service Line focuses on providing platform-related services such as cloud strategy and architecture, platform
+and infrastructure migrations, and modern cloud infrastructure The outcomes are to have a well-architected, optimized
+sustainable workloads on a cloud platform
+. Cloud Apps
+The application service (ine 1s focused on building and managing applications within a cloud technology stack It involves building
+new cloud-native applications on AWS, Azure, and Google Cloud, as well as modernuzing legacy applications through methods
+like re-platforming, container adoption, refactoring, and rewriting
+. Cloud Security
+We provide fully-integrated security solutions that combine cutting-edge technofogy with our in-house Security Operations
+Centre to provide customers with threat detection, analysis and remediation capabilities Additionally, we have integrated
+security platforms into our management tools to give our customers one view of their organization’s vulnerability and threats
+We offer additional managed security services to customers in the areas of (1) security threat assessment and prevention, (11}
+proactive threat detection and response, (1) rapid remediation, (1v} governance, risk and compliance assistance across multiple
+cloud platforms and {v) Privacy and Data Protection services, including detailed access restrictions and reporting Our 24x7x365
+Customer Security Operations Centre is staffed by experienced Global Information Assurance Certification (GIAC) security
+analysts
+. Cloud Oata
+Cloud Data Services are dedicated to helping customers accelerate the adaption of modern data solutions while enabling their
+business transformation Leveraging our IP, delivery frameworks, and reference architectures, we provide professional services
+and managed services across Data Modernization, Cloud Native Data Platforms, Self Service Analytics, Al, and Machine Learning
+across AWS, Azure, and Google Cloud
+!
+4
+
+=== page 5 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F 2C93
+Rackspace Limited l
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Principal activities (continued)
+We offer professional services across our entire portfolio, including hybrid, multicloud solutions, applications, security and data
+As part of our professional services process, we meet customers at every stage of their cloud journey and design solutions focused
+on modernizing their infrastructure and applications to enhance the value of their cloud technologies This process often serves
+as the starting point for new business opportunities, following our initial professional services engagement, a customer will
+typically use any combination of our managed services under long-term contracts, and will often use our professional services
+multiple times as their technology needs continue to evolve For some new customer relationships, the early stages of the
+relationship can be weighted toward infrastructure revenue, in these cases, our customer success sales team Is tasked with up-
+selling and cross-selling additional services, including professional services, to enhance the overall customer relationship
+Objectives and strategy
+We believe that the following characteristics differentiates Rackspace from our competitors and drive a continuous cycle of
+product innovation and product development
+1 Focus on delivering strategic outcomes Our value proposition to customers includes a focus on solving strategic
+business problems, rather than selling a product or group of products in a point sale Our customers are able to use our
+services to drive new revenue streams and enhance the value of their cloud investments, which may tnclude collecting
+data to create new product offerings and applications, connecting workloads between clouds or automatically scaling
+cloud usage to match demand
+2. Unified service expertence for the multicloud We have developed Rackspace Fabric, a multi-tenant, end to-end service
+management platform enabling our customers to access all of our supported clouds and all of our managed services |
+from a single, web-based interface This technology provides customers with a toolkit to including unified billing, a ‘
+central security model, unified ticketing and support interactions This technology provides our customers with a '
+consistent experience across all clouds and enables us to deliver a scalable and efficient means of offering our Fanatical
+Experience to our customers worldwide |
+3 Differentrated relattonships with technology partners We benefit from differentiated partnerships with major public
+and private Cloud vendors, including AWS, Azure, Google Cloud and VMware We work with our partners’ sales teams
+to offer bundled solutions through a single go-to-market effort Additionally, we have insight into our partners’ product
+roadmaps (and vice versa), providing critical nputs for both sides to develop complementary services and technology
+We believe these relationships are beneficial to us, our customers and our partners, we and our partners both receive
+critical inputs for further innovation and benefit from joint go-to-market initiatives, while our customers are able to
+maximise their use of innovative technologies more efficiently, reduce time-to-market and remain competitive
+4 Customisable consumption of services Our service model enables customers to adapt their consumption of our
+services with the evolving needs of their businesses Rackspace Service Blocks are packages of services tailored to
+address specific cloud use cases and enable a customised consumption model whereby customers can match their
+cloud needs with the associated spend Rackspace Service Blocks allow our customers to maintain greater agility,
+performance and cost-efficiency as compared to traditional IT services contracts Additionally, this structure provides
+us with a platform for cross-sell and up-sell opportunities with customers over time, resulting in a land-and-expand
+model in which customers increase their use of our services as their cloud needs evolve
+5S We deliver a Fanatical Expertence to our customers The Fanatical Experience that we deliver to our customers is the
+foundation of the trust our customers place in us when they choose us to build, manage and operate their cloud
+environments That process encompasses everything from the way we recruit, intervew and test prospective
+employees, to the way we continuously train new and veteran employees in the latest technologies, to the way we
+make the specialised expertise of global Rackers available to customers 24x7x365 by phone, chat, email or web portal,
+to the way we empower Rackers to invest in new research and development projects, to our hyper focus on customer
+experience and satisfaction, and to the way we leverage automation and proprietary tools and processes to make our
+services highly rehable and easy for our customers to use
+S
+
+=== page 6 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Key performance indicators
+The key performance indicator for the Company ts the growth of revenue Refer to “Results and Performance” in the Strategic
+Report for details As part of the budgetary process, targets are set in order to effectively manage the activities of the Company
+Performance 1s reviewed on a regular basis and appropriate actions are taken as required Non-financial KPl’s are disclosed tn the
+Directors’ report under stakeholder engagement section
+Results and performance
+Revenue in the year amounted to £354,780,964 (2023 £392,633,505) which represents a 9 6% decrease from 2023 This decrease
+was predominantly driven by reduced hosting services provided to support customers contracted with Rackspace International
+GMBH and reduced costs incurred from third party customers Durtng the year, the Company’s cost of sales have decreased by
+6 4% (2024 £253,916,023 2023 £271,158,962} This decrease was driven by a 22% fall in salary costs as a result of reductions tn
+headcount combined with a decrease in total utility costs and licence fees associated with the decline in revenue This resulted
+In a gross profit of £100,864,941 (2023 £121,474,543) with a reduced gross profit margin of 28 4% compared to 30 9% in the
+prioryear Revenue has decreased proportionally with cost of sales as income arising from hosting services provided to Rackspace
+International GMBH includes reimbursements of administrative expenses not included within cost of sales, which have also
+decreased from the prior year
+Administrative expenses have decreased by 15 9% (2024 £95,589,868, 2023 £113,687,659) as a result of reduced administrative
+salary costs and contract labour expenses from an overall reduction in headcount (2024 610, 2023 709) combined with a year
+on year decrease in depreciation charges Other income in the year amounted to £4,789,674 (2023 £8,351,606} This year-on-
+year decrease has arisen from a reduced level of foreign exchange gains on non-functional currency transactions
+The Company’s operating margin, when excluding non-recurring events, has remained relatively consistent year-on-year with a
+result of 3 6% (2023 (2 4%))}
+The results of the Company for the year ended 31 December 2024 are set out in the statement of comprehensive income on page
+20 Losses before taxation for the year amounted to £241,908 (2023 loss of £20,517,342) Its worth noting that no impairments
+have been recognised in the current year, which compares to an impairment loss of £17,105,636 in relation to the Company’s
+(investment in Datapipe Europe Limited and additional asset impairments of £8,417,683 recognised in the prior year Profit after
+tax was £6,374,653, whichis driven by a reduction tn the uncertain tax provision, of which £6,400,456 was released
+The net liabilities of the Company at the end of the year amounted to £10,919,016 (2023 net liabilities of £17,718,584) This
+Improved position is driven by the profit after tax achieved during the year of £6,374,653 (2023 loss of £26,516,045) which is
+explained above
+The Directors’ consider the iong-term impact on the Company of key decisions made The Directors’ delegate this to the Senior
+and Financial Leadership Team (middle management in Switzerland and top management in United States) who perform
+budgetary analysis of decisions to be made and consider the likely consequences in the long-term The monitoring of the long-
+term impact of key decisions made 1s reviewed by the Directors and management at Rackspace international GMBH, a related
+company registered in Switzerland, as part of meetings that consider regional results including the Company’s results
+Furthermore, all entity level controls are reviewed as part of the ultimate parent company’s {note 23) group wide control
+framework
+Principal sks and uncertainties
+Rackspace International GMBH, a related company registered in Switzerland, principally bears the risks suffered by Rackspace
+Limited and Management use the experts at Rackspace International GMBH to manage a number of its risks The principle risks
+that may affect the business include the following
+Market risk} Contract Renewal risk
+Market risk / Contract Renewal risk arises where the Group 1s unable to retain or secure new customers thus ensuring that it
+utihses its assets efficiently As Rackspace Limited 1s a service provider, remunerated on a cost plus basis, all of this risk 1s borne
+by Rackspace International GMBH The Rackspace International GMBH Board monitors contract renewals and new business on
+an ongoing basis to manage this risk
+6
+
+=== page 7 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F 2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Principal risks and uncertainties (continued)
+Security risk
+If there is a security breach or another interruption to the infrastructure, Rackspace International GMBH may be exposed to
+lawsuits, incur additional costs, lose customers, or suffer reputational damage as a result of the breach Rackspace Limited does
+not bear any risk in this area Rackspace Limited 1s required under the contract to maintain appropriate insurance to guard against
+loss or damage to the servers
+Price volatility sk.
+Rackspace International GMBH bears the risk that external prices and therefore future income streams fall relative to orginally
+anticipated levels, which could reduce profitability and ultimately make the services unviable Pricing pressure has particularly
+been seen in the cloud computing sector Again, Rackspace Limited does not bear this risk since it 1s rewarded in respect of the
+costs of providing the service
+Software / product development risk
+Within the industry, this specific risk arises where the technical products / services change at a faster rate than the Group can
+maintain, or that technical advances make the Group’s product / service differentiation unrecognisable If the Group cannot keep
+pace with developments, customers will seek alternative service providers As the contracting entity, Rackspace International
+GMBH bears the risk of a reduction in revenue from customers due to the products becoming obsolete or not including the
+desired offerings
+Warranty / service lability risk
+This is the risk that there are technical difficulties or system failures that prevent the company providing the services that it has
+contracted to do Rackspace International GMBH enters into Service Level Agreements (SLAs) with its customers and bears the
+costs associated with those SLA terms not being met Rackspace Limited does not bear any of this risk
+Climate change risk
+Concerns about greenhouse gas emissions and global chmate change may result in environmental taxes, charges, assessments or
+penalties, increased electricity prices and loss of customers were businesses fail to address changing consumer demands towards
+more environmentally responsible business practices |
+The effects of human activity on the global climate change have attracted considerable public and scientific attention, as well as
+the attention of the UK government Efforts are being made to reduce greenhouse emissions, particularly those from coal
+combustion by power plants, some of which we rely upon for power The added cost of any environmental taxes, charges,
+assessments or penalties levied on these power plants could be passed on to us, increasing the cost to run our data centres
+Environmental taxes, charges, assessments or penalties could be levied directly on us in proportion to our carbon footprint Any
+enactment of laws or passage of regulations regarding greenhouse gas emissions by the UK or any domestic or foreign
+jurisdiction we perform business in, could adversely affect our business, financial condition and results of operations Additionally,
+consumer demand for environmentally conscious business ethos could result in loss of contract renewals and market share were
+consumers turn to competitors that are more environmentally focused
+Management recognise that our business operations have environmental impacts, including carbon emissions, air pollution,
+natural resource use, water consumption and general waste consumption These impacts are predominantly driven by the
+Company's energy consumption and therefore to minimise these impacts, the Company’s primary focus has been to ensure that
+the infrastructure employed ts energy efficient Energy usage is continually monitored, and the Company has historically run
+projects to ensure that the most efficient technologies are implemented !n 2024 the Company continued to consolidate the
+usage of data centres to reduce operating costs and reduce overall carbon emissions These efforts aim to increase the efficiency
+of operations and reduce greenhouse gas emissions for future periods In 2024 total greenhouse gas emissions decreased by 26
+tCO2e arising from electricity, gas, steam, diesel and water consumption in comparison to 2023 (2024 total tCO2e 363 compared
+to 2023 restated total tCO2e 389) The prior year comparatives have been restated as the electricity consumption for several
+sites arose from 100% renewable sources but were reported as emitting scope 2 emissions
+7
+
+=== page 8 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Principal risks and uncertainties (continued}
+Chmate change risk (continued)
+Efficiencies were maintained as the energy intensity ratio remained consistent at 25% in 2024 {2023 24%}, which represents
+energy usage (kwh of electricity, gas and steam) in comparison to revenue
+The Company implements innovate ways to reduce overall waste across office locations which includes refurbishing retired IT
+equipment for aftermarket, composting coffee grounds and shipping pallets and maintaining 100% packaging waste recycling
+and zero landfill sites where all waste 1s reused or recycled
+In the UK, the risk of flooding is predicted to increase as a result of climate change Flooding presents a physical risk to site
+locations and poses the threat of physical damage to sites, plant and machinery and personal safety risks The event of a flood
+could potentially disrupt operations which may result in lost revenue, additional costs and damage to customer relations This
+tisk 1s elevated for sites located within designated areas prone to flooding To mitigate this risk the Company's UK offices and
+data centres are located outside of designated areas prone to flooding Flood zones are monitored to ensure that the Company
+1s aware of any changes which may arise from climate change
+Rackspace International GMBH bears the financial impact resulting from climate change risk
+Financial instruments
+The Company finances its activities with a combination of intercompany loans, leases, cash and short-term deposits and capital
+contributions Overdrafts are used to satisfy short term cash flow requirements Other financial assets and habilites, such as
+trade receivables and trade payables arise directly from the Company's operating actiwities
+Financial instruments give rise to credit risk, hquidity risk, interest rate and foreign currency risk
+Credit risk
+Credit risk «s the risk of financial loss to the Company if a customer or counterparty to a financial instrument fails to meet its
+contractual obligations and arises principally from the Company’s trade The Company has a detailed bad debt policy that
+considers factor such as ageing profile and historic default rates See Note 14 for exact provision details Rackspace International
+GMBH bears all credit risk
+Liquidity risk
+Liquidity risk 1s the risk that the Company will not be able to meet its financial obligations as they fall due The Company’s use of
+financial instruments is confined to bank accounts, leases and loan funding from Rackspace Asia Limited, Datapipe, Inc,
+Rackspace Benelux B V and Rackspace Internatronal GMBH Management ensures that the Company has sufficient cash at bank
+and debt facilities from group undertakings to allow tt to settle all obligations as they fall due
+Foreign currency risk
+The majority of customers are invoiced, and substantially all of the Company’s expenses are paid, in the functional currency of
+the Company however some customers are invoiced in currencies other than the functional currency Rackspace International
+GMBH bears all foreign exchange risk arising from trading items
+The Company holds loans that are not denominated in sterling These are not subyect to foreign currency risk as any foreign
+currency exchange movements are cross charged to Rackspace International GMBH through unrealised foreign exchange gain or
+toss Accordingly, foreign currency movements wilt not materially affect the profit of the Company
+8
+
+=== page 9 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Financial instruments (continued)
+interest rate risk
+Interest rate risk 1s the risk of fluctuating interest rates Management regularly monitors interest rate movements and consider
+any material impact on the financial statements from unfavourable interest rate movements in the foreseeable future of the
+Company
+On 5 March 2021, the United Kingdom's Financial Conduct Authority, which regulates LIBOR, announced that tt will not compel
+panel banks to contribute to the overnight 1, 3, 6 and 12 months LIBOR tenors after 30 June 2023 and all other tenors after 31
+Oecember 2021
+The Company has revolving credit facilities with other companies in the Group that are indexed to LIBOR in establishing the arm's
+length interest rate applicable Ouring the year ended 31 December 2024, the Company had no outstanding amounts due against
+ts lines of credits In the event that the Company should need funds and elects to draw against an existing revolving credit facility,
+an amendment establishing the replacement of LIBOR with an alternative benchmark rate will be required The consequences
+of the phase out of LIBOR cannot be entirely predicted at this time, however, the impact 1s expected to be minimal as any
+alternative benchmark rate will still be within an appropriate arm's length range i
+Environmental responsibility
+As part of the 1SO 14001 framework followed by our operations, the Company has established and maintains an Environmental
+Management system This ensures all required environmental aspects are identified and the relevant procedures implemented
+to manage those aspects that have or can have significant impact on the environment
+In support of our commitment to our employees and the environment our Data Centres and Offices are certified to both the
+internationa! environmental management standard, ISO 14001, which provides a framework for managing our environmental
+responsibilities, including energy and waste management, and 8S OHS 18001 for our commitment to workplace wellbeing
+Our 1SO 14001 certificate number 1s EMS 581182 and our BS OHS 18001 1s numbered OHS 587454 The Company are subyect to '
+on-going external assessment by our certification body, BSI (British Standards Institution), with a full re-assessment every three
+years
+Statement by the Directors in relation to Performance of their Statutory Duties in accordance with Section 172(1) Companies
+Act 2006
+This section sets out an overview of how the directors have fulfilled their duties under $172 of the Compamies Act 2006 $172
+requires that directors act in a way thatts most likely to promote the success of the company for the benefit of its members as a
+whole The specific requirements of $172 are that directors have regard to
+« the likely long-term consequences of their decisions,
++ the interests of the Company’s employees,
+* the need to maintain business relationships with suppliers, customers and others,
+* the impact of the Company’s operations on the community and environment,
+* the desirability of maintaining a reputation for good business ethics, and
+* the need to act fairly between members of the Company
+The Directors’ consider the long-term impact on the Company of key decisions made The Directors’ delegate this to the Senior
+and Financial Leadership Team (middle management in Switzerland and top management in United States) who perform
+budgetary analysis of decistans to be made and consider the likely consequences n the long-term The monitoring of the long-
+term impact of key decisions made ts reviewed by the Directors and management at Rackspace International GMBH, a related
+company registered in Switzerland, as part of meetings that consider regional results including the Company's results
+Furthermore, all entity level controls are reviewed as part of the ultimate parent company’s (note 23) group wide control
+framework
+9
+
+=== page 10 ===
+Docusign Envelope 1D 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Statement by the Directors in relation to Performance of their Statutory Duties in accordance with Section 172(1) Companies
+Act 2006 (continued)
+The importance of different stakeholders 1s detailed within the Directors’ statement and how we engage with them and influence
+decision making
+On behalf of the board
+Bmer Marvoepun.
+A Marroquin
+Oirector
+Unit 2, 6 Millington Road
+Hyde Park Hayes
+Hayes
+Middlesex
+UB83 442
+Dated 21" October 2025
+10
+
+=== page 11 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Directors’ report
+The directors present their directors’ report and audited financial statements for the year ended 31 December 2024 for Rackspace
+Limited (“the Company”)
+Rackspace Limited (“the Company”} is a company domiciled in the United Kingdom under the company number 03897010 Itisa
+wholly owned subsidiary of Rackspace Benelux B V , a company domiciled in the Netherlands
+|
+Directors ;
+The directors who held office during the financial year and up to the date of signing the financial! statements were as follows |
+John Vernikos
+Antony Rook
+Aimee Marroquin
+Owidend
+No dividend was paid in the year ended 31 December 2024 (2023 £m) No final dividend has been recommended by Directors
+during the year or at the date of the report (2023 f£nil)
+Financial risks management
+Discussion of the financial risks of the Company is in the financial instruments section of the Strategic Report
+Stakeholder engagement and influence on decision making I
+Employees
+The Company places considerable value on the involvement of its employees and has continued to keep them informed on
+matters affecting them as employees and on vartous factors affecting the performance of the Company This 1s achieved through
+formal and informa! meetings, the corporate intranet and other methods of communication Employee representatives are
+consulted regularly on a wide range of matters affecting their current and future interests
+Within the bounds of commercial confidentiality, information is disseminated to all levels of staff about matters that affect the
+progress of the Company and are of interest and concern to them as employees The Company also encourages employees, where
+relevant, to meet on a regular basis to discuss matters affecting them Each year, the Company performs an employee
+engagement survey, the results of which are shared by the management team to all employees
+The Company encourages the involvement of employees in the Company’s performance through an Employee Share Purchase
+Plan which enables employees to buy Rackspace Technology, Inc shares at a discount and for qualifying employees, Restricted
+Stock Unit grants which vest over one to three year pertods In the year ended 31 December 2024 the Company introduced
+performance cash awards for qualifying employees which vest over three year periods with a payout ratto linked to the Rackspace
+Technology, Inc share price
+In considering applications for employment from disabled people in the UK, the Company seeks to ensure that full and fair
+consideration is given to the abilities and aptitudes of the appltcant against the requirements of the yobs for which he or she has
+applied Employees who become temporarily or permanently disabled are given individual consideration, and where possible
+equal opportunities for training, career development and promotions are given to disabled persons
+Suppliers
+The Company, with support from the Group, strives to develop long-term relattonships with suppliers and subcontractors to
+ensure continuous high standards of delivery are adhered to This ts done by performing quarterly business reviews (QBR) which
+outline issues and improvement areas between the Company and key suppliers The QBR engagement helps in enhancing and
+fostering the relationship with key supphers All suppliers undergo a set-up process that includes financial vetting and the
+Company's supplier information packet provides the vendors details on the Company's policies including Supplier Code of
+Conduct, Human Trafficking, Environmental Strategy etc
+ii
+
+=== page 12 ===
+Docusign Envelope [D0 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Directors’ report (continued)
+Stakeholder engagement and influence on decision making (continued)
+Customers
+The Company, with support from RIG, enhances its relationship with its customers by providing them with fanatical experience,
+assist them with adopting proven modern technologies and integrated solutions, offering unbiased opinion and offering
+customers proven operating expertise Net promoter scores (NPS) are performed to measure engagement and performance with
+the customer On a daily basis, the customer support team 1s engaged with the Company's customers and provide them with
+quick and long-lasting solutions The Company has defined a well laid out ant-corruption and bribery policy to guide how it deals
+with stakeholders including customers within and outside the UK
+Principal decisions
+We define principal decisions as both those that are matenal to the Company, but also those that are significant to our
+key stakeholder groups {n making the following principal decisions the Directors’ considered the outcome from its stakeholder
+engagement as well as the need to maintain a reputation for high standards of business conduct and the need to act fairly
+between the members of the Company Principal decisions such as stakeholder engagement, dividends, environmental
+responsibility etc are outlined above and their impact to the stakeholders
+Charitable and political contributions
+During the year the Company made charitable donations of Eni! (2023 £6,439) The Company did not make any political donations
+during the year {2023 £nil)
+Qualifying third party directors’ indemnity
+Rackspace US, Inc has purchased directors’ and offices’ lability insurance for all directors and maintamed such insurance
+throughout the year and at the date of approval of the financial statements The Company has entered into a qualifying third
+party indemnity arrangements for the benefit of all ts Directors in a form and scope which comply with the requirements of the
+Companies Act 2006 and which were in force throughout the year and remain in force
+Going concern
+The Company is ina net current asset position of £23,687,083 (2023 £13,660,544) and net liability position of £10,919,016 (2023
+net hability position of £17,718,584) at year-end We have forecasted future cashflows by extrapolating the revenue and costs
+with possible churn in revenue and higher inflationary impacts as severe plausible downside scenarto We have ensured that
+none of the non current intercompany loan ts due within the assessment period The net liability position 1s not considered to be
+an issue where the net lability position was caused from a full impairment recognised in 2023 relating to the Company's
+investment in Datapipe Europe which was a non-reoccurring event Rackspace Technology, Inc, the parent undertaking of the
+group, has provided written confirmation of its intention to continue to provide financial support to the Company such that the
+Company is able to operate as a going concern and to settle its habilities as they fall due for a period of at least 12 months from
+the date of signing the Financial Statements After considering these aspects, we believe that the Company has adequate
+resources to continue to meet its ongoing financial obligations for at least 12 months from the date of signing the financial
+statements Therefore, the directors have adopted the going concern basis of preparation in the financial statements
+Russian invasion of Ukraine
+Political and economic uncertainty surrounding the Conflict between Russia and Ukraine could have a matertal adverse effect on
+our business Currently, the conflict has not had a significant impact on our operations or financial performance However, our
+overall performance depends tn part on worldwide economic and geopolitical conditions We are monitoring the situation and
+the potential for the conflict to spread to other countries which could adversely impact our customers and operations, and we
+may take actions that modify our business operations as may be required by federal, state or local authorities, or that we
+determine are in the best interests of our employees, customers, partners, suppliers and stockholders
+Events occurring after the reporting period
+1 The Company is not aware of any additional material impact on the financial statements arising from subsequent events
+12
+
+=== page 13 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Directors’ report (continued)
+Carbon Emission Reporting
+In order to comply with the Companies Act 2006 (Strategic Report and Directors’ Report) Regulations 2013 (‘the 2013
+Regulations’) and the Companies (Directors’ Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations
+2018 (‘the 2018 Regulations’), the Company has disclosed greenhouse gas activity for the year ended 31 December 2024
+With reference to the Environmental Reporting Guidelines March 2019, the Company’s environmental impact has been analysed
+on an operational control basis
+The scope of this analysts includes three office sites and six data centre sites
+Offices
+© —HPHS - Hyde Park Hayes 5, office building that previously accommodated most department workstations, canteen
+and employee facilities This site was vacated in the year ended 31 December 2023, however the lease term remains
+onerous until May 2025
+©@ HPH2- Hyde Park Hayes 2, primary office building that accommodates most department workstations, canteen and
+employee facilities
+* Fairway House, Pascal Close, Paramount Business Park, Cardiff, Wales, office building with canteen and employee
+facilities
+Data centres
+® LON3 - Data centre
+© LONS - Data centre
+® —LON7 - Data centre
+© —LONS - Data centre
+© Ark Data Centres
+© Vantage Data Centres
+The branch tn Dubai does not meet the requirement for disclosure as it s non-UK based
+The Company has tdentified greenhouse gas emissions from the consumption of electricity, gas, diesel and steam to be the key
+environmental impact
+¢ — Electricity The Company's main environmental impact arises from electricity consumed through its data centre sites
+due to the housing of hardware such as servers, networking equipment, and data storage units to support its internal
+and customer needs Electricity used at our offices ts driven mainly fram powering workstations, lighting, heating and
+general day to day operations
+* Gas Used for primarily heating the Company's premises and to operate its canteen based at the head office The
+Company received invoices for the gas consumption at the head office, however the main usage Is controlled by our
+canteen provider
+* Steam Data centres require steam to increase humidity in the environment which can prevent electrostatic discharge
+that can damage sensitive electronics In turn this reduces the risk of database damage and data loss
+¢ Diesel Diesel generators are required to support operations in the event of failure of our main power system The
+requirement exists at
+o The Company's leased data centre sites
+o The Company’s leased office premises, managed by our maintenance company within its overall premises’
+contract
+* Water Water use at data centres Is mainly required to generate steam At our office sites water use mainly comes from
+the use of the canteen and bathroom facilities
+13
+
+=== page 14 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Directors’ report (continued)
+Carbon Emission Reporting (continued)
+a 2023 restated
+Emission from purchase of heat, electricity, steam | 389*
+and cooling Scope 2 Emissions (tCO2e)
+indwect emissrons from business travel and air
+conditioning Scope 3 Emissions (tCO2e)
+Total Revenue (£) 354,780,964 392,633,505
+Intensity Ratio (kwh/E of revenue)
+Total energy use (kwh of electricity, gas and 90,413,924 94,179,976
+steam)
+* 2023 scope 2 emissions have been restated from 19,542 tCO2e to 389 tCO2e due to energy for LONS, LONS, HPHS, Ark Data
+Centres and Vantage Data Centres being derived from 100% renewable sources
+For the intensity ratto, we have Computed emisston per pound of revenue earned This will enable comparison to emissions In
+future years and other similar organisations Please refer to the Strategic Report under “Environmental responsibility” for
+compliance related to ISO 14001 framework
+The intensity ratio has remained relatively consistent with the prior year, however management expects this ratio to improve in
+future years due to ongoing efforts made to increase efficiencies and explore new opportunities During the year external
+sustainability consultants were engaged to analyse and advise on The Company's existing and potential efforts in reducing carbon
+emissions The Company has invested in and deployed smart building automations systems across locations to continue to drive
+reduced energy consumption via efficient management of operational energy usage Mitigation efforts to reduce the carbon
+footprint of the Company are in place to continue to improve this measure going forward which includes participation in the
+Climate Change Agreement (CCA), a UK voluntary scheme for energy-intensive industries REGO (Renewable Energy Guarantees
+of Origin) backed energy has been purchased to ensure our data centres are only powered by renewable sources The Group has
+committed to the Science Based Targets initiative (SBT) and has set validated targets and structured plans to reduce its GHG
+emissions across near-term and long-term timeframes
+Measurement and data collection
+The Company has collated its data per the guidance of the Greenhouse Gas (GHG) Protocol Corporate Accounting and Reporting
+standard Our data 1s obtained from supplier invoices, meter readings and estimations
+Ornissions
+The Company's consumption of gas and water at our data centres 1s not obtainable or outside our control scope Further, usage
+at several of our datacentres and office premises is reimbursed via our service charge fee Consumption data 1s therefore not
+eastly obtainable and has been omitted for this analysis Management believe these omissions do not have a material impact on
+the emissions data disclosed
+Future developments
+The directors aim to maintain the management policies and processes that support the principal activity of the Company The
+Company ts continually reviewing and refining these policies and processes to improve the framework of financial control and to
+manage costs effectively
+Disclosure of information to auditors
+The directors who held office at the date of approval of this directors’ report confirm that, so far as they are each aware, there 1s
+no relevant audit information of which the Company’s auditors are unaware, and each director has taken all the steps that they
+ought to have taken as a director to make themselves aware of any relevant audit information and to establish that the Company's
+auditors are aware of that information
+14
+
+=== page 15 ===
+Docusign Envelope ID 3A280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Directors’ report (continued)
+Statement of directors’ responsibilities in respect of the financial statements |
+The directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and
+regulation Company law requires the directors to prepare financial statements for each financial year
+Under that law the directors have prepared the financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards, comprising FRS 101 “Reduced Disclosure Framework”, and
+applicable law) Under company law, directors must not approve the financial statements untess they are satisfied that they give
+a true and fair view of the state of affairs of the Company and of the profit or loss of the Company for that period In preparing
+the financial statements, the directors are required to
+e select suitable accounting policies and then apply them consistently,
+« state whether apphcable United Kingdom Accounting Standards, comprising FRS 101, have been followed, subject to
+any matertal departures disclosed and explained in the financial statements,
+*® make judgements and accounting estimates that are reasonable and prudent, and
+* prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company
+will continue in business
+The directors are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Company's
+transactions and disclose with reasonable accuracy at any time the financial position of the Company and enable them to ensure
+that the financial statements comply with the Companies Act 2006
+Directors’ confirmations '
+In the case of each director In office at the date the Directors’ Report 1s approved
+e so far as each director Is aware, there Is no relevant audit information of which the Company’s auditors are unaware,
+and
+*® they have taken all the steps that they ought to have taken as a director in order to make themselves aware of any
+televant audit information and to establish that the Company’s auditors are aware of that information
+independent Auditors
+PricewaterhouseCoopers LLP will conclude its term as the Company’s independent auditors at the end of the current financial
+year
+On behalf of the board
+\
+Rumer Marroqyan,
+A Marroquin
+Oirector
+Unit 2, 6 Millington Road
+Hyde Park Hayes
+Hayes
+Middlesex
+UB3 4AZ
+21" October 2025
+\
+15
+
+=== page 16 ===
+Rackspace Limited
+
+Registered number 03897010
+
+Annual report and financial statements
+31 December 2024
+
+Independent auditors’ report to the
+
+direct f Rack Limited
+
+Report on the audit of the financial statements
+
+Opinion
+
+In our opinion, Rackspace Limited's financial statements
+
+© give a true and fair view of the state of the company’s affairs as at 31 December 2024 and of its profit for
+the year then ended,
+
+e have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice
+(United Kingdom Accounting Standards, including FRS 101 “Reduced Disclosure Framework", and
+applicable law), and
+
+e have been prepared tn accordance with the requirements of the Companies Act 2006
+
+We have audited the financial statements, included within the Annual report and financial statements (the
+
+“Annual Report”), which comprise the Statement of Financial Position as at 31 December 2024, Statement of
+
+Comprehensive Income, Statement of Changes in Equity for the year then ended, and the notes to the financial
+
+statements, which include a description of the significant accounting policies
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (“ISAs (UK)”} and
+
+applicable law Our responsibilities under ISAs (UK) are further described tn the Auditors’ responsibilities for
+
+the audit of the financial statements section of our report We believe that the audit evidence we have
+obtained ts sufficient and appropriate to provide a basis for our opinion
+
+Independence
+
+We remained independent of the company in accordance with the ethical requirements that are relevant to
+
+our audit of the financial statements in the UK, which includes the FRC’s Ethical Standard, and we have fulfilled
+
+our other ethical responsibilities in accordance with these requirements
+
+Conclusions relating to going concern
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events
+
+or conditions that, individually or collectively, may cast significant doubt on the company’s ability to continue
+
+as a going concern for a period of at least twelve months from when the financial statements are authorised
+for issue
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of
+
+accounting in the preparation of the financial statements Is appropriate
+
+However, because not all future events or conditions can be predicted, this conclusion is not a guarantee as
+
+to the company's ability to continue as a going concern
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the
+
+relevant sections of this report
+
+16
+
+=== page 17 ===
+|
+i
+Rackspace Limited
+Registered number 03897010 |
+Annual report and financial statements Hl
+31 Oecember 2024
+Reporting on other information
+The other information comprises all of the information in the Annual Report other than the financial
+statements and our auditors’ report thereon The directors are responsible for the other information Our
+opinion on the financial statements does not cover the other information and, accordingly, we do not express
+an audit opinion or, except to the extent otherwise explicitly stated in this report, any form of assurance
+thereon
+In connection with our audit of the financial statements, our responsibility is to read the other information
+and, in doing so, consider whether the other information ts materially inconsistent with the financial
+statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated If we
+identify an apparent matertal inconsistency or material misstatement, we are required to perform procedures
+to conclude whether there ts a material misstatement of the financial statements or a material misstatement
+of the other information If, based on the work we have performed, we conclude that there ts a material
+misstatement of this other information, we are required to report that fact We have nothing to report based
+on these responsibilities
+With respect to the Strategic report and Directors’ report, we also considered whether the disclosures
+required by the UK Companies Act 2006 have been included
+Based on our work undertaken in the course of the audit, the Companies Act 2006 requires us also to report
+certain opimions and matters as described below
+Strategic report and Directors' report
+\n our opinion, based on the work undertaken in the course of the audit, the information given in the Strategic
+report and Directors’ report for the year ended 31 December 2024 ts consistent with the financial statements
+and has been prepared in accordance with applicable legal requirements
+In ght of the knowledge and understanding of the company and tts environment obtaimed in the course of
+the audit, we did not identify any material misstatements in the Strategic report and Ourectors' report
+Responsibilities for the financial statements and the audit
+Responsibilites of the directors for the financial statements
+As explained more fully in the Statement of directors’ responsibilities in respect of the financial statements,
+the directors are responsible for the preparation of the financial statements in accordance with the applicable
+framework and for being satisfied that they give a true and fair view The directors are also responsible for
+such internal control as they determine is necessary to enable the preparation of financtal statements that are
+free from material misstatement, whether due to fraud or error
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless the directors either intend to liquidate the company or to cease operations,
+or have no realistic alternative but to do so
+Auditors’ responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditors’ report that includes our
+opinion Reasonable assurance is a high level of assurance, but 1s not a guarantee that an audit conducted in
+accordance with ISAs (UK) will always detect a material misstatement when it exists Misstatements can arise
+17
+
+=== page 18 ===
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 Oecember 2024
+from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on the basis of these financial statements
+irregularities, including fraud, are instances of non-compliance with laws and regulations We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of
+irregularities, including fraud The extent to which our procedures are capable of detecting irregularities,
+including fraud, ts detailed below
+Based on our understanding of the company and industry, we identified that the principal risks of non-
+compliance with laws and regulations related to Data Protection, environmental regulations, Communications
+Act 2003, Schedule 46 Finance Act 2009, Climate Change regulations, Corporate Sustainability Reporting
+Directive (CSRD) and customs duttes, and we considered the extent to which non-compliance might have a
+material effect on the financial statements We also considered those laws and regulations that have a direct
+impact on the financial statements such as the Companies Act 2006, Streamlined Carbon Emission Reporting,
+Accounting Regulations and relevant UK tax legislation We evaluated management’s incentives and
+opportunities for fraudulent manipulation of the financial statements (including the risk of override of
+controls), and determined that the principa! risks were related to posting inappropriate journal entries to
+manipulate financial results and potential management bias in the selection and application of significant
+accounting judgements and estimates Audit procedures performed by the engagement team included
+e Evaluation of design effectiveness of management's controls in relation to period end financial reporting,
+« Enqutry with management about known or suspected instances of non-compltance with laws and
+regulations and fraud and the review of the legal expense account code to assess if there are any
+undisclosed litigation and claims,
+e Identifying and testing the validity of journal entries posted with unusual account combinations following
+our risk criteria assessment,
+¢ Considered management's judgements and estimates and assessed them for bias, and
+¢ Reviewed minutes of meetings of management and the board of directors
+There are inherent limitations in the audit procedures described above We are less likely to become aware of
+instances of non-compliance with laws and regulations that are not closely related to events and transactions
+reflected in the financial statements Also, the risk of not detecting a material misstatement due to fraud ts
+higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment
+by, for example, forgery or intentional misrepresentations, or through collusion
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s
+website at www fre org uk/auditorsresponsibilities This description forms part of our auditors’ report
+18
+
+=== page 19 ===
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Use of this report
+This report, including the opinions, has been prepared for and only for the company’s directors as
+a body tn accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other
+purpose We do not, In giving these opinions, accept or assume responsibility for any other
+purpose or to any other person to whom this report ts shown or into whose hands tt may come
+save where expressly agreed by our prior consent in writing
+Other required reporting
+Companies Act 2006 exception reporting
+Under the Companies Act 2006 we are required to report to you if, in our opinion
+© we have not obtained all the information and explanations we require for our audit, or
+* adequate accounting records have not been kept by the company, or returns adequate for our
+audit have not been received from branches not visited by us, or
+* certain disclosures of directors’ remuneration specified by law are not made, or
+e the financial statements are not in agreement with the accounting records and returns
+We have no exceptions to report arising from this responsibility
+Andrey Kucherovskiy (Senior Statutory Auditor)
+for and on behalf of PricewaterhouseCoopers LLP
+Chartered Accountants and Statutory Auditors
+Watford
+21 October 2025
+19
+
+=== page 20 ===
+‘
+Docusign Envelope ID 3A280023-F 3A6-43BB-ADE0-C749872F2C93
+" Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+Statement of Comprehensive Income
+for year ended 31 December 2024
+Note 2024 2023
+£ £
+Revenue 2 354,780,964 392,633,505
+Cost of sales 4 (253,916,023) (271,158,962)
+Gross profit 100,864,941 121,474,543
+Administrative expenses 5 (95,589,868) (113,687,659)
+Other operating income 3 4,789,674 8,351,606
+impairment of tangible fixed assets 14 - (8,417,683)
+Investment impairment 12 : (17,105,636)
+Operating profit/ (Ioss} 6 10,064,747 (9,384,829)
+interest receivable and similar income 9 142,419 203,880
+Interest payable and similar expenses 10 (10,449,074) (11,336,393)
+(10,306,655) (11,132,513)
+Loss before taxation {241,908) (20,517,342)
+Tax on profit / (loss) 11 6,616,561 (5,998,703)
+Profit/ (loss) and total comprehensive income/ (expense) for the
+financial year 6,374,653 {26,516,045)
+The notes on pages 23 to 45 are an integral part of these financial statements
+20
+
+=== page 21 ===
+Docusign Envelope ID 34280023-F3A6-43BB-ADE0-C749872F2C93
+Rackspace Limited
+Registered number 03897010
+Annual report and financial statements
+31 December 2024
+|
+Statement of Financial Position |
+as at 31 December 2024
+Note 2024 2023
+£ £
+Fixed assets
+Intangible fixed assets 13 $29,393 705,857
+Tangible fixed assets 14 85,765,874 96,556,364
+Investments 12 : -
+86,295,267 97,262,221
+Current assets
+Debtors
+{including £5,482,221 foiling due ofter more
+than one year
+(2023 £5,611,726)) 1s 97,666,080 123,912,452
+Amounts owed by group undertakings - -
+Deferred tax assets
+(falling due after more than one year) 16 5,936,768 4,470,840
+Cash at bank and tn hand 8,726,278 10,558,000
+112,329,126 138,941,292
+Creditors amounts falling due within one '
+year 17 88,642,043 125,280,748
+Net current assets 23,687,083 13,660,544
+Total assets less current habilities 109,982,350 110,922,765
+Creditors amounts falling due after more
+than one year 17 120,901,366 128,641,349
+Net habilities (10,919,016) (17,718,584)
+Capital and reserves
+Calted up share capital 20 1,000 1,000
+Accumulated losses 20 (19,891,587) (30,088,776)
+SBC equity reserve 20 8,971,571 12,369,192
+Total equity (10,919,016) (17,718,584) ‘
+These financial statements on pages 20 to 45 were approved by the board of directors on 21% October 2025 and were signed on
+tts behalf by
+Romer Marrooyauur.
+A Marroquin
+Director
+The notes on pages 23 to 45 are an integral part of these financial statements
+21
+

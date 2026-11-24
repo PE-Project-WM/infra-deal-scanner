@@ -1,72 +1,135 @@
-Candidates to clean: 211
+OCR: figures filled for 605 scanned filings; 234 could not be read
+Candidates to clean: 615
 status
-Shortlist                  156
-Watchlist (loss-making)     38
-In band, EBITDA unknown     17
-Companies with a number to check: 9
+Shortlist                  435
+Watchlist (loss-making)     96
+In band, EBITDA unknown     84
+Companies with a number to check: 23
                                   CompanyName    turnover        ebitda  ebitda_margin  turnover_growth                    figures_source                                                          data_flags
-56                          OPUS TECH LIMITED  37385000.0  2.538049e+09         67.890            0.353  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
-74          NEW TECHNOLOGY GROUP HOLDINGS PLC  27191000.0  8.729200e+04          0.003           59.500                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
-83                          PADERO SOLAER LTD  25490037.0  3.679265e+07          1.443            2.005                            Tagged                EBITDA margin above 60%; EBITDA bigger than turnover
-100                               SUMANDO LTD  20875588.0  3.435804e+07          1.646            1.528                  FROM TEXT, check                EBITDA margin above 60%; EBITDA bigger than turnover
-120          MARITIME CARGO PROCESSING P.L.C.  17622891.0  1.259322e+07          0.715            0.005                  FROM TEXT, check                                             EBITDA margin above 60%
-146                                SYSDIG LTD  13621000.0  6.593368e+08         48.406           -0.034  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
-149  ABACUS INFORMATION TECHNOLOGY UK LIMITED  13256290.0  1.482400e+04          0.001            1.445                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
-152              ASSET SERVICES GROUP LIMITED  12836723.0  3.736700e+04          0.003           -0.037                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
-169            TALK STRAIGHT HOLDINGS LIMITED  11203973.0  1.390900e+04          0.001            9.522                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
-25/211 | 0.4 min
-50/211 | 0.8 min
-75/211 | 1.2 min
-100/211 | 1.7 min
-125/211 | 2.1 min
-150/211 | 2.5 min
-175/211 | 2.9 min
-200/211 | 3.3 min
-211/211 | 3.5 min
+65                 BREEZE BIDCO (TNC) LIMITED  16778000.0  1.367300e+07          0.815           -0.187                        OCR, check                                             EBITDA margin above 60%
+85           CITYFIBRE METRO NETWORKS LIMITED  13474000.0  1.319700e+07          0.979            0.272                        OCR, check                                             EBITDA margin above 60%
+94          COMMSCOPE CONNECTIVITY UK LIMITED  66491376.0  6.494900e+04          0.001            0.071                        OCR, check                              EBITDA margin under 0.5% (check scale)
+111                         CUDO VENTURES LTD  74821974.0 -2.857144e+06         -0.038            3.963                        OCR, check                                          turnover growth above 300%
+122               DIGITAL SPACE GROUP LIMITED  45221000.0  7.800000e+04          0.002            0.302                        OCR, check                              EBITDA margin under 0.5% (check scale)
+142                              EPAY LIMITED  95894000.0  2.410000e+05          0.003            0.816                        OCR, check                              EBITDA margin under 0.5% (check scale)
+144                ERH COMMUNICATIONS LIMITED  14464285.0  5.818600e+04          0.004            0.208                        OCR, check                              EBITDA margin under 0.5% (check scale)
+175           GLOBAL SWITCH ESTATES 1 LIMITED  26560000.0  1.714200e+07          0.645            0.008                        OCR, check                                             EBITDA margin above 60%
+219                     KCOM HOLDINGS LIMITED  96203000.0  5.881700e+07          0.611           -0.056                        OCR, check                                             EBITDA margin above 60%
+235     M GROUP ENERGY (DATA INSIGHT) LIMITED  25042000.0  1.538800e+07          0.614            0.095                        OCR, check                                             EBITDA margin above 60%
+259                          NANCLACH LIMITED  16778000.0  1.375300e+07          0.820           -0.187                        OCR, check                                             EBITDA margin above 60%
+352                        TALKMOBILE LIMITED  73305000.0  5.523500e+07          0.753            0.276                        OCR, check                                             EBITDA margin above 60%
+394               VIASAT TECHNOLOGIES LIMITED  41269502.4  2.738421e+07          0.664           -0.137   OCR, check (converted from USD)                                             EBITDA margin above 60%
+408                    WIRELESS LOGIC LIMITED  77529000.0  1.006350e+08          1.298            0.059                        OCR, check                EBITDA margin above 60%; EBITDA bigger than turnover
+460                         OPUS TECH LIMITED  37385000.0  2.538049e+09         67.890            0.353  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
+478         NEW TECHNOLOGY GROUP HOLDINGS PLC  27191000.0  8.729200e+04          0.003           59.500                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
+487                         PADERO SOLAER LTD  25490037.0  3.679265e+07          1.443            2.005                            Tagged                EBITDA margin above 60%; EBITDA bigger than turnover
+504                               SUMANDO LTD  20875588.0  3.435804e+07          1.646            1.528                  FROM TEXT, check                EBITDA margin above 60%; EBITDA bigger than turnover
+524          MARITIME CARGO PROCESSING P.L.C.  17622891.0  1.259322e+07          0.715            0.005                  FROM TEXT, check                                             EBITDA margin above 60%
+550                                SYSDIG LTD  13621000.0  6.593368e+08         48.406           -0.034  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
+553  ABACUS INFORMATION TECHNOLOGY UK LIMITED  13256290.0  1.482400e+04          0.001            1.445                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
+556              ASSET SERVICES GROUP LIMITED  12836723.0  3.736700e+04          0.003           -0.037                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
+573            TALK STRAIGHT HOLDINGS LIMITED  11203973.0  1.390900e+04          0.001            9.522                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
+25/615 | 0.5 min
+50/615 | 0.9 min
+75/615 | 1.3 min
+100/615 | 1.7 min
+125/615 | 2.2 min
+150/615 | 2.6 min
+175/615 | 3.1 min
+200/615 | 3.5 min
+225/615 | 4.0 min
+250/615 | 4.5 min
+275/615 | 5.1 min
+300/615 | 5.5 min
+325/615 | 6.0 min
+350/615 | 6.4 min
+375/615 | 6.8 min
+400/615 | 7.2 min
+425/615 | 7.7 min
+450/615 | 8.1 min
+475/615 | 8.5 min
+500/615 | 9.0 min
+525/615 | 9.4 min
+550/615 | 9.7 min
+575/615 | 10.1 min
+600/615 | 10.5 min
+615/615 | 10.8 min
 Ownership overrides applied: 8
 
 ownership
-Founder or family-owned          51
-UK group, owner-managed          48
-Foreign-owned subsidiary         40
-Likely sponsor-owned (check)     37
-Unknown                          29
-Employee-owned (EOT)              4
-Foreign parent, founder group     1
-Sponsor-owned, recent entry       1
-Duplicates found: 11
-                             CompanyName                          duplicate_of    turnover
-42                 MAZUMA MOBILE LIMITED      LANCASTER GROUP HOLDINGS LIMITED  46014275.0
-47               HENEGHAN & SONS LIMITED             HENEGHAN HOLDINGS LIMITED  41668711.0
-68                     ONESTREAM LIMITED                RIDOWN CAPITAL LIMITED  28996086.0
-83                     PADERO SOLAER LTD                           SUMANDO LTD  25490037.0
-93     SPITFIRE NETWORK SERVICES LIMITED  SPITFIRE TECHNOLOGY HOLDINGS LIMITED  22378763.0
-105                   ABZORB SYSTEMS LTD                      ABZORB GROUP LTD  19614543.0
-130       HUTCHISON TECHNOLOGIES LIMITED                     HUTCHISON LIMITED  15444387.0
-152         ASSET SERVICES GROUP LIMITED                 PROJECT PENNY LIMITED  12836723.0
-160                TALK STRAIGHT LIMITED        TALK STRAIGHT HOLDINGS LIMITED  12319667.0
-163  MMX COMMUNICATIONS SERVICES LIMITED                       TXO SYSTEMS LTD  11872782.0
-174     TALKTALK BUSINESS DIRECT LIMITED                  TFP TELECOMS LIMITED  78040000.0
+Foreign-owned subsidiary         147
+Likely sponsor-owned (check)     143
+Unknown                          117
+UK group, owner-managed          105
+Founder or family-owned           96
+Employee-owned (EOT)               5
+Foreign parent, founder group      1
+Sponsor-owned, recent entry        1
+Duplicates found: 43
+                                CompanyName                                      duplicate_of     turnover
+40     APPLIED SATELLITE TECHNOLOGY LIMITED                       APPLIED SATELLITE GROUP LTD   47991820.0
+53            BACKOFFICE ASSOCIATES LIMITED         BACKOFFICE ASSOCIATES EUROPE (UK) LIMITED   36178500.0
+60                              BISTECH PLC                                 BISTECH GROUP PLC   23160860.0
+82               CITYFIBRE HOLDINGS LIMITED         CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED   14260000.0
+84                        CITYFIBRE LIMITED         CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED  113695000.0
+85         CITYFIBRE METRO NETWORKS LIMITED         CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED   13474000.0
+102                    CONTENT GURU LIMITED                    REDWOOD TECHNOLOGIES GROUP LTD   46142900.0
+105            CONVERGENCE HOLDINGS LIMITED     CONVERGENCE GROUP (WIRELESS) NETWORKS LIMITED   38503000.0
+127          DYNAMIC MOBILE BILLING LIMITED                    OXYGEN8 COMMUNICATIONS LIMITED   28568000.0
+130                       EASYSPACE LIMITED                                  IOMART GROUP PLC   11456070.0
+150           EVERO ENERGY HOLDINGS LIMITED                        EVERO ENERGY GROUP LIMITED   73524000.0
+151           EVERO ENERGY SERVICES LIMITED                        EVERO ENERGY GROUP LIMITED   15702000.0
+157                     FIBRUS NETWORKS LTD                                        FIBRUS LTD   24397985.0
+163                    FOUNDEVER GB LIMITED                          FOUNDEVER EUROPE LIMITED  139202000.0
+174    GLOBAL RADIODATA COMMUNICATIONS LTD.  GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED   27406209.0
+208         IOMART MANAGED SERVICES LIMITED                                  IOMART GROUP PLC   87621669.0
+219                   KCOM HOLDINGS LIMITED                                KCOM GROUP LIMITED   96203000.0
+228           LINE MANAGEMENT GROUP LIMITED                                     LMGIQ LIMITED   29622687.0
+244  MIDLANDS RADIOTELEPHONE CENTRE LIMITED                          THE BADGER GROUP LIMITED   12573185.0
+251                 MONTY UK GLOBAL LIMITED                              MONTY MOBILE LIMITED   96265933.0
+259                        NANCLACH LIMITED                        BREEZE BIDCO (TNC) LIMITED   16778000.0
+299                     PROCO PRINT LIMITED                PRECISION PROCO (HOLDINGS) LIMITED   29486551.0
+308            REDWOOD TECHNOLOGIES LIMITED                    REDWOOD TECHNOLOGIES GROUP LTD   31026574.0
+311                                RETN LTD                                 RETN NETWORKS LTD   17998908.0
+314                ROC TECHNOLOGIES LIMITED             ROC TRANSFORMATION (HOLDINGS) LIMITED   57062000.0
+338                        SONOVATE LIMITED           SONOVATE INTERNATIONAL HOLDINGS LIMITED   18618933.0
+354                TARGET SERVICING LIMITED                              TARGET GROUP LIMITED   26789000.0
+364                  TERRASTAR GNSS LIMITED                                   VERIPOS LIMITED   10530150.0
+396                     VIBEROPTIX OPCO LTD                                        FIBRUS LTD   46804004.0
+399                    VOICE MOBILE LIMITED                         DAISY COMMUNICATIONS LTD.   10549000.0
+412                        XLN TELECOM LTD.                         DAISY COMMUNICATIONS LTD.   40642000.0
+446                   MAZUMA MOBILE LIMITED                  LANCASTER GROUP HOLDINGS LIMITED   46014275.0
+451                 HENEGHAN & SONS LIMITED                         HENEGHAN HOLDINGS LIMITED   41668711.0
+472                       ONESTREAM LIMITED                            RIDOWN CAPITAL LIMITED   28996086.0
+487                       PADERO SOLAER LTD                                       SUMANDO LTD   25490037.0
+497       SPITFIRE NETWORK SERVICES LIMITED              SPITFIRE TECHNOLOGY HOLDINGS LIMITED   22378763.0
+509                      ABZORB SYSTEMS LTD                                  ABZORB GROUP LTD   19614543.0
+532        TAILOR MADE TECHNOLOGIES LIMITED                   GLOBAL 4 COMMUNICATIONS LIMITED   15663157.0
+534          HUTCHISON TECHNOLOGIES LIMITED                                 HUTCHISON LIMITED   15444387.0
+556            ASSET SERVICES GROUP LIMITED                             PROJECT PENNY LIMITED   12836723.0
+564                   TALK STRAIGHT LIMITED                    TALK STRAIGHT HOLDINGS LIMITED   12319667.0
+567     MMX COMMUNICATIONS SERVICES LIMITED                                   TXO SYSTEMS LTD   11872782.0
+578        TALKTALK BUSINESS DIRECT LIMITED                              TFP TELECOMS LIMITED   78040000.0
 relevance
-OUT         92
-ADJACENT    58
-UNSURE      32
-IN          29
-Candidates: 211 | going forward: 89 | excluded: 122
+UNSURE      435
+OUT          93
+ADJACENT     58
+IN           29
+Candidates: 615 | going forward: 357 | excluded: 258
 
 Going forward, by status:
 status
-Shortlist                  58
-Watchlist (loss-making)    21
-In band, EBITDA unknown    10
+Shortlist                  240
+Watchlist (loss-making)     64
+In band, EBITDA unknown     53
 
 Shortlist going forward, by relevance and ownership:
 ownership  Employee-owned (EOT)  Foreign parent, founder group  Founder or family-owned  Likely sponsor-owned (check)  Sponsor-owned, recent entry  UK group, owner-managed  Unknown  All
 relevance                                                                                                                                                                                
 ADJACENT                      2                              0                       18                             7                            0                        6        4   37
 IN                            1                              1                        4                             0                            1                        2        0    9
-UNSURE                        0                              0                        4                             2                            0                        4        2   12
-All                           3                              1                       26                             9                            1                       12        6   58
+UNSURE                        1                              0                       34                            65                            0                       38       56  194
+All                           4                              1                       56                            72                            1                       46       60  240
 
-PLCs to check are not listed: ['NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
+PLCs to check are not listed: ['BISTECH GROUP PLC', 'CALNEX SOLUTIONS PLC', 'CERILLION PLC', 'FLEXION MOBILE PLC', 'NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs

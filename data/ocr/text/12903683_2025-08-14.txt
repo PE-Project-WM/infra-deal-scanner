@@ -1,0 +1,2682 @@
+=== page 1 ===
+[mem
+
+=== page 2 ===
+Contents
+
+Strategic report
+
+IFC At a glance
+
+2 Our business modet .
+3 Our strategy
+
+5 Business and financial review
+
+10 Key performance indicators
+
+11. Principal risks and uncertainties
+
+14 Section 172
+
+48 Regulatory environment
+
+19 Corporate social responsibility
+
+22 Climate-related Financial Disclosures Statement
+Corporate governance
+
+25 Corporate governance
+
+28 Directors’ report
+
+30 Directors’ responsibility statement
+
+Financial statements :
+31 Independent auditor's report
+
+34 Consolidated income statement
+
+35 Consolidated balance sheet
+
+36 Consolidated cash flow statement
+
+37 Consolidated statement of changes in equity
+38 Notes to the consolidated financial statements
+78 Company balance sheet
+
+79 Company statement of changes in equity
+
+80 Notes to the Company financial statements
+Other information
+
+84 Alternative performance measures
+
+85 Glossary
+
+87 Registered office
+
+87 Advisers
+
+At a glance
+
+HQ
+
+Salford, Greater Manchester
+
+c.76K
+
+high-speed Ethernet connections
+
+UK’S LARGEST
+
+wholesale broadband provider, with over 60% share
+¢.3.2 MILLION
+
+broadband customers
+
+c.2.6 MILLION
+
+FTTC and FTTP customers
+
+1,705
+
+employees (as at 28 February 2025)
+
+Who we are
+
+We are the UK's leading value for money connectivity provider. We believe that simple, affordable, reliable and fair connectivity should
+be available to everyone.
+
+=== page 3 ===
+Since entering the market in the early 2000s, the Group has a proud history as an innovative challenger, ensuring customers benefit
+
+from more choice, affordable prices and better services. We provide fibre, broadband, landline and data services to c3.3 million
+
+customers. Our two businesses, PXC and TalkTaik, were operationally separated on 1 March 2024.
+
+PXC is the UK's largest wholesale aggregator platform and manages the Group's network.
+
+TalkTalk is the fourth largest ISP in the UK providing residential broadband and associated products.
+
+This is the Annual Report of the Group which consolidates both business units with key metrics being as follows:
+
++ Our fixed line network currently is able to reach approximately 96% of UK homes.
+
+* Our unbundling equipment (such as digital subscriber line access multiplexers, multi-service access nodes and Ethernet switches)
+are installed in over 3,000 exchanges — the largest such deployment in the UK.
+
++ We are playing a key role in facilitating the ro!l-out of Full Fibre across the UK as network builders seek immediate access to high
+volumes of customers to support their investment.
+
+« We access discounted FTTP terms with Openreach following signing up to the Equinox deal.
+
++ We also access an extensive FTTP footprint via AltNets on attractive commercial ternis, including CityFibre, Community Fibre and
+Freedom Fibre, with a number of new AltNet partners being onboarded.
+
+We offer customers access to faster, more reliable fibre broadband, through wholesale agreements with Openreach, CityFibre and
+
+other AltNets , provided via our FTTC network, and next generation FTTP networks. We continue to provide copper-based broadband
+
+connectivity (i.e. ADSL) for those customers who do not yet require or have access to the increased download speeds offered by a fibre
+
+connection. Finally, we offer fixed line voice connectivity, including digital voice, to residential and business customers.
+
+Our customers
+
+TalkTalk
+
+TalkTalk provides affordable, reliable fixed line connectivity directly to residential customers under the TalkTalk brand. Broadband and
+
+Wi-Fi are at the core of our proposition, with 2.3 million customers at the end of FY25. During the year, TalkTalk focused on undertaking
+
+a significant transformation as part of our ambition to become the most recommended Wi-Fi provider in the UK by 2028. The
+
+transformation is centred on delivering value for our customers by ensuring we are simple to deal with through market leading customer
+
+service and providing a disruptive presence in the marketplace.
+
+PXC
+
+PXC’s wholesale platform business model creates value by aggregating multiple sources of connectivity and enabling our wholesale
+
+partners to do business at scale and with ease.
+
+PXC aggregates Openreach and AltNet providers onto its platform. Our 750 wholesale partners service end users in all consumer and
+
+B2B market segments. :
+
+Our core connectivity product set of broadband and ethernet is complemented by a portfolio of “over-the-top” services. These services
+
+come both from our internal network capabilities (for example in cloud and security) and from strategic partnerships with third party
+
+: service providers like Zoom.
+As the operator of a tier 1 national network, PXC is powered by a unique platform. Our flagship capabilities include best-in-class portals
+and scale operations with industry-beating lead times.
+
+=== page 4 ===
+Our business model
+Our platform
+Suppliers TalkTalk Group
+Consumer Direct
+openreach (Trading as
+TalkTalk}
+i €
+CityFibre ro) 3 :
+x =
+a i
+% s Consumer
+Es o
+CommunityFibre e 3 Wholesale
+3 2
+g 3°
+= £
+freedomfibre =
+“er models Whelesae
+Our network
+Unique position within the market
+. Unbundled exchange Collector nodes
+Consumer Direct! | Owned equipment in 3k+ Owned equipment in regional
+Consumer Wholesale | exchanges collector nodes
+Collector nodes
+Unbundled exchange Exchange backhaul
+Collector ring
+Collector ring
+Exchange backhaul Owned equipment in collector
+. 1-10Gbps optical circuits ring — 100Gbps optical circuit
+Business Wholesale supplied by Openreach or or Dark Fibre supplied by BT,
+Virgin Media SSE, Zayo, Virgin Media and
+CFH
+Last mile Dark Fibre sourced under long-term leases in a competitive market with no capacity
+constraints
+Key
+Copper Optical
+TalkTalk Holdings Limited Annual Report 2025 1
+
+=== page 5 ===
+Our strategy
+Our purpose is to offer good value and reliable fixed line connectivity across the UK to our direct customers and via our wholesale
+partners. Our strategic focus is on strengthening our next generation fibre product offering, providing excellent customer service and
+delivering future-proof network operations with a cost base that allows us to continue to be competitive.
+In FY24, the Group announced its intention to separate its main operating businesses into three standalone businesses to create
+clearer business priorities and greater strategic optionality. The Group subsequently disposed of its direct B2B arm, TalkTalk Business,
+and proceeded to operationally separate TalkTalk and PXC. The separation was operationally and commercially effective on 1 March
+2024 for the start of the FY25 financial year we are reporting on.
+Our Group strategy is twofold:
+1. Transition towards the next generation of connectivity products supported by our AltNet strategy and supporting the market's
+transition to Full Fibre.
+2. Focus on free cash flow generation with a disciplined approach to new acquisition and cost rationalisation.
+Clear strategic focus set in PXC
+PXC's strategy is to deliver future-proof connectivity through both Openreach and a differentiated AltNet offering with complementary
+over-the-top services.
+We are uniquely positioned to be the wholesale connectivity provider of choice. Our AltNet partnerships in both the next generation
+broadband and Ethernet markets unlock a material economic advantage and provides differentiation in the market.
+Our over-the-top services offering has been designed to monetise the underlying value of our network assets — selling and leasing IP
+addresses, leasing backhaul access and selling security, cloud and other complementary services to connectivity products.
+- This strategy is underpinned by a focus on improving free cash flow and profitability. We are building a simpler PXC by removing legacy
+
+products and technologies and simplifying our operations through responsible cost management.
+Customer focused transformation in TalkTalk
+This year saw a strategic reset in TalkTalk, delivering the start of a transformation focused on improving customer service. We continue
+to focus on disciplined new customer acquisition, acquiring new customers on sustainable economic terms with a focus on customer
+retention and the transition to Full Fibre.
+We continue to invest in customer satisfaction and digital customer experience, as well as partnering with several leading technology
+
+: providers to support our transition to Full Fibre. During the year, we focused on cost management, as well as strategic initiatives that
+unlock profitable customer acquisition.
+We identify four pillars to best articulate our mission to become a low-cost, market-disrupting, customer-obsessed business:
+* innovative and flexible technology stack;
+* empowered customer service;
+«value creation powered by data and Al; and
+* creation of a lean, skilled and agile workforce.
+Refinancing
+The Group completed its Refinancing with existing shareholders and lenders on 19 December 2024, with agreement for an extension of
+existing facilities. As part of the Refinancing process, existing shareholders contributed £235m in cash as well as certain trading assets,
+including the acquired Shell customers base, into the Group. The Group now includes TFP Telecoms 2 Limited which was previously
+held outside of the Group but owned by existing shareholders.
+The Group is now funded through the following facilities:
+* First lien notes of £562m;
++ First lien term loan of £88m;
++ Second lien notes of £332m;
++ Second lien term loan of £52m;
+* Second lien new money facility of £181m;
++ Receivables purchase facility of £75m;
++ PIK facility of £539m; and
+* Shareholder Loan facility of £68m.
+The first and second lien facilities have maturities in September 2027 and March 2028 respectively. The PIK facility has a maturity date
+April 2028. Under the new financing structure, the Group will continue to manage liquidity with the same diligence demonstrated over its
+recent history.
+TalkTalk Holdings Limited Annual Report 2025 2
+
+=== page 6 ===
+As
+A new set of covenants has been agreed with the Group’s lenders as part of the refinancing.
+As discussed on page 28, a material uncertainty exists in relation to the Group’s liquidity and compliance with its minimum liquidity
+covenant. Having assessed the mitigating actions available, in particular the ongoing discussions with the Group's shareholders and
+other financial stakeholders, the Directors have a reasonable expectation that the Group will have sufficient resources to continue its
+operations as a going concern for the foreseeable future.
+Goodwill impairment
+The Group recognised a goodwill impairment expense of £177m during the year ended 28 February 2025. The impairment is
+apportioned as follows; £124m in relation to PXC and £53m in relation to TalkTalk. Please refer to note 7 in the financial statements for
+the full description. There was no goodwill impairment expense in 2024.
+Please see the glossary on page 85 for definitions of various acronyms in this section.
+TalkTalk Holdings Limited Annual Report 2025 3
+
+=== page 7 ===
+Business and financial review
+
+Overview
+
+The business has continued to go through a period of significant change. However, our commitment to fast, reliable and affordable
+connectivity has never been stronger and our focus remains on accelerating the shift to Full Fibre. As noted earlier, our two businesses,
+PXC and TalkTalk, were operationally and commercially separated on 1 March 2024.
+
+We remain in the midst of market change, with the competitive landscape evolving as our AitNet footprint expands and the copper to
+fibre transition gathers momentum. Whilst these changes bring exciting longer term opportunities for PXC, TalkTalk and their
+customers, there are nearer term challenges which continue to affect the performance of the businesses such as market competition
+and our ability to bring new product offerings to market on a timely basis.
+
+FY25 performance
+
+FY25 results reflect significant change across our key business metrics of EBITDA, customer base size, churn and ARPU, as shown on
+pages 6 and 10. The markets in which our businesses operate have remained fiercely competitive. As a value challenger brand, we
+have continued to provide a value-based proposition to both Wholesale and Consumer customers and have remained focused on
+product reliability and improving customer service.
+
+During the year, the Group has reassessed conclusions made in respect of the co-location space at exchanges not being in scope of
+IFRS 16 ‘Leases’. The Group has concluded it has a sufficient level of control and has therefore concluded the assets should be
+accounted for as leases. The Group has restated the prior year resulting in an offsetting increase to the right of use assets and lease
+liabilities as weil as an increase to EBITDA in the prior year due to the rentals paid no longer being recognised as operating expenses.
+Overall, our broadband customer base reduced by c420k. The reduction was predominantly on the TalkTalk side of the business
+(c277k) due to our decision to refocus our acquisition strategy and deliberately retrench from unprofitable segments and customers.
+Monthly churn increased year on year from 1.9% to 2.0%. Due to the reduction in our customer base, the increased chum and the
+ongoing market-wide decline in voice, revenue has declined to £1,412m (FY24 restated: £1,518m). On-net ARPU slightly declined to
+£25.46 (FY24: £25.74), due to contractual price rises offset by the reduction of usage and boosts. Cost of sales decreased due to the
+reduced customer base size. This has resulted in a decrease in gross profit to £692m (FY24 restated: £746m). Headline operating
+costs decreased to £431m (FY24 restated: £510m), mainly due to cost transformation activities. In FY25, the non-headline loss for the
+year increased to £327m (FY24 restated: £32m), driven by the goodwill impairment expense and higher strategic project costs,
+decrease in other income from lower sales of |Pv4 addresses and higher net finance costs arising from refinancing activity in the year.
+In summary, the Group made a statutory loss before tax of £607m (FY24 restated: £276m). These pressures, along with the movement
+in payables and investment in capex, have led to an increase in net debt (excluding leases) from £1,429m to £1,813m.
+
+The Group was fully compliant with all its debt covenants during FY25. Going concern is discussed on page 28.
+
+PXC
+
+The PXC business, underpinned by our network, is a truly differentiated aggregator, offering multiple services across connectivity, data,
+cloud and security. Our Ethernet base continues to grow albeit slower than expectations, increasing to 76k (FY24: 75k), along with our
+mix of 1Gb connections and use of AltNet providers. In FY25, we focused on finalising the development of SoGEA, FTTP and digital
+voice to our customers on our strategic system stacks, ready for delivery in early FY26. In addition, we are in the process of onboarding
+more Full Fibre AitNets, which increases choice, expands our overall FTTP footprint coverage and furthers our commercial advantage.
+We further enhanced the delivery of key value add services in cloud, security and voice solutions, including the launch of an integrated
+Zoom product. Our network continues to excel in reliability with an underlying connectivity performance of 99.997%. The ever growing
+demand for streaming services for entertainment, gaming or hybrid working have been met.
+
+TalkTalk
+
+The consumer broadband market remains highly competitive. Whilst our disciplined acquisition strategy has resulted in a smaller
+customer base, this is a more profitable and cash generative outcome for the business. NPS was +21.7 and we continued to
+experience positive movement in customer experience with another year on year improvement in NPS of 6 points, adding to the 9 point
+improvement achieved in the prior year. This performance is underpinned in part by investment in customer experience and our
+transition to increased customer self-service and contact through more convenient digital channels. Our digital channels are popular
+with customers and show a 44 point positive NPS differential (Digital +41.2 NPS vs. Voice NPS -2.6). Managing complaints has been a
+key focus in our customer experience strategy, where we have invested in systems, process and the skills of our colleagues.
+Acceleration of FTTP
+
+The UK broadband market is part way through its transition to Full Fibre. The proportion of our overall broadband base on FTTP has
+grown to 22% (FY24: 15%). FTTP services provide significantly greater speeds and enhanced reliability. This results in fewer faults,
+fewer calls to our contact centres and reduced demand for engineer visits. Customers have access to vastly superior products that
+reduce our cost to serve, enabling us to deliver competitive prices and retain customers for longer.
+
+Copper to fibre
+
+We began our multi-year copper to fibre programme in FY22, to manage the decommissioning of the legacy copper infrastructure. The
+costs to reduce footprint in exchanges and transition customers to fibre infrastructure continue to reflect exceptional transformation
+costs, outside the normal course of business. In FY25, the programme has closed 56 co-mingles, has completed the voice services
+migration and decommissioned the legacy voice platform. Footprint reduction continues to be managed through a time-bound
+programme, with completion expected in FY27. These costs continue to be considered non-headline.
+
+TalkTalk Holdings Limited Annual Report 2025 4
+
+=== page 8 ===
+Relationships with key suppliers and customers/AltNet strategy
+Openreach remains our biggest supplier with contractual incentives in place to support Full Fibre sales in FTTP enabled areas, further
+supporting our copper to fibre transition programme.
+Our AltNet strategy differentiates us from our competitors. AltNets create a more competitive connectivity marketplace and improved
+value for our customers. 25% of our FTTP base is served by AltNets and we are the scale aggregator of simple, affordable Full Fibre
+connectivity. We have partnerships with several AltNets, including a long term wholesale agreement with CityFibre, to which we are
+now connecting an increasing proportion of our customers, as well as Community Fibre in London and Freedom Fibre across the UK.
+Additional AltNet partners are expected to be onboarded in FY26 to expand our footprint, and we continue to support the development
+of alternative networks where it is advantageous to do so.
+Financial information
+Year ended 28 February 2025 Year ended 29 February 2024 (restated)”
+Headline®Non-Headline™ Statutory Headline® Non-Headline® Statutory
+Notes £m £m £m £m £m £m
+Revenue 2 1,412 - _ 1,412 1,518 — 1,518
+Cost of sales (720) = (720) (772) = (772)
+Gross profit 692 - 692 746 — 746
+Other income _ 22 22 _ 44 44
+Operating expenses(?) (431) (296) (727) (510) (100) (610)
+Gain on disposal\*) _ — = _— 25 25
+EBITDA®) 261 (274) (13) 236 (31) 205
+Depreciation and amortisation 2 (264) _ (264) (258) _ (258)
+Share of results of joint
+ventures and associates 10 (5) =_ (5) (2) _— (2)
+Operating loss 2 (8) (274) (282) (24) (31) (55)
+Net finance costs 4 (272) (53) (325) (212) (9) (221)
+Loss before taxation (280) (327) (607) (236) (40) (276)
+Taxation 5 (1) _ (1) (10) 8 {2)
+Loss for the year (281) (327) (608) (246) (32) (278)
+Attributable to:
+Owners of the Company (281) {327) (608) (246) (32) (278)
+Non-controlling interest — _— _— — — —_
+(1) See note 1 for further details on the restatement of prior year.
+(2} Operating expenses includes £22m (2024: £14m) of credit losses on financial assets. For further details see note 13.
+(3) See note 1 for an explanation of APMs and non-headiine items. See note 6 for a reconciliation of statutory information to headline information.
+(4) 2024 statutory EBITDA includes a £25m gain on the disposal of TTBD. For further details see note 9.
+Throughout this Financial Review, APMs are presented as well as statutory measures and these measures are consistent with prior
+periods. See note 1 to the consolidated financial statements for a further explanation of APMs.
+This presentation is consistent with the way that financial performance is measured by management and reported to the Board. Senior
+management compensation schemes are based on financial performance measures presented in this report. These APMs also provide
+supplementary information that assists the reader to better understand the financial performance, position and trends of the Group.
+Overview
+Headline EBITDA of £261m (note 6) for the year ended 28 February 2025 (FY24 restated: £236m) was materially in line with FY24. The
+customer retrenchment (associated with a disciplined customer acquisition policy) within TalkTalk referred to earlier which reduced our
+. customer base size, was offset by cost transformation activities driving significant reductions in operating costs of £79m. Statutory loss
+before tax was £607m for the year ended 28 February 2025 (FY24 restated: £276m) with the year on year decline reflecting the above
+marginal increase in headline EBITDA, offset by an increase in non-headline costs, driven by the goodwill impairment expense and
+higher strategic project costs, decrease in network monetisation other income from lower sales of IPv4 addresses and higher net
+finance costs arising from Refinancing activity in the year.
+Group revenue
+Headline and statutory revenues were £1,412m for the year ended 28 February 2025 (FY24 restated: £1,518m). Revenue decreased
+year on year mainly due to the customer retrenchment and disciplined customer acquisition policy as well as higher churn.
+Gross margin
+Headline and statutory gross margin of 49% was in line with the prior year.
+Other income :
+Non-headiine other income of £22m (FY24 restated: £44m) largely represents proceeds from the sale of |Pv4 addresses. Year on year,
+we continue to review opportunities to dispose of IP addresses which are surplus to our needs.
+Net operating expenses
+Headline net operating expenses were £431m for the year (FY24 restated: £510m). This reduction was driven by the cost
+transformation programmes in both businesses leading to materially lower cost bases on the back of the separation of TalkTalk and
+PXC. Statutory net operating expenses were £727m for the year ended 28 February 2025 (FY24 restated: £610m) and non-headline
+costs were £296m (FY24 restated: £100m). Non-headline costs were primarily made up of the goodwill impairment, copper to fibre
+TalkTalk Holdings Limited Annual Report 2025 5
+
+=== page 9 ===
+programme costs, refinancing activities, transformational reorganisation programmes and the impairment of customer assets; see the
+
+non-headline section below for further analysis.
+
+Depreciation and amortisation
+
+Headline depreciation and amortisation expense was £264m for the year (FY24 restated: £258m); depreciation and amortisation were
+
+in line year on year.
+
+Share of results of associates and joint ventures
+
+Our share of results of associates and joint ventures was a loss of £5m (FY24 restated: £2m loss) and predominantly consisted of the
+
+Group's investment in YouView (now discontinued).
+
+Net finance costs
+
+Statutory finance costs were £325m for the year (FY24 restated: £221m). The increase in FY25 is associated with loan arrangement
+
+fees, success fees and other advisory costs relating to the Refinancing, higher interest rates particularly on our leasing obligations and
+
+the additional finance costs of Ethernet circuits under IFRS 16.
+
+Taxation
+
+The headline and statutory tax charge for the year ended 28 February 2025 was £1m and £1m (FY24 restated: £10m and £2m)
+
+respectively.
+
+Non-headline items
+
+Year ended Year ended
+28 February 29 February
+2025 2024
+
+Network monetisation 22 44
+
+Copper to fibre transformation . (32) (30)
+
+Strategic projects inc. mergers and acquisitions activity (65) (46)
+
+Contract related penalty provision (19) _
+
+Disposal of TTBD _ 25
+
+Impairment of non-current assets (180) _—
+
+Impairment of contract assets _ (24)
+
+EBITDA (274) (31)
+
+Net finance costs (53) (9)
+
+Taxation _ : 8
+
+Non-headline items (327) (32)
+
+The Group recognised a net non-headline expense of £327m compared to £32m in the prior year. The FY25 charge was driven by the
+
+items below:
+
+* Network monetisation comprising the sale of IPv4 addresses totalling £22m (FY24: £44m) recognised as non-headline other
+income.
+
+* The technology shift from copper to fibre, which is a ‘once in a generation’ industry change for which we have developed a multi-
+year programme to manage the transition. The programme manages the de-commissioning of legacy copper infrastructure as we
+build the Full Fibre platform which will support our business for years to come. We have incurred £32m (FY24: £30m) of
+transformation costs in FY25 which primarily relate to dual running costs where we continue to operate the legacy estates during the
+fibre transition period.
+
+« Strategic projects, including mergers and acquisitions activity, predominantly covers transformational reorganisation programmes,
+mainly associated with the separation of TalkTalk and PXC, of £65m (FY24: £46m). These costs mainly comprise of employee
+related provisions, IT platform related provisions and advisory costs.
+
++ The Group recognised a £19m provision (FY24: £nil) for a contractual penalty in respect of contractual commitments.
+
++ During FY24, the Group recognised a profit on disposal of £25m on the sale of TTBD.
+
++ The Group recognised a goodwill impairment expense of £177m (FY24: Enil). Please refer to note 7 in the financial statements for
+the full description. The Group also assessed the impairment of non-current intercompany receivable balances and resulted in an
+impairment of £3m (FY24: £nil) against the outstanding receivable balance with TalkTalk Finco Limited.
+
++ Also, during FY24, a material wholesale partner sold its customer base to a newly incorporated related party company. Our existing
+contract with the wholesale partner was terminated and a new wholesale contract was put in place. The remaining value of the
+deferred contract costs relating to this customer contract of £24m were fully impaired to £nil. No similar transactions occurred in
+FY25.
+
++ Net finance costs associated with amendments to banking facilities as referred to under Refinancing on page 4 of £53m (FY24:
+£9m) have also been recognised as non-headline.
+
+Financial position
+
+Non-current assets decreased to £1,856m (FY24 restated: £2,139m). Goodwill reduced due to the impairment expense recognised as
+
+mentioned above. Other intangible assets reduced due to the Origin customer base being reclassified as held for resale, in addition to
+
+the impairment of a legacy customer management platform. Property, plant and equipment reduced as higher disposals of right of use
+assets were partially offset by the capitalisation of certain consumer inventory following a change in contractual terms and conditions
+
+TalkTalk Holdings Limited Annual Report 2025 6
+
+=== page 10 ===
+mid-year relating to routers. Trade and other receivables reduced as a result of lower amounts due from parent undertakings. Contract
+costs decreased due to higher amortisation compared to lower additions linked to our strategy of disciplined acquisition.
+Current assets, including assets classified as held for resale, decreased to £284m (FY24 restated: £357m). Inventories reduced to nil
+as consumer inventory is now reported in property, plant and equipment, as mentioned above.
+Current liabilities have reduced to £808m (FY24 restated: £1,900m) mainly reflecting the reclassification of borrowings, which were
+previously due to mature in FY25, following the extension of maturities which was secured as part of the Refinancing referred to on
+page 4. Trade payables also reduced as a material supplier's payment terms were normalised following the cash injection associated
+with the Refinancing.
+Non-current liabilities have increased to £2,526m (FY24 restated: £1,184m) due to the reclassification of borrowings as mentioned
+above.
+Net debt and cash flow
+Year ended
+Yearended 29 February
+28 February 2024
+2025 restated)
+Headline EBITDA 261 236
+Working capital!) (58) (7)
+Capital expenditure (101) (133)
+Investments (18) (2)
+Free cash flow 84 94
+Non-headline proceeds on sale of TTBD _ 95
+Non-headline items (43) (12)
+Interest and fees on borrowings) (214) (150)
+Cash payments on leases (211) (196)
+Movement in net debt excluding leases (384) (169)
+(1) Working capital is different to the Consolidated cash flow statement due to a different basis of preparation in reconciling from headline EBITDA to a movement in net debt
+and inclusion of the line items below.
+(2) Movements on interest are different to the Consolidated cash flow statement as a result of non-cash movements on capitalised interest, including P/K interest, and fees
+which impact net debt but have not been paid in cash in the year - see note 22.
+See note 1 to the consolidated financial statements for an explanation of APMs and non-headline items and note 6 for a reconciliation
+of statutory information to headline information.
+. 7 Year ended .
+Year ended 29 February
+28 February 2024
+2025 (restated)
+Borrowings . (1,880) (1,522)
+Cash atbankandinhand (8B
+Net debt excluding leases (1,813) (1,429)
+Leases (760) (791)
+Net debt including leases (2,573) (2,220)
+Total net debt was £2,573m. Headroom to committed facilities as of 28 February 2025 was £15m (FY24: £76m). The Group had net
+working capital outflow of £58m (FY24 restated: £7m) largely driven by the repayment of a material supplier. Cash at bank was £67m
+(FY24 restated: £93m) with such decrease being due to the timing of supplier payments. Funds available from new borrowings were
+used to partially normalise payment terms with suppliers and transaction costs. Capital expenditure for the year was £101m (FY24
+restated: £133m), representing 7.4% (FY24 restated: 8.8%) of headline revenues. The investment in FY25 was due to the roll-out of
+FTTP and the backhaul network concluding which will generate savings in future years. Investments in the period of £18m (FY24
+restated: £2m) relate to YouView and deferred consideration payments relating to M&A activity from a prior year. Non-headline items
+amounted to a net outflow of £43m (FY24 restated: £12m), of which £32m related to the copper to fibre transition costs and £33m .
+related to other strategic projects. These were offset by £22m of income from the sale of IP addresses. The prior year net outflow of
+£12m was predominantly copper to fibre costs of £36m and £20m related to other strategic projects offset by £44m income from the
+sale of IP addresses.
+Dividends
+No dividends were paid in the year ended 28 February 2025 (FY24: nil) due to insufficient distributable reserves. The Board will
+continue to assess the Group's dividend policy on an ongoing basis.
+Funding and capital structure
+As outlined earlier in the document (see page 4), the Refinancing was completed during FY25 and the Group is now funded via first lien
+notes of £562m, a first lien term loan of £88m, second lien notes of £332m, a second lien term loan of £52m, a second lien new money
+facility of £181m, £75m of a receivables purchase facility, of which £58m has been drawn down, a PIK facility of £539m and
+Shareholder Loan Facility of £68m.
+The first and second lien facilities have maturities in September 2027 and March 2028 respectively. The PIK facility maturity is April
+2028.
+TalkTalk Holdings Limited Annual Report 2025 7
+
+=== page 11 ===
+Under the new financing structure, the Group will continue to manage liquidity with the same diligence and effectiveness demonstrated
+over the past 24 months. A new set of covenants have been agreed with the Group's lenders as part of the Refinancing. The Group
+continues to focus on its strategy to improve its balance sheet and the overall cash position of the business. See page 28 for further
+information regarding this and its effects on going concern.
+Looking to the future
+With Refinancing now completed, this will allow us to improve cash generation and maximise our potential in the different markets our
+businesses serve in the medium term.
+
+TatkTatk Holdings Limited Annual Report 2025 8
+
+=== page 12 ===
+Key performance indicators
+
+We use the following KPls to measure progress against our strategic objectives. As our strategy evolves, we continue to review these
+KPIs to make sure they are the best measures to reflect performance against our strategy.
+
+Each KP1 is linked to the strategic objectives outlined on page 3.
+
+In FY21,TalkTalk Holdings Limited changed its fiscal year end date from 31 March to 28 February. Therefore, all 2021 comparatives
+include eleven months compared to twelve months for all other years.
+
+Customer base (Fibre and broadband) (m)
+
+2021 4.04
+
+2022 3.98
+
+2023 3.94
+
+2024 3.60 :
+
+2025 3.19
+
+Definition
+
+Total number of On-net broadband customers.
+
+Comments
+
+Customer base decline in the Consumer business due to disciplined acquisition strategy and higher churn.
+
+1
+
+Fibre base (m)
+
+2021 2.82
+
+2022 3.33
+
+2023 3.38 ‘
+
+2024 3.01
+
+2025 2.64
+
+Definition
+
+Total number of Fibre (FTTC or FTTP) customers.
+
+Comments . :
+The Fibre base has declined by c370k due to total base decline.
+
+4
+
+Fibre penetration (%) :
+
+2021 70
+
+2022 84
+
+2023 85
+
+2024 84
+
+2025 83
+
+Definition
+
+The percentage of the overall On-net base on a Fibre product.
+
+Comments
+
+Fibre penetration remained steady.
+
+1
+
+Churn (%)
+
+2021 1.6
+
+2022 1.6
+
+2023 V7
+
+2024 1.9
+
+2025 2.0
+
+Definition
+
+The percentage of our average customer base leaving the Group each month.
+
+Comments
+
+In FY25, Churn has increased slightly to 2% mainly due to change in strategy to focus on disciplined acquisition in the TatkTalk business.
+TalkTalk Holdings Limited Annual Report 2025 9
+
+=== page 13 ===
+Ethernet base (‘000)
+
+2021 47.3
+
+2022 51.9
+
+2023 69.4 :
+
+2024 75.0
+
+2025 76.4
+
+Definition
+
+The total number of high-speed Ethernet connections.
+
+Comments
+
+The Ethernet base grew strongly again with c.1.4k organic net adds all with an increasing mix of 1Gb connections, with associated higher ARPU.
+1 .
+On-net ARPU (£)
+
+2021 23.47
+
+2022 24.23 :
+
+2023 24.62
+
+2024 25.74
+
+2025 25.46
+
+Definition
+
+Average monthly on-net revenue per On-net customer. On-net revenue includes monthly recurring revenues for broadband services, upfront connection
+fees and ancillary services offered in the TalkTalk business.
+
+Comments
+
+ARPU has declined by £0.28 predominately due to price rises offset by the decline of usage and boosts.
+
+1
+
+(1) FY21 was an efeven-month year; underlying performance presents 2021 on a pro-rata basis.
+
+TalkTalk Holdings Limited Annual Report 2025 . 10
+
+=== page 14 ===
+Principal risks and uncertainties
+Every organisation faces risks of varying severity as an inherent part of doing business. Some of these are
+within the control of the organisation and others are not.
+The Board has identified the following principal risks and uncertainties to the Group. The details of these principal risks are outlined
+below. The principal risks have been identified and assessed on a gross risk basis with consideration to the impact on the Group’s
+ability to deliver its strategy and therefore its mission. The Group's risk management framework facilitates continuous and ongoing
+discussion of risks and is integrated into business planning. Business units and corporate functions maintain their own respective risk
+registers and operational risk management processes. This ensures the appropriate focus is placed on risk mitigation with significant
+net risks being assigned an Executive Committee owner and included in the Group risk register for review at Board meetings. The
+following risk management framework has been in place throughout the year ended 28 February 2025.
+Risk management framework
+Strategic governance
+Board Sub-Committees
+Operational and financial governance
+First line of defence Second line of defence Third line of defence
+Audit and Risk function
+Operational management Central support functions Including Internal Audit, risk management
+. and external advisers
+TatkTatk Holdings Limited Annual Report 2025 11
+
+=== page 15 ===
+FINANCIAL
+Risk and impact Mitigation :
+There remains a material uncertainty as to the going The Group's treasury function is responsible for managing the Group's liquid
+concern of the Group principally because of the resources and managing compliance with the terms of all funding agreements.
+competitive markets the Group operates in and the Policies and operating procedures are in place, and these are regularly
+impact on liquidity from the substantial fees incurred — reviewed to ensure they remain appropriate for the business. in addition, the
+as part of the Refinancing, and we actively manage Executive Committee of each business unit and the Board oversee the liquidity,
+financial risks as follows: funding position and covenant compliance of the Group on a regular basis and
+a, . are required to provide approval on major funding decisions. The Group
+1. _ liquidity - managing near term cash flows, treasury function is also responsible for managing foreign exchange and
+including terms with suppliers in order to meet interest rate risks in line with the Group's policy although the Group’s exposure
+the minimum cash liquidity requirements under to foreign exchange risks is very limited.
+the new terms of the Refinancing as discussed
+in the Going Concern section on page 28;
+2. compliance with debt covenants (principally
+minimum cash availability and leverage
+covenants);
+3. refinancing of facilities as they mature; and
+4. — other financial risks such as foreign exchange,
+interest rate, inflation and credit risk.
+CUSTOMER TRUST AND BRAND REPUTATION
+Risk and impact Mitigation
+Customer confidence and trust are critical to our The Group remains confident of the role in the market for a well-regarded value
+activities across TalkTalk and PXC. The Group Operator across consumer and wholesale products and is committed to
+always seeks to do what is right for the customer. improving the end-to-end customer experience across all touchpoints. We will
+However, as a value for money connectivity provider —_ continue to focus on existing as well as new customers, guided by our mission
+in the market, there is a risk that the Group is to deliver affordable and retiable connectivity for everyone. By increasing the
+perceived as a ‘budget’ provider, associated with mix of FTTC and FTTP customers in our overall customer base, and providing
+price rather than quality and service, which could a more reliable and enhanced product, we have further improved our NPS. ,
+impact our success. Business and indust
+challenges including cyber threats sean walls or The future of connectivity is Full Fibre and FTTP services provide greater
+poor customer experience also present a risk to speeds and enhanced reliability. We expect that more customers taking this
+brand reputation and trust. Damage to customer superior service will tead to even better customer experience and NPS.
+trust and our reputation could materially adversely We also continue to transform our customer contact points with the introduction
+impact our business, the ability to attractnew of our new digital first customer channel to make customer service more
+customers, churn, operations and financial condition. convenient for everyone. Using digital channels, such as WhatsApp, has
+numerous benefits, such as allowing customers to respond in their own time.
+The Group has attractive customer offerings across the Consumer and
+Wholesale businesses (see competitive landscape risk) and the organisation
+also continues to invest in the network and systems to support the provision of
+reliable products to customers as well as ongoing investment in and focus on
+security (see data and cyber security risk). These factors have contributed to a
+stable risk landscape with steady customer confidence and improving customer
+Satisfaction. The Group is also signed up to the Ofcom fairness charter which
+focuses on price transparency and supporting vulnerable customers.
+COMPETITIVE LANDSCAPE
+Risk and impact Mitigation
+The Group operates in a highly competitive market A clear pricing and promotional strategy is in place with ongoing monitoring.
+which results in risks to achieving its strategic The strategy is reviewed to ensure it remains competitive and continues to
+objectives. support our position against the changing competitor landscape. In addition,
+. Jerati competitor pricing activity continues to be monitored to understand customer
+In the consumer market, the continued acceleration —_ ang market impact and plans are revisited if necessary. We use customer
+of FTTP roll-out alc result in new entrants to the communications to promote our simple, affordable, reliable and fair message
+market, which will further intensify the competitive and are committed to helping customers understand the best-positioned
+landscape. package to meet their needs.
+In the wholesale market, we have observed increased price competition on
+connectivity products. Our Jong-standing relationships with partners, AltNet
+differentiation and high-margin over-the-top services continue to help mitigate
+this challenge.
+TalkTalk Holdings Limited Annual Report 2025 12
+
+=== page 16 ===
+PEOPLE CAPABILITY .
+Risk and impact Mitigation
+Our employees are one of our key assets. The The Group uses its values as a cultural framework that is embedded through
+Group aspires to be a ‘Great Place to Work’ for all the business including recruitment and performance management processes.
+colleagues. We understand the increasing Structured talent forecasting and assessment processes are in place to ensure
+challenges and importance in the market of defining —_ required talent is proactively understood and action plans are in place to
+an effective operating model and attracting and manage attrition risks and succession. These processes also ensure a
+retaining the right talent to deliver organisational proactive review of the senior management teams to ensure the right
+performance and future growth aspirations. The leadership is in place for motivating, inspiring and leading the workforce to
+main focus continues to be attracting and retaining deliver on the corporate objectives. A people scorecard is used for ongoing
+the required talent and competencies in a very monitoring and oversight of people risks across the Group. Actions to mitigate
+competitive local employment environment. Failure risk exposures are identified and implemented. In addition, we assess the level
+to do so may negatively impact our ability to deliver of employee engagement, and the insight gained is used to develop action
+on performance targets and strategic objectives. plans to ensure a highly engaged and motivated workforce.
+CHANGING MARKET STRUCTURE
+Risk and impact Mitigation
+The Government and Ofcom are committed to The Group continues to advocate for competition and is well placed to benefit
+promoting investment in Fult Fibre networks through _from the increasing trend towards a more pro-competition regulatory
+infrastructure competition in the UK framework. The business is actively engaging with external stakeholders,
+telecommunications market. In 2021, Ofcom set particularly Ofcom and the Government, to share views and attempt to deliver
+regulation for both the Business Connectivity Market —_ the best market and customer outcomes, as well as to proactively understand
+and Wholesale Local Access Market for a five year and respond to the opportunities and challenges presented by structural market
+period until March 2026, with prices set above costs changes. We stand to benefit from the transition to Full Fibre networks as
+(by CPI+0) in urban areas to encourage FTTP build customers continue to demand even faster, more reliable services, a trend
+by AltNets, and a process of cross-subsidy proposed accelerated by the pandemic. Our longer term ambition is to transition all
+in rural areas to support Openreach FTTP roll-out. customers to new FTTP networks as quickly as possible. We are now offering
+Ofcom has recently published its consultation on the — Full Fibre products on Openreach, Freedom Fibre and CityFibre networks.
+Telecoms Access Review for the 2026-2031 period. . . . : .
+We continue to discuss potential commercial arrangements with other FTTP.
+network owners to ensure an optimal mix of suppliers.
+REGULATORY COMPLIANCE
+Risk and impact Mitigation
+The telecommunications sector is highly regulated, The Board has continued to convene throughout the year to monitor the
+with compliance over key customer-focused mitigation of operational risks which could give rise to customer complaints and
+regulations monitored by Ofcom. Another of the key —_— regulatory breaches. There are clear lines of accountability both in first-line
+governing bodies relevant to the Group is the ICO. operations and in second-line assurance functions and there has been
+The regulations and laws that we must comply with, continued focus on embedding processes and controls to maintain compliance
+including Ofcom’s General Conditions of Entitlement to industry regulations, including focus on delivering improvements in our
+and data and privacy legislation, are designed to complaint handling processes and reducing complaint volumes. We also have
+support customers. Failure to comply with regulatory regular dialogue with Ofcom and the Government on regulatory issues to aid
+obligations may result in negative customer impact our internal compliance regime.
+and/or significant regulatory fines.
+EMERGING RISKS
+As with other groups, we face emerging risks and uncertainties that could potentially be significant to our long term strategy but cannot be fully defined
+or managed at present.
+The Executive Committees of both operating businesses meet regularly to review both the currently identified risks and emerging risks which inform our
+strategic planning process, and these are then reviewed by the Board. For example, emerging risks around the long term implications of climate change
+and the cost-of-living crisis are being monitored as well as any regulatory risks, including the Wholesale Fixed Telecoms Market Review.
+TalkTalk Holdings Limited Annua! Report 2025 13
+
+=== page 17 ===
+Section 172
+
+The success of our business is dependent on the support of all our stakeholders. As part of the Board's decision making process, in line
+with their duties under Section 172, the Board considers the potential impact of decisions on relevant stakeholders and the likely
+consequences of these decisions in the long term.
+
+Illustrations of how a number of Section 172 factors have been considered and applied by the Board can be found below. Other broader
+factors considered by the Board, including the impact of the Group's operations on the environment, adherence to responsible business
+practices and ethical values and expectations are covered elsewhere throughout the Strategic Report in the Corporate Social
+Responsibility (pages 19 to 21) and Corporate Governance sections (pages 25 to 27).
+
+TalkTalk Holdings Limited Annual Report 2025 14
+
+=== page 18 ===
+CUSTOMERS
+
+Why they matter to us + We conduct regular customer surveys * The Executive Chairman attends
+
+The demand for faster, more and market research exercises, and quarterly review meetings
+
+reliable connectivity has never track relevant customer metrics for covering the commercial and
+
+been greater so it is vital that we benchmarking purposes, as well as connectivity performance of the
+engage with our customers to reviewing customer comments, which businesses and is highly engaged
+ensure we continue to provide we utilise in our improvement plans. with customer metrics.
+
+great proguels and services that + We monitor and track CSAT and NPS + Benchmarks performance in
+
+eir changing needs. . ;
+scores for benchmarking purposes relation to customers using
+
+What matters to them across our business. We also review research including CSAT and
+
+Our customers expect: customer comments and utilise them in NPS scores.
+
+* Resilient connectivity, a our improvement plans. + Executive Chairman and Group
+seamless experience, where if +* We have a highly active and engaged CEO meet regularly with key
+things do go wrong, they are online community offering help to customers to help maintain good
+resolved as soon as possible. customers. relations and to understand and
+
++ A product to satisfy all needs, + We have enhanced our social media adaress thelr views, needs and
+whether that be a reliable presence to provide both proactive and .
+connection to work from home, reactive communications to customers. | How they influence the Board’s
+or access to an array of TV . decision making
+content, or superfast * Our wholesale partners enjoy access to The Board uses the above
+connectivity for online gaming. ot en negement team in om engagement methods to help ensure
+
++ The same quality of product as the oartner operational teams on that the customer's viewpoint is taken
+
+" 7 r into account as part of its decision
+our competitors in terms of service-related challenges. making process
+speed and reliability, at an :
+affordable price. How the Board engages . The views, needs and concems of
+* Reviews strategy and monitors our key customers are regularly fed
+
++ The freedom to choose what performance during the year with the into the Board via our regular CEO
+products and services they aim of meeting customers’ needs more reporting process and the Board
+need, with transparent pricing. effectively. discusses them and takes them into
+
+How we engage * Receives regular updates to consideration when making decisions
+
+* We focus on customers’ needs understand performance and the and setting strategy.
+and the issues they face and businesses’ strengths and weaknesses
+regularly report on as regards meeting customer needs.
+performance.
+
+SHAREHOLDERS AND INVESTORS
+
+We are a privately owned business What matters to them How the Board engages
+
+with public traded debt securities. Our Our investors are concerned with a * Executive Director meetings with
+
+ongoing intention is to behave broad range of issues including the credit investors to discuss strategy
+
+responsibly towards all shareholders — Group's financial and operational and performance.
+
+and investors and treat them fairly performance, strategic execution, s i . .
+
+and equally, so that they may benefit investment plans and capital allocation. * Shareholder-appointed nominees
+
+from the successful delivery of the form part of the Board of Directors.
+
+Group's strategic objectives. * Annual Report and investor
+
+Why they matter to us relations mailbox.
+
+Continued access to capital is of vital How they influence the Board’s
+
+importance to the long term success decision making
+
+of our business. * The Board receives regular reports
+
+on performance and strategy.
+TalkTalk Holdings Limited Annual Report 2025 15
+
+=== page 19 ===
+COLLEAGUES
+As an organisation with values of We How we engage How the Board engages
+Care, We Challenge and We Commit, + Providing ongoing clarity and + Videos for staff on the intranet,
+it is our people who are the driving openness on strategic priorities and ‘The Wire’, providing updates and
+force behind our ambitious plans, and business performance. presentations on each business’
+we've created a working environment . . . . strategy and monthly performance
+where all of our colleagues can be . Hosting a series of interactive scorecard.
+100% themselves. We want our activities throughout the year to ;
+people to enjoy being part of our establish our employer brand and . Regular blogs from the Executive
+business and feel proud to work here. engage colleagues. Committee of each respective
+an . business on business performance
+What matters to them * Continuing to incorporate our values and other activities.
+Our colleagues want a sense of — We Care, We Challenge and We
+purpose, to know we are all Commit — in everything that we do * Monthly or quarterly updates from
+committed to continually improving and celebrating success through our the Executive Committee of each
+our products and services for recognition schemes. respective business to their
+customers and for them to be as + Providing opportunities for our business units on performance and
+affordable as possible. Colleagues colleagues to be involved in the recognition.
+want flexible ways of working, career local community through our give The concerns, views and needs of our
+development opportunities and to be something back days, ensuring they employees are regularly fed into the
+rewarded with competitive pay and feel part of the local community. Executive Committee within each of
+benefits. We know that our people . . the businesses via our employee
+are delivering on their commitments  * Rewarding and thanking our engagement survey and aur colleague
+to the business, and in return we colleagues through our recognition representative body, One Voice. The
+provide them with a safe and schemes. Board periodically discusses these
+supportive space which takes their * Allowing colleagues the space and —s Matters and takes them into
+health and wellbeing very seriously. support to grow and develop consideration when making decisions
+through learning and development and setting strategy.
+opportunities.
++ Encouraging the growth of a variety
+of employee networks to provide a
+safe, engaging and supportive
+space for colleagues.
++ Understanding employee views and
+measuring employee satisfaction via
+our employee engagement survey.
+TalkTalk Holdings Limited Annual Report 2025 16
+
+=== page 20 ===
+SUPPLIERS
+Why they matter to us How we engage How they influence the Board’s
++ Our suppliers are critical to the + Supplier relationship management-— decision making
+success of the business. In FY25 we partner with our key suppliers to + The Board recognises that
+we have continued to work with ensure that we have common relationships with suppliers are
+our suppliers to navigate the roadmaps and strategy, via a series vital to the Group's long term
+liquidity position of the business of face-to-face meetings. success, so the Board carefully
+and extended payment dates - oR ibl t. trust and considers the selection of, and
+where necessary. ethics our Modem Slavery an engagement and continued
++ We spend over £1.2bn per annum Statement is reviewed annually to relationship with, our key suppliers.
+with suppliers on goods and ensure that the content is + Supplier issues are regularly fed
+services, primarily with our main meaningful, and we work with our into the Board via our regular CEO
+supplier, Openreach, and suppliers to attest to both the letter reporting process and the Board
+therefore these relationships are and the spirit of the statement. discusses them and takes them
+vital to ensuring we get value for . TheG has detailed polici d into consideration when making
+money. e Group has Cetalied policies any decisions and setting strategy.
+procedures with respect to Bribery,
++ We are committed to identifying Corruption and Fraud Control, Gift
+and addressing any risks of Accepting, and Ethical Business
+modern slavery within our Conduct. .
+business and supply chains,
+including those of our sub- How the Board engages
+contractors and partners + Board approval of our Modern
+. Slavery Statement.
+What matters to them .
++ Understanding of strategy and ° Group cEO ana Executive Ct
+how their products and services airman meet with larges!
+feed into that. suppliers regularly.
++ Ability to resolve potential issues ° CeVtain key suppliers are regularly
+in their relationship with us. discussed at Board meetings.
+* Creating a trusting environment * Our supplier payment policy can be
+where both sides act with fairness seen Wile Directors’ Report on
+and transparency. Page <6.
+THE ENVIRONMENT
+“Why itmatters tous _-Howweengage—=~=~=~=~*~*~S*«Swthe Boardengages
+Our mission is to connect people and = =+* Our Environmental Policy sets out * The Board regularly reviews the
+communities. Our role in building a key strategies for reducing our climate-related risks to the
+sustainable future is providing simple, - environmental impact. business.
+affordable, reliable and fair fibre for .
+everyone. We believe climate change ° We have set credible long term . The Board has assessed and
+needs to be tackled with urgency, and decarbonisation targets, which have signed off {ong term
+we fully back the UK Govemment's acnieved science-based targets decarbonisation goals.
+target to become net zero carbon by validation. How it influences the Board’s
+2050. + We have dedicated workstreams in decision making.
+What matters to it place to reduce energy consumption + Our work on the environment
+Increasingly, all our major and decarbonise operations of our impacts the operations and is
+stakeholders as listed in this offices and data centres. measured as a company
+document are requiring action, most + We work collaboratively with Performance Indicator. These
+inal ducing carbon . influences are incorporated into all
+Pressingly on re ig suppliers and across the telecoms A
+fa . : » ~ reports to the Board, via the
+emissions across both operations industry as Chair of the Digital .
+; - : paren regular CEO reporting process,
+(scope 1 and 2) and value chain Connectivity Forum’s Sustainability ;
+A and the Board discusses them and
+(scope 3), as well as tackling other Working Group. takes them int ‘derati h
+environmental challenges such as making decisiong and setting when
+energy usage and recycling. strategy.
+TalkTalk Holdings Limited Annual Report 2025 WwW
+
+=== page 21 ===
+GOVERNMENT
+Why it matters to us How we engage How it influences the Board’s
+Government bodies have a key role + Regular engagement with policy decision making
+in setting our operating environment making processes, including * The political and Governmental
+and it is imperative that we listen, responding to consultations, updates and views of policy
+understand and respond to relevant providing briefings and data and makers are fed into the Board via
+Government actions. As a broadband meetings. our regular CEO reporting process
+provider, the Government's ambitions | Th h ind di and the Board regularly discusses
+for gigabit-capable coverage, Through cross-industry bodies, them and takes them into
+engaged consumers and a safer _ __ including the Digital Connectivity consideration when making
+online experience have shaped our Forum and the UK Competitive decisions and setting strategy.
+business strategy and operations. Telecommunications Association.
+What matters to it * The Board receives regular updates
+The Government set an objective for on the political and Government
+gigabit-capable networks to cover environment and engages with
+85% of UK homes and businesses by policy makers as appropriate.
+2025, and nationwide by 2030, as :
+well as launching a subsidy ,
+programme to promote roll-out in
+non-commercial areas. Its priority is
+to remove barriers to roll-out, while
+also promoting the consumer case to .
+move to these new networks. Another
+key priority is to ensure fairness in
+consumer markets, including
+broadband, while also building a safe .
+and secure online environment.
+REGULATORS
+Why they matter to us How we engage How the Board engages
+Ofcom has a high degree of influence We continually engage with Ofcom ata =‘ The primary Board engagement with
+over the Group's commercial and variety of levels and in a variety of Ofcom is via our Group CEO and on
+operational environment. It manners, both formal and informal. Ata . some issues the Executive Chairman.
+determines many of the prices which —_ working level, most contact is via our Other than that, members of the Board
+we pay Openreach (which constitute regulation teams, which both regularly are informed of developments at Board
+a substantial proportion of our cost meet with Ofcom, and co-ordinate meetings, whilst having no systematic
+base), the quality of wholesale responses to Ofcom's consultations and contacts with Ofcom.
+products and requirements around information requests. Ata more senior Pri B rd t with th
+customer service. Regulation is level, the Group CEO regularly meets coun oa the Gavo Ger wl , e
+therefore the single most important and talks with Ofcom's CEO, covering was via the Group enera
+driver of our cost to serve customers. __ strategic-level issues. The Group Counsel and Company Secretary. In
+. . continually engages with the ICO. Ata addition to this, the Board is regularly
+The ICO regutates compliance with working level, most contact is via our updated on any developments.
+the Data Protection Act, UK GDPR, ata Protection Officers, who both
+Comnuaivations Regulations and the regularly meet and are in contact with
+. the ICO. This engagement involves co-
+Investigatory Powers Act. ordinating responses to ICO information
+Other relevant regulators include: requests and complaint responses. At a
+. more senior level, our General Counsel
+* the Competition and Markets and Company Secretary talked with
+Authority monitors firms’ senior ICO officials covering key topics
+compliance with competition law and issues.
+and considers the consumer
+interest.
+The Group complies with all relevant
+regulations.
+TalkTalk Holdings Limited Annual Report 2025 18
+
+=== page 22 ===
+Regulatory environment
+
+Wholesale Fixed Telecoms Market Review
+
+Ofcom's Wholesale Fixed Telecoms Market Review came into effect in April 2021. This sets regulation for both the Business
+
+Connectivity Market and Wholesale Local Access Market for a five year period until March 2026. The rules are aimed at encouraging
+
+FTTP investment whilst also protecting customers.
+
+Telecoms Access Review
+
+Ofcom's 2026 Telecoms Access Review will set regulation for Openreach broadband and Ethernet products from April 2026 to March
+
+2031. Ofcom has published its first consultation, and the Group will continue to engage closely with Ofcom to influence the outcome.
+
+Openreach Equinox offers ,
+
+In October 2021, Openreach launched a wholesale FTTP offer (called Equinox) that provided discounts in return for meeting certain
+
+FTTP targets. The Group has signed up to the Equinox terms. Openreach has proposed an overlay to Equinox (called Equinox 2),
+
+which provides additional discounts. In May 2023, Ofcom confirmed that it does not intend to prevent Equinox 2 being implemented.
+
+Duct and pole access
+
+Openreach is required to provide wholesale access to its ducts and poles so that its rivals can use these assets to roll out their own
+
+FTTP networks and Ofcom expects that this will be widely used by non-Openreach FTTP builders to make more roll-out viable.
+
+Effective duct and pole access will benefit us by reducing the cost and increasing the speed of the roll-out of non-Openreach FTTP
+
+: networks on which we will rely in certain areas.
+
+FTTP policy
+
+The Government's goal is for at least 85% coverage of ‘gigabit-capable’ broadband by 2025. This term would cover both FTTP
+
+connections and Virgin Media's Data Over Cable Service Interface Specification (DOCSIS) 3.1 network. As part of this goal, the
+
+Government is committed to promoting infrastructure competition and bringing down barriers to network deployment. The key
+
+components of the strategy are:
+
+* reducing build costs through bringing forward legislation to ensure Full Fibre deployment to new builds and simplifying wayleaves so
+that telecoms companies have a ‘right to entry’ like other utilities. It is also seeking to streamline street works by issuing a
+standardised national framework for operators and local authorities;
+
+* supporting access to passive infrastructure through Openreach delivery of the ducts and poles access improvements and reviewing
+the regulations for access to third party infrastructure;
+
+* supporting roll-out in rural areas through an ‘outside-in’ strategy to connect the final 20% using public investment;
+
+* requiring Ofcom to oversee an industry-led switchover from copper to Full Fibre networks; and
+
+* improving access to spectrum and cell sites to enable increased mobile coverage and to enable SG deployment.
+
+Telecommunications security
+
+In 2021, the Telecommunications Security Act was passed to establish an enhanced legislative framework for telecoms security, and to
+
+provide the Government with the powers to take action on the use of high-risk vendors on national security grounds. The Act gives
+
+Ofcom new powers to oversee security provision within telecommunications companies. Ofcom has confirmed its approach to
+
+monitoring compliance and has issued several statutory information requests to assess compliance with the Act's provisions. In
+
+addition, telecoms companies are required to report back to the Department of Science, Innovation and Technology on their progress
+
+on removing Huawei equipment from their network with a number of deadlines between now and 2027.
+
+TalkTalk Holdings Limited Annual Report 2025 19
+
+=== page 23 ===
+Corporate social responsibility
+
+We seek to embed our Company values — We Care, We Challenge and We Commit — into our corporate social
+responsibility strategy and the work that we do to engage and support our customers, people and places.
+Internet Watch Foundation :
+
+The Group is a top-tier member of the internet Watch Foundation (“IWF”), the charity which works with technology partners to disrupt
+and stop the availability of child sexual abuse images. We continue to implement the charity's URL list service to block access to
+criminal material. in addition to these core services, our funding contributes to the iWF's hotline, which offers a way for victims and
+members of the public to report abusive imagery so that it can be removed anonymously.
+
+Online Safety Act
+
+The Group will not be a regulated entity under the online safety regime, which is being administered by Ofcom. However, we are
+working constructively with the Government and Ofcom following its implementation.
+
+Preventing scam behaviour
+
+Preventing scam behaviour is one of the most significant ways we can improve overall digital safety and security through the products
+and services we offer. TalkTalk was the first internet service provider to launch a whole-home filtering service to all residential
+customers, at no extra cost. Blocking scam and unwanted calls is another priority and CallSafe, a free security feature for customers
+that screens inbound calls, continues to be popular with our customers. .
+
+People
+
+The people strategy of both TalkTalk and PXC is focused on creating dynamic and engaging workplaces that value innovation, flexibility
+and continuous growth. Both companies remain anchored to the Group's historical values - We Care, We Challenge and We Commit —
+ensuring all colleagues strive to adhere to the right behaviours that attune to those values.
+
+At TalkTalk, the focus during FY25 was on developing and transforming talent and culture initiatives. The business aims to foster a
+highly engaged and empowered workforce and has sought to deliver this through a number of programmes. These included enhancing
+employee wellbeing, offering flexible working arrangements, and providing opportunities for professional development. TalkTalk's”
+commitment to its employees is evident in its efforts to create a fun, flexible and engaging workplace. TalkTalk’s people strategy
+emphasises the importance of communication and collaboration across different departments, with the goal to create a culture of
+transparency and inclusivity, in order to build a strong sense of community and belonging among its workforce in addition to a focus on
+performance and delivery.
+
+At PXC, the focus during the year was on transforming into a simplified business which drives performance and growth while enhancing
+employee experience and engagement. During FY25, the business introduced its distinct employee value proposition, “Life at PXC’”,
+centred around culture, development opportunities and recognition and aiming to create a supportive and rewarding work environment
+that attracts and retains top talent. PXC has delivered a number of initiatives in the year to promote well-being and work-life balance,
+and recently launched its ‘Enabling Excellence’ programme to ensure strategic priorities and plans are well understood by all
+colleagues.
+
+Gender diversity — all colleagues
+
+Female 35% = (FY24: 35%)
+
+Male 65% (FY24: 65%)
+
+Gender diversity — senior management (Band C and above)
+
+Female 29% (FY24: 32%)
+
+Male 71% (FY24: 68%)
+
+Gender diversity — Directors
+
+Female 0% (FY24: 25%)
+
+Male 100% (FY24: 75%)
+
+Due to the businesses’ operational separation, the Group pay gap is now calculated on a TalkTalk and PXC basis. For FY25, the
+TalkTalk median pay gap is 8% and the PXC median pay gap is 7.5%. For FY24, the Group median pay gap was 11.6%. Our mean pay
+gap remains low compared to previous years and industry norms.
+
+Our TalkTalk Gender Pay Report published in 2025 shows women make up: 36% of Q1 pay quartile; 41% of Q2 pay quartile; 51% of
+Q3 pay quartile; and 36% of Q4 pay quartile.
+
+Our PXC Gender Pay Report published in 2025 shows women make up: 26% of Q1 pay quartile; 26% of Q2 pay quartile; 27% of Q3
+pay quartile; and 38% of Q4 pay quartile.
+
+Our Dignity at Work Policy addresses issues of bullying and harassment on any grounds, and how complaints of this type will be dealt
+with. We recognise our obligations not to discriminate for any reason and will not discriminate unlawfully against any of our employees,
+agency workers, self-employed individuals, contract workers or customers using or seeking to use goods, facilities or services provided
+by us. Our Anti-corruption and Bribery Policy offers advice and guidance on how colleagues should ask for advice or report concerns.
+Colleagues can either report concerns to HR or use a confidential reporting helpline if they wish to remain anonymous. Calls made to
+this service are regularly reviewed and investigated where appropriate. These policies are available for colleagues to view on the
+corporate intranet and are reviewed on a regular basis to ensure they remain fit for purpose.
+
+TalkTalk Holdings Limited Annual Report 2025 20
+
+=== page 24 ===
+Ambitious about Autism
+
+PXC continues to support Ambitious about Autism, the national charity for children and young people with autism. It provides pioneering
+education services and campaigns for better outcomes for autistic young people. We are the lead partner for Ambitious about Autism’s
+Employ Autism project in the North-West. This project connects businesses with young autistic people to provide high-quality, paid work
+placements to support the development of work-based skills.
+
+Place
+
+We are proud to be a Salford-based business. We work closely with Salford Council and other local organisations to promote prosperity
+and opportunity in Salford and across Greater Manchester.
+
+Human rights and modern slavery
+
+Ethical behaviour is at the heart of everything we do. We are committed to identifying and addressing any human rights risks, such as
+modern slavery within our business and supply chains, including those of our sub-contractors and partners. In July 2024, our Modern
+Slavery Statement was published, using the 2023 Global Slavery Index to review 93% of our supplier spend, evaluating whether
+suppliers may be domiciled in high-risk countries or operate in high-risk industries. Our Modern Slavery Statement can be found on the
+TalkTalk Group corporate website.
+
+Protecting our environment
+
+in FY25, the Group's work on creating a sustainable business was recognised — with PXC winning two awards for sustainability at the
+prestigious CRN Channel Awards and INCA events.
+
+The Group's climate strategy is set by validated near term Science Based Targets. We have a goal to reduce scope 1 and 2 emissions
+by 93.5% between FY20 and FY30.
+
+In FY25, there was good progress on several operational metrics. Continuous efficiency in our data centres saw another 5% year on
+year reduction in energy usage. However, there was a fire suppression activation which resulted in a significant increase in fugitive
+emissions, and in turn, a 37% year on year increase in overall emissions. Nevertheless, emissions are down 42% from the FY20
+baseline and remain on track for the FY30 goal.
+
+The Science Based Targets also include a commitment to reduce scope 3 emissions by 42% between FY20 and FY30.
+
+The Group has set an intensity target of tonnes of carbon dioxide equivalents (tCO2e) per bandwidth (measures in GB/sec). In FY25,
+this measured at 0.93. This was half of FY20, but up 4% year on year, on an absolute basis, due to fire suppression activation.
+
+The tables on the following pages cover our mandatory reporting of greenhouse gas emissions pursuant to the Companies Act 2006
+(Strategic Report and Directors’ Report) Regulations 2013 and The Companies (Directors’ Report) and Limited Liability Partnerships
+(Energy and Carbon Report) Regulations 2018. All emissions refer to UK operations only.
+
+Mandatory greenhouse gas emissions
+
+Emissions source (tCOze) : FY25 FY24 FY23
+
+Fuel combustion: stationary (natural gas and generator fuel) 119 181 160
+
+Fuel combustion: mobile (owned transport) 281 324 343
+
+Facility operation (fugitive emissions) 3,738 2,582 400
+
+Purchased electricity 4,215 4,693 4,652
+
+Total emissions (tCOze) 8,353 7,780 5,555
+Bandwidth GB/sec 8,924 8,779 7,762
+
+Intensity: (tCOze per GB/sec) 0.93 0.89 0.72
+
+Total greenhouse gas emissions (scope 1 and 2)
+
+Emissions source (tCOze) Fy25 FY24 FY23
+
+Scope 1 3,992 2,913 716
+
+Scope 2 market based (MBM) 2 _ 3
+
+Scope 2 location based 4,137 4,319 4,262
+
+Total scope 1 and 2 (MBM) emissions (tCOze) 3,994 2,913 719
+
+In-house energy consumption
+
+We continue to operate our Energy Management System (EnMS) and have maintained our certification to ISO 50001:2018.
+
+Emissions source (kWh) FY25 FY24_ YoY change
+
+Electricity 19,972,561 20,859,072 -4.3%
+
+Natural gas 377,736 390,317 -3.2%
+
+Owned transport 1,186,814 1,360,094 -12.7%
+
+Standby generators 345,032 458,505 -24.7%
+
+Total consumption (kWh) 21,882,143 23,067,988 -5.14%
+
+This information was collected and reported in line with the methodology set out in the UK Government's Environmental Reporting
+Guidelines, 2021. Emissions have been calculated using the Greenhouse gas reporting: conversion factors 2024 provided by the
+Department for Energy Security and Net Zero. There are no material omissions from the mandatory scope 1 and 2 emissions. The
+reporting period is FY25.
+
+TalkTalk Holdings Limited Annual Report 2025 21
+
+=== page 25 ===
+Climate-related financial disclosures statement
+
+This statement complies with the requirements under the Companies (Strategic Report) (Climate-related Financial Disclosure)
+
+Regulations 2022. This statement also takes guidance from the recommendations of the Task Force on Climate-related Financial
+
+Disclosures. .
+
+In the course of FY25, TalkTalk and PXC separated and operated independently. As a result, the answers provided in this disclosure
+
+will focus on these respective businesses, and also the Group, where appropriate.
+
+Governance
+
+(a) a description of the entity’s governance arrangements in relation to assessing and managing climate-related risks and
+
+opportunities
+
+Climate change in the Group is overseen by the Board.
+
+Climate change is listed as an emerging risk for the Group, which is raised to the Group Board half-yearly as part of a wider risk register
+
+review.
+
+The Group Head of Sustainability & ESG had oversight of these risks and opportunities; with these risks being reviewed by each
+
+individual business according to their own risk processes in line with Risk Management Policy.
+
+Management responsibility for climate-related risks and opportunities is delegated to relevant senior management within PXC and
+
+TalkTalk.
+
+At TalkTalk, the risk register is delegated to the General Counsel.
+
+At PXC, the risks related to the climate-related impacts, risks and opportunities of our own operations are delegated to the Chief
+
+Technology Officer and Chief Sales and Product Strategy Officer and include integrating climate-related issues into strategy and setting
+
+targets, monitoring progress and managing value chain engagement. These roles both report directly to the CEO.
+
+Climate-related targets are also aligned with the business’ annual targets.
+
+Additionally, individual members of the Group have specific targets related to climate. To help deliver reductions in scope 1 and 2
+
+emissions, senior leaders have specific objectives associated with reductions in energy costs and carbon emissions. The Head of
+
+Sustainability has specific objectives to help deliver scopes 1, 2 and 3 reductions in line with the Group's Science Based Targets (see
+
+section (g)).
+
+Risk management
+
+(b) a description of how the entity identifies, assesses, and manages climate-related risks and opportunities :
+
+Whilst TalkTalk and PXC operate independently, climate-related risks and opportunities are identified through each business’ risk
+
+registry process and are consolidated at a Group level on a regular basis.
+
+For example, the data centre flooding risk was identified by the PXC Technology function — see Table 1 ‘A summary of Group's key
+
+climate-related risks and opportunities’, row 1.
+
+In addition, as part of a new process to create compliant climate-related financial reporting in FY24, a further risk assessment was
+
+completed. Senior leaders from across the Group analysed the three climate scenarios (see section (f) below) and identified over 50
+
+additional risks and opportunities. An external sustainability consultancy then qualitatively evaluated and prioritised these risks based
+
+on the IPCC scenarios, risk event timescales(") and the Group Risk Management Policy (see next section and above). In accordance
+
+with the Group Risk Management Policy framework, gross (inherent) and net risk (after compensating controls are considered) scores
+
+were assigned based on impact and likelihood. Each risk was assigned a final treatment response based on its net risk score. All risks
+
+outlined in Table 1 ‘A summary of Group key climate-related risks and opportunities’ are classified as ‘Monitor’, with review required on
+
+an annual basis.
+
+(1) The time frame indicates where we estimate the impact would potentially be the greatest. The timeframe aligns with Talk Talk’s Group Risk Management Policy where
+short term: 0-2 years; medium term: 2-5 years; and long term: 5+ years.
+
+(c) a description of how processes for identifying, assessing, and managing climate-related risks are integrated into the
+
+entity’s overall risk management process
+
+As outlined in (b), specific risks are integrated into our divisional risk registers.
+
+Additionally, the climate-related risks identified in this report have been added to the Group risk register as an emerging risk.
+
+The risks are identified, assessed and managed in accordance with the Group Risk Management Policy.
+
+Strategy
+
+(d) A description of:
+
+i. the principal climate-related risks and opportunities arising in connection with the entity's operations; and
+
+ii, the time periods by reference to which those risks and opportunities are assessed. .
+
+After undertaking a qualitative assessment of all of the climate-related risks and opportunities, and a quantitative assessment of the
+
+shortlisted risks in accordance with the Group Risk Management Policy, we have identified that the climate-related risks and
+
+opportunities are not yet financially material to the Group but are listed as an emerging risk to the business. However, for transparency,
+
+TalkTalk Holdings Limited Annual Report 2025 22
+
+=== page 26 ===
+and to explain the risks and opportunities that underpinned our assessment, we have outlined the relevant risks and opportunities that
+
+we identified in the climate risks and opportunities workshop that are most significant. Please see table 1 below.
+
+(e) a description of the actual and potential impacts of the principal climate-related risks and opportunities on the entity's
+
+business model and strategy
+
+A discussion of impacts is outlined in the table below.
+
+(f) an analysis of the resilience of the entity’s business model and strategy, taking into account consideration of different
+
+climate-related scenarios
+
+In order to assess the resilience of the Group's business model and strategy, we assessed three qualitative scenarios (see section
+
+below) to capture the potential risks and opportunities. Overall, we see good resilience of our business model and strategy in the short
+
+to medium term to climate change across the assessed scenarios. We will continue to monitor long term risks. As none of the climate-
+related risks were deemed to be principal risks within our business planning horizons, we have therefore not carried out further
+analysis.
+
+See section: The Climate Scenarios.
+
+Metrics and targets
+
+(g) a description of the targets used by the company/LLP to manage climate-related risks and fo realise climate-related
+
+opportunities and of performance against those targets
+
+The metrics and targets remain set at a Group level.
+
+The Group has set a near term emissions reduction target to reduce absolute scopes 1 and 2 (market-based) GHG emissions by 93.5%
+
+before FY30 from a FY20 base year. The Group also committed to reduce absolute scope 3 GHG emissions by 42.0% within the same
+
+timeframe. This has been approved by the Science Based Targets initiative (SBTi).
+
+The Group made good progress in FY25. In particular, our data centres have required 5% less energy year on year as a result of our
+
+conscientious efforts. Overall, emissions did rise 37% year on year due to an unfortunate fire suppression activation which significantly
+
+increased fugitive emissions. Nevertheless, emissions are down 42% from the FY20 baseline and remain on track for the FY30 goal.
+
+(h) the key performance indicators used to assess progress against targets used to manage climate-related risks and realise
+
+: climate-related opportunities and a description of the calculations on which those key performance indicators are based
+
+Currently, the Group uses its scope 1, 2 and 3 emissions as a metric to assess its climate-related risks and opportunities. These
+
+calculations are based on the Greenhouse Gas Protocol Corporate Standard.
+
+The Climate Scenarios: :
+
+To identify and assess the risks and understand the business’ resilience to climate change, the Group developed three scenarios.
+
+These scenarios were considered qualitatively through workshops:
+
++ 1.5° (RCP1.9/SSP1-1.9/PRI IPR: 1.5°C Required Policy Scenario): Global temperatures have been limited to 1.5°C compared to
+pre-industrial levels, aligned with the aims set out in the 2015 Paris Agreement. Achieving this goal has required significant shifts in
+behaviour and policy. Although the world has avoided the worst physical impacts of climate change, there have still been substantial
+changes.
+
++ 2.0° (RCP3.4/SSP2-4.5/PRI IPR: Forecast Policy Scenario): Some action has been taken, but progress towards sustainability is
+slow and global temperatures continue to climb. CO2 emissions continue at current levels until around mid-century before beginning
+to decline. Climate change impacts are clear to see for many.
+
++ 3.0+° (RCP6.0/SSP3-7.0): Global warming has accelerated past the point of no return and economies continue with business as
+usual. Countries are in competition with each other and are focused on their own food supply and national security. Increasing
+physical impacts push the world into an uninhabitable state.
+
+The Group has chosen these three scenarios to capture the potential future risks - which explore a rapid transition, a slow transition,
+
+and one in-between that captures operating in an uncertain world. We undertook a benchmarking exercise with other companies in our
+
+industry and found that similar scenarios were used. :
+
+TalkTalk Holdings Limited Annual Report 2025 23
+
+=== page 27 ===
+Table 1: A summary of the Group’s key climate-related risks and opportunities:
+Our most significant climate-related risks and opportunities are outlined in the table below. These risks have been prioritised and rolled
+up from a long list of over 50 issues identified in our climate risk workshops. We used our Group Risk Management Framework to
+identify the most significant climate-related risks.
+
+TalkTalk Holdings Limited Annual Report 2025 24
+
+=== page 28 ===
+Net risk Time
+Type Description of risk or opportunit Financial impact rating frame?) Scenario Actions we're taking
+Increase in frequency and |* Increased costs] Minor L All, but most}We have conducted a risk
+severity of flooding causes to repair significant in} assessment of wholly
+disruption to PXC’s data infrastructure. the 3° owned and third party
+centres and own : scenario. data centres, some of
+operations. * Customer which reside on flood
+dissatisfaction plains. Risks are being
+and churn, mitigated through flood
+resulting in alert systems, leak
+decreased detection systems,
+revenues. upgrading drainage
+systems, manual flood
+packs and elevating rack
+spaces.
+Increase in frequency and |* Potential data S/M/L We have continuously
+severity of heatwaves and centre cooling monitored controls, as
+temperature causes issues (air well as full utilised and
+disruption to PXC's data conditioning reviewed of all cooling
+centres and own unable to cope) systems.
+operations. may cause
+Physical outages to our
+(acute) network
+operations.
+Increased frequency of + Indirect costs of| Moderate |L We engage closely with
+flooding events leads to network repair Openreach to understand
+disruptions in Openreach passed on to the resilience of its
+and other network us. network to climate
+providers’ networks, on change.
+which PXC depends to |" Customer
+provide its services. dissatisfaction ; We expect that our plan
+and churn, to transition to Full Fibre
+resulting in will provide some
+decreased resilience to flooding, as
+revenues. fibre-optic cables are less
+vulnerable to water
+ingress when compared
+to copper. Fibre also
+requires fewer cabinets,
+which reduces the risk of
+, damage to this part of the
+infrastructure.
+Failure to meet + Churn. Minor SM }1.5°/2° The Group has ambitious
+sustainability expectations emissions reduction
+of employees, customers |* Investment — targets in place, such as
+and investors. raising capital. our near term Science
+Transition + Employee Based Target with SBTi.
+(reputation) retention. We are also rolling out
+consumer-facing
+circularity (CPE
+refurbishment schemes)
+and packaging initiatives.
+A rapid transition to lower-|* Increased Minor S/M 41.5°/2° The Group has reduced
+emissions energy sources energy costs. energy usage by 10%
+Transition may increase our direct year on year.
+(energy energy costs, and those of The Group is reviewing
+costs) our suppliers may be to optimise furth
+passed on to us indirectly. Ways fo optimise Turtner
+energy efficiency in data
+centres.
+TalkTalk Holdings Limited Annual Report 2025 25
+J
+
+=== page 29 ===
+Net risk Time
+
+Type Description of risk or opportunity Financial impact rating frame) Scenario Actions we're taking
+
+As the information and + Increased S/M 1.5° The Group is part of a
+
+communications revenues. Government-funded
+
+technology sectoris © . innovation pilot to use
+Opportunity leveraged by other . Chportunity for telecoms data to enable
+( ae ducts and|"dustries to decarbonise, soley here households to transition
+ee ces) |W May see an increase in Policymakers. to net zero technologies.
+
+demand for bandwidth
+
+among our customers to
+
+enable smart devices for
+
+this transition.
+
+Demonstrating that the + Increased SIM |1.5° See above row:
+
+. roup is taking climate customer base. Transition (reputation).
+Opportunity SG up Is taking la e (rep )
+(reputation) action can improve its «Lower churn
+
+reputation and help t
+attract/retain customers. rate.
+(2) The time frame indicates where we estimate the impact would potentially be the greatest. The timeframe aligns with Group Risk Management Policy,
+where short term: 0-2 years; medium term: 2-5 years; and tong term: 5+ years.
+TalkTalk Holdings Limited Annual Report 2025 26
+
+=== page 30 ===
+Corporate governance
+
+Introduction
+
+The Company is the ultimate parent company for the Group. During the year, the Group carried out the Refinancing. Up until the
+completion of the Refinancing on 19 December 2024, the Board of Directors of TalkTalk Holdings (‘Holdings Board’) oversaw
+operational and corporate governance of the Group. Following completion of the Refinancing, operational governance of the Group is
+undertaken by the Board of Directors of TalkTalk Telecom Group Limited (‘Group Board’), including all day to day governance and
+ordinary course management matters of the Group.
+
+Pursuant to The Companies (Miscellaneous Reporting) Regulations 2018, for the year ended 28 February 2025, the Group Board has
+prepared this Corporate Governance Statement under the Wates Principles as our corporate governance framework. The Group Board
+has continued to build upon best practice corporate governance, appropriate to a group of our size, recognising that robust corporate
+governance practices underpin effective management of the Group, which is in the best interests of alt our stakeholders. Details on how
+we have applied the six Wates Principles for our corporate governance arrangements for the period are set out below.
+
+Principle 1 ~ Purpose and leadership
+
+Our purpose is to offer affordable and reliable fixed line connectivity across the UK to our direct customers and via our wholesale
+partners. Our strategic focus is on strengthening our next generation fibre product offering, providing excellent customer service, and
+delivering future-proof network operations with a cost base that allows us to continue to be competitive. Further details can be found on
+page 3.
+
+From 19 December 2024, the Group Board comprised Sir Charles Dunstone as Executive Chairman and shareholder representative,
+James Smith as Group Chief Executive Officer and Steven Scott as Non-Executive shareholder representative. Prior to 19 December
+2024, the Group Board comprised only Executive Directors as corporate governance responsibilities lay with the Holdings Board.
+During the year, in preparation for the new governance structure following the Refinancing, the following changes took place at the
+Group Board: Dame Tristia Harrison resigned on 31 August 2024, Steven Scott was appointed on 19 December 2024 and Paul
+O'Donnell was appointed Non-Executive Director on 30 December 2024.
+
+The Group's activities were separated into two operationally independent business units from 1 March 2024: TalkTalk, which serves our
+¢2.3 million direct residential broadband customers, and PXC which operates our national network and provides wholesale connectivity
+services to our wholesale partners (including providing network services to TalkTalk). Day to day management of the Group’s activities
+is undertaken by the leadership teams of these two business units, which reported to the Holdings Board until 19 December 2024 and
+then to the Group Board after that date. PXC was led by Tom O’Hagan as Chief Executive Officer until his appointment as Executive
+Chairman on 1 September 2024, at which point James Smith assumed the role of Chief Executive Officer of PXC (in addition to his role
+as Group CEO). Effective from 1 October 2024, Brian Lochead was appointed as Interim Chief Financial Officer of PXC with additional
+responsibility for Group consolidation and financial reporting. TalkTalk is led by Susie Buckridge as Chief Executive Officer supported
+by {an Pettman as Chief Financial Officer.
+
+Non-Executive Directors were not part of the executive management teams mentioned above but were members of the Holdings Board
+up until 19 December 2024, and of the Group Board following that date. Non-Executive Directors’ responsibilities included constructive
+challenge and assistance in developing proposals on strategy, scrutiny of management's performance in meeting agreed goals and
+objectives, satisfying themselves on the integrity of financial information, and ensuring that controls and risk management systems were
+robust and defensible.
+
+The Boards maintained an open line of communication with stakeholders throughout the year. Further detail on how the Boards
+engaged with stakeholders and discharged their duties under Section 172 of the Companies Act can be found in the Strategic Report
+on pages 14 to 17.
+
+In addition to the above, the Boards and each of the leadership teams also communicated with their employees via OneVoice.
+OneVoice is an employee forum used by PXC and TalkTalk, where a group of colleagues from every area of each business meets
+regularly to give feedback on major projects and business initiatives, with the aim to be the voice of our colleagues: to challenge,
+represent, help, inform and play a key part in making TalkTalk and PXC great places to work.
+
+The Boards received a people update from each business in Board papers, which had a focus on culture, including employee NPS and
+other people survey results. The concerns, views and needs of our employees were regularly collated via employee engagement
+surveys. The Group Board regularly discussed these people updates and took them into consideration when making decisions.
+
+The Group operated a whistleblowing service, provided by Navex Global, with details available to all colleagues on the Group’s intranet.
+The service provided a confidential phone and web-based channel for colleagues to report any incident or activity which they believed
+should be raised.
+
+The Holdings Board has reserved certain matters requiring Holdings Board and/or ultimate shareholder consent, including approving
+the Holdings Group's strategy, annual budgets and other planning. From 19 December 2024, the Holdings Board Directors were Sir
+Charles Dunstone (Chairman), James Smith, Steven Scott, Martin Hughes and Michael Batty.
+
+During the year, in preparation for the new governance structure following Refinancing, the following changes took place at the
+Holdings Board: Dame Tristia Harrison and Paul Reynolds resigned on 31 August 2024, Torquil MacNaughton resigned on 21 October
+2024, and Roger Taylor resigned and Michael Batty was appointed on 19 December 2024.
+
+Principle 2 - Board composition
+
+The Holdings Board and Group Board are led by our Chairman, who is responsible for the effective running of the Boards and overall
+effectiveness in directing the Group. Our Chairman worked closely with the Group General Counsel and Company Secretary and wider
+TalkTalk Holdings Limited Annual Report 2025 27
+
+=== page 31 ===
+tegal teams to ensure all Directors had appropriate information for each Board meeting and sufficient time was allocated for meaningful
+and constructive discussions.
+When taking into account appointments, the Holdings Board and the Group Board understood the importance of having a diverse
+membership and recognised that diversity encompasses diversity of skills and experience, age, gender, disability, sexual orientation,
+ethnicity, cultural background and belief.
+We are committed to further improving the diversity of our Boards as opportunities arise, within the constraints of the constitutional
+arrangements for the Company (which provide that certain shareholders have rights to appoint Board members as their
+representatives, so the Holdings Board has no control over such appointments) and for the Group (which provide that certain
+shareholders and other stakeholders have rights to appoint Board members or nominate candidates, and which limit the total number of
+Board members).
+The Group's Equality Policy applies equally to all Board appointments, and the Boards continue to believe that appointments should be
+made on merit, the key criterion being whether or not the appointee would add value to or complement the existing range of skills and
+experience on the Board. Enhancing diversity at all levels is important and this is reviewed annually in accordance with relevant
+guidance. Further detail on the Group's Equality Policy, its objectives and link to the Group strategy, and the gender balance of those in
+the executive leadership teams/senior management, and their direct reports, can be found in the Strategic Report (page 19).
+There was a clear division of responsibilities in place between the Chairman and the Group CEO to ensure that the balance of
+responsibilities, accountabilities and decision making across the Group was effectively maintained. The composition and size of the
+Boards were considered to be appropriate with all members contributing to a wide variety of experience.
+Principle 3 — Director responsibilities
+The Directors understood their accountability and responsibilities and worked with the leadership teams of PXC and TalkTalk to ensure
+that the Group's policies and practices supported effective decision making to deliver long term value.
+Nine scheduled Holdings Board meetings were held during the period, and two Group Board meetings were held. Each of the two
+Boards met at other times as appropriate for specific matters, such as the Refinancing, including on any matters requiring shareholder
+approval.
+Table of attendance at scheduled meetings during the year ended 28 February 2025:
+Holdings Board
+Total number of meetings 9
+Director Role Attendance
+Sir Charles Dunstone®) Chairman 9/9
+Tristia Harrison‘). (9) Chief Executive Officer 4/4
+James Smith(). (9) Chief Financial Officer 9/9
+Roger Taylor) Non-Executive Director 6/7
+Paul Reynolds(4) Non-Executive Director 2/4
+
+_  Torquil Macnaughton(s) Non-Executive Director 6/6
+Steven Scott(é). (9) Non-Executive Director 7I9
+Martin Hughes!”) Non-Executive Director 5/9
+Michael Batty’®) Non-Executive Director 2/2
+(1) Tristia Harrison resigned from the Holdings Board on 31 August 2024.
+(2) James Smith was appointed as Chief Executive Officer of PXC and Group Chief Executive Officer of the Group on 1 September 2024.
+(3) Roger Taylor was absent from the June Hotdings Board meeting due to a prior meeting arranged and resigned from the Holdings Board on 19 December 2024.
+(4) Paul Reynolds was absent from the March and June Holdings Board meetings due to prior meetings arranged and resigned from the Holdings Board on 31 August 2024.
+(5) Torquil Macnaughton resigned from the Holdings Board on 21 October 2024.
+(6} Steven Scott was absent from the June and July Holdings Board meeting due to prior meetings arranged.
+(7) Martin Hughes was absent from the April, September, October and December Holdings Board meetings due to prior meetings arranged.
+(8) Michael Batty was appointed to the Holdings Board on 19 December 2024.
+(9) Also a Director of the Group Board.
+Group Board
+Total number of meetings 2
+Director Re Attendance
+Sir Charles Dunstone!) Chairman 212
+James Smith(?? Group Chief Executive Officer 2/2
+Steven Scott”) Non-Executive Director 2/2
+Paul O'Donnell independent Non-Executive Director 2/2
+(1) Also a Director of the Holdings Board.
+It was important to the Boards that Non-Executive Directors had the ability to influence and challenge appropriately. To this end, all
+Non-Executive Directors took part in Board discussions and received papers to review in advance of meetings.
+The Boards were supported by the Group Genera! Counsel, Company Secretary and wider legal teams, which provided advice on
+corporate governance matters as well as providing legal advice, updates on new laws and regulations and other information appropriate
+TalkTalk Holdings Limited Annual Report 2025 28
+
+=== page 32 ===
+to the Group to ensure that all Directors continually updated their skills, knowledge and familiarity of the Group in order to fulfil their
+roles.
+
+The Group General Counsel, Company Secretary and wider legal teams maintained a register of Directors’ interests and extemal
+appointments, which included any situational and transactional conflicts of interest. Directors were required to report actual or potential
+conflicts of interest to the Boards for consideration and, if appropriate, authorisation.
+
+To safeguard the auditor's objectivity and independence, the Group operated a strict policy where the external auditor was limited as to
+any non-audit work it could carry out for any member of the Group. The ratio of non-audit fees to audit fees was monitored by the
+Holdings Board. Any work with charges in excess of £100,000 was referred to the Holdings Board.
+
+Board Committees .
+
+Audit and remuneration functions ran principally through the Holdings Board unti! 19 December 2024 and the Group Board thereafter,
+with all Directors being involved. In addition, the Holdings Board set up certain other sub-committees to deal with other areas of the
+business, where required. .
+
+Principle 4 — Opportunity and risk
+
+Strategic opportunities were highlighted and assessed for Board approval as they arose, with shorter term opportunities to improve
+performance reviewed during the normal course of business.
+
+The Boards viewed management of risk as integral to good business practice. The Group had established an ongoing risk management
+programme to identify, assess and mitigate business, financial, operational and compliance risks. The programme was designed to
+support management's decision making and to improve the reliability of business performance. The risk management process operated
+throughout the Group, being applied equally to the main businesses and corporate functions.
+
+The nature of risks identified and assessed was wide-ranging, covering risks arising from the regulatory environment, strategy,
+financial, counterparties and organisational change associated with major projects. Action plans and controls to mitigate identified risks
+were put in place where possible and, if considered appropriate by the Boards, took account of costs and benefits. Reports were
+provided to the Directors at relevant Board meetings setting out key risks, changes in the status of the key risks and updates on
+mitigation.
+
+The Directors had overall responsibility for the Group's systems of internal controls and for reviewing their effectiveness. The Holdings
+Board delegated to the leadership teams the responsibility for designing, operating and monitoring these systems. The systems were
+based on a process of identifying, evaluating and managing key risks and included the risk management processes set out above and
+channels to enable employees to raise concems about possible irregularities in financial reporting and other issues, and associated
+processes for those matters to be investigated. Further details are contained in the Strategic Report on pages 14 to 18.
+
+The systems of internal control were supported by the respective internal audit and risk functions. Any significant risks identified in the
+period were given appropriate priority.
+
+The systems of Internal control were designed to manage, rather than eliminate, the risk of failure to achieve business objectives. They
+could only provide reasonable and not absolute assurance against material errors, losses, fraud or breaches of law and regulations.
+The Boards continued to ensure that the Group’s culture and ways of working further embedded information security risk management
+across the businesses.
+
+Principle 5 —- Remuneration
+
+Up until 19 December 2024, the Holdings Board and following that the Group Board were responsible for and approved the
+remuneration of the Group Chief Executive Officer and other senior executives in the Group and for the overall remuneration policy of
+Group employees. Fixed remuneration throughout the organisation is guided by Willis Towers Watson benchmark data to ensure
+fairness and marketplace alignment. Variable pay is approved by the Group Board and is determined by the key performance indicators
+that drive financial performance. The appointment and remuneration of the Directors are amongst the matters reserved for the relevant
+Boards. The Group pays all employees the real living wage and other relevant metrics reported to the Group Board annually include our
+gender pay gap, pay review benchmarking and equal pay review outcomes.
+
+Principle 6 — Shareholder relationships and engagement
+
+The Group Board is committed to stakeholder engagement and the Directors take their responsibilities and duty to them under Section
+172 seriously. You can read more about the approach to stakeholder engagement in our Section 172 Statement in the Strategic Report
+on pages 14 to 18.
+
+TalkTalk Holdings Limited Annual Report 2025 29
+
+=== page 33 ===
+° ’
+
+Directors’ report
+
+Reporting requirements
+
+The Group is required to produce a Strategic Report complying with the requirements of Section 414A of the Companies Act. The
+
+Group has complied with this requirement and incorporates a detailed review of the Group's activities, business performance and
+
+developments during the year in a way that is fair, balanced and understandable and gives an indication of likely future developments
+
+on pages 1 to 27. The Group has complied with the requirements of Section 414C of the Companies Act by including certain non-
+financial information within the Strategic Report. This can be found as follows:
+
+* our business model is on page 2;
+
+* information regarding the following matters, including policies, the process implemented in pursuance of the policies and outcomes
+of those policies, can be found on the following pages:
+
+- environmental matters on page 20;
+
+- employees on pages 19 and 20;
+
+- social matters on page 20;
+
+- anti-corruption and anti-bribery matters on page 20; and
+- human rights and modern slavery on page 20;
+
+* where principal risks have been identified in relation to any of the matters listed above, these can be found on pages 11 to 13,
+including a description of the business relationships, products and services which are likely to cause adverse impacts in those areas
+of risk, and a description of how the principal risks are managed;
+
+* key performance indicators of the Group, including non-financial indicators, are on page 10; and
+
++ the Business and Financial Review (pages 5 to 9) includes, where appropriate, references to, and additional explanations of,
+amounts included in the Group's financial statements.
+
+Suppliers’ payment policy
+
+it is the Group’s policy to develop and maintain key commercial relationships with its suppliers. The average credit taken on trade
+
+payables was 75 days in FY25 (FY24 restated: 85 days). Further detail on engagement with suppliers can be found in the Strategic
+
+Report on page 15.
+
+Relationships with customers
+
+Further detail on our engagement with our customers can be found in the Strategic Report on page 14.
+
+Capital structure
+
+The rights and obligations relating to the Company's shares are set out in the Articles of Association. The Articles of Association can be
+
+requested from the legal team at the Company’s registered office. There is a general right of the Company to purchase its own shares,
+
+as set out in Article 17 of the Company's Articles of Association. The Articles of Association may be changed by special resolution.
+
+Details in the movements in authorised and issued share capital during the year are provided in note 20 to the consolidated financial
+
+statements. .
+
+Going concern
+
+The Directors are required to satisfy themselves that it is reasonable for them to conclude that it is appropriate to prepare the financial
+
+statements on a going concern basis. The going concern assessment has considered the Group's current committed financing facilities
+
+and liquidity management over the going concern periad (twelve months from the date of signing these accounts).
+
+The key factors considered by the Directors in making the assessment of going concem are:
+
+* the Group's budget and business plan for the going concern period;
+
+* the Group's requirements to comply with certain minimum liquidity covenants under the terms of its financing agreements;
+
+* execution of planned initiatives to enhance the Group's liquidity during the going concern period, including the expected sate of
+certain non-core assets;
+
+* continued constructive engagement with key suppliers to the Group regarding supplier terms and the agreement of payment
+schedules;
+
+* continued operating and capital cost reductions across the Group’s businesses in line with programmes that have been under
+implementation over the last twelve months; and ;
+
+* the continued support of the Group's key financial stakeholders, including its shareholders and secured creditors, with regard to
+optimising the Group’s liquidity profile.
+
+In considering the above factors in making their going concem assessment, the Directors have also taken into account the following key
+
+risks:
+
+* the potential for breach of minimum liquidity covenants or a liquidity shortfall in the event that necessary supplier terms or payment
+schedules cannot be agreed;
+
+TalkTalk Holdings Limited Annual Report 2025 30
+
+=== page 34 ===
+«the impact on liquidity of the Group incurring higher costs or failing to reduce costs as rapidly as it plans to or adverse trading trends
+during the going concern period; and
+
+* the Group's ability to fund the first cash interest payment under its first lien facilities due in May 2026, in the absence of sufficient
+liquidity enhancing initiatives being concluded in advance and if the above risks to liquidity materialise.
+
+The Directors have further given due consideration to the mitigating actions that could be undertaken to counteract the effects of the
+
+above risks, including:
+
+* near term reductions in capital expenditure and/or spend on new customer acquisition;
+
+* assessing further opportunities for non-core asset disposals;
+
+* continued engagement with the Group’s secured lenders regarding amendments to covenants under the Group's financing
+agreements where necessary to enhance liquidity; and
+
+* engagement with the Group’s financial stakeholders, including its shareholders and lenders, regarding working capital support for
+the Group.
+
+The risks set out above represent a material uncertainty that would cast significant doubt upon the Group's ability to continue as a going
+
+concern such that it could be unable to realise its assets and discharge its liabilities in the normal course of business.
+
+However, having assessed the mitigating actions available and as a result of continued constructive engagement with the Group’s
+
+financial stakeholders regarding their ongoing support for the Group, the Directors have a reasonable expectation that the Group will
+
+have sufficient resources to continue its operations for the foreseeable future, and accordingly they continue to adopt the going concern
+
+basis in preparing these financial statements.
+
+Borrowings and financial instruments
+
+The disclosures required in relation to the use of financial instruments by the Group, including the financial risk management objectives
+
+and policies (including in relation to hedging), specific quantitative information on borrowings and financial instruments, and the
+
+exposure to foreign exchange risk, interest rate risk, liquidity risk and credit risk, can be found in note 18 to the consolidated financial
+
+statements and the Principal Risks and Uncertainties section of the Strategic Report on pages 11 to 13, which are incorporated by
+
+reference into this report.
+
+Research and development
+
+Information on research and development spend is disclosed in note 7 on page 57.
+
+Board
+
+The Board is outlined within the Corporate Governance Report on pages 25 to 27.
+
+Results and dividends
+
+The Group's results and dividends for the year ended 28 February 2025 are set out in the Consolidated income statement on page 37.
+
+The Board remains committed to improving profitability and cash generation and reducing leverage. No dividend was declared and paid
+
+for the year ended 28 February 2025.
+
+Directors’ indemnities
+
+Directors’ liability insurance is provided for Directors.
+
+Greenhouse gas emissions reporting
+
+Details of the Group's greenhouse emissions can be found in the Protecting Our Environment section on pages 20 and 21.
+
+Charitable donations
+
+The Group continues to support a variety of different causes including Ambitious About Autism, local foodbanks and inspiring girls into
+
+tech initiatives.
+
+Political donations
+
+There have been no political donations during the year (FY24: Enil).
+
+Employees
+
+Details of the Group's policy with respect to equal opportunities, diversity and inclusivity can be found on pages 19 and 20 of the
+
+Strategic Report. Details of how the Directors have engaged with employees and how the Directors have had regard to employee
+
+interests can be found on page 15 of the Strategic Report.
+
+Audit information ,
+
+Each of the persons who is a Director at the date of approval of this Annual Report confirms that:
+
+* so far as the Director is aware, there is no relevant audit information of which the Company's auditor is unaware; and
+
+* the Director has taken all the steps that he/she ought to have taken as a Director in order to make himself/herself aware of any
+relevant audit information and to establish that the Company’s auditor is aware of the information.
+
+This confirmation is given and should be interpreted in accordance with the provisions of Section 418 of the Companies Act. Approved
+
+and authorised for issue and signed on its behalf by:
+
+TalkTalk Holdings Limited Annual Report 2025 34
+
+=== page 35 ===
+‘Signed by:
+
+ea
+(ist
+James Smith
+Group Chief Executive Officer
+TalkTalk Telecom Group Limited
+Soapworks, Ordsall Lane, Salford :
+United Kingdom M5 3TT
+14 July 2025
+TalkTalk Holdings Limited Annual Report 2025 32
+
+=== page 36 ===
+Directors’ responsibility statement
+
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and
+
+regulations. Company law requires the Directors to prepare Group and company financial statements for each financial year. The
+
+Directors have elected under company law to prepare the Group financial statements in accordance with UK-adopted International
+
+Accounting Standards and to prepare the Parent Company financial statements in accordance with UK Generally Accepted Accounting
+
+Practice (‘UK Accounting Standards’), including FRS 101 ‘Reduced Disclosure Framework’ and applicable law.
+
+The Group financial statements are required by law and UK-adopted International Accounting Standards to present fairly the financial
+
+position and performance of the Group. The Companies Act provides in relation to such financial statements that references in the
+
+relevant part of that Act to financial statements giving a true and fair view are references to their achieving a fair presentation.
+
+Under company law, the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view
+
+of the state of affairs of the Group and the Company and of the profit or loss of the Group for that period.
+
+In preparing the Group and Company financial statements, the Directors are required to:
+
+* select suitable accounting policies and then apply them consistently;
+
+* make judgements and accounting estimates that are reasonable and prudent;
+
+* for the Group financial statements, state whether they have been prepared in accordance with UK-adopted International Accounting
+Standards;
+
+* for the Company financial statements, state whether applicable UK Accounting Standards have been followed, subject to any
+material departures disclosed and explained in the Company financial statements, and
+
+* prepare the financial statements on a going concern basis unless it is inappropriate to presume that the Company will continue in
+business.
+
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Group and
+
+Company's transactions and disclose with reasonable accuracy at any time the financial position of the Group and Company and
+
+enable them to ensure that the financial statements comply with the requirements of the Companies Act. They are also responsible for
+
+Safeguarding the assets of the Group and Company and hence for taking reasonable steps for the prevention and detection of fraud
+
+and other irregularities.
+
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the Company’s
+
+website. Legislation in the UK governing the preparation and dissemination of financial statements may differ from tegistation in other
+
+jurisdictions. -
+‘Signed by: .
+
+(ds
+TS58CBASBABCD4EB...
+
+James Smith
+
+Group Chief Executive Officer
+
+14 July 2025
+
+TalkTalk Holdings Limited Annual Report 2025 33
+
+=== page 37 ===
+. 2
+Independent auditor’s report
+To the members of TalkTalk Holdings Limited
+Opinion
+We have audited the financial statements of TalkTalk Holdings Limited (the ‘parent company’) and its subsidiaries (the ‘group’) for the
+year ended 28 February 2025 which comprise the Consolidated income statement, the Company and Consolidated balance sheets, the
+Consolidated cash flow statement, the Company and Consolidated statements of changes in equity and notes to the financial
+statements, including significant accounting policies. The financial reporting framework that has been applied in the preparation of the
+group financial statements is applicable law and UK-adopted International Accounting Standards. The financial reporting framework that
+has been applied in the preparation of the parent company financial statements is applicabie law and United Kingdom Accounting
+Standards including FRS 101 “Reduced Disclosure Framework” (United Kingdom Generally Accepted Accounting Practice).
+In our opinion:
+«the financial statements give a true and fair view of the state of the group’s and of the parent company's affairs as at 28 February
+2025 and of the group's loss for the year then ended;
++ the group financial statements have been properly prepared in accordance with UK-adopted International Accounting Standards;
++ the parent company financial statements have been properly prepared in accordance with United Kingdom Generally Accepted
+Accounting Practice; and
++ the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+. Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our
+responsibilities under those standards are further described in the Auditor's responsibilities for the audit of the financial statements
+section of our report. We are independent of the group and parent company in accordance with the ethical requirements that are
+relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our opinion.
+Material Uncertainty Retated to Going Concern
+We draw attention to Note 1 in the financial statements which indicates there are risks relating to potential breaches of financial
+covenants and shortfalls in liquidity during the period that would require waiving and / or additional funding. As stated in Note 1 on going
+concern, these events or conditions indicate that a material uncertainty exists which may cast significant doubt on the group and parent
+company's ability to continue as a going concern. Our opinion is not modified in respect of this matter.
+In auditing the financial statements, we have concluded that the directors’ use of the going concem basis of preparation of the financial
+statements is appropriate.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this
+report.
+Other information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor's
+report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the financial
+statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express
+any form of assurance conclusion thereon. .
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with
+the financial statements or our knowledge obtained in the course of the audit or otherwise appears to be materially misstated. If we
+identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a
+material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a
+material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard. -
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+* the information given in the strategic report and the directors’ report for the financial year for which the financial statements are
+prepared is consistent with the financial statements; and
++ the strategic report and the directors’ report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the group and the parent company and their environment obtained in the course of
+the audit, we have not identified material misstatements in the strategic report or the directors’ report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if,
+in our opinion:
+TalkTalk Holdings Limited Annual Report 2025 34
+
+=== page 38 ===
+* adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received
+from branches not visited by us; or
+
++ the parent company financial statements are not in agreement with the accounting records and returns; or
+
+* certain disclosures of directors’ remuneration specified by law are not made; or
+
++ we have not received all the information and expianations we require for our audit.
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement set out on page 30, the directors are responsible for the preparation
+
+of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors
+
+determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud
+
+or error.
+
+In preparing the financial statements, the directors are responsible for assessing the group's and the parent company's ability to
+
+continue as a going concern, disclosing, as applicable, matters retated to going concern and using the going concer basis of
+
+accounting unless the directors either intend to liquidate the group or the parent company or to cease operations, or have no realistic
+
+alternative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material
+
+misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high
+
+level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material ©
+
+misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+
+they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+The extent to which the audit was considered capable of detecting irregularities, including fraud
+
+Irregularities are instances of non-compliance with laws and regulations. The objectives of our audit are to obtain sufficient appropriate
+
+audit evidence regarding compliance with laws and regulations that have a direct effect on the determination of material amounts and
+
+disclosures in the financial statements, to perform audit procedures to help identify instances of non-compliance with other laws and
+
+regulations that may have a material effect on the financial statements, and to respond appropriately to identified or suspected non-
+
+compliance with laws and regulations identified during the audit.
+
+In relation to fraud, the objectives of our audit are to identify and assess the risk of material misstatement of the financial statements
+
+due to fraud, to obtain sufficient appropriate audit evidence regarding the assessed risks of material misstatement due to fraud through
+
+designing and implementing appropriate responses and to respond appropriately to fraud or suspected fraud identified during the audit.
+
+However, it is the primary responsibility of management, with the oversight of those charged with governance, to ensure that the entity's
+
+operations are conducted in accordance with the provisions of laws and regulations and for the prevention and detection of fraud.
+
+In identifying and assessing risks of material misstatement in respect of irregularities, including fraud, the group audit engagement
+
+team:
+
+* obtained an understanding of the nature of the industry and sector, including the legal and regulatory frameworks that the group and
+parent company operate in and how the group and parent company are complying with the legal and regulatory frameworks;
+
++ inquired of management, and those charged with governance, about their own identification and assessment of the risks of
+irregularities, including any known actual, suspected or alleged instances of fraud; and
+
++ discussed matters about non-compliance with laws and regulations and how fraud might occur including assessment of how and
+where the financial statements may be susceptible to fraud.
+
+As a result of these procedures we consider the most significant laws and regulations were determined as follows:
+
+Legislation / Regulation Additional audit procedures performed by the Group audit engagement team included:
+
+UK-adopted IAS, FRS101 Review of the financial statement disclosures and testing to supporting documentation. .
+
+and Companies Act 2006 Completion of disclosure checklists to identify areas of non-compliance.
+
+Communications Act 2003Reading of minutes of meetings of those charged with governance and the compliance
+
+(Ofcom) committee and inquiry of management.
+
+The areas that we identified as being susceptible to material misstatement due to fraud were:
+
+TalkTalk Holdings Limited Annual Report 2025 35
+
+=== page 39 ===
+Risk Audit procedures performed by the Group audit engagement team:
+Revenue recognition Assessing the Group's accounting policies to confirm that they aligned with the requirements
+of IFRS 15. .
+Reviewing a sample of contracts to ensure that the key terms had been appropriately
+reflected in the revenue recognition policy.
+Understanding the key applications and billing systems that underpin the revenue cycle and
+evaluating the design and implementation of key controls.
+Utilising data analytics tools to analyse 100% of transactions recorded in revenue to identify
+any which were outside of the normal revenue cycle and then testing a sample of these
+higher risk transactions. We reconciled the data used in this analysis to the underlying billing
+system data.
+Confirming that the IFRS 15 revenue adjustments had been applied consistently with the
+accounting policy. We tested the integrity of the historical churn data used to estimate the
+average customer life which is applied as the amortisation period for contract costs and the
+unwind period for contract liabilities.
+Management override of Identifying and testing a sample of journals which exhibited higher characteristics of risk using
+controls data analytics software.
+Assessing whether the judgements made in making accounting estimates are indicative of a
+potential bias.
+Evaluating the business rationale of any significant transactions that are unusual or outside
+the normal course of business.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's
+website at: http:/Awww.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the company's members those matters we are required to state to them
+in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to
+anyone other than the company and the company’s members as a body, for our audit work, for this report, or for the opinions we have
+formed.
+Shaved ov:
+[ism Ub dudt UP
+BABOSZZDTRAALB?..
+Andrew Williams (Senior Statutory Auditor)
+For and on behalf of RSM UK Audit LLP, Statutory Auditor
+Chartered Accountants
+Landmark
+St Peter’s Square
+1 Oxford Street
+Manchester
+M1 4PB
+14 July 2025
+TalkTalk Holdings Limited Annual Report 2025 36
+
+=== page 40 ===
+TalkTalk Holdings Limited
+Consolidated income statement
+For the year ended 28 February 2025
+Year ended 28 February 2025 Year ended 29 February 2024 (restated)("”
+Headline) Non-headline™ Statutory Headline!) Non-headline®) Statutory
+
+Notes £m £m im £m £m £m
+Revenue 2 4,412 _ 1,412 1,518 _ 1,518
+Cost of sales (720) _ (720) (772) = (772)
+Gross profit 692 _- 692 746 _— 746
+Other Income _ 22 22 _ 44 44
+Operating expenses(*) (431) (296) (727) (510) (100) (610)
+Gain on disposal!) _ _ — _ 25 25
+EBITDA®) 261 (274) (13) 236 (31) 205
+Depreciation and amortisation 2 (264) _ (264) (258) _ (258)
+Share of results of joint
+ventures and associates 10 (5) _— (5) (2) = (2)
+Operating loss 2 (8) (274) (282) (24) (31) (55)
+Net finance costs 4 (272) (53) (325) (212) (9) (221)
+Loss before taxation (280) (327) (607) (236) (40) (276)
+Taxation 5 (1) _ (1) (10) 8 (2)
+Loss for the year (281) (327) (608) (246) (32) (278)
+Attributable to:
+Owners of the Company (281) (327) (608) (246) (32) (278)
+Non-controlling interest = = = = = _
+(1) See Note 1 for further details on the restatement of prior year.
+(2) Operating expenses includes £22m (FY24: £28m) of credit losses on financial assets. For further details see note 13.
+(3) See note 1 for an explanation of APMs and non-headline items. See note 6 for a reconciliation of statutory information to headline information.
+{4} 2024 statutory EBITDA includes a £25m gain on the disposal of TTBD. For further detaits see note 9.
+There is no other comprehensive income or expenses recognised in either year other than shown in the income statement;
+consequently, no separate statement of comprehensive income has been presented.
+The accompanying notes 1 to 25 are an integral part of this consolidated income statement. All amounts relate to continuing operations.
+TalkTalk Holdings Limited Annual Report 2025 37
+
+=== page 41 ===
+TalkTalk Holdings Limited
+Consolidated balance sheet
+Company number: 12903683
+As at 28 February 2025
+29 February
+28 February 2024
+2025 (restated)
+Notes =m £m
+Non-current assets
+Goodwill 7 319 496
+Other intangible assets 7 233 263
+Property, plant and equipment 8 909 962
+. — Investment in joint ventures and associates 10 _ _—
+Trade and other receivables 13 1 3
+Contract costs 14 384 415
+1,856 2,139
+Current assets
+Inventories 12 — 25
+Trade and other receivables 13 190 217
+Contract assets 14 7 22
+Cash and cash equivalents 16 67 93
+264 357
+Assets classified as held for sale 17 20 =
+Total assets 2,140 2,496
+Current liabilities
+Trade and other payables 15 (641) (694)
+Corporation tax payable (5) (2)
+Contract liabilities 14 (23) (36)
+Lease liabilities . 11, 16 (130) (131)
+Borrowings 16 _ (1,014)
+Provisions 19 (9) (23)
+(808) (1,900)
+Non-current liabilities ~
+Trade & other payables 16 — ~
+Borrowings 16 (1,880) (508)
+‘ Lease liabilities 11,16 (630) (669)
+Provisions 19 (16) (7)
+(2,526) (1,184)
+Liabilities classified as held for sale 17 — =
+Totai liabilities (3,334) (3,084)
+Net (liabilities) (1,194) (588)
+Equity
+Share capital 20 8 8
+Share premium 21 “4173 173
+Translation reserve 21 (64) (64)
+Merger reserve 21 (320) (320)
+Retained losses and other reserves 21 (992) (386)
+Equity attributable to the owners of the Company (1,195) (589)
+Non-controlling interest (note 9) 1 1
+Total equity/(deficit) (1,194) 588)
+(1) .See note 1 for further details on the restatement of prior year.
+The accompanying notes 1 to 25 are an integral part of this consolidated balance sheet. These financial statements were approved and
+authorised for issue by the Board on 14 July 2025. They were signed on its behalf by:
+‘Signed by:
+TSACBADBABCD48B...
+James Smith
+Group Chief Executive Officer
+TalkTalk Holdings Limited Annual Report 2025 38
+
+=== page 42 ===
+TalkTalk Holdings Limited
+Consolidated cash flow statement
+For the year ended 28 February 2025
+Year ended
+Yearended 29 February
+28 February 2024
+2025 (restated)
+Notes £m £m ’
+Operating activities ns
+Operating loss {282) (55)
+Share based payments 3 3 4
+Depreciation of property, plant and equipment 8 206 196
+Amortisation of other operating intangible assets 7 58 62
+Share of losses of joint ventures and associates 10 5 2
+Impairment of Intangible assets 7 22 —
+Non-headline items — Impairment of goodwill 6,7 177 —
+Non-headline items — Gain on disposal 6,9 _ (25)
+Non-headline items — Impairment of contract assets 6, 14 _- 24
+Non-headline items — fair value adjustment relating to assets held for sale 17 1 _
+(Decrease)/increase in provisions (5) 1
+Operating cash flows before movements in working capita! 185 219
+Decrease/(increase) in trade and other receivables 24 (56)
+Decrease in contract assets 46 34
+Decrease/(increase) in inventories 13 (3)
+(Decrease)/increase in trade and other payables (94) 20
+(Decrease)/increase in contract liabilities (14) 12
+Cash flows generated from operating activities 160 226
+Income taxes paid = _
+Net cash inflows generated from operating activities 160 226
+Investing activities
+Investment in joint ventures and associates (5) (2)
+Payment of deferred consideration on acquisitions (13) (8)
+Disposal of TTBD 9 _ 95
+Investment in intangible assets (65) (88)
+Investment in property, plant and equipment (36) (45)
+Cash flows used in investing activities (119) (48)
+Financing activities
+Repayments of obligations under leases (139) (127)
+Repayments of borrowings (253) (11)
+Drawdown of borrowings 492 189
+Interest paid on borrowings (57) (65)
+Interest paid in respect of lease obligations (72) (69)
+Other finance costs (38) (13)
+Cash flows used in financing activities (67) (96)
+Net (decrease)/increase in cash and cash equivalents (26) 82 :
+Cash and cash equivalents at the start of the year 93 1
+Cash and cash equivalents at the end of the year 16 67 93
+(1) See note 1 for further details on the restatement of prior year.
+The accompanying notes 1 to 25 are an integral part of this consolidated cash flow statement.
+RSM UK Audit LLP
+‘Signed by:
+[Fst Ue alt Up
+‘B480922D76AA487... .
+14-Jul-25 | 21:26 BST ;
+TalkTalk Holdings Limited Annual Report 2025 39
+
+=== page 43 ===
+Consolidated statement of changes in equity
+For the year ended 28 February 2025
+Retained
+Translatio losses Attributable
+Share Share n Merger and other to the owners Non-controlling Total
+capital premium reserve reserve reserves _ of the parent interest equity
+Notes £m £m. £m £m £m £m £m £m
+
+At 28 February 2023 8 173 (64) (320) (111) (314) 1 (313)
+Impact of prior year adjustment = = = = (1) (4) = ()
+At 28 February 2023
+(restated)(") 8 173 (64) (320) (112) (315) 1 (314)
+Loss for the year (restated)") = = = = (278) (278) —_ (278)
+Total comprehensive expense _ _ = =_ (278) (278) = (278)
+Transactions with the owners
+of the Company .
+Share-based payments 3 = = _ _ 4 4 = 4
+Totai transactions with owners
+of the Company _ _ = = 4 4 = 4
+At 29 February 2024
+(restated)() 8 173 (64) (320) (386) (589) 1 (588)
+Loss for the year _ _ -_ _ (608) (608) — (608)
+Total comprehensive expense _ _ = _ (608) (608) —__ (608)
+Transactions with the owners
+of the Company
+Share-based payments 3 = — — — 2 2 = 2
+Total transactions with the
+owners of the Company = = _ _ 2 2 = 2
+At 28 February 2025 8 173 (64) (320) (992) (1,195) 1_(1,194)
+(1) See note 1 for further details on the restatement of prior year.
+The accompanying notes 1 to 25 are an integral part of this consolidated statement of changes in equity.
+TalkTalk Holdings Limited Annual Report 2025 40
+
+=== page 44 ===
+Notes to the consolidated financial statements
+1. Accounting policies and basis of preparation
+Basis of preparation
+TalkTalk Holdings Limited, a private company limited by shares, is incorporated and domiciled in England and Wales under the
+Companies Act 2006. The registered office of the Company is Soapworks, Ordsall Lane, Salford, United Kingdom M5 3TT. The
+principal activities of the Group are the provision of telecommunication services to Consumer and B2B customers. TalkTalk Holdings
+Limited is owned by a number of private equity investors, none of which has a majority shareholding.
+
+: The consolidated financial statements have been prepared in accordance with UK-adopted International Accounting Standards and the
+Companies Act 2006.
+The consolidated financial statements have been prepared on the historical cost basis, except for the revaluation of certain financial
+instruments and investments. The consolidated financial statements are presented in Sterling, rounded to the nearest million (unless
+otherwise stated), because that is the currency of the principal economic environment in which the Group operates.
+Basis of consolidation
+The consolidated financial statements incorporate the financial statements of the Company, entities controlled by the Company (its
+subsidiaries) and entities which are joint ventures or associates which are accounted for using the equity method up to 28 February
+2025 in the current year and for the previous year to 29 February 2024.
+Control is achieved where the Company:
++ has the power over the investee;
+* is exposed, or has rights, to variable retums from its involvement with the investee; and
+* has the ability to use its power to affect its returns.
+The Company reassesses whether it controls an investee if facts and circumstances indicate that there are changes to one or more of
+the three elements of control listed above.
+Consolidation of a subsidiary begins when the Company obtains control over the subsidiary and ceases when the Company loses
+control of the subsidiary. Specifically, the results of subsidiaries acquired or disposed of during the year are included in profit or loss
+from the date the Company gains control until the date when the Company ceases to control the subsidiary.
+Where necessary, adjustments are made to the financial statements of subsidiaries and joint ventures to bring the accounting policies
+used in line with the Group’s accounting policies.
+All intragroup assets and liabilities, equity, income, expenses and cash flows relating to transactions between the members of the
+Group are eliminated on consolidation.
+When the Group loses control of a subsidiary, the gain or loss on disposal recognised in profit or loss is calculated as the difference
+between (i) the aggregate of the fair value of the consideration received and the fair value of any retained interest and (ii) the previous
+carrying amount of the assets (including goodwill), less liabilities of the subsidiary and any non-controlling interests or amounts
+previously recognised in other comprehensive income in relation to that subsidiary. The fair value of any investment retained in the
+former subsidiary at the date when contro! is lost is regarded as the fair value on initial recognition for subsequent accounting under
+IFRS 9 when applicable, or the cost on initial recognition of an investment in an associate or a joint venture.
+Alternative performance measures (APMs)
+The consolidated financial statements include APMs as well as statutory measures. The APMs used by the Group are not defined
+terms under IFRS and may therefore not be comparable with similarly titled measures reported by other companies. They are not
+intended to be a substitute for, or superior to, IFRS measures. All APMs relate to the current year results and comparative periods
+where provided. This presentation is also consistent with the way that financial performance is measured by management and reported
+to the Board which are pre IFRS 15 and IFRS16 but with a reconciliation to the statutory results, the basis of financial measures for
+senior management's compensation schemes and provides supplementary information that assists the user in understanding the
+financial performance, position and trends of the Group. The APMs have been applied consistently in the year ending 28 February 2025
+as defined in the consolidated annual financial statements for the year ended 29 February 2024. See note 6 for a reconciliation of
+statutory information to headline information.
+We believe that EBITDA-based measures provide useful supplementary information that assists investors in understanding the financial
+performance, position and trends of the Group. EBITDA-based measures are widely used by investors, securities analysts and other
+interested parties as supplemental measures of performance and liquidity. However, EBITDA-based measures have limitations as
+analytical tools and should not be considered in isolation or as a substitute for an analysis of our operating results as reported under
+IFRS. Since operating profit/(tloss) and actual cash flows for a given year can differ significantly from these normalised measures, you
+should consider these figures for any year together with our data for cash flows from operations and other cash flow data and our
+operating profit/(loss) under IFRS. You should not consider EBITDA or Headline EBITDA as substitutes for operating profit/(loss) or
+cash flows from our operating activities as reported under IFRS. See page 84 for listing and definitions of all APMs used.
+James D Smith
+(=
+fauur2s | 24:01 BST
+TaikTalk Holdings Limited Annual Report 2025 ai
+
+=== page 45 ===
+Going concern
+
+The Directors are required to satisfy themselves that it is reasonable for them to conclude that it is appropriate to prepare the Group
+
+and Parent Company financial statements on a going concern basis. This going concern assessment has considered the Group's
+
+current committed financing facilities and liquidity management over the going concem period (12 months from the date of signing
+these financial statements).
+
+The key factors considered by the Directors in making the assessment of going concern are:
+
++ The Group's budget and business plan for the going concern assessment period through to July 2026.
+
+* The Group's requirements and its ability to comply with certain minimum liquidity covenants under the terms of its financing
+agreements, which are required to be measured throughout the going concern assessment period.
+
+* Execution of planned initiatives to enhance the Group's liquidity during the going concern assessment period, including the
+expected sale of certain non-core assets.
+
+* Continued constructive engagement with key suppliers to the Group regarding supplier terms and the agreement of payment
+schedules.
+
+* Continued operating and capital cost reductions across the Group's businesses in line with programmes that have been under
+implementation over the last twelve months.
+
+* The continued support of the Group’s key financial stakeholders, including its shareholders and secured creditors, with regard to
+optimising the Group's liquidity profile. This includes engagement of financial stakeholders in funding discussions linked to the
+Groups strategic initiatives.
+
+In considering the above factors in making their going concem assessment, the Directors have also considered the following key risks:
+
+* The potential for breach of minimum liquidity covenants or a liquidity shortfall in the event that necessary supplier terms or payment
+schedules cannot be agreed.
+
+* The Group's ability to fund the first cash interest payment under its first lien financing facilities due in May 2026, in the absence of
+sufficient liquidity enhancing initiatives being concluded in advance and if the above risks to liquidity materialise.
+
++ The impact on liquidity of the Group incurring higher costs by failing to reduce costs as rapidly as it plans.
+
++ Unfavourable trading performance or cash flows compared to budget given the inherent uncertainty with respect to forecast financial
+information, the highly competitive nature of the industry and the uncertain economic environment.
+
+The Directors have further given due consideration to the mitigating actions that could be undertaken to counteract the effects of the
+
+above risks, including:
+
+«Near term reductions in discretionary spend including but not limited to capital expenditure and/or spend on new customer
+acquisition.
+
++ Assessing further opportunities for non-core asset disposals.
+
+* Continued engagement with the Group’s secured lenders regarding covenants under the Group's financing agreements where
+necessary to enhance liquidity.
+
++ Engagement with the Group's financial stakeholders, including its shareholders and lenders, regarding medium term working capital
+support for the Group which would allow a normalisation of current extended payment terms.
+
+Should any of the above risks materialise, this could result in a breach of the Group's minimum liquidity covenant and / or liquidity being
+
+under significant pressure since there is limited headroom available. In these circumstances, the Group would require a waiver of its
+
+minimum liquidity covenant as well as potentially additional funding, which is currently being discussed but is not currently committed.
+
+The Directors therefore acknowledge that these risks represent a material uncertainty that may cast significant doubt upon the Group's
+
+ability to continue as a going concer.
+
+Having assessed the mitigating actions available and as a result of continued constructive engagement with the Group's financial
+
+stakeholders regarding their ongoing support for the Group, the Directors have a reasonable expectation that the Group will have
+
+sufficient resources to continue its operations for the going concem assessment period, and accordingly they continue to adopt the
+going concern basis in preparing these financial statements. Further, in preparing the financial statement, they do not include any
+adjustments that would be required to be made if they were prepared on a basis other than going concern.
+
+Accounting policies
+
+The Group’s principal accounting policies, which relate to the consolidated financial statements as a whole, are set out below. Where
+
+an accounting policy is specific to one note, the policy is described in the note to which it relates. This section also shows new
+
+accounting standards, amendments and interpretations, whether these are effective in the current year or later years. In both cases it is.
+explained how they are expected to impact the performance of the Group.
+
+Revenue
+
+Revenue is measured based on the consideration to which the Group expects to be entitled to in a contract with a customer and
+
+excludes amounts collected on behalf of third parties. The Group recognises revenue when performance obligations have been met.
+
+Any timing difference on billing to the customer for connection fees and hardware compared to delivering the performance obligations
+
+will give rise to a contract asset or liability which unwinds over the length of the contract as described in more detail in note 14. Where
+
+TalkTalk Holdings Limited Annual Report 2025 42
+

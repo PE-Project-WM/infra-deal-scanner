@@ -1,0 +1,30 @@
+name: 03d Render pages of scanned filings (for checking OCR)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          pip install pandas requests beautifulsoup4 lxml
+      - env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
+        run: python scripts/ocr_pages.py
+      - run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data/ocr/pages
+          git commit -m "Rendered pages for OCR checks" || echo "Nothing to commit"
+          git pull --rebase -X theirs
+          git push

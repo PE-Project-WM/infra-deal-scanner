@@ -1,0 +1,1221 @@
+=== page 2 ===
+PAYSTRATUS GROUP LTD
+: COMPANY INFORMATION
+Directors A Mifsud ;
+M DF Kent
+A Mizzi ;
+E M Hausmann (appointed 22 January 2026)
+A J Mayall (appointed 25 April 2025)
+Registered number 11677111
+Registered office 128 City Road
+London
+EC1V 2NX
+Independent auditor S&W Audit ,
+Chartered Accountants & Statutory Auditor
+45 Gresham Street
+London
+EC2V 7BG
+
+=== page 3 ===
+PAYSTRATUS GROUP LTD
+. CONTENTS
+Page
+Group Strategic Report . : 1-5
+; Directors' Report 6-9
+Independent Auditor's Report 10-13
+Consolidated Statement of Comprehensive Income 14
+Consolidated Balance Sheet 15
+Company Balance Sheet 16
+Consolidated Statement of Changes in Equity 47
+Company Statement of Changes in Equity 18
+Consolidated Statement of Cash Flows 19
+Notes to the Financial Statements 20 - 42
+v
+
+=== page 4 ===
+PAYSTRATUS GROUP LTD
+GROUP STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2025
+The Directors present their Strategic Report on the Group for the year ended 31 December 2025. Paystratus
+Group Limited (trading as ‘Weavr') is a private company limited by share capital, incorporated and domiciled in
+* the United Kingdom. .
+
+Overview
+Embedded Finance is the integration of financial services into non-financial applications by our customers
+("embedders"). The benefits are significant - it increases value to their customers, retention rates and lifetime
+value - all while offering a frictionless experience and automation to their customers. Use cases include enabling
+financial transactions and the issuance of payment cards within business-to-business software-as-a-service
+("B2B SaaS") and enterprise resource planning ("ERP") systems to enable integrated payments to suppliers, the
+handling of payments between buyers and sellers within marketplaces, and the issuance of loans (such as buy-
+now-pay-later - "BNPL") and highly personalised insurance policies as part of the e-commerce checkout process.
+The Group's European proposition is delivered through wholly owned subsidiary Weavr (Europe) Ltd in
+conjunction with financial partners. Weavr (Europe) Ltd holds a European e-money institution ("EMI") licence and
+is regulated by the Malta Financial Services Authority, alongside our established UK operations.
+Business review ,
+Despite challenging market conditions, including higher interest rates which dampen the availability of capital for
+our target customers to invest, and a planned shift to focus on serving larger B2B customers while divesting of
+smaller B2C customers, the company successfully maintained revenue levels close to the previous year. Net
+revenue was consistent at £3.519m, consistent with £3.519m in the prior year.
+Cost of Sales increased to £1.689m in the current year from £1.451m in the prior period, representing a £238k
+movement. The primary driver of this increase was the non-recurrence of a £158k Mastercard incentive
+recognised in the prior year. The remaining £80k movement reflects underlying cost base inflation and normal
+business cost pressures. With revenue remaining flat, the increase in Cost of Sales resulted in Gross Profit of
+£1.830m compared to £2.068m in the prior year.
+Throughout the year, the business strategically shifted its focus toward embedders that offer the most value,
+characterised by larger B2B embedders. This refined delivery strategy allowed for a higher standard of product
+delivery and improved product quality, positioning the business for future scalability.
+Administrative expenses decreased by 22.3% on the previous year, from £12.756m to £9.909m. During the year
+the business undertook a focused initiative to streamline the structure of the business to enable us to better
+facilitate the needs of our embedders. We still maintain our primary focus on people to deliver this service and
+people infrastructure still represents 64.5% (2024: 73.5%) (including externally provided people resources) of our
+Administration expenditure.
+Despite challenging market conditions, we have effectively managed our available cash resources while
+successfully generating additional income streams. This resulted in interest income earned on the Group's
+investments of £250k for the period. Although this is lower than the £812k interest income achieved in 2024, this
+reduction is a direct result of the diminishing resources following the utilisation of investment funds.
+During the year, the Company submitted its RDEC R&D claim and secured a recovery of £475k (2024: £59k).
+The related proceeds were received prior to the year end, resulting in no outstanding R&D claim debtor at 31
+December 2025. The FY25 submission is expected to be made following this report and as such has yet to be
+recognised.
+As we transition towards profitability, the business remains highly focused on optimising unit economics and
+keeping tight expenditure control and the strategic deployment of cash reserves. While reserves continue to
+decline during this period, proactive steps have been taken to secure additional sources of finance.
+
+Page 1
+
+=== page 5 ===
+PAYSTRATUS GROUP LTD
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+The past year has presented significant challenges, including increased interest rates, diversion of investment by
+target customers to Al initiatives, and pressure on the Financial Services sector due to business failures and
+heightened regulatory scrutiny. Despite these headwinds, we are confident in the plans we have established to
+manage these difficulties and leverage emerging opportunities. Since the year end, the Group has entered into
+new agreements expected to support future growth, in addition to a further agreement concluded at the end of
+the financial year, reflecting continued demand for our embedded finance proposition.
+
+The core business, focused on the target customer profile described above, is well positioned to deliver growth
+
+going forward, and we remain optimistic about the momentum we expect to build over the coming period.
+
+We have also continued to embrace artificial intelligence as both an opportunity for cost reduction and ‘a focus
+
+area for risk management. Internally, we are using Al tools to accelerate technology development and to
+
+automate back-office functions, improving efficiency and allowing the team to focus on higher-value work for our
+embedders. We continue to monitor the evolving competitive and regulatory implications of Al within the
+embedded finance sector and are adapting our controls accordingly.
+
+Principal risks and uncertainties
+
+The Group maintains a risk register that identifies the key areas of risk that are required to be managed. This
+
+risk register is an evolving process due to the nature of the business, evolving regulatory environment and
+
+market conditions. These categories are Technology Risk, Regulatory Risk, Market Risk, Credit and
+
+Counterparty Risk, Competition Risk, Operational Risk and Liquidity Risk.
+
+e Technology risk - Our customers ("embedders") rely heavily on our technology, both external and internal
+services, to run their businesses. Given that one of our subsidiaries is an authorised e-money institution,
+maintaining the high reliability of these technologies is critical for ensuring continuous regulatory compliance.
+The Group places significant importance on our technology provision. We have established controls,
+processes, and procedures to mitigate associated risks, which are further reinforced by our PCI-DSS Level 1
+and ISO 27001 certifications.
+
+However, as a startup, our operating model is constantly evolving, and so too are our risks. We continuously
+reassess these risks as we evolve to ensure proactive mitigation.
+
+e Regulatory risk - The Group currently holds one regulated licence, being the European e-money institution
+("EMI") licence held by Weavr (Europe) Limited, making it subject to the regulatory requirements of the
+MFSA. Given our operations in the UK financial services sector, we are also highly aware of and committed
+to meeting the requirements of UK regulations. This is essential to safeguard current activities and future
+licence applications. Therefore, effective risk management, particularly in relation to regulatory compliance
+alongside technology risks, is a key priority.
+
+Significant effort, in collaboration with our partners, has been dedicated to establishing a robust regulatory
+compliance framework. This strength is evidenced by our registration as an agent of Paynetics AD and
+Yapily Connect Ltd, and as a distributor of Paynetics UK Limited and B4B This framework undergoes regular
+assessment by our partners’ compliance teams, which we consider our third line of defence, in addition to
+scrutiny from our own internal compliance team.
+With our European e-money institution ("EMI") licence and Visa membership now secured, together with the
+European passporting rights this affords us, we are focused on the continuous evolution and strengthening
+of our risk management and compliance frameworks.
+
+; Page 2
+
+=== page 6 ===
+PAYSTRATUS GROUP LTD
+GROUP STRATEGIC. REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+e = Market Risk - The Group's principal market risks are interest rate risk and foreign exchange risk; the Group
+does not consider price risk (e.g. commodity or trading-position risk) to be significant given the nature of its
+business.
+
+e Interest rate risk - The Group holds surplus cash on interest-bearing deposit accounts, and the income
+earned on these balances varies with prevailing market interest rates. This is monitored as part of the
+Group's cash management process.
+
+e Foreign exchange risk - The Group's revenue and costs are substantially denominated in GBP and EUR;
+
+however, certain metrics are also monitored in USD.
+The business seeks to operate natural hedges by matching the currency of its cost base against the
+transactional currency of its embedders where possible and exposure to foreign currencies is monitored on a
+regular basis with hedging to be considered where a material exposure is identified. The Group recorded a
+foreign exchange loss of £398k in 2025 (2024: £12k loss), reflecting increased exposure during the year.
+
+e Cost inflation and geopolitical risk - The Group continuously monitors cost inflation trends and the broader
+geopolitical environment as part of its risk assessment process, given the potential impact on operating
+costs and customer demand.
+
+Given the Group's current location of operations, these risks are not currently considered individually
+significant but are kept under regular review by the Board and the Group's finance and compliance functions.
+
+e Credit and Counterparty risk - The Group is exposed to credit and counterparty risk through multiple
+sources: cash and cash equivalent balances held with banking counterparties, receivables from embedders
+(customers), and relationships with payment scheme, technology and distribution partners. To mitigate this
+risk, the Group: (i) places cash with reputable financial institutions; (ii) conducts comprehensive due
+diligence procedures on embedders to assess their credit worthiness and ability to meet payment
+obligations; and (iii) maintains ongoing due diligence and monitoring of its key partners and counterparties.
+
+e Competition risk - The embedded finance and payments sector remains highly competitive, with a broad
+range of established and emerging providers. The Group seeks to mitigate this risk by continuing to invest in
+its product proposition, technology platform and regulatory credentials, and by maintaining close
+relationships with its embedders to ensure continued alignment with their evolving needs.
+
+e Operational risk - External factors that could impact the Group's operations, such as inflationary pressures
+and geopolitical changes, are continually monitored as part of our risk assessment. Identifying and
+addressing these risks is crucial to ensure we can maintain uninterrupted, high-quality service for our
+customers. .
+
+Our working model supports this by offering a flexible hybrid approach. Employees have the option to work
+from home while also having full access to our offices. This is designed to facilitate collaboration, support
+professional development, and foster a strong company culture. This flexibility, combined with regular testing
+of our business continuity plans, allows us to adapt effectively to business demands.
+
+Page 3
+
+=== page 7 ===
+PAYSTRATUS GROUP LTD
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+e — Liquidity risk - Our current liquidity risk is primarily tied to two factors: the funding secured from our investors
+and the outlook for future funding, the latter being influenced by the operational risk factors previously noted.
+Although we maintain a strong capital position, we are actively developing plans and processes to mitigate
+these risks. We prioritise an open dialogue with our investors to stay informed about market pressures.
+We are efficiently utilising the capital from our previous funding rounds and continuously assessing our
+current resources against future capital requirements. As part of our ongoing strategic planning, we are
+exploring potential avenues for securing additional funding to ensure we are prepared should the need arise.
+Key financial performance indicators
+During 2025, the fifth full year of trading, revenue for the Group remained consistent at £3.519m.
+There are three main key performance indicators ("KPI") for the Group which are:
+1. Annualised Revenue
+Annualised Revenue ("AR") is defined as all revenue from contracted customers, projecting the revenue for the
+subsequent twelve months. This calculation provides a conservative baseline for the Group's achievable revenue
+over that period, as it assumes no customer churn or additional growth. AR is deliberately calculated on the
+basis of all contracted revenue rather than only recurring revenue, and should not be confused with Annual
+Recurring Revenue ("ARR"), which is a narrower, revenue-type-specific metric. Consistent with an early-stage
+growth trajectory, the Group has seen a positive trend in AR, which has risen to £4.3m from £3.9m as of 31
+December 2024. This upward movement has persisted into 2026.
+2. Cash and Liquidity
+Effective cash and liquidity management remain crucial for our continued scaling. While the year concluded with
+a cash and liquidity position of £5.02m moderately below internal budget expectations, this result actually reflects
+an outperformance, reflecting deliberate deferral of planned but undrawn financing.
+The variance against budget reflects the business's deliberate decision not to take up a previously budgeted
+facility, demonstrating strong financial discipline and prudent resource management, and successfully supporting
+ongoing growth without reliance on additional external funding.
+The board continues to monitor the cash resources of the business and explore strategic options to support the
+future business needs.
+3. Administrative expenses
+The Group successfully reduced its administrative expenses significantly in 2025, falling to £9.909m from
+£12.756m in 2024. This £2.85m overall reduction in indirect costs resulted from the business-wide restructuring.
+A major component of this saving was a £2.14m decrease in direct employment costs, which totalled £5.16m in
+2025 (2024: £7.30m). Given that these expenses are a significant contributor to the Group's current cash burn,
+they are tracked as a key performance indicator. While the Group remains committed to investment for
+development and scaling, the disciplined management of administrative expenditure is a core focus, especially in
+the current market environment, to maintain cost efficiency.
+Page 4
+
+=== page 8 ===
+PAYSTRATUS GROUP LTD :
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+‘This report was approved by the board and signed on its behalf.
+A Mifsud
+. Director
+Date: 10 Septernber 2026
+Page 5
+
+=== page 9 ===
+PAYSTRATUS GROUP LTD
+DIRECTORS' REPORT ‘
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+The directors present their report and the audited financial statements of Paystratus Group Ltd (‘the Company’)
+
+and its subsidiaries (‘the Group’) for the year ended 31 December 2025.
+
+Business activities
+
+The Group consists of five companies: Paystratus Group Limited, the holding company, and four wholly owned
+
+subsidiaries. Set out below are the companies that form the Group:
+
+e Paystratus Group Ltd is a holding and trading company, the principal activity of which is providing the
+embedded finance functionality to the United Kingdom and European markets.
+
+e Paystratus (Malta) Ltd is the Company's operational company where the technology provisions and other
+services are provided. Paystratus Group Ltd provides direction to Paystratus (Malta) Limited in the services
+and capabilities the Group requires from its technology and service provisions.
+
+« Weavr Ltd has commenced trading, since 1 January 2025, through its agent agreements with third party
+providers. the Group continues to operate under the licence of its current partner and is exploring
+relationships with additional providers.
+
+e Weavr (Europe) Ltd is the company established for the European EMI licence and has also commenced
+trading, since 1 January 2025.
+
+e Comma Payments Ltd is a company that has ceased to trade and operates to enable licenced activities in
+the other companies in the group. This company was dissolved on the 17th March 2026.
+
+As stated in note 2.3 going concern, the Group continues to operate on a going concern basis and has
+
+presented these accounts on that basis. However, as per the auditors report, the depleting Series A funding
+
+poses a going concern risk if the company fails to secure additional funding.
+
+Results and dividends
+
+The loss for the year, after taxation, amounted to £7,752k (2024 - £9,297k).
+
+No dividends have been paid or proposed in the year (2024 - £Nil).
+
+Directors
+
+The Directors who served during the year were:
+
+A Mifsud
+
+M DF Kent
+
+A Mizzi
+
+Y Ozdalga (resigned 22 January 2026)
+
+Y M Ranchere (resigned 22 April 2025)
+
+AJ Mayall (appointed 25 April 2025)
+Future developments
+The business is committed to the development of embedded finance solutions, and our plans for the future
+progress of the Group are set out in the Strategic Report above.
+Page 6
+
+=== page 10 ===
+PAYSTRATUS GROUP LTD
+DIRECTORS’ REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+
+Research and development
+The directors continue to incur research and development costs in relation to the evolving embedded finance
+proposition. It is considered that these costs will continue to be incurred for the coming year. We have been able
+to fully recover the costs of these activities through the Government Small Enterprise research and development
+programme and claimed £475k for the FY2024 (2024: £591k for FY 2023) during the year.
+Section 172(1) statement
+In accordance with section 172 of the Companies Act 2006, each Director acts in the way they consider, in good
+faith, would be most likely to promote the success of the Company for the benefit of its members as a whole,
+having regard (among other matters) to:
+e the likely consequences of any decision in the long term;
+e the interests of the Company's employees;
+e the need to foster the Company's business relationships with embedders, suppliers, partners and others;
+e the impact of the Company's operations on the community and the environment;
+e the desirability of the Company maintaining a reputation for high standards of business conduct; and
+e the need to act fairly between members of the Company.
+During the year and since the year end, the Board has had regard to these matters in key decisions including the
+restructuring of the Group's workforce, the development of the Group's financial plan, and continued investment
+in regulatory compliance and technology. The Board engages regularly with employees, embedders, regulators
+and investors to understand their views and ensure these are reflected in its decision-making.
+Subsequent events
+Subsequent to the balance sheet date, on 17 March 2026, the Group's subsidiary undertaking, Comma
+Payments Ltd, was struck off and dissolved at Companies House.
+The dissolution has no material impact on the Group's consolidated results, as Comma Payments Ltd was non-
+trading at the date of closure.
+In addition, as a non-adjusting post balance sheet event, in H1 2026, the Group initiated a review of its business,
+considering 2025 performance outturn, customer performance and evolving needs, the simplification and
+efficiency improvements delivered during the year, and developments in artificial intelligence and their application
+to the Group's operations. This review led to the development of an improved financial plan which, with limited
+additional capital, brings the Group close to operational profitability.
+The pivotal driver of the improved financial plan is a reduction in the Group's annualised people costs
+(comprising employment and subcontractor costs) from £6.4m to a current run-rate of £4.8m, with a further
+reduction to approximately £4.2m expected in 2027. Advances in available technology have enabled the
+business to deliver its services more efficiently, supporting this reduction without compromising the quality of
+service provided to customers. :
+
+Page 7
+
+=== page 11 ===
+PAYSTRATUS GROUP LTD
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+In April 2026, the Group implemented a restructuring of its workforce to deliver this reduction. This process
+resulted in a reduction in headcount, with the associated one-off restructuring costs of an estimated £250k being
+recognised in the period in which the obligations arose. The Board is satisfied that the steps taken are consistent
+with the Group's plan to achieve operational profitability and continues to monitor progress as part of its regular
+financial oversight.
+Statement of directors’ responsibilities
+The directors are responsible for preparing the Annual Report and the financial statements in accordance with
+applicable law and regulation.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have prepared the financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards, comprising FRS 102 "The Financial Reporting
+Standard applicable in the UK and Republic of Ireland", and applicable law). Under company law the directors
+must not approve the financial statements unless they are satisfied that they give a true and fair view of the state
+of affairs of the profit or loss of the Group and Company for that period. In preparing the financial statements, the
+directors are required to:
+e select suitable accounting policies and then apply them consistently. :
+e state whether applicable United Kingdom Accounting Standards, comprising FRS 102, have been followed,
+subject to any material departures disclosed and explained in the financial statements.
+* make judgements and accounting estimates that are reasonable and prudent; and
+e prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+Group and Company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain
+the company's transactions and disclose with reasonable accuracy at any time the financial position of the
+company and enable them to ensure that the financial statements comply with the Companies Act 2006. They
+are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities.
+Directors’ confirmations
+The Directors confirm that:
+e so far as the director is aware, there is no relevant audit information of which the Group and Company's
+auditors are unaware; and
+e the directors have taken all the steps that they ought to have taken as a director in order to make themselves
+aware of any relevant audit information and to establish that the Group and Company's auditors are aware of
+that information.
+Page 8
+
+=== page 12 ===
+PAYSTRATUS GROUP LTD
+DIRECTORS REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2025
+Auditor _
+‘The auditors, S&W Audit (a trading name of S&W Partners Audit Limited), have indicated their willingness to
+continue in office and a resolution concerning their re-appointment, in accordance with section 485 of the
+Companies Act 2006, will be proposed at the Board Meeting.
+On behalf of the board :
+A Mifsud
+Director
+Date: 10 September 2026
+Page 9
+
+=== page 13 ===
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF PAYSTRATUS GROUP LTD
+
+Opinion
+
+We have audited the financial statements of Paystratus Group Ltd (the "Parent Company’) and its subsidiaries
+(the "Group") for the year ended 31 December 2025 which comprise the Consolidated Statement of
+Comprehensive Income, the Consolidated and Parent Company Balance Sheets, the Consolidated and Parent
+Company Statement of Changes in Equity, the Consolidated Statement of Cash Flows and the notes to the
+financial statements, including significant accounting policies. The financial reporting framework that has been
+applied in their preparation is applicable law and United Kingdom Accounting Standards, including FRS 102 “The
+Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom Generally Accepted
+Accounting Practice).
+
+In our opinion, the financial statements: ,
+
+. give a true and fair view of the state of the Group's and of the Parent Company's affairs as at 31
+
+December 2025 and of the Group's loss for the period then ended;
+° have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice; and
+
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit
+of the financial statements section of our report. We are independent of the group and parent company in
+accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK,
+including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with
+these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide
+a basis for our opinion.
+
+Material Uncertainty Related to Going Concern
+
+We draw attention to Note 2.3 in the financial statements, which indicates that, at the date of approval of these
+financial statements, the forecasts assume that additional funding will be required to support working capital
+requirements during the going concern period as the Group continues to invest in growth before reaching a self-
+sustaining scale. Should such funding not be secured, this would adversely affect the Group and Parent
+Company's ability to execute its plans and meet its obligations as they fall due.
+
+As stated in note 2.3, these conditions represent a material uncertainty that may cast significant doubt on the
+Group and Parent Company's ability to continue as a going concern. Our opinion is not modified in respect of this
+matter.
+
+Notwithstanding the above, in auditing the financial statements we have concluded that the directors’ use of the
+going concem basis of accounting in the preparation of the financial statements is appropriate.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the
+relevant sections of this report.
+Page 10
+
+=== page 14 ===
+PAYSTRATUS GROUP LTD
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF PAYSTRATUS GROUP LTD
+The directors have considered the funding position set out above together with the mitigating factors available to
+the Company, including the reasonable trading forecasts, the active oversight and support of the board, and the
+financing options currently under discussion and having weighed these factors, the directors consider it
+appropriate to prepare the financial statements on a going concern basis.
+Other information
+The other information comprises the information included in the Annual Report and Financial Statements, other
+than the financial statements and our auditor's report thereon. The Directors are responsible for the other
+information contained within the Annual Report and Financial Statements. Our opinion on the financial
+statements does not cover the other information and, except to the extent otherwise explicitly stated in our
+report, we do not express any form of assurance conclusion thereon. Our responsibility is to read the other
+information and, in doing so, consider whether the other information is materially inconsistent with the financial
+statements or our knowledge obtained in the course of the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements, we are required to determine
+whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work
+we have performed, we conclude that there is a material misstatement of this other information, we are required
+to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+° the information given in the Strategic Report and the Directors’ Report for the financial year for which the
+financial statements are prepared is consistent with the financial statements; and
+° the Strategic Report and the Directors’ Report have been prepared in accordance with applicable legal
+requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the group and the parent company and their environment
+obtained in the course of the audit, we have not identified material misstatements in the Strategic Report or the
+Directors’ Report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006
+requires us to report to you if, in our opinion: :
+e adequate accounting records have not been kept by the parent company, or returns adequate for our audit
+have not been received from branches not visited by us; or
+° the Parent Company financial statements are not in agreement with the accounting records and returns;
+or
+° certain disclosures of Directors’ remuneration specified by law are not made; or
+. we have not received all the information and explanations we require for our audit.
+Responsibilities of Directors
+As explained more fully in the Directors’ Responsibilities Statement set out on page 6, the Directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true and fair
+view, and for such internal control as the Directors determine is necessary to enable the preparation of financial
+statements that are free from material misstatement, whether due to fraud or error.
+Page 11
+
+=== page 15 ===
+PAYSTRATUS GROUP LTD
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF PAYSTRATUS GROUP LTD
+In preparing the financial statements, the Directors are responsible for assessing the group's and the parent
+company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and
+using the going concern basis of accounting unless the Directors either intend to liquidate the group or the parent
+company or to cease operations, or have no realistic alternative but to do so.
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our
+opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in
+accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise
+from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on the basis of these financial statements.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures
+in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities,
+including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is
+detailed below:
+We obtained a general understanding of the Group's legal and regulatory framework through enquiry of
+management concerning: their understanding of relevant laws and regulations and the entity's policies and
+procedures regarding compliance we also drew on our existing understanding of the Group's industry and
+regulation.
+We understand that the Group complies with the framework through:
+e Outsourcing accounts preparation and tax compliance to external experts;
+e Subscribing to relevant updates from external experts, and making its changes to internal procedures and
+controls as necessary;
+e Updating operating procedures and internal controls as legal and regulatory requirements change; and
+e The Directors’ close involvement in the day-to-day running of the business, meaning that any litigation or
+claims would come to their attention directly.
+In the context of the audit, we considered those laws and regulations: which determine the form and content of
+the financial statements; which are central to the Group's ability to conduct its business; and where failure to
+comply could result in material penalties. We identified the following laws and regulations as being of
+significance in the context of the Group:
+e The Companies Act 2006 and FRS 102 in respect of the preparation and presentation of the financial
+statements.
+e The Maltese regulatory principles including those governed by the Maltese Financial Services Authority
+(MFSA).
+The senior statutory auditor led a discussion with senior members of the engagement team regarding the
+susceptibility of the entity's financial statements to material misstatement, including how fraud might occur. The
+key areas identified as part of the discussion were the risk of manipulation of the financial statements through
+manual journal entries, incorrect recognition of revenue, and accounting estimates such as impairment
+assumptions. As a result the audit team performed the following audit procedures:
+e Testing a sample of manual journal entries, selected through applying specific risk assessments applied
+based on Group and Company processes and controls surrounding manual journal entries;
+e Testing revenue to ensure that it has been recognised in compliance with FRS 102; and
+e Management's forecasts and impairment papers in regards to goodwill, other intangible assets, investments
+and intercompany balances were scrutinised and challenged to ensure that assumptions were reasonable.
+Page 12
+
+=== page 16 ===
+PAYSTRATUS GROUP LTD
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF PAYSTRATUS GROUP LTD
+Overall, the senior statutory auditor was satisfied that the engagement team collectively had the appropriate
+competence and capabilities to identify or recognise irregularities.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at:
+www. frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Use of our report
+‘This report is made solely to the parent company's members, as a body, in.accordance with Chapter 3 of Part 16
+of the Companies Act 2006. Our audit work has been undertaken so that we might state to the parent company’s:
+members those matters we are required to state to them in an auditor's report and for no other purpose. To the
+fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the parent
+company and the parent company’s members as a body, for our audit work, for this report, or for the opinions we
+have formed.
+NKobertson
+Neil Robertson (Senior Statutory Auditor)
+for and on behalf of
+S&W Audit
+Chartered Accountants
+Statutory Auditor
+45 Gresham Street
+London
+EC2V 7BG ;
+10 September 2026 ,
+Page 13
+
+=== page 17 ===
+PAYSTRATUS GROUP LTD
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2025
+Restated
+2025 2024
+Note £000 £000
+Turnover 4 3,519 3,519
+Cost of sales ; (1,689) (1,451)
+Gross profit, 1,830 2,068
+Administrative expenses (9,909) (12,756)
+Operating loss 5 (8,079) (10,688)
+Interest receivable and similar income 9 250 812
+Foreign exchange losses (398) (12)
+Loss before tax (8,227) (9,888)
+Tax on loss 10 475 591
+Loss for the financial year (7,752) (9,297)
+There was no other comprehensive income for 2025 (2024 - £Nil).
+The notes on pages 20 to 42 form part of these financial statements:
+Page 14
+
+=== page 18 ===
+PAYSTRATUS GROUP LTD
+REGISTERED NUMBER:11677111
+CONSOLIDATED BALANCE SHEET
+AS AT 31 DECEMBER 2025
+2025 2024
+Note £000 £000
+Fixed assets
+Intellectual property 11 - 721
+Negative goodwill 11 - (455)
+Intangible assets - 266
+Tangible assets 12 50 92
+\ 50 358
+Current assets
+Stocks 14 29 7
+Debtors: amounts falling due within one year 18 710 2,061
+Cash at bank and in hand : 5,016 11,692
+5,755 13,760
+Creditors: amounts: falling due within one
+‘year 16 (1,077) (1,638)
+
+: Net current assets 4,678 12,122
+Net assets 4,728 12,480
+Capital and reserves
+Called up share capital 3 3
+Share premium account 18 40,147 40,147
+Share option reserve 18 117 117
+Profit and loss account 18 (35,539) (27,787)
+
+4,728 12,480
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+A Mifsud
+Director
+Date: 10 September 2026
+The notes on pages 20 to 42 form part of these financial statements. ‘
+Page 15
+
+=== page 19 ===
+PAYSTRATUS GROUP LTD
+REGISTERED NUMBER:11677111
+COMPANY BALANCE SHEET
+AS AT 31 DECEMBER 2025
+~ 2025 2024
+Note £000 £000
+Fixed assets
+‘Tangible assets 12 "1 28
+Investments 13 1,071 797°
+1,082 825
+Current assets
+Stocks 44 29 7
+Debtors: amounts falling due within one year 15 905 2,088
+Cash at bank and in hand 4,306 10,976
+5,240 13,071
+Creditors: amounts falling due within one
+year 16 (675) (1,232)
+
+, Net current assets 4,565 11,839
+Net assets 5,647 12,664
+Capital and reserves
+Called up share capital 3 3
+Share premium account 18 40,147 40,147
+Other reserves 18 117 117
+Profit and loss account brought forward (27,603) (18,565)
+
+Loss for the year (7,017) (9,038)
+Profit and loss account carried forward 18 (34,620) (27,603)
+5,647 12,664
+The financial statements were approved and authotised for issué by the board and were signed on its behalf by:
+A Mifsud
+Director
+Date: 10 September 2026
+The notes on pages 20 to 42 form part of these financial statements.
+Page 16
+
+=== page 20 ===
+PAYSTRATUS GROUP LTD
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2025
+Share
+Called up premium Share option Profitand
+share capital account. reserve loss account Total equity
+£000 £000 £000 £000 £000,
+At 1 January 2024 3 40,130 126 (18,490) 21,769
+Comprehensive income for the year
+Loss for the year 7 - - (9,297) (9,297)
+Adjustment of expected deferred consideration shares - - 8 - 8
+Shares issued during the year” - 17 (17) - -
+At 1 January 2025 3 40,147 417 (27,787) 12,480
+Comprehensive expense for the year
+Loss forthe year - - - (7,752) (7,752)
+At 31 December 2025 3 40,147 117 (35,539) 4,728
+Page 17 .
+
+=== page 21 ===
+PAYSTRATUS GROUP LTD
+COMPANY STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2025
+Share
+Called up premium Share option Profit:and
+share capital account reserve loss account Total equity
+£000 £000 £000 £000 £000
+At1 January 2024 3 40,130 126 (18,565) 21,694
+Comprehensive income for the
+‘year
+Loss for the year - - - (9,038) (9,038)
+Adjustment of expected deferred
+consideration shares - - 8 - 8
+Shares issued during thé year - 17 (17) - -
+At 1 January 2025 3 40,147 117 (27,603) 12,664
+Comprehensive income for the
+year
+Loss for the year - - - (7,017) (7,017)
+At 31 December 2025 3 40,147 117 (34,620) 5,647
+: Page 18
+
+=== page 22 ===
+PAYSTRATUS GROUP LTD
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2025 2024
+. £000 £000
+Cash flows from operating activities
+Loss for the financial year (7,752) (9,297)
+Adjustments for:
+Amortisation and impairment of intangible assets 266 132
+Depreciation of tangible assets 42 63
+Interest received (250) (539)
+Taxation charge / (Credit) (475) (591)
+Increase in stocks (22) -
+Decrease/(increase) in debtors 955 (57)
+Decrease in creditors (1,155) (82)
+Corporation tax received 1,066 597
+Loss on sale of tangible assets 6 -
+Net cash used in operating activities (7,319) (9,780)
+Cash flows from investing activities
+Purchase of tarigible fixed assets (25) (24)
+Disposal proceeds from tangible fixed assets : 17 -
+Interest received 639 136
+Net cash from investing activities 631 112
+Net decrease in cash and cash equivalents (6,688) (9,668)
+Cash and cash equivalents at beginning of year 11,692 21,360
+Foreign exchange movement 12 -
+Cash and cash equivalents at the end of year 5,016 11,692
+Cash and cash equivalents at the end of year comprise: .
+Cash at bank and in hand 5,016 11,692
+Page 19
+
+=== page 23 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+1. General information
+Paystratus Group is a private company, limited by shares, domiciled and incorporated in England and
+Wales (registered number: 11677111). The registered office address is 128 City Road, London, United
+Kingdom, EC1V 2NX.
+Paystratus Group Ltd (the 'Parent Company') and its subsidiaries (together referred to as ‘the Group')
+operate an embedded finance business with coverage over the United Kingdom and Europe. The Group
+operates under the brand of "Weavr".
+The principal activity of the Group is Embedded Finance, which is the integration of financial services into
+non-financial applications. The benefits are immense - it increases customer acquisition rates, retention
+levels and lifetime value for businesses - all while offering a frictionless experience.
+2. Accounting policies
+2.1 Basis of preparation of financial statements
+The following principal accounting policies have been applied:
+2.2 Basis of consolidation
+
+The consolidated financial statements present the results of the Company and its own subsidiaries
+
+(‘the Group’) as if they form a single entity. Intercompany transactions and balances between group
+
+companies are therefore eliminated in full.
+
+The consolidated financial statements incorporate the results of business combinations using the
+
+purchase method. In the Balance Sheet, the acquiree's identifiable assets, liabilities and contingent
+
+liabilities are initially recognised at their fair values at the acquisition date. The results of acquired
+operations are included in the Consolidated Statement of Comprehensive Income from the date on
+which control is obtained. They are deconsolidated from the date control ceases.
+
+FRS 102 allows a qualifying entity certain disclosure exemptions, subject to conditions. The Company
+
+has taken advantage of the following exemptions in its individual financial statements:
+
+e from preparing a Statement of Cash Flows, on the basis that it is a qualifying entity and the
+Consolidated Statement of Cash Flows, included in these financial statements, includes the
+Company's cash flows;
+
+e from the financial instrument disclosures, required under FRS 102 paragraphs, 11.42, 11.44,
+11.45, 11.47, 11.48(a)(iii), 11-48(a)(iv), 11.48(b), 11.48(c), 12.26, 12.27, 12.29(a), 12.29(b) and
+12,29A, as the information is provided in the consolidated financial statement disclosures; and
+
+» from disclosing the Company key management personnel compensation, as required by FRS
+102 paragraph 33.7. : .
+
+Page 20
+
+=== page 24 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+2.3 Going concern
+
+As per 31 December 2025, the Group has a total current asset position of £4.6 million and a loss for
+the financial year of £7.7 million. The Group's initial funding, raised through its Series A financing
+round, has been used to invest in the development of the Weavr product.
+The directors have prepared forecasts for ‘the foreseeable future which they consider to be
+reasonable, and which they are confident in the Group's ability to meet. The Group's revised strategy
+is continuing to support revenue growth and progress towards profitability. However, the forecasts
+assume that additional funding will be required to support working capital requirements during the
+going concern period as the Group continues to invest in growth before reaching a self-sustaining
+scale. Should such funding not be secured, this would adversely affect the Group and Parent
+Company's ability to execute its plans and meet its obligations as they fall due.
+The Group and Parent Company is supported by a board that includes representatives of its main
+investors, who are closely monitoring the Group's trading performance and financial position. The
+board is actively engaged in supporting management to meet the Group and Parent Company's
+targets and to secure the continuation of the business.
+The executive team is currently engaged in significant discussions covering several options for the
+future funding of the business. The Directors expects one or more of these discussions to materialise
+into a committed outcome in the coming months, although as at the date of this assessment none of
+these options has yet been concluded or contractually secured. Should the Group and Parent
+Company be unable to secure additional funding this would represent a material uncertainty which
+may cast significant doubt over the Group and Parent Company's ability to continue as a going
+concern.
+The directors have considered the reasonability of the trading forecasts, the active oversight and
+support of the board, and the viability and timing of funding positions available to the Group and
+Parent Company, and having weighed these factors, the directors consider it appropriate to prepare
+the financial statements on a going concern basis.
+
+Page 21
+
+=== page 25 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+f
+2. Accounting policies (continued)
+2.4 Foreign currency translation
+Functional and presentation currency .
+The Group's functional and presentational currency is GBP.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange
+rates at the dates of the transactions.
+At each year-end foreign currency monetary items are translated using the closing rate. Non-
+monetary items measured at historical cost are translated using the exchange rate at the date of the
+transaction and non-monetary items measured at fair value are measured using the exchange rate
+when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the
+translation at period-end exchange rates of monetary assets and liabilities denominated in foreign
+currencies are recognised in profit or loss.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are
+presented in the Consolidated Statement of Comprehensive Income within ‘foreign exchange losses’.
+On consolidation, the fesults of overseas operations are translated into Sterling at rates
+approximating to those ruling when the transactions took place. All assets and liabilities of overseas
+operations are translated at the rate ruling at the reporting date. Exchange differences arising on
+translating the opening nét assets at opening rate and the results of overseas operations at actual
+rate are recognised in other comprehensive income.
+Page 22
+
+=== page 26 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS :
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+2.5 Changes in accounting policy
+During the year ended 31 December 2025, the Group reviewed the presentation of interchange
+income and associated cashback arrangements.
+‘In ptior periods, certain cashback arrangements were presented on a net basis against the related
+income stream. Following a reassessment of the contractual nature of these arrangements and the
+requirements of FRS 102, the Company has concluded that the cashback payments are more
+representative of commercial! incentive for customer retention and relate to obligations of entities
+which are separate from the payment processing entities which are ring-fenced and therefore have
+made a judgement that these costs should be reflected separately as Cost of sales. Therefore, the
+Coripany, has elected to change its accounting policy to present these costs within Cost of sales
+rather than as an offset against Revenue noting this provides a more relevant and reliable
+representation of these costs.
+Accordingly, in line with the requirements of FRS102, the Group has restated its comparative
+information to reflect the revised presentation.
+The change affects presentation only and has no impact on gross profit, loss before taxation, net
+assets or cash flows.
+Impact of the change in accounting policy — prior year restated
+As previously
+reported Adjustment Restated
+£000 £000 £000
+Revenue 2,967 552 3,519
+Cost of sales (899) | (552) (1,451)
+Gross Profit — 2.068 _ = ____ 2068
+Page 23
+
+=== page 27 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+: FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+2.6 Revenue
+
+Revenue is measured at the fair value of consideration received or receivable and represents the
+amount receivable for services rendered and will be reflected net of returns, discounts and rebates
+allowed by the group and value added taxes.
+
+Revenues are broken down into three different categories:
+
+Monthly Subscriptions
+
+Monthly subscriptions are recognised in the profit and loss accounts in line with the contractual terms.
+Consideration is made of the length of the contract and the true value of the monthly subscription
+contract value. This includes such things as free period and tapered subscription terms. This value of
+the contract is then applied across the period of the contract. The risks and rewards of ownership are
+provided to the Innovator (Customer) as they are able to integrate the services into their website and
+introduce their platform to their end users (Customer's Customer) allowing them to conduct
+transactional activity. The end user's ability to transact enables the flow of economic benefit to the
+Innovator over the period, and this is recognised in that period.
+
+Setup/Implementation Revenues
+
+Setup/implementation fees are fees charged for the implementation of a service to the Innovator and
+have different implementation periods. These periods are assessed and consistently applied to all
+setup revenues. The main setup fees are initial integration to the Company's platform and the
+company estimates that it takes three months to integrate. The implementation and set of services
+enables the Innovator to introduce the platform services to the end user and also to provide additional
+services. These services are provided as stated previously to enable the end user to transact and as :
+a result enables the Innovator to gain the economic benefit from those transactions.
+
+Activity-Based Revenues
+
+This form of revenue is based on transactional activity or supply of goods to end users. Transactional
+revenues are generated by the activity of the end user on an Innovators programme and we charge
+the Innovator for these activities. These revenues are recognised in the period in which the activity
+took place. The other form of revenue in this section is the supply of goods normally in the form of
+plastic cards. Revenues are recognised in the period in which the goods are supplied to the end user.
+The Innovator's ability to generate revenues from the activities of the end user implies that the risks
+and rewards of the access provided by the platform have transferred to the Innovator, demonstrating
+that the criteria to recognise revenue have been met.
+
+Interchange income and cashback arrangements
+
+Cashback revenue represents amounts earned by the Group under contractual arrangements linked
+to transaction activity generated through customer and embedder programmes. Cashback revenue is
+recognised in the profit and loss account when the underlying transaction activity giving rise to the
+entitlement occurs and the amount of revenue can be measured reliably. Amounts payable under
+cashback arrangements are recognised within cost of sales in the same period as the related
+revenue is earned.
+
+2.7 Research and development
+Research and development costs are expensed in the profit and loss account in the year that they
+are incurred.
+Page 24
+
+=== page 28 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS :
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+
+2.8 Interest income
+Interest income is recognised in profit of loss using the effective interest method.
+
+2.9 Pensions
+Defined contribution pension plan
+The Group operates a defined contribution plan for its employees. A defined contribution plan is a
+pension plan under which the Group pays fixed contributions into a separate entity. Once the
+contributions have been paid the Group has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid
+are shown in accruals as a liability in the Balance Sheet. The assets of the plan are held separately
+from the Group in independently administered funds.
+
+2.10 Share-based payments
+Where share options are awarded to employees, the fair value of the options at the date of grant is
+charged to profit or loss over the vesting period. Non-market vesting conditions are taken into
+account by adjusting the number of equity instruments expected to vest at each balance sheet date
+so that, ultimately, the cumulative amount recognised over the vesting period is based on the number
+of options that eventually vest. Market vesting conditions are factored into the fair value of the options
+granted. The cumulative expense is not adjusted for failure to achieve a‘market vesting condition.
+The fair value of the award also takes into account non-vesting conditions. These are either factors
+beyond the control of either party (such as a target based on an index) or factors which are within the
+control of one or other of the parties (such as the Group keeping the scheme open or the employee
+maintaining any contributions required by the scheme).
+Where the terms and conditions of options are modified before they vest, the increase in the fair
+value of the options, measured immediately before and after the modification, is also charged to profit
+or loss over the remaining vesting period.
+Where equity instruments are granted to persons other than employees, profit or loss is charged with
+fair value of goods and services received.
+
+Page 25
+
+=== page 29 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+2.11 Taxation
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense
+recognised as other comprehensive income of to an item recognised directly in equity is also
+recognised in other comprehensive income of directly in equity respectively.
+The current income tax charge is calculated of the basis of tax fates and laws that have been
+enacted or substantively enacted by the balance sheet date in the countries where the Company and
+the Group operate and generate income.
+’ Deferred tax balances are recognised in respect of all timing differences that have originated but not
+reversed by the balance sheet date, except that:
+. The recognition of deferred tax assets is limited to the extent that it is probable that they will be
+recovered against the reversal of deferred tax liabilities or other future taxable profits;
+. Any deferred tax balances are reversed if and when all conditions for retaining associated tax
+allowances have been met; and
+° Where they relate to timing differences in respect of interests in subsidiaries, associates,
+branches and joint ventures and the Group can contro! the reversal of the timing differences
+and such reversal is not considered probable in the foreseeable future.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of
+business combinations, when deferred tax is recognised on the differences between the fair values of
+assets acquired and the future tax deductions available for them and the differences between the fair
+values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined
+using tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+: ; Page 26
+
+=== page 30 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued) :
+2.12 Intangible assets
+Negative goodwill .
+Where the cost of the business combination exceeds the fair value of the group's interest in the
+assets, liabilities and contingent ‘liabilities acquired, negative goodwill arises. The group, after -
+consideration of the assets, liabilities and contingent liabilities acquired and the cost of the
+combination, recognises negative goodwill on the balance sheet and releases this to profit and loss,
+up to the fair value of non-monetary assets acquired, over the periods in which the non-monetary
+assets are recovered and any excess over the fair value of non-monetary assets in the income
+statement over the period expected to benefit.
+Other intangible assets
+Intangible assets acquired separately from a business are recognised at cost and are subsequently
+measured at cost less accumulated amortisation and accumulated impairment losses.
+Intangible assets acquired on business combinations are recognised separately from goodwill at the
+acquisition date where it is probable that the expected future economic benefits that are attributable
+to the asset will flow to the entity and the fair value of the asset can be measured reliably; the
+intangible asset arises from contractual or other legal rights; and the intangible asset is separable
+from the entity.
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual Values
+over their useful lives on the following bases:
+Intellectual property - Over estimated useful life of 4 years
+y
+Page 27
+
+=== page 31 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+
+2.13 Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated
+depreciation and any accumulated impairment losses. Historical cost includes expenditure that is
+directly attributable to bringing the asset to the location and condition necessary for it to be capable of
+operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their
+estimated useful lives, using the straight-line method, as follows:
+Depreciation is provided on the following basis: :
+
+. Fixtures and fittings - 10 years or life of lease
+Computer equipment - 3 years
+
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted
+prospectively if appropriate, or if there is an indication of a significant change since the last reporting
+date. :
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount
+and are recognised in profit or loss.
+
+2.14 Valuation of investments :
+Investments in subsidiaries are measured at cost less accumulated impairment.
+
+2.15 Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less
+costs to complete and sell. Cost is based on the cost of purchase on a weighted average basis. Work
+in progress and finished goods include labour and attributable overheads.
+At each balance sheet date, stocks are assessed for impairment. If stock is impaired, the carrying
+amount is reduced to its selling price less costs to complete and sell. The impairment loss is
+recognised immediately in profit or loss.
+
+. Page 28
+
+=== page 32 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+2. Accounting policies (continued)
+2.16 Financial instruments
+Financial assets and financial liabilities are recognised in the Balance Sheet when the Group
+becomes a party to the contractual provisions of the instrument.
+Trade and other debtors and creditors are classified as basic financial instruments and measured at
+initial recognition at transaction price. Debtors and creditors are subsequently measured at amortised
+cost using the effective interest rate method. A provision is established when there is objective
+evidence that the Group will not be able to collect all amounts due.
+Cash and cash equivalents are classified as basic financial instruments and comprise cash in hand
+and at bank, short-term bank deposits with an original maturity of three months or less and bank
+overdrafts which are an integral part of the Group’s cash management.
+Financial liabilities and equity instruments issued by the Group are classified in accordance with the
+substance of the contractual arrangements entered into and the definitions of a financial liability and
+an equity instrument. An equity instrument is any contract that evidences a residual interest in the
+assets of the Group after deducting all of its liabilities. Equity instruments issued by the Group are
+recorded at the proceeds received, net of direct issue costs.
+3. Judgements in applying accounting policies and key sources of estimation uncertainty
+Estimates and judgements are continually evaluated and are based on historical experience and other
+factors, including expectations of future events that are believed to be reasonable under the
+circumstances.
+The Directors believe there are no areas, other than those listed below, involving a high degree of
+judgement that have a significant impact on the financial statements, other than share options. There are
+no key assumptions or other sources of estimation uncertainty relating to estimates that require subjective
+or complex judgements.
+Useful life of goodwill & other intangible assets
+The balances relate to the acquisition of Comma Payments Limited and were amortised over a four year
+period (note 11). The goodwill was fully written off during the year.
+Carrying value of amounts owed by group undertakings and investment in subsidiaries
+The carrying value of amounts owed by group undertakings and investments in subsidiaries are initially
+recorded at cost and subsequently measured at cost less provision for impairment. The directors have
+reviewed all forecast and budgetary information available to them and have deemed there to be no
+objective evidence that the Parent Company will not recover the amount stated in the financial statements.
+Page 29
+
+=== page 33 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+3. Judgements in applying accounting policies (continued)
+Share Options
+The Company has an EMI share option scheme in place. The valuation of the options is based on the
+Company's estimated equity value, derived primarily from revenue multiples and supported by a PWER-
+- based valuation framework. Equity value is then allocated across share classes using a waterfall approach
+that reflects liquidation preferences and expected exit scenarios (Note 19).
+Recognition and presentation of interchange income and cashback arrangements
+The Company has exercised judgement in determining the appropriate presentation of cashback
+arrangements linked to transaction-based revenues.
+Following a review of the nature of these arrangements, the Company concluded that given the
+contractual separation of the contracting and payment processing entities, the cash back payable to
+customers are deemed to be a separate commercial obligation and therefore have elected to reflect the
+related cashback costs as Cost of Sales, noting this provides more relevant and reliable information
+regarding the Group's trading activities.
+Comparative information has been restated to reflect this chiange in accounting policy (see note 2.5 for
+further details).
+4. Turnover
+: Analysis of turnover by country of destination:
+As restated
+2025 2024
+£000 £000
+United Kingdom 1,872 1,776
+Rest of Europe 1,647 1,659
+Rest of the world - 84
+3,519 3,519
+As restated
+2025 2024
+: £000 £000
+Analysis of turnover by class of business:
+Subscription §52 853
+Set up/implementation 220 169
+Activity based revenue 2,747 2,497
+: Gross Turnover 3,519 3,519
+Page 30
+
+=== page 34 ===
+PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+5. Operating loss
+The operating loss is stated after charging/(crediting):
+2025 2024
+£000 £000
+Exchange differences 398 12
+Other operating lease rentals’ 181 126
+Depreciation of tangible fixed assets 42 63
+Amortisation of intangible fixed assets 82 93
+Impairment of intangible fixed assets 184 -
+6. Auditor's remuneration
+During the year, the Group obtdiried the following services from the Company's auditor:
+2025 2024
+£000 £000
+Fees payable to the Company's auditor for the audit of thé consolidated and ;
+parent Company's financial statements 107 103
+Fees payable to the Company's auditor in respect of:
+Taxation compliance services ; : 14 13
+Transfer pricing - 14
+Preparation of statutory accounts 6 5
+Page 31
+
+=== page 35 ===
+; PAYSTRATUS GROUP LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+7. Employees ;
+Staff costs were as follows:
+Group Group Company Company
+2025 2024 2025 2024
+; £000 £000 £000 £000
+. Wages and salaries 4,624 6,676 3,218 4,250
+Staff national insurance 497 568 428 475
+Staff pension costs 36 59 36 59
+5,157 7,303 3,682 4,784
+The average monthly number of employees, including the directors, during the year was as follows:
+Group Group Company Company
+2025 2024 2025 2024
+No. No. No. No.
+Directors & executives 6 5 4 6
+Operations 16 22 10 12
+Finance & HR 11 14 7 7
+Technology 9 23 4 6
+Product 6 9 2. 3
+Commercial . 8 11 8 11
+56 84 35 45
+8. Directors’ remuneration
+Group Group Company Company
+2025 2024 2025 2024
+£000 £000 £000 £000
+Aggregate remuneration 279 270 150 155
+Directors’ fees 5 5 5 5
+284 275 155 160
+The highest paid director received remuneration of £150k (2024 - £150k).
+During the year, retirement benefits were accruing to 1 director (2024 - 1).
+Included within directors' emoluments are benefits in relation to defined contribution pension schemes
+totalling £1.2k (2024 - £1k).
+Page 32
+

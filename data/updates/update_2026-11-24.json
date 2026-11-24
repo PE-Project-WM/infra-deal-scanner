@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "checked_since": "2026-08-26",
  "previous_scored_on": "2026-11-24",
- "headline": "Scoring method updated (v3.1): 2 new in the top 10, 2 dropped out, 6 moved within it",
+ "headline": "Scoring method updated (v3.1): 6 new in the top 10, 6 dropped out, 9 moved within it",
  "method_changed": true,
  "method_version": "v3.1",
  "events_count": 6,
@@ -10,6 +10,26 @@
  "top10": [
   {
    "rank": 1,
+   "company": "Wifinity",
+   "score": 93.4,
+   "fit": "IN",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 39805588.0,
+   "margin": 0.395,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "London",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 14.7,
+    "margin_quality": 21.2,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 2,
    "company": "VEA Group",
    "score": 84.3,
    "fit": "IN",
@@ -29,7 +49,87 @@
    }
   },
   {
-   "rank": 2,
+   "rank": 3,
+   "company": "Open Fibre Networks",
+   "score": 83.2,
+   "fit": "IN",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 27759695.0,
+   "margin": 0.509,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Bury St. Edmunds",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 21.2,
+    "balance_sheet": 4.5
+   }
+  },
+  {
+   "rank": 4,
+   "company": "The Wireless Infrastructure Company",
+   "score": 83.1,
+   "fit": "IN",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 38943912.0,
+   "margin": 0.587,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "London",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 15.0,
+    "strategy_fit": 20.0,
+    "size_fit": 11.9,
+    "margin_quality": 21.2,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 5,
+   "company": "Kcom Group",
+   "score": 81.7,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 96210000.0,
+   "margin": 0.458,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "East Yorkshire",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 9.0,
+    "margin_quality": 21.2,
+    "balance_sheet": 9.0
+   }
+  },
+  {
+   "rank": 6,
+   "company": "National Grid Telecoms",
+   "score": 79.7,
+   "fit": "IN",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 24089000.0,
+   "margin": 0.137,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Bristol",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 11.7,
+    "balance_sheet": 10.5
+   }
+  },
+  {
+   "rank": 7,
    "company": "Clarus Networks",
    "score": 79.6,
    "fit": "IN",
@@ -49,7 +149,27 @@
    }
   },
   {
-   "rank": 3,
+   "rank": 8,
+   "company": "Beacon Communication Services",
+   "score": 78.8,
+   "fit": "IN",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 31765539.0,
+   "margin": 0.195,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Tavistock",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 15.0,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 15.1,
+    "balance_sheet": 13.7
+   }
+  },
+  {
+   "rank": 9,
    "company": "Alert Communications",
    "score": 78.2,
    "fit": "ADJACENT",
@@ -69,7 +189,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 10,
    "company": "The Networking People (TNP)",
    "score": 78.0,
    "fit": "IN",
@@ -87,135 +207,28 @@
     "margin_quality": 12.0,
     "balance_sheet": 13.5
    }
-  },
-  {
-   "rank": 5,
-   "company": "Dstny Global Services UK",
-   "score": 77.7,
-   "fit": "ADJACENT",
-   "segment": "Other telecoms networks",
-   "turnover": 12584106.0,
-   "margin": 0.407,
-   "access": "Check",
-   "access_note": "ownership not found",
-   "town": "Newport Pagnell",
-   "confidence": "Medium",
-   "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 12.0,
-    "size_fit": 15.0,
-    "margin_quality": 21.2,
-    "balance_sheet": 12.0
-   }
-  },
-  {
-   "rank": 6,
-   "company": "MAP Group (UK)",
-   "score": 75.5,
-   "fit": "IN",
-   "segment": "Other telecoms networks",
-   "turnover": 75597498.0,
-   "margin": 0.24,
-   "access": "Low",
-   "access_note": "employee-owned, rarely for sale",
-   "town": "Stockton-On-Tees",
-   "confidence": "Medium",
-   "pts": {
-    "revenue_visibility": 11.2,
-    "strategy_fit": 20.0,
-    "size_fit": 13.8,
-    "margin_quality": 17.8,
-    "balance_sheet": 12.7
-   }
-  },
-  {
-   "rank": 7,
-   "company": "Satcom Global",
-   "score": 72.0,
-   "fit": "IN",
-   "segment": "Satellite networks",
-   "turnover": 27504819.520000003,
-   "margin": 0.138,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "North Shields",
-   "confidence": "Medium",
-   "pts": {
-    "revenue_visibility": 21.2,
-    "strategy_fit": 20.0,
-    "size_fit": 15.0,
-    "margin_quality": 11.4,
-    "balance_sheet": 4.4
-   }
-  },
-  {
-   "rank": 8,
-   "company": "Barclay Digital Services",
-   "score": 69.9,
-   "fit": "ADJACENT",
-   "segment": "Other telecoms networks",
-   "turnover": 17547732.0,
-   "margin": 0.222,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "Belfast",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 13.8,
-    "strategy_fit": 12.0,
-    "size_fit": 15.0,
-    "margin_quality": 16.7,
-    "balance_sheet": 12.4
-   }
-  },
-  {
-   "rank": 9,
-   "company": "Rapid Response Telecoms",
-   "score": 69.0,
-   "fit": "IN",
-   "segment": "Building and maintaining telecoms and utility networks",
-   "turnover": 33104076.0,
-   "margin": 0.163,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "Barnsley",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 10.0,
-    "strategy_fit": 20.0,
-    "size_fit": 15.0,
-    "margin_quality": 13.3,
-    "balance_sheet": 10.7
-   }
-  },
-  {
-   "rank": 10,
-   "company": "Heneghan Holdings",
-   "score": 67.6,
-   "fit": "ADJACENT",
-   "segment": "Building and maintaining telecoms and utility networks",
-   "turnover": 41678822.0,
-   "margin": 0.414,
-   "access": "Medium",
-   "access_note": "owned via a UK holding company",
-   "town": "Leeds",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 8.8,
-    "strategy_fit": 12.0,
-    "size_fit": 14.1,
-    "margin_quality": 21.2,
-    "balance_sheet": 11.5
-   }
   }
  ],
  "top10_moves": [
   {
+   "company": "Wifinity",
+   "number": "03921568",
+   "kind": "new",
+   "from": null,
+   "to": 1,
+   "score_from": null,
+   "score_to": 93.4,
+   "reasons": [
+    "entered the ranking (IN fit, low accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "VEA Group",
    "number": "13433533",
-   "kind": "same",
+   "kind": "down",
    "from": 1,
-   "to": 1,
+   "to": 2,
    "score_from": 91.8,
    "score_to": 84.3,
    "reasons": [
@@ -224,11 +237,63 @@
    "events": []
   },
   {
+   "company": "Open Fibre Networks",
+   "number": "05412813",
+   "kind": "new",
+   "from": null,
+   "to": 3,
+   "score_from": null,
+   "score_to": 83.2,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Wireless Infrastructure Company",
+   "number": "03307001",
+   "kind": "new",
+   "from": null,
+   "to": 4,
+   "score_from": null,
+   "score_to": 83.1,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Kcom Group",
+   "number": "02150618",
+   "kind": "new",
+   "from": null,
+   "to": 5,
+   "score_from": null,
+   "score_to": 81.7,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "National Grid Telecoms",
+   "number": "02386327",
+   "kind": "new",
+   "from": null,
+   "to": 6,
+   "score_from": null,
+   "score_to": 79.7,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Clarus Networks",
    "number": "SC492820",
-   "kind": "same",
+   "kind": "down",
    "from": 2,
-   "to": 2,
+   "to": 7,
    "score_from": 84.6,
    "score_to": 79.6,
    "reasons": [
@@ -237,11 +302,24 @@
    "events": []
   },
   {
+   "company": "Beacon Communication Services",
+   "number": "04186486",
+   "kind": "new",
+   "from": null,
+   "to": 8,
+   "score_from": null,
+   "score_to": 78.8,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Alert Communications",
    "number": "03912906",
-   "kind": "up",
+   "kind": "down",
    "from": 6,
-   "to": 3,
+   "to": 9,
    "score_from": 73.9,
    "score_to": 78.2,
    "reasons": [
@@ -256,7 +334,7 @@
    "number": "07667393",
    "kind": "down",
    "from": 3,
-   "to": 4,
+   "to": 10,
    "score_from": 83.0,
    "score_to": 78.0,
    "reasons": [
@@ -265,11 +343,24 @@
    "events": []
   },
   {
+   "company": "Dstny Global Services UK",
+   "number": "08414530",
+   "kind": "down",
+   "from": 5,
+   "to": 11,
+   "score_from": 77.7,
+   "score_to": 77.7,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
    "company": "MAP Group (UK)",
    "number": "02853596",
-   "kind": "up",
+   "kind": "down",
    "from": 8,
-   "to": 6,
+   "to": 14,
    "score_from": 73.1,
    "score_to": 75.5,
    "reasons": [
@@ -282,7 +373,7 @@
    "number": "05208041",
    "kind": "down",
    "from": 4,
-   "to": 7,
+   "to": 20,
    "score_from": 79.2,
    "score_to": 72.0,
    "reasons": [
@@ -298,7 +389,7 @@
    "number": "NI624500",
    "kind": "down",
    "from": 7,
-   "to": 8,
+   "to": 24,
    "score_from": 73.6,
    "score_to": 69.9,
    "reasons": [
@@ -307,42 +398,11 @@
    "events": []
   },
   {
-   "company": "Rapid Response Telecoms",
-   "number": "11480193",
-   "kind": "new",
-   "from": null,
-   "to": 9,
-   "score_from": null,
-   "score_to": 69.0,
-   "reasons": [
-    "entered the ranking (IN fit, high accessibility)"
-   ],
-   "events": [
-    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
-   ]
-  },
-  {
-   "company": "Heneghan Holdings",
-   "number": "09956206",
-   "kind": "new",
-   "from": null,
-   "to": 10,
-   "score_from": null,
-   "score_to": 67.6,
-   "reasons": [
-    "entered the ranking (ADJACENT fit, medium accessibility)"
-   ],
-   "events": [
-    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
-    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
-   ]
-  },
-  {
    "company": "C.A. Telecom UK",
    "number": "06011062",
    "kind": "down",
    "from": 10,
-   "to": 13,
+   "to": 33,
    "score_from": 66.7,
    "score_to": 66.7,
    "reasons": [
@@ -370,7 +430,7 @@
    "number": "00714431",
    "kind": "new",
    "from": null,
-   "to": 40,
+   "to": 84,
    "score_from": null,
    "score_to": 38.8,
    "reasons": [
@@ -379,11 +439,24 @@
    "events": []
   },
   {
+   "company": "Global Marine Systems",
+   "number": "01708481",
+   "kind": "new",
+   "from": null,
+   "to": 16,
+   "score_from": null,
+   "score_to": 74.0,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Avoira",
    "number": "01763970",
    "kind": "down",
    "from": 22,
-   "to": 30,
+   "to": 70,
    "score_from": 47.9,
    "score_to": 47.9,
    "reasons": [
@@ -392,11 +465,102 @@
    "events": []
   },
   {
+   "company": "Intercity Technology",
+   "number": "01938625",
+   "kind": "new",
+   "from": null,
+   "to": 81,
+   "score_from": null,
+   "score_to": 41.1,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Kcom Group",
+   "number": "02150618",
+   "kind": "new",
+   "from": null,
+   "to": 5,
+   "score_from": null,
+   "score_to": 81.7,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Vanco UK",
+   "number": "02296733",
+   "kind": "new",
+   "from": null,
+   "to": 55,
+   "score_from": null,
+   "score_to": 57.2,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "NG Bailey IT Services",
+   "number": "02338401",
+   "kind": "new",
+   "from": null,
+   "to": 43,
+   "score_from": null,
+   "score_to": 61.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "National Grid Telecoms",
+   "number": "02386327",
+   "kind": "new",
+   "from": null,
+   "to": 6,
+   "score_from": null,
+   "score_to": 79.7,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Connect Managed Services (UK)",
+   "number": "02557464",
+   "kind": "new",
+   "from": null,
+   "to": 30,
+   "score_from": null,
+   "score_to": 67.2,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "X-On Health",
+   "number": "02578478",
+   "kind": "new",
+   "from": null,
+   "to": 17,
+   "score_from": null,
+   "score_to": 73.9,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "BDR Voice & Data Solutions",
    "number": "02652955",
    "kind": "down",
    "from": 25,
-   "to": 33,
+   "to": 75,
    "score_from": 44.2,
    "score_to": 44.2,
    "reasons": [
@@ -405,11 +569,37 @@
    "events": []
   },
   {
+   "company": "Maintel Europe",
+   "number": "02665837",
+   "kind": "new",
+   "from": null,
+   "to": 64,
+   "score_from": null,
+   "score_to": 53.2,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ERH Communications",
+   "number": "02697046",
+   "kind": "new",
+   "from": null,
+   "to": 93,
+   "score_from": null,
+   "score_to": 28.2,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Scci Alphatrack",
    "number": "02760731",
    "kind": "down",
    "from": 14,
-   "to": 19,
+   "to": 46,
    "score_from": 60.9,
    "score_to": 60.9,
    "reasons": [
@@ -418,11 +608,24 @@
    "events": []
   },
   {
+   "company": "John Henry Group",
+   "number": "02763306",
+   "kind": "new",
+   "from": null,
+   "to": 39,
+   "score_from": null,
+   "score_to": 63.0,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Chess",
    "number": "02797895",
    "kind": "down",
    "from": 19,
-   "to": 25,
+   "to": 61,
    "score_from": 55.0,
    "score_to": 55.0,
    "reasons": [
@@ -431,11 +634,24 @@
    "events": []
   },
   {
+   "company": "Charterhouse Voice & Data",
+   "number": "02804354",
+   "kind": "new",
+   "from": null,
+   "to": 63,
+   "score_from": null,
+   "score_to": 54.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "MAP Group (UK)",
    "number": "02853596",
-   "kind": "up",
+   "kind": "down",
    "from": 8,
-   "to": 6,
+   "to": 14,
    "score_from": 73.1,
    "score_to": 75.5,
    "reasons": [
@@ -448,7 +664,7 @@
    "number": "02893478",
    "kind": "new",
    "from": null,
-   "to": 42,
+   "to": 87,
    "score_from": null,
    "score_to": 36.9,
    "reasons": [
@@ -457,11 +673,24 @@
    "events": []
   },
   {
+   "company": "ZEN Internet",
+   "number": "03101568",
+   "kind": "new",
+   "from": null,
+   "to": 53,
+   "score_from": null,
+   "score_to": 58.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Ferns Surfacing",
    "number": "03193093",
    "kind": "down",
    "from": 23,
-   "to": 31,
+   "to": 72,
    "score_from": 46.8,
    "score_to": 46.8,
    "reasons": [
@@ -487,7 +716,7 @@
    "number": "03228824",
    "kind": "down",
    "from": 20,
-   "to": 26,
+   "to": 62,
    "score_from": 54.9,
    "score_to": 54.9,
    "reasons": [
@@ -496,11 +725,24 @@
    "events": []
   },
   {
+   "company": "The Wireless Infrastructure Company",
+   "number": "03307001",
+   "kind": "new",
+   "from": null,
+   "to": 4,
+   "score_from": null,
+   "score_to": 83.1,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "5G Communications",
    "number": "03513467",
    "kind": "new",
    "from": null,
-   "to": 14,
+   "to": 34,
    "score_from": null,
    "score_to": 66.6,
    "reasons": [
@@ -509,11 +751,24 @@
    "events": []
   },
   {
+   "company": "Telecommunications Management",
+   "number": "03592271",
+   "kind": "new",
+   "from": null,
+   "to": 23,
+   "score_from": null,
+   "score_to": 70.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Windsor Telecom",
    "number": "03752620",
    "kind": "down",
    "from": 13,
-   "to": 17,
+   "to": 38,
    "score_from": 63.3,
    "score_to": 63.3,
    "reasons": [
@@ -526,7 +781,7 @@
    "number": "03868503",
    "kind": "down",
    "from": 26,
-   "to": 34,
+   "to": 76,
    "score_from": 44.0,
    "score_to": 44.0,
    "reasons": [
@@ -535,11 +790,24 @@
    "events": []
   },
   {
+   "company": "Wireless Logic",
+   "number": "03880663",
+   "kind": "new",
+   "from": null,
+   "to": 86,
+   "score_from": null,
+   "score_to": 37.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Alert Communications",
    "number": "03912906",
-   "kind": "up",
+   "kind": "down",
    "from": 6,
-   "to": 3,
+   "to": 9,
    "score_from": 73.9,
    "score_to": 78.2,
    "reasons": [
@@ -550,11 +818,50 @@
    ]
   },
   {
+   "company": "Wifinity",
+   "number": "03921568",
+   "kind": "new",
+   "from": null,
+   "to": 1,
+   "score_from": null,
+   "score_to": 93.4,
+   "reasons": [
+    "entered the ranking (IN fit, low accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avanti Broadband",
+   "number": "03958887",
+   "kind": "new",
+   "from": null,
+   "to": 73,
+   "score_from": null,
+   "score_to": 45.8,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Onecom",
+   "number": "04031272",
+   "kind": "new",
+   "from": null,
+   "to": 49,
+   "score_from": null,
+   "score_to": 60.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "FLR Spectron",
    "number": "04085164",
    "kind": "down",
    "from": 18,
-   "to": 24,
+   "to": 59,
    "score_from": 55.8,
    "score_to": 55.8,
    "reasons": [
@@ -563,11 +870,37 @@
    "events": []
   },
   {
+   "company": "Daisy Communications",
+   "number": "04145329",
+   "kind": "new",
+   "from": null,
+   "to": 47,
+   "score_from": null,
+   "score_to": 60.7,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Beacon Communication Services",
+   "number": "04186486",
+   "kind": "new",
+   "from": null,
+   "to": 8,
+   "score_from": null,
+   "score_to": 78.8,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "I.P. Integration",
    "number": "04210561",
    "kind": "down",
    "from": 16,
-   "to": 22,
+   "to": 57,
    "score_from": 56.7,
    "score_to": 56.7,
    "reasons": [
@@ -580,7 +913,7 @@
    "number": "04213760",
    "kind": "down",
    "from": 12,
-   "to": 16,
+   "to": 37,
    "score_from": 63.6,
    "score_to": 63.6,
    "reasons": [
@@ -593,7 +926,7 @@
    "number": "04380546",
    "kind": "new",
    "from": null,
-   "to": 28,
+   "to": 67,
    "score_from": null,
    "score_to": 49.8,
    "reasons": [
@@ -606,7 +939,7 @@
    "number": "04503928",
    "kind": "new",
    "from": null,
-   "to": 45,
+   "to": 91,
    "score_from": null,
    "score_to": 31.9,
    "reasons": [
@@ -619,7 +952,7 @@
    "number": "04544886",
    "kind": "new",
    "from": null,
-   "to": 18,
+   "to": 41,
    "score_from": null,
    "score_to": 62.3,
    "reasons": [
@@ -628,11 +961,24 @@
    "events": []
   },
   {
+   "company": "Pageone Communications",
+   "number": "04560277",
+   "kind": "new",
+   "from": null,
+   "to": 60,
+   "score_from": null,
+   "score_to": 55.4,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Spectra Group (UK)",
    "number": "04570376",
    "kind": "down",
    "from": 30,
-   "to": 38,
+   "to": 82,
    "score_from": 40.9,
    "score_to": 40.9,
    "reasons": [
@@ -645,7 +991,7 @@
    "number": "04632756",
    "kind": "down",
    "from": 29,
-   "to": 37,
+   "to": 79,
    "score_from": 41.9,
    "score_to": 41.9,
    "reasons": [
@@ -658,7 +1004,7 @@
    "number": "05208041",
    "kind": "down",
    "from": 4,
-   "to": 7,
+   "to": 20,
    "score_from": 79.2,
    "score_to": 72.0,
    "reasons": [
@@ -670,11 +1016,89 @@
    ]
   },
   {
+   "company": "North PB",
+   "number": "05217343",
+   "kind": "new",
+   "from": null,
+   "to": 52,
+   "score_from": null,
+   "score_to": 59.4,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Intelligent Communications Solutions",
+   "number": "05238375",
+   "kind": "new",
+   "from": null,
+   "to": 69,
+   "score_from": null,
+   "score_to": 48.8,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ground Control Technologies UK",
+   "number": "05240202",
+   "kind": "new",
+   "from": null,
+   "to": 42,
+   "score_from": null,
+   "score_to": 62.0,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avanti Space",
+   "number": "05316540",
+   "kind": "new",
+   "from": null,
+   "to": 80,
+   "score_from": null,
+   "score_to": 41.4,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Open Fibre Networks",
+   "number": "05412813",
+   "kind": "new",
+   "from": null,
+   "to": 3,
+   "score_from": null,
+   "score_to": 83.2,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "4Net Technologies",
+   "number": "05448638",
+   "kind": "new",
+   "from": null,
+   "to": 45,
+   "score_from": null,
+   "score_to": 61.0,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Nomios UK&I",
    "number": "05787755",
    "kind": "down",
    "from": 17,
-   "to": 23,
+   "to": 58,
    "score_from": 56.0,
    "score_to": 56.0,
    "reasons": [
@@ -683,11 +1107,37 @@
    "events": []
   },
   {
+   "company": "York Telecom",
+   "number": "05942331",
+   "kind": "new",
+   "from": null,
+   "to": 89,
+   "score_from": null,
+   "score_to": 34.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Natilik",
+   "number": "05954905",
+   "kind": "new",
+   "from": null,
+   "to": 51,
+   "score_from": null,
+   "score_to": 60.3,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "C.A. Telecom UK",
    "number": "06011062",
    "kind": "down",
    "from": 10,
-   "to": 13,
+   "to": 33,
    "score_from": 66.7,
    "score_to": 66.7,
    "reasons": [
@@ -696,11 +1146,37 @@
    "events": []
   },
   {
+   "company": "Centercomms",
+   "number": "06391276",
+   "kind": "new",
+   "from": null,
+   "to": 19,
+   "score_from": null,
+   "score_to": 72.1,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "4Com Network Services",
+   "number": "06472696",
+   "kind": "new",
+   "from": null,
+   "to": 44,
+   "score_from": null,
+   "score_to": 61.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Ridown Capital",
    "number": "06521296",
    "kind": "down",
    "from": 28,
-   "to": 36,
+   "to": 78,
    "score_from": 42.8,
    "score_to": 42.8,
    "reasons": [
@@ -709,11 +1185,37 @@
    "events": []
   },
   {
+   "company": "Bistech Group PLC",
+   "number": "06797181",
+   "kind": "new",
+   "from": null,
+   "to": 35,
+   "score_from": null,
+   "score_to": 65.2,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Natterbox",
+   "number": "06968249",
+   "kind": "new",
+   "from": null,
+   "to": 25,
+   "score_from": null,
+   "score_to": 69.7,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Lily Communications",
    "number": "07020016",
    "kind": "down",
    "from": 21,
-   "to": 29,
+   "to": 68,
    "score_from": 49.1,
    "score_to": 49.1,
    "reasons": [
@@ -722,11 +1224,24 @@
    "events": []
   },
   {
+   "company": "Community Fibre",
+   "number": "07413288",
+   "kind": "new",
+   "from": null,
+   "to": 12,
+   "score_from": null,
+   "score_to": 76.9,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "The Networking People (TNP)",
    "number": "07667393",
    "kind": "down",
    "from": 3,
-   "to": 4,
+   "to": 10,
    "score_from": 83.0,
    "score_to": 78.0,
    "reasons": [
@@ -735,11 +1250,102 @@
    "events": []
   },
   {
+   "company": "Tela Technology",
+   "number": "07974624",
+   "kind": "new",
+   "from": null,
+   "to": 21,
+   "score_from": null,
+   "score_to": 71.7,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Aerial Direct",
+   "number": "08043921",
+   "kind": "new",
+   "from": null,
+   "to": 26,
+   "score_from": null,
+   "score_to": 69.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Datalec Power Installations",
+   "number": "08235914",
+   "kind": "new",
+   "from": null,
+   "to": 50,
+   "score_from": null,
+   "score_to": 60.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Redcentric Solutions",
+   "number": "08322856",
+   "kind": "new",
+   "from": null,
+   "to": 22,
+   "score_from": null,
+   "score_to": 70.7,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Dstny Global Services UK",
+   "number": "08414530",
+   "kind": "down",
+   "from": 5,
+   "to": 11,
+   "score_from": 77.7,
+   "score_to": 77.7,
+   "reasons": [
+    "scoring method changed (v3 to v3.1)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Arqiva Smart Metering",
+   "number": "08682562",
+   "kind": "new",
+   "from": null,
+   "to": 40,
+   "score_from": null,
+   "score_to": 62.3,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Network Planning Solutions",
+   "number": "08709631",
+   "kind": "new",
+   "from": null,
+   "to": 18,
+   "score_from": null,
+   "score_to": 73.7,
+   "reasons": [
+    "entered the ranking (IN fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Abacus Information Technology UK",
    "number": "08824522",
    "kind": "down",
    "from": 32,
-   "to": 44,
+   "to": 90,
    "score_from": 33.1,
    "score_to": 33.1,
    "reasons": [
@@ -752,7 +1358,7 @@
    "number": "09180490",
    "kind": "new",
    "from": null,
-   "to": 39,
+   "to": 83,
    "score_from": null,
    "score_to": 39.0,
    "reasons": [
@@ -761,11 +1367,24 @@
    "events": []
   },
   {
+   "company": "Redwood Technologies Group",
+   "number": "09228224",
+   "kind": "new",
+   "from": null,
+   "to": 15,
+   "score_from": null,
+   "score_to": 75.4,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Siteground Hosting",
    "number": "09348602",
    "kind": "down",
    "from": 11,
-   "to": 15,
+   "to": 36,
    "score_from": 64.0,
    "score_to": 64.0,
    "reasons": [
@@ -778,7 +1397,7 @@
    "number": "09585068",
    "kind": "new",
    "from": null,
-   "to": 11,
+   "to": 29,
    "score_from": null,
    "score_to": 67.3,
    "reasons": [
@@ -791,7 +1410,7 @@
    "number": "09956206",
    "kind": "new",
    "from": null,
-   "to": 10,
+   "to": 28,
    "score_from": null,
    "score_to": 67.6,
    "reasons": [
@@ -807,7 +1426,7 @@
    "number": "10021562",
    "kind": "new",
    "from": null,
-   "to": 20,
+   "to": 54,
    "score_from": null,
    "score_to": 58.5,
    "reasons": [
@@ -820,9 +1439,22 @@
    "number": "10779280",
    "kind": "new",
    "from": null,
-   "to": 27,
+   "to": 66,
    "score_from": null,
    "score_to": 50.0,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Badger Group",
+   "number": "10902222",
+   "kind": "new",
+   "from": null,
+   "to": 13,
+   "score_from": null,
+   "score_to": 75.7,
    "reasons": [
     "entered the ranking (ADJACENT fit, high accessibility)"
    ],
@@ -833,7 +1465,7 @@
    "number": "11480193",
    "kind": "new",
    "from": null,
-   "to": 9,
+   "to": 27,
    "score_from": null,
    "score_to": 69.0,
    "reasons": [
@@ -844,11 +1476,24 @@
    ]
   },
   {
+   "company": "Nets International",
+   "number": "12421328",
+   "kind": "new",
+   "from": null,
+   "to": 32,
+   "score_from": null,
+   "score_to": 66.8,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Opus Tech",
    "number": "12520403",
    "kind": "new",
    "from": null,
-   "to": 46,
+   "to": 92,
    "score_from": null,
    "score_to": 31.8,
    "reasons": [
@@ -859,9 +1504,9 @@
   {
    "company": "VEA Group",
    "number": "13433533",
-   "kind": "same",
+   "kind": "down",
    "from": 1,
-   "to": 1,
+   "to": 2,
    "score_from": 91.8,
    "score_to": 84.3,
    "reasons": [
@@ -874,7 +1519,7 @@
    "number": "13576894",
    "kind": "down",
    "from": 27,
-   "to": 35,
+   "to": 77,
    "score_from": 43.2,
    "score_to": 43.2,
    "reasons": [
@@ -887,7 +1532,7 @@
    "number": "14354114",
    "kind": "down",
    "from": 31,
-   "to": 43,
+   "to": 88,
    "score_from": 35.5,
    "score_to": 35.5,
    "reasons": [
@@ -900,7 +1545,7 @@
    "number": "NI064545",
    "kind": "down",
    "from": 15,
-   "to": 21,
+   "to": 56,
    "score_from": 56.9,
    "score_to": 56.9,
    "reasons": [
@@ -911,11 +1556,24 @@
    ]
   },
   {
+   "company": "OCU Nettworx",
+   "number": "NI612801",
+   "kind": "new",
+   "from": null,
+   "to": 48,
+   "score_from": null,
+   "score_to": 60.7,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "M & M Contractors (Europe)",
    "number": "NI614374",
    "kind": "new",
    "from": null,
-   "to": 41,
+   "to": 85,
    "score_from": null,
    "score_to": 38.3,
    "reasons": [
@@ -928,7 +1586,7 @@
    "number": "NI620995",
    "kind": "new",
    "from": null,
-   "to": 12,
+   "to": 31,
    "score_from": null,
    "score_to": 67.0,
    "reasons": [
@@ -941,7 +1599,7 @@
    "number": "NI624500",
    "kind": "down",
    "from": 7,
-   "to": 8,
+   "to": 24,
    "score_from": 73.6,
    "score_to": 69.9,
    "reasons": [
@@ -950,11 +1608,24 @@
    "events": []
   },
   {
+   "company": "Pelion IOT",
+   "number": "SC211701",
+   "kind": "new",
+   "from": null,
+   "to": 65,
+   "score_from": null,
+   "score_to": 50.7,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Clarus Networks",
    "number": "SC492820",
-   "kind": "same",
+   "kind": "down",
    "from": 2,
-   "to": 2,
+   "to": 7,
    "score_from": 84.6,
    "score_to": 79.6,
    "reasons": [
@@ -963,11 +1634,24 @@
    "events": []
   },
   {
+   "company": "Highlands Bidco",
+   "number": "SC646446",
+   "kind": "new",
+   "from": null,
+   "to": 71,
+   "score_from": null,
+   "score_to": 47.2,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
    "company": "Hutchison",
    "number": "SC702923",
    "kind": "down",
    "from": 24,
-   "to": 32,
+   "to": 74,
    "score_from": 44.5,
    "score_to": 44.5,
    "reasons": [
@@ -1020,5 +1704,5 @@
    "detail": "Leydon, Chris resigned"
   }
  ],
- "ranked": 46
+ "ranked": 93
 }

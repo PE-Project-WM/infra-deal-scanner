@@ -14,6 +14,10 @@ os.makedirs(OUT, exist_ok=True)
 KEY = os.environ['CH_API_KEY'].strip()
 
 F = pd.read_csv(f'{INP}/financials_all.csv', dtype={'CompanyNumber': str})
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ocr_apply import apply_ocr
+F = apply_ocr(F)   # scanned accounts read by OCR (scripts/ocr_fetch.py, ocr_parse.py)
 IN_BAND = ['Shortlist', 'Watchlist (loss-making)', 'In band, EBITDA unknown']
 D = F[F['status'].isin(IN_BAND)].copy().reset_index(drop=True)
 print(f'Candidates to clean: {len(D)}')
@@ -186,7 +190,7 @@ print(D['relevance'].value_counts().to_string())
 
 def exclusion(r):
     if r['relevance'] == 'OUT':
-        return 'Not digital infrastructure: ' + r['relevance_reason'].split(' (draft')[0].split(' (web-checked')[0]
+        return 'Not digital infrastructure: ' + r['relevance_reason'].split(' (draft')[0].split(' (web-checked')[0].split(' (checked')[0]
     if r['duplicate_of']:
         return 'Duplicate of ' + r['duplicate_of']
     if r['ownership'] == 'Foreign-owned subsidiary':

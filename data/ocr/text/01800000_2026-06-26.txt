@@ -1,0 +1,1787 @@
+=== page 1 ===
+British Telecommunications plc 7
+Annual Report and Financial Statements |
+Year ended 31 March 2026
+Company number 1800000 .
+. 6 *AFAG8HTS* ~ :
+; s AO6 17/06/2026 #130
+COMPANIES HOUSE
+
+=== page 2 ===
+Contents
+Page
+Corporate information . 2 :
+Strategic report — 3
+"Report of the Directors 21 ;
+Statement of directors’ responsibilities 25
+; Independent auditor's report to the members of British ;
+
+Telecommunications ple : 26
+
+Group income statement . 32 , .
+Group statement of comprehensive income : 33 : ;
+Group balance sheet : 34 . .
+
+Group statement of changes in equity 35
+
+Group cash flow statement 36
+
+Notes to the consolidated financial statements 37
+
+Financial Statements of parent company 107
+
+Additional Information 139
+
+1 .
+
+=== page 3 ===
+Corporate information
+Directors ;
+Neil Harris .
+Edward Heaton
+Simon Lowth
+Daniel Rider . .
+Roger Eyre (resigned 14 April 2025) .
+Helen Charnley (appointed 14 April 2025)
+Secretary
+Antony Gara . me .
+Independent Auditor ;
+KPMG LLP .
+15 Canada Square
+London
+E145GL
+Registered office :
+1 Braham Street
+. London .
+£18EE ; ;
+
+=== page 4 ===
+.
+
+Strategic report
+
+Non-financial information statement
+
+Our integrated approach to reporting means that we address the requirements of the Non-Financial Reporting Directive through the
+
+Strategic report.
+
+The overall strategy of British Telecommunications plc (“BT pic” or the “Company”) is part of that of BT Group ple which is outlined in BT
+
+Group ple’s Annual Report 2026, which does not form part of this report.
+
+How we're organised ,
+
+BT plc is the principal trading subsidiary of BT Group ple ("BT Group"), which is the ultimate parent company.
+
+BT Group consists of customer-facing units (CFUs), technology units (TUs), and corporate functions (CFs). We share resources across our
+
+. networks, technologies, colleagues and brands to deliver the best results for customers, stakeholders and shareholders. To stay in line with
+
+UK regulations and our commitments, Openreach operates independently.
+
+Customer-facing units
+
+Our CFUs focus on distinct segments — each with unique priorities and needs. Together, they aim to provide standout customer
+
+experiences through tailored solutions which generate revenue and build trust.
+
+Our four CFUs are:
+
+- Consumer serves individuals and households with connectivity products and services. We provide 8.2 million broadband and 15.7
+million mobile connections to customers. We reach 13.1 million households, which is more than 45% of all UK homes.
+
+- Business serves businesses of all sizes, other CPs and public sector organisations with connectivity and additional solutions like cyber :
+security. We also support almost 1 million private and public sector organisations and over 1,200 wholesale customers.
+
+- International serves multinational customers with products and platforms to address the challenges and opportunities of Al-driven
+change. We also operate two next-gen platforms, Global Voice and Global Fabric are designed to deliver secure, resilient
+communication and network services around the world to support customers’ operations and growth.
+
+- Openreach independently manages our fixed access network, connecting millions of UK homes, businesses, public sites and mobile
+towers. We lead the build of the UK’s full fibre network, with 23 million premises passed. We operate the UK’s largest wholesale
+broadband and Ethernet network, supplying network services to more than 700 CPs. . .
+
+Technology units :
+
+» Our TUs build, run and maintain our networks, platforms and digital assets — apart from the fixed access infrastructure which Openreach .
+
+runs and commercialises. They modernise and secure our business through innovation and research & development (R&D).
+
+Our two TUsare:
+
+". Digital enables BT to meet customer and colleague needs by providing secure, sustainable IT and digital platforms on future proof
+technology. .
+
+- Networks designs, builds, runs and protects our mobile, core and global networks .
+
+Corporate functions
+
+Our CFs operate at group level, setting direction and defining governance frameworks, ensuring we're aligned across our activities. They
+
+make us more efficient through centralised capabilities and shared services.
+
+Our five CFs are: .
+
+- Finance and Business Services;
+
+- Strategy and Change;
+
+- People and Culture;
+
+- Legal, Regulatory Affairs, Compliance and Company Secretariat; and
+
+- Corporate Affairs and Brand. .
+
+2 BT International was launched in July 2025 as a dedicated operation within BT Group .
+
+3 .
+
+=== page 5 ===
+. :
+Strategic report continued
+Key performance indicators
+We use thirteen operational and four financial KPIs to measure our success. Each of our KPIs measures how we’re doing against our
+strategic pillars: Build; Connect; and Accelerate. We reconcile adjusted financial measures to the closest IFRS measure on page 139. Items
+presented as adjusted are stated before specific items. See page 139 for more information. We continuously monitor and evolve them to
+make sure they’re the best measures.
+: Changes to our KPIs ,
+This year we made the following changes to our reported operational KPIs to reflect the first full year reporting against our new strategy.
+For Build we introduced: :
+__ =‘Number of Openreach FTTP premises passed’. This measures our progress rolling out full-fibre across the UK, in line with our ambition .
+to reach up to 30 million premises. ‘
+~‘5G+ population coverage’. This measures our progress delivering 5G+ connectivity across the UK, in line with our aim to cover 99% of
+the country in 2030,
+For Connect we introduced: :
+- ‘Customer time on service issues’ for Business and Consumer units. This measures our progress in improving customer experience.
+— ‘Retail connections market share’ for mobile and broadband. This measures our market position connecting UK customers. .
+- ‘Converged broadband households’. This measures our progress meeting our broadband customers’ broader connectivity needs.
+And we removed:
+- ‘Total 5G connections’. 5G connectivity is now the standard for new devices, so our KPI moves to report 5G+.
+For Accelerate, we introduced:
+~‘Colleague engagement’. This measures our progress in becoming a more empowered and engaged organisation. We'll continue to
+check progress as we embed our new behaviours.
+-‘TLR’. This measures our progress towards becoming a simpler and more agile BT.
+Operational .
+* Total Openreach FTTP connections
+This is the number of UK premises connected to Openreach’s full fibre network. Demand for full fibre is high, with 8.8m (FY25: 6.5m)
+premises now connected.
+5G+ population coverage
+This is the proportion of the UK population with access to our 5G+ mobile network. We aim to reach 99% of the UK population in 2030. In
+the year we continued boosting performance and resilience across our mobile network and expanded our 5G+ network to reach 72.5% of
+the population (FY25: 43.4%).
+Number of Openreach FTTP premises passed .
+: This is the number of UK premises with access to our FTTP broadband network. Rollout has continued at pace. 22.9m premises now have .
+access (FY25: 18.1m). We're on track to get to 25 million by the end of 2026.
+Total 5G connections (formerly reported)
+This is the number of BT retail connections to the 5G network. There are 14.5m active BT retail connections, with our 5G network covering
+90.5% of the UK population. 5G connectivity is now the standard for new devices, so our KP] moves to report 5G+.
+BT Group Net Promoter Score (NPS)
+This tracks changes in our customers’ perceptions of BT Group since we launched the score in April 2016. It measures ‘promoters’ minus
+‘detractors’ across our business units. BT Group NPS applies to our retail business* and net satisfaction in our wholesale business. We're
+still focused on creating standout customer experiences, with our score up 4.1 points in FY26.
+: Business customer time on service issues
+This is the total average time spent dealing with Business customer service issues. It includes inbound and outbound calls, chats and offline
+work. We’ve spent less time dealing with Business customer service issues. Average time fell to 61.1 minutes (FY25: 64.0) as part of our
+continued focus on creating standout customer experiences.
+Consumer customer time on service issues
+This is the total average time spent dealing with Consumer customer service issues. It includes inbound and outbound calls, chats and
+offline work. We’ve spent less time dealing with customer service issues by proactively fixing problems and improving self-serve
+capabilities as part of our continued focus on creating standout customer experiences. Average time spent fell to 23.0 minutes (FY25:
+25.6 minutes). .
+Mobile retail connections market share”
+This is the BT, EE and Plusnet share (excluding wholesale) of the mobile market. We define that as total active SIMs, excluding machine-
+to-machine. This includes consumer and business voice (contract and prepaid) and mobile broadband plans (including tablets, dongles,
+watches and FWA). The UK mobile market had 87m active SIMs? at the end of 2025. Since FY22, we've lost 2pp of base market share to
+- an increasingly competitive value segment, driven by MVNOs and sub-brands. But in the last 12 months we’ve had base growth for BT.
+This has bounced our market share back to 23.2%
+alacludes our Consumer brands as well as our Business unit (excluding Wholesale) : ;
+b An active customer is one that’s generated revenue from an outgoing or incoming call, or from data or content services, in the past three months.
+4 :
+
+=== page 6 ===
+paeret} mam 2VAdD FTMYByoy Faw DW RFA VEAHOEH ZQad PAO gt24 9
+EhuET Bee e322 GogRzE G22 2 Spee e7 g bbz ete Be 2 S202 3 x 2
+afae 3 Sace sehhag 3F oo% 8 3% 2 33% aa R oe seek &
+es fa 92 G22282 £23 g ate SEE ace EGE Se Sha gah go
+2ca2? ae Qo¥ea g3ac gs 2 gS 8 Q® ae 9 83 g§3 334 5 o
+SEER é 22% o3¢e¢c8 $e 2 9 ge of 4 aa
+ATE 359 Sham agerre 23a gees sf sao fs88 sa3 baeZ32 32 0
+2528 Bee g88R S3seek gas eee g 283 082 See2¢ sg 3 A282 8 a
+ge838 Pee Gaea 202235 $28 peo ?2 Gsee gaged 22 2 2san f 3S.
+Sge28 Rae 959 S23 0% §$o2 ge 83 e gage s39 0 ns OSE® ® Db
+Bidae Bee 2285 amess e265 ese eo 5 82 37259 32 F g<S2 8
+Bist aoe s25> sacass 58 hee 8288 82 558 8 Sh 2 23R52 2 ry
+Pre 3a B25 2n88e8 3 389 335 4888 8 352 * 3 a a)
+ag28e 258 489 882335 28 Se8 9 88a ssa zoe se 8 Gish 8 FD
+BeE5S = gee 4 28 ao Sot 8 535 g 2 e232 F
+Bxeas 338 98 ocFS852 28 sof egR Sass zag ee 3a8 °
+gaeg2 3 r3 Hy as¢g 8 ee gesee S oo
+Hite zee 38 928388 28 Soo a9 Bal eck? Be bases F A
+g8322 8a 323 B2833F 93 282988 oF8 F885 3H a Boas Be 8
+PL es * eg epee? a8 egee5$ sao e328 se 23383 F 9
+a cv ga agege 35 Bao 5 3 are goo 3 2a8e8 3 O
+35823 oe 228 a®ag 3 $89 oo are zoe fe Pa et a
+gees 3 Zo Begs a Qe a soe Bs 8 & 8
+& gee 3558e Fa 30 ce zo gz g89 a.
+Po 3 SA pats 3 Seg ges e824 e239 g 88 5
+HUGE g8 gph 52388 Es peas g2h 28 $8 3435 2 §
+a2 . 73 sea OSS R2 33 288 222 Pat sas 22 83D ®
+Peet <3 ae ZoBe2 a3 SseSg¢°F ag Faz g agave aa
+phi 2 ges Baees 52 Sese 8 "35 os 28 sigs
+EE a2 Aaa 29205 a ge. a 2 gta ¢ gree
+aga as OER) OB ERSR CSF 3e5 a 38 358 2 g380
+Behe gS ame a333 23 sage ry ge 238 UG aaRS
+228 Pa F2%o Sose5 Bs acs & 2 8&3 $8 B82
+Sgae as a@ag TTBRR ga ae 9 Pes Bas g Zecz
+Bon s2 agg eos ear a 4 = e8s 2 awe
+apaee as #33 ega8 ga fog 8 ao 887 FR LSRo
+wo . $8883 230 OR SB a985 88 Ree 2 Se B22 fg 8838
+Bags? eg ges S203 En ~ a 3 Q See 8 o28e
+33s ez 983 638 as ER Sg 825 8 9388
+a oes a £86 goes 38 ost 33 855 3 5288
+but ja gS Sees 38 $@ § 88 385 § f3e2
+es 3. 7 29 i 3 ge
+pie ee $2¢ 382 &8 ge 6s 6 8a SSR Og 2 BSE
+3 ge gs 838 gogo 8S Ses ae $83 3&8 $2a5
+3 23 & Boe, san sv Bz 5 a ee g azn
+33 é BB bas g & 3 ES gag
+2 iF $F Be Rec a3 ge 2 gs 82 § #203
+2 ae és BSS Bee8 5 gs a 25 #288 & 9228
+g be ff 283 2522 «2&2 Be z Ro «go g§ geee
+B2 a8 gS gaaa 66s gB b Z23 368 2 3888
+3 z aoa gee 8B 28 3 3 285 gaaz
+3 z a3¢ sgee 8 z8 g go 5 ge a goa3
+2 £8 ome agse RB 28 38 gs 382 g 2258
+a #8 zo BS o8eg eS Na & Se ges 8 $5 8
+3 2 sR gee spei 38 a3 a be | R85 2 3333
+a3 g 38 2250 sa 38 3 35 Bes 2 Sa2a
+g ge 28 Pee $833 03 gg = a8 & asco
+8 28 Es aes waas as Q = S3 sas s 8392
+33 @ oa aog5 32 $2 3 ee ghs s 2588
+i a 58 gg s3 g sf) 3 32 38 x ghas
+i # 22 9833 § a nt et ert
+8 3 20 vege $ ae 20 O85 2 zZoaF
+g 2 go 5823 g oF g Zo 8 SB 878
+Pid ikl < 2 ° ae bs Zs
+g 8 ag z° 88 3 ag 8 a3 Rf FBSe
+3 ox a 234 = g Ea3 S o eng
+2 2 3S fy se é 3 & oa
+3 5 : 28 S ag
+o a7 bal a
+
+=== page 7 ===
+. .
+
+Strategic report continued
+
+Group performance
+
+Summarised income statement (reported measures)
+
+2026 "2025
+
+Year ended 31 March £m em
+Revenue 19,654 20,358 |
+Operating costs (11,845) qa 2,894),
+Depreciation and amortisation (4,913) (4,978)
+Operating profit 2,896 2,486 {
+Net finance expense (602) (41 7),
+Share of post tax profit (loss) of associates and joint ventures (210) (8)
+Profit before tax | 2,084 2,061 i
+
+ee Se) a)
+Profit for the year i 1,725 1,781 | .
+
+Alternative performance measures.
+
+We assess the performance of the group using various alternative performance measures. As these are not defined under IFRS they are
+
+termed ‘non-GAAP’ or ‘alternative performance’ measures. We reconcile these to the most directly comparable financial measure or
+
+measures calculated and presented under IFRS on pages 139 to 140. The alternative performance measures we use may not be directly
+
+comparable with similarly titled measures used by other companies.
+
+Revenue
+
+Reported revenue was £19,654m (down 3%), and adjusted revenue was £19,646m (down 4%). This was mainly driven by lower
+
+International revenue (including the impact of divesting entities this year), reduced handset trading, and declines in adjusted UK service
+
+revenue.
+
+Adjusted UK service revenue for the year was £15,445m (FY25: £15,568m). This is down 1% due to declines in voice in Business and
+
+Consumer and softer retail pricing, offset by CPl-linked price increases and an improving broadband FTTP mix in Openreach.
+
+Operating costs
+
+Reported operating costs (including depreciation and amortisation) were £16,758m, down 6% year on year. This was due to continued
+
+cost transformation including lower total labour resource primarily in Openreach, lower mobile equipment volumes and lower trading in
+
+. International.
+
+Specific items within operating costs were £466m (FY25: £772m) down 40%. This was due to restructuring charges of £336m (FY25:
+
+£448m) and lower impairment charges on our equity interests in the Sports Joint Venture (JV).
+
+Onan adjusted basis operating costs were £16,292m (down 5% year-on-year).
+
+In May 2024, a new transformation programme was announced which targeted £3bn gross annualised cost savings, with a total cost to
+
+achieve of £1bn which will run until the end of FY29. The benefits and costs of the final FY25 year of the previous May 2020 programme
+
+were absorbed into the new targets. We have now raised our overall transformation plan target to £3.7bn gross annualised cost savings
+
+from £3.0bn, and extended the programme by one year to FY30. The total cost to achieve is now expected to be £1.4bn, previously
+
+£1.0bn.
+
+Note 6 to the consolidated financial statements shows a detailed breakdown of our operating costs. Note 9 shows a detailed breakdown of
+
+our specific items.
+
+Operating profit
+
+Reported operating profit was £2,896m (up 16% year-on-year). This was primarily due to strong cost transformation and lower specific
+
+items in FY26 compared to FY25, offset by lower revenue.
+
+Adjusted® EBITDA
+
+Adjusted? EBITDA of £8,229m flat year on year. Excluding divestments, like-for-like Adjusted EBITDA was up 1%, with strong cost
+
+transformation and cost control offsetting revenue flow through and higher National Insurance and National Living Wage costs.
+
+Net finance expense
+
+Net finance expense was £602m (up 44% year-on-year). This was primarily driven by lower interest income on intercompany loans, higher
+
+interest on tax charges and higher interest on newly issued bonds. Specific items within finance expense related to interest expense on our
+
+retirement benefit obligations of £191m (FY25: £197m).
+
+On an adjusted basis, net finance expense was £41 1m (up 87% year-on-year).
+
+Share of post-tax profit / (loss) of associates and joint ventures
+
+Our share of post-tax losses from our joint ventures and associates was £210m (FY25: £8m loss). This was mainly due to the Group’s share
+
+of impairment losses of £218m in the Sports JV (FY25: Enil) from revised expectations of its future performance and market position.
+
+We've recognised these impairment losses in FY26 as specific items.
+
+. On an adjusted basis, the share of post-tax profit of associates and joint ventures was £8m (FY25: £8m loss). .
+
+Profit before tax
+
+Reported profit before tax of £2,084m was up 1%, This was primarily reflecting lower transformation costs, reduced depreciation and
+
+amortisation, and lower impairment charges and disposal-related costs, partially offset by write-downs on the Sports JV. These benefits
+
+were further offset by an increased net finance expense. On an adjusted basis profit before tax was £2,951m (down 3% year-on-year).
+
+altems presented as adjusted are stated before specific items. See page 139 for more information. .
+
+. 6
+
+=== page 8 ===
+e . .
+
+Strategic report continued
+Group performance continued
+Taxation
+The effective tax rate on reported profit was 17.2% (FY25: 13.6%). This is lower than the UK corporation tax rate of 25%, and is primarily
+due to the benefit of the UK patent box tax regime and group relief received for nil payment, offset by the non-deductible share of
+impairment loss in the Sports JV.
+The effective tax rate on adjusted? profit was 17.3% (FY25: 15.8%) primarily due to the UK patent box regime.
+We made total corporation tax payments of £58m (FY25: £35m net corporation tax refund) comprising overseas tax payments. We
+expect a large proportion of our UK capital expenditure will be eligible for full expensing, which will reduce our current year UK tax liability.
+Dividends ; ;
+In FY26 dividend of £1,500m was paid to the parent company, BT Group Investments Limited (FY25: £780m).
+Cash flow and liquidity .
+Capital expenditure
+Capital expenditure was £5,127m, up 6% (FY25; £4,857m). This was driven by higher FTTP build and provision volumes in Openreach. It
+was partially offset by reduced spend across property programmes and IT delivery. Cash capital expenditure was £5,169m (up 5%). The
+difference to reported capital expenditure was due to the timing of capital creditor spend and government grant funding repayments.
+Cash flow
+Net cash inflow from operating activities was £7,026m, up 1% (FY25:£6,989m). This was driven by higher operating profit, with strong cost
+control offsetting lower revenues, improved net cashflow from working capital, offset by higher tax paid due to the absence of a prior year
+tax refund.
+Pensions
+The IAS 19 gross deficit has decreased to £4.2bn at 31 March 2026, net of tax £3.1bn (31 March 2025 £4.1bn net of tax £3.2bn). the
+increased deficit reflects updated assumptions on mortality and inflation and lower asset returns than expected partly offset by scheduled
+contributions over the year.
+
+Balance sheet
+
+2026 2025 -
+
+Year ended 31 March £m £m
+
+Non-current assets : 55,276 §5,048
+
+Current assets. 7,108 8,375
+
+Current liabilities : 8,391 10,203
+- Total assets less current liabilities 53,993 53,220
+
+Non-current liabilities 29,003 27,789
+
+Total equity 24,990 25,431
+
+Equity and non-current liabilities 53,993 53,220
+Non-current assets at 31 March 2026 were £55,276m (FY25: £55,048m). This is an increase of £228m. Higher property, plant and
+equipment was offset by lower intangible assets, reflecting amortisation in the year, and a reduction in right-of-use assets.
+Current assets at 31 March 2026 were £7,108m (FY25: £8,375m), of which £1,442m relate to trade receivables (FY25: £1,490m). The
+decrease of £1,267m was from lower investments, lower money market funds, and lower assets held for sale reflecting completion of the
+relevant divestments.
+Current liabilities at 31 March 2026 were £8,391m (FY25: £10,203m), of which £3,825m related to trade payables (FY25: £3,727m). The
+decrease of £1,812m was mainly from the decrease of £1,672m in loans and other borrowings following refinancing during the year.
+Non-current liabilities of £29,003m (FY25: £27,789m) increased by £1,214m. The increase was from higher loans and other borrowings,
+offset by lower lease liabilities.
+Total equity decreased by £441m to £24,990m (FY25; £25,431m). Profits of £1,725m in the year were offset by remeasuring the net
+pension obligation and by dividends to shareholders of £1,500m. .
+altems presented as adjusted are stated before specific items. See page 139 for more information.
+
+. 7 .
+
+=== page 9 ===
+. .
+
+Strategic report continued
+
+Our stakeholders
+
+Our customers, colleagues, the country we do business in (including its communities, government and regulators), our owners, suppliers
+
+and partners are the key stakeholders we deliver for.
+
+We engage with them at every level of our organisation, from frontline teams to senior leadership, the BT Group plc Executive Committee
+
+and the Board. This happens in lots of different ways - from meetings and conferences to reviews, forums, webcasts and events.
+
+To understand how well we’re connecting with different groups, the BT Group plc Board and its Committees receive regular updates from
+
+teams across the business — as well as hearing directly from stakeholders themselves.
+
+These insights enable them to make better decisions, provide valuable feedback, and challenge our activities, programmes and initiatives
+
+to make sure we’re on the right track.
+
+Customers
+
+Our customer base spans individuals and households, through small businesses to multinational corporations and public sector
+
+organisations.
+
+Our aim is to help them live and work better. That starts with them getting outstanding experiences that build trust and loyalty. And to do
+
+that we must personally engage with them to understand their needs and priorities ~ today and in the future. .
+
+Our customers want us to: .
+
+- provide connectivity that works wherever they need it, balancing value for money with outstanding network performance and coverage
+
+- deliver high-quality, seamless and personalised experiences
+
+- protect them with enhanced safety and security wherever they go, keeping their data safe and safeguarding their families or customers
+from threats.
+
+How we engage with customers
+
+- Our colleagues in service, sales and our contact centres speak to customers every day to understand their needs, fix problems and keep
+them connected.
+
+- Our insight team uses primary research and internal and external data to build a picture of what customers want and need from us.
+
+- Our CFUs, the BT Group ple Executive Committee and the BT Group plc Board regularly review metrics such as NPS to monitor
+customer experience and brand loyalty. :
+
+- The Chief Executive, BT Group ple Executive Committee and senior leaders regularly review, understand and discuss customer
+
+* complaints.
+
+- Our Customer Fairness Panel, Customer Inclusion Panel, Security Advisory Board and Customer Advisory Board engage directly with
+customers to help us better understand their experiences.
+
+- Openreach makes sure every CP has equal access to our fixed network through a transparent and compliant consultation process.
+
+Highlights this year ;
+
+- We've continued to raise awareness and make sure customers understand the simple steps needed to switch to Digital Voice. This year,
+we focused on supporting our most vulnerable customers with targeted outreach, home visits, and extra support for those using
+telecare services.
+
+- We continue to share guidance on children’s digital wellbeing, discouraging parents from giving primary school-aged children their own
+smartphones.
+
+- EE became the first UK network to launch under-18 phone plans with restrictions and network content blocking to help keep young
+people safe online, along with extra tools and support for parents and young people.
+
+- EE’s ‘everyone needs a squad’ campaign used our home nations football partnership to promote the importance of group and team
+interactions in building esteem and positive health, particularly for teenage girls.
+
+Colleagues
+
+Our colleagues have once again been at the centre of lots of change this year. As we reshape BT Group for a simpler, more modern digital
+
+future, they’ve stayed resilient and committed to our customers.
+
+Six big priorities enable our people strategy — behaviours, capabilities, talent & inclusion, performance, leadership and future workforce.
+
+They help us continue building a BT where people can grow, belong and perform at their best.
+
+This year we’ve adjusted the size and shape of our workforce, strengthened our leadership practices and introduced new behaviours. And
+
+we've invested in the skills and capabilities needed to support our transformation.
+
+Our new behaviours ;
+
+This year we redefined and embedded our new behaviours - the habits and ways of working that will underpin the culture needed for our
+
+transformation.
+
+We brought together nearly 27,000 of our colleagues in one of the largest listening exercises in our history, the Big Conversation. They
+
+shared what they valued about working here and where we could improve. And these insights shaped which behaviours would best boost
+
+performance and deliver our strategy.
+
+Our culture is now centred on new and measurable behaviours: Customer First, Challenger, Committed, Clear & Connected. Working with
+
+people managers, senior leaders and frontline teams, we tested and refined the behaviours, then launched them in January. Adopting
+
+them will help us make the right decisions, solve problems faster and better deliver for our colleagues, our customers, our stakeholders
+and the country.
+
+We've put a three-year transformation plan in place to embed the new behaviours into day-to-day habits and routines.
+
+8 .
+
+=== page 10 ===
+Strategic report continued
+
+Our stakeholders continued
+
+People capabilities
+
+This year we continued building the technical, digital and customer skills needed for our future. We hired around 13,000 colleagues,
+
+including around 9,000 in the UK, 718 apprentices and 77 graduates, strengthening engineering, digital, Al, cyber security and customer
+
+operations.
+
+We connected skills to communities through one of the UK’s largest apprenticeship programmes, maintaining BT Group’s position as a
+
+leading apprentice recruiter. Our apprentices tell us they feel engaged and included, supported by leaders, coaching and our partnership
+
+with our provider, Babington.
+
+Ahighlight includes our award-winning Customer Service Level 2 apprenticeship programme in our contact centres. This year we have
+
+onboarded 422 apprentices onto the programme where they gain an accredited qualification alongside a role with us, building the skills .
+
+and confidence to deliver brilliant service for customers.
+
+Consumer and Business moved digital teams closer to customers to strengthen our end-to-end accountability. And we expanded
+
+capability academies to boost learning and on-the-job development. :
+
+Talent and inclusion
+
+This year we strengthened our approach to developing our internal talent pipeline and made it more visible and introduced executive
+
+talent trading reviews. We also focused more deeply on diversity of representation and on fair progression.
+
+We embedded quarterly people reviews everywhere, giving senior leaders a view of succession, bench strength and career development
+
+opportunities. The BT Group pic Executive Committee has increased its focus on critical roles, talent trading and strengthening the
+
+leadership bench.
+
+We boosted our senior leadership with external hires in key functional areas, including Commercial, Data & Al, Digital, Product and Culture
+
+-while developing internal successors. Greg McCall took over from Howard Watson as Chief Security and Networks Officer and Katie
+
+Milligan succeeded Clive Selley as CEO Openreach, showing the strength of our internal succession pipeline.
+
+Our People Networks continued to support inclusion and belonging. In India, flexible work options helped, with female representation
+
+rising to 32.3%. Our early careers cohorts are still really diverse, with strong engagement and inclusion scores.
+
+Country : :
+
+By keeping the nation connected, we make a significant economic contribution to UK society.
+
+Earning and maintaining trust is essential; without it, we couldn’t grow or fulfil our purpose of connecting for good. Different groups expect
+
+different things from us, but we all share a common goal- to make a positive and lasting impact on society.
+
+Communities
+
+The communities we serve want us to:
+
+- keep them safe and protected with reliable and secure connections
+
+— help them understand and navigate a rapidly evolving and increasingly digital world
+
+- continue providing direct and indirect employment opportunities .
+
+- operate ethically, responsibly and sustainably.
+
+How we engage with communities:
+
+~ Community members rely on our products and services to help them work, learn and live.
+
+- We support them through our stores, contact centres, digital channels and home visits for installation and maintenance. We offer support
+to miltions of people in the UK so everyone - regardless of age or background — can benefit from a digital world.
+
+- We use customer surveys and reputation tracking to assess how we’re doing and guide future priorities.
+
+- The Responsible Business Committee has overseen our societal programme, tracking and discussing feedback and performance at each
+meeting. .
+
+Highlights this year:
+
+- Our full fibre network now reaches 6.3 million homes and businesses in hard-to-reach areas, achieving our ambition to reach 6.2 million .
+by December 2026, and we continue to invest and build in these areas.
+
+- We're expanding 4G coverage in rural areas through the SRN initiative.
+
+- We support around 845,000 low-income and vulnerable customers with social tariffs and discounted products.
+
+- We spend £9.6bn a year with UK suppliers. Our combined activities support 212,000 jobs directly or indirectly. We contribute £1 in
+every £100 of UK gross value added and support 1 in every 100 workers in the UK.
+
+~ We’re one of the UK’s biggest private sector apprenticeship employers.
+
+- We support communities to develop digital skills. This year, we helped a further 42,000 people, bringing the total to 23.3 million since
+FY15,
+
+- Our colleagues volunteered over 140,000 hours of their time to help our charity partners and communities. That included sharing
+expertise through mentoring and digital skills help.
+
+- Our colleagues donated over £1.1 miltion to more than 930 charities through payroll contributions. We hold a Payroll Giving Platinum
+Award quality mark from the Government.
+
++ Our colleagues’ fundraising and donations raised over £250,000 for our charity partner HomeStart UK, helping families facing social
+exclusion.
+
+9
+
+=== page 11 ===
+. .
+
+Strategic report continued
+
+Our stakeholders continued
+
+Government
+
+- Our relationships with government bodies underpin our three strategic pillars. They also help us contribute to policies and initiatives
+that promote the best results for stakeholders.
+
+- Based ona report published in 2025, we added more than £22.8bn to the UK economy, and provided services to over 1,100 public
+sector customers in the last 12 months.
+
+- Our public policy work with Government covers everything from infrastructure investment to national security, from promoting digital
+skills and inclusion to wider economic and industrial policy. :
+
+- Our networks support vital public services such as welfare, tax, health, social care, police and defence — while protecting citizens’ :
+personal data.
+
+The Government wants us to:
+
+- continue investing in our network infrastructure
+
+— provide the fastest, most reliable and secure connection possible, to the widest possible range of communities
+
+- invest in the best products and services, at fair prices, with high levels of customer service
+
+- promote digital inclusion and adoption, and support vulnerable customers through the process of network upgrades and migrations
+
+- contribute to the UK’s economic growth, innovation and resilience.
+
+How we engage with the Government - and highlights this year
+
+- Our policy and public affairs teams manage our relationships with Government and other politicians.
+
+- Under the Communications Act 2003, the Government can ask us (and others) to run or restore services during disasters. The Civil
+Contingencies Act 2004 also says that they can impose obligations on us (and others) in emergencies, or in connection with civil
+contingency planning.
+
+- We keep an open dialogue with the UK Government and Ministers in the Devolved Administrations through our Chairman, Chief
+Executive and senior leaders — as well as through consultation responses and cross-industry initiatives.
+
+- Through those conversations we build support for policies that will deliver positive outcomes for the country and for our shareholders.
+
+- The Board gets updates on discussions with Government through the Chairman, Chief Executive and BT Group ple Executive
+Committee members.
+
+- This year we contributed to government initiatives on topics including industrial strategy, trade strategy, technology development and
+adoption, mobile coverage, planning reform, business rates, economic security, digital inclusion, consumer protection, late payments,
+Alskills and fraud prevention. .
+
+— Our Chief Executive, Allison Kirkby, is an advisor to the Board of Trade and a member of the Government’s Women in Tech Task Force.
+
+- We gave evidence to Government to help it formulate its Statement of Strategic Priorities for Ofcom. We also gave input and evidence
+
+: to MPs on new legislation and in response to Select Committee inquiries.
+
+- We're working closely with officials and regulators to agree protocols for moving customers off our legacy networks onto new, more
+secure and resilient technologies.
+
+Regulators
+
+Regulation protects consumers and promotes fair competition. As a major provider of connectivity services, our primary regulatory
+
+retationship is with Ofcom, the regulator of UK communications and TV services. We also work with other bodies like the FCA, CMA, and
+
+the ICO. :
+
+Our regulators want us to:
+
+- invest and innovate in UK digital infrastructure
+
+— keep the UK’s digital infrastructure and critical services secure and reliable
+
+- be fair and transparent with customers
+
+- compete fairly in our markets.
+
+How we engage with regulators
+
+- We have open and constructive dialogue with regulators via our BT Group ple Board, BT Group plc Chief Executive, BT Group ple
+Executive Committee and senior leaders. These discussions focus on how regulation can support investment in top-notch digital
+infrastructure while making sure the market works for consumers.
+
+- As part of our day-to-day operations, we regularly interact with Ofcom and other regulators through industry consultations and
+information requests to make sure they understand the impact of proposed changes.
+
+- Regulation in our sector is broadly stable. There’s a consistent focus on promoting investment, keeping our market competitive,
+managing orderly migrations and achieving positive outcomes for customers.
+
+- This year, Ofcom’s market reviews — including the Telecoms Access Review 2026 -set out updated frameworks for pricing regulated wholesale
+access products. While the frameworks remained largely stable, there were minor changes to reflect growing competition in fixed infrastructure
+in parts of the UK.
+
+— Ofcom also completed its industry-wide investigation on the format and content of information given to consumers at the start of their
+contracts. After its conclusion and our concurrent proactive reparations to customers, Ofcom issued us a £2.8 million fine. Separately, Ofcom
+launched a new investigation into a brief voice service outage in July 2025 which is ongoing.
+
+- BT engages regularly with Ofcom to help deliver a regulatory landscape that achieves the wider objectives of the regulator and the
+industry requirements.
+
+. 10
+
+=== page 12 ===
+Strategic report continued
+
+Our stakeholders continued
+
+Suppliers and Partners
+
+Strong, productive relationships with our suppliers and partners are essential to our success. They help us to deliver solutions and
+
+outstanding customer experiences.
+
+Our suppliers and partners want us to: .
+
+- pay them in line with our agreed terms .
+
+= work with them to optimise their supply chains and support cash flow management
+
+- operate ethically and transparently.
+
+How we engage with suppliers and partners
+
+- We need to know who we’re doing business with and who’s acting on our behalf.
+
+- We pick suppliers who endorse our policies and standards, so we collectively act ethically and responsibly.
+
+- Before signing contracts, we carry out due diligence on areas like financial health, anti-bribery and corruption, business continuity,
+human rights, environmental impact, cyber security, data privacy, and health and safety.
+
+- We have robust contracts with suppliers to uphold high standards, deliver on time to customers, and follow responsible and ethical
+supply chain standards.
+
+- We regularly audit high-risk suppliers — focusing on governance, human rights and environmental impacts — and work with them to
+address what we find.
+
+Based in Dublin, BT Sourced is our dedicated procurement arm which seeks to improve BT’s efficiency and productivity. It’s focused on
+
+digital, sustainable procurement and coltaborating better with suppliers and partners, which delivers better value for BT, our customers
+
+and the wider community.
+
+BT Sourced highlights this year
+
+- We strengthened support for SME suppliers through our C2FO-powered BT Early Payment Programme. The number of suppliers using
+the BT Early Payment Programme increased 19% year-on-year. To date more than 1,400 suppliers have registered and in 2025 we
+facilitated more than £1.5bn in early payments - including Euro transactions as an additional currency option for our suppliers for the
+first time.
+
+- Wewere one of the first signatories to the UK Government's Fair Payment Code (FPC) and continue to strengthen our payment
+practices in line with the scheme, receiving a Silver award in 2025. We also remain compliant with the UK’s Duty to Report requirements
+on supplier payment performance. You can read more in our Responsible Business Addendum 2026 (bt.com/addendum).
+
+~- Weare deploying agentic Al capabilities to increase automation, strengthen insights, better understand key suppliers and drive data-
+driven procurement.
+
+- We published a new BT Supplier Charter, setting out minimum standards for all suppliers, whatever the contract type or value. Suppliers
+must follow the Charter’s ethical principles and all retevant regulations.
+
+- We’re committed to responsible sourcing. We've implemented mandatory minimum weighting for environmental and social
+sustainability criteria for all competitive sourcing events. This incentivises suppliers to demonstrate innovation and best practice. Last
+year we increased the minimum weighting with default percentages for climate, circularity, human rights and inclusion.
+
+- We helped pioneer and formally committed to the Disability Trading Framework (a voluntary set of commitments initiated by Small
+Business Britain). It makes procurement and supply chains more inclusive for disabled-led businesses through accessible processes and
+practices, capability-building, and proactive engagement to remove barriers.
+
+Research and development
+
+- Openreach provides industry-leading expertise in designing, building and operating fixed networks. Over 8,000 Openreach engineers
+are building full fibre across the UK at market-leading pace. This scale and experience enable us to deliver high quality full fibre build
+at low unit costs.
+
+- Our mobile network engineering teams continue to roll out innovative network technologies to improve performance and capacity. For
+example, this year we became the world’s first operator to deploy Advanced RAN Coordination (ARC) technology in our 5G+ network,
+enabling nearby mobile sites to share capacity and boost performance in high-traffic areas or at peak times.
+
+- Our core fixed network is engineered and continuously scaled to support rising demand for high-bandwidth applications, maintaining
+reliable performance even during periods of peak usage such as live event streaming.
+
+- We enable the next-generation technologies which are shaping the future of our industry, and translate them into innovative products
+and solutions to meet our customers’ future connectivity needs. This year we invested £847m in R&D, and filed 82 patents, bringing our
+total portfolio to 5,434. .
+
+Risk Management
+
+We want to be smart with risk. Our risk management framework gives us a simple, consistent way of looking at the challenges we face
+
+when delivering our strategy. It helps us make informed decisions that benefit our people, customers, shareholders and wider stakeholders
+
+Why we need our risk framework
+
+The external risk landscape is challenging and complex. There’s increasing competition, evolving market dynamics, geopolitical
+
+uncertainty, cyber security threats and risks from Al’s rapid advance.
+
+Against this backdrop, effective risk managementis essential. Our risk management framework helps us identify and assess the risks we
+
+face and the best ways to manage them. It stops us taking on unacceptable levels of risk. And it also stops us unnecessarily constraining
+
+our business, or missing growth and transformation opportunities. The diagram below highlights the framework’s key elements.
+
+The Board of BT Group ple is responsible for risk management. The BT Group ple Audit & Risk Committee oversees and monitors our risk
+
+management and internal control systems’ effectiveness on its behalf. Twice a year the Board receives a summary of how we're managing
+
+risks across all Group Risk Categories (GRCs) and Units. There are also deep dives into individual GRCs through the year.
+1
+
+=== page 13 ===
+° . .
+- Strategic report continued
+Risk Management continued
+INPUTS GROUP RISK CATEGORIES OUTPUTS
+ET _———————— _————
+We divide our risk landscape into GRCs. Each GRC has an Executive Committee
+sponsor accountable for applying the framework to that category.
+strategy, purpose Being smart
+and ambition with risk
+"We design our APPETITE Our framework
+tamework to help us We define how much or how little risk we're willing to take in each of our GRCs. embeds risk _ ,
+deliver our strategy. This lets us take opportunities as they come up without exposing ourselves to management into
+too much risk. our day-to-day
+fe use our ambition business, from top
+and strategic to bottom.
+priorities as the |_ ENDURING RISKS DYNAMIC RISKS
+btarting point. This Need consistent, enduring Need bespoke treatment based on Being smart with
+helps identify what control and assurance structures their size, impact and what we need to risk means allofus
+might stop us from to manage them. do about them. There are two types: : having our personal
+achieving them, risk radar switched
+land decide how ONTROLS POINT RISKS on, helping _
+‘o manage those Formal, repeatable, activities that Significant to us at a pointin time, can’t everyone make
+risks and what cut the chance of an enduring risk be managed through our control better decisions.
+risk level we're materialising (or lessen the impact framework, and need focused effort. :
+. comfortable with. if it does).
+. ASSURANCE EMERGING RISKS
+An objective, evidence-based New and/or often longer-term risks,
+approach to make sure we have which could be materially significant,
+effective controls over key but that we can’t fully define today.
+business risks.
+Units and programmes —
+We bring together risks to review, discuss, prioritise, own, action and report on across all Units (CFUs, TUs and CFs) and programmes. This
+gives us insights and facilitates factual, data-driven risk conversations. Which leads to smarter risk decisions and better operational
+integrity.
+Risk Hubs
+Cross functional forums that look at risks that span multiple GRCs, for example our Sustainability and Geopolitical risk hubs.
+Risk embedded culture
+We train everyone involved with the framework to give them a strong grasp of the expectations and benefits of good risk management.
+We also expect our leaders to be role-models for good risk management - taking accountability, showing curiosity and providing
+psychological safety — and to use the framework to make informed decisions.
+Tools and technology
+We have a dedicated, integrated risk management, controls and assurance system called Artemis. It captures enduring and dynamic risks
+and tracks how well our control framework is working. And it manages our first, second and third line assurance activity in one place. It
+gives us a clear, up to date picture and is central to our reporting and monitoring at every level.
+
+=== page 14 ===
+. .
+Strategic report continued
+Our principal risks and uncertainties
+The risks in the following pages line up with our enduring Group Risk Categories (GRCs). Each GRC features enduring risks, and point and
+emerging risk examples
+Strategic
+Strategy, technology and competition Transformation delivery
+Sponsor: Chief Strategy and Change Officer Sponsor: Chief Strategy and Change Officer :
+Enduring risks this category covers Enduring risks this category covers
+To deliver value to our stakeholders and achieve our strategy we must We must manage risks around delivering the transformation that
+carefully manage external risks - including economic uncertainty, underpins our strategy to realise our customer, colleague and financial
+competition, and rapid customer and technological change - arid targets. If we don’t manage them, we won't become asimpler and more
+internal risks, particularly those related to designing and executing the efficient business, which could damage our financial performance,
+strategy itself. customer experience and reputation.
+Our risk appetite Our risk appetite ,
+We measure and track our risk appetite through metrics focussed on We're committed to modernising our business and we've defined a
+strategy execution. We also assess whether our analysis and strategy level of risk we'll tolerate to achieve this. We track specific metrics to
+are clear and robust, and whether the business and financial plans are check we're achieving genuine, sustainable transformation results and
+aligned with them. This approach helps us make strong strategic not just cutting costs. .
+choices and supports effective execution Delivering within our risk appetite will enable revenue growth and
+soe faster delivery, improve customer experience and make sure our costs
+Examples of dynamic risks compare well with peers.
+Point risks:
+- Macroeconomic headwinds due to political uncertainty, driving Examples of dynamic risks
+factors such as high inflation, lower customer confidence, increasing Point risks:
+. energy costs and supply chain issues.. . . ste
+- Continued pricing pressure and a failure to find growth opportunities Moving customer off old networks tooslowly could n ve purtimelines,
+with innovative, customer centric new products and services might raise costs and affect relationships with external stakeholders.
+affect our market share. - fre complexity and breadth of: change: across the group could stop us
+- Increasing competitive intensity in our core markets may reduce our fire don more efficient and delivering sustainable transformation.
+market share. - Ifwe don’ ‘t deliver new digital journeys and platforms at the pace
+and quality needed, it could lead to poor customer experience and
+Emerging risk: impact our abitity to achieve sustainable revenue growth.
+- Failing to parness Al properly for efficiencies and commercial Emerging risks: .
+opportunities. - Delayed customer migrations might slow us downsizing our building
+Examples of what we do to manage these risks portfolio and getting the associated savings.
+- We research, analyse and monitor economic, customer, competitor Examples of what we do to manage these risks
+and technology trends to inform our strategy. Wehi " ith ior lead . ifi
+- The BT Group plc Executive Committee and Board regularly review 7 3 verational and Fnanciale eateomes eaders owning specitic
+performance against our strategic priorities and goals - and discuss oe BTG Ic Executive C: itt tart .
+key topics through the year. - ur roup ple ecutive commit fee regul larly reviews our
+- The BT Group plc Executive Committee and Board review and transformation performance — making decisions and removing
+i lockers.
+priorities. budgets to make sure they're aligned with strategic - Through programme assurance, we continually improve processes
+* 7 + to make sure we plan and execute our transformation, in line with our
+- TeBr Investment Sub ‘Committee checks that our investments are wider strategy and financial planning.
+9 ‘gy: - We invest in our people, so we have the skills, capabilities and
+. delivery frameworks we need to transform.
+. 13 .
+
+=== page 15 ===
+° .
+Strategic report continued
+Our principal risks and uncertainties continued
+Financial
+Financing Financial control
+Sponsor: Chief Financial Officer, BT Group Sponsor: Chief Financial Officer, BT Group
+Enduring risks this category covers Enduring risks this category covers
+We manage risks which might stop us meeting our financial obligations We focus on having strong financial controls to manage the risk of
+and funding our strategy delivery. These include not having access to fraud and inaccurate reporting. If they failed, we could lose money
+enough cash, or pension obligation changes causing higher payments. or materially misrepresent our financial position. This could lead to
+We also tightly manage counterparty risk on our cash balances and financial misstatement, fines, legal disputes and reputational damage.
+‘. i This category includes risks around our Environmental, Social and
+cover some risks through our insurance programmes
+Governance reporting requirements.
+Our risk appetite . .
+We fund our business from performance forecasts in our medium- Our risk appetite . .
+: We want our overall financial control framework, including controls to
+termplans. t fraud, to be effecti that there’s a less-th rt
+prevent fraud, to be effective, so that there’s a less-than-remote
+We rely on debt capital markets being open to investment grade chance of material financial misstatement in our reported numbers.
+borrowers. We set our minimum credit rating at BBB. We invest cash . . . .
+balances to preserve capital, not generate returns. We've defined the proportion of our financial controls that should be
+Preventative rather than detective, and automated rather than manual.
+. We have an agreed plan to cut investment risk in the BT Pension
+Scheme by 2034 and also plan to reduce longevity risk. Examples of dynamic risks
+Examples of dynamic risks Point risks: . .
+ee, - Not transforming our transactional processes and systems fast
+Point risk: enough could affect our financial control performance, efficiency
+- Increases in life expectancy or lower investment returns could raise and effectiveness.
+our pension obligations. i a Emerging risks:
+- Macroeconomic or geopolitical uncertainties could lower the — Malicious actors using increasingly accessible and sophisticated
+availability of debt or make it more expensive. . 9 ngly ne sopnistic
+Aland machine learning could increase fraud.
+. - Corporate and Social Responsibility reporting requirements are
+Examples of what we do to manage these risks growing fast. If we don’t adapt quickly, we could fail to meet our
+- Weregularly review our forecast vs actual business performance. - reporting obligations.
+- Wehave formal treasury risk management processes, Board
+Wereviey vourpension schemes f unding positions management. Examples of what we do to manage these risks
+- Wereview our pension schemes’ fundi s and inv . . .
+performance and agree funding valuations. ~ We have financial and operational controls for planning and budget
+= We purchase insurance to mitigate financial exposure to certain risks discipline, for efficient and accurate reporting and to prevent fraud.
+- We proactively identify, manage, investigate and report on
+potentially fraudulent activities. .
+~- We give fraud training to people in high-risk roles.
+- Ourtax risk framework helps us manage tax-related risks.
+- Weuse independent professional services organisations for guidance
+and to check if we’re ready for new and changing legislation.
+- Wehorizon-scan to spot emerging fraud threats early, support
+proactive risk mitigation and strengthen resilience.
+14
+
+=== page 16 ===
+° .
+Strategic report continued
+Our principal risks and uncertainties continued
+Compliance
+Legal and regulatory compliance Financial services compliance .
+Sponsor: General Counsel, Company Secretary & Director Sponsor: CEO, Consumer
+Regulatory Affairs . | .
+Enduring risks this category covers
+Enduring risks this category covers We're focused on compliance as we grow our consumer credit and
+We focus on risks around not complying with communications insurance business and develop new financial services products and
+regulation, competition law, anti-bribery and corruption measures, services. This includes all applicable Financial Conduct Authority (FCA)
+international trade controls and our corporate governance principles, rules and requirements.
+responsibilities. Other GRCs cover other relevant {aws and regulations . .
+Our risk appetite
+Our risk appetite We aim to minimise risk in two ways. First, by building capabilities that
+We're committed to a strong compliance culture. It’s an essential part help us develop financial services activities compliantly. And second,
+of connecting for good. by maintaining a trusted relationship with the FCA
+We want to take commercial opportunities while making informed, Examples of dynamic risks
+evidence-based, justifiable decisions on following laws and regulations. Point risks:
+Our decisions are guided by regulatory obligations. They include - We may not be able to effectively show that we’re in line with
+protecting our customers and network, while considering the needs of Consumer Duty Outcomes.
+our business and key stakeholders. We prioritise sustaining long-term - There’s uncertainty about the final outcomes of the FCA’s review of
+predictable and stable regulations that support investment and returns. consumer credit in the Telecoms Market, particularly regarding its
+impact on pricing dynamics in the market.
+Examples of dynamic risks
+Point risks: Emerging risk:
+- We might fail to deliver the switch to Digital Voice in line with - Uncertainty around future regulation for consumer credit could
+regulatory obligations or expectations. affect investment in operational processes.
+- Commercial flexibility allowed under the Telecoms Access Review - Newbuy-now-pay-later regulation could bring competitive challenges.
+might be introduced relatively slowly.
+- Increasing regulation around resilience could raise costs Examples of what we do to manage these risks
+Emerging risk: - Weconstantly scan the regulatory and policy horizon.
+4 * . + - Wecheck our financial services products and promotions are
+7 Responding to more uK class actions could mean higher costs. compliant before we launch them. We then monitor customer
+~ Proliferating or expanding international, regional ornational outcomes to ensure they remain suitable and deliver the right results
+sanctions could raise costs or change sourcing arrangements. for customers.
+- There could be new laws. and regulations, changes to existing ones, — We have processes in place to make sure customers get the
+or trade sanctions responding to geopolitical dynamics or concerns right outcomes.
+na particular area of law. + . - Wekeep investing in and improving our ability to meet FCA
+~ Higher security and resilience expectations, on progressively more a
+| tf Consumer Duty regulations.
+complex and interconnected networks and platforms, could leadto = __ We run mandatory training on FCA regulations, matched to job roles.
+more regulatory obligations and cost pressures.
+Examples of what we do to manage these risks
+- Our Code fosters a culture of high standards and encourages .
+. everyone to speak up if something’s not right.
+- We proactively engage with regulators and give them accurate
+information on time.
+~ We regularly check legal and regulatory risks for strategic projects,
+new business, and within our operations.
+- Our policies and processes help our people comply with our
+obligations under the UK Listing Rules and other corporate .
+governance reporting requirements.
+- Wegive compliance guidance and training on how to spot and
+handle risks or when to seek help.
+: 15
+
+=== page 17 ===
+. .
+Strategic report continued
+Our principal risks and uncertainties continued ; :
+Compliance continued Operational
+. Data and Al Operational resilience
+Sponsor: Chief Digital Officer Sponsor: Chief Security and Networks Officer
+Enduring risks this category covers Enduring risks this category covers
+F a r We focus on best-in-class performance for customers, across our fixed
+We focus on following today’s global data and Al regulations — while ; ? a
+. anticipating and preparing ve tomorrows. That means managing risks and mobile networks and IT. That means being operationally resilient
+around data privacy, architecture, processing and retention. and managing risks that could disrupt services.
+Not following data protection laws or regulations - or misusing Al — Service disruption ns could be caused ty external events, like bad
+could damage our reputation and stakeholder trust, harm our weather, as well as poorly maintained assets. .
+people, customers or suppliers and lead to loss of IP, litigation, Some services depend on suppliers’ and partners’ reliability — making it
+fines and penalties. : important to carefully manage the risks associated with them, .
+Our risk appetite : Our risk appetite
+We want to use data and Al ethically to grow our business, while We aim to give our customers market-leading services, underpinned
+sticking to our contracts, laws and, regulations. by best-in-class network performance.
+We aim to protect BT Group, our people, customers, partnersand  - We decide where we deploy resources based on maximising service
+suppliers from breaches of data and security laws and regulations. and customer experience and following our strategy.
+We also want to harness our data to support objectives and we
+realise opportunities. Examples of dynamic risks .
+We’re committed to developing, buying, using and selling Al solutions Point risks: . . .
+responsibly. That means having the right data ethics, governance, -_ Increasing cyber and physical security threats could compromise
+security, IP, protection, responsible technology and compliance in place. our assets and infrastructure, operational continuity and our
+people’s safety.
+eos. - Increasing severe and frequent bad weather, could damage
+Examples of dynamic risks ourinfrastructure.
+Point risks: - Intentional damage to our subsea cables could lead to services being
+- New €EUregulation will require us to meet strict cyber security majorly disrupted.
+standards. That’s because we import and distribute EU digital - Relying on third parties, who might have poor support, could delay
+products over our network, : us fixing problems, impacting customers.
+- Challenge in attracting, retaining and training people with the right
+. skills to meet Data and Al requirements effectively, may affect our .
+ability to deliver Group strategic objectives. Emerging risk:
+. - Geopolitical tensions could disrupt our services and supply chain.
+Emerging risks: q
+- Concentrating our.infrastructure more could mean we're less
+- als repid fcpapeinreiveele more stakeholder scrutiny on things like resilient, which might disrupt services.
+Y> rotection. :
+- A fast changing digital and technological landscape couldchangewhat —_ Examples of what we do to manage these risks
+’ ~ Wemake our infrastructure as resilient as possible. We follow
+. consistent processes to keep every asset robust through its life.
+ET eee eet ant and - We respond < uiely to incidents a ape minimise their impact through
+. 7 nm 2 SEC geographically dispersed teams and clear, regular updates to customers.
+7 ‘ v r > cre . . recovery plans and keep them up-to-date.
+Rane rehidoe rane, ae. we're inting eae ar eolot and regulation. . We continually improve physical security across our estate to protect
+n services and operations.
+. - we eae now wr date Personat data oor BT Group to make sure - Wetrack external events to anticipate risks and respond effectively.
+we follow our ow ‘a protection standards.
+- Werun data and Alimpact assessments on all relevant changes. .
+~- We provide data protection and handling tools and training to help
+our people make more risk-aware day-to-day decisions.
+- We buy, sell and develop Al in a defined, responsible way.
+. . . 16
+
+=== page 18 ===
+veoon
+Fer>sseggr>m S cs
+7 z 3 338 3 3
+‘i ol oo RE RS S22 2928729 fgheeigee 2g 33
+7 g gsu25 af gos g 8g3_5 ggeeessgg 2 8 3s 63
+moo 7 n _ szasv2s ac ges Fes eseg saseseghs oo4 S38 oe
+geassgs aged snags ge beg 8258033 Begcegie2 § 8 8 2 ry
+Ze CF RE SEES gisag@ sao8s 73 $3 208 S323 20% BB3o58885 9 8 ga
+seasgaseae 3 so2s,72 $2 BR ERS SRSR 233 eeght = §& 3
+SgSghssgeg2 fesse 353% FE as hE 2e5882 gegergiiz 2 2 3 Q
+geaheeassae gSa5a 25358 R8 sf & SF S8F880R FSS 25 53 go so 2 O60
+F2eee< 25808 g32% aaoea"Q Sy =o a*5o Peegse coe g iad
+€ i. Gee S #52 3, Bacsgg S 33 28 z Zon gang rs 3
+2228988856 S§ane 2ag5 & 33 Sos 823 Foe "sR Se5aRS 8 ox
+ggases g8iF g38ee ESTs S 38 £88 388 BRS Seseask es 8B 2 2 ©
+Pe errrn 5 are 38 S88 2e8 esesegea es
+eeeegciiie € HEL agek* 3 fp diy Pie Gh ge ctedg 20 2 E g
+ei2°eReRs Fs fs S53 g28so § $2 4% 8 2 3 gam 3 »
+Sear seise a 35 Bose eo Fe 32 8s 3 Sabo 3 i °
+ge aga” 5S 2202 gesge 2385 3§ 59 ge Bess 2 5 3
+Pang 325 23 $583 Bgg8k 5 rig 32 29 35 g6253 2 aaa
+e@ g fo @ goco e5° Sf, @ z %e BS o§ go &s82
+g 8 eee fs Pee 82 ge F B38 eg 8 gs foa35 2 9
+2 & . a a e ge Zeag
+g * ge 2s gas GE 28 e $s 8 Be 83 S552 3 8
+piheti die of og Pluk 8 “nned 3 a3
+eo 8p Sao ge an gS Be ge 28 ae ae a,
+a3 8f8 §8 eas es & g ry 8s sa ZF & & _
+a 3 eve ¢g Ff 8 g g 8 3 Baga
+a > 8 3 3g 83 = g 8 Fa 3
+go a8 38 gop 83 22 2 88 §& 3° a8 sofa 8 z 2
+$3482 $3 feb 33 an g G8 S2 a8 gs 2,58 s 5
+3 B25 28 258 eg 2g g 88 e3 36 33 8358 oO
+23 825 €8 $22 4% <6 g 22 ge ge 29 939 8
+BB gs8 28 882 ge 3* g§ gf az 28 ag f8ee g
+s a 4 tad z +a ae
+2% §33 se 23% aS oa 2 £8 26 33 ge aera 2
+$9 88 SR 88S ag es g s2 8 1g ee 2288 5
+§ £ 423 ba Efg gh $3 S$ 88 gg of ge 5323 2
+8g 883 2 8 § 22 3% zg 63 @ 33 38 3433 ©
+2§ 223 & g § 22 3 é 82 3 g 8 333¢ &
+3 : 8 8 #8 go s es § 3 383 253
+3 F 280 § ga 88 fa e 87 2 23 8 g2o2
+Be See a = TE Ee 5s <§ 2
+ze +" F 28 bl
+& § S72 & gS820 E7258 2 2
+$ 8 7 ' ' om 853 23322 eegca 3 3
+‘ ' i asguead tas og0 ST & 2
+sono re B293g8758 bez $5833 $2385 8 5
+SFORSERS 29392 22 2°43 258 9 ® 28035 9
+3 25442934 5322933 § gaeg 8222328 +3 a8 gegse gegea 2
+Soot ees 7 see, Roaacso ae o23< sega
+rere eer ere agg & Bees ee 3228 aFsea Bese z
+S2oe eee S8eEREL ES £882 223 2825 oo3 S483 BS eae 2
+gegen Zaosess® £288 S5R9FSQR OG 8a3 Pas Z209R7 @
+Bes cee ee ween ZaRBT AIR O ge ZeRR 222 >
+a28 = osgsasag vers Z5RB3R0 a $83 ase e222 2
+Pad ZSESaesas4 25 “Sea 2292380 “Ze RAZR 233 $
+SSSISETS oe se ei so 2eeosk 6S z coe Fae3F 8
+BeeeSzess Bose Sie @s$azage § OG 85 esoR es 8
+ee esaeuacans es S 33 gefssed B $8 393 sagee 2
+£2a5e esos esa gee g 52298 $3 285 33
+Eegaeesigeee ese gs 28 g2g5383 8 s aa eokes &
+seeEeisegedaies 2 ee gedaass 2 ag gee ae°is §
+ert te rer ae) g Be ags3 5 22 385 eo &
+sages aase oe oF aS aess w 2 1° Re it o
+SESeaneos $252%4 32 Ba 2kag g 3320 oa BBO
+gpeeh abe 25338 54 3 2Fa5 $f ade pe a2 8
+eee 26 8508 Qo 3 gag s 5 feo. 6
+isi dH saises 32 2f geet Hat ree
+SSBez 328 eg 22 &3ge & 3a §
+Baget a°R 923 5D a Ss 32397 g RBar se 2
+28s8o 3°38 gesoe 8 ge s e2o0 go 8o% ge 2
+Sgaan 2 & Seeqgw ro ¥ ass z g g moo
+soefa 3 = 5828026 a BSR a8 352 =e g
+ga us s 8 £2055 « gE Bees es ee 53 6
+a 8 g 8 gc8 zs 8s g8es e g3 8
+gabe | geile Gls ease ee gah ge
+5 Se a Berou as a 2 $ 33 o oo
+BB ge 8 Bb Bzeege 3g 2 98 2 ge BSS 8% %
+ae a8 8 2 we8tga 83 2 38 go a3 4
+ge sf @ & aeuss 2 5 8 ga ga 3
+g 8 S328 =e 8 so s38 gs §
+gi Se 3 3 Ere 32 COE G 3g (83 3s 2
+eg fe 2 § ge843 ag 8 8 Bs a 2g 5
+83 °E § 2 Feges 4 8 83 6 6 ¢ 3
+zo £5 cameo 3 2 5 & 23
+ge Bg a a 7 >
+#8 =
+g &
+
+=== page 19 ===
+. :
+Strategic report continued
+Our principal risks and uncertainties continued
+Operational continued
+Health, safety and environment Major customer contracts
+Sponsor: Chief Security and Networks Officer Sponsor: Chief Executive, BT Group
+Enduring risks this category covers Enduring risks this category cov ete hich hel
+locations, some of which pose risks to health, safety and the want to win and keep big private and public sector contracts.
+environment (HSE).
+We focus on keeping our people and partners safe, healthy and able to We do that while navigating relationships and risk in complex
+perform at their best, while managing risk effectively. We also want to agreements - delivering highly sensitive, critical or essential services.
+protect the environment.
+Customer contractual terms can be onerous and challenging to meet,
+We're committed to maintaining and improving our HSE management leading to delays, penalties and disputes. Delivery or service failures
+. systems. They keep our business safe and compliant - while protecting against obligations and commitments could damage our brand and
+the environment and others we might affect. : reputation — particularly for critical infrastructure contracts or security
+and data protection services.
+ur risk appetite
+. oO PP . Not managing contract detivery, migrations, renewals, exits or disputes
+We want to make sure we properly protect our people, others we could cut profits and affect future customer relationships.
+interact with and the environment.
+We proactively identify and control significant HSE risks across the Our ti: A
+Fes ur risk appetite
+business and mitigate them to the lowest reasonable level.
+ust "ig janieleve’ We want a blend of major contracts. To do that, we must build market
+Legal, regulatory and other obligations are the minimum. But we aim well share, target the right customers, sign good commercial and legal
+beyond that - to no avoidable harm, optimum physical and mental health agreements and deliver services successfully.
+and zero pollution.
+p As the market and business environment change, we must adjust our
+Fe ef portfolio of services, countries and customers. This helps us avoid
+Examples of dynamic risks concentration risk, unattractive or uncompetitive products and
+Point risks: services, stagnation and legacy dependency.
+: 7 rails woe Fectively anage and fontral csbestos eros hi on We know this means taking bigger risks sometimes ~ for example,
+hy ith law-breaki d Pp ional complex customer agreements with obligations not fully covered by
+to neal th, awe reaking ant reputational lamage. our standard portfolio, customised terms and conditions and/or
+
+- Civil construction work for our full-fibre rollout, could lead to harm delivery processes. We minimise the impact of this in bids and
+to our people and damage to the environment. contract lifecycles.
+
+- Switching large numbers of vulnerable customers who depend
+on telecare devices from the PSTN network to Digital Voice, could. te eT
+stop some devices working and stop those customers getting help Examples of dynamic risks
+in emergencies. : Point risks:
+
+- Not meeting statutory requirements for waste management could - Failing to deliver on highly bespoke customer data requirements
+lead to reputational damage, risk to ISO certification and regulatory could lead to potential breaches, fines and reputational harm.
+intervention and/or fines. - Retiring old products and launching new ones might create risks
+
+. - Maintaining an ageing buildings estate (especially during our fibre and around fulfilling existing contractual commitments. It could also
+digital upgrade) could pose higher health and safety risks. hamper our ability to deliver on our business strategy. :
+Examples of what we do to manage these risks Emerging risks:
+controls and the HSE framework is reflected in our Code of Conduct. " Facts, part % “tor.
+
+- We train our people to make sure they’re clear on their - aevewte geopolitical risks impacting the supply chain, costs and
+responsibilities and are competent to do their jobs. vi 2 . z . .
+
+- We make sure our people and their representatives participate - The increasing prominence of Al might mean customers demanding
+in (and are consulted on).HSE issues. stringent Al-related promises.
+
+- Welead our contractors to improve their own HSE performance. .
+
+- Weallocate resources to develop, maintain and continually improve Examples of what we do to manage these risks
+our HSE management system. -- We embed controls into the lifecycle of customer contracts.
+
+- Aclear operational governance framework helps us check new business
+opportunities, manage bids and monitor in-life contract risks.
+
+- We manage external partners properly when they deliver services to
+our customers.
+
+- We monitor how our customer contracts are performing.
+
+~ Wesupport frontline contract managers with contract and
+obligation management tools. .
+
+; : 18 ; ;
+
+=== page 20 ===
+¥FoOon
+gosgsn y gv c
+gese 38s ZB &
+o g2 $23 $8909 Bess agsia 8 5 33
+1 ‘ee sss 33g 83g Beas 3833 geese §<3 23 4
+' 3 22 288 so2 8735 3 $F gases 8 a F
+a ggssg08 ege33 292332252 2 3 222 435 383 sisa ga%e eece 2323 2 8
+gn Fy Sg852F257298228 soag peietetiee ss fae 823 £3 S028 9255 "asie 2 Boag a
+3 Sakae Breagsaud <ece eeeRagcsa Re a3 223 £8 Bae B98s “SSs% zo - @
+32 2 eesesegzeag see <8e groegssge ge 22 £88 823 $533 Sgee a
+a3 2 a ge 928995582338 5 zZ32e Basesacze & 52 az2 gs3 sso 2253 see 3 oem
+gc § 8e8y8oaess Ea Saag BESgFSa%6 2 888 229 258 s828 Beze 33a 5 @ 9 2 0
+Ss 3 28983833 B8s530 PARR 2539752 2 $ 282 932 $ 73, $88 ease S8an a 8 3
+o gogessase3 8s 2a Boe *85 weo 3 aes 2 985 a6 Seaa $8 ay S54 yg
+2 g S8geseases 222 839 “356 gsse 32 B32 ase BSS ban oF oee onsa 2 2 o
+Ea i ba} seas gaghseegins Be a3 8558 2682 $3 $42 oes 88e GaSe i= °
+a giggseSieegesd § rd #85 B023 3 Bas 328 2e5 Be BSc £08 8 o 3
+3 Begsevoeiad 28% 39 g38 e852 3 B28 gue Ror Fo a2 8 Beue s a
+° gag eeseesesees 32 929 pana a gee 359 BaF ces se2 Bae 5 a
+a fag gesessogee Fa gs es2 ag23 ¢ GS3 eae 28 358 a3e wove 8 £
+¢ Bea oe o 2 ass g£33 2 8 Seo S38 258 eee of < 50
+= ese gseisatg Hey as 6392 322 853 838 395 B88 #8sq 3
+Fa Roses ELE Ssaug S 33 328 333 & 733 rag 283 208 SEB 9388 & re)
+: 8 Per see re lereie 28 age 93ge ae a ag30 38 g28 ze 8
+H gee aa haga gaan a5 @3a e258 Bas ¢ ESR 83a 238 sites 3 3
+3B space o2asheas o3 Sos g228 S35 So FSR 388 Foe Boek 8 a
+3B B88e5 3a8Bn8s 33 gba F838 ga¢ 38 #28 geR zoy Bae 3 s
+3 2 af gee 3 og gs 3439 eo 2% as 22 Rao soe i= = —
+3 sgeaes gagesgds 33 82 $088 335 § gs 322 gee <8 §
+g ease8 gesarge5 8S #o3 2298 332 83 38 as BRS foe 2 3
+3 gear eee & $F 8 Bo 3 F goa 2
+BaSg egsa%s2 8 a 3 83 3 a g 285 =
+Soe a 33 $33 3 88 $8 30 B28 2
+zg osha i988 a3 22 G2 GTR eh is SPP BE age a 8
+H a2ge2 2 28 333 gs Bo 8838 223 ks a2 gee Res gfe g
+g  o8shes gee ag8 be = 88S gase zai $3 23 358 o88 xe5 2
+2 ge £ 3 58 gee 85 gas gags age 68 38 gee zg” 3s 5
+rs] B35 3 3 8 83 3 233 anes ess 83 sg 38 ge 38 &
+7 g8o 3 8 FR Be 8 3 3 gee go 38 255 S$ €
+Fd ee seg 3 § ia
+z22 8
+g g
+- <
+€
+7
+2 3
+ro 8
+8
+8
+. 3
+2
+F
+a
+$s
+a
+g
+z
+Ca
+g
+
+=== page 21 ===
+°
+Section 172 statement
+In accordance with section 172 of the Companies Act 2006, each of our directors acts in the way he or she considers, in good faith, would
+most likely promote the success of the company for the benefit of its members as a whole. Our directors have regard, amongst other
+matters, to the:
+- likely consequences of any decisions in the long-term;
+— interests of the company’s employees;
+= need to foster the company’s business relationships with suppliers, customers and others;
+. — impact of the company’s operations on the community and environment;
+
+- desirability of the company maintaining a reputation for high standards of business conduct; and
+— need to act fairly as between members of the company.
+In discharging its section 172 duties the Company has regard to the factors set out above. The Company also has regard to other factors
+which consider relevant to the decision being made. Those factors, for example, include the interests and views of its pensioners,
+Bondholders and its relationship with Ofcom. The Company acknowledges that every decision it makes will not necessarily result in a
+positive outcome for all of its stakeholders. By considering the Company’s purpose, vision and values together with its strategic priorities
+and having a process in place for decision-making, the Company does, however, aim to make sure that its decisions are consistent and
+predictable.
+As is normal for large companies, the Company delegates authority for day-to-day management of the Company to executives and then
+engage management in setting, approving and overseeing the execution of the business strategy and related policies. The Company also
+reviews other areas over the course of the financial year including the Company’s financial and operational performance; stakeholder-
+related matters; diversity and inclusivity; and corporate responsibility matters. This is done through the consideration and discussion of
+reports which are sent in advance of each Board meeting and through presentations to the Board.
+The views and the impact of the Company’s activities on the Company’s stakeholders (including its workforce, customers and suppliers)
+are an important consideration for it when making relevant decisions. While there are cases where the Board itself judges that it should
+engage directly with certain stakeholder groups or on certain issues, the size and spread of both the stakeholders and the BT Group means
+that generally stakeholder engagement best takes place at an operational or group level. The Company finds that as well as being a more
+efficient and effective approach, this also helps it achieve a greater positive impact on environmental, social and other issues than by
+working alone as an individual company. For details on the some of the engagement that has taken place with the Company’s
+stakeholders so as to help the directors to understand the issues to which they must have regard, and the impact of that feedback on
+decisions, please see the stakeholders section in the strategic report of BT Group plc’s 2026 Annual Report. .
+During the period the Company received information to help it understand the interests and views of the Company’s key stakeholders and
+other relevant factors when making decisions. This information was distributed in a range of different formats including in reports and
+presentations on the Company’s financial and operational performance, non-financial KPIs, risk, environmental, social and corporate
+governance matters and the outcomes of specific pieces of engagement. As a result of this the Company has had an overview of
+engagement with stakeholders and other relevant factors which allows it to understand the nature of the stakeholders’ concerns and to
+comply with its section 172 duty to promote success of the company. :
+
+~ One example of how the Company has had regard to the matters set out in section 172(1)(a)-(f) when discharging its section 172 duties
+and the effect of that on decisions taken by it, is the payment of a final dividend of £1,500m.
+In making this decision the Board considered a range of factors. These included the long-term viability of the Company; its expected cash
+flow and financing requirements; the ongoing need for strategic investment in our business and workforce, and the pricing expectations of
+our customers and suppliers, as well as the expectations of our members and pensioners.
+
+. 20 - :
+
+=== page 22 ===
+.
+Report of the directors
+The directors present their report and the audited financial statements of the Company, British Telecommunications plc, and the group,
+which includes its subsidiary undertakings, for the year ended 31 March 2026. The audited consolidated financial statements are
+presented on pages 32 to 106 and the audited entity only financial statements are presented on pages 107 to 138.
+Astatement by the directors of their responsibilities for preparing the financial statements is included in the Statement of directors’
+responsibilities on page 25.
+Principal activity
+The Company is the principal trading subsidiary of BT Group ple ("BT Group"), which is the ultimate parent company.
+BT Group is the UK’s leading provider of fixed and mobile telecommunications and related secure digital products, solutions and services.
+We’re responsible for building and operating networks and delivering the connectivity-based solutions that are essential to modern lives,
+businesses and communities. We're the Uk’s largest provider of consumer mobile, fixed and converged communications solutions. We
+also keep UK and Republic of Ireland businesses and public sector organisations connected and provide network solutions to UK
+communications providers. Globally we integrate, secure and manage network and cloud infrastructure and services for multinational
+corporations. Openreach runs the UK’s main fixed connectivity access network, connecting homes, mobile phone masts, schools, shops,
+banks, hospitals, libraries, broadcasters, governments and big and small businesses to the world.
+As well as being the principal trading subsidiary of BT Group plc, British Telecommunications ple directly or indirectly controls all other
+trading subsidiaries of the BT Group.
+Directors
+Neil Harris, Edward Heaton, Simon Lowth and Daniel Rider served as directors throughout the year. Roger Eyre resigned on 14 April 2025,
+when Helen Charnley was appointed.
+Material accounting estimates, key judgements and significant accounting policies
+Our critical accounting estimates, key judgements and significant accounting policies conform with UK-adopted international accounting
+standards (IFRS), IFRSs issued by the International Accounting Standards Board (IASB) and the requirements of the Companies Act 2006,
+and are set out on page 38 of the consolidated financial statements and page 109 of the entity only financial statements. The directors
+have reviewed these policies and applicable estimation techniques, and have confirmed they are appropriate for the preparation of the
+FY26 consolidated financial statements.
+Disclosure of information to the auditor
+As far as each of the directors is aware, there is no relevant audit information (as defined by section 418(3) of the Companies Act 2006)
+that has not been disclosed to the auditor. Each of the directors confirms that all steps have been taken that ought to have been taken to
+make them aware of any relevant audit information and to establish that the auditor has been made aware of that information.
+Dividend
+Adividend of £1,500m was paid to the parent company, BT Group Investments Ltd (FY25: £780m). The directors recommend payment of
+a final dividend in respect of FY26 of £1,500m (FY25: £1,500m).
+Going concern
+Inline with IAS 1 ‘Presentation of financial statements’, and FRC guidance on ‘risk management, internal control and related financial and
+business reporting’, management has taken into account all available information about the future for a period of at least, but not limited
+to, 12 months from the date of approval of the financial statements when assessing the group’s ability to continue as a going concern.
+The Strategic report on pages 3 to 19 includes information on the group structure, strategy and stakeholders. The Group performance
+section on pages 6 to 7 includes information on our group financial results and balance sheet position. Notes 22, 24, 25 and 27 of the
+consolidated financial statements include information on the group’s investments, cash and cash equivalents, borrowings, derivatives,
+financial risk management objectives, hedging policies and exposure to interest, foreign exchange, credit, liquidity and market risks.
+Our principal risks and uncertainties are set out on pages 13 to 19 including details of each risk and how we manage and mitigate them.
+The directors carried out a robust assessment of the emerging and principal risks affecting the group, including any that could threaten
+our business model, future performance, insolvency or liquidity.
+Having assessed the principal and emerging risks, the directors considered it appropriate to adopt the going concern basis of accounting
+when preparing the financial statements. This assessment covers the period to June 2027, which is consistent with the FRC guidance.
+When reaching this conclusion, the directors took into account the group’s overall financial position (including trading results and ability
+to repay term debt as it matures without recourse to refinancing) and the exposure to emerging and principal risks.
+At 31 March 2026, the group had cash and cash equivalents of £0.4bn and current asset investments of £1.48bn. The group also had
+access to committed borrowing facility of £2.1bn. These facilities were undrawn at the period-end and are not subject to renewal until no
+earlier than January 2031 with the option to extend for one further year.
+Directors’ and officers’ liability insurance and indemnity
+BT Group plc routinely buys insurance cover for directors, officers and employees in positions of managerial supervision of BT Group ple
+and its subsidiaries (including the Company). This is intended to protect against defence costs, civil damages and, in some circumstances,
+civil fines and penalties following an action brought against them in their personal capacity. The insurance also covers individuals serving
+as directors of other companies or of joint ventures or on boards of trade associations or charitable organisations at BT Group ple’s
+request. The insurance protects the directors and officers directly in circumstances where, by taw, BT Group ple cannot provide an
+indemnity. It also provides BT Group plc, subject to a retention, with cover against the cost of indemnifying a director or officer.
+Asat 15 June 2026, and throughout FY26, British Telecommunications plc has provided an indemnity for a group of people similar to the
+group covered by the above insurance. Neither the insurance nor the indemnity provides cover where the individual is proven to have
+acted fraudulently or dishonestly.
+As permitted by the company’s Articles of Association, and to the extent permitted by law, BT Group indemnifies each of its directors and
+other officers of the group against certain liabilities that may be incurred as a result of their positions within the group. The indemnity was
+in force throughout the tenure of each director during the last financial year, and remains in force.
+
+21
+
+=== page 23 ===
+. .
+Report of the directors continued
+Systems of risk management and internal control .
+The Board of BT Group plc is responsible for reviewing the group’s systems of risk management and internal control each year, and for
+ensuring their effectiveness, including in respect of relevant assurance activities. These systems are designed to manage, rather than
+eliminate, risks we face that may prevent us from achieving our business objectives and delivering our strategy. Any system can provide
+only reasonable, and not absolute, assurance against material misstatement or loss.
+The BT Group risk management framework is simple and consistent, and defines our risk based behaviours, risk process and activities and
+governance. The framework:
+- provides the business with the tools to take on the right risks and make informed decisions
+- supports the identification, assessment and management of the principal risks and uncertainties faced by the group
+- is anintegral part of BT Group pic’s annual strategic review cycle.
+The framework was designed in accordance with the FRC guidance on risk management, internal control and related financial and
+business reporting and has been in operation throughout the year and up to the date on which this document was approved. The
+framework was reviewed in FY26 and was deemed effective. Continuous improvements were made in FY26, including enhancing how
+enduring risks are managed through our key control framework. That included establishing our existing frameworks for each GRC as our
+‘Material Controls’, as well as segmenting the underlying key controls in each GRC into different priority levels depending on the size of
+the risk. This provides the BT Group plc Board with visibility over areas where the framework may require attention and help leaders and
+oversight bodies focus on the controls that underpin the biggest risks. .
+These prioritised areas of control are the main focus of an integrated assurance plan which involves our assurance teams assessing the
+design and operational effectiveness of our defined control activities.
+Internal audit carry out periodic assessments of the quality of risk management and control, promote effective risk management across all
+our CFUs and report to management and the BT Group ple Audit & Risk Committee on the status of specific areas identified for
+improvement. We do not cover joint ventures and associates not controlled by the group in the scope of our group risk management
+framework. Such third parties are responsible for their own internal control assessment.
+Furthermore, the BT Group ple Audit & Risk Committee, on behalf of the BT Group ple Board, reviews the effectiveness of the systems of
+tisk management and internal control across the group. The BT Group ple Audit & Risk Committee has applied the FRC Audit Committees
+and the External Audit: Minimum Standard on a ‘comply or explain’ basis, including its responsibilities for audit tendering, oversight of
+audit quality and shareholder engagement in audit scope.
+. Capital management and funding
+The capital structure of the Company is managed by BT Group plc. The policies described here apply equally to both BT Group plc and
+group companies. The objective of our Capital Management Policy is to target an overall level of debt consistent with our credit rating
+objectives, while investing in the business, supporting our pension schemes and meeting our Distribution Policy.
+The BT Group plc Board regularly reviews the group’s capital structure. Management proposes actions and produces analyses which
+reflect the group’s investment plans and risk characteristics, as well as the macroeconomic conditions in which we operate.
+Our Funding Policy is to raise and invest funds centrally to meet the group’s anticipated requirements. We use a combination of capital
+market bond issuance and committed borrowing facilities to fund the group. When issuing debt, in order to avoid refinancing risk, group
+treasury will take into consideration the maturity profile of the group’s debt portfolio, financial market conditions as well as forecast cash
+flows.
+Financial instruments
+Details of the group’s financial risk management objectives, policies of the group and exposure to market risk {including interest rate risk,
+foreign exchange risk and energy price risk), liquidity risk and credit risk are given in note 27 to the consolidated financial statements.
+Credit risk management policy
+We take proactive steps to minimise the impact of adverse market conditions on our financial instruments. In managing investments and
+derivative financial instruments, group treasury monitors the credit quality across treasury counterparties and actively manages any
+exposures that arise. Management within the CFUs also actively monitors any exposures arising from trading balances.
+Off-balance sheet arrangements
+Other than the financial commitments and contingent liabilities disclosed in note 31 to the consolidated financial statements, there are
+no off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on: our financial
+condition; changes in financial condition; revenues or expenses; results of operations; liquidity; capital expenditure; or capital resources.
+We use a supply chain financing programme with a limited number of suppliers with short payment terms to extend them a more typical
+payment term. More details are disclosed in note 17 to the consolidated financial statements.
+Post balance sheet events
+Any material post balance sheet events have been disclosed in note 32 of the consolidated financial statements and note 22 of the entity
+only financial statements.
+Legal proceedings
+The group is involved in various legal proceedings, including actual or threatened litigation and government or regulatory investigations.
+For further details of legal and regulatory proceedings to which the group is party see note 18 to the consolidated financial statements.
+Apart from the information disclosed in note 18 to the consolidated financial statements, the group does not currently believe that there
+are any legal proceedings, government or regulatory investigations that may have a material adverse impact on the operations or financial
+condition of the group. in respect of each of the claims described in note 18, the nature and progression of such proceedings and
+* investigations can make it difficult to predict the impact they will have on the group. Many factors prevent us from making these
+assessments with certainty, including, that the proceedings of investigations are in early stages, no damages or remedies have been
+specified, and/or the frequently slow pace of litigation.
+22
+
+=== page 24 ===
+\ oteband BEE a
+ag
+1 aa &az7859 299
+2 Zeseose rasa
+gp 288 89 §GLR5F2 9882578 sea 5
+oe $2 39 Sso se 88ssezsy 825 oF ag 3
+a225 2253 $2 35 SF z83 28 eggagipeeize cs qi3 8
+Fe 832 3773 83% sf 83 £3 383 ge ges3e ESSsglog gio
+eog7 Gas of 33 Sez 8928 e338 gg 22 7S 538 $8 PEC i ee Elierres 238
+Petseerel a32 28 88 fee 28h cee ag gS 8 bas ag FEREESTTTA TELE £53 9
+a3 5 a 2 9oF é> 289 3 Zz 85 = 38220 axe gsug 808
+ss 2 <2a5 a Ss 2a 22 Bez Ge- $8 eo ao G 9g -« Feke can 22545 8
+@5 <s Foes o 8% 22 35 38a Bas 2488 zg %2 S asi gs 32 SH 857298 2255 5 Bo mt
+wo Foss ass fF 35 gee 388 Suzs 5% as =z $33 8&8 Reekkaz gage ee fos >
+$ gesagg Ses Sa 2 gee geht BEE 3a 358 a og ez gn e432 BEeSo05 “3
+Qe ras eng 83 20 38 zea £80 4 = 2 28 ee 2 Bsee8s3 3eag ®
+f° geese a8 fg 32 252 283 335 ge 35 & 8g: 23 So80a3 08 882258 a7 a
+=I @a0g5 gue am ie oaA® pol a a g BE BRSGSaxRRG ®Ea5 g
+§ gees gle FR Ze $88 fag 38 go 32 9 882 §& Meese ek ae Lea as a .
+c S258 88 gee 38 ¢3 388 gue gsaB 38 38 6 g22 23 2858 Feaageege 2° 8
+Ff §S838e5 @2 ofS #9 3a¢ sus #2 re 26 $ 852 23 egaokee geeag - =
+3 Ss iag 2 2 = soe xz oe ge
+aSe2 ase 98 3 ese Fue aseZ $a 2 zg 22 gs eR EMGFTESaRLS g
+3 Tee8es aye 8 23 838 B78 aces 9 ee F SRS g §Gs8gzagee ae 2 o
+$ gees ae ess Be 3¢ Fa sZt =2 o ga E28 29 309% geek Fas
+S seers ass § Soe 822 3 @ 2 35 2 £88 3 eee O RE oe Q
+g Sah 25 ga0 2 2a as S25 oc F g 5 G Fos & 8352008%s 28c3 3
+g oss ae® S82 3 ag 3<% ess 3208 §s 32 s3s ° go23¢5 otfsaog bre eo
+2 So328— F538 3 So Ss 888 228 a3 33 2° 3s 2 88e25a8 eeee8 65 Cy
+2 S7geie ary 8 oe feo £23 238 Bee 8 32% sesaa gees gre 2
+ics e32g28 Go S gi oS5 F<h Fae No 9 &@ 308 3 Segnag Te ROBES g =
+& S53s8 Suk S ee 332 325 22 82 88 & 323 B aeeeecs Se28S 38
+a soS8 sa a8 2 ge ge 58 aig 8z 3s 289 g& gaeaeeze gs 283 8 wo
+@ $32235 asf & $e Bas 333 <§58 9S BZ § 388 @ saeazszaz gS &
+= g28eu8 932 F e8 £5e 333 §2a 9g so 8 gee 8 834382 Sect kag Fi 0
+a Bpss32 s32a fs z a2 930 1 3 & 23¢ a BAF eS SS) 35 468
+z Sysis% ea Q 2 oak S3o 338 gp a¢ s 8 o oeeea ge3935
+UsSo2R 383 6 so SFE 236 seo KR oS 3 8a g 25296 Ba2 o fe)
+c 332388 ouga og of 38< See OFs. & 33 3 $58 s 20028 £352 Fa °
+R F2aoa8 Ree § eo @93 88s R85 Sere ee ee $ Baggs 99232 e@ 5s
+DEO Pas i 20 208 e ps 2 QF gags ZSBF55 5
+2 ORES o ag 3 B82 383 ry Bae 2 2¢ a Sse rt saa 9 B2se0 Fa co
+3 SORESE 3ga ae g g23g o8< 85 ~=OS z2s a Boreas Bs5o28 § =
+3588 ge 2 eo ofa §o8 aes 9 gs 2 #85 8 Bose s Sogee  § 5
+g BFR 098 ach 3 = 2 Sox Se3 88 9 558 z Ssgem s 2g45 8
+g Sor oo ZO 58 9 g396 2 §g az? Z 2 ao2 pz fad
+#80650 352 3 g F2 zee &28 8 $3 38 a: a zSo Sazh3s §
+2 goe8e2 258 8 Se fae 293 Bae 8 23 ¢ $32 ¢ BoRag ees @ 8
+& S3FaR5 F x 6 eg =a8 oe 3385 8 23 8 sez a ®@5Qeg aaese rd oO
+a Sa8e20 ao o SZ sR 223 B26 gs 3s 8 583 a VAGGG RFaao
+Q 2o88e 322 3 a2 35 428 3 7 3 39 8 $83 eases Sgeees 8 a
+$s g29883 $57 g a ra sfg gue os 3 saags Pa
+2 geRgeS FFF 8 BS s5¢ soe aes paar ier a 8ae 8 28322 aee73 g
+8 genes 328 2 3 225 e386 332 gece 8 ase 8 ga823 Ese g 7
+2 Beeees Ghee Has griaie seg gid 3 eii2e Sg8 2 3
+= vusag - 2 gS Boe 3 o 2 > z z
+S8aag2 23> ao 235 28 583 a 88 F ose 3 238 wie 9 g
+2 Seaag ga a2 8S 383 e2 Fhe Ras FF os g Gaskg G82 9
+o ogeac= age & 82 BFS 205 Ba3 ¢ af B Faz F Saray da55 3
+3 Beasae aus & ge 23s #88 es § 3 § "BEF 8 ®3 Se vps & 3
+i) 2gS—532 gQn 9 ee O48 gsS §o8 8 $3 2 3g 3 ee 38 zaloo &
+= zaSak ate 9 zo 235 853 g23 e® Se ag a 63 $9 58 3 Pa
+8 BEGs35 RS Bs Ege 8 oc <3 #2 88 32 3 se 838 8 g
+x SeFo38s 2335 oi SBF Tag ga 2 <3 g 22 a Bo 38 Sa + g
+x 5 Paorss 2am OO = obF <34 320 ¥ 5 25 QQ 6 ® B
+sd BS3338 z3s 2 32 R28 325 gag & § 2 34 3 gs gs gaa & 3
+Osanee g38 z eas 2316 Sa5 3 zz 0S S a2 836 &
+Qague 22 ° pag cS as§ rot = - az = a 2 3 a
+Spssza o82 5 S§ 882 323 gos 3 ge 2 88 Fa 8 $2 $38 & 7
+SpRere 22 38 a2 Rge 853 gs @ & $8 @ gg 3 FB 2 8
+Sasoksg gag a Bz of EOg Fag $ ° a Ba @ ga Be §o3 ¢€ 3
+gaenee S28 & 22 25a G88 a a ge 3 g8 sg gee Qo §
+bal Soon Reo aS Zz as g a 2 s ga
+goaoes ses 38 g *os Bae Fag es 3¢ e x8 5 > ¢B #3 93 g
+$3eeea 83a 3 gs g28 gg 23 a 8 & 8 58 ae 3% 33 2 5
+238529 Bas 8 42 90% 223 23 Q 8 = $5 2 s2 af ®3 3 bs
+EBSgsse "“@p 9 2a 88> oak 52 2 3 a 89 2 So 8% az2 8 3
+Ss$ease “oa B oF BS8 aes 68h 5 32 Bg BF 8 3 Sh goa 3 °
+235 58a 3 F a 29g ise at a ses 8 go & fo oF FBS ¢ 2
+S8psa3 33 § Se a%s 32% es § 2 g $8 §& og 3 g82 3 5
+THRPSSB Catan <§ $e BRS 83 J e o Pal 3 s® $8 a3 8 3
+FeESP3 5 BBR gs bai ase a8 2 3 g fe B 33 Aa Son 8 5
+Oo eage: BR 3 oz QB $28 8a 2 3 86 g 33 33 ggN & 3
+Seeks 28 S ge 88 seg 8a @ 8 ¢§ Be 8 Sm 8 3a0 5 Fa
+238088 Fh Ea oe 698 eeS 56 g 2 §& ee 8 ae Be g28 a £
+SesSEo 22 3 ao ae $a tare 3 8 7 7 a Bo 28 229 € >
+Sasese $5 3 ox cs Bop ae 8 ® a 23 a ge g¢ aco a 3
+a ! Ea 3. : s $ 8 za 3 ga 53 880 &
+gasoge 33 3 PO ORE Bee es = $ $s §8 3 85 83 OBS § &
+8O8028 az 8 8 as AB g bard o Fd 3 go z 332 S2 $e =
+eORRs Soo boa ao ag ok z & 3 $o 3 g 6 €35 5 es
+eS aase gs g a 28 sg oe iy 8 4 g2 < 28 0G 885 8 g
+szecge 52 6 s Bo ase of PI z a Be g 52 85 O88 3 rf
+Z2eSeas 83 2 s Bg ss og z a g 23 3 z35 ¢ 83g 2 a
+Sosssk 88 es es goss gs B g 8 <8 3 Be 28 3 F 3
+oOoFos- = 6 2 So £35 oe a 2 2 “2G a8 ¢ > 3
+eoezes oz 3 8 §2 £38 25 gf 5 3 2 3° #8 § g
+ZBo<s3 res 3 fas 3a ® < 3 a8 gs ag 3
+2E90F2 za 5 g 2 gee i 2 2 Ff 3 8 g
+segee5 38 8 2 3 8330 38 ueeeeee§ 63 0C€«éé g Q
+a$a2s 33 = a see 3
+3 5 Bs
+gsez °g & 8 8 &
+gas 3 3 a
+BE
+
+=== page 25 ===
+° .
+
+Report of the directors continued
+
+Governance Statement
+
+The Board aspires to have and maintain good standards of corporate governance and has adopted a corporate governance code
+
+appropriate for the company.
+
+The Board has chosen not to adopt and report against the 2024 UK Corporate Governance Cade, which in its view is designed, and is
+
+therefore more appropriate, for premium listed companies. Whilst we support the introduction of the Wates Corporate Governance
+
+Principles for Large Private Companies, we consider that they are less suitable for a wholly-owned subsidiary of a premium listed
+
+Company. We have therefore adopted our own corporate governance code in the form of four overarching principles as set out below,
+
+which we believe are appropriate for the company and are designed to ensure effective decision-making to promote the company’s long-
+
+term success.
+
+The principles which underpin our corporate governance code and how these principtes have been applied during the financial year ended
+
+31 March 2026 are shown below: .
+
+Principle One: Leadership
+
+“The Company is led by a Board of directors who promote the success of the Company for the benefit of its members, ensuring that it :
+
+operates with a clear sense of purpose that aligns with its values, strategy and culture.”
+
+The strategy and culture of the Company is underpinned by a clear vision of the company’s purpose and overall values which are
+
+articulated through the leadership of the Board (having reference to the BT Group’s strategy, culture and values). Given the importance
+
+of this, the Board seeks to promote the values, strategy and culture at different levels within the business. Culture remains an area of focus,
+with the Board promoting ethical leadership and accountability to achieve a dynamic and positive culture.
+
+Principle Two: Board composition
+
+“The Board has an appropriate composition and size to enable it to effectively lead the Company.”
+
+The size and composition of the Board is appropriate and proportionate for the business of the Company. The directors have an
+
+appropriate combination of technical, financial and commercial skills, collectively demonstrating a high-level understanding of the
+
+Company’s business model and its impact on key stakeholders.
+
+All appointments to the Board are based on merit and objective criteria. Diversity remains an area of focus as we continue to build a
+
+workforce that reflects the diversity of our customers and the communities we serve.
+
+Principle Three: Directors’ responsibilities
+
+“Directors have a clear understanding of their accountability and responsibilities. The Board’s policies and practices should support
+
+effective decision making and independent challenge.”
+
+= Onjoining the Board, new directors receive information on the company, are offered advice from the company secretary, and can
+request training tailored to their specific experience and knowledge, covering both their legal duties and the business of the company.
+
+- Onan ongoing basis, directors update their skills, knowledge and familiarity with the company in a range of different ways by meeting
+with senior management, visiting operations and by attending appropriate external and internal seminars and training sessions. This
+helps by continuing to contribute to their informed and sound decision-making.
+
+- Directors have a responsibility to declare any conflict of interest at the beginning of each Board meeting. Should a conflict arise, it would
+be the responsibility of the chair in conjunction with the non-conflicted directors to agree whether the director may participate and/or
+vote on the specific item.
+
+The directors have equal voting rights when making decisions, except the chair, who has a casting vote. All directors have access to the
+
+advice and services of the company secretary and may, if they wish, take professional advice at the company’s expense.
+
+Principle Four: Stakeholder relationship and engagement
+
+“The Board should build and maintain effective relationships with stakeholders.”
+
+The Board seeks to understand the views of its key stakeholders, and the impact of its behaviour and business on employees, customers, .
+
+suppliers and society more broadly. Whilst for reasons of efficiency and effectiveness, much of this engagement takes place at a BT Group
+
+level, the Board receives updates on its key stakeholders and the mechanisms and initiatives for engagement. For more information on
+group level engagement with key stakeholders, see the BT Group plc 2026 Annual Report and the Section 172 statement.
+
+When making decisions, the Board considers the potential impact on its key stakeholders, including the BT Pension Scheme and its
+
+members. :
+
+Cross reference to the Strategic report
+
+We have chosen to include the following information in the Strategic report in line with the Companies Act 2006 (otherwise required by
+
+law to be included in the Report of the Directors): _
+
+- Anindication of likely future developments in the business of the Company and its group (pages 3 to 19)
+
+- Anindication of our research and development activities (page 11) ,
+
+- Information on how the group (and BT Group plc) engages with colleagues, and how regard has been had to the interests of colleagues
+and the need to foster business relationships with suppliers, customers and others, and the effect of that regard during the year (pages
+8to9)
+
+By order of the Board
+
+Gan Lk.
+
+Simon Lowth
+
+Director .
+
+15 June 2026
+
+24
+

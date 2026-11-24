@@ -17,6 +17,8 @@ H = pd.read_csv(f'{OUT}/history.csv', dtype={'CompanyNumber': str}) if os.path.e
 HS = pd.read_csv(f'{OUT}/history_summary.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{OUT}/history_summary.csv') else pd.DataFrame()
 BS = pd.read_csv(f'{CFG}/balance_sheet.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{CFG}/balance_sheet.csv') else pd.DataFrame()
 RM = pd.read_csv(f'{CFG}/revenue_mix.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{CFG}/revenue_mix.csv') else pd.DataFrame()
+_V = f'{os.path.dirname(OUT)}/ocr/verified.csv'
+OCR_CHECKED = pd.read_csv(_V, dtype={'CompanyNumber': str}).set_index('CompanyNumber')['result'].to_dict() if os.path.exists(_V) else {}
 NOTES = pd.read_csv(f'{CFG}/company_notes.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{CFG}/company_notes.csv') else pd.DataFrame(columns=['CompanyNumber', 'check'])
 m = lambda v: f'£{v / 1e6:.1f}m'
 pct = lambda v: f'{v * 100:.0f}%'
@@ -85,7 +87,11 @@ def checks(r):
             out.append(f"Sales up {pct(cagr if cagr is not None else g)} {'a year' if cagr is not None else 'in one year'}: check how much came from acquisitions or one-off contracts")
     if str(r['ebitda_basis']).startswith('ESTIMATE'):
         out.append('EBITDA is estimated because depreciation is not tagged: confirm from the accounts')
-    if str(r['figures_source']) != 'Tagged':
+    if str(r['figures_source']).startswith('OCR') and num in OCR_CHECKED:
+        out.append('Figures were read by OCR and checked against the filing: ' + OCR_CHECKED[num])
+    elif str(r['figures_source']).startswith('OCR'):
+        out.append('Figures were read by OCR from scanned accounts: check every number against the filing')
+    elif str(r['figures_source']) != 'Tagged':
         out.append('Figures were read from the text of the accounts: check them against the filing')
     if r['relevance'] == 'ADJACENT':
         out.append('Only adjacent to the investment case: confirm it owns or runs infrastructure')
