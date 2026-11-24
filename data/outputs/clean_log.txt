@@ -1,35 +1,34 @@
 OCR: figures filled for 605 scanned filings; 234 could not be read
+Hand corrections applied to 26 filings
 Candidates to clean: 620
 status
 Shortlist                  440
 Watchlist (loss-making)     95
 In band, EBITDA unknown     85
-Companies with a number to check: 24
-                                  CompanyName    turnover        ebitda  ebitda_margin  turnover_growth                    figures_source                                                          data_flags
-52                       AVANTI SPACE LIMITED  18089972.8  1.322845e+07          0.731           -0.199   OCR, check (converted from USD)                                             EBITDA margin above 60%
-67                 BREEZE BIDCO (TNC) LIMITED  16778000.0  1.367300e+07          0.815           -0.187                        OCR, check                                             EBITDA margin above 60%
-88           CITYFIBRE METRO NETWORKS LIMITED  13474000.0  1.319700e+07          0.979            0.272                        OCR, check                                             EBITDA margin above 60%
-97          COMMSCOPE CONNECTIVITY UK LIMITED  66491376.0  6.494900e+04          0.001            0.071                        OCR, check                              EBITDA margin under 0.5% (check scale)
-114                         CUDO VENTURES LTD  74821974.0 -2.859627e+06         -0.038            3.963                        OCR, check                                          turnover growth above 300%
-125               DIGITAL SPACE GROUP LIMITED  45221000.0  7.800000e+04          0.002            0.302                        OCR, check                              EBITDA margin under 0.5% (check scale)
-128                 DORENELL WINDFARM LIMITED  62203000.0  4.396500e+07          0.707           -0.079                        OCR, check                                             EBITDA margin above 60%
-147                ERH COMMUNICATIONS LIMITED  14464285.0  5.818600e+04          0.004            0.208                        OCR, check                              EBITDA margin under 0.5% (check scale)
-178           GLOBAL SWITCH ESTATES 1 LIMITED  26560000.0  1.714200e+07          0.645            0.008                        OCR, check                                             EBITDA margin above 60%
-221                     KCOM HOLDINGS LIMITED  96203000.0  5.881700e+07          0.611           -0.056                        OCR, check                                             EBITDA margin above 60%
-237     M GROUP ENERGY (DATA INSIGHT) LIMITED  25042000.0  1.538800e+07          0.614            0.095                        OCR, check                                             EBITDA margin above 60%
-261                          NANCLACH LIMITED  16778000.0  1.375300e+07          0.820           -0.187                        OCR, check                                             EBITDA margin above 60%
-355                        TALKMOBILE LIMITED  73305000.0  5.523500e+07          0.753            0.276                        OCR, check                                             EBITDA margin above 60%
-398               VIASAT TECHNOLOGIES LIMITED  41269502.4  2.738421e+07          0.664           -0.137   OCR, check (converted from USD)                                             EBITDA margin above 60%
-412                    WIRELESS LOGIC LIMITED  77529000.0  1.006350e+08          1.298            0.059                        OCR, check                EBITDA margin above 60%; EBITDA bigger than turnover
-465                         OPUS TECH LIMITED  37385000.0  2.538049e+09         67.890            0.353  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
-483         NEW TECHNOLOGY GROUP HOLDINGS PLC  27191000.0  8.729200e+04          0.003           59.500                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
-492                         PADERO SOLAER LTD  25490037.0  3.679265e+07          1.443            2.005                            Tagged                EBITDA margin above 60%; EBITDA bigger than turnover
-509                               SUMANDO LTD  20875588.0  3.435804e+07          1.646            1.528                  FROM TEXT, check                EBITDA margin above 60%; EBITDA bigger than turnover
-529          MARITIME CARGO PROCESSING P.L.C.  17622891.0  1.259322e+07          0.715            0.005                  FROM TEXT, check                                             EBITDA margin above 60%
-555                                SYSDIG LTD  13621000.0  6.593368e+08         48.406           -0.034  FROM TEXT, check (read as £000s)                EBITDA margin above 60%; EBITDA bigger than turnover
-558  ABACUS INFORMATION TECHNOLOGY UK LIMITED  13256290.0  1.482400e+04          0.001            1.445                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
-561              ASSET SERVICES GROUP LIMITED  12836723.0  3.736700e+04          0.003           -0.037                  FROM TEXT, check                              EBITDA margin under 0.5% (check scale)
-578            TALK STRAIGHT HOLDINGS LIMITED  11203973.0  1.390900e+04          0.001            9.522                  FROM TEXT, check  turnover growth above 300%; EBITDA margin under 0.5% (check scale)
+Companies with a number to check: 22
+                                  CompanyName    turnover       ebitda  ebitda_margin  turnover_growth                    figures_source                                            data_flags
+52                       AVANTI SPACE LIMITED  18089972.8   13228453.6          0.731           -0.199   OCR, check (converted from USD)                               EBITDA margin above 60%
+67                 BREEZE BIDCO (TNC) LIMITED  16778000.0   13673000.0          0.815           -0.187                        OCR, check                               EBITDA margin above 60%
+88           CITYFIBRE METRO NETWORKS LIMITED  13474000.0   13197000.0          0.979            0.272                        OCR, check                               EBITDA margin above 60%
+97          COMMSCOPE CONNECTIVITY UK LIMITED  66491376.0      64949.0          0.001            0.071                        OCR, check                EBITDA margin under 0.5% (check scale)
+114                         CUDO VENTURES LTD  74821974.0   -2859627.0         -0.038            3.963                        OCR, check                            turnover growth above 300%
+125               DIGITAL SPACE GROUP LIMITED  45221000.0      78000.0          0.002            0.302                        OCR, check                EBITDA margin under 0.5% (check scale)
+128                 DORENELL WINDFARM LIMITED  62203000.0   43965000.0          0.707           -0.079                        OCR, check                               EBITDA margin above 60%
+147                ERH COMMUNICATIONS LIMITED  14464285.0      58186.0          0.004            0.208                        OCR, check                EBITDA margin under 0.5% (check scale)
+178           GLOBAL SWITCH ESTATES 1 LIMITED  26560000.0   17142000.0          0.645            0.008                        OCR, check                               EBITDA margin above 60%
+221                     KCOM HOLDINGS LIMITED  96203000.0   58817000.0          0.611           -0.056                        OCR, check                               EBITDA margin above 60%
+237     M GROUP ENERGY (DATA INSIGHT) LIMITED  25042000.0   15388000.0          0.614            0.095                        OCR, check                               EBITDA margin above 60%
+261                          NANCLACH LIMITED  16778000.0   13753000.0          0.820           -0.187                        OCR, check                               EBITDA margin above 60%
+355                        TALKMOBILE LIMITED  73305000.0   55235000.0          0.753            0.276                        OCR, check                               EBITDA margin above 60%
+398               VIASAT TECHNOLOGIES LIMITED  41269502.4   27384209.6          0.664           -0.137   OCR, check (converted from USD)                               EBITDA margin above 60%
+483         NEW TECHNOLOGY GROUP HOLDINGS PLC  27191000.0    1506241.0          0.055           59.500      FROM TEXT, corrected by hand                            turnover growth above 300%
+492                         PADERO SOLAER LTD  25490037.0   36792652.0          1.443            2.005                            Tagged  EBITDA margin above 60%; EBITDA bigger than turnover
+509                               SUMANDO LTD  20875588.0   34358045.0          1.646            1.528                  FROM TEXT, check  EBITDA margin above 60%; EBITDA bigger than turnover
+529          MARITIME CARGO PROCESSING P.L.C.  17622891.0   12593219.0          0.715            0.005                  FROM TEXT, check                               EBITDA margin above 60%
+555                                SYSDIG LTD  13621000.0  659336850.0         48.406           -0.034  FROM TEXT, check (read as £000s)  EBITDA margin above 60%; EBITDA bigger than turnover
+558  ABACUS INFORMATION TECHNOLOGY UK LIMITED  13256290.0      14824.0          0.001            1.445                  FROM TEXT, check                EBITDA margin under 0.5% (check scale)
+561              ASSET SERVICES GROUP LIMITED  12836723.0      37367.0          0.003           -0.037                  FROM TEXT, check                EBITDA margin under 0.5% (check scale)
+578            TALK STRAIGHT HOLDINGS LIMITED  11203973.0     628206.0          0.056            9.522      FROM TEXT, corrected by hand                            turnover growth above 300%
 25/620 | 0.5 min
 50/620 | 0.9 min
 75/620 | 1.3 min
@@ -50,7 +49,7 @@ Companies with a number to check: 24
 450/620 | 8.1 min
 475/620 | 8.5 min
 500/620 | 8.9 min
-525/620 | 9.3 min
+525/620 | 9.4 min
 550/620 | 9.7 min
 575/620 | 10.1 min
 600/620 | 10.5 min
