@@ -1,0 +1,2212 @@
+
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+2024-10-31
+2024-10-31
+false
+The principal activity of the company is that of the construction of utility projects for electricity and telecommunications.
+false
+2023-11-01
+22
+27
+true
+false
+NI614374
+2023-11-01
+2024-10-31
+NI614374
+2022-11-01
+2023-10-31
+NI614374
+2024-10-31
+NI614374
+2023-10-31
+NI614374
+2022-11-01
+NI614374
+3
+2023-11-01
+2024-10-31
+NI614374
+3
+2022-11-01
+2023-10-31
+NI614374
+5
+2023-11-01
+2024-10-31
+NI614374
+5
+2022-11-01
+2023-10-31
+NI614374
+6
+2023-11-01
+2024-10-31
+NI614374
+6
+2022-11-01
+2023-10-31
+NI614374
+d:Director1
+2023-11-01
+2024-10-31
+NI614374
+d:Director2
+2023-11-01
+2024-10-31
+NI614374
+d:RegisteredOffice
+2023-11-01
+2024-10-31
+NI614374
+d:Agent1
+2023-11-01
+2024-10-31
+NI614374
+e:Buildings
+2023-11-01
+2024-10-31
+NI614374
+e:Buildings
+2024-10-31
+NI614374
+e:Buildings
+2023-10-31
+NI614374
+e:Buildings
+e:OwnedOrFreeholdAssets
+2023-11-01
+2024-10-31
+NI614374
+e:LandBuildings
+2024-10-31
+NI614374
+e:LandBuildings
+2023-10-31
+NI614374
+e:PlantMachinery
+2023-11-01
+2024-10-31
+NI614374
+e:PlantMachinery
+2024-10-31
+NI614374
+e:PlantMachinery
+2023-10-31
+NI614374
+e:PlantMachinery
+e:OwnedOrFreeholdAssets
+2023-11-01
+2024-10-31
+NI614374
+e:MotorVehicles
+2023-11-01
+2024-10-31
+NI614374
+e:MotorVehicles
+2024-10-31
+NI614374
+e:MotorVehicles
+2023-10-31
+NI614374
+e:MotorVehicles
+e:OwnedOrFreeholdAssets
+2023-11-01
+2024-10-31
+NI614374
+e:OfficeEquipment
+2023-11-01
+2024-10-31
+NI614374
+e:OfficeEquipment
+2024-10-31
+NI614374
+e:OfficeEquipment
+2023-10-31
+NI614374
+e:OfficeEquipment
+e:OwnedOrFreeholdAssets
+2023-11-01
+2024-10-31
+NI614374
+e:OwnedOrFreeholdAssets
+2023-11-01
+2024-10-31
+NI614374
+e:CurrentFinancialInstruments
+2024-10-31
+NI614374
+e:CurrentFinancialInstruments
+2023-10-31
+NI614374
+e:Non-currentFinancialInstruments
+2024-10-31
+NI614374
+e:Non-currentFinancialInstruments
+2023-10-31
+NI614374
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2024-10-31
+NI614374
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2023-10-31
+NI614374
+e:Non-currentFinancialInstruments
+e:AfterOneYear
+2024-10-31
+NI614374
+e:Non-currentFinancialInstruments
+e:AfterOneYear
+2023-10-31
+NI614374
+e:ReportableOperatingSegment1
+2023-11-01
+2024-10-31
+NI614374
+e:ReportableOperatingSegment1
+2022-11-01
+2023-10-31
+NI614374
+f:UnitedKingdom
+2023-11-01
+2024-10-31
+NI614374
+f:UnitedKingdom
+2022-11-01
+2023-10-31
+NI614374
+f:RestEuropeOutsideUK
+2023-11-01
+2024-10-31
+NI614374
+f:RestEuropeOutsideUK
+2022-11-01
+2023-10-31
+NI614374
+e:UKTax
+2023-11-01
+2024-10-31
+NI614374
+e:UKTax
+2022-11-01
+2023-10-31
+NI614374
+e:ShareCapital
+2023-11-01
+2024-10-31
+NI614374
+e:ShareCapital
+2024-10-31
+NI614374
+e:ShareCapital
+2022-11-01
+2023-10-31
+NI614374
+e:ShareCapital
+2023-10-31
+NI614374
+e:ShareCapital
+2022-11-01
+NI614374
+e:RetainedEarningsAccumulatedLosses
+2023-11-01
+2024-10-31
+NI614374
+e:RetainedEarningsAccumulatedLosses
+2024-10-31
+NI614374
+e:RetainedEarningsAccumulatedLosses
+2022-11-01
+2023-10-31
+NI614374
+e:RetainedEarningsAccumulatedLosses
+2023-10-31
+NI614374
+e:RetainedEarningsAccumulatedLosses
+2022-11-01
+NI614374
+e:FinancialAssetsDesignatedFairValueThroughProfitOrLoss
+2024-10-31
+NI614374
+e:FinancialAssetsDesignatedFairValueThroughProfitOrLoss
+2023-10-31
+NI614374
+e:AcceleratedTaxDepreciationDeferredTax
+2024-10-31
+NI614374
+e:AcceleratedTaxDepreciationDeferredTax
+2023-10-31
+NI614374
+d:OrdinaryShareClass1
+2023-11-01
+2024-10-31
+NI614374
+d:OrdinaryShareClass1
+2024-10-31
+NI614374
+d:OrdinaryShareClass1
+2023-10-31
+NI614374
+d:FRS102
+2023-11-01
+2024-10-31
+NI614374
+d:Audited
+2023-11-01
+2024-10-31
+NI614374
+d:FullAccounts
+2023-11-01
+2024-10-31
+NI614374
+d:PrivateLimitedCompanyLtd
+2023-11-01
+2024-10-31
+NI614374
+e:WithinOneYear
+2024-10-31
+NI614374
+e:WithinOneYear
+2023-10-31
+NI614374
+e:BetweenOneFiveYears
+2024-10-31
+NI614374
+e:BetweenOneFiveYears
+2023-10-31
+NI614374
+e:MoreThanFiveYears
+2024-10-31
+NI614374
+e:MoreThanFiveYears
+2023-10-31
+NI614374
+e:HirePurchaseContracts
+e:WithinOneYear
+2024-10-31
+NI614374
+e:HirePurchaseContracts
+e:WithinOneYear
+2023-10-31
+NI614374
+e:HirePurchaseContracts
+e:BetweenOneFiveYears
+2024-10-31
+NI614374
+e:HirePurchaseContracts
+e:BetweenOneFiveYears
+2023-10-31
+NI614374
+e:PlantMachinery
+e:LeasedAssetsHeldAsLessee
+2024-10-31
+NI614374
+e:PlantMachinery
+e:LeasedAssetsHeldAsLessee
+2023-10-31
+NI614374
+e:MotorVehicles
+e:LeasedAssetsHeldAsLessee
+2024-10-31
+NI614374
+e:MotorVehicles
+e:LeasedAssetsHeldAsLessee
+2023-10-31
+NI614374
+e:LeasedAssetsHeldAsLessee
+2024-10-31
+NI614374
+e:LeasedAssetsHeldAsLessee
+2023-10-31
+NI614374
+g:PoundSterling
+2023-11-01
+2024-10-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 
+NI614374
+M&M CONTRACTORS (EUROPE) LTD
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 OCTOBER 2024
+M&M CONTRACTORS (EUROPE) LTD
+COMPANY INFORMATION
+Directors
+Gareth Loye
+Noel Loye
+Registered number
+NI614374
+Registered office
+4 Pilots View
+Heron Road
+Belfast
+BT3 9LE
+Independent auditors
+AAB Group Accountants Limited
+Howard House
+30 Northland Row
+Dungannon
+Co. Tyrone
+BT71 6AP
+Bankers
+First Trust
+31/35 High Street
+Belfast
+BT1 2AL
+Solicitors
+Burns Dewar
+55-59 Adelaide Street
+Belfast
+BT2 8FE
+M&M CONTRACTORS (EUROPE) LTD
+CONTENTS
+Page
+Strategic report
+1 - 2
+Directors' report
+3 - 4
+Independent auditors' report
+5 - 8
+Statement of comprehensive income
+9
+Balance sheet
+10
+Statement of changes in equity
+11
+Statement of cash flows
+12
+Analysis of net debt
+13
+Notes to the financial statements
+14 - 29
+M&M CONTRACTORS (EUROPE) LTD
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 OCTOBER 2024
+Introduction
+The directors present the strategic report for the year ended 31 October 2024.
+Business review
+During the reporting period, the company focused on utilities infrastructure and electric vehicle (EV) infrastructure development.
+The company recognised the EV infrastructure sector as an emerging market in the UK and Ireland, positioning itself as a leader in delivering EV infrastructure projects. This recognition is underscored by several accolades, including the prestigious title of EV Contractor of the Year. This success has not only introduced a new revenue stream but has also significantly contributed to the overall revenue growth for the year.
+Throughout the year, the company enhanced its internal management structure by promoting key senior staff to the Board of Directors and establishing a new Senior Leadership Team. Additionally, a comprehensive schedule of management and leadership training was implemented, preparing the organisation for future challenges and opportunities.
+The Directors and Board are pleased with the company’s performance over the past year. They believe that the recent management changes will effectively support the company’s growth objectives. With a robust project pipeline for the upcoming year, the Board is optimistic about building on the successes achieved to date.
+Principal risks and uncertainties
+The company uses financial instruments throughout its business. The core finance and interest rate risks associated with the company's financial instruments (i.e. its interest-bearing loans, cash, short-dated liquid investments and finance leases, on the operational level trade receivables and payables) are currency risk, interest rate risk and credit risk. The board reviews and agrees policies for the prudent management of these risks as follows:
+Currency risk
+The company conducts business primarily in Sterling (£) and Euro (€) and has accounts in each currency where currency risk is monitored and managed.  
+Finance and Interest rate risk
+The company's objective in relation to interest rate management is to minimise the impact of interest rate volatility on interest costs in order to protect recorded profitability.  
+Credit risk
+The company has no significant concentrations of credit risk.  Customers who wish to trade on credit terms are subject to strict verification procedures in advance of credit being awarded and are continually being monitored.
+Inflation risk
+The company will continue to take steps to ensure the current inflation crisis in the UK and global economy does not materially impact on the business. Costs will be monitored and controlled closely to mitigate the impact of inflation on the business.
+Page 1
+M&M CONTRACTORS (EUROPE) LTD
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 OCTOBER 2024
+Financial key performance indicators
+The financial Key Performance Indicators used by the company are turnover growth, gross profit margins on sales and the operating profit achieved by the business.
+The company's key performance indicators are as follows:
+2024
+2023
+Increase in turnover
+33.5%
+21.6%
+Gross margin
+10.1%
+11.6%
+Operating profit
+£783k
+£583k
+This report was approved by the board
+ and signed on its behalf
+.
+Gareth Loye
+Director
+Date: 
+16 February 2026
+Page 2
+M&M CONTRACTORS (EUROPE) LTD
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 OCTOBER 2024
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 October 2024
+.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+374,446
+ (2023 - 
+£
+389,537
+)
+.
+Ordiinary dividends were paid amounting to £68,300 (2023: £91,624). The directors do not recommend payment of a final dividend.
+Directors
+The 
+directors
+ who served during the 
+year and up to the date of signing the financial statements
+were:
+Gareth Loye
+Noel Loye
+Future developments
+The company plans to continue its present activities and increase trading levels. Employees are kept as fully informed as practicable about developments within the business.
+Post balance sheet events
+There have been no significant events affecting the 
+Company
+ since the year end.
+Auditors
+The auditor
+s
+, 
+AAB Group Accountants Limited
+, 
+were appointed as auditor to the company in accordance with 
+section 485 of the Companies Act 2006.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Strategic report, the Directors' report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 3
+M&M CONTRACTORS (EUROPE) LTD
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 OCTOBER 2024
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+ aware of that information.
+This report was approved by the 
+board
+ on 
+16 February 2026
+ and signed on 
+its
+ behalf.
+Gareth Loye
+Director
+Page 4
+M&M CONTRACTORS (EUROPE) LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF M&M CONTRACTORS (EUROPE) LTD
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+M&M Contractors (Europe) Ltd (the 'Company')
+ for the 
+year
+ ended 
+31 October 2024
+, which comprise 
+the Statement of comprehensive income, the Analysis of net debt, the Balance sheet, the Statement of cash flows, the Statement of changes in equity
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 October 2024
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Page 5
+M&M CONTRACTORS (EUROPE) LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF M&M CONTRACTORS (EUROPE) LTD (CONTINUED)
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic report and the Directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic report and the Directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic report or the Directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+Directors' responsibilities statement
+ set out on page 3, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or 
+have
+ no realistic alternative but to do so.
+Page 6
+M&M CONTRACTORS (EUROPE) LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF M&M CONTRACTORS (EUROPE) LTD (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+We obtained an understanding of the legal and regulatory framework applicable to the company through enquiry of management, industry research and the application of cumulative audit knowledge. We identified the following principal laws and regulations relevant to the company – Companies Act 2006 and the Financial Reporting Standard applicable in the UK and Republic of Ireland (FRS 102).
+We developed an understanding of the key fraud risks to the entity (including how fraud might occur), the controls in place to help mitigate those risks, and the accounts, balances and disclosures within the financial statements which may be susceptible to management bias. Our understanding was obtained through review of the financial statements for significant accounting estimates, analysis of journal entries, walkthrough of the key controls cycles in place and enquiry of management..
+As part of an audit in accordance with ISAs (UK), 
+we
+ exercise professional 
+judgement
+ and maintain professional scepticism throughout the audit. 
+We
+ also:
+∙
+Identify and assess the risks of material misstatement of the 
+financial statements
+, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for 
+our
+ opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+∙
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion of the effectiveness of the 
+Company
+'s internal control.
+∙
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the 
+directors
+.
+∙
+Conclude on the appropriateness of the 
+directors
+'
+ use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the 
+Company
+'s ability to continue as a going concern. If 
+we
+ conclude that a material uncertainty exists, 
+we
+are
+ required to draw attention in 
+our
+Auditors' report
+ to the related disclosures in the 
+financial statements
+ or, if such disclosures are inadequate, to modify 
+our
+ opinion. 
+Our
+ conclusions are based on the audit evidence obtained up to the date of 
+our
+Auditors' report
+. However, future events or conditions may cause the 
+Company
+ to cease to continue as a going concern.
+∙
+Evaluate the overall presentation, structure and content of the 
+financial statements
+, including the disclosures, and whether the 
+financial statements
+ represent the underlying transactions and events in a manner that achieves fair presentation.
+∙
+Auditing the risk of management override of controls, including through testing journal entries and other ajustments for appropriateness, and evaluating the business rationale of significant transactions outside the normal course of business
+We
+ communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that 
+we
+ identify during 
+our
+ audit.
+Page 7
+M&M CONTRACTORS (EUROPE) LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF M&M CONTRACTORS (EUROPE) LTD (CONTINUED)
+Other matters 
+In the previous accounting period the directors of the company took advantage of the audit exemption under s477 of the Companies Act. Therefore the prior period financial statements were not subject to audit.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Deborah Mullen
+ (Senior statutory auditor)
+for and on behalf of
+AAB Group Accountants Limited
+Statutory Auditors
+Howard House
+30 Northland Row
+Dungannon
+Co. Tyrone
+BT71 6AP
+16 February 2026
+Page 8
+M&M CONTRACTORS (EUROPE) LTD
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 OCTOBER 2024
+2024
+2023
+Note
+£
+£
+Turnover
+5
+20,274,554
+15,181,248
+Cost of sales
+(
+18,223,127
+)
+(
+13,422,160
+)
+Gross profit
+2,051,427
+1,759,088
+Administrative expenses
+(
+1,303,447
+)
+(
+1,196,655
+)
+Other operating income
+6
+35,256
+20,978
+Operating profit
+7
+783,236
+583,411
+Exceptional item
+(
+300,000
+)
+-
+Total operating profit
+483,236
+583,411
+Interest payable and similar expenses
+12
+(
+32,153
+)
+(
+49,204
+)
+Profit before tax
+451,083
+534,207
+Tax on profit
+13
+(
+76,637
+)
+(
+144,670
+)
+Profit for the financial year
+374,446
+389,537
+There was no other comprehensive income for 
+2024
+ (
+2023
+:
+£
+NIL
+).
+The notes on pages 14 to 29 form part of these 
+financial statements
+.
+Page 9
+M&M CONTRACTORS (EUROPE) LTD
+REGISTERED NUMBER: 
+NI614374
+BALANCE SHEET
+AS AT 
+31 OCTOBER 2024
+As restated
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+15
+672,833
+623,488
+672,833
+623,488
+Current assets
+Stocks
+16
+141,097
+292,856
+Debtors: amounts falling due after more than one year
+17
+712,126
+497,590
+Debtors: amounts falling due within one year
+17
+5,143,872
+3,978,588
+Cash at bank and in hand
+18
+1,493,398
+1,257,577
+7,490,493
+6,026,611
+Creditors: amounts falling due within one year
+19
+(
+5,465,078
+)
+(
+4,297,338
+)
+Net current assets
+2,025,415
+1,729,273
+Total assets less current liabilities
+2,698,248
+2,352,761
+Creditors: amounts falling due after more than one year
+20
+(
+698,680
+)
+(
+665,643
+)
+Provisions for liabilities
+Deferred tax
+23
+(
+74,663
+)
+(
+68,259
+)
+(
+74,663
+)
+(
+68,259
+)
+Net assets
+1,924,905
+1,618,859
+Capital and reserves
+Called up share capital 
+24
+20
+20
+Profit and loss account
+1,924,885
+1,618,839
+1,924,905
+1,618,859
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ on
+16 February 2026
+.
+Gareth Loye
+Director
+The notes on pages 14 to 29 form part of these financial statements.
+Page 10
+M&M CONTRACTORS (EUROPE) LTD
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 OCTOBER 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 November 2022
+20
+1,320,926
+1,320,946
+Comprehensive income for the year
+Profit for the year
+-
+389,537
+389,537
+Total comprehensive income for the year
+-
+389,537
+389,537
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+(
+91,624
+)
+(
+91,624
+)
+Total transactions with owners
+-
+(
+91,624
+)
+(
+91,624
+)
+At 1 November 2023
+20
+1,618,839
+1,618,859
+Comprehensive income for the year
+Profit for the year
+-
+374,446
+374,446
+Total comprehensive income for the year
+-
+374,446
+374,446
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+(
+68,400
+)
+(
+68,400
+)
+At 31 October 2024
+20
+1,924,885
+1,924,905
+The notes on pages 14 to 29 form part of these 
+financial statements
+.
+Page 11
+M&M CONTRACTORS (EUROPE) LTD
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2024
+2023
+£
+£
+Cash flows from operating activities
+Profit for the financial year
+374,446
+389,537
+Adjustments for:
+Depreciation of tangible assets
+108,712
+70,744
+Loss on disposal of tangible assets
+-
+(
+1,657
+)
+Government grants
+(2,494
+)
+-
+Interest paid
+32,153
+49,204
+Taxation charge
+77,358
+144,670
+Decrease in stocks
+151,759
+46,129
+(Increase) in debtors
+(
+875,168
+)
+(
+966,014
+)
+Increase in creditors
+670,355
+783,211
+Corporation tax (paid)
+(
+53,040
+)
+(
+38,385
+)
+Net cash generated from operating activities
+484,081
+477,439
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+55,237
+)
+(
+208,932
+)
+Sale of tangible fixed assets
+-
+22,348
+Government grants received
+2,494
+-
+HP interest paid
+(
+12,896
+)
+(
+6,894
+)
+Net cash from investing activities
+(
+65,639
+)
+(
+193,478
+)
+Cash flows from financing activities
+Repayment of/new finance leases
+(
+83,430
+)
+-
+Loans due from/(repaid to) directors
+(
+11,534
+)
+-
+Dividends paid
+(
+68,400
+)
+(
+91,624
+)
+Interest paid
+(
+19,257
+)
+(
+42,310
+)
+Net cash used in financing activities
+(
+182,621
+)
+(
+133,934
+)
+Net increase in cash and cash equivalents
+235,821
+150,027
+Cash and cash equivalents at beginning of year
+1,257,577
+1,107,550
+Cash and cash equivalents at the end of year
+1,493,398
+1,257,577
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+1,493,398
+1,257,577
+1,493,398
+1,257,577
+The notes on pages 14 to 29 form part of these 
+financial statements
+.
+Page 12
+M&M CONTRACTORS (EUROPE) LTD
+ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 31 OCTOBER 2024
+At 1 November 2023
+Cash flows
+New finance leases
+At 31 October 2024
+£
+£
+£
+£
+Cash at bank and in hand
+1,257,577
+235,821
+-
+1,493,398
+Finance leases
+(199,231
+)
+83,430
+(102,820
+)
+(218,621
+)
+1,058,346
+319,251
+(102,820
+)
+1,274,777
+The notes on pages 14 to 29 form part of these 
+financial statements
+.
+Page 13
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+1.
+General information
+M&M Contractors (Europe) Ltd is a private company limited by shares incorporated in Northern Ireland. The registered office is 4 Pilots View, Heron Road, Belfast, BT3 9LE.
+The principal activity of the company is that of construction of utility projects for electricity and telecommunications.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Statement of comprehensive income
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+Page 14
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2.
+Accounting policies (continued)
+2.3
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.4
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.5
+Government grants
+Grants are accounted under the accruals model as permitted by FRS 102. Grants relating to expenditure on tangible fixed assets are credited to profit or loss at the same rate as the depreciation on the assets to which the grant relates. The deferred element of grants is included in creditors as deferred income.
+Grants of a revenue nature are recognised in the 
+Statement of comprehensive income
+ in the same period as the related expenditure.
+2.6
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.7
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+Page 15
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2.
+Accounting policies (continued)
+2.8
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+2.9
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+on a reducing balance basis
+.
+Depreciation is provided on the following basis:
+Freehold property
+-
+straight line
+Plant and machinery
+-
+reducing balance
+Motor vehicles
+-
+reducing balance
+Office equipment
+-
+reducing balance
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+Page 16
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2.
+Accounting policies (continued)
+2.10
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.11
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+Debtors due after more than one year are classified as non-current assets. These typically include amounts due in relation to retention.
+2.12
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+In the 
+Statement of cash flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+Company
+'s cash management.
+2.13
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.14
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.15
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+The 
+Company
+ has elected to apply the recognition and measurement provisions of IFRS 9 Financial Instruments (as adopted by the UK Endorsement Board) with the disclosure requirements of Sections 11 and 12 and the other presentation requirements of FRS 102.
+Financial instruments are recognised in the 
+Company's
+Balance sheet
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Page 17
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2.
+Accounting policies (continued)
+2.15
+Financial instruments (continued)
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Company's
+ cash and cash equivalents, trade and most other debtors due with the operating cycle fall into this category of financial instruments.
+Other financial assets
+Other financial assets, which includes investments in equity instruments which are not classified as subsidiaries, associates or joint ventures, are initially measured at fair value, which is normally the recognised transaction price. Such assets are subsequently measured at fair value with the changes in fair value being recognised in the profit or loss. Where other financial assets are not publicly traded, hence their fair value cannot be measured reliably, they are measured at cost less impairment.
+Impairment of financial assets
+At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss. 
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Basic financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other creditors, bank loans
+ and
+ other loans are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.
+Page 18
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2.
+Accounting policies (continued)
+2.15
+Financial instruments (continued)
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade creditors are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade creditors are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Other financial instruments
+Derivatives, including forward exchange contracts, futures contracts and interest rate swaps, are not classified as basic financial instruments. These are initially recognised at fair value on the date the derivative contract is entered into, with costs being charged to the profit or loss. They are subsequently measured at fair value with changes in the profit or loss.
+Debt instruments that do not meet the conditions as set out in FRS 102 paragraph 11.9 are subsequently measured at fair value through the profit or loss. This recognition and measurement would also apply to financial instruments where the performance is evaluated on a fair value basis as with a documented risk management or investment strategy.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+2.16
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+Page 19
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+In  the application of the company’s accounting policies, the directors are required to make judgements, estimates  and  assumptions  about  the  carrying  amount  of  assets  and  liabilities  that  are  not  readily apparent  from  other  sources.  The  estimates  and  associated  assumptions  are  based  on  historical experience  and  other  factors  that  are  considered  to  be  relevant.  Actual  results  may  differ  from  these estimates.
+The  estimates  and  underlying  assumptions  are  reviewed  on  an ongoing  basis. Revisions to  accounting estimates  are  recognised  in  the  period  in  which  the  estimate  is  revised  where  the  revision  affects  only that period, or in the period of the revision and future periods where the revision affects both current and future periods. 
+The following judgements (apart from those involving estimates) have had the most significant effect on amounts recognised in the financial statements.
+Amounts recoverable on contracts
+When the outcome of a construction project contract can be estimated reliably and it is probable that the contract  will  be  profitable,  contract  revenue  and  accruals/costs  are  recognised  over  the  period  of  the contract  by reference  to  the  stage  of  completion  using  the  'percentage-of-completion-method'  to determine  the  appropriate  amount  to  recognise  in  a  given  period.  When  it  is  probable  that  the  total contract costs will exceed total contract revenue, the expected loss is recognised immediately.
+4.
+Prior Year Reclassification
+Following a review of the presentation of balances relating to long-term contracts, the Directors determined that certain amounts previously included within Stocks in the prior year financial statements more appropriately met the definition of Amounts recoverable on long-term contracts and have therefore been reclassified to Trade and other debtors. Furthermore, certain contract retentions previously presented entirely as current other debtors, have been reclassified to reflect their expected timing of recovery.
+The comparative figures have been restated to reflect this reclassification. The reclassification does not affect the Company’s total assets, profit for the year, net assets or cash flows for the prior period. 
+Page 20
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+5.
+Turnover
+An analysis of turnover by class of business is as follows:
+2024
+2023
+£
+£
+Contracts
+20,274,554
+15,181,248
+20,274,554
+15,181,248
+Analysis of turnover by country of destination:
+2024
+2023
+£
+£
+United Kingdom
+17,227,212
+11,410,209
+Rest of Europe
+3,047,342
+3,771,039
+20,274,554
+15,181,248
+6.
+Other operating income
+2024
+2023
+£
+£
+Government grants receivable
+2,494
+-
+Insurance claims receivable
+32,762
+20,978
+35,256
+20,978
+7.
+Operating profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Exchange differences
+3,791
+(
+2,002
+)
+Other operating lease rentals
+75,421
+104,265
+Depreciation on financed fixed tangible assets
+75,153
+48,886
+Depreciation on owned fixed tangible assets
+33,559
+21,859
+Page 21
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+8.
+Exceptional item
+Intercompany balance written off
+300,000
+-
+300,000
+-
+The company has recognised an exceptional expense of £300,000 relating to the write-off of an intercompany balance with a related party.
+9.
+Auditors' remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditors
+:
+2024
+2023
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+12,500
+-
+10.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+1,489,818
+1,177,942
+Social security costs
+164,201
+127,032
+Cost of defined contribution scheme
+34,039
+27,008
+1,688,058
+1,331,982
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2024
+2023
+No.
+No.
+Direct staff
+10
+8
+Admin staff
+17
+14
+27
+22
+Page 22
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+11.
+Directors' remuneration
+2024
+2023
+£
+£
+Directors' emoluments
+20,006
+16,406
+20,006
+16,406
+12.
+Interest payable and similar expenses
+2024
+2023
+£
+£
+Bank interest payable
+3,011
+2,942
+Finance leases and hire purchase contracts
+12,896
+6,894
+Other interest payable
+16,246
+39,368
+32,153
+49,204
+13.
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Current tax on profits for the year
+70,233
+76,411
+70,233
+76,411
+Total current tax
+70,233
+76,411
+Deferred tax
+Origination and reversal of timing differences
+6,404
+68,259
+Total deferred tax
+6,404
+68,259
+76,637
+144,670
+Page 23
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+13.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2023 - higher than) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2023 - 
+22.5
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+451,083
+534,207
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 22.5%)
+112,771
+120,197
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+10,849
+17,531
+Capital allowances for year in excess of depreciation
+(
+9,493
+)
+(
+28,315
+)
+Adjustment in research and development tax credit leading to an increase (decrease) in the tax charge
+(
+74,168
+)
+(
+65,141
+)
+Other differences leading to an increase (decrease) in the tax charge
+30,274
+32,139
+Deferred tax
+6,404
+68,259
+Total tax charge for the year
+76,637
+144,670
+14.
+Dividends
+2024
+2023
+£
+£
+Dividends
+68,400
+91,624
+68,400
+91,624
+Page 24
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+15.
+Tangible fixed assets
+Freehold property
+Plant and machinery
+Motor vehicles
+Office equipment
+Total
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 November 2023
+350,000
+281,668
+162,820
+78,094
+872,582
+Additions
+-
+128,467
+20,407
+9,183
+158,057
+At 31 October 2024
+350,000
+410,135
+183,227
+87,277
+1,030,639
+Depreciation
+At 1 November 2023
+28,000
+60,346
+109,189
+51,559
+249,094
+Charge for the year on owned assets
+7,000
+77,580
+16,169
+7,963
+108,712
+At 31 October 2024
+35,000
+137,926
+125,358
+59,522
+357,806
+Net book value
+At 31 October 2024
+315,000
+272,209
+57,869
+27,755
+672,833
+At 31 October 2023
+322,000
+221,322
+53,631
+26,535
+623,488
+The net book value of land and buildings may be further analysed as follows:
+2024
+2023
+£
+£
+Freehold
+315,000
+322,000
+315,000
+322,000
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+2024
+2023
+£
+£
+Plant and machinery
+36,656
+48,875
+Motor vehicles
+218,003
+169,548
+254,659
+218,423
+Page 25
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+16.
+Stocks
+As restated
+2024
+2023
+£
+£
+Raw materials and consumables
+141,097
+292,856
+141,097
+292,856
+17.
+Debtors
+As restated
+2024
+2023
+£
+£
+Due after more than one year
+Other debtors
+712,126
+497,590
+712,126
+497,590
+As restated
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+2,151,344
+2,491,539
+Amounts owed by related parties
+1,276,029
+342,620
+Other debtors
+193,794
+352,487
+Prepayments and accrued income
+59,682
+64,560
+Amounts recoverable on long-term contracts
+1,463,023
+727,382
+5,143,872
+3,978,588
+Amounts owed by related parties are unsecured, interest free and repayable on demand.
+Included in other debtors is £11,534 (2023: £Nil) owed by the directors.
+18.
+Cash and cash equivalents
+2024
+2023
+£
+£
+Cash at bank and in hand
+1,493,398
+1,257,577
+1,493,398
+1,257,577
+Page 26
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+19.
+Creditors: Amounts falling due within one year
+As restated
+2024
+2023
+£
+£
+Trade creditors
+2,017,737
+1,704,274
+Amounts owed to related parties
+1,054,167
+880,161
+Corporation tax
+60,740
+44,690
+Other taxation and social security
+571,820
+239,007
+Obligations under finance lease and hire purchase contracts
+72,025
+66,739
+Other creditors
+471,861
+560,308
+Accruals and deferred income
+1,216,728
+802,159
+5,465,078
+4,297,338
+Amounts owed to related parties are unsecured, interest free and repayable on demand.
+AIB hold a first-ranking debenture incorporating a fixed and floating charge over all of the assets (present and future) of the company.
+The company's directors have provided a letter of guarantee amounting to £100,000 in favour of the company's bank.
+20.
+Creditors: Amounts falling due after more than one year
+2024
+2023
+£
+£
+Net obligations under finance leases and hire purchase contracts
+146,596
+132,492
+Other creditors
+552,084
+533,151
+698,680
+665,643
+21.
+Hire purchase and finance leases
+Minimum lease payments under hire purchase fall due as follows:
+2024
+2023
+£
+£
+Within one year
+72,025
+66,738
+Between 1-5 years
+145,596
+132,492
+217,621
+199,230
+Finance  lease  payments  represent  rentals  payable  by the  company for  certain  items  of  plant  and machinery. Leases include purchase options at the end of the lease period, and no restrictions are placed on the use of the assets. The average lease term is 3-5 years. All leases are on a fixed repayment basis and no arrangements have been entered into for contingent rental payments.
+Page 27
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+22.
+Financial instruments
+2024
+2023
+£
+£
+Financial assets
+Financial assets measured at fair value through profit or loss
+1,493,398
+1,257,577
+Financial assets measured at fair value through profit or loss comprise...
+23.
+Deferred taxation
+2024
+£
+At beginning of year
+(
+68,259
+)
+Charged to profit or loss
+(
+6,404
+)
+At end of year
+(
+74,663
+)
+The 
+provision for deferred taxation
+ is made up as follows:
+2024
+2023
+£
+£
+Accelerated capital allowances
+(
+74,663
+)
+(
+68,259
+)
+(
+74,663
+)
+(
+68,259
+)
+24.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+20
+ (2023 - 
+20
+)
+Ordinary
+shares of
+£
+1.00
+ each
+20
+20
+25.
+Pension commitments
+The  Company  operates  a  defined  contributions  pension  scheme.  The  assets  of  the  scheme  are  held separately from those of the Company  in an independently administered fund. The pension cost charge represents contributions payable by the Company to the fund and amounted to £37,701 (2023: £27,008). Contributions totalling £8,385 (2023: £5,272) were payable to the fund at the balance sheet date and are included in creditors.
+Page 28
+M&M CONTRACTORS (EUROPE) LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 OCTOBER 2024
+26.
+Related party transactions
+At 31st October 2024, an amount of £221,862 is due from Mascott Construction (Europe) Ltd, a company with common shareholders. The amounts are interest free, unsecured and repayable on demand. During the year ended 31 Octoeber 2024 sales with Mascott Construction (Europe) Ltd totalled 111,615.65 (2023: £43,562.59) and purchases totalled £4,908,987 (2023: £4,106,152). During the year, an amount of £300,000 was witten off in relation to an intercompany balance with Mascott Construction (Europe) Ltd - this amount is disclosed separately in the profit and loss as an exceptional item. 
+27.
+Commitments under operating leases
+At 
+31 October 2024
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+50,042
+42,494
+Later than 1 year and not later than 5 years
+105,800
+113,399
+Later than 5 years
+39,600
+59,400
+195,442
+215,293
+28.
+Controlling party
+The ultimate controlling parties are Mr Gareth Loye and Mr Noel Loye, by virtue of their shareholding in the company.
+Page 29

@@ -1,0 +1,3301 @@
+NEW_TECHNOLOGY_GROUP_HOLD - Accounts
+Company registration number 
+04503928
+ (England and Wales)
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+COMPANY INFORMATION
+Directors
+Mr S J King
+Miss A Cliffe
+Mr A J Turton
+Mr G M J Voller
+Mr P H Jury
+Secretary
+Miss A Cliffe
+Company number
+04503928
+Registered office
+Dawson House Matrix Office Park
+Buckshaw Village
+Chorley
+PR7 7NA
+Auditor
+MHA
+Richard House
+9 Winckley Square
+Preston
+PR1 3HP
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+CONTENTS
+Page
+Strategic report
+1 - 11
+Directors' report
+12
+Directors' responsibilities statement
+13
+Independent auditor's report
+14 - 16
+Profit and loss account
+17
+Group statement of comprehensive income
+18
+Group balance sheet
+19 - 20
+Company balance sheet
+21
+Group statement of changes in equity
+22
+Company statement of changes in equity
+23
+Group statement of cash flows
+24
+Notes to the financial statements
+25 - 46
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT 
+FOR THE YEAR ENDED 31 JULY 2025
+- 1 -
+The directors present their strategic report of New Technology Group Holdings plc (the “company”) and its subsidiary undertakings (together, the “group”) for the year ended 31 July 2025. 
+Fair review of the business
+The financial results for the year are set out on page 17. The year ended 31 July 2025 marked a pivotal and transformational year for New Technology Group Holdings plc (the “Group”). Following the significant corporate reorganisation implemented in April 2024, the Group now has a simplified structure, a clearer strategic focus, and a substantially improved operational footing.
+Group revenue for the year was £27.6m (2024: £31.6m). The reduction reflects the intentional exit from discontinued operations and the ongoing decline in legacy telecom services, both of which were anticipated and planned for as part of the Group’s strategic reset.
+Despite this revenue reduction, the Group delivered a significant improvement in operating performance:
+Operating loss reduced to £0.5m (2024: £3.1m loss)
+Loss before tax reduced to £0.46m (2024: £2.9m loss)
+Statutory loss after tax reduced by over £2.7m year on year
+This improvement was driven by:
+the elimination of loss-making and capital-intensive discontinued operations,
+tighter cost control following restructuring,
+a lower amortisation and impairment charge compared with the prior year, and
+resilient gross margins in the Group’s core recurring revenue businesses.
+Notably, continuing operations generated an operating profit of £87k, demonstrating that the Group’s core activities are now profitable on an underlying basis.
+During the year, the Board executed its transformation programme for Netcentrix, successfully decommissioning its private cloud platform and exiting its data centre operations, while successfully migrating customers to more robust and efficient Azure public cloud and modern workplace solutions. In parallel, the Group implemented a stop-sell policy on new complex on-premise IT infrastructure solutions. These activities were capital intensive, operationally complex, and increasingly misaligned with the Group’s strategic direction towards scalable, cloud-based managed services. 
+This decision removed operational risk, reduced capital expenditure requirements, simplified the Group’s technology stack, and allowed management to focus resources on higher-margin recurring revenue opportunities. Discontinued operations contributed an operating loss of £0.6m in 2025. Importantly, this represents the final year of impact, with these activities now fully exited.
+In addition, the Group incurred £0.7m of restructuring costs, which were one-off in nature and directly related to the Board’s execution of transformative change programmes and the implementation of its new operating model. These costs are expected to deliver ongoing annualised cost savings and improved profitability going forward.
+The Group remains financially robust, reporting Net Assets of £10.9m (2024: £11.4m), Net Current Assets of £8.8m (2024: £7.4m) and year-end cash of £2.0m (2024: £4.6m). The reduction in cash during the year primarily reflects the repayment of £2.0m of bank loans via the parent company. The Group continued to operate comfortably within its banking facilities and remained fully compliant with all banking covenants throughout the year. The Group retains sufficient financial headroom to support strategic M&A opportunities.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 2 -
+Strategy
+Following the successful re-organisation last year, New Technology Group (“the Group”) now operates as a holding company with two clearly differentiated trading businesses, each with a distinct strategic mandate, operating model and technology focus. This structure is designed to improve clarity, accountability and execution, while enabling each business to respond more effectively to its respective market opportunity. The re-organisation separated the Group’s Communications and IT Services activities, allowing both Elite Group and Netcentrix to develop specialist capabilities, aligned investment priorities and clear customer propositions, supported by shared Group functions where appropriate.
+Elite Group provides Cloud Communications Services including Connectivity, Unified Communications (and UCaaS), Contact Centre (and CCaaS leveraging conversational AI), Voice Services, Mobile and IoT, whilst Netcentrix focuses on IT Managed Services incorporating Cloud Applications, Cloud Infrastructure, Technology Hardware, IT Support and Cyber Security.
+While operating independently, Elite Group and Netcentrix are aligned through shared Group governance, ESG commitments, brand values and a customer centric culture. The Group selectively pursues joint propositions where customers require both secure modern workplace services and resilient cloud communications solutions, supported by coordinated account planning and customer success frameworks. The re-organisation has enabled clearer KPIs, improved decision-making and stronger governance, with each business operating against defined transformation roadmaps and performance measures, overseen at Group level.
+Across the Group, the strategy is underpinned by a consistent long-term vision: to become the leading sustainable technology group delivering world class customer experience (CX) and digital transformation solutions to businesses. Central to the execution of this vision is the Group’s Single Focus; an unrivalled commitment to helping customers. This principle acts as the lens through which strategic decisions are made, guiding investment priorities, go-to-market choices, platform selection, service design and people development. In practice, the Single Focus drives simplification, standardisation and a shift from reactive service delivery to proactive, outcome-based solutions that improve customer experience, resilience and trust.
+Key Performance Indicators
+KPI's are used to help the Directors monitor the performance of the business. These include:
+2025
+2024
+£m
+£m
+Revenue*
+27.2
+30.0
+Gross Profit*
+12.8
+14.3
+Gross Margin
+47.1
+47.6
+Operating Profit/(Loss)
+0.1
+(3.0)
+Employee Numbers
+127
+153
+*The Directors are focused on continued operations and underlying trading performance.
+The Directors consider the above to be appropriate to the size of the Group and supplement the KPIs with additional information as required.
+Principal risks and uncertainties
+The Directors continually monitor the Group and its external environment to safeguard against risk and uncertainty they can control. The following risks may have an impact on future performance:
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 3 -
+Increased Competition
+Competition is healthy for the Group. The Group is investing in new and existing vendor relationships to modernise and strengthen the technology stack facing customers and the market, focusing on bringing greater value and innovation by leveraging new technologies and improved Customer Experience (CX) as the future driver of value to gain competitive advantage.
+Supply Chain
+The Group partners with leading global technology vendors and Tier 1 Network Providers. This enables the Group to be vendor agnostic and take an independent approach when consulting with customers and providing Cloud Communications and IT Managed Services. This approach minimises the Group’s dependence on a single supplier. Accordingly, supplier price changes can be mitigated through supplier substitution as appropriate. Due diligence and identification of risk is also fundamental to the Group’s approach to supply chain management. The supply chain is proactively managed by the Group ensuring that all contractual agreements are fair, reasonable and commercially viable, mitigating risk in areas of responsibility, information security, service levels and payment terms. The Group also proactively reviews and tests current supplier contracts against ongoing changes in local and national legislation, regulatory changes, anti-​slavery and environmental impacts.
+2027 PSTN Switch Off
+The PSTN switch off in 2027 (formerly 2025, prior to BT announcing the delay in May 2024) is the single biggest compelling event in the communications sector since the privatisation of BT in 1984 and the deregulation of the UK telecommunications market in the 1990’s. The PSTN switch off is the national de-​commission of the public switch telephone network which will now close in December 2027 – by which time every phone line in the UK will have moved to a fully digital network across a fibre-​based service. The revenue erosion risks associated with the PSTN switch off are being managed and offset by the significant opportunity for Elitetele.com plc to capitalise on the rising demand from businesses looking to move to Cloud Communications technology like Unified Communications as a Service (UCaaS) and Contact Centre as a Service (CCaaS). The Group is well positioned to capitalise on this opportunity and Elite is making good progress in its transition to Cloud Communications.
+Ofcom Regulation
+The Group operates in markets regulated by Ofcom, the Office of Communications. The Group mitigates regulatory risk by monitoring and assessing the likelihood and potential impact of regulatory change. Customer contractual terms are written in line with Ofcom regulation and reviewed each time Ofcom regulations change. Ofcom regularly sends consultation papers to the network operators and the ICT channel ahead of any potential changes (usually 12-​18 months in advance), giving the Group time to consult, understand and plan accordingly. Additionally, the Group is a member of the FCS (Federation of Communication Suppliers), an organisation that provides assistance to the Group, ensuring that critical customer policies are Ofcom compliant (as an extra validation step).
+Data Protection and GDPR
+Like many businesses, the Group pays particular attention to Data Protection and GDPR regulation, with its policies drafted by an expert global consultant and adherence and compliance regularly audited as part of the Group’s ISO accreditations. 
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 4 -
+Employment Law
+The Group now employs more than 120 people and is subject to changes in regulation associated with employment law. The Group benefits from having CIPD qualified employees within the Group alongside its partnerships with external HR expert organisations and leading employment law solicitors, all of which understand the employment regulatory changes under proposal and their potential impact. 
+The Employment Rights Act 2025 introduces some of the most significant reforms to UK employment law in over a decade, with changes scheduled to come into force during 2026 and 2027. Certain elements of this legislation are expected to impact the Group. Management is aware of these forthcoming changes and has developed appropriate plans to address the resulting requirements, including updates to policies, training programmes, operational processes and employment contracts.
+It is also recognised that, while the overarching reforms have been agreed, certain areas remain subject to the publication of detailed secondary legislation. As a result, not all implementation decisions can be finalised at this stage.
+The most significant changes affecting the Group are those taking effect in October 2026, including the introduction of a new duty to inform employees of their right to join a trade union and the requirement to maintain robust policies demonstrating that all reasonable steps are being taken to prevent sexual harassment in the workplace. Further key changes are due from January 2027, notably the reduction of the qualifying period for unfair dismissal claims to six months and the strengthening of employees’ rights to request flexible working arrangements.
+The Group has also considered the amendments to Statutory Sick Pay (SSP) effective from 1
+st
+ April 2026, under which SSP will become payable from the first day of absence rather than the fourth. This change is not currently expected to have a significant impact, as the Group has consistently maintained a low level of sickness absence over a number of years. This position will continue to be monitored closely.
+The HR team has documented a comprehensive implementation timeline and has a practical plan in place to address each legislative change relevant to the Group.
+Financing and Banking Covenants
+The Group (via the wider Group) has access to a rolling cash flow facility (RCF), against which £1.2m was repaid during the year from operating cash flows. In addition, the Group has fully repaid its term loan £0.8m with Lloyds Bank. The Group remained compliant with all financial covenants throughout the year and is forecast to continue to do so going forward. To mitigate the risk of any potential covenant breach, the Group has a number of levers within its control, including tighter management of cash outflows, an increased focus on cash collection, and the deferral of discretionary expenditure, such as marketing. The business maintains regular dialogue with its Relationship Director at the Bank to discuss trading performance, material business decisions (including M&A activity), macroeconomic conditions, and relevant legislative or regulatory changes, including the transition from LIBOR.
+Financial Instruments
+The Group has a normal level of exposure to price, credit, liquidity and cash flow risks arising from trading activities, which are conducted in sterling. The Group does not enter into any formally designated hedging arrangements.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 5 -
+Section 172 Statement
+The Directors of the Group have a duty to promote the success of the Group. A Director of the Group must act in the way they consider, in good faith, to promote the success of the Group for the benefit of its members, and in doing so have regard (amongst other matters) to:
+the likely consequences of any decision in the long-​term;
+the interests of the Group’s employees;
+the need to foster the Group's business relationships with suppliers, customers and others;
+the impact of the Group’s operations on the community and the environment;
+the desirability of the Group to maintain a reputation for high standards of business conduct; and
+the need to act fairly between members of the Group.
+The Directors of the Group consider the key stakeholders of the business to be its employees, customers, suppliers, bank and shareholders.
+Quality Management and Accreditations
+The Group is externally assessed and audited across a number of quality standards and ISO accreditations. The Group successfully maintains ISO accreditations covering quality management, business continuity management, health and safety and information management for the design, development, supply and installation of business cloud and software solutions and the provision of support and maintenance, as follows:
+ISO 9001 Quality Management
+ISO 27001 Information Management
+ISO 22301 Business Continuity
+ISO 45001 Health and Safety
+ISO 14001 Environmental Management
+The Group successfully completed surveillance audits in the year for each of its ISO accreditations, achieving zero non-​conformances and zero opportunities for improvement whilst receiving “best practice” recommendations for attention to detail and maintaining information security.
+Purpose 
+As a purpose driven, progressive and inspirational Group of companies, all employees are engaged and aligned with a strong sense of purpose founded in serving others, completely committed to bringing value and having a lasting positive impact on the lives of colleagues, customers, and the local community.
+Vision
+The long-​term Vision for the Group is to be the leading sustainable technology group delivering world-​class Customer Experience (CX) and Digital Transformation solutions to businesses. To support this Vision, the Senior Management Team have developed their plans to reverse the recent decline in financial performance and return the Group to sustainable growth. 
+Early indicators of progress are evidenced by the successful implementation of the corporate reorganisation and the delivery of key transformation initiatives across both trading businesses during the year. The Group’s prioritisation of foundational change to support future sustainable growth has contributed to a significant operational turnaround, delivering a £3.0m improvement in operating profit while maintaining gross profit margins.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 6 -
+Single Focus
+For the Senior Management Team, defining and implementing a clear and simple single focus that provides groupwide alignment and clarity on what is most important and critical has been a business priority. Consistent with the Group’s sense of purpose and passion for helping customers and driven by an ambition to provide the best Customer Experience (CX) in the sector, the Group’s single focus is quite simply, an unrivalled commitment to helping customers.
+Digital Transformation
+Digital Transformation is the Group’s primary activity and Go to Market (GTM), supporting customers with the ongoing modernisation of business technologies to increase operational effectiveness and gain competitive advantage. The Group is investing in new and existing vendor relationships to modernise and strengthen the technology stack facing customers and the market, focusing on bringing greater value and innovation. For Elite, this means leveraging chapter 2 technologies like AI powered omnichannel applications, generative AI, as well as conversational AI and analytics as the future driver of value. For Netcentrix, focussing on proactive Managed Services and investing in Cyber Security and Managed Security Services as a differentiator and driver of value is fundamental to its plans.
+IT Managed Services
+Historically, the Group delivered IT services through a service delivery partner model primarily focused on reactive, break-fix support across hardware, hosted desktop, cloud applications and infrastructure services. During the year, the Group completed a strategic transition within its Netcentrix business, moving to a proactive IT Managed Services model aligned with the Group’s strategic vision and cloud-first, recurring revenue strategy.
+The Board successfully delivered the Netcentrix MSP Transformation Programme in the year, resulting in the simplification and standardisation of the managed services portfolio and a shift towards proactive service management. This programme repositioned Netcentrix to focus on cloud applications, cloud infrastructure and structured IT managed services, improving scalability and consistency of service delivery.
+The managed services offering was restructured into a clearly defined framework delivered across three core support pillars: Server, End User and Network Support, with optional on-site and 24/7 support services available. Server support now covers both physical and virtual environments, including Microsoft Azure infrastructure, supported by proactive patch management. End user services include Microsoft 365 administration, endpoint management and helpdesk support, while managed network services incorporate monitoring and proactive maintenance to support secure and resilient connectivity.
+Cyber Security
+Cyber security was established as a core component of the Group’s managed services proposition during the year through the introduction of enhanced Managed Security Services. This reflects the increasing importance of cyber resilience, particularly within cloud-based environments such as Microsoft 365. As part of this, the Group implemented its Microsoft 365 compliance and monitoring enforcement service designed to identify and address security risks arising from configuration drift and non-conformance. 
+In addition, the Group completed the development and delivery of a broader set of Managed Security Services, including Managed Endpoint Detection and Response supported by a 24/7 Security Operations Centre, Managed Identity Threat Detection and Response, Security Information and Event Management (SIEM), and Security Awareness Training. These services provide a layered approach to threat detection, incident response and user awareness, supporting customer security, compliance and operational resilience.
+At the same time, the Group continued to develop its Microsoft capabilities and completed the transition of private cloud hosted desktop customers to Azure Virtual Desktop and Modern Workplace solutions. This reduced dependency on legacy infrastructure and aligned service delivery more closely with public cloud platforms, generating cost efficiencies that contributed to the improvement in underlying operating profit during the year.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 7 -
+Cloud Communications and Contact Centre
+Founded in 2000, Elitetele.com plc established a strong position in the UK B2B telecommunications market, particularly within contact centre and voice services. This heritage underpinned the Group’s credibility and supported sustained organic growth over many years. During the year, Elite advanced its strategic repositioning, strengthening its focus on Cloud Communications and Contact Centre services, with an emphasis on UCaaS, CCaaS and the increasing role of artificial intelligence in customer experience delivery.
+A key strategic milestone during the year was the successful onboarding of Zoom as a core Unified Communications and Contact Centre as a Service (UCaaS and CCaaS) technology partner. Zoom is a globally recognised enterprise communications provider, serving hundreds of thousands of business customers worldwide and supporting large-scale, mission-critical contact centre deployments across regulated and complex industries. Its cloud-native architecture, strong security credentials and rapidly evolving AI capabilities position Zoom as a leading vendor in the B2B CCaaS market, particularly in the delivery of AI-enabled customer experience solutions. 
+The introduction of Zoom as a strategic partner has strengthened the Group’s Cloud Communications proposition and provides a scalable platform to support AI-enhanced customer engagement, workforce optimisation and analytics. Business development activity in respect of Zoom solutions developed positively over the period, with the final quarter seeing increased sales engagement and a number of new contract wins added to the sales orderbook, reflecting ongoing demand for modern, flexible and AI-enabled communications platforms.
+However, overall trading during the year took place against a backdrop of challenging UK economic conditions. Persistent inflationary pressures, increases in employer National Insurance contributions and rises in the National Minimum Wage continued to place cost pressures on UK businesses, particularly SMEs, which form a core part of the Group’s customer base. As a result, some customers reduced headcount, delayed purchasing decisions or curtailed discretionary investment. These factors moderated the momentum achieved in the prior two years, resulting in Cloud Communications recurring revenue of £3.78m for the year (2024: £4.19m), representing a 10% reduction year-on-year, while remaining 11% higher than FY23 (2023: £3.41m).
+Despite these headwinds, the Board remained focused on supporting customers, maintaining service quality and managing the business prudently. During the year, the Group also completed plans to increase investment in its professional services capability aligned to the Zoom platform, recognising the growing importance of design, implementation, integration and optimisation services in delivering differentiated customer outcomes and supporting long-term value creation.
+Sustainability
+As part of its long-​term Vision, the Group is fully committed to sustainability. Sustainable development is the balance achieved when human, social, economic, and environmental needs are satisfied all at the same time and without neglecting one another. So that the Group can be truly sustainable, it is taking a proactive approach towards the planet, people, society, and profit, adopting the 4 Pillars of sustainability (human, social, economic, environmental) as a model to future-​proof the business. That is, a business that cares deeply about its people providing competitive pay, benefits, opportunities, and professional development (human); a business that cares about the local community and society at large by supporting local charities and giving back (social); a business that is profitable and growing (economic); and a business that respects the environment prioritising sustainable product design, service delivery and green technologies (environmental).
+At the same time, the Group recognises that customers are demonstrating an increased preference for brands that demonstrate sustainable business practices; Governments are introducing more regulations and mechanisms to factor in the environmental cost of business operations like the “carbon market” and carbon credits; and banks and investors are becoming increasingly interested in ESG metrics when deciding where to allocate funds.
+The growing focus on sustainability has accelerated the adoption of Industry 4.0 digital transformation technologies, including artificial intelligence, as enablers of green technology. The application of these technologies is helping organisations to deliver measurable progress against key environmental goals.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 8 -
+For all these reasons, being at the forefront of technology has never been so important and presents an exciting opportunity for the Group to bring even more value to customers. The digital transformation solutions provided by the Group, not only enable customers to increase security, productivity, and profitability, but they also directly contribute to sustainability and ESG metrics, increasing the scale at which the Group can influence positive change and sustainable development.
+Customer Experience (CX)
+Customer Experience (CX) is a key strategy to win the loyalty of today’s demanding customers. Operating in what is a highly competitive and crowded ICT market during a time where technology products and services are becoming increasingly commoditised, the Group recognises the importance of investing in CX as a key brand differentiator.
+A key theme underpinning the CX Strategy is the simple notion of being easy to do business with for customers. Customer feedback is the top driver of any successful CX Strategy and the Group’s Voice of Customer (VoC) Programme is the core foundation for driving continuous improvement and customer satisfaction. The VoC Programme is currently being expanded to gain greater feedback coverage from the customer base and across multiple interactions and touchpoints throughout the customer journey.
+Consistent with the Group’s single focus, the Senior Management Team have set out their ambitions to level up and deliver world-​class Customer Experience (CX). The Group continues to make good progress in this area with Elite Group maintaining its 4-star Google Review rating and increasing its Trust Pilot score from 4.4 to 4.7 stars in the year. Elite customer satisfaction and NPS (Net Promoter Score) has remained high and sector leading throughout the year at 88. 
+At the same time, Netcentrix has maintained its 5-star Google Review rating and increased its Trust Pilot score from 4 to 4.2 stars in the year. Netcentrix has established its customer satisfaction and NPS (Net Promoter Score) score in the year, achieving month on month improvement and a current NPS score of 74. 
+Culture
+To cultivate a purpose driven, high performance culture, the Group relies on its core values as the non-​negotiable standards and behaviours its people live by.
+Core Values
+The Group has 4 core values as follows:
+Teamwork
+Hard Work
+Humility
+Compassion
+The Group’s core values and single focus have been fully integrated into its HR policies incorporating talent identification and recruitment, employee induction and onboarding, the annual appraisal process, learning and development, as well as management and leadership best practice.
+Health, Safety and Well-​Being
+The Group takes a proactive approach to the health, safety and wellbeing of its employees. Throughout the year the Group implemented a host of new benefits and initiatives, all with the health, safety and wellbeing of its people in mind. In light of the ongoing cost-​of-​living crisis, access to financial wellbeing support was introduced and a helpline is now provided for access to external guidance.  The Group maintains 7 trained Mental Health First Responders and 2 Mental Health First Aiders. The Group also maintains its Employee Assistance Programme, bringing a wealth of wellbeing services to support employees through life's challenges, including 24/7 access to confidential, expert help and support.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 9 -
+Structured Hybrid Working
+As articulated by the Group CEO, “we thrive best when we are in the company of others.” In line with this philosophy, the Group has successfully implemented a structured hybrid working policy designed to promote employee wellbeing, flexible working, more effective cross-departmental collaboration, and the cultivation of a positive and inclusive culture. The policy preserves the benefits of remote working, with employees continuing to work from home for two days each week, while establishing three fixed office-based days to ensure teams come together regularly to enhance teamwork, communication and collaboration.
+Employee engagement
+The Group recognises the value of having happy and engaged employees and commits significant time and resource to the execution of its Employee Engagement Strategy, against which the Group is independently assessed by Investors in People and has successfully retained the Gold standard for the 10th consecutive year.
+The Senior Management Team has made great progress in engaging employees around its purpose and single focus, levelling up the cadence of structured internal communication, incorporating fortnightly trading meetings with Management and Team Leaders, groupwide monthly business updates with the Senior Management Team, and detailed companywide Quarterly Business Reviews (QBR’s) hosted by the CEO.
+The Group maintains a 97% engagement rate on its employee engagement platform, which enables employees to interact socially, learn about new group initiatives easily, participate in surveys, recognise and reward fellow colleagues, and have group news delivered to them as it is happening. The Group also hosts annual Sales Kick Off and Management Conference events, as well as two groupwide social events in the summer and winter.
+Recognition from Investors in People (IIP)
+The corporate reorganisation undertaken between November 2023 and April 2024 represented the most significant change programme in the Group’s history. This six-month initiative was delivered through four critical workstreams covering People, Customers, Suppliers, and Business Systems & Data, and was underpinned by the values, behaviours and leadership principles aligned with the Group’s Investors in People Gold accreditation.
+The strength of the Group’s people-centred approach to transformation, together with the effectiveness of its employee engagement, has been formally recognised by Investors in People. The Group was featured in the Investors in People 2025 White Paper, Finding the Frequency: How to Build Change-Ready Cultures That Accept and Embrace Transformation, as an example of effective change delivery. The publication highlighted the Group’s transformation journey as a case study in successfully navigating complex and sustained change by placing culture, communication and employee involvement at the core of execution. It also acknowledged the resilience, openness and collective commitment demonstrated across the Group throughout the programme.
+Employee Survey
+The Group completes an annual employee survey to gain valuable feedback that directly contributes to the development of its Employee Engagement Strategy ensuring continuous improvement in employee satisfaction and retention. Additionally, the Group release regular employee pulse surveys to gather immediate feedback on time sensitive topics and company initiatives.
+Employee Recognition
+As part of its Employee Engagement Strategy, the Group takes a proactive approach to employee recognition, maintaining several employee reward and incentive schemes alongside its employee benefits portal. The Group incentivises outstanding performance, adoption of core values and its single focus via Employee of the Month and Customer Champion awards. 
+The Group maintains a loyalty bonus scheme that rewards employees based on length of service and hosts an annual groupwide award ceremony at its summer social event incorporating awards for Core Values, Best Newcomer, Outstanding Achievement, Team of the Year and Employee of the Year.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 10 -
+Like many businesses, the Group also maintains Sales Commission and Bonus Schemes aligned with business targets and objectives. There is a high level of governance and review of these schemes deployed by the Group to ensure they deliver a return on investment and drive the right behaviour aligned with the strategic objectives of the business.
+Gender Pay Gap
+There is a strong representation across gender in the business and specifically the Management Team.  The Group actively participates in awards such as Women in Tech, Women in the Channel and other programmes which are positively endorsed by the shareholders of the business. Whilst not a legal requirement for the size of our business, a gender pay gap report is monitored and reviewed monthly. 
+ESG: Environmental, Social and Governance
+At the heart of the Group is a strong sense of purpose and commitment to having a lasting positive impact on the lives of everyone employed as well as the communities within which they work and live. The Group is socially and environmentally conscious and the Senior Management Team recognise that they have a responsibility to do more than just deliver shareholder returns, a responsibility that they are taking very seriously. As such, the Group continues to invest in the development of its ESG Strategy as a catalyst for sustainability and lasting positive change.
+Social Impact 
+The Group adopts a proactive approach to addressing social challenges and supporting charities aligned with its values. The Group’s Founder, Matt Newing, acts as a mentor for The Prince’s Trust, supporting young people who are not in education, employment or training, or who are seeking direction and purpose. In addition, Matt established The Change Makers Club in partnership with ActionAid, through which thousands of pounds have been donated to fund the construction of new schools in Ethiopia. Originally established to improve access to education for 2,000 children, the initiative has exceeded its initial objectives and has now provided quality education to more than 5,000 children across Africa. Schools have been built in Gerar, Jarso, Anaso Sego, Dire Doyu and Gino over recent years, delivering lasting benefits not only for students but also for the wider local communities.
+Alongside these initiatives, the Group supported a further 15 charities during the year, raising in excess of £5,000. The Group also renewed its commitment for a third consecutive year as a founding member of “The Big Goal”, an ICT sector ESG initiative delivered in partnership with The Street Soccer Foundation, Comms Dealer, and channel partners Giacom and Sky Business. In addition to the Group’s ongoing support, the Group CEO, Adam Turton has provided visible leadership and advocacy for The Big Goal, representing the charity on a global stage. During the year, Elite Group represented England, The Street Soccer Foundation and The Big Goal at the FIFCO Corporate World Cup in Morocco, helping to raise international awareness of the initiative supporting young adults by helping them transition from homelessness into employment and sustainable futures.
+Achieving Net Zero
+The Group continues to formalise and refine its approach to sustainability and is fully committed to being transparent with stakeholders on progress. Prioritising and focussing on environmental sustainability, the Group has partnered with an independent consultancy to assess its carbon footprint and support them in developing an ambitious strategy to reach Net Zero by 2040, 10 years ahead of the target set by the UK government. The Group has also committed to shorter-term emission reduction targets, aiming to reduce emissions by 42% by 2030, and 63% by 2035. This will be achieved by significantly reducing absolute carbon emissions and continuing to remove or offset more than the remaining amount of emissions each year.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 11 -
+Carbon Footprint Reduction
+As part of its sustainability strategy, the Group is committed to reducing waste, increasing recycling and minimising its environmental impact. A comprehensive waste management programme is in place, including the provision of dedicated recycling facilities and a partnership with Biffa to support responsible waste handling and biodiversity initiatives. The Group also complies fully with WEEE regulations for the disposal of IT and electrical equipment. All company offices are now powered by renewable energy, and the Group has committed to reducing overall energy consumption. Key initiatives include the rollout of energy-efficient LED lighting across office locations, investment in electric vehicle charging infrastructure, and the progressive transition of the Company car fleet to electric and hybrid vehicles.
+Digital Transformation and Green Technology
+In line with the Greenhouse Gas Protocol, supply chains typically account for approximately 75% of the total carbon footprint of UK businesses. The Group therefore actively prioritises the selection of suppliers that are either carbon neutral or have clear and credible commitments to achieving carbon neutrality. Netcentrix has also signed the Microsoft Partner Pledge, reflecting the Group’s commitment to using digital innovation responsibly and for positive social and environmental impact.
+This commitment underlines the Group’s focus on harnessing technology to support sustainable outcomes, including the development of digital skills, the promotion of diversity and inclusion, and the delivery of long-term environmental benefits across its operations and wider stakeholder community.
+Sustainability is increasingly being enabled by Industry 4.0 technologies, with digital transformation and green technology playing a critical role in helping organisations achieve meaningful environmental objectives. Against this backdrop, being at the forefront of technological innovation is strategically important and presents a significant opportunity for the Group to deliver enhanced value to customers. The digital transformation solutions provided by the Group not only support improvements for customers security, productivity and profitability, but also directly contribute to sustainability and broader ESG objectives. This enables the Group to extend the scale and impact of its positive contribution to sustainable development.
+Governance and Compliance
+During the year, the Group successfully achieved ISO 14001 certification for its Environmental Management System, marking a significant milestone in strengthening its environmental governance and sustainability framework. Attainment of this globally recognised standard supports the ongoing minimisation of environmental impact, ensures compliance with applicable environmental regulations, and embeds a culture of continuous improvement across the Group’s operations.
+The addition of ISO 14001 brings the Group’s total portfolio of ISO certifications to five, comprising ISO 9001 (Quality Management), ISO 27001 (Information Security), ISO 22301 (Business Continuity), ISO 45001 (Occupational Health and Safety) and ISO 14001 (Environmental Management). Together, these accreditations demonstrate the Group’s continued commitment to robust governance, risk management and regulatory compliance
+On behalf of the board
+Mr S J King
+Director
+28 January 2026
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+DIRECTORS' REPORT 
+FOR THE YEAR ENDED 31 JULY 2025
+- 12 -
+The directors present their annual report and financial statements for the year ended 31 July 2025.
+Principal activities
+The principal activity of the group continued to be that of the provision of
+technology and communication access,
+applications and services to commercial organisation of all sizes.
+The principal activity of the company is that of a holding company.
+Results and dividends
+The results for the year are set out on page 17.
+No ordinary dividends were paid. The directors do not recommend payment of a further dividend.
+Directors
+The directors who held office during the year and up to the date of signature of the financial statements were as follows:
+Mr S J King
+Miss A Cliffe
+Mr A J Turton
+Mr G M J Voller
+Mr P H Jury
+Auditor
+In accordance with the company's articles, a resolution proposing that MHA be reappointed as auditor of the group will be put at a General Meeting.
+Strategic report
+The 
+true
+group
+ has chosen in accordance with Companies Act 2006, s. 414C(11) to set out in the 
+group
+'s strategic report information required by Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008, Sch. 7 to be contained in the directors' report.
+Statement of disclosure to auditor
+So far as each person who was a director at the date of approving this report is aware, there is no relevant audit information of which the auditor
+ of the 
+company is
+unaware. Additionally, the directors individually have taken all the necessary steps that they ought to have taken as directors in order to make themselves aware of all relevant audit information and to establish that the auditor
+ of the 
+company
+is
+aware of that information.
+Medium-sized companies exemption
+This report has been prepared in accordance with the provisions applicable to companies entitled to the medium-sized companies exemption.
+On behalf of the board
+Mr S J King
+Director
+28 January 2026
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+DIRECTORS' RESPONSIBILITIES STATEMENT 
+FOR THE YEAR ENDED 31 JULY 2025
+- 13 -
+The directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the group and company, and of the profit or loss of the group for that period. In preparing these financial statements, the directors are required to:
+select suitable accounting policies and then apply them consistently;
+make judgements and accounting estimates that are reasonable and prudent;
+state whether applicable UK Accounting Standards have been followed, subject to any material departures disclosed and explained in the 
+financial statements
+;
+prepare the 
+financial statements
+ on the going concern basis unless it is inappropriate to presume that the 
+group and 
+company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the group’s and company’s transactions and disclose with reasonable accuracy at any time the financial position of the group and company and enable them to ensure that the financial statements comply with the Companies Act 2006.  They are also responsible for safeguarding the assets of the group and company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+INDEPENDENT AUDITOR'S REPORT 
+TO THE MEMBERS OF NEW TECHNOLOGY GROUP HOLDINGS PLC
+- 14 -
+Opinion
+We have audited the
+financial statements of 
+New Technology Group Holdings plc
+ (the 'parent company') and its subsidiaries (the 'group') for the year ended 31 July 2025 which comprise the group profit and loss account, the group statement of comprehensive income, the group balance sheet, the company balance sheet, the group statement of changes in equity, the company statement of changes in equity, the group statement of cash flows and notes to the financial statements, 
+including 
+significant accounting policies.
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards, including Financial Reporting Standard 102
+The Financial Reporting Standard applicable in the UK and Republic of Ireland
+(United Kingdom Generally Accepted Accounting Practice).
+In our opinion the financial statements:
+give a true and fair view of the state of the group's and the parent company's affairs as at 31 July 2025 and of the group's loss for the year then ended;
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the
+Auditor
+ responsibilities for the audit of the 
+financial statements 
+section of our report. We are independent of the 
+group and
+parent company
+ in accordance with the ethical requirements that are relevant to our audit of the 
+financial statements
+ in the UK, including the FRC’s Ethical Standard
+, and we have fulfilled our ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the
+ group's and
+parent 
+company’s ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the annual report other than the financial statements and our auditor's report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+INDEPENDENT AUDITOR'S REPORT (CONTINUED)
+TO THE MEMBERS OF NEW TECHNOLOGY GROUP HOLDINGS PLC
+- 15 -
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of our audit
+:
+the information given in the strategic report and the directors' 
+r
+eport for the financial year for which the financial statements are prepared is consistent with the financial statements
+; and
+the strategic report and the directors' report have been prepared in accordance with applicable legal requirements.
+In the light of the knowledge and understanding of the
+ group and parent
+ company and 
+their
+ environment obtained in the course of the audit, we have not identifie
+d
+ material misstatements in the strategic report or the directors' report.
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion:
+adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received from branches not visited by us; or
+the parent company financial statements are not in agreement with the accounting records and returns; or
+certain disclosures of directors' remuneration specified by law are not made; or
+we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+As explained more fully in the directors' 
+r
+esponsibilities 
+s
+tatement, the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error. In preparing the 
+financial statements
+, the 
+directors are
+ responsible for assessing the 
+parent 
+company
+'
+s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the parent company or to cease operations, or have
+no realistic alternative but to do so.
+Auditor responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+auditor's
+ report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The specific procedures for this engagement and the extent to which these are capable of detecting irregularities, including fraud, is detailed below:
+Enquiries with management, about any known or suspected instances of non-compliance with laws and regulations or fraud within the business;
+Auditing the risk of management override of controls, including testing journal entries and other adjustments made by management for appropriateness; 
+Reviewing board minutes and legal and professional expenditure to identify any evidence of ongoing litigation or enquiries; and
+Auditing the risk of fraud in revenue by testing a sample of transactions throughout the year for completeness, and reviewing contracts for appropriateness of deferred income to ensure correct cut off procedures have been applied.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+INDEPENDENT AUDITOR'S REPORT (CONTINUED)
+TO THE MEMBERS OF NEW TECHNOLOGY GROUP HOLDINGS PLC
+- 16 -
+Because of the inherent limitations of an audit, there is a risk that we will not detect all irregularities, including those leading to a material misstatement in the financial statements or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the financial statements, as we will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at: https://www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Use of our report
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those matters we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Jenny McCabe FCA
+Senior Statutory Auditor
+For and on behalf of MHA, Statutory Auditor
+Preston, United Kingdom
+28 January 2026
+MHA is the trading name of MHA Audit Services LLP, a limited liability partnership in England and Wales (registered number OC455542)
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+GROUP PROFIT AND LOSS ACCOUNT 
+FOR THE YEAR ENDED 31 JULY 2025
+- 17 -
+Continuing
+Discontinued
+31 July
+Continuing
+Discontinued
+31 July
+operations
+operations
+2025
+operations
+operations
+2024
+Notes
+£
+£
+£
+£
+£
+£
+Turnover
+3
+27,191,000
+449,438
+27,640,438
+30,048,497
+1,596,011
+31,644,508
+Cost of sales
+(14,383,010)
+(401,109)
+(14,784,119)
+(15,742,211)
+(841,287)
+(16,583,498)
+Gross profit
+12,807,990
+48,329
+12,856,319
+14,306,286
+754,724
+15,061,010
+Administrative expenses
+(12,720,851)
+(90,369)
+(12,811,220)
+(14,861,828)
+(825,264)
+(15,687,092)
+Other operating income
+153
+-
+153
+-
+-
+-
+Exceptional income
+4
+-
+156,488
+156,488
+-
+-
+-
+Impairment of goodwill
+4
+-
+-
+-
+(2,446,894)
+-
+(2,446,894)
+Restructuring costs
+4
+-
+(700,737)
+(700,737)
+-
+0
+-
+-
+Operating Profit/(Loss)
+5
+87,292
+(586,289)
+(498,997)
+(3,002,436)
+(70,540)
+(3,072,976)
+Interest receivable and similar income
+8
+54
+-
+54
+15,807
+-
+15,807
+Interest payable and similar expenses
+9
+(21,655)
+-
+(21,655)
+(26,524)
+-
+(26,524)
+Amounts written off investments
+12
+63,821
+-
+63,821
+195,307
+-
+195,307
+Profit/(Loss) before taxation
+129,512
+(586,289)
+(456,777)
+(2,817,846)
+(70,540)
+(2,888,386)
+Tax on Profit/(Loss)
+10
+(47,075)
+-
+(47,075)
+(329,322)
+-
+(329,322)
+Profit/(Loss) for the financial year
+82,437
+(586,289)
+(
+503,852
+)
+(3,147,168)
+(70,540)
+(
+3,217,708
+)
+Profit/(Loss) for the financial year is all attributable to the owners of the parent company.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+GROUP STATEMENT OF COMPREHENSIVE INCOME 
+FOR THE YEAR ENDED 31 JULY 2025
+- 18 -
+2025
+2024
+£
+£
+Loss for the year
+(
+503,852
+)
+(
+3,217,708
+)
+Other comprehensive income
+Currency translation (loss)/gain arising in the year
+(
+4,341
+)
+6,311
+Total comprehensive income for the year
+(
+508,193
+)
+(
+3,211,397
+)
+Total comprehensive income for the year is all attributable to the owners of the parent company.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+GROUP BALANCE SHEET 
+AS AT 31 JULY 2025
+31 July 2025
+- 19 -
+2025
+2024
+Notes
+£
+£
+£
+£
+Fixed assets
+Goodwill
+13
+2,178,904
+3,384,161
+Other intangible assets
+13
+179,447
+202,709
+Total intangible assets
+2,358,351
+3,586,870
+Tangible assets
+14
+71,385
+143,894
+Investments
+15
+-
+0
+663,627
+2,429,736
+4,394,391
+Current assets
+Stocks
+17
+29,215
+95,845
+Debtors
+18
+12,522,195
+9,422,252
+Cash at bank and in hand
+2,026,268
+4,619,325
+14,577,678
+14,137,422
+Creditors: amounts falling due within one year
+20
+(5,788,519)
+(6,762,436)
+Net current assets
+8,789,159
+7,374,986
+Total assets less current liabilities
+11,218,895
+11,769,377
+Creditors: amounts falling due after more than one year
+21
+(277,542)
+(301,645)
+Provisions for liabilities
+Deferred tax liability
+23
+10,715
+28,901
+(10,715)
+(28,901)
+Net assets
+10,930,638
+11,438,831
+Capital and reserves
+Called up share capital
+25
+150,000
+150,000
+Other reserves
+(
+5,274
+)
+(
+933
+)
+Profit and loss reserves
+10,785,912
+11,289,764
+Total equity
+10,930,638
+11,438,831
+These financial statements have been prepared in accordance with the provisions relating to medium-sized 
+groups.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+GROUP BALANCE SHEET (CONTINUED)
+AS AT 31 JULY 2025
+31 July 2025
+- 20 -
+The financial statements were approved by the board of directors and authorised for issue on 28 January 2026 and are signed on its behalf by:
+28 January 2026
+Mr S J King
+Director
+Company registration number 04503928 (England and Wales)
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+COMPANY BALANCE SHEET 
+AS AT 31 JULY 2025
+31 July 2025
+- 21 -
+2025
+2024
+Notes
+£
+£
+£
+£
+Fixed assets
+Intangible assets
+13
+9,246
+6,000
+Tangible assets
+14
+13,887
+-
+0
+Investments
+15
+383,853
+383,853
+406,986
+389,853
+Current assets
+Debtors
+18
+8,062,649
+648,195
+Cash at bank and in hand
+93,071
+224,664
+8,155,720
+872,859
+Creditors: amounts falling due within one year
+20
+(1,075,356)
+(886,570)
+Net current assets/(liabilities)
+7,080,364
+(
+13,711
+)
+Total assets less current liabilities
+7,487,350
+376,142
+Provisions for liabilities
+Deferred tax liability
+23
+5,783
+-
+0
+(5,783)
+-
+Net assets
+7,481,567
+376,142
+Capital and reserves
+Called up share capital
+25
+150,000
+150,000
+Profit and loss reserves
+7,331,567
+226,142
+Total equity
+7,481,567
+376,142
+As permitted by s408 Companies Act 2006, the 
+c
+ompany has not presented its own profit and loss account and related notes. The 
+c
+ompany’s profit for the year was £7,105,425 (2024 - £800,120 loss).
+The financial statements were approved by the board of directors and authorised for issue on 28 January 2026 and are signed on its behalf by:
+28 January 2026
+Mr S J King
+Director
+Company registration number 04503928 (England and Wales)
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+GROUP STATEMENT OF CHANGES IN EQUITY 
+FOR THE YEAR ENDED 31 JULY 2025
+- 22 -
+Share capital
+Currency translation reserve
+Profit and loss reserves
+Total
+£
+£
+£
+£
+Balance at 1 August 2023
+150,000
+(
+7,244
+)
+14,507,472
+14,650,228
+Year ended 31 July 2024:
+Loss for the year
+-
+-
+(3,217,708)
+(3,217,708)
+Other comprehensive income:
+Currency translation differences
+-
+6,311
+-
+0
+6,311
+Total comprehensive income
+-
+6,311
+(3,217,708)
+(3,211,397)
+Balance at 31 July 2024
+150,000
+(
+933
+)
+11,289,764
+11,438,831
+Year ended 31 July 2025:
+Loss for the year
+-
+-
+(503,852)
+(503,852)
+Other comprehensive income:
+Currency translation differences
+-
+(
+4,341
+)
+-
+0
+(4,341)
+Total comprehensive income
+-
+(4,341)
+(503,852)
+(508,193)
+Balance at 31 July 2025
+150,000
+(
+5,274
+)
+10,785,912
+10,930,638
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+COMPANY STATEMENT OF CHANGES IN EQUITY 
+FOR THE YEAR ENDED 31 JULY 2025
+- 23 -
+Share capital
+Profit and loss reserves
+Total
+£
+£
+£
+Balance at 1 August 2023
+150,000
+1,026,262
+1,176,262
+Year ended 31 July 2024:
+Loss and total comprehensive income for the year
+-
+(800,120)
+(
+800,120
+)
+Balance at 31 July 2024
+150,000
+226,142
+376,142
+Year ended 31 July 2025:
+Profit and total comprehensive income
+-
+7,105,425
+7,105,425
+Balance at 31 July 2025
+150,000
+7,331,567
+7,481,567
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+GROUP STATEMENT OF CASH FLOWS 
+FOR THE YEAR ENDED 31 JULY 2025
+- 24 -
+2025
+2024
+Notes
+£
+£
+£
+£
+Cash flows from operating activities
+Cash (absorbed by)/generated from operations
+31
+(2,061,315)
+566,494
+Interest paid
+(
+21,655
+)
+(
+26,524
+)
+Income taxes paid
+(
+302,914
+)
+(160,421)
+Net cash (outflow)/inflow from operating activities
+(2,385,884)
+379,549
+Investing activities
+Purchase of intangible assets
+(84,952)
+(37,541)
+Purchase of tangible fixed assets
+(46,238)
+(23,585)
+Proceeds from disposal of tangible fixed assets
+12,534
+-
+Proceeds from disposal of investments
+-
+107,872
+Interest received
+54
+-
+0
+Dividends received
+-
+0
+15,807
+Net cash (used in)/generated from investing activities
+(118,602)
+62,553
+Financing activities
+Payment of finance leases obligations
+(84,230)
+(92,758)
+Net cash used in financing activities
+(84,230)
+(92,758)
+Net (decrease)/increase in cash and cash equivalents
+(2,588,716)
+349,344
+Cash and cash equivalents at beginning of year
+4,619,325
+4,263,670
+Effect of foreign exchange rates
+(4,341)
+6,311
+Cash and cash equivalents at end of year
+2,026,268
+4,619,325
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 JULY 2025
+- 25 -
+1
+Accounting policies
+Company information
+New Technology Group Holdings plc (“the company”)
+ is a
+ public 
+limited company domiciled and incorporated in 
+England and Wales
+.
+The registered office is
+ Dawson House Matrix Office Park, Buckshaw Village, Chorley, PR7 7NA. 
+The group consists of New Technology Group Holdings plc and all of its subsidiaries.
+1.1
+Accounting convention
+These financial statements have been prepared in accordance with FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (“FRS 102”) and the requirements of the Companies Act 2006.
+The financial statements are prepared in
+ sterling
+, which is the functional currency of the company. 
+Monetary a
+mounts 
+in these financial statements are 
+rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention, modified to certain financial instruments at fair value. The principal accounting policies adopted are set out below.
+The company is a qualifying entity for the purposes of FRS 102, being a member of a group where the parent of that group prepares publicly available consolidated financial statements, including this company, which are intended to give a true and fair view of the assets, liabilities, financial position and profit or loss of the group. The company has therefore taken advantage of exemptions from the following disclosure requirements for parent company information presented within the consolidated financial statements:
+Section 7 ‘Statement of Cash Flows’: Presentation of a statement of cash flow and related notes and disclosures;
+Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instrument Issues
+: Interest income/expense and net gains/losses for financial instruments not measured at fair value; basis of determining fair values; details of collateral, loan defaults or breaches, details of hedges, hedging fair value changes recognised in profit or loss and in other comprehensive income;
+Section 26 ‘Share based Payment’
+:
+ Share-based payment expense charged to profit or loss, reconciliation of opening and closing number and weighted average exercise price of share options, how the fair value of options granted was measured, measurement and carrying amount of liabilities for cash-settled share-based payments, explanation of modifications to arrangements
+;
+Section 33 ‘Related Party Disclosures’
+:
+ Compensation for key management personnel
+.
+1.2
+Business combinations
+In the parent company 
+financial statements, t
+he cost of a business combination is the fair value at the acquisition date of the assets given, equity instruments issued and liabilities incurred or assumed, plus costs directly attributable to the business combination. The excess of the cost of a business combination over the fair value of the identifiable assets, liabilities and contingent liabilities acquired is recognised as goodwill. 
+The cost of the combination includes the estimated amount of contingent consideration that is probable and can be measured reliably, and is adjusted for changes in contingent consideration after the acquisition date.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 26 -
+1.3
+Basis of consolidation
+The consolidated group financial statements consist of the financial statements of the parent company
+New Technology Group Holdings plc 
+together with 
+all entities controlled by the parent company (its subsidiaries) and the group’s share of its interests in joint ventures and associates
+.
+All 
+financial statements
+ are made up to 31 July 2025
+. 
+Where necessary, adjustments are made to the 
+financial statements
+ of subsidiaries to bring the accounting policies used into line with those used by other members of the 
+g
+roup.
+All intra-group transactions, balances and unrealised gains on transactions between group companies are eliminated on consolidation. Unrealised losses are also eliminated unless the transaction provides evidence of an impairment of the asset transferred.
+Subsidiaries are consolidated in the group’s financial statements from the date that control commences until the date that control ceases.
+1.4
+Going concern
+At the date of approval of the financial statements, the directors have a reasonable expectation that the company has adequate resources to continue in operational existence for the foreseeable future. Thus the directors continue to adopt the going concern basis of accounting in preparing the financial statements.
+In forming their assessment, the directors have considered compliance with covenants imposed by the group wide banking facility of which the company is an obligator. The directors have prepared cash flow forecasts for a period of at least 12 months from the date of approval of these financial statements.  The impact of reasonable possible downsides has been modelled in the forecasts with reference to the banking covenants. In all reasonable scenarios which have been modelled there is sufficient headroom to allow the company and wider group to meet their liabilities as they fall due .  Therefore the directors have concluded there are no material uncertainties which would impact on the ability of the company or wider group to adhere to their financial covenants.
+1.5
+Turnover
+Turnover is recognised at the fair value of the consideration received or receivable for goods and services provided in the normal course of business
+, and
+ is shown net of VAT and discounts.  
+Revenue from inbound and outbound telecom services is recognised over the duration of the contract period, although amounts are typically invoiced monthly and therefore no accrued or deferred income typically arises on this income stream.  Revenue from call usage is recognised at the point of use.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 27 -
+Broadband and connectivity services are typically contracted between 12 and 36 months.  Revenue is recognised monthly as the service is provided.  The monthly wholesale costs are matched with the monthly revenue as consumed.
+Hosted and cloud services are typically billed on a per user, per month charge at a set price.  Such revenue is recognised when monies are billed at the start of each month, inline with the services provided in that same month.
+IT service installations and maintenance and support are recognised in the period in which the service is provided.  Ongoing maintenance and support can either occur as a one off sale or as a recurring contract.
+Revenue from the sale of mobile phone contracts is recognised over the duration of the contract period
+, hence balances are held within deferred income until the revenue is earned.
+Early termination fees are contracted income which arise when a customer has to pay to end the contract earlier than the contract end date.  There is not sufficient certainty to recognise early termination fees prior to the receipt date, hence these balances are held within deferred income until the cash is received.
+Revenue from the sale of goods, including hardware and infrastructure sales, is recognised when the significant risks and rewards of ownership of the goods have passed to the buyer
+ (usually on dispatch of the goods)
+, the amount of revenue can be measured reliably, it is probable that the economic benefits associated with the transaction will flow to the entity and the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+1.6
+Intangible fixed assets - goodwill
+Goodwill represents the excess of the cost of acquisition of 
+a
+ business over the fair value of net assets acquired. It is initially recognised as an asset at cost and is subsequently measured at cost less accumulated
+ amortisation and accumulated impairment losses. Goodwill is considered to have a finite useful life and is amortised on a systematic basis over its expected life, which is 10 years.
+For the purposes of impairment testing, goodwill is allocated to the cash-generating units expected to benefit from the acquisition. Cash-generating units to which goodwill has been allocated are tested for impairment at least annually, or more frequently when there is an indication that the unit may be impaired. If the recoverable amount of the cash-generating unit is less than the carrying amount of the unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the unit and then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit.
+1.7
+Intangible fixed assets other than goodwill
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost less accumulated amortisation and accumulated impairment losses. 
+Intangible assets acquired on business combinations are recognised separately from goodwill at the acquisition date 
+where 
+it is probable that the expected future economic benefits that are attributable to the asset will flow to the entity and the 
+fair 
+value of the asset can be measured reliably; the intangible asset arises from contractual or other legal rights; and the intangible asset is separable from the entity.
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Development costs
+3 - 10 years straight line
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 28 -
+1.8
+Tangible fixed assets
+Tangible fixed assets 
+are initially measured at cost and subsequently measured at cost or valuation, net of depreciation and any impairment losses.
+Depreciation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Leasehold improvements
+20% straight line
+Plant and equipment
+25% straight line
+Fixtures and fittings
+20% straight line
+Computers
+33% straight line
+Motor vehicles
+25% straight line
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and is recognised in the 
+profit and loss account
+.
+1.9
+Fixed asset investments
+Equity in
+vest
+ments are measured at fair value through profit or loss
+, 
+except for those equity investments that are not publicly traded and whose fair value cannot otherwise be measured reliably
+,
+ which are recognised at cost less impairment until a reliable measure of fair value becomes available.
+I
+n the parent company 
+financial statements, 
+investments in subsidiaries, associates and jointly controlled entities are initially measured at cost and subsequently measured at cost less any accumulated impairment losses.
+A subsidiary is an entity controlled by the 
+group. Control is 
+the power to govern the financial and operating policies of 
+the
+ entity so as to obtain benefits from its activities. 
+1.10
+Impairment of fixed assets
+At each reporting 
+period 
+end date, the 
+group 
+reviews the carrying amounts of its tangible 
+and intangible 
+assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the 
+company 
+estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+The carrying amount of the investments accounted for using the equity method is tested for impairment as a single asset.  Any goodwill included in the carrying amount of the investment is not tested separately for impairment.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 29 -
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit) 
+in 
+prior years. A reversal of an impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+1.11
+Stocks
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost comprises direct materials and, where applicable, direct labour costs and those overheads that have been incurred in bringing the stocks to their present location and condition.
+Stocks held for distribution at no or nominal consideration are measured at 
+the 
+lower of 
+cost and replacement cost
+, adjusted where applicable for any loss of service potential.
+At each reporting date, an assessment is made for impairment. Any excess of the carrying amount of stocks over its estimated selling price less costs to complete and sell is recognised as an impairment loss in profit or loss. Reversals of impairment losses are also recognised in profit or loss.
+1.12
+Cash and cash equivalents
+Cash and cash equivalents
+are basic financial assets and include cash in hand
+.
+1.13
+Financial instruments
+The group has elected to apply the provisions of Section 11 ‘Basic Financial Instruments’ and Section 12 ‘Other Financial Instruments Issues’ of FRS 102 to all of its financial instruments. 
+Financial instruments are recognised in the group's 
+balance sheet
+ when the group becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset and the net amounts presented in the financial statements when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include 
+debtors
+ and cash and bank balances, are initially measured at transaction price including transaction costs and are subsequently carried at amortised cost using the effective interest
+ m
+ethod unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+ Financial assets classified as receivable within one year are not amortised.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 30 -
+Impairment of financial assets
+Financial assets, other than those 
+held 
+at 
+fair value through profit and loss
+, are assessed for indicators of impairment at each reporting end date.
+Financial assets are impaired where there is objective evidence that, as a result of one or more events that occurred after the initial recognition of the financial asset, the estimated future cash flows have been affected.
+ If an asset is impaired, the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate.  The impairment loss is recognised in profit or loss.
+If there is a decrease in the impairment loss arising from an event occurring after the impairment was recognised, the impairment is reversed. The reversal is such that the current carrying amount does not exceed what the carrying amount would have been, had the impairment not previously been recognised. The impairment reversal is recognised in profit or loss.
+Derecognition of financial assets
+Financial assets are derecognised only when the contractual rights to the cash flows from the asset expire or are settled, or when the group transfers the financial asset and substantially all the risks and rewards of ownership to another entity, or if some significant risks and rewards of ownership are retained but control of the asset has transferred to another party that is able to sell the asset in its entirety to an unrelated third party.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the group after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including 
+creditors
+, bank loans, loans from fellow group companies and preference shares that are classified as debt, are initially recognised at transaction price unless the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value of the future 
+paymen
+ts discounted at a market rate of interest.
+ Financial liabilities classified as payable within one year are not amortised.
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Amounts payable are classified as current liabilities if payment is due within one year or less. If not, they are presented as non-current liabilities. Trade creditors are recognised initially at transaction price and subsequently measured at amortised cost using the effective interest method.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+group's contractual obligations expire or are discharged or cancelled.
+1.14
+Equity instruments
+Equity instruments issued by the group are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the group.
+1.15
+Taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 31 -
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the 
+profit and loss account
+ because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The 
+group’s 
+liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the 
+profit and loss account
+, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset
+ if, and only if, there is 
+a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+1.16
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or 
+fixed assets
+.  
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+1.17
+Retirement benefits
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+1.18
+Leases
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessees. All other leases are classified as operating leases.
+Assets held under finance leases are recognised as assets at the lower of the assets fair
+ value at the date of inception and the present value of the minimum lease payments. The related liability is included in the balance sheet as a finance lease obligation. Lease payments are treated as consisting of capital and interest elements. The interest is charged to profit or loss
+so as to produce a constant periodic rate of interest on the remaining balance of the liability.
+Rentals payable under operating leases, 
+including
+ any lease incentives received, are charged to 
+profit or loss
+ on a straight line basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease
+d
+ asset are consumed.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+1
+Accounting policies
+(Continued)
+- 32 -
+1.19
+Foreign exchange
+Transactions in currencies other than the functional currency (foreign currency)
+are initially recorded at the
+exchange rate prevailing on the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated
+at the rate of exchange ruling
+at the reporting date. Non-monetary assets and liabilities denominated in
+foreign currencies are translated at
+the rate ruling at the date of the transaction, or, if the asset or liability is
+measured at fair value, the rate when
+that fair value was determined.
+All translation differences are taken to profit or loss, except to the extent that
+they relate to gains or losses on
+non-monetary items recognised in other comprehensive income, when the
+related translation gain or loss is
+also recognised in other comprehensive income.
+2
+Judgements and key sources of estimation uncertainty
+In the application of the group’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+Critical judgements
+The following judgements (apart from those involving estimates) have had the most significant effect on amounts recognised in the financial statements.
+Useful economic life of goodwill
+The directors have made judgements when determining the useful economic life
+of goodwill. Amortisation is
+recognised so as to write off the value of the assets over the life that economic
+benefit is expected to flow.
+Impairment of goodwill and investments in subsidiaries
+At the year end, the director's have assessed whether they consider there to be any indicators of impairment
+in respect of goodwill and investments in subsidiaries by reference to the criteria set out in Section 27 of
+FRS102. Where they conclude that indicators exist, an impairment test has been conducted.
+Where there are indicators of impairment of individual assets, the company performs impairment tests based
+on the value in use calculation. The value in use calculation is based on the payback period assessment. The
+payback period is calculated as the time taken for the current profit contribution of the cash generating
+unit to payback
+ the
+ goodwill/investment value held
+in the company. The payback period is most sensitive to the
+expected future cash flows.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 33 -
+3
+Turnover and other revenue
+2025
+2024
+£
+£
+Turnover analysed by class of business
+Managed services
+11,582,774
+13,698,477
+Network services
+7,887,565
+9,670,166
+Technology
+8,170,099
+8,275,865
+27,640,438
+31,644,508
+2025
+2024
+£
+£
+Turnover analysed by geographical market
+United Kingdom
+27,383,910
+31,474,696
+Europe
+256,528
+169,812
+27,640,438
+31,644,508
+2025
+2024
+£
+£
+Other revenue
+Interest income
+54
+-
+Dividends received
+-
+15,807
+4
+Exceptional item
+2025
+2024
+£
+£
+Income
+Exceptional income
+156,488
+-
+Expenditure
+Impairment of goodwill
+-
+2,446,894
+Restructuring costs
+700,737
+-
+During the previous financial year, in accordance with FRS102 Section 27, the directors carried out an assessment of the recoverable amount of goodwill and recognised an impairment charge of £2,446,894, which was presented within exceptional items in the profit and loss account.
+During the current financial year the group undertook a restructuring exercise of which costs of £700,737 (2024: £nil) have been incurred.
+Insurance proceeds of £156,488 have been received in the current year which have been presented within exceptional income (2024: £nil).
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 34 -
+5
+Operating loss
+2025
+2024
+£
+£
+Operating loss for the year is stated after charging/(crediting):
+Exchange losses/(gains)
+410
+(254)
+Fees payable to the group's auditor for the audit of the group's financial statements
+52,485
+51,986
+Depreciation of owned tangible fixed assets
+74,453
+238,520
+Depreciation of tangible fixed assets held under finance leases
+31,025
+29,890
+Loss on disposal of tangible fixed assets
+735
+-
+Amortisation of intangible assets
+1,313,471
+2,557,720
+Impairment of intangible assets
+-
+0
+2,446,894
+Operating lease charges
+254,028
+277,073
+6
+Employees
+The average monthly number of persons (including directors) employed by the group and company during the year was:
+Group
+Company
+2025
+2024
+2025
+2024
+Number
+Number
+Number
+Number
+Operations
+53
+67
+-
+-
+Sales
+24
+32
+-
+-
+Administration
+50
+54
+33
+39
+Total
+127
+153
+33
+39
+Their aggregate remuneration comprised:
+Group
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Wages and salaries
+6,324,937
+7,177,723
+1,627,572
+650,434
+Social security costs
+749,630
+767,370
+199,277
+70,488
+Pension costs
+269,839
+164,169
+89,593
+19,022
+7,344,406
+8,109,262
+1,916,442
+739,944
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 35 -
+7
+Directors' remuneration
+2025
+2024
+£
+£
+Remuneration for qualifying services
+559,686
+369,255
+Company pension contributions to defined contribution schemes
+33,724
+17,663
+593,410
+386,918
+Remuneration disclosed above includes the following amounts paid to the highest paid director:
+2025
+2024
+£
+£
+Remuneration for qualifying services
+144,789
+150,282
+Company pension contributions to defined contribution schemes
+22,021
+15,021
+The number of directors for whom retirement benefits are accruing under defined contribution schemes amounted to 5 (2024 - 5).
+8
+Interest receivable and similar income
+2025
+2024
+£
+£
+Interest income
+Interest on bank deposits
+54
+-
+0
+Other income from investments
+Dividends received
+-
+0
+15,807
+Total income
+54
+15,807
+9
+Interest payable and similar expenses
+2025
+2024
+£
+£
+Interest on bank overdrafts and loans
+16,638
+25,748
+Interest on finance leases and hire purchase contracts
+241
+776
+Other interest
+4,776
+-
+Total finance costs
+21,655
+26,524
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 36 -
+10
+Taxation
+2025
+2024
+£
+£
+Current tax
+UK corporation tax on profits for the current period
+124,049
+389,441
+Adjustments in respect of prior periods
+(
+58,788
+)
+-
+0
+Total current tax
+65,261
+389,441
+Deferred tax
+Origination and reversal of timing differences
+(
+23,047
+)
+(
+60,119
+)
+Adjustment in respect of prior periods
+4,861
+-
+0
+Total deferred tax
+(
+18,186
+)
+(
+60,119
+)
+Total tax charge
+47,075
+329,322
+The actual charge for the year can be reconciled to the expected credit for the year based on the profit or loss and the standard rate of tax as follows:
+2025
+2024
+£
+£
+Loss before taxation
+(456,777)
+(2,888,386)
+Expected tax credit based on the standard rate of corporation tax in the UK of 25.00% (2024: 25.00%)
+(114,194)
+(722,097)
+Tax effect of expenses that are not deductible in determining taxable profit
+46,277
+633,701
+Tax effect of income not taxable in determining taxable profit
+-
+0
+(
+3,952
+)
+Change in unrecognised deferred tax assets
+(
+1,293
+)
+1,293
+Group relief
+(
+131,101
+)
+(
+175,755
+)
+Under/(over) provided in prior years
+(
+58,788
+)
+-
+0
+Deferred tax adjustments in respect of prior years
+4,861
+-
+0
+Amortisation on non qualifying assets
+301,313
+613,397
+Deferred tax not recognised
+-
+0
+(
+17,265
+)
+Taxation charge
+47,075
+329,322
+Deferred tax has been recognised at the rates in which the temporary differences are expected to materially reverse which equates to 25%.
+11
+Discontinued operations
+During the current financial year the group implemented a strategic decision to cease the sale and delivery of its Cloud & Hosted services and to decommission the associated Hosting Platform and related data centre operations.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 37 -
+12
+Other gains and losses
+2025
+2024
+£
+£
+Fair value gains/(losses) on financial instruments
+Gain on financial assets held at fair value through profit or loss
+63,821
+156,800
+Other gains/(losses)
+Gain on disposal of investments held at fair value
+-
+38,507
+63,821
+195,307
+13
+Intangible fixed assets
+Group
+Goodwill
+Development costs
+Total
+£
+£
+£
+Cost
+At 1 August 2024
+39,840,641
+733,067
+40,573,708
+Additions
+-
+0
+84,952
+84,952
+At 31 July 2025
+39,840,641
+818,019
+40,658,660
+Amortisation and impairment
+At 1 August 2024
+36,456,480
+530,358
+36,986,838
+Amortisation charged for the year
+1,205,257
+108,214
+1,313,471
+At 31 July 2025
+37,661,737
+638,572
+38,300,309
+Carrying amount
+At 31 July 2025
+2,178,904
+179,447
+2,358,351
+At 31 July 2024
+3,384,161
+202,709
+3,586,870
+Company
+Development costs
+£
+Cost
+At 1 August 2024
+6,000
+Additions
+3,246
+At 31 July 2025
+9,246
+Amortisation and impairment
+At 1 August 2024 and 31 July 2025
+-
+0
+Carrying amount
+At 31 July 2025
+9,246
+At 31 July 2024
+6,000
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+13
+Intangible fixed assets
+(Continued)
+- 38 -
+14
+Tangible fixed assets
+Group
+Leasehold improvements
+Plant and equipment
+Fixtures and fittings
+Computers
+Motor vehicles
+Total
+£
+£
+£
+£
+£
+£
+Cost
+At 1 August 2024
+469,645
+1,316,910
+476,612
+958,277
+-
+0
+3,221,444
+Additions
+-
+0
+-
+0
+28,389
+1,849
+16,000
+46,238
+Disposals
+(
+12,793
+)
+(
+536,810
+)
+(
+183,174
+)
+(
+494,007
+)
+-
+0
+(
+1,226,784
+)
+At 31 July 2025
+456,852
+780,100
+321,827
+466,119
+16,000
+2,040,898
+Depreciation and impairment
+At 1 August 2024
+407,971
+1,307,659
+461,682
+900,238
+-
+0
+3,077,550
+Depreciation charged in the year
+35,440
+7,152
+3,877
+59,009
+-
+0
+105,478
+Eliminated in respect of disposals
+(
+12,793
+)
+(
+534,920
+)
+(
+172,674
+)
+(
+493,128
+)
+-
+0
+(
+1,213,515
+)
+At 31 July 2025
+430,618
+779,891
+292,885
+466,119
+-
+0
+1,969,513
+Carrying amount
+At 31 July 2025
+26,234
+209
+28,942
+-
+0
+16,000
+71,385
+At 31 July 2024
+61,674
+9,251
+14,930
+58,039
+-
+0
+143,894
+Company
+Fixtures and fittings
+Computers
+Total
+£
+£
+£
+Cost
+At 1 August 2024
+-
+0
+-
+0
+-
+0
+Additions
+14,716
+1,267
+15,983
+At 31 July 2025
+14,716
+1,267
+15,983
+Depreciation and impairment
+At 1 August 2024
+-
+0
+-
+0
+-
+0
+Depreciation charged in the year
+1,462
+634
+2,096
+At 31 July 2025
+1,462
+634
+2,096
+Carrying amount
+At 31 July 2025
+13,254
+633
+13,887
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+14
+Tangible fixed assets
+(Continued)
+- 39 -
+The net carrying value of tangible fixed assets includes the following in respect of assets held under finance leases or hire purchase contracts. 
+Group
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Plant and equipment
+-
+0
+27,325
+-
+0
+-
+0
+Computers
+-
+0
+3,700
+-
+0
+-
+0
+-
+31,025
+-
+-
+15
+Fixed asset investments
+Group
+Company
+2025
+2024
+2025
+2024
+Notes
+£
+£
+£
+£
+Investments in subsidiaries
+16
+-
+0
+-
+0
+383,853
+383,853
+Listed investments
+-
+0
+663,627
+-
+0
+-
+0
+-
+0
+663,627
+383,853
+383,853
+Movements in fixed asset investments
+Group
+Investments
+£
+Cost or valuation
+At 1 August 2024
+663,627
+Valuation changes
+63,821
+Transfers
+(727,448)
+At 31 July 2025
+-
+Carrying amount
+At 31 July 2025
+-
+At 31 July 2024
+663,627
+During the year the listed investment portfolio was transferred to the intermediate parent company, NTG Topco Limited.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+15
+Fixed asset investments
+(Continued)
+- 40 -
+Movements in fixed asset investments
+Company
+Shares in subsidiaries
+£
+Cost or valuation
+At 1 August 2024 and 31 July 2025
+383,853
+Carrying amount
+At 31 July 2025
+383,853
+At 31 July 2024
+383,853
+16
+Subsidiaries
+Details of the company's subsidiaries at 31 July 2025 are as follows:
+Name of undertaking
+Address
+Nature of business
+Class of
+% Held
+shares held
+Direct
+Indirect
+Elitetele.com Mobile Limited
+1
+Unified communications
+Ordinary
+0
+100.00
+Micro Computer Workshops Limited
+1
+Dormant
+Ordinary
+0
+100.00
+Netcentrix Limited
+1
+Unified communications
+Ordinary
+100.00
+-
+Nexus Telecom Limited
+1
+Dormant
+Ordinary
+0
+100.00
+Qualitel Voice & Data Limited
+1
+Dormant
+Ordinary
+0
+100.00
+SystemHOST Limited
+1
+Dormant
+Ordinary
+0
+100.00
+Elitetele.com plc
+1
+Unified communications
+Ordinary
+100.00
+-
+Nexus Telecommunications Limited
+1
+Dormant
+Ordinary
+0
+100.00
+Assured Talk Limited
+1
+Dormant
+Ordinary
+100.00
+-
+Elite S.A.
+2
+Unified communications
+Ordinary
+100.00
+-
+Registered office addresses (all UK unless otherwise indicated):
+1
+Dawson House Matrix Office Park, Buckshaw Village, Chorley, Lancashire, PR7 7NA, UK
+2
+Calle Velazquez, 30 - 5A PLT, 28001 Madrid, Spain
+17
+Stocks
+Group
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Finished goods and goods for resale
+29,215
+95,845
+-
+0
+-
+0
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 41 -
+18
+Debtors
+Group
+Company
+2025
+2024
+2025
+2024
+Amounts falling due within one year:
+£
+£
+£
+£
+Trade debtors
+1,903,908
+1,974,430
+-
+0
+-
+0
+Amounts owed by group undertakings
+8,239,085
+4,763,785
+7,670,823
+588,139
+Other debtors
+25,520
+49,321
+57,011
+12,827
+Prepayments and accrued income
+1,948,173
+2,256,043
+279,354
+47,229
+12,116,686
+9,043,579
+8,007,188
+648,195
+Amounts falling due after more than one year:
+Other debtors
+229,144
+219,715
+-
+0
+-
+0
+Prepayments and accrued income
+176,365
+158,958
+55,461
+-
+0
+405,509
+378,673
+55,461
+-
+Total debtors
+12,522,195
+9,422,252
+8,062,649
+648,195
+19
+Financial instruments
+Group
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Carrying amount of financial assets
+Instruments measured at fair value through profit or loss
+-
+663,627
+-
+-
+20
+Creditors: amounts falling due within one year
+Group
+Company
+2025
+2024
+2025
+2024
+Notes
+£
+£
+£
+£
+Obligations under finance leases
+22
+42,813
+84,230
+-
+0
+-
+0
+Trade creditors
+2,284,468
+2,504,597
+110,668
+51,532
+Amounts owed to group undertakings
+-
+0
+74,401
+647,154
+767,943
+Corporation tax payable
+123,761
+361,414
+-
+0
+-
+0
+Other taxation and social security
+900,173
+618,293
+92,194
+55,200
+Other creditors
+177,088
+70,617
+6,209
+11,169
+Accruals and deferred income
+2,260,216
+3,048,884
+219,131
+726
+5,788,519
+6,762,436
+1,075,356
+886,570
+Obligations under finance leases are secured over the assets to which they relate.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 42 -
+21
+Creditors: amounts falling due after more than one year
+Group
+Company
+2025
+2024
+2025
+2024
+Notes
+£
+£
+£
+£
+Obligations under finance leases
+22
+57,507
+100,320
+-
+0
+-
+0
+Accruals and deferred income
+220,035
+201,325
+-
+0
+-
+0
+277,542
+301,645
+-
+-
+Obligations under finance leases are secured over the assets to which they relate.
+22
+Finance lease obligations
+Group
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Future minimum lease payments due under finance leases:
+Within one year
+48,917
+94,259
+-
+0
+-
+0
+In two to five years
+62,015
+110,932
+-
+0
+-
+0
+110,932
+205,191
+-
+-
+Less: future finance charges
+(
+10,612
+)
+(
+20,641
+)
+-
+0
+-
+0
+100,320
+184,550
+-
+0
+-
+0
+Finance lease payments represent rentals payable by the company or group for certain items of equipment and computers. Leases include purchase options at the end of the lease period, and no restrictions are placed on the use of the assets. All leases are on a fixed repayment basis and no arrangements have been entered into for contingent rental payments.
+23
+Deferred taxation
+The following are the major deferred tax liabilities and assets recognised by the group and company, and movements thereon:
+Liabilities
+Liabilities
+2025
+2024
+Group
+£
+£
+Accelerated capital allowances
+13,727
+32,540
+Other short term timing differences
+(3,012)
+(3,639)
+10,715
+28,901
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+23
+Deferred taxation
+(Continued)
+- 43 -
+Liabilities
+Liabilities
+2025
+2024
+Company
+£
+£
+Accelerated capital allowances
+5,783
+-
+Group
+Company
+2025
+2025
+Movements in the year:
+£
+£
+Liability at 1 August 2024
+28,901
+-
+(Credit)/charge to profit or loss
+(18,186)
+5,783
+Liability at 31 July 2025
+10,715
+5,783
+As at the signing date of these financial statements, the group has not finalised its capital expenditure programme for the forthcoming year and therefore an assessment as to the likely movement of timing differences expected to reverse within the next 12 months cannot be made.
+24
+Retirement benefit schemes
+2025
+2024
+Defined contribution schemes
+£
+£
+Charge to profit or loss in respect of defined contribution schemes
+269,839
+164,169
+A
+ defined contribution pension scheme
+ is operated
+ for all qualifying employees.
+ The assets of the scheme are held separately from those of the group in an independently administered fund.
+Included within creditors is £54,302
+(2024: £35,600) that relates to pensions paid after the year end.
+25
+Share capital
+Group and company
+2025
+2024
+2025
+2024
+Ordinary share capital
+Number
+Number
+£
+£
+Issued and fully paid
+Ordinary shares of £1 each
+150,000
+150,000
+150,000
+150,000
+26
+Financial commitments, guarantees and contingent liabilities
+There is a cross party guarantee, which includes the 
+c
+ompany, over the group wide borrowing facility. At the
+year end there was
+ £9,700,000 
+(202
+4
+: £
+11,733,328
+) outstanding relating to this facility.
+Elitetele.com plc 
+and New Technology Group Holdings Plc 
+participate in a debenture dated 3
+ November 2010
+ secured by a fixed and floating
+charge over the assets of the company.
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 44 -
+27
+Operating lease commitments
+Lessee
+At the reporting end date the group had outstanding commitments for future minimum lease payments under non-cancellable operating leases, which fall due as follows:
+Group
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Within one year
+189,859
+172,365
+64,859
+-
+Between two and five years
+433,768
+508,963
+58,768
+-
+623,627
+681,328
+123,627
+-
+28
+Related party transactions
+Remuneration of key management personnel
+The remuneration of key management personnel is as follows.
+2025
+2024
+£
+£
+Aggregate compensation
+789,338
+470,996
+Transactions with related parties
+During the year the group entered into the following transactions with related parties:
+Sales
+Sales
+Purchases
+Purchases
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Group
+Entities under common control
+105,926
+114,893
+1,821,956
+1,968,676
+2025
+2024
+£
+£
+Company
+43,034
+-
+The following amounts were outstanding at the reporting end date:
+Amounts due to related parties
+2025
+2024
+£
+£
+Group
+Entities under common control
+310,217
+295,383
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+28
+Related party transactions
+(Continued)
+- 45 -
+Company
+18,117
+-
+The following amounts were outstanding at the reporting end date:
+Amounts due from related parties
+2025
+2024
+Balance
+Balance
+£
+£
+Group
+Entities under common control
+31,894
+35,888
+29
+Controlling party
+The immediate parent company is 
+NTG Bidco Limited
+, a company incorporated in the 
+Isle of Man.  T
+he smallest group for which consolidated statements are prepared is 
+New Technology Group 
+Holdings plc, whose registered office address is Dawson House Matrix Office Park, Buckshaw Village, Chorley, Lancashire, PR7 7NA. The largest group for which consolidated statements are prepared is 
+NTG 
+Topco
+ Holdings
+ Limited, a company incorporated in the Isle of Man, whose registered office address is 50 Athol Street, Douglas, IM1 1JB, Isle of Man.
+30
+Analysis of changes in net funds - group
+1 August 2024
+Cash flows
+31 July 2025
+£
+£
+£
+Cash at bank and in hand
+4,619,325
+(2,593,057)
+2,026,268
+Obligations under finance leases
+(184,550)
+84,230
+(100,320)
+4,434,775
+(2,508,827)
+1,925,948
+NEW TECHNOLOGY GROUP HOLDINGS PLC
+NOTES TO THE GROUP FINANCIAL STATEMENTS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+- 46 -
+31
+Cash (absorbed by)/generated from group operations
+2025
+2024
+£
+£
+Loss for the year after tax
+(503,852)
+(3,217,708)
+Adjustments for:
+Taxation charged
+47,075
+329,322
+Finance costs
+21,655
+26,524
+Investment income
+(
+54
+)
+(
+15,807
+)
+Loss on disposal of tangible fixed assets
+735
+-
+Amortisation and impairment of intangible assets
+1,313,471
+5,004,614
+Depreciation and impairment of tangible fixed assets
+105,478
+268,410
+Other gains and losses
+(63,821)
+(195,307)
+Movements in working capital:
+Decrease/(increase) in stocks
+66,630
+(15,548)
+Increase in debtors
+(2,372,495)
+(1,169,598)
+Decrease in creditors
+(676,137)
+(448,408)
+Cash (absorbed by)/generated from operations
+(2,061,315)
+566,494
+2025-07-31
+2024-08-01
+false
+false
+CCH Software
+CCH Accounts Production 2025.300
+Mr S J King
+Mr A J Turton
+Mr G M J Voller
+Mr P H Jury
+Mr P H Jury
+Miss A Cliffe
+false
+04503928
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+2024-08-01
+2025-07-31
+04503928
+bus:Director1
+2024-08-01
+2025-07-31
+04503928
+bus:CompanySecretaryDirector1
+2024-08-01
+2025-07-31
+04503928
+bus:Director2
+2024-08-01
+2025-07-31
+04503928
+bus:Director3
+2024-08-01
+2025-07-31
+04503928
+bus:Director4
+2024-08-01
+2025-07-31
+04503928
+bus:CompanySecretary1
+2024-08-01
+2025-07-31
+04503928
+bus:Director5
+2024-08-01
+2025-07-31
+04503928
+bus:RegisteredOffice
+2024-08-01
+2025-07-31
+04503928
+2025-07-31
+04503928
+bus:Consolidated
+2025-07-31
+04503928
+core:Exceptional
+bus:Consolidated
+1
+2023-08-01
+2024-07-31
+04503928
+bus:Consolidated
+2023-08-01
+2024-07-31
+04503928
+2023-08-01
+2024-07-31
+04503928
+core:ForeignCurrencyTranslationReserve
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:ForeignCurrencyTranslationReserve
+bus:Consolidated
+2023-08-01
+2024-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2023-08-01
+2024-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:Goodwill
+bus:Consolidated
+2025-07-31
+04503928
+core:Goodwill
+bus:Consolidated
+2024-07-31
+04503928
+core:OtherResidualIntangibleAssets
+bus:Consolidated
+2025-07-31
+04503928
+core:OtherResidualIntangibleAssets
+bus:Consolidated
+2024-07-31
+04503928
+bus:Consolidated
+2024-07-31
+04503928
+core:OtherResidualIntangibleAssets
+2025-07-31
+04503928
+core:OtherResidualIntangibleAssets
+2024-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+bus:Consolidated
+2025-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+bus:Consolidated
+2024-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2025-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-07-31
+04503928
+2024-07-31
+04503928
+core:LeaseholdImprovements
+bus:Consolidated
+2025-07-31
+04503928
+core:PlantMachinery
+bus:Consolidated
+2025-07-31
+04503928
+core:FurnitureFittings
+bus:Consolidated
+2025-07-31
+04503928
+core:ComputerEquipment
+bus:Consolidated
+2025-07-31
+04503928
+core:MotorVehicles
+bus:Consolidated
+2025-07-31
+04503928
+core:LeaseholdImprovements
+bus:Consolidated
+2024-07-31
+04503928
+core:PlantMachinery
+bus:Consolidated
+2024-07-31
+04503928
+core:FurnitureFittings
+bus:Consolidated
+2024-07-31
+04503928
+core:ComputerEquipment
+bus:Consolidated
+2024-07-31
+04503928
+core:MotorVehicles
+bus:Consolidated
+2024-07-31
+04503928
+core:FurnitureFittings
+2025-07-31
+04503928
+core:ComputerEquipment
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+core:WithinOneYear
+bus:Consolidated
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+bus:Consolidated
+2024-07-31
+04503928
+core:ShareCapital
+bus:Consolidated
+2025-07-31
+04503928
+core:ShareCapital
+bus:Consolidated
+2024-07-31
+04503928
+core:OtherMiscellaneousReserve
+bus:Consolidated
+2025-07-31
+04503928
+core:OtherMiscellaneousReserve
+bus:Consolidated
+2024-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2025-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2024-07-31
+04503928
+core:ShareCapital
+2025-07-31
+04503928
+core:ShareCapital
+2024-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+2025-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+2024-07-31
+04503928
+core:ShareCapital
+bus:Consolidated
+2023-07-31
+04503928
+core:ForeignCurrencyTranslationReserve
+bus:Consolidated
+2023-07-31
+04503928
+2023-07-31
+04503928
+core:ForeignCurrencyTranslationReserve
+bus:Consolidated
+2024-07-31
+04503928
+core:ForeignCurrencyTranslationReserve
+bus:Consolidated
+2025-07-31
+04503928
+core:ShareCapital
+2023-07-31
+04503928
+core:RetainedEarningsAccumulatedLosses
+2023-07-31
+04503928
+bus:Consolidated
+2023-07-31
+04503928
+core:Goodwill
+2024-08-01
+2025-07-31
+04503928
+core:IntangibleAssetsOtherThanGoodwill
+2024-08-01
+2025-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-08-01
+2025-07-31
+04503928
+core:LeaseholdImprovements
+2024-08-01
+2025-07-31
+04503928
+core:PlantMachinery
+2024-08-01
+2025-07-31
+04503928
+core:FurnitureFittings
+2024-08-01
+2025-07-31
+04503928
+core:ComputerEquipment
+2024-08-01
+2025-07-31
+04503928
+core:MotorVehicles
+2024-08-01
+2025-07-31
+04503928
+core:UKTax
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:UKTax
+bus:Consolidated
+2023-08-01
+2024-07-31
+04503928
+bus:Consolidated
+1
+2024-08-01
+2025-07-31
+04503928
+bus:Consolidated
+1
+2023-08-01
+2024-07-31
+04503928
+bus:Consolidated
+2
+2024-08-01
+2025-07-31
+04503928
+bus:Consolidated
+2
+2023-08-01
+2024-07-31
+04503928
+bus:Consolidated
+3
+2024-08-01
+2025-07-31
+04503928
+bus:Consolidated
+3
+2023-08-01
+2024-07-31
+04503928
+core:Goodwill
+bus:Consolidated
+2024-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+bus:Consolidated
+2024-07-31
+04503928
+bus:Consolidated
+2024-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-07-31
+04503928
+core:Goodwill
+core:ExternallyAcquiredIntangibleAssets
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+core:ExternallyAcquiredIntangibleAssets
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:ExternallyAcquiredIntangibleAssets
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+core:ExternallyAcquiredIntangibleAssets
+2024-08-01
+2025-07-31
+04503928
+core:Goodwill
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:LeaseholdImprovements
+bus:Consolidated
+2024-07-31
+04503928
+core:PlantMachinery
+bus:Consolidated
+2024-07-31
+04503928
+core:FurnitureFittings
+bus:Consolidated
+2024-07-31
+04503928
+core:ComputerEquipment
+bus:Consolidated
+2024-07-31
+04503928
+core:MotorVehicles
+bus:Consolidated
+2024-07-31
+04503928
+core:FurnitureFittings
+2024-07-31
+04503928
+core:ComputerEquipment
+2024-07-31
+04503928
+2024-07-31
+04503928
+core:LeaseholdImprovements
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:PlantMachinery
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:FurnitureFittings
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:ComputerEquipment
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:MotorVehicles
+bus:Consolidated
+2024-08-01
+2025-07-31
+04503928
+core:PlantMachinery
+2025-07-31
+04503928
+core:PlantMachinery
+2024-07-31
+04503928
+core:ComputerEquipment
+2024-07-31
+04503928
+core:ListedExchangeTraded
+bus:Consolidated
+2025-07-31
+04503928
+core:ListedExchangeTraded
+bus:Consolidated
+2024-07-31
+04503928
+core:ListedExchangeTraded
+2025-07-31
+04503928
+core:ListedExchangeTraded
+2024-07-31
+04503928
+core:Subsidiary1
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary2
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary3
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary4
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary5
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary6
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary7
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary8
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary9
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary10
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary1
+1
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary2
+2
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary3
+3
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary4
+4
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary5
+5
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary6
+6
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary7
+7
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary8
+8
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary9
+9
+2024-08-01
+2025-07-31
+04503928
+core:Subsidiary10
+10
+2024-08-01
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+bus:Consolidated
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+2024-07-31
+04503928
+core:CurrentFinancialInstruments
+bus:Consolidated
+1
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+bus:Consolidated
+1
+2024-07-31
+04503928
+core:CurrentFinancialInstruments
+2
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+3
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+bus:Consolidated
+4
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+bus:Consolidated
+5
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+6
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+7
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+bus:Consolidated
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+bus:Consolidated
+2024-07-31
+04503928
+core:Non-currentFinancialInstruments
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+2024-07-31
+04503928
+core:CurrentFinancialInstruments
+core:WithinOneYear
+bus:Consolidated
+2024-07-31
+04503928
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2025-07-31
+04503928
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2024-07-31
+04503928
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+bus:Consolidated
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+bus:Consolidated
+2024-07-31
+04503928
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2025-07-31
+04503928
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2024-07-31
+04503928
+core:WithinOneYear
+bus:Consolidated
+2025-07-31
+04503928
+core:WithinOneYear
+bus:Consolidated
+2024-07-31
+04503928
+core:WithinOneYear
+2025-07-31
+04503928
+core:WithinOneYear
+2024-07-31
+04503928
+core:BetweenTwoFiveYears
+bus:Consolidated
+2025-07-31
+04503928
+core:BetweenTwoFiveYears
+bus:Consolidated
+2024-07-31
+04503928
+core:BetweenTwoFiveYears
+2025-07-31
+04503928
+core:BetweenTwoFiveYears
+2024-07-31
+04503928
+bus:PrivateLimitedCompanyLtd
+2024-08-01
+2025-07-31
+04503928
+bus:FRS102
+2024-08-01
+2025-07-31
+04503928
+bus:Audited
+2024-08-01
+2025-07-31
+04503928
+bus:ConsolidatedGroupCompanyAccounts
+2024-08-01
+2025-07-31
+04503928
+bus:FullAccounts
+2024-08-01
+2025-07-31
+xbrli:pure
+xbrli:shares
+iso4217:GBP

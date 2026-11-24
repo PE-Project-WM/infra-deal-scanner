@@ -1,0 +1,1462 @@
+
+Fourway Communication Limited - Limited company accounts 25.1
+IRIS Accounts Production
+v25.3.0.601
+00714431
+Board of Directors
+1.4.24
+31.3.25
+31.3.25
+Medium entities
+true
+false
+true
+true
+false
+false
+true
+false
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the medium-sized companies regime.
+Ordinary A
+1.00000
+Ordinary B
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+00714431
+2024-03-31
+00714431
+2025-03-31
+00714431
+2024-04-01
+2025-03-31
+00714431
+2023-03-31
+00714431
+2023-04-01
+2024-03-31
+00714431
+2024-03-31
+00714431
+ns15:EnglandWales
+2024-04-01
+2025-03-31
+00714431
+ns14:PoundSterling
+2024-04-01
+2025-03-31
+00714431
+ns10:Director1
+2024-04-01
+2025-03-31
+00714431
+ns10:PrivateLimitedCompanyLtd
+2024-04-01
+2025-03-31
+00714431
+ns10:MediumEntities
+2024-04-01
+2025-03-31
+00714431
+ns10:Audited
+2024-04-01
+2025-03-31
+00714431
+ns10:Medium-sizedCompaniesRegimeForDirectorsReport
+2024-04-01
+2025-03-31
+00714431
+ns10:Medium-sizedCompaniesRegimeForAccounts
+2024-04-01
+2025-03-31
+00714431
+ns10:FullAccounts
+2024-04-01
+2025-03-31
+00714431
+ns10:OrdinaryShareClass1
+2024-04-01
+2025-03-31
+00714431
+ns10:OrdinaryShareClass2
+2024-04-01
+2025-03-31
+00714431
+ns10:Director2
+2024-04-01
+2025-03-31
+00714431
+ns10:Director4
+2024-04-01
+2025-03-31
+00714431
+ns10:Director5
+2024-04-01
+2025-03-31
+00714431
+ns10:CompanySecretary1
+2024-04-01
+2025-03-31
+00714431
+ns10:RegisteredOffice
+2024-04-01
+2025-03-31
+00714431
+ns10:Director3
+2024-04-01
+2025-03-31
+00714431
+ns5:CurrentFinancialInstruments
+2025-03-31
+00714431
+ns5:CurrentFinancialInstruments
+2024-03-31
+00714431
+ns5:Non-currentFinancialInstruments
+2025-03-31
+00714431
+ns5:Non-currentFinancialInstruments
+2024-03-31
+00714431
+ns5:ShareCapital
+2025-03-31
+00714431
+ns5:ShareCapital
+2024-03-31
+00714431
+ns5:RetainedEarningsAccumulatedLosses
+2025-03-31
+00714431
+ns5:RetainedEarningsAccumulatedLosses
+2024-03-31
+00714431
+ns5:ShareCapital
+2023-03-31
+00714431
+ns5:RetainedEarningsAccumulatedLosses
+2023-03-31
+00714431
+ns5:RetainedEarningsAccumulatedLosses
+2023-04-01
+2024-03-31
+00714431
+ns5:RetainedEarningsAccumulatedLosses
+2024-04-01
+2025-03-31
+00714431
+ns5:LandBuildings
+ns5:OwnedOrFreeholdAssets
+2024-04-01
+2025-03-31
+00714431
+ns5:FurnitureFittings
+2024-04-01
+2025-03-31
+00714431
+ns5:MotorVehicles
+2024-04-01
+2025-03-31
+00714431
+ns10:HighestPaidDirector
+2024-04-01
+2025-03-31
+00714431
+ns10:HighestPaidDirector
+2023-04-01
+2024-03-31
+00714431
+ns5:OwnedAssets
+2024-04-01
+2025-03-31
+00714431
+ns5:OwnedAssets
+2023-04-01
+2024-03-31
+00714431
+ns10:OrdinaryShareClass1
+2023-04-01
+2024-03-31
+00714431
+ns10:OrdinaryShareClass2
+2023-04-01
+2024-03-31
+00714431
+ns5:LandBuildings
+2024-03-31
+00714431
+ns5:FurnitureFittings
+2024-03-31
+00714431
+ns5:MotorVehicles
+2024-03-31
+00714431
+ns5:LandBuildings
+2024-04-01
+2025-03-31
+00714431
+ns5:LandBuildings
+2025-03-31
+00714431
+ns5:FurnitureFittings
+2025-03-31
+00714431
+ns5:MotorVehicles
+2025-03-31
+00714431
+ns5:LandBuildings
+2024-03-31
+00714431
+ns5:FurnitureFittings
+2024-03-31
+00714431
+ns5:MotorVehicles
+2024-03-31
+00714431
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2025-03-31
+00714431
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-03-31
+00714431
+ns5:WithinOneYear
+2025-03-31
+00714431
+ns5:WithinOneYear
+2024-03-31
+00714431
+ns5:BetweenOneFiveYears
+2025-03-31
+00714431
+ns5:BetweenOneFiveYears
+2024-03-31
+00714431
+ns5:MoreThanFiveYears
+2025-03-31
+00714431
+ns5:MoreThanFiveYears
+2024-03-31
+00714431
+ns5:AllPeriods
+2025-03-31
+00714431
+ns5:AllPeriods
+2024-03-31
+00714431
+ns10:OrdinaryShareClass1
+2025-03-31
+00714431
+ns10:OrdinaryShareClass2
+2025-03-31
+00714431
+ns5:RetainedEarningsAccumulatedLosses
+2024-03-31
+00714431
+4
+ns10:Director4
+2024-03-31
+00714431
+4
+ns10:Director4
+2023-03-31
+00714431
+4
+ns10:Director4
+2024-04-01
+2025-03-31
+00714431
+4
+ns10:Director4
+2023-04-01
+2024-03-31
+00714431
+4
+ns10:Director4
+2025-03-31
+00714431
+4
+ns10:Director4
+2024-03-31
+00714431
+ns10:Director2
+2
+2024-03-31
+00714431
+ns10:Director2
+2
+2023-03-31
+00714431
+ns10:Director2
+2
+2024-04-01
+2025-03-31
+00714431
+ns10:Director2
+2
+2023-04-01
+2024-03-31
+00714431
+ns10:Director2
+2
+2025-03-31
+00714431
+ns10:Director2
+2
+2024-03-31
+REGISTERED NUMBER: 
+00714431
+(England and Wales) 
+STRATEGIC REPORT, REPORT OF THE DIRECTORS AND
+ FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2025
+FOR
+FOURWAY COMMUNICATION LIMITED
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+CONTENTS OF THE FINANCIAL STATEMENTS
+for the Year Ended 31 March 2025
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Directors  
+3
+Report of the Independent Auditors  
+5
+Income Statement  
+9
+Other Comprehensive Income  
+10
+Balance Sheet  
+11
+Statement of Changes in Equity  
+12
+Cash Flow Statement  
+13
+Notes to the Cash Flow Statement  
+14
+Notes to the Financial Statements 
+15
+FOURWAY COMMUNICATION LIMITED
+COMPANY INFORMATION
+for the Year Ended 31 March 2025
+DIRECTORS:
+C E Codrington
+L G C Snell
+Mrs I A Snell
+G N Snell
+SECRETARY:
+Mrs I A Snell
+REGISTERED OFFICE:
+Unit A Argyle Gate
+Argyle Way
+Stevenage
+Hertfordshire
+SG1 2AD
+REGISTERED NUMBER:
+00714431
+(England and Wales) 
+SENIOR STATUTORY AUDITOR:
+Paul Skipper BSc FCA
+AUDITORS:
+Fusion Audit Limited
+Statutory Auditors
+Bridge House
+25 Fiddlebridge Lane
+Hatfield
+Hertfordshire
+AL10 0SP
+Page 1
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+STRATEGIC REPORT
+for the Year Ended 31 March 2025
+The directors present their strategic report for the year ended 31 March 2025. 
+REVIEW OF BUSINESS
+The financial year to March 2025 was one of both challenge and progression. Following two years of market 
+uncertainty, the Company faced a reduction in available opportunities within the rail sector, historically its largest 
+market. Rail accounted for 75% of sector activity. This is lower than normal due to funding constraints that have 
+restricted new project flow and indicates an accelerated FCL diversification strategy.
+The Company secured its first major Aviation contract at Heathrow Airport. FCL has continued to work in the 
+expanding Energy sector. Following the completion of London Power Tunnels Project a major new contract has been 
+secured for a substation at Harker. Further diversification has occurred into the Defence sector with a major contract for 
+AWE. The strategy of diversification is broadening long-term resilience and reducing dependence on any single sector.
+Turnover for the year was £26.0m, broadly consistent with prior years, and order book quality has strengthened with 
+improved project profitability. With this diversified base, FCL enters 2025-26 with greater balance across its sectors and 
+a strong pipeline of secured and prospective work.
+Financial Key Performance Indicators
+" Revenue: £26.0m (2023-24: £26.0m)
+" Profit for the year: in line with expectations following restructuring of contracts.
+" Cash at bank: remained strong, supporting ongoing investment in people and capability.
+" Order Book: positioned for continued growth in Aviation, Energy and Defence alongside core Rail.
+PRINCIPAL RISKS AND UNCERTAINTIES
+The Company remains exposed to risks including client insolvency, onerous contract terms, health and safety legislation, 
+and economic uncertainty. These are mitigated through robust governance, external accreditation, and disciplined 
+contract management.
+ON BEHALF OF THE BOARD:
+G N Snell
+- Director 
+26 November 2025
+Page 2
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+REPORT OF THE DIRECTORS
+for the Year Ended 31 March 2025
+The Directors present their report together with the audited financial statements for the year ended 31 March 2025.
+The Board remains confident in the Company's ability to deliver sustainable growth through sector diversification, 
+strong client relationships, and continued investment in people, technology and safety. The Directors consider that FCL 
+is well-positioned to deliver value to stakeholders in the coming year.
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was that of Fourway Communication Limited (FCL) 
+continues to provide Communications, Mechanical and Electrical Services to the Infrastructure sectors. The business 
+delivers survey, design, installation, testing and commissioning, specialising in work within live operational 
+environments where technical compliance and safety are critical. 
+DIVIDENDS
+An interim dividend of 
+£
+128,000
+per share on the Ordinary B £1 shares was paid on 30 March 2025.  The directors 
+recommend that no final dividend be paid on these shares. 
+No interim dividend was paid on the Ordinary A £1 shares.  The directors recommend that no final dividend be paid on 
+these shares. 
+The total distribution of dividends for the year ended 31 March 2025 will be £ 
+128,000
+ . 
+DIRECTORS
+The directors during the year under review were:
+C E Codrington
+L N Snell
+- resigned 5.1.25
+L G C Snell
+Mrs I A Snell
+G N Snell
+The directors holding office at 31 March 2025 did not hold any beneficial interest in the issued share capital of the 
+company at 1 April 2024 or 31 March 2025. 
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements 
+in accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors 
+have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting 
+Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not 
+approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the 
+company and of the profit or loss of the company for that period.  In preparing these financial statements, the directors 
+are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the 
+company's transactions and disclose with reasonable accuracy at any time the financial position of the company and 
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for 
+safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud 
+and other irregularities. 
+Page 3
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+REPORT OF THE DIRECTORS
+for the Year Ended 31 March 2025
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and each director has taken all the steps that he or she ought to have 
+taken as a director in order to make himself or herself aware of any relevant audit information and to establish that the 
+company's auditors are aware of that information. 
+AUDITORS
+The auditors,  Fusion Audit Limited, are deemed to be reappointed under section 487(2) of the Companies Act 2006.
+ON BEHALF OF THE BOARD:
+G N Snell
+- Director 
+26 November 2025
+Page 4
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+FOURWAY COMMUNICATION LIMITED
+Opinion
+We have audited the financial statements of Fourway Communication Limited (the 'company') for the year ended 
+31 March 2025 which comprise the Income Statement, Other Comprehensive Income, Balance Sheet, Statement of 
+Changes in Equity, Cash Flow Statement and Notes to the Cash Flow Statement, Notes to the Financial Statements, 
+including a summary of significant accounting policies. The financial reporting framework that has been applied in their 
+preparation is applicable law and United Kingdom Accounting Standards, including Financial Reporting Standard 102 
+'The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted 
+Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 March 2025 and of its profit for the year then 
+ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the 
+financial statements section of our report.  We are independent of the company in accordance with the ethical 
+requirements that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, 
+and we have fulfilled our other ethical responsibilities in accordance with these requirements.  We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in 
+the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions 
+that, individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a 
+period of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic 
+Report and the Report of the Directors, but does not include the financial statements and our Report of the Auditors 
+thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise 
+explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing 
+so, consider whether the other information is materially inconsistent with the financial statements or our knowledge 
+obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or 
+apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the 
+financial statements themselves. If, based on the work we have performed, we conclude that there is a material 
+misstatement of this other information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for which the 
+financial statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal 
+requirements. 
+Page 5
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+FOURWAY COMMUNICATION LIMITED
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, 
+we have not identified material misstatements in the Strategic Report or the Report of the Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you 
+if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from 
+branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page three, the directors are 
+responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and 
+for such internal control as the directors determine necessary to enable the preparation of financial statements that are 
+free from material misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a 
+going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of 
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic 
+alternative but to do so. 
+Page 6
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+FOURWAY COMMUNICATION LIMITED
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs 
+(UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud can be outlined as 
+follows
+Our approach to identifying and assessing the risks of material misstatement in respect of irregularities, including fraud 
+and non-compliance with laws and regulations, was as follows:
+- the engagement partner ensured that the engagement team collectively had the appropriate competence, capabilities 
+and skills to identify or recognise non-compliance with applicable laws and regulations;
+- we identified the laws and regulations applicable to the company through discussions with directors and other 
+management, and from our commercial knowledge and experience of the communications sector;
+- we focused on specific laws and regulations which we considered may have a direct material effect on the financial 
+statements or the operations of the company, including the Companies Act 2006, taxation legislation, data protection, 
+anti-bribery, employment, environmental and health and safety legislation;
+- we assessed the extent of compliance with the laws and regulations identified above through making enquiries of 
+management and inspecting legal correspondence; and
+- we identified laws and regulations which were communicated within the audit team regularly and the team remained 
+alert to instances of non-compliance throughout the audit.
+We assessed the susceptibility of the company’s financial statements to material misstatement, including obtaining an 
+understanding of how fraud might occur, by:
+- making enquiries of management as to where they considered there was susceptibility to fraud, their knowledge of 
+actual, suspected and alleged fraud; and
+- considering the internal controls in place to mitigate risks of fraud and non-compliance with laws and regulations.
+To address the risk of fraud through management bias and override of controls, we:
+- performed analytical procedures to identify any unusual or unexpected relationships;
+- tested journal entries to identify unusual transactions;
+- assessed whether judgements and assumptions made in determining the accounting estimates were indicative of 
+potential bias; and
+- investigated the rationale behind significant or unusual transactions.
+In response to the risk of irregularities and non-compliance with laws and regulations, we designed procedures which 
+included, but were not limited to:
+- agreeing financial statement disclosures to underlying supporting documentation;
+- reading the minutes of meetings of those charged with governance;
+- enquiring of management as to actual and potential litigation and claims; and
+- reviewing correspondence with tax authorities, relevant regulators (Railway Industry Supplier Qualification Scheme, 
+Fleet Operations Registration Scheme, RoSPA and BSI) and the company’s legal advisors.
+There are inherent limitations in our audit procedures described above. The more removed that laws and regulations are 
+from financial transactions, the less likely it is that we would become aware of non-compliance. Auditing standards also 
+limit the audit procedures required to identify non-compliance with laws and regulations to enquiry of the directors and 
+other management and the inspection of regulatory and legal correspondence, if any.
+Material misstatements that arise due to fraud can be harder to detect than those that arise from error as they may involve 
+deliberate concealment or collusion.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Page 7
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+FOURWAY COMMUNICATION LIMITED
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those 
+matters we are required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's 
+members as a body, for our audit work, for this report, or for the opinions we have formed. 
+Paul Skipper BSc FCA
+(Senior Statutory Auditor) 
+for and on behalf of 
+Fusion Audit Limited
+Statutory Auditors
+Bridge House
+25 Fiddlebridge Lane
+Hatfield
+Hertfordshire
+AL10 0SP
+27 November 2025
+Page 8
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+INCOME STATEMENT
+for the Year Ended 31 March 2025
+31.3.25
+31.3.24
+Notes
+£   
+£   
+TURNOVER
+26,051,888
+26,005,566
+Cost of sales
+21,853,217
+22,806,328
+GROSS PROFIT
+4,198,671
+3,199,238
+Administrative expenses
+3,910,246
+3,157,430
+OPERATING PROFIT
+5
+288,425
+41,808
+Interest receivable and similar income 
+40,051
+828
+PROFIT BEFORE TAXATION 
+328,476
+42,636
+Tax on profit
+6
+(
+495,935
+)
+-
+PROFIT FOR THE FINANCIAL YEAR 
+824,411
+42,636
+The notes form part of these financial statements
+Page 9
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+OTHER COMPREHENSIVE INCOME
+for the Year Ended 31 March 2025
+31.3.25
+31.3.24
+Notes
+£   
+£   
+PROFIT FOR THE YEAR
+824,411
+42,636
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+824,411
+42,636
+The notes form part of these financial statements
+Page 10
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+BALANCE SHEET
+31 March 2025
+31.3.25
+31.3.24
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Tangible assets
+8
+240,058
+250,545
+CURRENT ASSETS
+Stocks
+9
+5,000
+5,000
+Debtors
+10
+1,636,910
+957,310
+Prepayments and accrued income
+859,036
+5,544,534
+Cash at bank and in hand
+5,094,910
+3,825,664
+7,595,856
+10,332,508
+CREDITORS
+Amounts falling due within one year 
+11
+5,129,611
+8,573,161
+NET CURRENT ASSETS
+2,466,245
+1,759,347
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+2,706,303
+2,009,892
+CREDITORS
+Amounts falling due after more than one 
+year 
+12
+19,100
+19,100
+NET ASSETS
+2,687,203
+1,990,792
+CAPITAL AND RESERVES
+Called up share capital
+14
+10,100
+10,100
+Retained earnings
+15
+2,677,103
+1,980,692
+SHAREHOLDERS' FUNDS
+2,687,203
+1,990,792
+The financial statements were approved by the Board of Directors and authorised for issue on 
+26 November 2025
+and 
+were signed on its behalf by: 
+G N Snell
+- Director 
+The notes form part of these financial statements
+Page 11
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+STATEMENT OF CHANGES IN EQUITY
+for the Year Ended 31 March 2025
+Called up
+share
+Retained
+Total
+capital
+earnings
+equity
+£   
+£   
+£   
+Balance at 1 April 2023
+10,100
+2,081,656
+2,091,756
+Changes in equity
+Dividends
+-
+(
+143,600
+)
+(
+143,600
+)
+Total comprehensive income
+-
+42,636
+42,636
+Balance at 31 March 2024
+10,100
+1,980,692
+1,990,792
+Changes in equity
+Dividends
+-
+(
+128,000
+)
+(
+128,000
+)
+Total comprehensive income
+-
+824,411
+824,411
+Balance at 31 March 2025
+10,100
+2,677,103
+2,687,203
+The notes form part of these financial statements
+Page 12
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+CASH FLOW STATEMENT
+for the Year Ended 31 March 2025
+31.3.25
+31.3.24
+Notes
+£   
+£   
+Cash flows from operating activities
+Cash generated from operations
+1
+1,538,859
+201,867
+Tax paid
+-
+494,285
+Net cash from operating activities
+1,538,859
+696,152
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+48,420
+)
+(
+123,363
+)
+Sale of tangible fixed assets
+4,907
+-
+Interest received
+40,051
+828
+Net cash from investing activities
+(
+3,462
+)
+(
+122,535
+)
+Cash flows from financing activities
+Amount introduced by directors
+540
+600
+Amount withdrawn by directors
+(138,691
+)
+(319,738
+)
+Equity dividends paid
+(
+128,000
+)
+(
+143,600
+)
+Net cash from financing activities
+(
+266,151
+)
+(
+462,738
+)
+Increase in cash and cash equivalents 
+1,269,246
+110,879
+Cash and cash equivalents at beginning of 
+year 
+2
+3,825,664
+3,714,785
+Cash and cash equivalents at end of year 
+2
+5,094,910
+3,825,664
+The notes form part of these financial statements
+Page 13
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE CASH FLOW STATEMENT
+for the Year Ended 31 March 2025
+1.
+RECONCILIATION OF PROFIT BEFORE TAXATION TO CASH GENERATED FROM 
+OPERATIONS 
+31.3.25
+31.3.24
+£   
+£   
+Profit before taxation
+328,476
+42,636
+Depreciation charges
+53,213
+56,695
+Loss on disposal of fixed assets
+787
+-
+Finance income
+(
+40,051
+)
+(
+828
+)
+342,425
+98,503
+Decrease/(increase) in trade and other debtors
+4,643,531
+(
+1,148,866
+)
+(Decrease)/increase in trade and other creditors
+(
+3,447,097
+)
+1,252,230
+Cash generated from operations 
+1,538,859
+201,867
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are in respect of these 
+Balance Sheet amounts: 
+Year ended 31 March 2025
+31.3.25
+1.4.24
+£   
+£   
+Cash and cash equivalents
+5,094,910
+3,825,664
+Year ended 31 March 2024
+31.3.24
+1.4.23
+£   
+£   
+Cash and cash equivalents
+3,825,664
+3,714,785
+3.
+ANALYSIS OF CHANGES IN NET FUNDS 
+At 1.4.24
+Cash flow
+At 31.3.25
+£   
+£   
+£   
+Net cash 
+Cash at bank and in hand
+3,825,664
+1,269,246
+5,094,910
+3,825,664
+1,269,246
+5,094,910
+Total
+3,825,664
+1,269,246
+5,094,910
+The notes form part of these financial statements
+Page 14
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE FINANCIAL STATEMENTS
+for the Year Ended 31 March 2025
+1.
+STATUTORY INFORMATION
+Fourway Communication Limited is a 
+private company, limited by shares
+, registered in England and Wales. The 
+company's registered number and registered office address can be found on the Company Information page. 
+The presentation currency of the financial statements is the Pound Sterling (£). 
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Turnover
+Turnover represents net invoiced sales of goods and services, excluding value added tax.
+Turnover in respect of long term projects is recognised by reference to the stage of completion of the contract.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Freehold property
+- 
+not depreciated
+Fixtures and fittings
+-   
+25% on reducing balance and 10% on reducing balance
+Motor vehicles
+- 
+25% on reducing balance
+Stock and accrued income
+Stock is valued at the lower of cost and net realisable value, after making due allowance for obsolete and slow 
+moving items.
+The accrued income reflects ongoing projects some of which are long term in nature. An element of profit in 
+respect of ongoing contracts has been recognised based on the anticipated results for each project.
+Financial instruments
+Basic financial instruments are recognised at fair value, with changes recognised in the profit and loss account.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to 
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they 
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 15
+continued...
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 March 2025
+2.
+ACCOUNTING POLICIES - continued
+Research and development
+Expenditure on research and development is written off in the year in which it is incurred. 
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the company's pension 
+scheme are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+31.3.25
+31.3.24
+£   
+£   
+Wages and salaries
+6,121,908
+5,904,997
+Social security costs
+674,162
+703,413
+Other pension costs
+269,629
+281,592
+7,065,699
+6,890,002
+The average number of employees during the year was as follows: 
+31.3.25
+31.3.24
+Direct
+56
+74
+Administration
+23
+22
+79
+96
+4.
+DIRECTORS' EMOLUMENTS
+31.3.25
+31.3.24
+£   
+£   
+Directors' remuneration
+420,285
+361,466
+Directors' pension contributions to money purchase schemes  
+32,289
+31,349
+The number of directors to whom retirement benefits were accruing was as follows: 
+Money purchase schemes
+3
+3
+Information regarding the highest paid director is as follows:
+31.3.25
+31.3.24
+£   
+£   
+Emoluments etc
+217,688
+90,900
+Pension contributions to money purchase schemes
+8,734
+9,999
+5.
+OPERATING PROFIT
+The operating profit is stated after charging:
+31.3.25
+31.3.24
+£   
+£   
+Depreciation - owned assets
+53,213
+56,694
+Loss on disposal of fixed assets
+787
+-
+Auditors' remuneration
+15,000
+11,000
+Page 16
+continued...
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 March 2025
+6.
+TAXATION
+Analysis of the tax credit
+The tax credit on the profit for the year was as follows: 
+31.3.25
+31.3.24
+£   
+£   
+Current tax:
+UK corporation tax
+(
+495,935
+)
+-
+Tax on profit
+(
+495,935
+)
+-
+UK corporation tax has been charged at 
+25
+% . 
+Reconciliation of total tax credit included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+31.3.25
+31.3.24
+£   
+£   
+Profit before tax
+328,476
+42,636
+Profit multiplied by the standard rate of corporation tax in the UK of 
+25
+% 
+(2024 - 
+25
+%)  
+82,119
+10,659
+Effects of:
+Utilisation of tax losses
+(
+82,119
+)
+(
+10,659
+)
+Corporation tax refunds for prior years - R&D claim  
+(
+495,935
+)
+-
+Total tax credit
+(495,935
+)
+-
+7.
+DIVIDENDS
+31.3.25
+31.3.24
+£   
+£   
+Ordinary A shares of £1 each 
+Interim
+-
+15,600
+Ordinary B shares of £1 each 
+Interim
+128,000
+128,000
+128,000
+143,600
+Page 17
+continued...
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 March 2025
+8.
+TANGIBLE FIXED ASSETS
+Fixtures
+Freehold
+and
+Motor
+property
+fittings
+vehicles
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 April 2024
+100,000
+445,308
+188,496
+733,804
+Additions
+-
+17,337
+31,083
+48,420
+Disposals
+-
+-
+(
+23,400
+)
+(
+23,400
+)
+At 31 March 2025
+100,000
+462,645
+196,179
+758,824
+DEPRECIATION
+At 1 April 2024
+19,968
+370,286
+93,005
+483,259
+Charge for year 
+-
+22,993
+30,220
+53,213
+Eliminated on disposal
+-
+-
+(
+17,706
+)
+(
+17,706
+)
+At 31 March 2025
+19,968
+393,279
+105,519
+518,766
+NET BOOK VALUE
+At 31 March 2025
+80,032
+69,366
+90,660
+240,058
+At 31 March 2024
+80,032
+75,022
+95,491
+250,545
+The directors have not considered it necessary to formally value the freehold property and consider the valuation 
+to be fair, based on similar properties nearby. No depreciation is therefore provided in this year.
+9.
+STOCKS
+31.3.25
+31.3.24
+£   
+£   
+Stocks
+5,000
+5,000
+10.
+DEBTORS
+31.3.25
+31.3.24
+£   
+£   
+Amounts falling due within one year:
+Trade debtors
+27,311
+28,870
+Staff loans
+-
+947
+Tax
+650,643
+151,161
+VAT
+44,473
+-
+722,427
+180,978
+Amounts falling due after more than one year:
+Directors' loan accounts
+914,483
+776,332
+Aggregate amounts
+1,636,910
+957,310
+Page 18
+continued...
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 March 2025
+11.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+31.3.25
+31.3.24
+£   
+£   
+Trade creditors
+1,046,929
+3,239,137
+Tax
+3,547
+-
+Social security and other taxes 
+193,190
+187,017
+VAT
+-
+233,547
+Accrued expenses
+3,885,945
+4,913,460
+5,129,611
+8,573,161
+12.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+31.3.25
+31.3.24
+£   
+£   
+Amounts owed to group undertakings
+19,100
+19,100
+13.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows: 
+31.3.25
+31.3.24
+£   
+£   
+Within one year
+178,285
+124,949
+Between one and five years
+549,889
+296,648
+In more than five years
+95,903
+21,631
+824,077
+443,228
+14.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+31.3.25
+31.3.24
+value:
+£   
+£   
+10,000
+Ordinary A
+£1
+10,000
+10,000
+100
+Ordinary B
+£1
+100
+100
+10,100
+10,100
+15.
+RESERVES
+Retained
+earnings
+£   
+At 1 April 2024
+1,980,692
+Profit for the year 
+824,411
+Dividends
+(
+128,000
+)
+At 31 March 2025
+2,677,103
+16.
+ULTIMATE PARENT COMPANY
+The Fourway Group Limited 
+is regarded by the directors as being the company's ultimate parent company. 
+Page 19
+continued...
+FOURWAY COMMUNICATION LIMITED (REGISTERED NUMBER: 00714431)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 March 2025
+17.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to directors subsisted during the years ended 31 March 2025 and 
+31 March 2024: 
+31.3.25
+31.3.24
+£   
+£   
+L G C Snell
+Balance outstanding at start of year
+760,212
+440,474
+Amounts advanced
+163,091
+319,738
+Amounts repaid
+(
+24,400
+)
+-
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+898,903
+760,212
+C E Codrington
+Balance outstanding at start of year
+16,120
+16,720
+Amounts repaid
+(
+540
+)
+(
+600
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+15,580
+16,120
+The loans are unsecured and interest free.
+There is no specified date for their repayment.
+18.
+AUDITOR LIABILITY LIMITATION AGREEMENT
+On 29 May 2024 the company agreed a liability limitation agreement with the auditors, HBB Audit Limited. The 
+principal term of this agreement limits the liability of the auditors to ten times the annual audit fee or £100,000, 
+whichever is the greater amount.
+Page 20

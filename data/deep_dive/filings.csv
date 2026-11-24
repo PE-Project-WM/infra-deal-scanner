@@ -1,40 +1,92 @@
 CompanyNumber,CompanyName,filed,made_up_to,kind,format,document_url
-06011062,C.A. TELECOM UK LIMITED,2025-07-30,2024-12-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/BBrkPkTuLqo30RpklHsrAat7HPEuw2rLhhpA1fvFdvI/content
-06011062,C.A. TELECOM UK LIMITED,2024-12-03,2023-12-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/ZyypnLm05wrTqSPh-UzLtlNg-mtDnnjn--8ZGEPU7RA/content
-06011062,C.A. TELECOM UK LIMITED,2023-09-06,2022-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/1CbF_rT98nogrQcwtJfH4bXx7tKeinM333T2vp4prmQ/content
 03223673,A-2-SEA SOLUTIONS LIMITED,2026-06-17,2025-09-26,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/pR70XErLysHW2MqIG7U47AGiT5WvAaHFFLjtxFnb2Ak/content
 03223673,A-2-SEA SOLUTIONS LIMITED,2025-09-05,2024-09-27,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/_grvCc5SwALGJL-SEAvBLZTdAoCNQYkULISPEduZaYM/content
 03223673,A-2-SEA SOLUTIONS LIMITED,2024-06-30,2023-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/0vMlwOzTEollNjAkQ4gpLJU3_yxE7-WnhJDwxYY2TMA/content
-03513467,5G COMMUNICATIONS LIMITED,2026-06-23,2025-09-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/5znMo8cIw4NjRJ6Dp4x_7G9YRV_a9kJWTTIPAkn2I7k/content
-03513467,5G COMMUNICATIONS LIMITED,2025-07-03,2024-09-30,group,pdf,https://document-api.company-information.service.gov.uk/document/_M4Bz7VCeUz9ngyC2jGlKGPQr5eQGS20ABTIDuGNRC0/content
-03513467,5G COMMUNICATIONS LIMITED,2024-05-30,2023-09-30,group,pdf,https://document-api.company-information.service.gov.uk/document/6Oirzxlwp1c0TLU9cFUURhqaraaBJb56Xd-JNun14ZY/content
+03921568,WIFINITY LIMITED,2026-06-26,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/gyhaf393EVd-KyCr07dNMOZaOIpbWJ7H3R6tKQDhEbU/content
 13433533,VEA GROUP LIMITED,2026-06-30,2026-02-28,full,ixbrl,https://document-api.company-information.service.gov.uk/document/ysesccajg603FxTmSA32KKk7CpUbcqCEeH1ZhaGOKwc/content
-13433533,VEA GROUP LIMITED,2025-08-05,2025-02-28,full,ixbrl,https://document-api.company-information.service.gov.uk/document/y1KM5mjII-OgjBbrr4Smcw0c5B78UfN6B9ot9J0p2IU/content
-13433533,VEA GROUP LIMITED,2024-06-03,2024-02-29,small,ixbrl,https://document-api.company-information.service.gov.uk/document/EqXA2QE80hGEXFdkrPbGkCLY8coNJ4Epqbts5-mQf9I/content
+05412813,OPEN FIBRE NETWORKS LIMITED,2026-09-21,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/5n31wzQDvAbLpCEF5CAAJdCBhDyt1p2yDljJ3yn-ouA/content
+03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2026-11-03,2025-12-31,audit-exemption-subsiduary,pdf,https://document-api.company-information.service.gov.uk/document/IGrmpawAHhR5eKgVpzNEfRUDeTW_Mj5V3SCMEUvRMUs/content
+02150618,KCOM GROUP LIMITED,2026-04-10,2025-03-31,group,pdf,https://document-api.company-information.service.gov.uk/document/khRh6_VU7-e-eZIpg2QHnq-nruD0mclBnKKG2xksHgc/content
+02386327,NATIONAL GRID TELECOMS LIMITED,2025-11-07,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/BLA46ZCaOaXd-kLbKrIVZXRd8WuUO50H0aG-WgTQFkE/content
 SC492820,CLARUS NETWORKS LIMITED,2026-09-30,2025-12-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/5RHe7dKzxTSLJbfsQLiqdxKJSCu94sT0df3vFrNkmC0/content
-SC492820,CLARUS NETWORKS LIMITED,2025-09-10,2024-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/tRhFouvNekjXmNhxZA8Vq8VPSQobpt2gsbozFcB3w6E/content
-SC492820,CLARUS NETWORKS LIMITED,2024-09-27,2023-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/Hq3vdfMK2_39bWvNYi8a36nuCN0nStoNXhXUQRUcBM4/content
+04186486,BEACON COMMUNICATION SERVICES LIMITED,2025-12-27,2025-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/cZ0KtqRUvrgteGf8OZgs70jZWH-G1ZwHv8JBU9iWcNA/content
 03912906,ALERT COMMUNICATIONS LIMITED,2026-11-24,2026-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/MuzoZtDirUTczoP-QAeKaAZeKofTwIp_ssbkgsFTtM4/content
-03912906,ALERT COMMUNICATIONS LIMITED,2025-11-12,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/bYPqPPSGH78vFSq7qtF01QSKhhIxQMLOYZca5fnUNXA/content
-03912906,ALERT COMMUNICATIONS LIMITED,2024-11-12,2024-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/YoEQWknuTzB4OOw0WXTBkKEmhIjPjBVonNvZRQxZCaI/content
 07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2026-10-16,2026-03-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/i6PemwtLWRx1G0YqwoGzX51rNhXQSYdSGGm4m1dAbRo/content
-07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2025-07-30,2025-03-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/k-HzJzEmnfHjh0r92QimR7opF0I5tTxw8ZV2LASwtto/content
-07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2024-07-01,2024-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/eK4mM6qyUtWaOLZDGcOZAmRRetAnRWROKUfdKHaVjSM/content
 08414530,DSTNY GLOBAL SERVICES UK LTD,2026-10-13,2025-12-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/Npg-_342-23mdqOimnTHXA4-s9z3WCLW-BQGeJTaCr8/content
-08414530,DSTNY GLOBAL SERVICES UK LTD,2025-07-22,2024-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/-_Dz--dde-0ceiKvY1QNMhM5a1idhJijykv5RHQMioA/content
-08414530,DSTNY GLOBAL SERVICES UK LTD,2024-09-13,2023-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/V-wXI9MP-I5hAEL9oRHymMm_twPJgb5frUvVGgtXoEM/content
+07413288,COMMUNITY FIBRE LIMITED,2026-07-06,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/SCWPphPK2Iu07x0vjhxILBPqKxTWJF9d0waM8h__mi8/content
+10902222,THE BADGER GROUP LIMITED,2026-02-05,2025-09-30,group,pdf,https://document-api.company-information.service.gov.uk/document/UZbO85TO6lOHKXsIX7cyhQlLWhLry_OgULwMKrOaicU/content
 02853596,MAP GROUP (UK) LIMITED,2026-06-26,2025-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/chObhtX5e0OvTDkWWQVN0yWNV8Exnpl-e3ASj7xutlw/content
-02853596,MAP GROUP (UK) LIMITED,2025-06-27,2024-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/vGbzIPAgLji85YYhTqeQpRFgysQ1LaXZHZ6YieA2R_o/content
-02853596,MAP GROUP (UK) LIMITED,2024-06-26,2023-09-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/5RfoS71BeWYmE8SEj8IklQ-5YWViDGxWyZ0fVeC4Vtc/content
+09228224,REDWOOD TECHNOLOGIES GROUP LTD,2026-05-13,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/7QlFaJRmcZW39ZSrjjev9khVF03juBeV-KwqB_E2pjo/content
+03368473,WINGNUT UTILITIES LIMITED,2025-12-17,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/C58oxFvdr4KXuNzf2sXpzwy5Lmjq_neheUqngDwUTis/content
+01708481,GLOBAL MARINE SYSTEMS LIMITED,2026-09-14,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/voV5sQC2JFQEPtM7Q6JEC59bV1VKhiHyYWrFpqlxohU/content
+02578478,X-ON HEALTH LIMITED,2025-12-21,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/sYrTedkm339QAZ_Z7JN9CjaE4RDefwy2g4Qq-8JFCFo/content
+08709631,NETWORK PLANNING SOLUTIONS LTD.,2026-10-29,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/PEMDmthQpb2Jetq52Csim6XB-ZeheImTndc4b9CioYg/content
+06391276,CENTERCOMMS LIMITED,2026-04-18,2025-05-31,full,pdf,https://document-api.company-information.service.gov.uk/document/-XdOc-fhqLgNkQw89c-CdwogUFOZCXXmx4WwuI9Tr5Y/content
 05208041,SATCOM GLOBAL LIMITED,2025-03-13,2024-06-29,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/oH3a4yNB8gqV6M9P0B8E3rTbe_1KYZy658ON4VvxTYk/content
-05208041,SATCOM GLOBAL LIMITED,2024-11-07,2023-06-29,full,ixbrl,https://document-api.company-information.service.gov.uk/document/XB2UkXFCgJAHaPuMzfLS7AZ9mSxjbtkSJBtI6W0o0lM/content
-05208041,SATCOM GLOBAL LIMITED,2024-01-18,2022-06-29,full,pdf,https://document-api.company-information.service.gov.uk/document/4LSpcI4ew0DvWGmY97xZJB2Sh8aIxIp_HGIkpBsTvns/content
+07974624,TELA TECHNOLOGY LIMITED,2026-02-20,2025-05-31,full,pdf,https://document-api.company-information.service.gov.uk/document/tKLt1Wvj8f9vFEAv7TW6EUIsK_AQPeOaHz6FTKuC6Xg/content
+08322856,REDCENTRIC SOLUTIONS LIMITED,2026-04-02,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/ROXI7wJe5P-xgpXaa_lhdx_aK7HQOmM2ppba16mq6mw/content
+03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2025-12-23,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/_t5YYOrFDRB-0SdvjCxTO1iGaTYa5wh53wuyzkHb5hs/content
 NI624500,BARCLAY DIGITAL SERVICES LTD,2025-09-12,2025-05-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/dIbZmRuarz7cUbX1XW-f917bmPbnmW1GWL2y-Wx82HY/content
-NI624500,BARCLAY DIGITAL SERVICES LTD,2024-11-29,2024-05-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/f4eurIam6EifE3_5gO2M7A6NxcvAWM93Eqta7ViNPrE/content
-NI624500,BARCLAY DIGITAL SERVICES LTD,2024-02-26,2023-05-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/imXnZJh4pYyGYHaWjivYdfFTTAIoowRaeBu37mHlals/content
+06968249,NATTERBOX LIMITED,2026-10-06,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/0y7bpYnGq0uEd0NMjYavj_zZlg9g_FutUExVdJkDoL8/content
+08043921,AERIAL DIRECT LIMITED,2026-05-17,2025-09-30,full,pdf,https://document-api.company-information.service.gov.uk/document/hwCH8KhN-hnMeCVzYvFjNF8HoF-w_ueJBoYpiTy6qvQ/content
+10174559,NANO FIBRE UK LIMITED,2026-10-15,2026-05-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/to5noLd5vTaDRxWA-EclosFRt8ZOpBwKMTl6YP2YrVk/content
 11480193,RAPID RESPONSE TELECOMS LTD,2026-07-24,2025-07-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/HR-cmd90ZPWn9SQ4T3h1mMgj7cTnk1npuRP6A99Qz8A/content
-11480193,RAPID RESPONSE TELECOMS LTD,2025-06-19,2024-07-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/Las_itk8A3ANpSCDd4N77m26fnat3B6z9JxhOgTR7Js/content
-11480193,RAPID RESPONSE TELECOMS LTD,2024-04-30,2023-07-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/3abyLp8DQBUJk3HSRm071oiFb95HYFc7uPK58GtN-hA/content
+04213760,BABBLE CLOUD LIMITED,2026-06-30,2025-11-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/dg5BYa_nhbzk4gxGs4byMbpBxmMnvs-iphyFTKEoxd4/content
+03752620,WINDSOR TELECOM LIMITED,2026-08-17,2025-07-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/X_vzjZ_VaWHhH5yApmBmKlBkxmPrZw9XE9q6v3YI8pU/content
 09956206,HENEGHAN HOLDINGS LIMITED,2025-11-05,2025-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/byR5CKjI7A0v0oARR3A2NZ8V2suf4gHFVGAj8_DCd3U/content
-09956206,HENEGHAN HOLDINGS LIMITED,2025-01-31,2024-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/VSzq5p_bU9813VKo4TTvy_KnIgF3u9DxdfoeUyIhVSc/content
-09956206,HENEGHAN HOLDINGS LIMITED,2024-01-30,2023-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/I1BdLycYq5ak0Q-QHjObf03cxOg0bgpiFZhUQY1LdVw/content
+09585068,CROFT COMMUNICATIONS LIMITED,2026-03-30,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/GfeT4YSfbRSMLVflMLAKOBXDPKHc-8ddpojlaJkHxlo/content
+02557464,CONNECT MANAGED SERVICES (UK) LIMITED,2026-05-16,2025-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/8J_2w96qEM0XtZGYNjzn0NtjM6UBG5WbGHGPbBFyQDE/content
+NI620995,GCU (UK) LIMITED,2026-11-11,2025-10-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/Bgveo0CSUAbUzZDAXZmtIDLR9JaCR2mZSi2s-exb64g/content
+12421328,NETS INTERNATIONAL LIMITED,2026-07-09,2025-06-30,full,pdf,https://document-api.company-information.service.gov.uk/document/NvAtxt-682H3-P5Qri89mGwkZyyeJhm4U52tjXuJGSk/content
+06011062,C.A. TELECOM UK LIMITED,2025-07-30,2024-12-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/BBrkPkTuLqo30RpklHsrAat7HPEuw2rLhhpA1fvFdvI/content
+03513467,5G COMMUNICATIONS LIMITED,2026-06-23,2025-09-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/5znMo8cIw4NjRJ6Dp4x_7G9YRV_a9kJWTTIPAkn2I7k/content
+06797181,BISTECH GROUP PLC,2026-01-28,2025-07-31,group,pdf,https://document-api.company-information.service.gov.uk/document/ck2ocsMefzy0bjRbS_P9T-8PchrHQ_NIn2kXBzUJc04/content
+02763306,JOHN HENRY GROUP LIMITED,2026-11-06,2026-01-31,full,pdf,https://document-api.company-information.service.gov.uk/document/mLUZBis6rYahpc8zKkpsnmpAO03DxzibsDdijF0Kq94/content
+08682562,ARQIVA SMART METERING LIMITED,2025-12-18,2025-06-30,full,pdf,https://document-api.company-information.service.gov.uk/document/mKAOKLz8z0D0g7We9bp8GIWAZkRbS5hHdhjUI3VyIqU/content
+04544886,RADIOCOMS SYSTEMS LIMITED,2026-02-24,2025-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/_cyFg0VXANZpdOdIhP9aNDdNO1fIJBqpPRA030Csnhc/content
+05240202,GROUND CONTROL TECHNOLOGIES UK LTD,2026-06-25,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/e0Dsjwi6UhZ6-dcTWIvg7xeOOiIBfFum-PBMJ54kE8Q/content
+02338401,NG BAILEY IT SERVICES LIMITED,2026-07-14,2026-02-27,full,pdf,https://document-api.company-information.service.gov.uk/document/5ohmBRX47OOib8m3cVy0iKPugJM78svyV5ctspcEjqc/content
+06472696,4COM NETWORK SERVICES LIMITED,2026-04-12,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/xY0GZYkK5df724CtCFclU80dGYWe2-m2J5jTZA306tY/content
+05448638,4NET TECHNOLOGIES LTD,2026-05-26,2025-06-30,full,pdf,https://document-api.company-information.service.gov.uk/document/t3yXgWAbtQTg7wU4mveNzHhLHkft270zB_C3T5KtaC4/content
+04085164,FLR SPECTRON LIMITED,2026-02-03,2025-05-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/tZ2EJn6OMD23bhbWau-NFiZw3Pz5_5tZ7mKSak6xEAU/content
+NI612801,OCU NETTWORX LIMITED,2026-01-28,2025-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/DqRti-PYbSKoT7eIQ8Vf7_Mkn3bk_LbXNdJuAGO1oRQ/content
+04145329,DAISY COMMUNICATIONS LTD.,2026-03-20,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/dpt6VDAcudo9IzNiBO6oQr-8H4BqOCk5bfNyXK-J_Bc/content
+04031272,ONECOM LIMITED,2026-09-24,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/dSKNeE9C5mWmsPsF6uiZsUJ6aGaJ8CYK-itSL-qYcTM/content
+08235914,DATALEC POWER INSTALLATIONS LIMITED,2025-08-05,2024-10-31,group,pdf,https://document-api.company-information.service.gov.uk/document/D9rbADil0aFjsVtUVbcCwED7Q1kt_F-ZhSimEL9lo6c/content
+05954905,NATILIK LIMITED,2025-12-31,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/9g3Dldoq8IsbodphvUnlMe4Xr4F7KaHOVpCTJ08An_k/content
+02797895,CHESS LIMITED,2026-01-29,2025-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/biybTw00Ae0Qpfk5HEiOFrOyOYXrWPoimQ3v-chks3M/content
+03228824,ELITETELE.COM LIMITED,2026-01-29,2025-07-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/clJeT64dCtHbM9fW81CehC878wXFVvrQcExjNE-E-58/content
+05217343,NORTH PB LIMITED,2026-02-02,2025-04-29,full,pdf,https://document-api.company-information.service.gov.uk/document/sS6qoDWsHrWo_FU7BFQJg6fWfTx-xdXn-dufWYh-G7U/content
+03101568,ZEN INTERNET LIMITED,2026-04-22,2025-09-30,full,pdf,https://document-api.company-information.service.gov.uk/document/1HEVFhhOokftdZr0pk3O3FnF-AfFgwJvL2leaalSdtc/content
+10021562,GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED,2025-12-30,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/Xq98j6O02tAUur3WEGDm5ajyNrMYpS2Auq81s8MmbOM/content
+04210561,I.P. INTEGRATION LIMITED,2026-06-30,2025-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/AZGlTUebmIO3rwDgeVpxR2E4VLwTMyTzH_yAe9dOsDg/content
+02296733,VANCO UK LIMITED,2026-01-02,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/qIY1PyFl77GdKi6L1X8etvscJWX4SjeRI5jopTZs6EY/content
+04560277,PAGEONE COMMUNICATIONS LIMITED,2026-06-23,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/ViTqwfNBuiOspgr_XdyBNJXhiN9zLbIjS2OQ45xEpLI/content
+02804354,CHARTERHOUSE VOICE & DATA LIMITED,2026-04-11,2025-03-31,group,pdf,https://document-api.company-information.service.gov.uk/document/S_QQg4KvgFd5wfmOG4naBlXjB3Cgvtk1oVgdMAy-GLo/content
+02665837,MAINTEL EUROPE LIMITED,2026-07-20,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/vEWHr2EUdjUq90Jmv_Xaj8lNfyG8Tw_CJOfaKruMqWc/content
+SC211701,PELION IOT LIMITED,2025-12-22,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/o-GqFxEIgP_oAoAvEQR9Ira8DlaU2_7c7zVWxy0Gi2o/content
+10779280,ABZORB GROUP LTD,2026-07-17,2025-10-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/LMcX853vvl70-pgutH9VLAaFprY4Dw0ZM19yxqiEGvo/content
+04380546,VCG TECHNOLOGY SERVICES LIMITED,2025-12-11,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/KMfTm7PCC1vcpaFFeSpKJ6sKjuVRt5pj7OJDL81-vz0/content
+02652955,BDR VOICE & DATA SOLUTIONS LTD,2026-06-19,2025-12-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/Ola3QyOPgiv8jHlqxaFl0f16jl0GaWV9NUOcYlvZ5X0/content
+07020016,LILY COMMUNICATIONS LTD.,2026-07-15,2025-09-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/gxtnJ9684rGTdLd3cAsTZr1PB1Zr6j-C6ew4QJabwsw/content
+05238375,INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED,2026-02-16,2025-05-31,full,pdf,https://document-api.company-information.service.gov.uk/document/hmUI88Kr7JT_ffUZeIWaiJkOakdQjKxJpjQFiPh4nJ8/content
+01763970,AVOIRA LIMITED,2026-08-27,2025-12-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/RFwybqIJ5HN4tpQSZ2E70UCn3yTbivDzymNauaT_r1E/content
+SC646446,HIGHLANDS BIDCO LIMITED,2026-07-30,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/9V4rZRppyW5KbDIehWXp0AyaC4qGTlRynbYEiDoPEks/content
+04632756,TELAPPLIANT LIMITED,2026-09-23,2025-12-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/TDkhCV2qMWGXHM-2shTyX_I4rtLGVrgxAJTfGzbaYm0/content
+03193093,FERNS SURFACING LIMITED,2026-02-26,2025-05-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/m1YA8rPzgyQuFzuMMsOPf-bw2E-Jh80z8m31-DjY58k/content
+03958887,AVANTI BROADBAND LIMITED,2026-07-24,2024-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/ESPxZWumVO4JYUKb5qqOBu3YPUK6gFX5iPzf3ic8T-Q/content
+03868503,MEDHURST COMMUNICATIONS LIMITED,2026-07-30,2025-10-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/UPCX9F2xbkNzhRZF7lIPsO6WICmNL-qQW1e-l0Y3VTQ/content
+02946493,CORPORATE DIRECT (EUROPE) LTD,2026-09-04,2025-12-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/_MS8G2mYeZzehkRJyvjZRpbx7FHXK_MyiB8J_-9ac60/content
+06521296,RIDOWN CAPITAL LIMITED,2026-09-28,2025-12-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/j4xqahggZukXJRHvjIUJBf6irRPzJK5IzUstBe2fBMg/content
+05316540,AVANTI SPACE LIMITED,2026-07-24,2024-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/Fg41gdjnrlCxJ48gCNQQ6A4xKj_baLa4e_vUfaseaXE/content
+01938625,INTERCITY TECHNOLOGY LIMITED,2026-10-08,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/w4GvYku64W0-3YXdQHxhywAYl95IDJEWcNs0rvdSVW0/content
+14354114,TALK STRAIGHT HOLDINGS LIMITED,2026-02-26,2025-05-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/J6vBQcOC3mzXUHI9t5a9Ur12f8x2YraSRi_eopcWu8c/content
+09180490,ICE TELECOMMUNICATIONS LTD,2025-08-13,2024-12-30,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/MYPqjwQlAKgNh41kloiaVMqXvt2H_4SUxPJ2aRmDR74/content
+00714431,FOURWAY COMMUNICATION LIMITED,2025-12-15,2025-03-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/f1jvI2W6yfAeP3hjR5sS7ihRsnEL6uV_guQuPfgZUa8/content
+NI614374,M & M CONTRACTORS (EUROPE) LTD,2026-02-17,2024-10-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/AHoqzK6SoIuaLuIJGnVSHEc3Rt4ol6m7ab7pt66zywI/content
+03880663,WIRELESS LOGIC LIMITED,2025-12-21,2025-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/VfBy_pPJQH8RVaxPzXbrKp_6lA898Gfrnvfwc1kbkZE/content
+02893478,TELIGENT LIMITED,2026-08-20,2025-12-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/SoVDViofbzMAy-RJ3a-3qfSq_3FeJCkJl_pwy0p6Rhg/content
+05942331,YORK TELECOM LIMITED,2026-06-21,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/akAOzUvLvYDbZ-majgqAeDdtpeTJKpHSJvo6RtvMW6w/content
+04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,2026-01-29,2025-07-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/k6fWxQ4dVIFlGd_lLEg14UZ2YABgTVctgLo8HOgd3q8/content
+12520403,OPUS TECH LIMITED,2026-02-10,2025-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/mYF6u_PnNgg9Y45VKuOvXsLehwCzBeswX_kJ7az5hQs/content
+02697046,ERH COMMUNICATIONS LIMITED,2026-02-25,2025-05-31,medium,pdf,https://document-api.company-information.service.gov.uk/document/wZA05zqUbf2jC4hcJsGTTQFz22MLPiRW_Z_YuEBxXuU/content
