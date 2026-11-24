@@ -129,9 +129,11 @@ def confidence(r):
     if not r['numbers_ok']:
         return 'Low', 'numbers flagged'
     src = str(r['figures_source'])
-    checked = src.startswith('OCR') and r['CompanyNumber'] in OCR_CHECKED
-    c = 1.0 if src == 'Tagged' else 0.6 if checked else 0.5 if ('£000s' in src or src.startswith('OCR')) else 0.6
-    reasons = ([] if src == 'Tagged' else ['OCR figures checked against the filing'] if checked
+    checked = src != 'Tagged' and r['CompanyNumber'] in OCR_CHECKED
+    c = (1.0 if src == 'Tagged' else (0.6 if src.startswith('OCR') else 0.7) if checked
+         else 0.5 if ('£000s' in src or src.startswith('OCR')) else 0.6)
+    reasons = ([] if src == 'Tagged' else ['OCR figures checked against the filing'] if checked and src.startswith('OCR')
+               else ['figures checked against the filing'] if checked
                else ['figures read by OCR from scanned accounts'] if src.startswith('OCR') else ['figures read from the accounts text'])
     if str(r['ebitda_basis']).startswith('ESTIMATE'):
         c -= 0.2

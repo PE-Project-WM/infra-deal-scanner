@@ -1,0 +1,55 @@
+CompanyNumber,CompanyName,accounts_filed,field,value,note
+03880663,WIRELESS LOGIC LIMITED,2025-12-21,operating_profit,-100612000,Operating loss after £111.9m exceptional costs; OCR dropped the brackets
+03880663,WIRELESS LOGIC LIMITED,2025-12-21,ebitda,18294000,"Company EBITDA before exceptional costs (P&L, FY Apr 2025)"
+03880663,WIRELESS LOGIC LIMITED,2025-12-21,ebitda_basis,Company EBITDA before exceptional costs (checked against the filing),
+02665837,MAINTEL EUROPE LIMITED,2026-07-20,operating_profit,1157000,"OCR read 4,187; the P&L lines add up to 1,157 and profit before tax is 886 after 271 interest"
+02665837,MAINTEL EUROPE LIMITED,2026-07-20,ebitda,5063000,"Operating profit 1,157 + intangible amortisation 3,906 (depreciation not found, so slightly understated)"
+02665837,MAINTEL EUROPE LIMITED,2026-07-20,ebitda_basis,Operating profit + amortisation (checked against the filing),
+04145329,DAISY COMMUNICATIONS LTD.,2026-03-20,ebitda,48152000,"Operating profit 38,952 + amortisation 8.4m + depreciation 0.8m (strategic report); OCR took a £50k line as D&A"
+04145329,DAISY COMMUNICATIONS LTD.,2026-03-20,ebitda_basis,Operating profit + D&A (checked against the filing),
+02557464,CONNECT MANAGED SERVICES (UK) LIMITED,2026-05-16,ebitda,6007000,"Operating profit 2,478 + amortisation 832 + depreciation 209 + impairment 2,488 (EBITDA reconciliation); company adjusted EBITDA 7,142 also adds back exceptionals"
+02557464,CONNECT MANAGED SERVICES (UK) LIMITED,2026-05-16,ebitda_basis,Operating profit + D&A and impairment (checked against the filing),
+03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2025-12-23,profit_before_tax,2796678,"OCR read 2,196,678; operating profit 2,812,395 less 15,717 finance costs"
+03912906,ALERT COMMUNICATIONS LIMITED,2026-11-24,ebitda,5404507,"Operating profit + depreciation of tangible assets 1,963,083 (operating profit note)"
+03912906,ALERT COMMUNICATIONS LIMITED,2026-11-24,ebitda_basis,Operating profit + D&A (checked against the filing),
+05208041,SATCOM GLOBAL LIMITED,2025-03-13,ebitda,6272286,"Operating profit + depreciation 271,484 + amortisation 1,004,321 (US dollars) (operating profit note)"
+05208041,SATCOM GLOBAL LIMITED,2025-03-13,ebitda_basis,Operating profit + D&A (checked against the filing),
+04213760,BABBLE CLOUD LIMITED,2026-06-30,ebitda,7653000,Operating profit + depreciation of tangible assets 540k (amortisation not found) (operating profit note)
+04213760,BABBLE CLOUD LIMITED,2026-06-30,ebitda_basis,Operating profit + D&A (checked against the filing),
+03752620,WINDSOR TELECOM LIMITED,2026-08-17,ebitda,2727403,"Operating profit + amortisation 599,893 + depreciation 60,218 (operating profit note)"
+03752620,WINDSOR TELECOM LIMITED,2026-08-17,ebitda_basis,Operating profit + D&A (checked against the filing),
+09956206,HENEGHAN HOLDINGS LIMITED,2025-11-05,ebitda,17939797,"Operating profit + depreciation of owned assets 645,066 + finance-lease assets 60,300 (operating profit note)"
+09956206,HENEGHAN HOLDINGS LIMITED,2025-11-05,ebitda_basis,Operating profit + D&A (checked against the filing),
+09585068,CROFT COMMUNICATIONS LIMITED,2026-03-30,ebitda,2220943,"Operating profit + depreciation 82,335 + amortisation 17,110 (operating profit note)"
+09585068,CROFT COMMUNICATIONS LIMITED,2026-03-30,ebitda_basis,Operating profit + D&A (checked against the filing),
+03513467,5G COMMUNICATIONS LIMITED,2026-06-23,ebitda,3659469,"Operating profit + depreciation 461,186 + amortisation 715,218 (operating profit note)"
+03513467,5G COMMUNICATIONS LIMITED,2026-06-23,ebitda_basis,Operating profit + D&A (checked against the filing),
+02797895,CHESS LIMITED,2026-01-29,ebitda,5489000,"Operating profit + amortisation 2,254k + depreciation 93k (operating profit note)"
+02797895,CHESS LIMITED,2026-01-29,ebitda_basis,Operating profit + D&A (checked against the filing),
+03228824,ELITETELE.COM LIMITED,2026-01-29,ebitda,2677414,"Operating profit + depreciation 37,352 + amortisation 1,300,506 (operating profit note)"
+03228824,ELITETELE.COM LIMITED,2026-01-29,ebitda_basis,Operating profit + D&A (checked against the filing),
+04210561,I.P. INTEGRATION LIMITED,2026-06-30,ebitda,3364747,"Operating profit + depreciation and amortisation 913,163 (cash flow) (operating profit note)"
+04210561,I.P. INTEGRATION LIMITED,2026-06-30,ebitda_basis,Operating profit + D&A (checked against the filing),
+10779280,ABZORB GROUP LTD,2026-07-17,ebitda,2401226,"Operating profit + depreciation 76,547 + amortisation 1,342,123 (operating profit note)"
+10779280,ABZORB GROUP LTD,2026-07-17,ebitda_basis,Operating profit + D&A (checked against the filing),
+02652955,BDR VOICE & DATA SOLUTIONS LTD,2026-06-19,ebitda,377399,"Operating profit + depreciation 111,030 + amortisation 142,187 (operating profit note)"
+02652955,BDR VOICE & DATA SOLUTIONS LTD,2026-06-19,ebitda_basis,Operating profit + D&A (checked against the filing),
+07020016,LILY COMMUNICATIONS LTD.,2026-07-15,ebitda,1124277,"Operating profit + depreciation 18,609 + amortisation 391,289 (operating profit note)"
+07020016,LILY COMMUNICATIONS LTD.,2026-07-15,ebitda_basis,Operating profit + D&A (checked against the filing),
+04632756,TELAPPLIANT LIMITED,2026-09-23,ebitda,1520142,"Operating profit + depreciation 110,982 + amortisation 717,311 (operating profit note)"
+04632756,TELAPPLIANT LIMITED,2026-09-23,ebitda_basis,Operating profit + D&A (checked against the filing),
+03193093,FERNS SURFACING LIMITED,2026-02-26,ebitda,6005453,"Operating profit + depreciation of owned assets 970,672 + finance-lease assets 3,069,257 (operating profit note)"
+03193093,FERNS SURFACING LIMITED,2026-02-26,ebitda_basis,Operating profit + D&A (checked against the filing),
+03868503,MEDHURST COMMUNICATIONS LIMITED,2026-07-30,ebitda,914325,"Operating profit + depreciation 158,929 + amortisation 58,946 (operating profit note)"
+03868503,MEDHURST COMMUNICATIONS LIMITED,2026-07-30,ebitda_basis,Operating profit + D&A (checked against the filing),
+06521296,RIDOWN CAPITAL LIMITED,2026-09-28,ebitda,1131214,"Operating profit + amortisation 455,879 + depreciation 89,349 (operating profit note)"
+06521296,RIDOWN CAPITAL LIMITED,2026-09-28,ebitda_basis,Operating profit + D&A (checked against the filing),
+14354114,TALK STRAIGHT HOLDINGS LIMITED,2026-02-26,ebitda,628206,"Operating profit + depreciation 252,295 + amortisation 362,002 (operating profit note)"
+14354114,TALK STRAIGHT HOLDINGS LIMITED,2026-02-26,ebitda_basis,Operating profit + D&A (checked against the filing),
+04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,2026-01-29,ebitda,1506241,"Operating profit + depreciation 74,453 + finance-lease 31,025 + amortisation 1,313,471 (operating profit note)"
+04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,2026-01-29,ebitda_basis,Operating profit + D&A (checked against the filing),
+12520403,OPUS TECH LIMITED,2026-02-10,operating_profit,2538049,"Read as £000s by mistake; the P&L is in pounds (£2,538,049)"
+12520403,OPUS TECH LIMITED,2026-02-10,ebitda,2839316,"Operating profit + depreciation 144,960 + finance-lease 23,031 + amortisation 133,276 (operating profit note)"
+12520403,OPUS TECH LIMITED,2026-02-10,ebitda_basis,Operating profit + D&A (checked against the filing),
+NI620995,GCU (UK) LIMITED,2026-11-11,ebitda,5642685,"Operating profit + depreciation of owned assets 602,033 (operating profit note)"
+NI620995,GCU (UK) LIMITED,2026-11-11,ebitda_basis,Operating profit + D&A (checked against the filing),

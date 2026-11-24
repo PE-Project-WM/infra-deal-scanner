@@ -1,0 +1,3363 @@
+
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+2025-04-30
+2025-04-30
+2025-04-30
+true
+0
+2024-05-01
+false
+0
+false
+false
+false
+02797895
+2024-05-01
+2025-04-30
+02797895
+2023-05-01
+2024-04-30
+02797895
+2025-04-30
+02797895
+2024-04-30
+02797895
+2023-05-01
+02797895
+1
+2024-05-01
+2025-04-30
+02797895
+d:CompanySecretary1
+2024-05-01
+2025-04-30
+02797895
+d:Director1
+2024-05-01
+2025-04-30
+02797895
+d:Director2
+2024-05-01
+2025-04-30
+02797895
+d:Director3
+2024-05-01
+2025-04-30
+02797895
+d:Director4
+2024-05-01
+2025-04-30
+02797895
+d:Director6
+2024-05-01
+2025-04-30
+02797895
+d:Director8
+2024-05-01
+2025-04-30
+02797895
+d:RegisteredOffice
+2024-05-01
+2025-04-30
+02797895
+d:Agent1
+2024-05-01
+2025-04-30
+02797895
+c:MotorVehicles
+2024-05-01
+2025-04-30
+02797895
+c:OfficeEquipment
+2024-05-01
+2025-04-30
+02797895
+c:ComputerEquipment
+2024-05-01
+2025-04-30
+02797895
+c:CurrentFinancialInstruments
+2025-04-30
+02797895
+c:CurrentFinancialInstruments
+2024-04-30
+02797895
+c:CurrentFinancialInstruments
+1
+2025-04-30
+02797895
+c:CurrentFinancialInstruments
+1
+2024-04-30
+02797895
+c:Non-currentFinancialInstruments
+2025-04-30
+02797895
+c:Non-currentFinancialInstruments
+2024-04-30
+02797895
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2025-04-30
+02797895
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2024-04-30
+02797895
+c:Non-currentFinancialInstruments
+c:AfterOneYear
+2025-04-30
+02797895
+c:Non-currentFinancialInstruments
+c:AfterOneYear
+2024-04-30
+02797895
+c:Non-currentFinancialInstruments
+c:BetweenOneTwoYears
+2025-04-30
+02797895
+c:Non-currentFinancialInstruments
+c:BetweenOneTwoYears
+2024-04-30
+02797895
+c:ShareCapital
+2025-04-30
+02797895
+c:ShareCapital
+2024-04-30
+02797895
+c:ShareCapital
+2023-05-01
+02797895
+c:SharePremium
+2024-05-01
+2025-04-30
+02797895
+c:SharePremium
+2025-04-30
+02797895
+c:SharePremium
+2024-04-30
+02797895
+c:SharePremium
+2023-05-01
+02797895
+c:CapitalRedemptionReserve
+2024-05-01
+2025-04-30
+02797895
+c:CapitalRedemptionReserve
+2025-04-30
+02797895
+c:CapitalRedemptionReserve
+2024-04-30
+02797895
+c:CapitalRedemptionReserve
+2023-05-01
+02797895
+c:ForeignCurrencyTranslationReserve
+2025-04-30
+02797895
+c:ForeignCurrencyTranslationReserve
+2024-04-30
+02797895
+c:ForeignCurrencyTranslationReserve
+2023-05-01
+02797895
+c:RetainedEarningsAccumulatedLosses
+2024-05-01
+2025-04-30
+02797895
+c:RetainedEarningsAccumulatedLosses
+2025-04-30
+02797895
+c:RetainedEarningsAccumulatedLosses
+2023-05-01
+2024-04-30
+02797895
+c:RetainedEarningsAccumulatedLosses
+2024-04-30
+02797895
+c:RetainedEarningsAccumulatedLosses
+2023-05-01
+02797895
+c:FinancialAssetsDesignatedFairValueThroughProfitOrLoss
+2025-04-30
+02797895
+c:FinancialAssetsDesignatedFairValueThroughProfitOrLoss
+2024-04-30
+02797895
+c:FinancialLiabilitiesFairValueThroughProfitOrLoss
+c:ListedExchangeTraded
+2025-04-30
+02797895
+c:FinancialLiabilitiesFairValueThroughProfitOrLoss
+c:ListedExchangeTraded
+2024-04-30
+02797895
+c:FinancialLiabilitiesFairValueThroughProfitOrLoss
+c:UnlistedNon-exchangeTraded
+2025-04-30
+02797895
+c:FinancialLiabilitiesFairValueThroughProfitOrLoss
+c:UnlistedNon-exchangeTraded
+2024-04-30
+02797895
+d:OrdinaryShareClass1
+2024-05-01
+2025-04-30
+02797895
+d:OrdinaryShareClass1
+2025-04-30
+02797895
+d:OrdinaryShareClass3
+2024-05-01
+2025-04-30
+02797895
+d:OrdinaryShareClass3
+2025-04-30
+02797895
+d:FRS102
+2024-05-01
+2025-04-30
+02797895
+d:Audited
+2024-05-01
+2025-04-30
+02797895
+d:FullAccounts
+2024-05-01
+2025-04-30
+02797895
+d:PrivateLimitedCompanyLtd
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary1
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary3
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary3
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary4
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary4
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary8
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary8
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary12
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary12
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary13
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary13
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary15
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary15
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary17
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary17
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary19
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary19
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary20
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary20
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary23
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary23
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary24
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary24
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary26
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary26
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary28
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary28
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary29
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary29
+1
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary30
+2024-05-01
+2025-04-30
+02797895
+c:Subsidiary30
+1
+2024-05-01
+2025-04-30
+02797895
+d:Consolidated
+2025-04-30
+02797895
+d:ConsolidatedGroupCompanyAccounts
+2024-05-01
+2025-04-30
+02797895
+2
+2024-05-01
+2025-04-30
+02797895
+4
+2024-05-01
+2025-04-30
+02797895
+6
+2024-05-01
+2025-04-30
+02797895
+c:SpecificBusinessCombination1
+2024-05-01
+2025-04-30
+02797895
+c:SpecificBusinessCombination1
+2025-04-30
+02797895
+c:SpecificBusinessCombination1
+5
+2025-04-30
+02797895
+c:SpecificBusinessCombination1
+c:CurrentFinancialInstruments
+2025-04-30
+02797895
+f:PoundSterling
+2024-05-01
+2025-04-30
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+02797895
+CHESS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+30 APRIL 2025
+CHESS LIMITED
+COMPANY INFORMATION
+Directors
+J R M Btesh
+S D M Dracup
+R J W Hemming
+J E Hughes
+C D Pollock
+W A Pryer
+Company secretary
+T B Velarde-Pollock
+Registered number
+02797895
+Registered office
+Bridgford House
+Heyes Lane
+Alderley Edge
+Cheshire
+SK9 7JP
+Independent auditor
+S&W Audit Limited
+Chartered Accountants
+ & 
+Statutory Auditor
+103 Colmore Row
+Birmingham
+B3 3AG
+Bankers
+Barclays Bank Plc
+1st Floor
+3 Hardman Street
+Spinningfields
+Manchester
+M3 3HF
+CHESS LIMITED
+CONTENTS
+Page
+Chairman's Statement
+1 - 2
+Group Strategic Report
+3 - 8
+Directors' Report
+9 - 11
+Directors' Responsibilities Statement
+12
+Independent Auditor's Report
+13 - 16
+Consolidated Statement of Comprehensive Income
+17
+Consolidated Balance Sheet
+18 - 19
+Company Balance Sheet
+20 - 21
+Consolidated Statement of Changes in Equity
+22
+Company Statement of Changes in Equity
+23
+Consolidated Statement of Cash Flows
+24 - 25
+Consolidated Analysis of Net Debt
+26
+Notes to the Financial Statements
+27 - 61
+CHESS LIMITED
+CHAIRMAN'S STATEMENT
+FOR THE YEAR ENDED 30 APRIL 2025
+I am pleased to present our results for the year ended 30 April 2025 ('FY25').
+Financial highlight
+s
+The key financial performance indicators of the Company during the year are shown in the table below.
+2025
+2024
+£'000
+£'000
+Turnover
+46,018
+49,334
+Gross profit
+21,976
+23,098
+Gross profit %
+47.8%
+46.8%
+Adjusted EBITDA
+6,229
+8,215
+Adjusted EBITDA (as a % of turnover)
+13.5%
+16.7%
+Adjusted operating profit
+3,142
+4,578
+Cash generated from operating activities
+3,193
+4,762
+Senior debt
+15,027
+15,492
+Net debt
+8,617
+7,514
+Business review 
+Our priority continues to be working with our customers and partners to transition their business with modern secure technology workplace solutions. 
+Our acquisitions in FY25 have proved successful and are making strong contributions to gross profit in both cases. We continue to maintain a strong acquisition pipeline with further acquisitions expected to complete in 2026.
+We maintain a strong relationship with our associated Cybersecurity business, Chess T2 Limited trading as ‘CyberLab’, to maximise cross-sales opportunities. 
+We continue to position the business and product offerings to focus on more profitable cash generative activities resulting in a further deleveraging of the Balance Sheet post year end. The company’s relatively low gearing compared to many of our peers enables us to drive growth by acquisition as well as organically. Our product set is centred around the transition of legacy voice customers to cloud-hosted solutions. Chess is, by turnover, 83% direct business underpinned by 86% contracted recurring revenues highlighting the stability and strength of our business model.
+Gross Margin remains our key performance indicator, and we saw improvement in Gross Margin percentage improved from 46.8% to 47.8%. Adjusted EBITDA decreased from £8.2m to £6.2m as, despite the improvement in Gross Profit percentage, we saw a decline in revenues due to churn, and we have continued to invest in additional human and financial resource to achieve market leading solutions for our customers.
+Investing in industry leading customer service is illustrated by the overwhelmingly positive feedback from customers, with a 4.6 Trustpilot score.
+Our corporate, enterprise and public sector customers are demonstrating 5% organic growth in cloud connectivity as they transition to modern secure communications and solutions. 
+During the year we have driven growth in NGN cloud numbers and mobile, but in line with our peers, legacy small business connectivity customers churn at 16% p.a. of which one third is driven by business closures and bad debt. 
+Our IT Support and Professional Services division streamlined to focus on growing profitable customers. 
+Our Digital transformation division performs consistently, pleasingly growing its portfolio of services with the acquisition of Silversands Limited in November 2024.
+Page 1
+CHESS LIMITED
+CHAIRMAN'S STATEMENT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+A carefully managed increase in headcount in areas that drive growth has been achieved and we continue to drive process and system efficiency, including adopting AI solutions, to the benefit of our people and our customers. I remain proud and delighted with the commitment to our business shown by our people. This commitment is the driving force behind our Award-Winning Culture delivering UK “Best Companies to Work For” awards – 2nd in the Northwest, 3rd in the Technology Sector and 3rd Nationally in the Mid-size company category. We continue to operate for our people a home-first hybrid model of working, whilst recognising that increased hub attendance generates great energy, strategic benefit and a one team working philosophy.
+Our ESG policy continues to improve, and we continue to focus on driving quality through our ISO9001 and ISO27001 status. Our internally developed ‘learn 2 earn’ scheme continues to provide all our people opportunities to develop, move roles and increase their reward.
+Future prospects
+Economic and political uncertainty in 2025 impacted on the pace of customer expenditure on transformation projects. I am pleased to see the appetite for growth is slowly returning more recently. We remain ideally placed to work with customers and partners to achieve improved technological innovation, including providing AI based solutions to our  customers.
+Our budget shows achievable growth aspirations accompanied by a planned programme of system and process improvement, driven by our internal teams without the need for large capital expenditure or external involvement.
+Accordingly, my optimism for FY26 and beyond is strong.
+Finally, I would like to thank our customers, partners, suppliers, and our people for their continued support.
+Name
+C D Pollock
+Chairman
+Date
+28 January 2026
+Page 2
+CHESS LIMITED
+GROUP STRATEGIC REPORT
+FOR THE YEAR ENDED 30 APRIL 2025
+Introduction
+The directors present their Strategic Report for the year ended 30 April 2025.
+Principal activities
+Chess is a leading UK supplier of Connect. Cloud and Device products, Digital Support services and Technology Solutions to UK businesses. Our strategy of maximising cross-selling opportunities across the Group is managed through the following complementary divisions:
+∙
+Chess Enterprise, Chess Corporate, Chess Business and Chess Wholesale offer a comprehensive suite of business Technology solutions, helping businesses improve their efficiency and productivity and reduce their operational costs. Chess has developed a mutually beneficial and lasting partnership with number of key suppliers, including all major UK networks, which allows us to offer an extensive portfolio of communication products and services.
+∙
+Chess Digital provides customised software solutions, delivering online (cloud and partner hosted) and on-premises CRM solutions to Public Sector, Enterprise, and Corporate customers. A dedicated team of Microsoft certified consultants provides a full end-to-end service: from CRM project requirements gathering, design and implementation through to tailored training and ongoing support.
+∙
+Engage Your People provides licences to our bespoke Engage Your People Platform which delivers a simple employee engagement solution for customers.
+∙
+Chess Partner includes Chess Mobile, Chess Wholesale, and TM Solutions Limited. TM Solutions Limited provide Reseller billing solutions through the internally developed iBill platform.
+Business review
+Our Connect, Cloud, Device, Digital and Services solutions have proved to be vital for our customers as working practices changed and remote and hybrid working has been adopted. Collaboration with our customers and suppliers continues as we move toward the PSDN and ISDN switch off in 2027.
+Page 3
+CHESS LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Financial review
+In the 12 months to 30 April 2025 ('FY25'), the Group reported a turnover figure of £46.0m (2024 - £49.3m) and an Adjusted EBITDA figure of £6.2m (2024 - £8.2m). Cash generated from operating activities decreased slightly to £3.2m (2024 - £4.8m generated from) and net debt (defined as bank loans less cash) increased to £8.6m from £7.5m.
+A summary of year-on-year performance is below:
+Underlying performance* 
+2025
+2024
+£'000
+£'000
+Revenue 
+46,018
+49,334
+Gross profit
+21,976
+23,098
+Gross margin %
+47.8%
+46.8%
+Adjusted EBITDA
+6,229
+8,215
+Adjusted EBITDA %
+13.5%
+16.7%
+Cash generated from operating activities
+3,193
+4,762
+Adjusted EBITDA
+6,229
+8,215
+Amortisation of intangible assets
+(2,254)
+(2,735)
+Depreciation
+(93)
+(150)
+Disposal of fixed assets
+0
+375
+Exceptional items
+(741)
+(1,127)
+Operating profit
+3,142
+4,578
+*"Underlying" means that operating exceptional costs have been excluded, giving, in the directors' view, a better understanding of the business performance. Further information on operating exceptional items can be found in Note 5.
+Key performance indicators
+Key performance indicators used by the board, in addition to the financial metrics above, include:
+∙
+Adjusted Leverage (defined as the ratio of net debt to EBITDA normalised on a pro-rata basis for the impact of acquisitions) increased from 0.84 at 30 April 2024 to 1.43 at 30 April 2025.
+∙
+Interest Cover (defined as the ratio of EBITDA normalised on a pro-rata basis for the impact of acquisitions to the interest charge) decreased from 7.8x in the year ended 30 April 2024 to 7.2x at 30 April 2025.
+We continue to operate well within our contractual financial covenants.
+Financial risk management objectives and policies
+The Group is exposed to a variety of financial risks that include the effects of changes in debt market prices, credit risk, liquidity risk and interest rate risk (see principal risks and uncertainties). The Group has in place a risk management programme that seeks to limit the adverse effects on the financial performance of the Group by monitoring levels of debt finance and the related finance costs. Given the size of the Group, the directors have not delegated the responsibility of monitoring financial risk management to a sub-committee of the board. The policies set by the board of directors are implemented by the Group's Finance department.
+Page 4
+CHESS LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Principal risks and uncertainties
+Like all businesses, Chess faces a range of risks and uncertainties that could impact the delivery of our long-term strategy, spanning operational, finance, and regulatory areas. The principal risks and uncertainties facing the Group are monitored with a Risk Register. The board meets once a month to identify, evaluate and manage our exposure to known risks to all divisions of the business. For the risks within our control, the board puts appropriate processes and controls in place to mitigate them. The principal risks and uncertainties facing the business are set out below.
+Acquisition integration risk
+Acquisitions have driven the significant growth of the Group over the past few years and remains a key part of our future strategy. Acquisitions by their nature have the potential to cause operational, cultural and system issues during the integration phase, all of which can impact the ability of the business to deliver on the expected financial performance. To mitigate this risk, there is a detailed planning and due diligence process run by a dedicated acquisitions team prior acquisition and board level approval is required on acquisition agreements and payments.
+During the integration phase, there are regular peer-to-peer senior management meetings to respond to day-to-day complications with the assimilation process, as well as consultation meetings with new People and a strategy focused away day to ensure we deliver on performance. Where possible, an element of the acquisition consideration is contingent upon performance of the acquisition, which encourages all parties to work together to overcome any issues that arise as soon as possible.
+Market risk
+The ICT and Telecommunications markets are constantly evolving, and failure to keep abreast of emerging product trends could impact financial performance and growth. There is a risk that the business is unable to deliver on customers' requirements or that we invest in areas that do not generate the expected demand. Chess monitors market developments closely by having active dialogue with suppliers to keep abreast of market changes and training our People on the latest technological developments (including, for example, new AI technologies during the current year). We also undertake strategic reviews of the broader market periodically, as part of our budgetary process.
+Chess puts significant internal resource into new product development with a team of People focused in this area and regularly launches new products based on customer feedback and needs.
+Liquidity and interest rate cash flow risk
+The Group's policy is to finance its operations and expansion through working capital. The interest rate on long-term loans used to finance acquisitions is linked to SOFR and therefore the Group is exposed to interest rate risk on the loan. The Group's banking facilities also includes a financial leverage covenant, to manage this risk the Group regularly reviews forecasts to ensure continued compliance with the financial covenants and continued availability of the banking facilities.
+Credit risk
+The Group's credit risk is primarily attributed to its trade debtors. The amounts presented in the balance sheet are net of any allowance for doubtful debtors, estimated by the directors. The Group has  no significant concentration of credit risk, with exposure spread across our large and diverse customer base. The trade receivable balances are monitored on an ongoing basis to ensure that the Group's exposure to bad debt is not significant and appropriate provision for bad debt risk is made. The Group also requires appropriate credit checks on potential customers before sales are made.
+Page 5
+CHESS LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Data protection and cyber security
+The Group holds a significant volume of personal information, both confidential and sensitive in nature. Failure to comply with data privacy regulations, such as GDPR, and adopting best practices across information network security may result in potential data breach(es) across our business, which would cause detrimental brand damage to us and loss of confidence and privacy to our customers. The Group has a dedicated Information Security Officer to oversee operational compliance towards all data privacy regulations and to instil the security best practices across our IT Network infrastructure, most notably information security and Cyber Essentials accreditations. Our Group holds the ISO 27001 standard and subsequently carries out regular penetration testing, and system upgrades to meet the audit requirements.
+Cyber Essentials has been implemented across our key operational sites and is subject to regular and frequent audits as to its effectiveness. The Group also holds the ISO 9001 accreditation which drives continual improvement, regulatory compliance and customer satisfaction across the business, our internal audit team are responsible for the ongoing maintenance of the quality standards and raise opportunities for improvement. should any nonconformities arise.
+General economic risk
+The Company, like other businesses, recognises that the current economic uncertainty is likely to continue. Therefore, the Group continually reviews its forecasts including any impact on consumer confidence to monitor the general economic climate.
+Page 6
+CHESS LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Section 172(1) statement
+In performing their duties under section 172 (1) (a) to (f) of the Companies Act 2006, the directors of the Group, whilst aiming to promote the success of the business, also remain conscious of the impact their decisions have (amongst others) on:
+a) the likely consequences of any decision in the long-term;
+b) the interests of the Company's employees;
+c) the need to foster the Company's business relationships with suppliers, customers and others;
+d) the impact of the Company's operations on the community and the environment;
+e) the desirability of the Company's maintaining a reputation for high standards of business conduct: and
+f) the need to act fairly as between members of the Company.
+The board understands the views of all stakeholders and have considered the matters set out in section 172(1) (a) to (f) of the Companies Act 2006 so as to act in the interest of all stakeholders and make sure all parties are treated fairly.
+The following examples explain how the directors fulfil their duties in respect of these matters:
+Our People
+The health, safety and wellbeing of our People is paramount to the way we operate as a business. We have facilitated a 'home first philosophy', moving all of our people to online working from home, with hybrid options
+Chess recognises that the quality and commitment of our People is our greatest asset. They have been fundamental to our success as a business and are key to the delivery of our long-term strategy. Chess provides opportunities for our People to make positive contributions  to the  development  of the business and the wider community. We are committed to cultivating performance and nurturing talent and we aim to be a responsible employer in our approach to the pay and benefits our People receive. Chess recognises the importance of physical and mental Wellbeing, opportunities for personal growth and inclusion of all. Our 3- star 'world class to work for' Best Companies status, is an honour we share with our People and one we feel immensely proud of.
+Stakeholders
+The board are committed to openly engaging with our stakeholders, as we recognise the importance of a continuing effective dialogue, whether with our investors, suppliers, customers,  or our People. The board are committed to fully communicating the Group's strategy, vision, governance, and performance with all its stakeholders, and always tries to ensure that it has visibility of these relationships so that it can consider its' stakeholders when making key decisions for the business.
+Culture, values, and standards
+At Chess. we are passionate about our unique culture: it underpins what drives our business and our board is fully committed to upholding these values. Our Blueprint sets out our  culture and values  and our People use it at every opportunity to highlight why we are a 'great place to work and a great place to be a customer'. By putting our customers at the heart of our business, we aim to drive growth by understanding the needs of their business and exceeding their expectations. To achieve this, we maintain strong supplier relationships and develop mutually beneficial and lasting partnerships.
+Our business' strong commitment to sustainability is also central to our values, and we use our position of strength to create a positive change for the environment.
+Chess actively supports many charities - local and national - as well as encouraging our People in their efforts to provide valuable support to the communities around us through charity and volunteer work.
+Page 7
+CHESS LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Future developments
+The Group continues to seek opportunities to expand, through acquisitions, in existing and new markets. The Group has committed substantial ongoing investment into the development of new solutions to meet the everchanging needs of our customers. The PSDN and ISDN switch off in 2027 will be a continued focus for us, our customers, and our suppliers in the coming year and our controlled strategy of supporting our customers through this transition is in flight.
+Dividends and share option scheme
+During the year, dividends of 20.97 (2024 – 15.72) pence per share were paid to shareholders. Total dividends declared to shareholders amounted to £1.0m (2024 - £0.75m) in the year.
+The board believes in widening share ownership to key employees by making available share option schemes. 
+There was no share based payment charge in the current or prior year.
+This report was approved by the board
+ and signed on its behalf
+.
+C D Pollock
+Director
+Date:
+28 January 2026
+Page 8
+CHESS LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 30 APRIL 2025
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+30 April 2025
+.
+Principal activities
+Details of principal activities, future developments, dividends and financial risk management are included within the Group Strategic Report.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+M R Lightfoot (resigned 26 August 2025)
+J R M Btesh
+S D M Dracup
+R J W Hemming
+J E Hughes
+C D Pollock
+W A Pryer
+Going concern
+The directors have undertaken a rigorous risk assessment of the profitability and liquidity of the Group over the next 12 months. Considerable internal effort has been focussed on our cash position, credit management and cost control and Chess have implemented a series of actions to generate cash and maintain liquidity through FY25 and beyond. At the date of signing the financial statements, all of the Group's activities are continuing to operate as normal.
+In addition, the directors have reviewed the Group's trading forecasts for the 12 months from the date of this report, and stress-tested the key inputs and assumptions. This analysis supports the conclusion of the directors that it is appropriate to prepare the financial statements on a going concern basis for the Chess Group.
+The directors have considered the principal risks and uncertainties facing the Group and have established policies for managing these. The directors have prepared a cash flow forecast covering future periods, which shows, when considering all reasonably possible changes in trading, that the Company should be able to comfortably meet its liabilities as they fall due.
+As at 30 April 2025, the Group had net assets of £2.2m
+ (2024 - £0.7m)
+. The Group generated an Adjusted EBITDA of £6.2m 
+(2024 - £8.2m)
+ in the last financial year.
+On 27 January 2026, the directors extended the £15m facility with Barclays, drawn in relation to the JSOP, to a revised termination date of 31 January 2027. The renewed facility includes a further option for both parties to extend the termination date by one further year to 31 January 2028, subject to ongoing compliance with relevant adjusted leverage covenants.
+As at 30 April 2025, the Group had net current liabilities of £6.6m (2024 – net current assets of £11.9m) due mainly to the Group’s debt facilities falling due for renewal on 31 January 2026. Following the extension of the facility post year end, the Group has returned to a net current asset position.
+Share capital
+In the 12 months to 30 April 2025,11,992 shares were repurchased from shareholders (2024 - 0). 
+Page 9
+CHESS LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Political and charitable contributions
+During the year the Group made charitable donations of £52,442  
+(2024 - £32,750)
+. No political donations were made during the year 
+(2024 - £Nil)
+.
+Corporate and social responsibility, diversity and inclusion
+The Group continues to support a wide range of charities and institutions at both local and national levels. Beneficiaries of the Company's charitable support in FY25 include the National Foodbank, The King's Trust, Pendleside Hospice and Cancer Research UK. The Group also made donations to East Cheshire Hospice and MIND as part of the annual step challenge.
+Chess is committed to providing equal opportunities for everyone, for those looking to join us, and our existing People. We are proud of our investment in Apprentices and we are actively working to ensure we attract, retain and nurture talent, recognising diversity can drive thought leadership and change.
+People engagement and development
+At Chess engaging with our people is key to our vision of being 'a great place to work and a great place to be a customer'.
+To ensure that all our people have a clear understanding of what is happening in our business, and the key part they play, we have a very focused and structured timeline of communication that we follow every month.
+Engagement with suppliers, customers and others
+The Group places considerable value on having strong relationships with customers and suppliers, the Group engages in regular, open and proactive dialogue with stakeholders and their opinions are considered when making operational and strategic decisions. Further details on Chess' regard for stakeholders in its decision process is set out in section 172(1) statement in the Group Strategic Report.
+Greenhouse gas emissions, energy consumption and energy efficiency action
+2025
+2024
+Energy consumption used to calculate emissions (kWh)
+354,054
+324,187
+Emissions from purchased electricity (kgCO2e) (Scope 2, location-based)
+6,377
+14,437
+Emissions from business travel in rental cars or employee-owned vehicles where company is responsible for purchasing the fuel kgCO2e (Scope 3)
+74,688
+60,370
+Total greenhouse gas emissions based on the above (kgCO2e)
+81,066
+74,807
+Intensity ratio: KGs of CO2e emitted per £1m sales revenue
+1,762
+1,527
+Revenue £m
+46
+49
+Qualifying third party indemnity provisions
+The Group has granted an indemnity to one or more of its directors against liability in respect of proceedings brought by third parties. subject to the conditions set out in section 234 of the Companies Act 2006. Such qualifying third-party indemnity provision was in place throughout the year and remains in force as at the date of approving the Directors' Report.
+Page 10
+CHESS LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+Matters covered in the Group Strategic Report
+Where necessary, disclosures relating to principal risks and uncertainties, future developments and results and dividends have been made in the Group Strategic Report and have not been repeated here in accordance with Section 414C of the Companies Act 2006.
+Disclosure of information to auditor
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company and the Group
+'s auditor 
+is
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company and the Group
+'s auditor 
+is
+ aware of that information.
+Post balance sheet events
+On 27 January 2026, the directors extended the £15m facility with Barclays, drawn in relation to the JSOP,
+to a revised termination date of 31 January 2027. The renewed facility includes a further option for both
+parties to extend the termination date by one further year to 31 January 2028, subject to ongoing
+compliance with relevant adjusted leverage covenants.
+Auditor
+The auditor, 
+S&W Audit (a trading name of S&W Partners Audit Limited, formerly CLA Evelyn Partners Limited)
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+C D Pollock
+Director
+Date: 
+28 January 2026
+Page 11
+CHESS LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 30 APRIL 2025
+The 
+directors
+are
+ responsible for preparing the
+ Group Strategic Report, the Directors' Report and the 
+consolidated 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company and the Group
+ and of the 
+profit or loss
+ of the 
+Group
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Group's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Group will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company and the Group
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company and the Group
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 12
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+CHESS LIMITED
+Opinion
+We have audited the financial statements of 
+Chess Limited
+(the 'Parent Company') and its subsidiaries (the 'Group')
+ for the 
+year
+ ended 
+30 April 2025
+ which comprise the 
+Consolidated Statement of Comprehensive Income, the Consolidated and Parent Company Balance Sheets, the Consolidated and Parent Company Statement of Changes in Equity, the Consolidated Statement of Cash Flows, the Consolidated Analysis of Net Debt
+ and the notes to the financial statements, including significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and 
+United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom Generally Accepted Accounting Practice)
+.
+In our opinion, the financial statements:
+∙
+give a true and fair view of the state of 
+the Group's and of the Parent Company's 
+affairs as at 
+30 April 2025
+ and of 
+the Group's 
+profit
+ for the year then ended;  
+∙
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with 
+the requirements of the Companies Act 2006
+.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit of the financial statements section of our report. We are independent of the 
+Group and Parent Company
+ in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the 
+directors
+’ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Group and Parent Company
+’s ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 13
+CHESS LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+CHESS LIMITED
+Other information
+The other information comprises the information included in the 
+Annual Report and Financial Statements
+, other than the financial statements and our auditor’s report thereon. The 
+directors
+ are responsible for the other information contained within the 
+Annual Report and Financial Statements
+. Our opinion on the financial statements does not cover the other information 
+and, except to the extent otherwise explicitly stated in our report, 
+we do not express any form of assurance conclusion thereon. Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the course of the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. 
+We have nothing to report in this regard. 
+Opinions on other matters prescribed by the 
+Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Group Strategic Report and the Directors’ Report
+ for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+∙
+the 
+Group Strategic Report and the Directors’ Report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Group and the Parent Company
+ and 
+their 
+environment obtained in the course of the audit, we have not identified material misstatements in the 
+Group Strategic Report or the Directors’ Report
+.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 
+2006
+ requires us to report to you if, in our opinion:
+∙
+adequate accounting records have not been 
+kept by the Parent Company
+, or returns adequate for our audit have not been received from branches not visited by us; or
+∙
+the Parent Company
+ financial statements are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+’ remuneration specified by law are not made; or
+∙
+we have not received all the information and explanations we require for our audit.
+Responsibilities of 
+directors
+As explained more fully in the Directors’ Responsibilities Statement set out on page 12 the 
+directors
+ are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+ determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the 
+directors
+ are responsible for assessing the 
+Group's and the Parent Company
+’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either intend to liquidate the 
+Group or the Parent Company
+ or to cease operations, or have no realistic alternative but to do so. 
+Page 14
+CHESS LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+CHESS LIMITED
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements. 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+We obtained an understanding of the Group and Parent Company's legal and regulatory frameworks through enquiry of management of their understanding of the relevant laws and regulations, the Group and Parent Company's policies and procedures regarding compliance and how they identify, evaluate and rectify any instances of non-compliance. We also drew on our existing understanding of the Group and Parent Company's industries and regulations. 
+We understand the Group and Parent Company comply with requirements of the framework through: 
+∙
+The directors' close involvement in the day-to-day running of the business, meaning that any litigation or claims would come to their attention directly: and 
+∙
+The engagement of external experts to ensure ongoing tax compliance and to assist with the preparation of the statutory accounts.
+In the context of the audit, we have considered those laws and regulations which determine the form and content of the financial statements, which are central to the Group and Parent Company's abilities to conduct business and where failure to comply could result in material penalties. 
+We have identified the following laws and regulations as being of significance in the context of the Group and Parent Company: 
+∙
+The Companies Act 2006 and FRS 102 in respect of the preparation and presentation of the financial statements. 
+∙
+Compliance with Ofcom regulations and quality and information management standards.
+The senior statutory auditor led a discussion with senior members of the engagement team regarding the susceptibility of the entity's financial statements to material misstatement, including how fraud might occur. The key areas identified as part of the discussion were with regard to the manipulation of the financial statements through manual journals and incorrect recognition of revenue. This was communicated to the other members of the engagement team who were not present at the discussion. 
+The procedures carried out to gain evidence in the above areas included: 
+∙
+Testing of revenue transactions to underlying documentation; and 
+∙
+Testing of manual journal entries, selected based on specific risk assessments applied based on the company's processes and controls surrounding manual journals.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+Page 15
+CHESS LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+CHESS LIMITED
+Use of our report
+This report is made solely to the 
+Parent Company
+'s members, as a body, in accordance with 
+Chapter 3 of Part 16 of the Companies Act 2006
+. Our audit work has been undertaken so that we might state to the 
+Parent Company
+’s members those matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the 
+Parent Company
+ and the 
+Parent Company
+’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Stephen Drew
+ (Senior Statutory Auditor)
+for and on behalf of
+S&W Audit
+Chartered Accountants
+Statutory Auditor
+103 Colmore Row
+Birmingham
+B3 3AG
+Date:
+28 January 2026
+Page 16
+CHESS LIMITED
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+30 APRIL 2025
+Continuing operations
+Discontinued operations
+Total
+Continuing operations
+Discontinued operations
+Total
+2025
+2025
+2025
+2024
+2024
+2024
+Note
+£000
+£000
+£000
+£000
+£000
+£000
+Turnover
+46,018
+-
+46,018
+48,722
+612
+49,334
+Cost of sales
+(24,042
+)
+-
+(24,042
+)
+(25,868
+)
+(368
+)
+(26,236
+)
+Gross profit
+21,976
+-
+21,976
+22,854
+244
+23,098
+Administrative expenses
+(15,747
+)
+-
+(15,747
+)
+(14,629
+)
+(254
+)
+(14,883
+)
+Service charge
+-
+-
+-
+26
+-
+26
+Other operating charges
+-
+-
+-
+(26
+)
+-
+(26
+)
+Adjusted EBITDA
+6
+6,229
+-
+6,229
+8,225
+(10
+)
+8,215
+Exceptional items
+5
+(741
+)
+-
+(741
+)
+(1,127
+)
+-
+(1,127
+)
+Amortisation
+(2,254
+)
+-
+(2,254
+)
+(2,735
+)
+-
+(2,735
+)
+Depreciation
+(92
+)
+-
+(92
+)
+(150
+)
+-
+(150
+)
+Disposal of Fixed Assets
+-
+-
+-
+375
+-
+375
+Total operating profit
+3,142
+-
+3,142
+4,588
+(10
+)
+4,578
+Interest receivable and similar income
+10
+401
+-
+401
+330
+-
+330
+Interest payable and similar expenses
+11
+(1,243
+)
+-
+(1,243
+)
+(1,332
+)
+-
+(1,332
+)
+Profit before taxation
+2,300
+-
+2,300
+3,586
+(10
+)
+3,576
+Tax on profit
+215
+-
+215
+(1,053
+)
+(23
+)
+(1,076
+)
+Profit for the financial year
+2,515
+-
+2,515
+2,533
+(33
+)
+2,500
+There was no other comprehensive income for 2025 (2024:£Nil)
+Page 17
+CHESS LIMITED
+REGISTERED NUMBER:
+02797895
+CONSOLIDATED BALANCE SHEET
+AS AT 
+30 APRIL 2025
+2025
+2024
+Note
+£000
+£000
+Fixed assets
+Intangible assets
+14
+4,565
+4,318
+Tangible assets
+15
+182
+97
+4,747
+4,415
+Non-current assets
+Debtors due after more than 1 year
+4,118
+177
+4,118
+177
+Current assets
+Stocks
+17
+248
+237
+Debtors: amounts falling due within one year
+18
+14,610
+15,208
+Bank and cash balances
+6,409
+7,978
+21,267
+23,423
+Creditors: amounts falling due within one year
+19
+(27,900
+)
+(11,726
+)
+Net current (liabilities)/assets
+(6,633
+)
+11,697
+Total assets less current liabilities
+2,232
+16,289
+Creditors: amounts falling due after more than one year
+20
+-
+(15,492
+)
+Provisions for liabilities
+Other provisions
+24
+(72
+)
+(71
+)
+Net assets
+2,160
+726
+Capital and reserves
+Called up share capital 
+25
+54
+54
+Share premium account
+26
+431
+431
+Capital redemption reserve
+26
+(188
+)
+(188
+)
+Treasury shares reserve
+26
+(17,255
+)
+(17,255
+)
+Profit and loss account
+26
+19,118
+17,684
+Shareholders Funds
+2,160
+726
+Page 18
+CHESS LIMITED
+REGISTERED NUMBER:
+02797895
+CONSOLIDATED BALANCE SHEET
+ (CONTINUED)
+AS AT 
+30 APRIL 2025
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+C D Pollock
+Director
+Date:
+28 January 2026
+The notes on pages 27 to 61 form part of these financial statements.
+Page 19
+CHESS LIMITED
+REGISTERED NUMBER:
+02797895
+COMPANY BALANCE SHEET
+AS AT 
+30 APRIL 2025
+2025
+2024
+Note
+£000
+£000
+Fixed assets
+Investments
+16
+8,624
+8,624
+8,624
+8,624
+Current assets
+Debtors: amounts falling due within one year
+18
+764
+767
+Bank and cash balances
+849
+1,000
+1,613
+1,767
+Creditors: amounts falling due within one year
+19
+(
+21,558
+)
+(
+3,934
+)
+Net current liabilities
+(
+19,945
+)
+(
+2,167
+)
+Total assets less current liabilities
+(
+11,321
+)
+6,457
+Creditors: amounts falling due after more than one year
+20
+-
+(
+15,492
+)
+Net liabilities
+(
+11,321
+)
+(
+9,035
+)
+Capital and reserves
+Called up share capital 
+25
+54
+54
+Share premium account
+26
+431
+431
+Capital redemption reserve
+26
+(
+188
+)
+(
+188
+)
+Treasury shares reserve
+26
+(
+17,255
+)
+(
+17,255
+)
+Profit and loss account
+26
+5,637
+7,923
+Shareholders' deficit
+(
+11,321
+)
+(
+9,035
+)
+Page 20
+CHESS LIMITED
+REGISTERED NUMBER:
+02797895
+COMPANY BALANCE SHEET
+ (CONTINUED)
+AS AT 
+30 APRIL 2025
+The Company’s loss for the year was £1,204,774
+ (2023 - £1,771,244)
+.
+The Company has taken advantage of the exemption allowed under section 408 of the Companies Act 2006 and has not presented its own Statement of Comprehensive Income in these financial statements.
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+C D Pollock
+Chairman
+Date:
+28 January 2026
+The notes on pages 27 to 61 form part of these financial statements.
+Page 21
+CHESS LIMITED
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+30 APRIL 2025
+Called up share capital
+Share premium account
+Capital redemption reserve
+Treasury shares reserve
+Profit and loss account
+Total equity
+£000
+£000
+£000
+£000
+£000
+£000
+At 1 May 2023
+54
+431
+(188
+)
+(17,255
+)
+15,934
+(1,024
+)
+Comprehensive loss for the year
+Profit for the year
+-
+-
+-
+-
+2,500
+2,500
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+-
+-
+(750
+)
+(750
+)
+At 1 May 2024
+54
+431
+(188
+)
+(17,255
+)
+17,684
+726
+Comprehensive income for the year
+Profit for the year
+-
+-
+-
+-
+2,515
+2,515
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+-
+-
+(1,000
+)
+(1,000
+)
+Purchase of own shares
+-
+-
+-
+-
+(81
+)
+(81
+)
+At 30 April 2025
+54
+431
+(188
+)
+(17,255
+)
+19,118
+2,160
+Page 22
+CHESS LIMITED
+COMPANY STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+30 APRIL 2025
+Called up share capital
+Share premium account
+Capital redemption reserve
+Treasury shares reserve
+Profit and loss account
+Total equity
+£000
+£000
+£000
+£000
+£000
+£000
+At 1 May 2023
+54
+431
+(
+188
+)
+(
+17,255
+)
+10,444
+(
+6,514
+)
+Comprehensive loss for the year
+Loss for the year
+-
+-
+-
+-
+(
+1,771
+)
+(
+1,771
+)
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+-
+-
+(
+750
+)
+(
+750
+)
+At 1 May 2024
+54
+431
+(
+188
+)
+(
+17,255
+)
+7,923
+(
+9,035
+)
+Comprehensive loss for the year
+Loss for the year
+-
+-
+-
+-
+(
+1,205
+)
+(
+1,205
+)
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+-
+-
+(
+1,000
+)
+(
+1,000
+)
+Purchase of own shares
+-
+-
+-
+-
+(
+81
+)
+(
+81
+)
+At 30 April 2025
+54
+431
+(
+188
+)
+(
+17,255
+)
+5,637
+(
+11,321
+)
+Page 23
+CHESS LIMITED
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 30 APRIL 2025
+2025
+2024
+£000
+£000
+Cash flows from operating activities
+Profit for the financial year
+2,515
+2,500
+Adjustments for:
+Amortisation of intangible assets
+2,254
+2,735
+Depreciation of tangible assets
+93
+150
+(Increase)/decrease arising on loan modification
+-
+404
+Impairment of intangible assets
+-
+1,870
+Interest paid
+1,243
+1,332
+Interest received
+(401
+)
+(330
+)
+Taxation charge
+(215
+)
+1,076
+(Increase) in stocks
+(11
+)
+(62
+)
+(Increase)/decrease in debtors
+(1,457
+)
+187
+Increase/(decrease) in creditors
+363
+(4,026
+)
+Increase in provisions
+-
+29
+Corporation tax (paid)
+(1,191
+)
+(1,080
+)
+Net cash generated from operating activities
+3,193
+4,785
+Cash flows from investing activities
+Payment to acquire intangible assets
+(1,851
+)
+(456
+)
+Purchase of tangible fixed assets
+(76
+)
+(77
+)
+Interest received
+62
+315
+Interest receivable on employee loans
+-
+15
+Deferred consideration movement
+454
+-
+Cash flow on business combination, net of cash
+(562
+)
+-
+Net cash from investing activities
+(1,973
+)
+(203
+)
+Cash flows from financing activities
+Repayment of loans
+-
+(815
+)
+Dividends paid
+(1,000
+)
+(750
+)
+Interest paid
+(1,708
+)
+(1,244
+)
+Deferred consideration movements
+-
+(908
+)
+Purchase of own shares
+(81
+)
+-
+Net cash used in financing activities
+(2,789
+)
+(3,717
+)
+Page 24
+CHESS LIMITED
+CONSOLIDATED STATEMENT OF CASH FLOWS (CONTINUED)
+FOR THE YEAR ENDED 30 APRIL 2025
+2025
+2024
+£000
+£000
+Net (decrease)/increase in cash and cash equivalents
+(1,569
+)
+865
+Cash and cash equivalents at beginning of year
+7,978
+7,136
+Cash and cash equivalents at the end of year
+6,409
+8,001
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+6,409
+7,978
+6,409
+7,978
+Page 25
+CHESS LIMITED
+CONSOLIDATED ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 30 APRIL 2025
+At 1 May 2024
+Cash flows
+Non-cash changes
+At 30 April 2025
+£000
+£000
+£000
+£000
+Cash at bank and in hand
+7,978
+(1,569
+)
+-
+6,409
+Debt due after 1 year
+(15,492
+)
+-
+15,492
+-
+Debt due within 1 year
+-
+-
+(15,027
+)
+(15,027
+)
+(7,514
+)
+(1,569
+)
+465
+(8,618
+)
+Page 26
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+1.
+General information
+Chess Limited is a private company, limited by shares, domiciled and incorporated in England and Wales (registered number: 02797895). The registered office address is Bridgford House, Heyes Lane, Alderley Edge, Cheshire, SK9 7JP. 
+Chess Limited ("the Company") and its subsidiaries (together "the Group") is a leading provider of telecommunication and ICT solutions to businesses throughout the UK.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires 
+Group 
+management to exercise 
+judgement
+ in applying the 
+Group
+'s 
+accounting policies
+ (see note 3).
+The 
+Company
+ has taken advantage of the exemption allowed under 
+section 408 of the
+Companies Act 2006
+ and has not presented its own 
+Statement of Comprehensive Income
+ in these 
+financial statements
+.
+In preparing the separate financial statements of the Parent Company, advantage has been taken of the following disclosure exemptions available in FRS 102:
+∙
+Only one reconciliation of the number of shares outstanding at the beginning and end of the year has been presented as the reconciliation for the Group and the Parent Company would be identical;
+∙
+No Statement of Cash Flows has been presented for the Parent Company;
+∙
+Disclosures in respect of the Parent Company's financial instruments have not been presented as equivalent disclosures have been provided in respect of the Group as a whole; and
+∙
+No disclosures have been given for the aggregate remuneration of the key management personnel of the Parent Company as their remuneration is included in the totals for the Group as a whole
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Basis of consolidation
+The consolidated financial statements present the results of the Company and its own subsidiaries ("the Group") as if they form a single entity. Intercompany transactions and balances between group companies are therefore eliminated in full.
+The consolidated financial statements incorporate the results of business combinations using the purchase method. In the Balance Sheet, the acquiree's identifiable assets, liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date. The results of acquired operations are included in the Consolidated Statement of Comprehensive Income from the date on which control is obtained. They are deconsolidated from the date control ceases.
+Page 27
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.3
+Going concern
+The directors have undertaken a rigorous risk assessment of the profitability and liquidity of the Group over the next 12 months. Considerable internal effort has been focused on our cash position, credit management and cost control and Chess have implemented a series of actions to generate cash and maintain liquidity through FY25 and beyond. At the date of signing the financial statements, all of the Group's activities are continuing to operate as normal.
+In addition, the directors have reviewed the Group's trading forecasts for a minimum period of 12 months from the date of this report, and stress-tested the key inputs and assumptions. This analysis supports the conclusion of the directors that it is appropriate to prepare the financial statements on a going concern basis for the Chess Group.
+The directors have considered the principal risks and uncertainties facing the Group and have established policies for managing these. The directors have prepared a cash flow forecast covering future periods, which shows, when considering all reasonably possible changes in trading, that the Company should be able to comfortably meet its liabilities as they fall due.
+As at 30 April 2025, the Group had net assets of £2.2m (2024 - £0.7m net assets). The Group also generated an Adjusted EBITDA of £6.2m (2024 - £8.2m) in the last financial year.
+On 27 January 2026, the directors extended the £15m facility with Barclays, drawn in relation to the JSOP, to a revised termination date of 31 January 2027. The renewed facility includes a further option for both parties to extend the termination date by one further year to 31 January 2028, subject to ongoing compliance with relevant adjusted leverage covenants.
+In making their going concern assessment, the directors have considered the Group's ability to complete loan refinancing as outlined above, and consider this to be feasible. As such, the going concern assessment includes the assumption that such refinancing will be achievable by the Group. Based on their assessment, the directors consider that the Group has sufficient resources to meet its obligations as they fall due for a period of at least 12 months from the date of this report, and accordingly these financial statements are prepared on the going concern basis.
+Page 28
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.4
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Consolidated Statement of Comprehensive Income
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+Page 29
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.5
+Turnover
+Turnover is recognised to the extent that the Group obtains the right to consideration in exchange for its performance. Turnover is measured at the fair value of the consideration received, excluding discounts, rebates, VAT and other sales taxes or duty.
+Call turnover
+Call turnover is recognised in the month in which calls are made. Calls made in the year, but not billed by the year-end are accrued within debtors as accrued income.
+Line rental
+Line rental income is recognised during the month of rental.
+Handsets
+Turnover and related costs from the sale of handsets are recognised on the date of connection.
+Connection commissions
+Connection commissions are receivable from mobile network operators when the Group connects or retains end users to their network. The commissions are recognised as income by the Group over the period of service required by the commission agreement. When the Group assesses that there is an ongoing obligation beyond connection, commission is recognised evenly over the period of the obligation. When the Group assesses that there is no ongoing obligation beyond connection, the full commission expected to be recovered over the life of the contract is recognised upon connection and an associated accrued income balance is recognised within "Amounts due from network operators" as part of the overall debtors balance. This balance due from network operators is typically recoverable over the term of the contract as commission payments are received from the mobile network operators.
+The full commission to be received over the life of the contract is dependent on usage, and so related spend, by the consumer. As such, the consideration receivable by the Group is variable and involves estimation (see note 3 where this has been disclosed as a key source of estimation uncertainty and how this estimate is derived). Variable consideration is recognised as revenue to the extent that it is highly probable that a significant reversal shall not occur in the future.
+In some instances commission income is subject to adjustment by the mobile network operator. Where this is the case, the Group assesses the likelihood of adjustment by reference to historical experience and adjusts commissions income accordingly.
+Long-term contracts
+These contracts are accounted for in accordance with the percentage of completion guidance in Section 23 of FRS 102. The only contracts that are accounted for in this manner are support service contracts, which typically have a term of between 12 months and 60 months.
+The percentage of completion is measured by reference to the number of days completed on a contract at the balance sheet date, compared to the total expected number of days required on that contract. When it is probable that total contract costs will exceed total contract revenue the expected loss shall be recognised as an expense immediately with a corresponding provision for an onerous contract.
+Page 30
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.5
+Turnover (continued)
+Where the amount invoiced at the balance sheet date exceeds the value of the work performed, the excess is recognised as deferred revenue within current liabilities. If the level of invoicing is less than the value of work performed the shortfall is recognised as work-in progress in current assets.
+Fixed price support contracts
+Turnover is recognised as services are delivered with fixed support contracts being recognised evenly over the support period. Where the amount invoiced at the balance sheet date exceeds the value of the work performed, the excess is recognised as deferred revenue within current liabilities. If the level of invoicing is less than the value of work performed the shortfall is recognised as accrued income in current assets.
+2.6
+Subscriber acquisition costs
+Subscriber acquisition costs (including within customer lists and relationships) comprise the direct third-party costs of recruiting and retaining customers, net of incentives from network operators and provisions for in-contract churn. These costs are expensed as incurred, unless they meet the criteria for capitalisation as an intangible asset, to the extent that they are supported by expected future cash inflows, in which case they are amortised on a straight-line basis over the shorter of the customer life and the contractual period.
+2.7
+Amounts due from network operators
+As detailed in the turnover recognition policy, connection commissions are receivable from mobile network operators when the Group connects or retains end users to their network. This commission is received over the life of the connection and therefore the future amount due on a connection is recognised within trade debtors. Similarly, the Group has an obligation at the point of the connection to pay the Partner who sold the connection. This commission payable is recognised within creditors.
+2.8
+Operating leases: the Group as lessor
+Rental income from operating leases is credited to profit or loss on a straight-line basis over the lease term.
+Amounts paid and payable as an incentive to sign an operating lease are recognised as a reduction to income over the lease term on a straight-line basis, unless another systematic basis is representative of the time pattern over which the lessor's benefit from the leased asset is diminished.
+2.9
+Operating leases: the Group as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+2.10
+Development expenditure
+Development expenditure is capitalised in accordance with the accounting policy given below. Initial capitalisation of costs is based on management's judgement that technical and economic feasibility is confirmed, usually when a development project has reached a defined milestone, which is specific to each individual project. In determining the amounts to be capitalised management makes assumptions regarding the expected future cash generation of the assets, discount rate to be applied and the expected period of benefits. The capitalised expenditure is amortised over 5 years.
+Page 31
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.11
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which range from 2 to 5 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.12
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.13
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.14
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the 
+year
+ in which they are incurred.
+2.15
+Exceptional items
+Exceptional items are transactions that fall within the ordinary activities of the 
+Group
+ but are presented separately due to their size or incidence.
+2.16
+Contingent consideration
+Where the amount of purchase consideration of a business combination or intangible asset is contingent on one or more future events, the cost of acquisition includes the contingent consideration if it is probable that the amount will be paid and can be measured reliably.
+Changes to contingent consideration are adjusted through the cost of investment/cost of the business combination.
+Page 32
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.17
+Intangible assets
+Goodwill
+Positive goodwill arising on acquisitions is capitalised as an asset on the Balance Sheet and amortised on a straight-line basis over its useful economic life up to a maximum of 5 years. It is reviewed for impairment at the end of the first full financial year following the acquisition and in other periods if events or changes in circumstances indicate that the carrying value may not be recoverable.
+Where goodwill arises through a share acquisition it is classified as Goodwill on Consolidation. Where it arises through a trade and asset acquisition it is classified as Purchased Goodwill.
+Where the fair value of the assets and liabilities acquired exceed the cost of the acquisition, negative goodwill arises. The Group after consideration of the assets, liabilities and contingent consideration acquired and the cost of the combination, recognises negative goodwill on the Balance Sheet. This is released to the profit and loss over the period in which the benefit is expected to arise up to a maximum of 5 years.
+Other intangible assets
+Intangible assets acquired separately from a business are capitalised at cost. Intangible assets acquired as part of an acquisition of a business are capitalised separately from goodwill if the fair value can be measured reliably on initial recognition, subject to the constraint that, unless the asset had a readily ascertainable market value, the fair value is limited to an amount that does not create or increase any negative goodwill arising on the acquisition. Intangible assets, excluding development costs, created within the business are not capitalised and expenditure is charged against profits in the year in which it was incurred.
+Intangible assets are amortised on a straight-line basis over their estimated useful lives. The carrying value of intangible assets is reviewed for impairment at the end of the first full year following acquisition and in other periods if events or changes in circumstances indicate that the carrying value may not be recoverable. 
+As at the balance sheet date the estimated useful lives of intangible assets acquired are as follows:
+Purchase customer contracts   - up to 5 years
+Development expenditure     - over 2 to 5 years
+Page 33
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.18
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Motor vehicles
+-
+over 4 years
+Office equipment
+-
+over 4 years
+Computer equipment
+-
+over 2 to 4 years
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.19
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.20
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a weighted average basis.
+At each balance sheet date, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.21
+Pensions
+Defined contribution pension plan
+The 
+Group
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Group
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Group
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance Sheet
+. The assets of the plan are held separately from the 
+Group
+ in independently administered funds.
+Page 34
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.22
+Employee commission payments
+Where employees receive commission payable by the Group as a result of securing new, or extended, contracts then this expense is recognised in the profit and loss account on a straight-line basis over the term of the contract. Where the contract term spans the year end, an associated prepayment is recognised to defer the cost into future periods.
+2.23
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.24
+Financial instruments
+Financial assets and financial liabilities are recognised in the Balance Sheet when the Group becomes a party to the contractual provisions of the instrument. 
+Trade and other debtors and creditors are classified as basic financial instruments and measured at initial recognition at transaction price. Debtors and creditors are subsequently measured at amortised cost using the effective interest rate method. A provision is established when there is objective evidence that the Group will not be able to collect all amounts due. 
+Cash and cash equivalents are classified as basic financial instruments and comprise cash in hand and at bank, short-term bank deposits with an original maturity of three months or less and bank overdrafts which are an integral part of the Group's cash management. 
+Financial liabilities and equity instruments issued by the Group are classified in accordance with the substance of the contractual arrangements entered into and the definitions of a financial liability and an equity instrument. An equity instrument is any contract that evidences a residual interest in the assets of the Group after deducting all of its liabilities. Equity instruments issued by the Group are recorded at the proceeds received, net of direct issue costs. 
+Interest bearing bank loans, overdrafts and other loans which meet the criteria to be classified as basic financial instruments are initially recorded at the present value of cash payable to the bank, which is ordinarily equal to the proceeds received net of direct issue costs. These liabilities are subsequently measured at amortised cost, using the effective interest rate method.
+Page 35
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.25
+Impairment of non-financial assets
+At each balance sheet date non-financial assets not carried at fair value are assessed to determine whether there is an indication that the assets (or asset's cash generating unit) may be impaired. If there is such an indication the recoverable amount of the asset (or asset's cash generating unit) is compared to the carrying amount of the asset (or asset's cash generating unit).
+The recoverable amount of the assets (or asset's cash generating unit) is the higher of the fair value less costs to sell and value in use. Value in use is defined as the present value  of the future  cash flows before interest and tax obtainable as a result of the asset's (or asset's cash generating unit) continued use. These cash flows are discounted using a pre-tax discount rate that represents the current market risk free and the risks inherent in the assets.
+If the recoverable amount of the assets (or asset's cash generating unit) is estimated to be lower than the carrying amount, the carrying amount is reduced to its recoverable amount. An impairment loss is recognised in the profit and loss account.
+If an impairment loss is subsequently reversed, the carrying amount of the assets (or asset's cash generating unit) is increased to the revised estimate of its recoverable amount, but only to the extent that the revised carrying amount does not exceed the carrying amount that would have been determined (net of depreciation or amortisation) had no impairment loss been recognised in prior periods. A reversal of an impairment loss is recognised in the profit and loss account.
+Goodwill is allocated on acquisition to the cash generating unit expected to benefit from the synergies of the combination. Goodwill is included in the carrying value of cash generating units for impairment testing.
+Page 36
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+2.
+Accounting policies (continued)
+2.26
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company and the Group operate and generate income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+;
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+; and
+∙
+Where they relate to timing differences in respect of interests in subsidiaries, associates, branches and joint ventures and the 
+Group
+ can control the reversal of the timing differences and such reversal is not considered probable in the foreseeable future.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+2.27
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+Page 37
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+In the application of the Group's accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+The directors consider that the following judgements including key sources of estimation uncertainty have had the most significant effect on amounts recognised in the financial statements:
+Commissions 
+Judgement is applied to determine whether commission contracts contain performance obligations beyond connection. Management forms this judgement based on the terms of the contract. The revenue recognition policy note details the treatment applied in the cases where there are ongoing performance obligations and also where all obligations are complete upon connection.
+The commission recognised as receivable from network operators and the commission payable to partners, are based on expected spend on the mobile contract by the end user over the life of the contract.
+When the Group assesses that there is not an ongoing obligation beyond connection, commission is recognised upon connection. This is therefore initially based on an expectation of what the future spend will be by end user. Where available, such as on a customer renewing a contract, this estimate is based on historic information specific to that customer. Where it is a new customer, the estimate is based on the average revenue per user over the entire mobile base. As such there is inherent estimation in the amounts recognised and this reconsidered by management throughout the life of the contract.
+Intangible assets and goodwill carrying values 
+Intangible assets and goodwill are assessed at each reporting date to determine whether there is any indication that the assets are impaired. Where there is an indication that an asset may be impaired, the carrying value of the asset is tested for impairment. An impairment loss is recognised for the amount by Which the assets carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an assets fair value less costs to and its value in use. The value in use calculation requires estimation of future discounted cash flows.
+Fair value of acquired identifiable intangible assets 
+The Group can acquire identifiable assets both individually and as part of business combinations. Management estimates the fair value of identifiable intangible assets by considering the present value of the expected future economic benefit to be generated by the asset.
+Trade debtors and amounts due from network operators
+At each reporting date, trade debtors are assessed for recoverability. If there is any evidence of impairment, the carrying amount is reduced to its recoverable amount. The impairment loss is recognised immediately in the profit and loss account. Estimation is required regarding expected future cash receipts.
+Page 38
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+3.
+Judgements in applying accounting policies (continued)
+Contingent consideration
+Contingent consideration relating to acquisitions is included based on management estimates of the most likely outcome. Those judgements include the forecasting of a number of different outcomes against the performance targets and estimating a probability and risk of each outcome before arriving at a risk weighted value of contingent consideration.
+Long-term contracts percentage of completion
+In respect of long-term contracts, estimation is required to assess the percentage completion of each project at the reporting date. Specifically, the estimation is around the total number of days remaining to complete a project, as this is combined with the number of days already completed to calculate the percentage complete.
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2025
+2024
+£000
+£000
+Connect
+26,557
+31,422
+Services
+6,801
+6,713
+Cloud
+4,662
+4,899
+Software Licensing
+5,586
+4,167
+Device
+2,412
+2,133
+46,018
+49,334
+All turnover arose within the United Kingdom.
+Page 39
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+5.
+Exceptional items
+2025
+2024
+£000
+£000
+Restructuring costs
+96
+169
+Adjustment to deferred consideration
+-
+(284
+)
+Refinancing costs - loan modification
+-
+404
+Inventory adjustment
+-
+(214
+)
+Onerous lease costs
+118
+120
+Cost of living payment
+-
+58
+Strategic business review of growth and strategic investment
+-
+877
+Acquisition related expenses
+442
+-
+Other
+85
+(3
+)
+741
+1,127
+The onerous lease costs relate to lease on a property which is being sublet. The costs of the lease are higher than the income received from tenant and they are not related to the day to day operations of the Company.
+Restructuring costs in the current year relate mainly to redundancy costs incurred in the year whereas the costs in the prior year related to the decision to restructure the Chess Group and create a new Cybersecurity focused group (Chess T2 Limited). The costs represent external fees relating to this process, with the costs relating to tax, legal and pensions advice.
+Acquisition related expenses relate to professional fees and integration costs associated with the acquisition of the trade and assets of Silversands Limited and a customer base from National Business Communications Limited during the year.
+During the prior year the Group recognised inventory to the value of £214,401 in respect of IPV4 addresses obtained through an acquisition in previous years. There was no equivalent transaction in the current year.
+During the prior year and due to the continuing cost of living pressures in 2024, the Chess board agreed to make cost of living payments to its people. These were lump sum payments made to employees.
+Strategic business review costs in the prior year relate to expenses incurred in the course of a review of the Chess group operational and management structure.
+The adjustment to deferred consideration represents the release during the year ended 30 April 2024 of
+previously estimated liabilities in respect of earn out payments relating to acquisitions in prior periods.
+There was no equivalent adjustment in FY25.
+Page 40
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+6.
+Operating profit
+The operating profit is stated after charging:
+2025
+2024
+£000
+£000
+Other operating lease rentals
+183
+194
+7.
+Auditor's remuneration
+2025
+2024
+£000
+£000
+Fees payable to the Company's auditor and its associates for the audit of the consolidated and parent Company's financial statements
+255
+343
+Fees payable to the Group's auditor and its associates in respect of:
+Taxation compliance services
+40
+39
+Statutory accounts preparation services
+-
+30
+40
+69
+8.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+Group
+Group
+2025
+2024
+£000
+£000
+Wages and salaries
+13,225
+11,990
+Social security costs
+1,505
+1,320
+Cost of defined contribution scheme
+441
+411
+15,171
+13,721
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2025
+2024
+No.
+No.
+Administration
+266
+255
+The Company has no employees other than the directors, who did not receive any remuneration (2024- £Nil).
+Page 41
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+9.
+Directors' remuneration
+2025
+2024
+£000
+£000
+Directors' emoluments
+1,111
+1,066
+Group contributions to defined contribution pension schemes
+42
+50
+1,153
+1,116
+During the 
+year
+ retirement benefits were accruing to 
+5
+directors
+ (2024 - 
+5
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+266
+k
+ (2024 - £
+233
+k
+)
+.
+The value of the 
+Group
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+Nil
+ (2024 - £
+10
+k
+).
+10.
+Interest receivable and similar income
+2025
+2024
+£000
+£000
+Bank interest receivable
+76
+16
+Interest receivable from related companies
+325
+314
+401
+330
+11.
+Interest payable and similar expenses
+2025
+2024
+£000
+£000
+Bank interest payable
+1,213
+1,332
+Other interest payable
+30
+-
+Page 42
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+12.
+Taxation
+2025
+2024
+£000
+£000
+Corporation tax
+Current tax on profits for the year
+837
+940
+Adjustments in respect of prior years
+(914
+)
+-
+(77
+)
+940
+Total current tax
+(77
+)
+940
+Deferred tax
+Origination and reversal of timing differences
+(138
+)
+136
+Total deferred tax
+(138
+)
+136
+Total tax (credit)/charge
+(215
+)
+1,076
+Page 43
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+12.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2024 - higher than) 
+the average rate of corporation tax
+ in the UK of 
+25
+%
+ (2024 - 
+25
+%)
+. The differences are explained below:
+2025
+2024
+£000
+£000
+Profit on ordinary activities before tax
+2,300
+3,576
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2024 - 25%)
+575
+894
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+9
+158
+Fixed asset differences
+-
+38
+Fixed asset timing differences
+(9
+)
+-
+Other tax adjustments, reliefs and transfers
+(20
+)
+-
+Adjustments to tax charge in respect of prior periods - current tax
+(914
+)
+29
+Adjustments to tax charge in respect of prior periods - deferred tax
+-
+155
+Tax adjustments on group intangible assets
+346
+-
+Non-taxable income
+-
+(193
+)
+Movement in deferred tax not recognised
+10
+-
+Adjustments to brought forward values
+(212
+)
+(5
+)
+Total tax (credit)/charge
+(215
+)
+1,076
+Factors that may affect future tax charges
+Finance Act 2021 included legislation to increase the main rate of corporation tax from 19% to 25% from 1 April 2023. The effects of this increase are reflected in the above. There were no factors that may affect future tax charges.
+13.
+Dividends
+2025
+2024
+£000
+£000
+Dividends paid £20.97 pence (2024 - 15.72 pence) per ordinary A, C and X shares
+1,000
+750
+1,000
+750
+Page 44
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+14.
+Intangible assets
+Group and Company
+Purchased customer contracts
+Development expenditure
+Goodwill on consolidation
+Total
+£000
+£000
+£000
+£000
+Cost
+At 1 May 2024
+60,774
+5,789
+10,712
+77,275
+Additions
+1,959
+543
+-
+2,502
+At 30 April 2025
+62,733
+6,332
+10,712
+79,777
+Amortisation
+At 1 May 2024
+58,859
+4,532
+9,567
+72,958
+Charge for the year on owned assets
+956
+732
+566
+2,254
+At 30 April 2025
+59,815
+5,264
+10,133
+75,212
+Net book value
+At 30 April 2025
+2,918
+1,068
+579
+4,565
+At 30 April 2024
+1,915
+1,257
+1,146
+4,318
+During the year, the Group acquired two (2024 - nil) customer bases for a total cost of £1,959k (2024 - £nil). The costs are being amortised on a straight-line basis over a period of 5 years which is the anticipated life of the assets. Intangibles are valued based on the income expected to accrue from the customer contracts. Current liabilities include £454k (2024 - £nil) of contingent consideration in respect of these acquisitions. The amount recorded reflects management's best estimate of the amounts that will become payable under the terms of the acquisition agreements and are revised at each balance sheet date.
+Page 45
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+15.
+Tangible fixed assets
+Group
+Short-term leasehold property
+Motor vehicles
+Office equipment
+Computer equipment
+Total
+£000
+£000
+£000
+£000
+£000
+Cost
+At 1 May 2024
+44
+5
+455
+2,146
+2,650
+Additions
+-
+66
+38
+74
+178
+Disposals
+(44
+)
+-
+-
+-
+(44
+)
+At 30 April 2025
+-
+71
+493
+2,220
+2,784
+Depreciation
+At 1 May 2024
+44
+4
+452
+2,053
+2,553
+Charge for the year on owned assets
+-
+17
+11
+65
+93
+Disposals
+(44
+)
+-
+-
+-
+(44
+)
+At 30 April 2025
+-
+21
+463
+2,118
+2,602
+Net book value
+At 30 April 2025
+-
+50
+30
+102
+182
+At 30 April 2024
+-
+1
+3
+93
+97
+Page 46
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+16.
+Fixed asset investments
+Company
+Investments in subsidiary companies
+£000
+Cost or valuation
+At 1 May 2024
+8,624
+At 30 April 2025
+8,624
+Page 47
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+Subsidiary undertakings
+The following 
+were subsidiary undertakings of the Company:
+Name
+Registered office
+Principal activity
+Class of shares
+Holding
+Chess Partner Limited*
+1
+Supply of mobile airtime connectivity and information technology products and services
+Ordinary
+100
+%
+Chess ICT Limited*
+1
+Supply of information technology products and services
+Ordinary
+100
+%
+Chess Digital Limited**
+2
+Supply of information technology products and services
+Ordinary
+100
+%
+Chess ICT Burnley Limited**
+1
+Supply of information technology products and services
+Ordinary
+100
+%
+Stonehouse Logic Limited**
+1
+Dormant
+Ordinary
+100
+%
+TM Solutions Limited**
+1
+Supply of information technology products and services
+Ordinary
+100
+%
+Chess Wholesale Limited**
+1
+Supply of information technology products and services
+Ordinary
+100
+%
+Engage Your People Limited*
+1
+Supply of information technology products and services
+Ordinary
+100
+%
+Chess Energy Limited*
+1
+Dormant
+Ordinary
+100
+%
+Chess People Limited**
+1
+Dormant
+Ordinary
+100
+%
+Chess Telecom Limited*
+1
+Dormant
+Ordinary
+100
+%
+Smartflush Limited*
+1
+Dormant
+Ordinary
+100
+%
+TTNC Limited**
+1
+Supply of information technology products and services
+Ordinary
+100
+%
+Callagenix Limited**
+1
+Provision of telecommunication services
+Ordinary
+100
+%
+Commi Holdings Limited**
+1
+Provision of telecommunication services
+Ordinary
+100
+%
+Chess Security Limited**
+1
+Dormant
+Ordinary
+100
+%
+Page 48
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+Subsidiary undertakings (continued)
+*direct subsidiaries
+**indirect subsidiaries
+The address of the registered office for each entity (based on the registered address reference above) is as follows:
+1. Bridgford House, Heyes Lane, Alderley Edge, Cheshire, SK9 7JP
+2. Suite 2/3 2nd Floor, 48 West George Street, Glasgow, Scotland, G2 1BP
+In accordance with Section 479A of the Companies Act 2006 in respect of subsidiary audit exemptions, the following subsidiaries are entitled to exemption from audit. The members have not required these companies to obtain an audit for the year in question in accordance with section 476 of the Companies Act 2006:
+Chess Partner Limited  05091933
+Chess Digital Limited   SC296800
+Chess ICT Burnley Limited 02836404
+TM Solutions Limited  04222046
+Chess Wholesale Limited  12677077
+Engage Your People Limited 11352510
+TTNC Limited   05256607
+Callgenix Limited   10010712
+Commi Holdings Limited  10010319
+17.
+Stocks
+Group
+Group
+2025
+2024
+£000
+£000
+Finished goods and goods for resale
+248
+237
+The difference between purchase price or production cost of stocks and their replacement cost is not material.
+Page 49
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+18.
+Debtors
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£000
+£000
+£000
+£000
+Due after more than one year
+Other debtors
+4,118
+177
+-
+-
+4,118
+177
+-
+-
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£000
+£000
+£000
+£000
+Due within one year
+Trade debtors
+7,377
+5,232
+-
+-
+Amounts owed by group undertakings
+-
+161
+-
+-
+Other debtors
+1,798
+2,074
+762
+747
+Prepayments and accrued income
+5,170
+7,685
+2
+20
+Tax recoverable
+83
+12
+-
+-
+Deferred taxation
+182
+44
+-
+-
+14,610
+15,208
+764
+767
+Amounts owed by group undertakings are unsecured, interest free, have no fixed date of repayment and are repayable on demand.
+Other debtors include a loan of £4,117,851 (2024 - £3,398,805) owed by Chess-T2 Limited, a company
+under common control, which arose on disposal of Chess Cybersecurity Limited and Armadillo Sec
+Limited in the year ended 30 April 2024. This loan is due for settlement in January 2030 and attracts interest at a rate of 4% plus the Base Rate.
+Page 50
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+19.
+Creditors: Amounts falling due within one year
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£000
+£000
+£000
+£000
+Bank loans
+15,027
+-
+15,027
+-
+Trade creditors
+4,326
+2,336
+-
+-
+Amounts owed to group undertakings
+-
+161
+6,456
+3,860
+Corporation tax
+-
+1,209
+-
+-
+Other taxation and social security
+1,391
+1,164
+-
+-
+Contingent consideration
+454
+-
+-
+-
+Other creditors
+952
+615
+-
+-
+Accruals and deferred income
+5,750
+6,241
+75
+74
+27,900
+11,726
+21,558
+3,934
+Amounts owed to group undertakings are unsecured, interest free, have no fixed date of repayment and are repayable on demand.
+As at 30 April 2025, the Group had net current liabilities of £6.6m (2024 – net current assets of £11.9m) due mainly to the Group’s debt facilities falling due for renewal on 31 January 2026. Following the extension of the facility post year end, the Group has returned to a net current asset position.
+20.
+Creditors: Amounts falling due after more than one year
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£000
+£000
+£000
+£000
+Bank loans
+-
+15,492
+-
+15,492
+-
+15,492
+-
+15,492
+Page 51
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+20.
+Creditors: Amounts falling due after more than one year (continued)
+At 30 April 2025 the Group facilities consisted of:
+∙
+Barclays bank loan facilities of £25,000k (2023 - £25,000k) of which £15,000k (2023 - £15,750k) had been drawn at the year-end.
+At 30 April 2025, the Barclays bank loan facilities consist of:
+∙
+a non-amortising loan of £15,000k (2023 - £15,000k) specifically in relation to the JSOP as detailed in note 27. The bank loan disclosed within a year is measured at amortised cost under the effective interest method.
+∙
+a revolving facility of £5,000k (2023 - £5,000k), none of which was drawn on
+∙
+an option for a £5,000k accordion facility, which was not drawn on
+The interest rate on the above facilities ranges between 3.6% and 4.05% above the Compounded Reference Rate dependent on the gearing of the Group.
+The Barclays loan facilities are secured over the assets of the Group.
+On 27 January 2026, the directors extended the £15m facility with Barclays, drawn in relation to the JSOP, to a revised termination date of 31 January 2027. The renewed facility includes a further option for both parties to extend the termination date by one further year to 31 January 2028, subject to ongoing compliance with relevant adjusted leverage covenants.
+21.
+Loans
+Analysis of the maturity of loans is given below:
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£000
+£000
+£000
+£000
+Amounts falling due within one year
+Bank loans
+15,027
+-
+15,027
+-
+Amounts falling due 1-2 years
+Bank loans
+-
+15,492
+-
+15,492
+Amounts falling due 2-5 years
+15,027
+15,492
+15,027
+15,492
+As at 30 April 2025, the Group had net current liabilities of £6.6m (2024 – net current assets of £11.9m) due mainly to the Group’s debt facilities falling due for renewal on 31 January 2026. Following the extension of the facility post year end, the Group has returned to a net current asset position.
+Page 52
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+22.
+Financial instruments
+The Group's financial instruments comprise of borrowings, cash, liquid resources and various items such as trade debtors and creditors that arise directly from its operations. All financial instruments are denoted in sterling. The main purpose of holding cash is to finance the Group's future growth and operations. No trading in financial instruments is undertaken.
+The Group and Company have the following financial instruments:
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£000
+£000
+£000
+£000
+Financial liabilities
+Financial liabilities measured at amortised cost
+21,944
+27,002
+21,558
+19,426
+Financial assets
+Cash and cash equivalents
+6,409
+7,978
+849
+1,000
+Financial assets measured at amortised cost
+14,567
+10,215
+764
+767
+20,976
+18,193
+1,613
+1,767
+Page 53
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+23.
+Deferred taxation
+Group
+2025
+2024
+£000
+£000
+At 1 May 2024
+44
+169
+(Charged)/credited to profit or loss
+138
+(125
+)
+Deferred tax asset at end of year
+182
+44
+Company
+2025
+2024
+At end of year
+-
+-
+The 
+deferred tax asset
+ is made up as follows:
+Group
+Group
+2025
+2024
+£000
+£000
+Fixed asset timing differences
+182
+44
+Fixed asset timing differences are expected to reverse in line with each corresponding fixed asset class and the classes depreciation rates, as noted in the accounting policies.
+Page 54
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+24.
+Provisions
+Group
+Other provision
+£000
+At 1 May 2024
+71
+Provided in the year
+54
+Utilised in year
+(54
+)
+At 30 April 2025
+71
+The provision relates to an onerous lease which has been discounted using a weighted average cost of capital of 9.6%. The £54k utilised in the year represents the unwinding of the provision over the year to 30th April 2025. The remaining balance at 30th April 2025 relates to the remaining onerous lease period as well as a provision for maintenance costs.
+25.
+Share capital
+2025
+2024
+£
+£
+Allotted, called up and fully paid
+1,973,249
+Ordinary A
+shares of
+£
+0.01
+ each
+19,733
+19,853
+2,786,122
+Ordinary C
+shares of
+£
+0.01
+ each
+27,861
+27,861
+600,000
+Ordinary X
+shares of
+£
+0.01
+ each
+6,000
+6,000
+53,594
+53,714
+Page 55
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+25.
+Share capital (continued)
+No variation of the rights attaching to any class of shares shall be effective except with the consent in writing of the holders of not less than 75% of the nominal value of the A, C and X shares or on the sanction of an extraordinary resolution.
+Each class of share shall be entitled to receive such dividends in such amounts and on such dates as the board shall in its sole absolute discretion determine from time to time, with X Shares entitlement to dividends being capped at £20,000 per annum. To the extent any dividend is declared and approved in any financial year of the Company in which the holders of the X shares have already received their maximum entitlement, then. unless specified otherwise by the board, such dividend shall be paid to the holders of the C shares.
+The entitlement to equity value of each class of share is as follows:
+The X shares hold class rights of 10% of votes in Chess Limited, but only entitle the holders thereof to a maximum equity value of £100,000 on winding up or disposal. Any residual value in excess of the £100,000 is then payable pari passu to holders of C shares.
+The holders of the A, C and X shares shall be entitled to receive such dividends in such amounts and on such dates as the board shall in its sole discretion determine, save where the board makes specific direction for a specific dividend (or part thereof) to be paid to any other class(es) of shares. The A. C and X shares rank pari passu in respect of the payment of dividends. save that the X shares have the right to receive a maximum annual entitlement of per annum.
+The holders of the other classes of shares other than A, C and X shares shall be entitled to receive the nominal value of each share held.
+As at 30 April 2025, no options over 
+(2023 - Nil) 
+Ordinary A shares were outstanding under Employee Share Option Plans. Details of outstanding share options awarded to employees including executive directors are set out in note 27.
+Page 56
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+26.
+Reserves
+Share premium account
+This reserve records the amount above the nominal value received for shares sold, less transaction costs.
+Capital redemption reserve
+This reserve records the nominal value of shares repurchased by the Company.
+Treasury shares reserve
+The Treasury shares reserve consists of shares repurchased by the Group's Employee Benefit Trusts. Shares are issued to employees as they exercise their options under the share-based payment arrangements set out in note 27. The amount of the reserve represents the deduction in arriving at shareholders' funds for the consideration paid for the Company's shares purchased by the Trusts.
+The shares issued are valued based on the weighted average cost of the cumulative shares held at the date of exercise. Gains or losses arising on the sale of shares are recognised within profit and loss reserves.
+Share-based payment reserve
+This reserve relates to the fair value of the options granted which has been charged to profit or loss over the vesting period of the options.
+Profit and loss account
+This reserve relates to the cumulative retained earnings less amounts distributed to shareholders.
+Page 57
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+27.
+Share-based payments
+Group and Company
+The charge recognised for share-based payments in respect of employee services received during year to 30 April 2025 is £Nil 
+(2024 - £Nil)
+, which arose from equity-settled share-based payment transactions.
+The Chess Limited Joint Share Ownership Plan (JSOP)
+In January 2016 the Company established an employees' joint share ownership plan ('the JSOP') under which selected employees of the Company were invited to acquire interests, as joint beneficial owners upon the terms of a joint ownership agreement ('JOA'), in a total of 600,962 shares in the Company held by the Trust. In 2022, the JSOP was revised with additional invites to selected senior employees to acquire interests on revised terms. Such shares ('Jointly Owned Shares') are beneficially jointly owned by the Trust and the employee to whom such an interest in the shares has been awarded. The JOA provides for:
+∙
+the initial acquisition of the employee's interest, as joint Owner, in the Jointly Owned Shares: and
+∙
+the division of the proceeds of sale, as between the employee and the Trust, when vested Jointly Owned Shares are sold or otherwise disposed of.
+In particular, the JOA provides that the proceeds of sale of vested Jointly Owned Shares will be divided unequally between the employee and the Trust so that the employee will receive all of the growth in value of the Jointly Owned Shares above a threshold amount of £21.59 per share (plus a fixed rate of interest on their initial value), and the Trust will be entitled to the balance, i.e. the threshold amount of the Jointly Owned Shares plus the interest calculated on that amount ("the Hurdle Amount'). If the disposal proceeds are Less than the Hurdle Amount, the Trust will be entitled to the whole of the proceeds (less a nominal amount).
+Vesting of the employees' interests in the Jointly Owned Shares is subject to performance targets relating to the Level of EBITDA achieved in the financial years up to and including 30 April 2024. The EBITDA target was not achieved and therefore the value attributed to the shares at 30 April 2024 was Nil. If an employee's interest in Jointly Owned Shares does not become 'vested', the Trust will have the right to buy back the interest for a nominal consideration.
+Vested Jointly Owned Shares may only be sold with the agreement of both joint owners and subject to the JOA and the Articles of Association of the Company.
+There were no share options outstanding at the year end
+ (2023 - none)
+.
+28.
+Discontinued operations
+On 16 June 2023, the Group headed by Chess Limited disposed of its 100% ownership in two subsidiaries, Chess Cybersecurity Limited and Armadillo Sec limited, to Chess-T2 Limited, a company under common control and incorporated in England and Wales. These financial statements present the results of these companies to the date of disposal as discontinued operations. In accordance with FRS 102, comparative figures in respect of these operations have been presented as discontinued operations in these financial statements.
+Page 58
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+29.
+Business combinations
+On 8 November 2024, Chess ICT Limited, a subsidiary of Chess Limited, acquired the trade and assets of Silversands Limited. This transaction has been deemed to constitute a business combination under Section 19 of FRS 102. The following table sets out a summary of the assets and liabilities acquired during this transaction, together with details of how the purchase consideration was settled.
+Acquisition of 
+Silversands Limited
+Recognised amounts of identifiable assets acquired and liabilities assumed
+Book value
+Fair value adjustments
+Fair value
+£000
+£000
+£000
+Fixed Assets
+Tangible
+101,987
+-
+101,987
+Customer relationship assets
+-
+654,869
+654,869
+101,987
+654,869
+756,856
+Current Assets
+Debtors
+675,892
+-
+675,892
+Total Assets
+777,879
+654,869
+1,432,748
+Creditors
+Due within one year
+(866,217
+)
+-
+(
+866,217
+)
+Total Identifiable net (liabilities)/assets
+(88,338
+)
+654,869
+566,531
+Consideration
+£000
+Cash
+509,675
+Directly attributable costs
+56,856
+Total purchase consideration
+566,531
+Page 59
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+29.
+Business combinations (continued)
+£000
+Cash outflow on acquisition
+Purchase consideration settled in cash, as above
+509,675
+Directly attributable costs
+56,856
+566,531
+Net cash outflow on acquisition
+566,531
+30.
+Pension commitments
+The Group operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the Group in an independently administered fund. The pension cost charge represents contributions payable by the Group to the fund and amounted to £387k
+ (2024 - £394k).
+ Contributions totalling £85k
+ (2024 - £
+83
+k)
+ were payable to the fund at the balance sheet date and are included in creditors.
+31.
+Related party transactions
+The Company has taken advantage of the exemption in FRS 102 Section 33.1A to not disclose transactions with wholly owned group entities.
+Fees paid to T Velarde Pollock (C D Pollock's spouse) during the year were £30,250 
+(2024 - £30,000)
+ which were in relation to her role as company secretary.
+Fees paid to Antrobus Capital Partners during the year of £43,026 
+(2024 - £53,785)
+ for the services of R J Hemming as non-executive director. R J Hemming is the majority shareholder of Antrobus Capital Partners.
+During the year ended 30 April 2025, the Group advanced additional loans to Chess-T2 Limited, a company under common control. At the balance sheet date, £4,117,851 was owed to the Group by this related party and the outstanding balance is included in other debtors. Interest totalling £324,634 was charged on this loan during the year and is presented as interest receivable.
+Key management personnel
+Key management personnel received total remuneration of £1,080k (2023 - £1,414k) during the year.
+32.
+Post balance sheet events
+On 27 January 2026, the directors extended the £15m facility with Barclays, drawn in relation to the JSOP, to a revised termination date of 31 January 2027. The renewed facility includes a further option for both parties to extend the termination date by one further year to 31 January 2028, subject to ongoing compliance with relevant adjusted leverage covenants. . 
+Page 60
+CHESS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 APRIL 2025
+33.
+Controlling party
+The ultimate controlling party is 
+C D Pollock
+, by virtue of his shareholding and directorship in the Company.
+Page 61

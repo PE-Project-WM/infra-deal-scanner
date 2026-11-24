@@ -44,4 +44,31 @@ def apply_ocr(F):
                 F.at[i, k] = v
         n_read += 1
     print(f'OCR: figures filled for {n_read} scanned filings; {n_failed} could not be read')
+    return apply_corrections(F)
+
+FIX = f'{ROOT}/config/figure_corrections.csv'
+
+def apply_corrections(F):
+    """Figures checked by hand against the filing replace misread ones (config/figure_corrections.csv).
+
+    One row per corrected field, in pounds (or the accounts currency for companies in company_currency.csv), for the filing named by its filing date. EBITDA, margin and
+    status are then worked out again.
+    """
+    if not os.path.exists(FIX):
+        return F
+    X = pd.read_csv(FIX, dtype={'CompanyNumber': str, 'accounts_filed': str})
+    n = 0
+    for (num, filed), g in X.groupby(['CompanyNumber', 'accounts_filed']):
+        idx = F.index[(F['CompanyNumber'] == num) & (F['accounts_filed'].astype(str) == filed)]
+        for i in idx:
+            row = F.loc[i].to_dict()
+            for _, x in g.iterrows():
+                row[x['field']] = x['value'] if x['field'] == 'ebitda_basis' else float(x['value'])
+            row['figures_source'] = str(row.get('figures_source', '')).split(' (')[0].replace(', check', '') + ', corrected by hand'
+            row = classify(row)
+            for k, v in row.items():
+                if k in F.columns:
+                    F.at[i, k] = v
+            n += 1
+    print(f'Hand corrections applied to {n} filings')
     return F

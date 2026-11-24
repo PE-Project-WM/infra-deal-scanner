@@ -1,0 +1,3294 @@
+
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+2025-07-31
+2025-07-31
+2025-07-31
+0
+false
+false
+false
+0
+0
+false
+2024-08-01
+No description of principal activity
+03752620
+2024-08-01
+2025-07-31
+03752620
+2023-08-01
+2024-07-31
+03752620
+2025-07-31
+03752620
+2024-07-31
+03752620
+2023-08-01
+03752620
+2
+2024-08-01
+2025-07-31
+03752620
+2
+2023-08-01
+2024-07-31
+03752620
+d:CompanySecretary1
+2024-08-01
+2025-07-31
+03752620
+d:Director1
+2024-08-01
+2025-07-31
+03752620
+d:Director2
+2024-08-01
+2025-07-31
+03752620
+d:Director3
+2024-08-01
+2025-07-31
+03752620
+d:Director4
+2024-08-01
+2025-07-31
+03752620
+d:RegisteredOffice
+2024-08-01
+2025-07-31
+03752620
+e:Buildings
+e:LongLeaseholdAssets
+2024-08-01
+2025-07-31
+03752620
+e:PlantMachinery
+2024-08-01
+2025-07-31
+03752620
+e:MotorVehicles
+2024-08-01
+2025-07-31
+03752620
+e:MotorVehicles
+2025-07-31
+03752620
+e:MotorVehicles
+2024-07-31
+03752620
+e:MotorVehicles
+e:OwnedOrFreeholdAssets
+2024-08-01
+2025-07-31
+03752620
+e:FurnitureFittings
+2024-08-01
+2025-07-31
+03752620
+e:FurnitureFittings
+2025-07-31
+03752620
+e:FurnitureFittings
+2024-07-31
+03752620
+e:FurnitureFittings
+e:OwnedOrFreeholdAssets
+2024-08-01
+2025-07-31
+03752620
+e:OfficeEquipment
+2024-08-01
+2025-07-31
+03752620
+e:ComputerEquipment
+2024-08-01
+2025-07-31
+03752620
+e:ComputerEquipment
+2025-07-31
+03752620
+e:ComputerEquipment
+2024-07-31
+03752620
+e:ComputerEquipment
+e:OwnedOrFreeholdAssets
+2024-08-01
+2025-07-31
+03752620
+e:OwnedOrFreeholdAssets
+2024-08-01
+2025-07-31
+03752620
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-08-01
+2025-07-31
+03752620
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2025-07-31
+03752620
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-07-31
+03752620
+e:Goodwill
+2024-08-01
+2025-07-31
+03752620
+e:Goodwill
+2025-07-31
+03752620
+e:Goodwill
+2024-07-31
+03752620
+e:NegativeGoodwill
+2024-08-01
+2025-07-31
+03752620
+e:NegativeGoodwill
+2025-07-31
+03752620
+e:NegativeGoodwill
+2024-07-31
+03752620
+e:CurrentFinancialInstruments
+2025-07-31
+03752620
+e:CurrentFinancialInstruments
+2024-07-31
+03752620
+e:Non-currentFinancialInstruments
+2025-07-31
+03752620
+e:Non-currentFinancialInstruments
+2024-07-31
+03752620
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2025-07-31
+03752620
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2024-07-31
+03752620
+e:Non-currentFinancialInstruments
+e:AfterOneYear
+2025-07-31
+03752620
+e:Non-currentFinancialInstruments
+e:AfterOneYear
+2024-07-31
+03752620
+e:Non-currentFinancialInstruments
+e:BetweenOneTwoYears
+2025-07-31
+03752620
+e:Non-currentFinancialInstruments
+e:BetweenOneTwoYears
+2024-07-31
+03752620
+e:ShareCapital
+2024-08-01
+2025-07-31
+03752620
+e:ShareCapital
+2025-07-31
+03752620
+e:ShareCapital
+2023-08-01
+2024-07-31
+03752620
+e:ShareCapital
+2024-07-31
+03752620
+e:ShareCapital
+2023-08-01
+03752620
+e:RetainedEarningsAccumulatedLosses
+2024-08-01
+2025-07-31
+03752620
+e:RetainedEarningsAccumulatedLosses
+2025-07-31
+03752620
+e:RetainedEarningsAccumulatedLosses
+2
+2024-08-01
+2025-07-31
+03752620
+e:RetainedEarningsAccumulatedLosses
+2023-08-01
+2024-07-31
+03752620
+e:RetainedEarningsAccumulatedLosses
+2024-07-31
+03752620
+e:RetainedEarningsAccumulatedLosses
+2023-08-01
+03752620
+e:RetainedEarningsAccumulatedLosses
+2
+2023-08-01
+2024-07-31
+03752620
+e:FinancialAssetsDesignatedFairValueThroughProfitOrLoss
+2025-07-31
+03752620
+e:FinancialAssetsDesignatedFairValueThroughProfitOrLoss
+2024-07-31
+03752620
+e:FinancialLiabilitiesFairValueThroughProfitOrLoss
+e:UnlistedNon-exchangeTraded
+2025-07-31
+03752620
+e:FinancialLiabilitiesFairValueThroughProfitOrLoss
+e:UnlistedNon-exchangeTraded
+2024-07-31
+03752620
+e:AcceleratedTaxDepreciationDeferredTax
+2025-07-31
+03752620
+e:AcceleratedTaxDepreciationDeferredTax
+2024-07-31
+03752620
+d:OrdinaryShareClass1
+2024-08-01
+2025-07-31
+03752620
+d:OrdinaryShareClass1
+2025-07-31
+03752620
+d:OrdinaryShareClass1
+2024-07-31
+03752620
+d:OrdinaryShareClass2
+2024-08-01
+2025-07-31
+03752620
+d:OrdinaryShareClass2
+2025-07-31
+03752620
+d:OrdinaryShareClass2
+2024-07-31
+03752620
+d:OrdinaryShareClass3
+2024-08-01
+2025-07-31
+03752620
+d:OrdinaryShareClass3
+2025-07-31
+03752620
+d:OrdinaryShareClass3
+2024-07-31
+03752620
+d:FRS102
+2024-08-01
+2025-07-31
+03752620
+d:Audited
+2024-08-01
+2025-07-31
+03752620
+d:FullAccounts
+2024-08-01
+2025-07-31
+03752620
+d:PrivateLimitedCompanyLtd
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary1
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary2
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary2
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary3
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary3
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary4
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary4
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary5
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary5
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary6
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary6
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary7
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary7
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary8
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary8
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary9
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary9
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary10
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary10
+1
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary11
+2024-08-01
+2025-07-31
+03752620
+e:Subsidiary11
+1
+2024-08-01
+2025-07-31
+03752620
+e:WithinOneYear
+2025-07-31
+03752620
+e:WithinOneYear
+2024-07-31
+03752620
+e:BetweenOneFiveYears
+2025-07-31
+03752620
+e:BetweenOneFiveYears
+2024-07-31
+03752620
+d:Consolidated
+2025-07-31
+03752620
+d:ConsolidatedGroupCompanyAccounts
+2024-08-01
+2025-07-31
+03752620
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+e:ExternallyAcquiredIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+e:Goodwill
+e:ExternallyAcquiredIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+e:NegativeGoodwill
+e:ExternallyAcquiredIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+2
+2024-08-01
+2025-07-31
+03752620
+4
+2024-08-01
+2025-07-31
+03752620
+6
+2024-08-01
+2025-07-31
+03752620
+e:ExternallyAcquiredIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+e:ShareCapital
+2
+2024-08-01
+2025-07-31
+03752620
+e:ShareCapital
+2
+2023-08-01
+2024-07-31
+03752620
+e:Goodwill
+e:OwnedIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+e:NegativeGoodwill
+e:OwnedIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+e:OwnedIntangibleAssets
+2024-08-01
+2025-07-31
+03752620
+f:PoundSterling
+2024-08-01
+2025-07-31
+03752620
+e:PreviouslyStatedAmount
+2024-07-31
+03752620
+e:MotorVehicles
+e:PreviouslyStatedAmount
+2024-07-31
+03752620
+e:FurnitureFittings
+e:PreviouslyStatedAmount
+2024-07-31
+03752620
+e:ComputerEquipment
+e:PreviouslyStatedAmount
+2024-07-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 
+03752620
+WINDSOR TELECOM LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 JULY 2025
+WINDSOR TELECOM LIMITED
+COMPANY INFORMATION
+Directors
+D Bennett
+N Burrows
+N Sherring
+P Tomlinson
+Company secretary
+D Bennett
+Registered number
+03752620
+Registered office
+Wey Court West
+Union Road
+Farnham
+Surrey
+GU9 7PT
+Trading Address
+Riverside House
+4 Meadows Business Park
+Station Approach Blackwater
+Camberley
+GU17 9AB
+Independent auditors
+Shaw Gibbs (Audit) Limited
+Statutory Auditor
+Wey Court West
+Union Road
+Farnham
+Surrey
+GU9 7PT
+WINDSOR TELECOM LIMITED
+CONTENTS
+Page
+Group strategic report
+1 - 2
+Directors' report
+3 - 4
+Independent auditors' report
+5 - 8
+Consolidated statement of comprehensive income
+9
+Consolidated statement of financial position
+10 - 11
+Company statement of financial position
+12 - 13
+Consolidated statement of changes in equity
+14 - 15
+Company statement of changes in equity
+16 - 17
+Consolidated statement of cash flows
+18 - 19
+Consolidated analysis of net debt
+19
+Notes to the financial statements
+20 - 45
+WINDSOR TELECOM LIMITED
+GROUP STRATEGIC REPORT
+FOR THE YEAR ENDED 31 JULY 2025
+Introduction
+Windsor Telecom makes technology easy and enjoyable. Our three missions are to help businesses collaborate better, be more productive and stay secure. We do this by guiding customers through our skills and capability in telecoms, IT and cyber security.
+With a high quality customer base and industry-leading levels of customer satisfaction, Windsor is a profitable, cash generative business operating in an attractive market.
+Business review
+During the year ended 31 July 2025 we focused on our expanded capabilities, integrating the four business acquired between 2023 and 2024 allowing us to leverage the commercial opportunities arising from these acquisitions. This also expanded our geographic footprint across the UK.
+These acquisitions have deepened our capabilities, especially in the managed IT and cyber security arena which complement our established telecoms portfolio. We are already seeing positive impacts on our organic performance through with cross selling these capabilities. The businesses acquired have collectively performed in line with expectations, adding scale, geographic reach and increased capability to the enlarged Windsor Telecom.
+Additionally, through the year we created a common set of systems and platforms covering the fully quote to cash cycle as well as in-life support. This also presents further opportunities for efficiency through increased use of AI and automation. From FY26 financial reporting will be rationalised across the business.
+Alongside the acquisitions the organic turnover and gross profit performed in line with expectations. This was achieved through growing our relationships with our existing customers, as well as adding new logo customers across each of our strategic portfolio areas of communications, connectivity and managed IT services.
+ARPU, a key measure of the success of our strategy to cross and upsell higher value services, also increased which is testament to the broad and appealing product offering we have built, together with our market-leading customer service.
+We continued to deliver on our plan, further enhancing Windsor Telecom’s position in the market and ability to take advantage of growing demand for B2B technology services. Investment continued in the team with key hires including key talent from the acquired businesses and continued investment in product and systems development, as a platform for further growth.
+Page 1
+WINDSOR TELECOM LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+Principal risks and uncertainties
+Windsor Telecom operates in a dynamic market and the Board monitors customer and industry trends, together with existing and potential new technology partners to ensure we remain relevant. We also track the work of the Telecoms regulator OFCOM and note the government’s plans associated with the upcoming UK Cyber Security and Resilience Bill.
+AI will be disruptive as it enters mainstream adoption. We believe on balance this represents a significant opportunity across three vectors. Enhanced capability within the products and services offered by our technology partners will drive added value and customer adoption. Specifically we have identified new revenue streams from supporting customer AI projects, specifically in Microsoft Copilot adoption and natural language voice agents. Our own adoption is already delivering clear benefits from automating routine tasks and allowing us to scale more cost efficiently.
+Wider macro economic trends and government policy may impact the business, including taxation and interest rates however the services the business provide are considered to be resilient and proven to remain critical to our customers regardless of economic cycles.
+Financial key performance indicators
+                                                              Change                        FY25                    FY24
+Turnover (group)                                                 15.6%                            £15,448                    £13,360
+Gross profit (group)                                             7.1%                       £ 8,714                         £8,135
+With the strategic plan progressing well, we have continued to invest in strengthening the team and in new product development, with the acknowledgement these costs adversely impact overall EBITDA in the short term. 
+The group incurred unusually high exceptional costs in the period, primarily relating to M&A, integration, funding and associated strategic activity. As a result, while underlying operating profit continued to be strong, retained profit for the year to July 2025 is negative. We expect the level of exceptional costs to normalise going forward. 
+These costs are expected to unwind in subsequent years as the group benefits from the anticipated synergies from the acquisitions.
+This report was approved by the board
+ and signed on its behalf
+.
+P Tomlinson
+Director
+Date: 
+30 July 2026
+Page 2
+WINDSOR TELECOM LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 JULY 2025
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 July 2025
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Group strategic report, the Directors' report and the 
+consolidated 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company and the Group
+ and of the 
+profit or loss
+ of the 
+Group
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Group's financial statements
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Group will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company and the Group
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company and the Group
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The 
+loss
+ for the 
+year
+, after taxation, amounted to 
+£
+409,965
+ (2024 - profit 
+£
+253,108
+)
+.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+D Bennett
+N Burrows
+N Sherring
+P Tomlinson
+Future developments
+The board continues to have confidence in a positive future outlook for the business, supported by the strength of current trading, the attractiveness of the market and our progress on the strategic plan.
+Page 3
+WINDSOR TELECOM LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company and the Group
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company and the Group
+'s auditor
+s
+are
+ aware of that information.
+Post balance sheet events
+There have been no significant events affecting the 
+Group
+ since the year end.
+Auditors
+The auditor
+s
+, 
+Shaw Gibbs (Audit) Limited
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+P Tomlinson
+Director
+Date: 
+30 July 2026
+Page 4
+WINDSOR TELECOM LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF WINDSOR TELECOM LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Windsor Telecom Limited (the 'Parent Company') and its subsidiaries (the 'Group')
+ for the 
+year
+ ended 
+31 July 2025
+, which comprise 
+the Consolidated statement of comprehensive income, the Consolidated analysis of net debt, the Consolidated Statement of Financial Position, the Company Statement of Financial Position, the Consolidated Statement of Cash Flows, the Consolidated Statement of Changes in Equity, the Company Statement of Changes in Equity
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Group's and of the Parent Company's
+ affairs as at 
+31 July 2025
+ and of 
+the Group's
+loss
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Group
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Group's or the Parent Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 5
+WINDSOR TELECOM LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF WINDSOR TELECOM LIMITED (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Group strategic report and the Directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Group strategic report and the Directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Group and the Parent Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Group strategic report or the Directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept by the Parent Company
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+Parent Company financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Page 6
+WINDSOR TELECOM LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF WINDSOR TELECOM LIMITED (CONTINUED)
+Responsibilities of directors
+As explained more fully in the 
+Directors' responsibilities statement
+ set out on page 3, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Group's and the Parent Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Group or the Parent Company
+ or to cease operations, or 
+have
+ no realistic alternative but to do so.
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+Group financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+We gained an understanding of the legal and regulatory framework applicable to the company and the industry
+in which it operates, and considered the risk of acts by the company that were contrary to applicable laws and
+regulations, including fraud. We designed audit procedures to respond to the risk, recognising that the risk of
+not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from
+error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations, or
+through collusion.
+We focussed on laws and regulations which could give rise to a material misstatement in the financial
+statements, including, but not limited to, the Companies Act 2006 and UK tax legislation. 
+Our tests included agreeing the financial statement disclosures to underlying supporting documentation,
+enquiries with management and reviewing legal invoices. There are inherent limitations in the audit procedures
+described above and, the further removed non-compliance with laws and regulations is from the events and
+transactions reflected in the financial statements, the less likely we would become aware of it. We did not
+identify any key audit matters relating to irregularities, including fraud. As in all our audits, we also addressed
+the risk of management override of internal controls, including testing journals and evaluating whether there was
+evidence of bias by the directors that represented a risk of material misstatement due to fraud.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial
+Reporting Council's website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our
+Auditors' report.
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditors' report
+.
+Page 7
+WINDSOR TELECOM LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF WINDSOR TELECOM LIMITED (CONTINUED)
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Stephen Morgan FCA
+ (Senior statutory auditor)
+for and on behalf of
+Shaw Gibbs (Audit) Limited
+Statutory Auditor
+Wey Court West
+Union Road
+Farnham
+Surrey
+GU9 7PT
+30 July 2026
+Page 8
+WINDSOR TELECOM LIMITED
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 JULY 2025
+2025
+2024
+Note
+£
+£
+Turnover
+5
+15,448,141
+13,359,591
+Cost of sales
+(6,733,960
+)
+(5,225,009
+)
+Gross profit
+8,714,181
+8,134,582
+Administrative expenses
+(5,907,424
+)
+(5,698,189
+)
+Exceptional administrative expenses
+14
+(739,465
+)
+(398,523
+)
+Other operating income
+-
+15,571
+Operating profit
+7
+2,067,292
+2,053,441
+Interest receivable and similar income
+11
+28,450
+7,444
+Interest payable and similar expenses
+12
+(2,156,589
+)
+(1,707,619
+)
+(Loss)/profit before tax
+(60,847
+)
+353,266
+Tax on (loss)/profit
+(349,118
+)
+(100,158
+)
+(Loss)/profit for the financial year
+(409,965
+)
+253,108
+Profit for the year attributable to:
+Owners of the parent company
+409,965
+(253,108
+)
+409,965
+(253,108
+)
+There were no recognised gains and losses for 
+2025
+ or 
+2024
+ other than those included in the 
+consolidated statement of comprehensive income
+.
+There was no other comprehensive income for 
+2025
+ (
+2024
+:
+£
+NIL
+).
+The notes on pages 20 to 45 form part of these 
+financial statements
+.
+Page 9
+WINDSOR TELECOM LIMITED
+REGISTERED NUMBER: 
+03752620
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+AS AT 
+31 JULY 2025
+2025
+2024
+Note
+£
+£
+Fixed assets
+Intangible assets
+15
+14,859,071
+15,157,671
+Tangible assets
+16
+133,126
+148,438
+14,992,197
+15,306,109
+Current assets
+Stocks
+18
+15,631
+12,576
+Debtors
+19
+6,235,657
+7,227,378
+Cash at bank and in hand
+20
+1,392,121
+1,446,217
+7,643,409
+8,686,171
+Creditors: amounts falling due within one year
+21
+(4,668,570
+)
+(4,704,993
+)
+Net current assets
+2,974,839
+3,981,178
+Total assets less current liabilities
+17,967,036
+19,287,287
+Creditors: amounts falling due after more than one year
+22
+(17,779,651
+)
+(18,547,020
+)
+Provisions for liabilities
+Deferred tax
+25
+(145,790
+)
+(178,313
+)
+(145,790
+)
+(178,313
+)
+Net assets
+41,595
+561,954
+Capital and reserves
+Called up share capital 
+26
+50,000
+50,000
+Profit and loss account
+27
+(8,405
+)
+511,954
+41,595
+561,954
+Page 10
+WINDSOR TELECOM LIMITED
+REGISTERED NUMBER: 
+03752620
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+ (CONTINUED)
+AS AT 
+31 JULY 2025
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+P Tomlinson
+Director
+Date: 
+30 July 2026
+The notes on pages 20 to 45 form part of these financial statements.
+Page 11
+WINDSOR TELECOM LIMITED
+REGISTERED NUMBER: 
+03752620
+COMPANY STATEMENT OF FINANCIAL POSITION
+AS AT 
+31 JULY 2025
+2025
+2024
+Note
+£
+£
+Fixed assets
+Intangible assets
+15
+14,859,071
+6,723,714
+Tangible assets
+16
+133,126
+98,167
+Investments
+17
+8,931
+10,050,745
+15,001,128
+16,872,626
+Current assets
+Stocks
+18
+15,631
+12,576
+Debtors
+19
+6,185,173
+6,824,543
+Cash at bank and in hand
+20
+1,392,121
+783,456
+7,592,925
+7,620,575
+Creditors: amounts falling due within one year
+21
+(
+4,677,574
+)
+(
+5,692,875
+)
+Net current assets
+2,915,351
+1,927,700
+Total assets less current liabilities
+17,916,479
+18,800,326
+Creditors: amounts falling due after more than one year
+22
+(
+17,779,651
+)
+(
+18,547,020
+)
+Provisions for liabilities
+Deferred taxation
+25
+(
+145,790
+)
+(
+176,543
+)
+(
+145,790
+)
+(
+176,543
+)
+Net assets excluding pension asset
+(8,962
+)
+76,763
+Net (liabilities)/assets
+(
+8,962
+)
+76,763
+Capital and reserves
+Called up share capital 
+26
+50,000
+50,000
+Profit and loss account brought forward
+26,763
+828,429
+Profit/(loss) for the year
+24,669
+(
+231,666
+)
+Other changes in the profit and loss account
+(110,394
+)
+(570,000
+)
+Profit and loss account carried forward
+(
+58,962
+)
+26,763
+(
+8,962
+)
+76,763
+Page 12
+WINDSOR TELECOM LIMITED
+REGISTERED NUMBER: 
+03752620
+COMPANY STATEMENT OF FINANCIAL POSITION
+ (CONTINUED)
+AS AT 
+31 JULY 2025
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+P Tomlinson
+Director
+Date: 
+30 July 2026
+The notes on pages 20 to 45 form part of these financial statements.
+Page 13
+WINDSOR TELECOM LIMITED
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 JULY 2025
+Called up share capital
+Profit and loss account
+Equity attributable to owners of parent Company
+Total equity
+£
+£
+£
+£
+At 1 August 2024
+50,000
+511,954
+561,954
+561,954
+Comprehensive income for the year
+Loss for the year
+-
+(409,965
+)
+(409,965
+)
+(409,965
+)
+Total comprehensive income for the year
+-
+(409,965
+)
+(409,965
+)
+(409,965
+)
+Contributions by and distributions to owners
+Capital distribution
+-
+(110,394
+)
+(110,394
+)
+(110,394
+)
+Total transactions with owners
+-
+(110,394
+)
+(110,394
+)
+(110,394
+)
+At 31 July 2025
+50,000
+(8,405
+)
+41,595
+41,595
+The notes on pages 20 to 45 form part of these 
+financial statements
+.
+Page 14
+WINDSOR TELECOM LIMITED
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 JULY 2024
+Called up share capital
+Profit and loss account
+Equity attributable to owners of parent Company
+Total equity
+£
+£
+£
+£
+At 1 August 2023
+50,000
+828,846
+878,846
+878,846
+Comprehensive income for the year
+Profit for the year
+-
+253,108
+253,108
+253,108
+Total comprehensive income for the year
+-
+253,108
+253,108
+253,108
+Contributions by and distributions to owners
+Capital distribution
+-
+(570,000
+)
+(570,000
+)
+(570,000
+)
+At 31 July 2024
+50,000
+511,954
+561,954
+561,954
+The notes on pages 20 to 45 form part of these 
+financial statements
+.
+Page 15
+WINDSOR TELECOM LIMITED
+COMPANY STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 JULY 2025
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 August 2024
+50,000
+26,763
+76,763
+Comprehensive income for the year
+Profit for the year
+-
+24,669
+24,669
+Total comprehensive income for the year
+-
+24,669
+24,669
+Contributions by and distributions to owners
+Capital distribution
+-
+(
+110,394
+)
+(
+110,394
+)
+At 31 July 2025
+50,000
+(
+58,962
+)
+(
+8,962
+)
+The notes on pages 20 to 45 form part of these 
+financial statements
+.
+Page 16
+WINDSOR TELECOM LIMITED
+COMPANY STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 JULY 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 August 2023
+50,000
+828,429
+878,429
+Comprehensive income for the year
+Loss for the year
+-
+(
+231,666
+)
+(
+231,666
+)
+Total comprehensive income for the year
+-
+(
+231,666
+)
+(
+231,666
+)
+Contributions by and distributions to owners
+Capital distribution
+-
+(
+570,000
+)
+(
+570,000
+)
+At 31 July 2024
+50,000
+26,763
+76,763
+The notes on pages 20 to 45 form part of these 
+financial statements
+.
+Page 17
+WINDSOR TELECOM LIMITED
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 JULY 2025
+2025
+2024
+£
+£
+Cash flows from operating activities
+(Loss)/profit for the financial year
+(409,965
+)
+253,108
+Adjustments for:
+Amortisation of intangible assets
+599,893
+604,534
+Depreciation of tangible assets
+60,218
+63,270
+Interest paid
+2,156,589
+1,707,619
+Investment income received
+(28,450
+)
+(7,444
+)
+Taxation charge
+349,118
+100,157
+(Increase)/decrease in stocks
+(3,055
+)
+747
+Decrease in debtors
+991,720
+2,963,944
+Increase/(decrease) in creditors
+260,116
+(2,223,388
+)
+Corporation tax (paid)
+(295,886
+)
+(141,659
+)
+Net cash generated from operating activities
+3,680,298
+3,320,888
+Cash flows from investing activities
+Purchase of intangible fixed assets
+(270,690
+)
+(304,990
+)
+Purchase of tangible fixed assets
+(46,389
+)
+(57,163
+)
+Sale of tangible fixed assets
+1,482
+7,943
+Purchase of fixed asset investments
+(30,603
+)
+(7,103,295
+)
+Interest received
+28,450
+7,444
+Net cash from investing activities
+(317,750
+)
+(7,450,061
+)
+Cash flows from financing activities
+Other new loans
+-
+8,285,000
+Repayment of other loans
+(1,149,661
+)
+(1,515,430
+)
+Capital distribution
+(110,394
+)
+(570,000
+)
+Interest paid
+(2,156,589
+)
+(1,707,619
+)
+Net cash used in financing activities
+(3,416,644
+)
+4,491,951
+Net (decrease)/increase in cash and cash equivalents
+(54,096
+)
+362,778
+Cash and cash equivalents at beginning of year
+1,446,217
+1,083,439
+Cash and cash equivalents at the end of year
+1,392,121
+1,446,217
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+1,392,121
+1,446,217
+Page 18
+WINDSOR TELECOM LIMITED
+CONSOLIDATED STATEMENT OF CASH FLOWS (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2025
+2025
+2024
+£
+£
+1,392,121
+1,446,217
+CONSOLIDATED ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 31 JULY 2025
+At 1 August 2024
+Cash flows
+At 31 July 2025
+£
+£
+£
+Cash at bank and in hand
+1,446,217
+(54,096
+)
+1,392,121
+Debt due after 1 year
+(18,221,840
+)
+1,139,180
+(17,082,660
+)
+Debt due within 1 year
+(904,330
+)
+10,521
+(893,809
+)
+(17,679,953
+)
+1,095,605
+(16,584,348
+)
+The notes on pages 20 to 45 form part of these 
+financial statements
+.
+Page 19
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+1.
+General information
+Windsor Telecom Limited (03752620) is a private company limited by shares. It is incorporated in England and Wales. The registered office is Wey Court West, Union Road, Farnham, Surrey, GU9 7PT. 
+The principal place of business is Riverside House, 4 Meadows Business Park, Station Approach Blackwater, Camberley, GU17 9AB.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires 
+Group 
+management to exercise 
+judgment
+ in applying the 
+Group
+'s 
+accounting policies
+ (see note 4).
+The financial statements are presented in sterling to whole £s.
+The following 
+principal
+accounting policies
+ have been applied:
+2.2
+Basis of consolidation
+The consolidated 
+financial statements
+ present the results of the 
+Company
+ and its own subsidiaries ("the 
+Group
+") as if they form a single entity. Intercompany transactions and balances between group companies are therefore eliminated in full.
+The consolidated 
+financial statements
+ incorporate the results of business combinations using the purchase method. In the 
+Statement of financial position
+, the acquiree's identifiable assets, liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date. The results of acquired operations are included in the 
+Consolidated statement of comprehensive income
+ from the date on which control is obtained. They are deconsolidated from the date control ceases.
+In accordance with the transitional exemption available in FRS 102, the 
+Group
+ has chosen not to retrospectively apply the standard to business combinations that occurred before the date of transition to FRS 102, being 
+01 January 2014
+.
+Page 20
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.3
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+2.4
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Group
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Sale of goods
+Revenue
+ from the sale of goods is recognised when all of the following conditions are satisfied:
+∙
+the 
+Group
+ has transferred the significant risks and rewards of ownership to the buyer;
+∙
+the 
+Group
+ retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold;
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Group
+ will receive the consideration due under the transaction; and
+∙
+the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Group
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+Page 21
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.5
+Operating leases: the Group as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.6
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which range from 3 to 6 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.7
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.9
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the 
+year
+ in which they are incurred.
+2.10
+Pensions
+Defined contribution pension plan
+The 
+Group
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Group
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Group
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Statement of financial position
+. The assets of the plan are held separately from the 
+Group
+ in independently administered funds.
+Page 22
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.11
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+ in the countries where the 
+Company and the Group operate and generate income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+reporting date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+.
+2.12
+Exceptional items
+Exceptional items are transactions that fall within the ordinary activities of the 
+Group
+ but are presented separately due to their size or incidence.
+Page 23
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.13
+Intangible assets
+Intangible assets includes the software development, goodwill and other intangible fixed assets. They are all initially recongised at cost. All intangible assets are considered to have a finite useful life and are amortised as follows
+Software development
+The software development is amortised over four years from the date the project is completed and ready for use. Each project is reviewed on an annual basis for possible impairment. 
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of 
+the Group's share of its
+ identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight-line basis to the 
+Consolidated statement of comprehensive income
+ over its useful economic life.
+Other intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+At each reporting date the company assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+ The estimated useful lives range as follows:
+Goodwill
+-
+Ascending from 5% to 20% over 10 years
+Page 24
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.14
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+At each reporting date the 
+Group
+ assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+The 
+Group
+ adds to the carrying amount of an item of fixed assets the cost of replacing part of such an item when that cost is incurred, if the replacement part is expected to provide incremental future benefits to the 
+Group
+. The carrying amount of the replaced part is derecognised. Repairs and maintenance are charged to profit or loss during the period in which they are incurred.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the reducing balance and straight line methods
+.
+Depreciation is provided on the following basis:
+Leasehold improvements
+-
+10
+%
+Straight line
+Plant and machinery
+-
+25
+%
+Reducing balance
+Motor vehicles
+-
+25
+%
+Reducing balance
+Fixtures and fittings
+-
+25
+%
+Reducing balance
+Office equipment
+-
+33
+%
+Straight line
+Computer equipment
+-
+33
+%
+Straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.15
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+Investments in listed company shares are remeasured to market value at each 
+reporting date
+. Gains and losses on remeasurement are recognised in profit or loss for the period.
+2.16
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+reporting date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+Page 25
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.17
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.18
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+In the 
+Consolidated statement of cash flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+Group
+'s cash management.
+2.19
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.20
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.21
+Financial instruments
+The 
+Group
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Group's
+ cash and cash equivalents, trade and most other debtors due with the operating cycle fall into this category of financial instruments.
+Basic financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+Page 26
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+2.
+Accounting policies (continued)
+2.21
+Financial instruments (continued)
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+Group
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other creditors, bank loans
+,
+ other loans 
+and loans due to fellow group companies 
+are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade creditors are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade creditors are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+3.
+Group reorganisations and hive up transactions
+Where businesses are transferred between entities under common control, the Company recognises the assets and liabilities acquired at their carrying values immediately prior to the transfer unless an alternative treatment is required to give a true and fair view. Any difference between the consideration given and the net assets acquired is recognised within reserves or as goodwill, as appropriate.
+4.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+In the application of the Company's accounting policies, which are described in note 2, management is required to make judgements, estimates and assumptions about the carrying value of assets and liabilities that are not readily apparent from other sources. The estimates and underlying assumptions are based upon historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+There are no sources of estimation uncertainty that have a significant effect on the amounts recognised in the financial statements. 
+Page 27
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+5.
+Turnover
+An analysis of turnover by class of business is as follows:
+2025
+2024
+£
+£
+Turnover
+15,448,141
+13,359,591
+15,448,141
+13,359,591
+All turnover arose 
+within the United Kingdom
+.
+6.
+Other operating income
+2025
+2024
+£
+£
+Other operating income
+-
+15,571
+7.
+Operating profit
+The operating profit is stated after charging:
+2025
+2024
+£
+£
+Exceptional costs (note 14)
+-
+398,523
+Exchange differences
+710
+1,128
+Other operating lease rentals
+290,014
+201,006
+Amortisation of intangible assets, including goodwill
+599,893
+1,070,592
+Share-based payment
+55,510
+63,093
+Page 28
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+8.
+Auditors' renumeration
+During the year, the Group obtained the following services from the Company's auditors:
+2025
+2024
+£
+£
+Fees payable to the Company's auditors for the audit of the consolidated and parent Company's financial statements
+48,000
+47,000
+Taxation compliance services
+4,300
+12,430
+All non-audit services not included above
+11,750
+6,294
+64,050
+65,724
+9.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Staff salaries and PHI
+2,970,442
+2,665,996
+2,146,064
+2,223,471
+Staff national insurance
+427,450
+326,099
+333,051
+284,150
+Staff pension costs
+95,797
+78,331
+73,603
+66,250
+3,493,689
+3,070,426
+2,552,718
+2,573,871
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2025
+2024
+No.
+No.
+Administrative
+52
+52
+Directors
+4
+4
+56
+56
+The 
+Company
+ has no employees other than the 
+directors
+, who did not receive any remuneration
+ (2024 - £
+NIL
+)
+Page 29
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+10.
+Directors' remuneration
+2025
+2024
+£
+£
+Directors' emoluments
+320,357
+253,367
+Group contributions to defined contribution pension schemes
+5,420
+5,577
+325,777
+258,944
+During the 
+year
+ retirement benefits were accruing to 
+2
+directors
+ (2024 - 
+2
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+237,000
+ (2024 - £
+237,000
+)
+.
+The value of the 
+Group
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+NIL
+ (2024 - £
+5,577
+)
+.
+11.
+Interest receivable
+2025
+2024
+£
+£
+Other interest receivable
+28,450
+7,444
+12.
+Interest payable and similar expenses
+2025
+2024
+£
+£
+Bank interest payable
+1,784,778
+1,403,099
+Other loan interest payable
+371,811
+304,520
+2,156,589
+1,707,619
+Page 30
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+13.
+Taxation
+2025
+2024
+£
+£
+Corporation tax
+Current tax on profits for the year
+307,688
+306,864
+Adjustments in respect of previous periods
+83,068
+(150,524
+)
+Total current tax
+390,756
+156,340
+Deferred tax
+Origination and reversal of timing differences
+(41,638
+)
+(56,182
+)
+Total deferred tax
+(41,638
+)
+(56,182
+)
+Tax on (loss)/profit
+349,118
+100,158
+Page 31
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+13.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+the same as
+ (2024 - lower than) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2024 - 
+25
+%)
+. The differences are explained below:
+2025
+2024
+£
+£
+(Loss)/profit on ordinary activities before tax
+(60,847
+)
+353,266
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2024 - 25%)
+277,540
+88,317
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+139,504
+69,127
+Capital allowances for year in excess of depreciation
+130,544
+136,625
+Prior year tax adjustments
+83,068
+(150,524
+)
+Deferred tax
+(41,638
+)
+(56,182
+)
+Changes in provisions leading to an increase (decrease) in the tax charge
+675
+1,417
+Other differences
+3,518
+-
+Marginal relief
+(58
+)
+-
+Patent box
+(282,070
+)
+-
+Leased car adjustments
+250
+247
+Consolidation adjustment
+-
+32,222
+Under provisions
+-
+(6,316
+)
+Pre aquisition tax
+37,785
+(14,775
+)
+Total tax charge for the year
+349,118
+100,158
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+14.
+Exceptional items
+2025
+2024
+£
+£
+Legal and professional costs in regards to business combinations
+739,465
+398,523
+Page 32
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+15.
+Intangible assets
+Group
+Development expenditure
+Other intangibles
+Negative goodwill
+Total
+£
+£
+£
+£
+Cost
+At 1 August 2024
+1,544,238
+13,534,909
+1,444,850
+16,523,997
+Additions
+277,394
+-
+(6,704
+)
+270,690
+On acquisition of subsidiaries
+-
+30,603
+-
+30,603
+At 31 July 2025
+1,821,632
+13,565,512
+1,438,146
+16,825,290
+Amortisation
+At 1 August 2024
+668,175
+553,665
+144,486
+1,366,326
+Charge for the year on owned assets
+250,729
+276,921
+72,243
+599,893
+At 31 July 2025
+918,904
+830,586
+216,729
+1,966,219
+Net book value
+At 31 July 2025
+902,728
+12,734,926
+1,221,417
+14,859,071
+At 31 July 2024
+876,063
+12,981,244
+1,300,364
+15,157,671
+Page 33
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+15.
+Intangible assets (continued)
+Company
+Development expenditure
+Other intangibles
+Negative goodwill
+Total
+£
+£
+£
+£
+Cost
+At 1 August 2024
+1,544,238
+5,100,952
+1,444,850
+8,090,040
+Additions
+277,394
+-
+(
+6,704
+)
+270,690
+On acquisition of subsidiaries
+-
+8,464,560
+-
+8,464,560
+At 31 July 2025
+1,821,632
+13,565,512
+1,438,146
+16,825,290
+Amortisation
+At 1 August 2024
+668,175
+553,665
+144,486
+1,366,326
+Charge for the year
+250,729
+276,921
+72,243
+599,893
+At 31 July 2025
+918,904
+830,586
+216,729
+1,966,219
+Net book value
+At 31 July 2025
+902,728
+12,734,926
+1,221,417
+14,859,071
+At 31 July 2024
+876,063
+4,547,287
+1,300,364
+6,723,714
+Page 34
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+16.
+Tangible fixed assets
+Group
+Leasehold improvements
+Motor vehicles
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 August 2024
+36,998
+19,320
+110,594
+381,907
+548,819
+Additions
+-
+643
+51,288
+28,619
+80,550
+Transfers intra group
+(36,998
+)
+-
+-
+-
+(36,998
+)
+Disposals
+-
+(7,495
+)
+-
+-
+(7,495
+)
+At 31 July 2025
+-
+12,468
+161,882
+410,526
+584,876
+Depreciation
+At 1 August 2024
+-
+13,457
+85,409
+301,516
+400,382
+Charge for the year on owned assets
+-
+659
+10,631
+46,091
+57,381
+Disposals
+-
+(6,013
+)
+-
+-
+(6,013
+)
+At 31 July 2025
+-
+8,103
+96,040
+347,607
+451,750
+Net book value
+At 31 July 2025
+-
+4,365
+65,842
+62,919
+133,126
+At 31 July 2024
+36,998
+5,864
+25,185
+80,391
+148,438
+Page 35
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+16.
+Tangible fixed assets (continued)
+Company
+Motor vehicles
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+Cost or valuation
+At 1 August 2024
+17,890
+110,594
+373,289
+501,773
+Additions
+2,074
+-
+36,096
+38,170
+Transfers intra group
+-
+51,288
+1,141
+52,429
+Disposals
+(
+7,495
+)
+-
+-
+(
+7,495
+)
+At 31 July 2025
+12,469
+161,882
+410,526
+584,877
+Depreciation
+At 1 August 2024
+13,457
+91,468
+298,681
+403,606
+Charge for the year on owned assets
+659
+4,573
+48,926
+54,158
+Disposals
+(
+6,013
+)
+-
+-
+(
+6,013
+)
+At 31 July 2025
+8,103
+96,041
+347,607
+451,751
+Net book value
+At 31 July 2025
+4,366
+65,841
+62,919
+133,126
+At 31 July 2024
+4,434
+19,126
+74,607
+98,167
+Page 36
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+17.
+Fixed asset investments
+Company
+Investments in subsidiary companies
+£
+Cost or valuation
+At 1 August 2024
+10,050,745
+Additions
+72,818
+Reclassification on business restructuring 
+(10,114,632
+)
+At 31 July 2025
+8,931
+Page 37
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+Direct subsidiary undertakings
+The following 
+were direct subsidiary undertakings of the Company:
+Name
+Registered office
+Class of shares
+Holding
+Connexus Networks Limited
+Unit 202 Stonehouse Business Park, Sperry Way, Stonehouse, Gloucestershire, England, GL10 3UT
+Ordinary
+100
+%
+Connexus Techonology Limited
+Unit 202 Stonehouse Business Park, Sperry Way, Stonehouse, Gloucestershire, England, GL10 3UT
+Ordinary
+100
+%
+Yoozoom Technologies Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+KSM Communications Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+Keen IT Solutions Limited
+1st Floor, Riverside House, 4 Meadows Business Park, Camberley, United Kingdom, GU17 9AD
+Ordinary
+100
+%
+Keen Voip Limited
+1st Floor, Riverside House, 4 Meadows Business Park, Camberley, United Kingdom, GU17 9AB
+Ordinary
+100
+%
+Redstar Telecomunications Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+Admiral Telecom Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+Floren Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+Number Solutiuons Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+Windsor Telecommunications Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+Page 38
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+Indirect subsidiary undertaking
+The following 
+was an indirect subsidiary undertaking of the Company:
+Name
+Registered office
+Class of shares
+Holding
+Yoozoom Limited
+Wey Court West, Union Road, Farnham, Surrey, England, GU9 7PT
+Ordinary
+100
+%
+All subsidiaries are entitled to exemption from the requirement to have an audit under the provisions of section 479A of the Companies Act 2006 and have taken advantage of this exemption
+18.
+Stocks
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Finished goods and goods for resale
+15,631
+12,576
+15,631
+12,576
+The difference between purchase price or production cost of stocks and their replacement cost is not material.
+19.
+Debtors
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Due after more than one year
+Other debtors
+3,876,791
+3,930,691
+3,876,791
+3,930,691
+3,876,791
+3,930,691
+3,876,791
+3,930,691
+Due within one year
+Trade debtors
+709,950
+500,063
+709,950
+298,167
+Other debtors
+1,155,031
+2,326,316
+1,104,547
+2,229,274
+Prepayments and accrued income
+493,885
+470,308
+493,885
+366,411
+6,235,657
+7,227,378
+6,185,173
+6,824,543
+Page 39
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+20.
+Cash and cash equivalents
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Cash at bank and in hand
+1,392,121
+1,446,217
+1,392,121
+783,456
+21.
+Creditors: Amounts falling due within one year
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Other loans
+893,058
+903,539
+893,058
+903,539
+Trade creditors
+980,890
+749,975
+980,892
+428,481
+Amounts owed to group undertakings
+-
+-
+9,002
+1,845,522
+Corporation tax
+371,740
+285,986
+371,740
+-
+Other taxation and social security
+1,218,821
+575,728
+1,218,821
+371,381
+Other creditors
+686,766
+1,610,176
+686,766
+1,578,363
+Accruals and deferred income
+517,295
+579,589
+517,295
+565,589
+4,668,570
+4,704,993
+4,677,574
+5,692,875
+22.
+Creditors: Amounts falling due after more than one year
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Other loans
+17,082,660
+18,221,840
+17,082,660
+18,221,840
+Accruals and deferred income
+696,991
+325,180
+696,991
+325,180
+17,779,651
+18,547,020
+17,779,651
+18,547,020
+Page 40
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+23.
+Loans
+Analysis of the maturity of loans is given below:
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Amounts falling due within one year
+Other loans
+893,058
+903,539
+893,058
+903,539
+Amounts falling due 1-2 years
+Other loans
+17,082,660
+18,221,840
+17,082,660
+18,221,840
+17,975,718
+19,125,379
+17,975,718
+19,125,379
+24.
+Financial instruments
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Financial assets
+Financial assets measured at fair value through profit or loss
+7,083,408
+7,381,018
+7,083,408
+7,241,588
+Financial liabilities
+Financial liabilities measured at amortised cost
+19,643,375
+19,643,375
+21,485,530
+21,132,223
+Financial assets that are debt instruments measured at amortised cost comprise cash at bank, trade debtors, amounts owed by group and other debtors.
+Financial liabilities measured at amortised cost comprise trade creditors, amounts owed to group, other creditors, amounts owed to group and loans.
+Page 41
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+25.
+Deferred taxation
+Group
+2025
+£
+At beginning of year
+(178,313
+)
+Charged to profit or loss
+30,753
+Utilised in year
+1,770
+At end of year
+(145,790
+)
+Company
+2025
+£
+At beginning of year
+(
+176,543
+)
+Charged to profit or loss
+30,753
+At end of year
+(
+145,790
+)
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Accelerated capital allowances
+(145,790
+)
+(178,313
+)
+(
+145,790
+)
+(
+176,543
+)
+26.
+Share capital
+2025
+2024
+£
+£
+Allotted, called up and partly paid
+47,875
+ (2024 - 
+47,875
+)
+Ordinary
+shares of
+£
+1.00
+ each
+47,875
+47,875
+1,125
+ (2024 - 
+1,125
+)
+A Ordinary
+shares of
+£
+1.00
+ each
+1,125
+1,125
+10,000
+ (2024 - 
+10,000
+)
+B Ordinary
+shares of
+£
+0.10
+ each
+1,000
+1,000
+50,000
+50,000
+Page 42
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+27.
+Reserves
+Profit and loss account
+As shown in the Statement of Changes in Equity there was a capital distribution of £110,394 (2025  -
+£570,000) during the year, which was recognised directly against the profit and loss account. These
+payments were made to the Windsor Telecom Limited Employee Ownership Trust.
+28.
+Business combinations
+On 31st July 2025, the company transferred the trade and net assets of its wholly owned subsidiary, Connexus Networks Limited, as part of an internal group reorganisation. The transfer included the subsidiary's trading activities together with the associated assets and liabilities. Consideration for the transfer was satisfied through an adjustment to intercompany balances.
+2025
+£
+Recognised amounts of identifiable assets and liabilities hived up
+Tangible fixed assets
+2,850
+Debtors
+226,659
+Cash at bank and in hand
+101
+Creditors due within one year
+(744,632
+)
+Deferred taxation
+(570
+)
+Total identifiable net liabilities
+(515,592
+)
+29.
+Business combinations
+On 31st July 2025, the company transferred the trade and net assets of its wholly owned subsidiary, Connexus Techonology Limited, as part of an internal group reorganisation. The transfer included the subsidiary's trading activities together with the associated assets and liabilities. Consideration for the transfer was satisfied through an adjustment to intercompany balances.
+2025
+£
+Recognised amounts of identifiable assets and liabilities hived up
+Tangible fixed assets
+376
+Debtors
+294,165
+Creditors due within one year
+(74,585
+)
+Deferred taxation
+(133
+)
+Total identifiable net assets
+219,823
+Page 43
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+30.
+Business combinations
+On 31st July 2025, the company transferred the trade and net assets of its wholly owned subsidiary, Yoozoom Technologies Limited, as part of an internal group reorganisation. The transfer included the subsidiary's trading activities together with the associated assets and liabilities. Consideration for the transfer was satisfied through an adjustment to intercompany balances.
+2025
+£
+Recognised amounts of identifiable assets and liabilities hived up
+Tangible fixed assets
+50,135
+Intangible fixed assets
+100
+Debtors
+169,352
+Cash at bank and in hand
+349,192
+Creditors due within one year
+(276,307
+)
+Total identifiable net assets
+292,472
+31.
+Business combinations
+On 31st July 2025, the company transferred the trade and net assets of its wholly owned subsidiary, KSM communications Limited, as part of an internal group reorganisation. The transfer included the subsidiary's trading activities together with the associated assets and liabilities. Consideration for the transfer was satisfied through an adjustment to intercompany balances.
+2025
+£
+Recognised amounts of identifiable assets and liabilities hived up
+Tangible fixed assets
+1,141
+Debtors
+13,381
+Cash at bank and in hand
+147,905
+Creditors due within one year
+(102,340
+)
+Total identifiable net assets
+60,087
+32.
+Pension commitments
+The group operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the group in an independently administered fund. The pension cost charge represents contributions payable by the group to the fund and amounted to £106,667 (2025 - £78,331). Contributions totalling £12,369 (2025 - £16,184) were payable to the fund at the reporting date and are included in creditors.
+Page 44
+WINDSOR TELECOM LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2025
+33.
+Commitments under operating leases
+At 
+31 July 2025
+ the 
+Group and the Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+Group
+Group
+Company
+Company
+2025
+2024
+2025
+2024
+£
+£
+£
+£
+Not later than 1 year
+139,330
+126,797
+113,830
+113,830
+Later than 1 year and not later than 5 years
+25,500
+227,660
+18,971
+227,660
+164,830
+354,457
+132,801
+341,490
+34.
+Transactions with directors
+During the year the directors maintained loan accounts with the company.
+At the year end the company was owed £115,627 from the directors (2024 - £100,627 was owed from the directors).
+35.
+Related party transactions
+The company has taken advantage of the exemption conferred by section 33 in Financial Reporting Standard 102 "Related party disclosures" not to disclose transactions with wholly owned members of the group headed by Windsor Telecom Limited.
+36.
+Controlling parties
+The directors consider that the ultimate controlling party are the trustees of The Windsor Telecom Limited
+Employee Ownership Trust.
+Page 45

@@ -6,12 +6,69 @@ CompanyNumber,CompanyName,checked_on,result
 02386327,NATIONAL GRID TELECOMS LIMITED,2026-11-24,"Turnover, operating profit and depreciation (£2.2m) match"
 07413288,COMMUNITY FIBRE LIMITED,2026-11-24,"Revenue, operating loss, depreciation and amortisation match"
 09228224,REDWOOD TECHNOLOGIES GROUP LTD,2026-11-24,"Turnover and operating profit match; D&A not found, so EBITDA is understated"
-02578478,X-ON HEALTH LIMITED,2026-11-24,"Turnover and operating profit match"
+02578478,X-ON HEALTH LIMITED,2026-11-24,Turnover and operating profit match
 08709631,NETWORK PLANNING SOLUTIONS LTD.,2026-11-24,"Figures match, but they cover a 15-month period"
 08322856,REDCENTRIC SOLUTIONS LIMITED,2026-11-24,"Revenue, operating profit and D&A match; company's adjusted EBITDA is £18.3m"
-01708481,GLOBAL MARINE SYSTEMS LIMITED,2026-11-24,"D&A was misread (revaluation line); corrected to $33.0m from the operating profit note"
-02804354,CHARTERHOUSE VOICE & DATA LIMITED,2026-11-24,"D&A was misread (wrapped heading); corrected to £4.2m from the operating loss note"
-04186486,BEACON COMMUNICATION SERVICES LIMITED,2026-11-24,"Turnover and operating profit match"
+01708481,GLOBAL MARINE SYSTEMS LIMITED,2026-11-24,D&A was misread (revaluation line); corrected to $33.0m from the operating profit note
+02804354,CHARTERHOUSE VOICE & DATA LIMITED,2026-11-24,D&A was misread (wrapped heading); corrected to £4.2m from the operating loss note
+04186486,BEACON COMMUNICATION SERVICES LIMITED,2026-11-24,Turnover and operating profit match
 10902222,THE BADGER GROUP LIMITED,2026-11-24,"Turnover, operating profit and depreciation match; £0.1m goodwill amortisation not added"
-06391276,CENTERCOMMS LIMITED,2026-11-24,"Turnover and operating profit match"
-06040998,PINKAS LTD,2026-11-24,"Accounts are in euros (was read as pounds); now converted. Excluded: network mostly outside the UK"
+06391276,CENTERCOMMS LIMITED,2026-11-24,Turnover and operating profit match
+06040998,PINKAS LTD,2026-11-24,Accounts are in euros (was read as pounds); now converted. Excluded: network mostly outside the UK
+SC492820,CLARUS NETWORKS LIMITED,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+03912906,ALERT COMMUNICATIONS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+03368473,WINGNUT UTILITIES LIMITED,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+07974624,TELA TECHNOLOGY LIMITED,2026-11-24,EBITDA matches the company's own figure (£2.4m)
+03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2026-11-24,Turnover and operating profit match; profit before tax misread and corrected
+NI624500,BARCLAY DIGITAL SERVICES LTD,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+06968249,NATTERBOX LIMITED,2026-11-24,Turnover and operating profit match; D&A is negligible (£8k)
+08043921,AERIAL DIRECT LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+11480193,RAPID RESPONSE TELECOMS LTD,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+03752620,WINDSOR TELECOM LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+09956206,HENEGHAN HOLDINGS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+09585068,CROFT COMMUNICATIONS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+02557464,CONNECT MANAGED SERVICES (UK) LIMITED,2026-11-24,Impairment of £2.5m added back with D&A from the EBITDA reconciliation; EBITDA £6.0m (company adjusted £7.1m adds back exceptionals)
+12421328,NETS INTERNATIONAL LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+03513467,5G COMMUNICATIONS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+06797181,BISTECH GROUP PLC,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+02763306,JOHN HENRY GROUP LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+08682562,ARQIVA SMART METERING LIMITED,2026-11-24,Turnover and operating profit match; accounts say operating profit equals EBITDA
+04544886,RADIOCOMS SYSTEMS LIMITED,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+05240202,GROUND CONTROL TECHNOLOGIES UK LTD,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+02338401,NG BAILEY IT SERVICES LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+06472696,4COM NETWORK SERVICES LIMITED,2026-11-24,"Turnover and operating profit match, but the accounts cover 9 months (year-end changed to March); D&A not found"
+05448638,4NET TECHNOLOGIES LTD,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+NI612801,OCU NETTWORX LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+04145329,DAISY COMMUNICATIONS LTD.,2026-11-24,"D&A misread (£50k); corrected to £9.2m from the strategic report, EBITDA £48.2m (company adjusted EBITDA £50.4m)"
+04031272,ONECOM LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+08235914,DATALEC POWER INSTALLATIONS LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+05954905,NATILIK LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+02797895,CHESS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+03228824,ELITETELE.COM LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+05217343,NORTH PB LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+03101568,ZEN INTERNET LIMITED,2026-11-24,"Turnover, operating profit and D&A match; EBITDA matches the company's £7.1m"
+10021562,GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+02296733,VANCO UK LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+04560277,PAGEONE COMMUNICATIONS LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+02665837,MAINTEL EUROPE LIMITED,2026-11-24,"Operating profit misread (4,187 for 1,157); corrected from the P&L arithmetic. EBITDA £5.1m including amortisation"
+SC211701,PELION IOT LIMITED,2026-11-24,Turnover matches; operating profit used is before £0.9m non-recurring costs
+10779280,ABZORB GROUP LTD,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+02652955,BDR VOICE & DATA SOLUTIONS LTD,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+07020016,LILY COMMUNICATIONS LTD.,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+05238375,INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+01763970,AVOIRA LIMITED,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+SC646446,HIGHLANDS BIDCO LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+04632756,TELAPPLIANT LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+03193093,FERNS SURFACING LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+03958887,AVANTI BROADBAND LIMITED,2026-11-24,EBITDA after restructuring matches the company figure ($0.4m)
+03868503,MEDHURST COMMUNICATIONS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+02946493,CORPORATE DIRECT (EUROPE) LTD,2026-11-24,"Turnover, operating profit and D&A match the filing text"
+06521296,RIDOWN CAPITAL LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+05316540,AVANTI SPACE LIMITED,2026-11-24,EBITDA matches the company's own figure ($17.5m)
+01938625,INTERCITY TECHNOLOGY LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+14354114,TALK STRAIGHT HOLDINGS LIMITED,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+03880663,WIRELESS LOGIC LIMITED,2026-11-24,"Misread: operating loss after £111.9m exceptional costs was taken as a profit. EBITDA set to the company figure before exceptionals, £18.3m"
+05942331,YORK TELECOM LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
+04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,2026-11-24,Turnover and operating profit match; D&A added from the operating profit note
+12520403,OPUS TECH LIMITED,2026-11-24,Figures were read as £000s by mistake; corrected to pounds (operating profit £2.5m) and D&A added
+02697046,ERH COMMUNICATIONS LIMITED,2026-11-24,Turnover and operating profit match the filing; profit before tax ties to operating profit
