@@ -1,13 +1,195 @@
 CompanyName,CompanyNumber,relevance,relevance_reason,segment,turnover,ebitda_margin,ownership
+P.J. CAREY (CONTRACTORS) LIMITED,01460224,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,220996177.0,0.058,"UK group, owner-managed"
+GLOBAL MARINE SYSTEMS LIMITED,01708481,UNSURE,Not yet reviewed,Other telecoms networks,220786000.0,0.174,Likely sponsor-owned (check)
+VIRGIN MOBILE TELECOMS LIMITED,03707664,UNSURE,Not yet reviewed,Other telecoms networks,210491000.0,0.313,Likely sponsor-owned (check)
+MURPHY POWER NETWORKS LIMITED,11101645,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,203089280.0,0.04,"UK group, owner-managed"
+DAISY COMMUNICATIONS LTD.,04145329,UNSURE,Not yet reviewed,Other telecoms networks,202415000.0,0.192,Likely sponsor-owned (check)
+SINCH UK LTD.,03049312,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",198659475.0,0.076,Unknown
+CACI LIMITED,01649776,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",183276719.0,0.22,Unknown
+ONECOM LIMITED,04031272,UNSURE,Not yet reviewed,Other telecoms networks,178654455.0,0.139,Likely sponsor-owned (check)
+TRANSUNION INTERNATIONAL UK LIMITED,03961870,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",177474000.0,0.366,Likely sponsor-owned (check)
+SAINT TOPCO LIMITED,13567332,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,168064390.0,0.216,Likely sponsor-owned (check)
+DATALEC POWER INSTALLATIONS LIMITED,08235914,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,161806771.0,0.022,Unknown
+ROKE MANOR RESEARCH LIMITED,00267550,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",153700000.0,0.18,Unknown
+"HUAWEI TECHNOLOGIES (UK) CO., LTD.",04295981,UNSURE,Not yet reviewed,Other telecoms networks,152768000.0,0.071,Unknown
+FOUNDEVER EUROPE LIMITED,02756274,UNSURE,Not yet reviewed,Other telecoms networks,143782000.0,0.04,Unknown
+FOCUS 4 U LTD.,04771242,UNSURE,Not yet reviewed,Other telecoms networks,135908000.0,0.093,Likely sponsor-owned (check)
+BOTTOMLINE TECHNOLOGIES LIMITED,08098450,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",132851560.0,0.436,Unknown
+NIMANS LIMITED,01876587,UNSURE,Not yet reviewed,Other telecoms networks,132398409.0,0.053,Unknown
+DEALOGIC LIMITED,01777183,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",132167000.0,0.396,Likely sponsor-owned (check)
+ZELLIS UK LIMITED,01587537,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",129773000.0,0.307,Likely sponsor-owned (check)
+MONTY MOBILE LIMITED,12980683,UNSURE,Not yet reviewed,Other telecoms networks,127901833.6368,0.133,Founder or family-owned
+DATASITE UK LTD.,03829230,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",127298000.0,0.28,Likely sponsor-owned (check)
+REDCENTRIC SOLUTIONS LIMITED,08322856,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",126965000.0,0.137,Unknown
+ZEN INTERNET LIMITED,03101568,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,126668000.0,0.056,Founder or family-owned
+TELSTRA UK LIMITED,03830643,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,125039000.0,0.076,Unknown
+COLT DATA CENTRE SERVICES UK LIMITED,07306352,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",122265000.0,0.238,Unknown
+HUAWEI TECHNOLOGIES RESEARCH & DEVELOPMENT (UK) LIMITED,07371283,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",117246065.0,0.224,Unknown
+COMMUNITY FIBRE LIMITED,07413288,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,112453000.0,0.242,Founder or family-owned
+MOBILE BROADBAND NETWORK LIMITED,06375220,UNSURE,Not yet reviewed,Other telecoms networks,110169000.0,0.351,"UK group, owner-managed"
+ARQIVA SMART METERING LIMITED,08682562,UNSURE,Not yet reviewed,Other telecoms networks,101694000.0,0.041,"UK group, owner-managed"
+PICO GLOBAL LTD.,09365923,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",101281203.0,0.097,Founder or family-owned
+COMPUTERSHARE TECHNOLOGY SERVICES (UK) LIMITED,03199675,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",99746000.0,0.274,Likely sponsor-owned (check)
+COMMIFY UK LIMITED,04217280,UNSURE,Not yet reviewed,Other telecoms networks,96267000.0,0.08,Likely sponsor-owned (check)
+KCOM GROUP LIMITED,02150618,UNSURE,Not yet reviewed,Other telecoms networks,96210000.0,0.194,Likely sponsor-owned (check)
+TRANT ENGINEERING LIMITED,00769274,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,95493574.0,0.024,"UK group, owner-managed"
+MAINTEL EUROPE LIMITED,02665837,UNSURE,Not yet reviewed,Other telecoms networks,92229000.0,0.046,Unknown
+ECOSURETY LIMITED,04713606,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",91711606.0,0.092,"UK group, owner-managed"
+NATILIK LIMITED,05954905,UNSURE,Not yet reviewed,Other telecoms networks,87543000.0,0.073,"UK group, owner-managed"
+IMANAGE EMEA LIMITED,09625186,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",87352285.0,0.048,Unknown
+INCOMM EUROPE LIMITED,05322244,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",87278878.0,0.019,Founder or family-owned
+RICARDO-AEA LIMITED,08229264,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",85525000.0,0.156,Likely sponsor-owned (check)
+ZOOPLA LIMITED,06074771,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",83185000.0,0.237,Likely sponsor-owned (check)
+REDWOOD TECHNOLOGIES GROUP LTD,09228224,UNSURE,Not yet reviewed,Other telecoms networks,80319834.0,0.122,Founder or family-owned
+WIRELESS LOGIC LIMITED,03880663,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",77529000.0,1.298,Likely sponsor-owned (check)
+PINKAS LTD,06040998,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,75970000.0,0.29,Founder or family-owned
+TALKMOBILE LIMITED,04154716,UNSURE,Not yet reviewed,Other telecoms networks,73305000.0,0.753,Likely sponsor-owned (check)
+ENIGMA INDUSTRIAL SERVICES LTD,00444313,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,72597725.0,0.077,"UK group, owner-managed"
+PRECISION PROCO (HOLDINGS) LIMITED,15096985,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",71455317.0,0.096,Founder or family-owned
+EXCALON LIMITED,04450846,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,68346000.0,0.064,Unknown
+FE FUNDINFO LIMITED,03672592,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",68237452.0,0.185,Likely sponsor-owned (check)
+CHARTERHOUSE VOICE & DATA LIMITED,02804354,UNSURE,Not yet reviewed,Other telecoms networks,66370000.0,0.058,Likely sponsor-owned (check)
+DORENELL WINDFARM LIMITED,05628395,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,62203000.0,0.227,"UK group, owner-managed"
+TRANSFERTO MOBILE FINANCIAL SERVICES LTD,09171042,UNSURE,Not yet reviewed,Other telecoms networks,59138343.88160001,0.04,Founder or family-owned
+CFH DOCMAIL LTD,01716891,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",58874000.0,0.055,Likely sponsor-owned (check)
+BACKOFFICE ASSOCIATES EUROPE (UK) LIMITED,06518181,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",57655553.0,0.155,Unknown
+NETCEED UK LIMITED,01349036,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,57629000.0,0.032,Unknown
+ENKA UK CONSTRUCTION LIMITED,10527034,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,57481688.0,0.044,Unknown
+ENCOMPASS DIGITAL MEDIA SERVICES LIMITED,02712443,UNSURE,Not yet reviewed,Other telecoms networks,55738000.0,0.115,"UK group, owner-managed"
+HPI LIMITED,04068979,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",54057000.0,0.23,Likely sponsor-owned (check)
+SAMSUNG CAMBRIDGE SOLUTION CENTRE LIMITED,08226456,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",53224908.0,0.23,Unknown
+INTERCITY TECHNOLOGY LIMITED,01938625,UNSURE,Not yet reviewed,Other telecoms networks,52623000.0,0.015,"UK group, owner-managed"
+CONNECT MANAGED SERVICES (UK) LIMITED,02557464,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,50149000.0,0.07,Likely sponsor-owned (check)
+GRANEMORE GROUP LTD.,05965784,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,49493240.0,0.01,Founder or family-owned
+TRANSACTION NETWORK SERVICES (UK) LIMITED,02952557,UNSURE,Not yet reviewed,Other telecoms networks,48603906.0,0.128,Unknown
+KITEWORKS UK LTD,07918226,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",47436061.0,0.356,Founder or family-owned
+4NET TECHNOLOGIES LTD,05448638,UNSURE,Not yet reviewed,Other telecoms networks,47365998.0,0.095,Likely sponsor-owned (check)
+4COM NETWORK SERVICES LIMITED,06472696,UNSURE,Not yet reviewed,Other telecoms networks,45987000.0,0.11,Likely sponsor-owned (check)
+SMITHS BUSINESS INFORMATION SERVICES LIMITED,03254222,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",45908000.0,0.032,Unknown
+CERILLION PLC,09472870,UNSURE,Not yet reviewed,Other telecoms networks,45358000.0,0.48,Unknown
+JOHN HENRY GROUP LIMITED,02763306,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,45307587.0,0.091,Likely sponsor-owned (check)
+THE MARKETING LOUNGE PARTNERSHIP LIMITED,06467245,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",45168001.0,0.029,Founder or family-owned
+WORKIVA UK LIMITED,09836502,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",41669250.0,0.032,"UK group, owner-managed"
+CONDUENT BUSINESS PROCESS SOLUTIONS LIMITED,04022569,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",40224000.0,0.081,Unknown
+WIFINITY LIMITED,03921568,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,39805588.0,0.338,Likely sponsor-owned (check)
+THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,03307001,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",38943912.0,0.587,"UK group, owner-managed"
+TENNIS DATA INNOVATIONS DATABASE (UK) LIMITED,12987201,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",37839367.0,0.02,"UK group, owner-managed"
+LIQUIDLOGIC LIMITED,04006349,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",37641563.0,0.269,Likely sponsor-owned (check)
+NOMAD DIGITAL LIMITED,04536010,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",37176000.0,0.262,Likely sponsor-owned (check)
+IPSUM POWER (PRIVATE NETWORKS) LIMITED,04051023,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,37105995.0,0.067,Likely sponsor-owned (check)
+KINSTA LTD,09030972,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",37085840.0,0.074,Founder or family-owned
 MICOM TECHNOLOGIES LTD,13535125,UNSURE,No business description found (web-checked 24 Nov 2026),"Data centres, data processing and hosting",37037757.0,0.103,Likely sponsor-owned (check)
+HIGHLANDS BIDCO LIMITED,SC646446,UNSURE,Not yet reviewed,Other telecoms networks,36944202.0,0.154,Likely sponsor-owned (check)
+AERIAL DIRECT LIMITED,08043921,UNSURE,Not yet reviewed,Other telecoms networks,36580431.0,0.184,"UK group, owner-managed"
+"SIERRA NEVADA CORPORATION MISSION SYSTEMS UK, LTD",09980940,UNSURE,Not yet reviewed,Other telecoms networks,36538817.0,0.251,Founder or family-owned
+BANGO. NET  LIMITED,03854965,UNSURE,Not yet reviewed,Other telecoms networks,35988000.0,0.541,Unknown
+SYNECTICS SOLUTIONS LIMITED,02685135,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",35007189.0,0.215,Likely sponsor-owned (check)
+ORGVUE LIMITED,05454622,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",33965260.0,0.225,Unknown
+MILLS LIMITED,00282704,UNSURE,Not yet reviewed,Other telecoms networks,33604612.0,0.135,Founder or family-owned
+ARELION UK LTD,02796345,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,33038961.0,0.041,Unknown
+INDEX EXCHANGE LIMITED,09643131,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",32568000.0,0.24,Unknown
+BEACON COMMUNICATION SERVICES LIMITED,04186486,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",31765539.0,0.195,Founder or family-owned
+AFRICA MOBILE NETWORKS LIMITED,08531564,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",31514000.0,0.306,Unknown
+CELLXION LTD,04780952,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",30613833.0,0.274,"UK group, owner-managed"
+NORTH PB LIMITED,05217343,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,30431973.0,0.065,Likely sponsor-owned (check)
+X-ON HEALTH LIMITED,02578478,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,30399814.0,0.378,Likely sponsor-owned (check)
+MOOREPAY LIMITED,00891686,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",30332000.0,0.218,Likely sponsor-owned (check)
+SPORTS LOYALTY CARD LIMITED,04158111,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",29709918.0,0.17,"UK group, owner-managed"
+GROUND CONTROL TECHNOLOGIES UK LTD,05240202,UNSURE,Not yet reviewed,Satellite networks,29561000.0,0.058,Likely sponsor-owned (check)
+IHS AFRICA (UK) LIMITED,08385732,UNSURE,Not yet reviewed,Other telecoms networks,28943000.0,0.07,"UK group, owner-managed"
+NG BAILEY IT SERVICES LIMITED,02338401,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,28482000.0,0.121,Unknown
+HOMETRACK DATA SYSTEMS LIMITED,04622244,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",28282000.0,0.162,Likely sponsor-owned (check)
+SAGACITY SOLUTIONS LTD,05526751,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",28266123.0,0.261,Likely sponsor-owned (check)
+OCU NETTWORX LIMITED,NI612801,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,27892075.0,0.129,Likely sponsor-owned (check)
+OPEN FIBRE NETWORKS LIMITED,05412813,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,27759695.0,0.509,"UK group, owner-managed"
+ALVARIA TECHNOLOGIES UK LIMITED,02181869,UNSURE,Not yet reviewed,Other telecoms networks,27502000.0,0.034,Unknown
+NATIONAL MILK RECORDS LIMITED,03331929,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",27256000.0,0.118,Likely sponsor-owned (check)
+TEAM BLUE INTERNET SERVICES UK LIMITED,03913408,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",26822890.0,0.197,Founder or family-owned
 QPC 2020 LIMITED,12665741,UNSURE,No business description found (web-checked 24 Nov 2026),Other telecoms networks,25588943.0,0.072,"UK group, owner-managed"
+M GROUP ENERGY (DATA INSIGHT) LIMITED,12266916,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",25042000.0,0.614,Likely sponsor-owned (check)
+MTK WIRELESS LIMITED,06340524,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",24950927.0,0.172,Unknown
+AVANTI BROADBAND LIMITED,03958887,UNSURE,Not yet reviewed,Satellite networks,24413000.0,0.017,Likely sponsor-owned (check)
+MTI TECHNOLOGY LIMITED,SC112019,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",24145071.0,0.047,Likely sponsor-owned (check)
 NANO FIBRE UK LIMITED,10174559,UNSURE,No business description found (web-checked 24 Nov 2026),"Wireless networks, towers and fixed wireless",24124352.0,0.097,Founder or family-owned
+NATIONAL GRID TELECOMS LIMITED,02386327,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,24089000.0,0.044,"UK group, owner-managed"
+AVANTI SPACE LIMITED,05316540,UNSURE,Not yet reviewed,Satellite networks,23878000.0,0.203,Likely sponsor-owned (check)
+TELA TECHNOLOGY LIMITED,07974624,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,23458630.0,0.103,Founder or family-owned
+GIGAMON UK LTD,07462898,UNSURE,Not yet reviewed,Other telecoms networks,23222395.0,0.033,Unknown
+BISTECH GROUP PLC,06797181,UNSURE,Not yet reviewed,Other telecoms networks,23160860.0,0.142,Founder or family-owned
+PROACTIS LIMITED,03182974,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",22993964.0,0.2,Likely sponsor-owned (check)
+RS INTEGRATED SUPPLY UK LIMITED,04188491,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",22593000.0,0.053,"UK group, owner-managed"
+COGNIA CLOUD LIMITED,04623599,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",22458735.0,0.161,Unknown
+THE SIEMON COMPANY LIMITED,02601151,UNSURE,Not yet reviewed,Other telecoms networks,22126735.0,0.101,Founder or family-owned
+YORK TELECOM LIMITED,05942331,UNSURE,Not yet reviewed,Other telecoms networks,22061311.0,0.029,Likely sponsor-owned (check)
 EGNARO LIMITED,07395042,UNSURE,Wireless telecoms industry code (61200); no business description found (web-checked 24 Nov 2026),"Wireless networks, towers and fixed wireless",22041587.0,0.127,"UK group, owner-managed"
+QUARTIX LIMITED,04159907,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",21961000.0,0.39,Unknown
+CALNEX SOLUTIONS PLC,SC299625,UNSURE,Not yet reviewed,Other telecoms networks,21875000.0,0.048,Unknown
+DB BROADCAST LTD,02709677,UNSURE,Not yet reviewed,Other telecoms networks,21865372.0,0.061,Unknown
+ALCONEX INFRASTRUCTURE AND SOLUTIONS LIMITED,10878406,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,21676246.0,0.055,Likely sponsor-owned (check)
+KNTC LIMITED,07800863,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,21476205.0,0.146,Employee-owned (EOT)
+DATATONIC LTD.,07705237,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",21029436.0,0.066,"UK group, owner-managed"
+CENTERCOMMS LIMITED,06391276,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,20831918.0,0.164,Founder or family-owned
+GREEN ENERGY OPTIONS LTD,05783558,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",20752868.0,0.047,Unknown
+NETWORK MERCHANTS LIMITED,03295353,UNSURE,Not yet reviewed,Other telecoms networks,20635773.0,0.412,Unknown
+INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED,05238375,UNSURE,Not yet reviewed,Other telecoms networks,20158445.0,0.061,Likely sponsor-owned (check)
+TUNGSTEN AUTOMATION ENGLAND LIMITED,03958038,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",19923000.0,0.008,Likely sponsor-owned (check)
+ANDREW DESIGN & INTEGRATION UK LIMITED,05531272,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,19558494.0,0.084,"UK group, owner-managed"
+TELESIGN MOBILE LIMITED,04546322,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",19031122.0,0.054,Unknown
+NATTERBOX LIMITED,06968249,UNSURE,Not yet reviewed,Other telecoms networks,18798211.0,0.147,Unknown
+ELECTRICITYWORX LTD,NI624452,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,18727224.0,0.044,Likely sponsor-owned (check)
+NETWORK PLANNING SOLUTIONS LTD.,08709631,UNSURE,Not yet reviewed,Other telecoms networks,18724104.0,0.262,Unknown
 AVIDETY LTD,09112352,UNSURE,Virtual-office address; trading business not identified (web-checked 24 Nov 2026),Building and maintaining telecoms and utility networks,18407967.0,0.167,Founder or family-owned
+VANCO UK LIMITED,02296733,UNSURE,Not yet reviewed,Other telecoms networks,18313423.0,0.135,Unknown
+MYPOS PAYMENTS LTD,10630670,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",18275076.0,0.01,Likely sponsor-owned (check)
+DONNELLEY FINANCIAL SOLUTIONS UK LIMITED,02669185,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",18161627.0,0.128,Unknown
+ECKOH UK LIMITED,02796531,UNSURE,Not yet reviewed,Other telecoms networks,17987000.0,0.427,Likely sponsor-owned (check)
+BUSINESS SYSTEMS (U.K.) LIMITED,02199582,UNSURE,Not yet reviewed,Other telecoms networks,17986647.0,0.141,Likely sponsor-owned (check)
+1ST LOCATE (UK) LIMITED,03702599,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",17662723.0,0.065,Founder or family-owned
+SUBEX (UK) LIMITED,04190929,UNSURE,Not yet reviewed,Other telecoms networks,17627000.0,0.041,Unknown
+NOVO TECHNOLOGIES LTD,10305880,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,17483294.0,0.061,Likely sponsor-owned (check)
+INFINITY TRACKING LIMITED,07192131,UNSURE,Not yet reviewed,Other telecoms networks,17390834.0,0.222,Likely sponsor-owned (check)
+EUROCOIN GROUP LIMITED,11856671,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",16943403.0,0.055,Founder or family-owned
+1SPATIAL GROUP LIMITED,04785688,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",16795503.0,0.28,"UK group, owner-managed"
+WEATHERBYS LTD,00526599,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",16792324.0,0.219,"UK group, owner-managed"
+BREEZE BIDCO (TNC) LIMITED,10361590,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,16778000.0,0.815,Likely sponsor-owned (check)
 WINGNUT UTILITIES LIMITED,03368473,UNSURE,Telecoms and testing industry codes; no business description found (web-checked 24 Nov 2026),Other telecoms networks,16254696.0,0.11,Founder or family-owned
+EXMILE SOLUTIONS LIMITED,08037485,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",16174781.0,0.215,Likely sponsor-owned (check)
+NETS INTERNATIONAL LIMITED,12421328,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,15983404.0,0.084,"UK group, owner-managed"
+COMMUNITY NETWORK SERVICES LIMITED,02084279,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",15939000.0,0.272,"UK group, owner-managed"
+CARILLION COMMUNICATIONS LIMITED,02817840,UNSURE,Not yet reviewed,Other telecoms networks,15649286.0,0.081,"UK group, owner-managed"
+MILEXIA UK LTD.,02473216,UNSURE,Not yet reviewed,Satellite networks,15472300.0,0.023,Unknown
+DATABASE FOR BUSINESS LTD,03639825,UNSURE,Not yet reviewed,Other telecoms networks,15326511.0,0.069,"UK group, owner-managed"
+EJ PEAK TECHNOLOGY SOLUTIONS LIMITED,05079603,UNSURE,Not yet reviewed,Other telecoms networks,15310411.0,0.147,Likely sponsor-owned (check)
+PARADIGM COMMUNICATION SYSTEMS LIMITED,03425054,UNSURE,Not yet reviewed,Satellite networks,15292374.0,0.531,Founder or family-owned
 TRUST GROUP VENTURES LIMITED,12027048,UNSURE,Telecoms industry codes; no business description found; accounts overdue (web-checked 24 Nov 2026),Fibre and wired telecoms networks,15237840.0,0.01,Founder or family-owned
+ACORAH SOFTWARE PRODUCTS LIMITED,03948264,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",15163936.0,0.365,Likely sponsor-owned (check)
+PROLINX LIMITED,03379531,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",15066893.0,0.084,"UK group, owner-managed"
+RAIL ELECTRIFICATION LIMITED,SC512016,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,14932000.0,0.04,Unknown
+PELION IOT LIMITED,SC211701,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",14764341.0,0.032,Likely sponsor-owned (check)
+SIP COMMUNICATIONS LIMITED,05759363,UNSURE,Not yet reviewed,Other telecoms networks,14715219.0,0.541,Unknown
+ALGOLIA LIMITED,11124395,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",14661813.0,0.039,Unknown
+STEVE VICK INTERNATIONAL LIMITED,01564477,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",14639533.0,0.15,Founder or family-owned
+ERH COMMUNICATIONS LIMITED,02697046,UNSURE,Not yet reviewed,Other telecoms networks,14464285.0,0.004,"UK group, owner-managed"
+WINDCAVE LIMITED,07835804,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",14435235.0,0.039,Founder or family-owned
 CLOUDNIMBUS HOLDINGS LTD,09820855,UNSURE,"Telecoms industry code, US-linked directors; trading business not identified (web-checked 24 Nov 2026)",Other telecoms networks,13984085.0,0.065,Unknown
+ASSOCIATED UTILITY SUPPLIES LIMITED,03492030,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,13853552.0,0.205,Unknown
 DAMOCO BIDCO LIMITED,09317188,UNSURE,"Telecoms, telemetry, radar and public wifi; trading business not identified (web-checked 24 Nov 2026)",Other telecoms networks,13705667.0,0.295,Likely sponsor-owned (check)
+THE BADGER GROUP LIMITED,10902222,UNSURE,Not yet reviewed,Other telecoms networks,13560131.0,0.279,Founder or family-owned
 TAYLOR PLANT LTD,05556360,UNSURE,No business description found (web-checked 24 Nov 2026),Building and maintaining telecoms and utility networks,13528101.0,0.213,Unknown
 CORPORATE DIRECT (EUROPE) LTD,02946493,UNSURE,No business description found (web-checked 24 Nov 2026),Other telecoms networks,13457775.0,0.021,"UK group, owner-managed"
+HIHI LTD,07590894,UNSURE,Not yet reviewed,Other telecoms networks,13002000.0,0.192,Likely sponsor-owned (check)
+IQBLADE LIMITED,12275817,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",12852383.0,0.075,Likely sponsor-owned (check)
+TRACSIS TRAFFIC DATA LIMITED,03896384,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",12250003.0,0.101,Unknown
+PAGEONE COMMUNICATIONS LIMITED,04560277,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",12218000.0,0.113,Unknown
+ACQUIA LTD,07499149,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",12113000.0,0.047,Unknown
+GMV NSL LIMITED,03645072,UNSURE,Not yet reviewed,Other telecoms networks,11604931.0,0.052,Founder or family-owned
 TRUSTCO PLC.,03476994,UNSURE,IT consultancy and hosting industry codes; no business description found (web-checked 24 Nov 2026),"Data centres, data processing and hosting",11582412.0,0.033,"UK group, owner-managed"
+OPEN ENERGY MARKET LIMITED,08264515,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",11405807.0,0.101,Unknown
+GLOBAL WORLD-CHECK HOLDINGS (NOMINEE) LIMITED,06091083,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",11239388.0,0.107,"UK group, owner-managed"
+DRW NX UK LTD,09067938,UNSURE,Not yet reviewed,"Wireless networks, towers and fixed wireless",10987439.0,0.558,Founder or family-owned
+TYMIT LTD,10827757,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",10919319.0,0.103,Likely sponsor-owned (check)
+ALLIANTIST LIMITED,04922343,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",10758244.0,0.304,"UK group, owner-managed"
+TELECOMMUNICATIONS MANAGEMENT LIMITED,03592271,UNSURE,Not yet reviewed,Other telecoms networks,10647182.0,0.267,Unknown
+DIGITALK TECHNOLOGY LIMITED,05653649,UNSURE,Not yet reviewed,Other telecoms networks,10569345.0,0.33,"UK group, owner-managed"
+TOTAL UTILITY CONNECTIONS LTD,07655073,UNSURE,Not yet reviewed,Building and maintaining telecoms and utility networks,10401209.0,0.07,Founder or family-owned
+LIFECYCLE SOFTWARE LIMITED,03056738,UNSURE,Not yet reviewed,Other telecoms networks,10181745.0,0.296,Likely sponsor-owned (check)
