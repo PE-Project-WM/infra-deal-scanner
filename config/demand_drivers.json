@@ -1,0 +1,53 @@
+{
+  "_about": "Version 2 lenses: deal-type buckets and the demand-driver correlation map. Edit this file to retarget at another sub-sector. Built with the deal-screening skill (buckets) and the red-flag-register skill (correlation test: findings with one cause are one exposure).",
+  "version": "2026-11-24",
+
+  "deal_types": {
+    "_rules": "Applied in order; the first match wins. Growth is the latest year's turnover growth, visibility is the revenue-visibility estimate (0-1) from score.py.",
+    "high_growth_min_growth": 0.25,
+    "dip_max_growth": -0.10,
+    "dip_max_margin": 0.05,
+    "compounder_min_visibility": 0.6,
+    "compounder_min_margin": 0.10,
+    "compounder_min_growth": -0.05,
+    "fund_fit": {
+      "Steady compounder": "Core and core-plus infrastructure funds",
+      "Fixable dip": "Value-add infrastructure and special-situations funds",
+      "High-growth": "Growth and mid-market PE",
+      "Between buckets": "Depends on the reason given",
+      "Numbers to check": "Fix the numbers first"
+    }
+  },
+
+  "drivers": {
+    "Altnet and operator network build": "Altnet funding and interest rates",
+    "Consumer broadband": "Altnet funding and interest rates",
+    "Offshore energy and maritime": "Offshore oil, gas, wind and shipping activity",
+    "Public sector budgets": "Government spending",
+    "Business telecoms (SME)": "SME IT and telecoms spending",
+    "Hosting and cloud (SME)": "SME IT and telecoms spending",
+    "Data centre and AI compute demand": "AI and cloud capex",
+    "Mobile, radio and critical comms": "Mobile operator and emergency-services spend",
+    "Utility and civil construction": "Construction and utility capex",
+    "Unknown": "Unknown"
+  },
+
+  "driver_rules": [
+    ["public.sector|council|nhs|government", "Public sector budgets"],
+    ["offshore|maritime|subsea|marine", "Offshore energy and maritime"],
+    ["data cent|gpu|colocation", "Data centre and AI compute demand"],
+    ["hosting|cloud", "Hosting and cloud (SME)"],
+    ["broadband provider|altnet", "Consumer broadband"],
+    ["fibre install|splicing|fibre network|network build|telecoms civil", "Altnet and operator network build"],
+    ["radio|wireless|spectrum|antenna|mobile|tracking", "Mobile, radio and critical comms"],
+    ["business telecoms|phone|voice|broadband|it services|integrator|network operator", "Business telecoms (SME)"],
+    ["civil|construction|reinstatement|utility|surfacing|plant", "Utility and civil construction"]
+  ],
+
+  "correlation_test": {
+    "_rule": "Share of the top N companies driven by one macro factor. Companies sharing a factor are one bet, not several.",
+    "top_n": 10,
+    "amber_share": 0.30,
+    "red_share": 0.50
+  }
+}

@@ -15,6 +15,9 @@ on:
       - 'scripts/monitor.py'
       - 'scripts/compare.py'
       - 'scripts/site.py'
+      - 'scripts/lenses.py'
+      - 'config/demand_drivers.json'
+      - 'config/demand_driver_overrides.csv'
 
 permissions:
   contents: write
@@ -50,6 +53,7 @@ jobs:
           python scripts/clean.py 2>&1 | tee data/outputs/clean_log.txt
           python scripts/score.py 2>&1 | tee data/outputs/score_log.txt
           python scripts/compare.py 2>&1 | tee data/monitor/compare_log.txt
+          python scripts/lenses.py 2>&1 | tee data/outputs/lenses_log.txt
           python scripts/site.py
       - name: Save results
         run: |
@@ -64,4 +68,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           F="data/updates/update_$(date -u +%Y-%m-%d).md"
+          cp "$F" /tmp/issue.md && printf '\n' >> /tmp/issue.md && cat data/outputs/correlation_report.md >> /tmp/issue.md && F=/tmp/issue.md
           gh issue create --title "Weekly update $(date -u '+%d %b %Y'): $(python -c "import json;print(json.load(open('data/updates/latest.json'))['headline'])")" --body-file "$F"
