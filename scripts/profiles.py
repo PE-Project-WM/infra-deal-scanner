@@ -91,6 +91,8 @@ def checks(r):
         out.append('Figures were read by OCR and checked against the filing: ' + OCR_CHECKED[num])
     elif str(r['figures_source']).startswith('OCR'):
         out.append('Figures were read by OCR from scanned accounts: check every number against the filing')
+    elif str(r['figures_source']) != 'Tagged' and num in OCR_CHECKED:
+        out.append('Figures were read from the text of the accounts and checked against the filing: ' + OCR_CHECKED[num])
     elif str(r['figures_source']) != 'Tagged':
         out.append('Figures were read from the text of the accounts: check them against the filing')
     if r['relevance'] == 'ADJACENT':
