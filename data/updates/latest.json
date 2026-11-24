@@ -5,8 +5,8 @@
  "headline": "Scoring method updated (v3): 1 new in the top 10, 1 dropped out, 10 moved within it",
  "method_changed": true,
  "method_version": "v3",
- "events_count": 11,
- "companies_checked": 73,
+ "events_count": 3,
+ "companies_checked": 32,
  "top10": [
   {
    "rank": 1,
@@ -775,13 +775,7 @@
    "reasons": [
     "needs a sector check before it can be ranked (new sector gate)"
    ],
-   "events": [
-    "New owner (2026-10-16): Bc Bidco 6 Limited registered as a person with significant control",
-    "Owner left (2026-10-16): Ian Alexander Cole ceased to be a person with significant control",
-    "Owner left (2026-10-16): Mr Timothy Whitehill ceased to be a person with significant control",
-    "New charge (2026-10-16): Security registered in favour of Corpacq Limited (possible new borrowing)",
-    "Director appointed (2026-10-16): Newton, Stephen David appointed"
-   ]
+   "events": []
   },
   {
    "company": "Satcom Global",
@@ -1056,10 +1050,7 @@
    "reasons": [
     "needs a sector check before it can be ranked (new sector gate)"
    ],
-   "events": [
-    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
-    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
-   ]
+   "events": []
   },
   {
    "company": "Glenelly Infrastructure Solutions",
@@ -1111,9 +1102,7 @@
    "reasons": [
     "needs a sector check before it can be ranked (new sector gate)"
    ],
-   "events": [
-    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
-   ]
+   "events": []
   },
   {
    "company": "Trust Group Ventures",
@@ -1333,62 +1322,6 @@
    "event": "Director appointed",
    "date": "2026-11-04",
    "detail": "Britton, Cara Marie appointed"
-  },
-  {
-   "CompanyNumber": "09956206",
-   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
-   "event": "Director resigned",
-   "date": "2026-10-26",
-   "detail": "Heneghan, Michael Edward resigned"
-  },
-  {
-   "CompanyNumber": "09956206",
-   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
-   "event": "Director resigned",
-   "date": "2026-10-26",
-   "detail": "Heneghan, Patrick William resigned"
-  },
-  {
-   "CompanyNumber": "05206348",
-   "CompanyName": "F C E PROJECTS LIMITED",
-   "event": "New owner",
-   "date": "2026-10-16",
-   "detail": "Bc Bidco 6 Limited registered as a person with significant control"
-  },
-  {
-   "CompanyNumber": "05206348",
-   "CompanyName": "F C E PROJECTS LIMITED",
-   "event": "Owner left",
-   "date": "2026-10-16",
-   "detail": "Ian Alexander Cole ceased to be a person with significant control"
-  },
-  {
-   "CompanyNumber": "05206348",
-   "CompanyName": "F C E PROJECTS LIMITED",
-   "event": "Owner left",
-   "date": "2026-10-16",
-   "detail": "Mr Timothy Whitehill ceased to be a person with significant control"
-  },
-  {
-   "CompanyNumber": "05206348",
-   "CompanyName": "F C E PROJECTS LIMITED",
-   "event": "New charge",
-   "date": "2026-10-16",
-   "detail": "Security registered in favour of Corpacq Limited (possible new borrowing)"
-  },
-  {
-   "CompanyNumber": "05206348",
-   "CompanyName": "F C E PROJECTS LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-16",
-   "detail": "Newton, Stephen David appointed"
-  },
-  {
-   "CompanyNumber": "11480193",
-   "CompanyName": "RAPID RESPONSE TELECOMS LTD",
-   "event": "New charge",
-   "date": "2026-10-16",
-   "detail": "Security registered in favour of Barclays Bank PLC (possible new borrowing)"
   },
   {
    "CompanyNumber": "NI064545",

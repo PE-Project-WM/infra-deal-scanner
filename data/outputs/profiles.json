@@ -19,13 +19,13 @@
    {
     "year": 2024,
     "sales": 11906487.0,
-    "margin": 0.1738689170029749,
+    "margin": 0.17386891700297494,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 21059192.0,
-    "margin": 0.1564401901079585,
+    "margin": 0.15644019010795857,
     "basis": "Operating profit"
    },
    {
@@ -37,7 +37,7 @@
   ],
   "ebitda": 9954432.0,
   "interest_cover": null,
-  "capex_share": 0.0097713585694069
+  "capex_share": 0.00977135856940696
  },
  "SC492820": {
   "rank": 2,
@@ -77,31 +77,31 @@
    {
     "year": 2023,
     "sales": 11631850.0,
-    "margin": 0.0287912928725869,
+    "margin": 0.028791292872586905,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 13107972.0,
-    "margin": 0.0446529028289044,
+    "margin": 0.044652902828904426,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 15518554.0,
-    "margin": 0.0633666641879133,
+    "margin": 0.06336666418791338,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 18099102.0,
-    "margin": 0.1177872250236503,
+    "margin": 0.11778722502365034,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 2304777.0,
-  "interest_cover": 241.4044842033745,
-  "capex_share": 0.029020427844778
+  "interest_cover": 241.40448420337447,
+  "capex_share": 0.02902042784477803
  },
  "05208041": {
   "rank": 4,
@@ -130,13 +130,13 @@
    {
     "year": 2023,
     "sales": 34740479.0,
-    "margin": 0.0249531101744452,
+    "margin": 0.024953110174445205,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 36305200.0,
-    "margin": 0.1376243898945605,
+    "margin": 0.13762438989456055,
     "basis": "Operating profit"
    }
   ],
@@ -168,7 +168,7 @@
    {
     "year": 2025,
     "sales": 12584106.0,
-    "margin": 0.3333161688243884,
+    "margin": 0.33331616882438847,
     "basis": "Operating profit"
    }
   ],
@@ -236,13 +236,13 @@
    {
     "year": 2025,
     "sales": 75597498.0,
-    "margin": 0.2343891592814354,
+    "margin": 0.23438915928143547,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 18109918.0,
   "interest_cover": 264.5886006958443,
-  "capex_share": 0.0032031864380687
+  "capex_share": 0.0032031864380687794
  },
  "03223673": {
   "rank": 9,
@@ -270,25 +270,25 @@
    {
     "year": 2023,
     "sales": 17817082.0,
-    "margin": 0.3787490566637118,
+    "margin": 0.37874905666371184,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 19903436.0,
-    "margin": 0.3345897160671152,
+    "margin": 0.33458971606711524,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 15221057.0,
-    "margin": 0.2388715842795937,
+    "margin": 0.23887158427959373,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 3635878.0,
   "interest_cover": null,
-  "capex_share": 0.0072765371301974
+  "capex_share": 0.007276537130197405
  },
  "06011062": {
   "rank": 10,
@@ -313,19 +313,19 @@
    {
     "year": 2023,
     "sales": 17175614.0,
-    "margin": -0.0067560321278761,
+    "margin": -0.006756032127876186,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 18385935.0,
-    "margin": 0.1079474065365726,
+    "margin": 0.10794740653657266,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 2473621.0,
   "interest_cover": null,
-  "capex_share": 0.0364016160977236
+  "capex_share": 0.036401616097723674
  },
  "09348602": {
   "rank": 11,

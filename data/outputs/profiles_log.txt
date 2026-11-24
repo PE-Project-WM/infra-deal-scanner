@@ -1,0 +1,80 @@
+VEA GROUP LIMITED {
+ "rank": 1,
+ "confidence": "High",
+ "confidence_reasons": "recurring revenue estimated",
+ "why": [
+  "Squarely inside the investment case",
+  "High margin (31% EBITDA)",
+  "EBITDA of \u00a310.0m, in the \u00a32\u201315m range most mid-market buyers target",
+  "Sales up 65% a year over 3 years"
+ ],
+ "checks": [
+  "Part of an overseas group: buying it means a carve-out from the parent",
+  "Margin moved between 16% and 30% over the years read: find out what drives it",
+  "Sales grew from \u00a311.9m to \u00a332.6m in two years: check how much is organic, how concentrated customers are and how much repeats",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 11906487.0,
+   "margin": 0.17386891700297494,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales"
+CLARUS NETWORKS LIMITED {
+ "rank": 2,
+ "confidence": "Low",
+ "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; recurring revenue estimated",
+ "why": [
+  "Squarely inside the investment case",
+  "EBITDA of \u00a34.3m, in the \u00a32\u201315m range most mid-market buyers target",
+  "Sales up 46% last year",
+  "Cash of \u00a33.2m and net assets of \u00a35.5m"
+ ],
+ "checks": [
+  "Sales up 46% in one year: check how much came from acquisitions or one-off contracts",
+  "Figures were read from the text of the accounts: check them against the filing",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "ebitda": 4293641.0,
+ "interest_cover": 111.52025633268242,
+ "capex_share": null
+}
+THE NETWORKING PEOPLE (TNP) LIMITED {
+ "rank": 3,
+ "confidence": "High",
+ "confidence_reasons": "recurring revenue estimated",
+ "why": [
+  "Squarely inside the investment case",
+  "EBITDA of \u00a32.3m, in the \u00a32\u201315m range most mid-market buyers target",
+  "Sales up 16% a year over 4 years",
+  "Cash of \u00a31.8m and net assets of \u00a32.0m"
+ ],
+ "checks": [
+  "Bought by a private equity fund in 2025: unlikely to be sold for a few years",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2023,
+   "sales": 11631850.0,
+   "margin": 0.028791292872586905,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2024,
+   "sales": 13107972.0,
+   "margin": 0.044652902828904426,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 15518554.0,
+   "margin": 0.06336666418791338,
+   "basis": "Operating profit"
+
+Saved profiles.json for 32 ranked companies
