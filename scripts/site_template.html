@@ -354,7 +354,7 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
       <div><dt>Sales depend on</dt><dd>${esc(l.demand_driver)}${l.second_driver ? ', then ' + esc(l.second_driver) : ''}</dd></div>` : ''}
       <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
       ${P.revenue_mix ? `<div><dt>Where sales come from</dt><dd>${esc(P.revenue_mix)} <span style="color:var(--mute)">Source: ${esc(P.revenue_mix_source)}.</span></dd></div>` : ''}
-      ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}: ${esc(P.confidence_reasons)}.</dd></div>` : ''}
+      ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}${P.confidence_reasons ? ': ' + esc(P.confidence_reasons) : ': figures tagged in the filing, three or more years read'}.</dd></div>` : ''}
     </dl></div>
     <div>
       <h4>Results by year</h4>${histTable(P.history) || `<p style="margin-bottom:20px">Latest year only: sales ${money(t.turnover)}${t.growth != null ? `, ${t.growth >= 0 ? 'up' : 'down'} ${pct(Math.abs(t.growth))} on the year before` : ''}, EBITDA margin ${t.margin != null ? pct(t.margin) : 'not available'}.</p>`}

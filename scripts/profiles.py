@@ -106,7 +106,7 @@ def history(num):
 P = {}
 for _, r in R.iterrows():
     num = r['CompanyNumber']
-    P[num] = {'rank': int(r['rank']), 'confidence': r['confidence'], 'confidence_reasons': r['confidence_reasons'],
+    P[num] = {'rank': int(r['rank']), 'confidence': r['confidence'], 'confidence_reasons': '' if pd.isna(r['confidence_reasons']) else r['confidence_reasons'],
               'why': why(r), 'checks': checks(r), 'history': history(num), 'ebitda': None if pd.isna(r['ebitda']) else float(r['ebitda']),
               'interest_cover': hs(num, 'interest_cover'), 'revenue_mix': RM.at[num, 'evidence'] if num in RM.index else None,
               'revenue_mix_source': RM.at[num, 'source'] if num in RM.index else None, 'capex_share': hs(num, 'capex_share_avg')}

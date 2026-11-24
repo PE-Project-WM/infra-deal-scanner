@@ -201,7 +201,7 @@
   {
    "rank": 3,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 32%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 32%, sales up 1% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Mobile, radio and critical comms",
    "second_driver": "",
@@ -211,7 +211,7 @@
   {
    "rank": 4,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Public sector budgets",
    "second_driver": "",
@@ -221,7 +221,7 @@
   {
    "rank": 5,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
@@ -231,7 +231,7 @@
   {
    "rank": 6,
    "deal_type": "Between buckets",
-   "deal_type_reason": "margin 24% but project-based revenue (estimated)",
+   "deal_type_reason": "margin 24% but project-based revenue (from the accounts)",
    "fund_fit": "Depends on the reason given",
    "demand_driver": "Altnet and operator network build",
    "second_driver": "",
@@ -251,7 +251,7 @@
   {
    "rank": 8,
    "deal_type": "Between buckets",
-   "deal_type_reason": "margin 22% but project-based revenue (estimated)",
+   "deal_type_reason": "margin 22% but project-based revenue (from the accounts)",
    "fund_fit": "Depends on the reason given",
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",

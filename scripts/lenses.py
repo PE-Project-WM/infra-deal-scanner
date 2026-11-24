@@ -23,7 +23,7 @@ R['list'], Wl['list'], Wl['rank'] = 'Ranked', 'Watchlist (loss-making)', pd.NA
 R['visibility'] = R['pts_revenue_visibility'] / json.load(open(f'{CFG}/criteria_digital_infra.json'))['scoring_weights']['revenue_visibility']
 Wl['visibility'] = pd.NA
 keep = ['rank', 'list', 'CompanyName', 'CompanyNumber', 'score', 'relevance', 'relevance_reason', 'segment',
-        'turnover', 'turnover_growth', 'ebitda_margin', 'visibility', 'data_flags']
+        'turnover', 'turnover_growth', 'ebitda_margin', 'visibility', 'revenue_visibility_basis', 'data_flags']
 A = pd.concat([R.reindex(columns=keep), Wl.reindex(columns=keep)], ignore_index=True)
 pct = lambda x: f'{x * 100:.0f}%'
 
@@ -60,15 +60,16 @@ def deal_type(r):
         if fix:
             return 'Fixable dip', f"{why}; fix identified: {fix}"
         return 'Under pressure', f"{why}; no specific fix identified yet"
+    src = 'from the accounts' if str(r.get('revenue_visibility_basis', '')).startswith('From the accounts') else 'estimated'
     steady_margin = swing is None or swing <= T['compounder_max_margin_swing_pp']
     if v >= T['compounder_min_visibility'] and m >= T['compounder_min_margin'] and (pd.isna(g) or g >= T['compounder_min_growth']) and steady_margin:
-        return 'Steady compounder', (f"recurring-type revenue (estimated), margin {pct(m)}, {gtext}" +
+        return 'Steady compounder', (f"recurring-type revenue ({src}), margin {pct(m)}, {gtext}" +
                                      (f", margin within {swing:.0f} points over the years read" if swing is not None else ", margin stability not yet tested"))
     if not steady_margin:
         return 'Between buckets', f"margin swung {swing:.0f} points over the years read, too uneven for a steady compounder"
     if v < T['compounder_min_visibility']:
-        return 'Between buckets', f"margin {pct(m)} but project-based revenue (estimated)"
-    return 'Between buckets', f"recurring-type revenue (estimated) but margin only {pct(m)}"
+        return 'Between buckets', f"margin {pct(m)} but project-based revenue ({src})"
+    return 'Between buckets', f"recurring-type revenue ({src}) but margin only {pct(m)}"
 
 def driver(r):
     if r['CompanyNumber'] in OV.index:

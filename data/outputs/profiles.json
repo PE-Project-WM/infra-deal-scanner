@@ -2,7 +2,7 @@
  "13433533": {
   "rank": 1,
   "confidence": "High",
-  "confidence_reasons": NaN,
+  "confidence_reasons": "",
   "why": [
    "Squarely inside the investment case",
    "High margin (31% EBITDA)",
@@ -81,6 +81,7 @@
    "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
    "Figures were read from the text of the accounts: check them against the filing",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Its only contract (MoD PFI) ends in 2033, so the price check overstates value: a buyer would be paying for about seven years of cash, not a business with an exit value",
    "One customer (the MoD), and the contract ends in 2033: the business is worth the remaining contract, not a going concern",
    "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
@@ -94,7 +95,7 @@
  "07667393": {
   "rank": 4,
   "confidence": "High",
-  "confidence_reasons": NaN,
+  "confidence_reasons": "",
   "why": [
    "Squarely inside the investment case",
    "EBITDA of \u00a32.3m, in the \u00a32\u201315m range most mid-market buyers target",
@@ -310,7 +311,7 @@
  "09956206": {
   "rank": 10,
   "confidence": "Low",
-  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis",
   "why": [
    "High margin (41% EBITDA)"
   ],
@@ -319,13 +320,15 @@
    "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
    "Figures were read from the text of the accounts: check them against the filing",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Both Heneghan family directors resigned on 26 Oct 2026 (Companies House): find out whether the business has been sold or is changing hands",
+   "The accounts call concentration of revenue the largest internal risk: find out which customer and how much",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [],
   "ebitda": 17234431.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
+  "revenue_mix_source": "Heneghan Holdings accounts FY Apr 2025 (strategic report, principal risks)",
   "capex_share": null
  },
  "09585068": {
