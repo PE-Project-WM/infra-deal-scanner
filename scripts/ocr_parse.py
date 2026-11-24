@@ -42,8 +42,8 @@ def numbers(line, small_ok=False):
         v = float(digits)
         if v >= 1000 or (',' in m or '.' in m) or small_ok:
             out.append((-v if neg else v, m))
-    if small_ok and len(out) >= 3 and abs(out[0][0]) <= 40 and ',' not in out[0][1]:
-        out = out[1:]   # leading note number
+    while small_ok and len(out) >= 3 and abs(out[0][0]) <= 40 and ',' not in out[0][1]:
+        out = out[1:]   # leading note numbers (e.g. '11, 12')
     return [v for v, _ in out]
 
 def pages(text):
@@ -58,14 +58,17 @@ def scale_of(page):
     return 1
 
 def currency_of(text):
-    head = text[:30000]
+    head = text[:60000]
     m = re.search(r'(presentation|functional|reporting) currency[^.]{0,160}', head, re.I)
     s = m.group(0).lower() if m else ''
     if 'dollar' in s or 'usd' in s:
         return 'USD'
     if 'euro' in s or ' eur' in s:
         return 'EUR'
-    if not s and len(re.findall(r'US\$|\bUSD\b', head)) > 5 and len(re.findall('£', head)) < 3:
+    if 'sterling' in s or 'gbp' in s or '£' in s:
+        return 'GBP'
+    dollars = len(re.findall(r"US\$|\bUSD\b|\$\s?['’]?000|\$k\b|\$\s?\d", head))
+    if dollars > 5 and dollars > 3 * len(re.findall('£', head)):
         return 'USD'
     return 'GBP'
 
@@ -106,7 +109,7 @@ def parse(text):
     da = 0.0
     for key in ('depreciation', 'amortisation'):
         for n, t in P:
-            if n <= n0:
+            if n < n0:   # the P&L itself can show D&A (IFRS layouts), then the notes
                 continue
             kt = scale_of(t) if scale_of(t) > 1 else k
             v = first_line(t, key, kt > 1)

@@ -10,11 +10,8 @@ on:
         description: 'Parallel jobs (1-20)'
         required: false
         default: '12'
-  push:   # trial runs on the development branch only: a small sample (see TRIAL below)
-    branches: [v9-ocr]
-    paths:
-      - 'scripts/ocr_fetch.py'
-      - '.github/workflows/ocr.yml'
+  schedule:
+    - cron: '17 2 1 * *'   # monthly: reads any new scanned filings (already-read filings are skipped)
 
 permissions:
   contents: write
@@ -28,7 +25,7 @@ jobs:
     steps:
       - id: p
         run: |
-          N=${{ inputs.shards || (github.event_name == 'push' && '16') || '12' }}
+          N=${{ inputs.shards || '12' }}
           echo "shards=$N" >> $GITHUB_OUTPUT
           echo "list=[$(seq -s, 0 $((N-1)))]" >> $GITHUB_OUTPUT
 

@@ -105,6 +105,17 @@
       ],
       "note": "Single MoD PFI contract ending in 2033: the buyer case assumes an exit at the entry multiple after five years, which a contract with two years left would not fetch. Value it on the remaining contract cash flows instead.",
       "source": "Alert Communications accounts FY Mar 2026 (principal activity)"
+    },
+    {
+      "companies": [
+        "03307001",
+        "05412813",
+        "07413288",
+        "02150618",
+        "02386327"
+      ],
+      "note": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used here, so the price check is a floor, not a guide to what a seller would accept. Add asset-level comparables before relying on it.",
+      "source": "Screen limitation; asset-owner comparables not yet added"
     }
   ],
   "fx_to_gbp": {

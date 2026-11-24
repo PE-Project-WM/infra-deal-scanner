@@ -35,7 +35,7 @@ The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run 
 
 ## Known limits
 
-- 842 of the 1,209 companies file scanned PDF accounts that are not read yet (OCR is planned).
+- 842 of the 1,209 companies file scanned PDF accounts. Text recognition (OCR, `scripts/ocr_fetch.py`, `ocr_parse.py`, workflow `ocr.yml`) read turnover for 605 of them on 24 Nov 2026; their figures are labelled "OCR, check" and carry Low confidence. 234 could not be read. New companies found this way were sector-checked from their names and public knowledge (marked "draft").
 - The price check is a first pass: ranges come from listed peers and deal averages. Net debt is read from each top-ten company's latest accounts (up to two years old); debt held by owners' holding companies is not visible.
 - 12 profitable companies still await a check that they really trade in the sector (`data/outputs/sector_check.csv`): web checks on 24 Nov 2026 found no clear description of what they do. The other 29 of the 41 were settled that day (3 IN, 12 ADJACENT, 14 OUT, reasons in `config/relevance_draft.csv`).
 - Accounts filed in another currency are listed in `config/company_currency.csv` and converted to pounds (rate in `config/valuation.json`) before anything is compared; Satcom Global is the only one so far.
