@@ -30,7 +30,7 @@ The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run 
 - `data/outputs/rankings/`: a dated copy of every ranking
 - `data/outputs/excluded_log.csv`: every company removed, with the reason
 - `data/outputs/lenses_latest.csv`: deal type, demand driver and macro factor for every ranked and watchlist company
-- `data/outputs/correlation_report.md`: the top-10 correlation test (also added to each weekly issue)
+- `data/outputs/correlation_report.md`: the top-10 correlation test, weighting each company by the share of its sales tied to each macro factor (splits in `config/demand_driver_split.csv`; also added to each weekly issue)
 - `data/updates/`: each week's "what changed and why", as Markdown and JSON
 
 ## Known limits

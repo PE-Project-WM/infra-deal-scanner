@@ -195,7 +195,7 @@ footer p{max-width:80ch;margin-bottom:10px}
 
 <section id="bets-section" hidden><div class="wrap">
   <h2>Ten companies, but how many separate bets?</h2>
-  <p class="sub text">Companies that depend on the same thing would struggle at the same time. So we group the ten by what their sales mainly depend on.</p>
+  <p class="sub text">Companies that depend on the same thing would struggle at the same time. So we group the ten by what their sales depend on, split where a company has more than one source.</p>
   <p class="verdict" id="verdict"></p>
   <div class="groups" id="groups"></div>
   <p class="rule-note" id="rule-note"></p>
@@ -252,7 +252,7 @@ footer p{max-width:80ch;margin-bottom:10px}
     <li><b>Balance sheet, not debt capacity</b>Net assets, cash, margin and interest cover where known. True debt capacity needs net debt, capital spending and cash conversion.</li>
     <li id="lim-scanned"><b>Some scanned accounts not read</b></li>
     <li id="lim-sector"><b>Sector check pending</b></li>
-    <li><b>One label per company</b>Each company is grouped by its main source of demand. Most have several, and the split is not yet known.</li>
+    <li><b>Demand splits are estimates</b>For the top ten, each company's sales are split across what they depend on, estimated from the accounts and public contracts; filings rarely give the split directly. Further down the list, a company with two named sources is assumed 70/30.</li>
   </ul>
 </div></section>
 
@@ -314,7 +314,7 @@ const short = [
 ];
 if (C) {
   const c = C.top_n;
-  short.push(`<b>The ten are really about ${c.effective_bets.toFixed(0)} separate bets.</b> ${c.factors.filter(f => f.count >= 3).map(f => `${f.count} depend on ${esc(f.factor.charAt(0).toLowerCase() + f.factor.slice(1)).replace(/^sME/,'SME')}`).join(', ')}.`);
+  short.push(`<b>The ten are really about ${c.effective_bets.toFixed(0)} separate bets.</b> Weighting each company by how much of its sales depend on each factor, ${c.factors.filter(f => f.share >= 0.2).map(f => `${pct(f.share)} rests on ${esc(f.factor.charAt(0).toLowerCase() + f.factor.slice(1)).replace(/^sME/,'SME')}`).join(', ')}.`);
   const parts = [['Steady compounder','steady compounder','steady compounders'],['High-growth','high-growth','high-growth'],['Fixable dip','fixable dip','fixable dips'],['Under pressure','under pressure','under pressure'],['Between buckets','between types','between types']]
     .filter(([k]) => counts[k]).map(([k, one, many]) => plural(counts[k], one, many));
   short.push(`<b>Types of deal in the ten:</b> ${parts.join(', ')}.`);
@@ -351,7 +351,7 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
       ${P.checks && P.checks.length ? `<h4>Check first</h4><ul class="checks">${P.checks.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
       <h4>Key facts</h4><dl class="facts">
       ${l ? `<div><dt>Why this type</dt><dd>${esc(l.deal_type_reason.charAt(0).toUpperCase() + l.deal_type_reason.slice(1))}.</dd></div>
-      <div><dt>Sales depend on</dt><dd>${esc(l.demand_driver)}${l.second_driver ? ', then ' + esc(l.second_driver) : ''}</dd></div>` : ''}
+      <div><dt>Sales depend on</dt><dd>${(l.split || [{driver: l.demand_driver, share: 1}]).map(x => `${esc(x.driver)}${x.share < 0.999 ? ' ' + pct(x.share) : ''}`).join(', ')}${l.split && l.split.length > 1 ? ` <span style="color:var(--mute)">(${esc(l.split_basis)})</span>` : ''}</dd></div>` : ''}
       <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
       ${P.revenue_mix ? `<div><dt>Where sales come from</dt><dd>${esc(P.revenue_mix)} <span style="color:var(--mute)">Source: ${esc(P.revenue_mix_source)}.</span></dd></div>` : ''}
       ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}${P.confidence_reasons ? ': ' + esc(P.confidence_reasons) : ': figures tagged in the filing, three or more years read'}.</dd></div>` : ''}
@@ -427,10 +427,10 @@ if (C) {
   document.getElementById('bets-section').hidden = false;
   document.getElementById('verdict').textContent = `The top ten is about ${c.effective_bets.toFixed(0)} separate bets, not ten. ${c.flag === 'green' ? 'No single factor dominates.' : c.flag === 'amber' ? 'Worth knowing, but no single factor dominates.' : 'One factor dominates the list.'}`;
   document.getElementById('groups').innerHTML = c.factors.map((f, i) => `<div class="group" style="--c:${COLORS[i % COLORS.length]}">
-    <p class="n">${f.count} of ${c.n} companies</p><h3>${esc(f.factor)}</h3>
+    <p class="n">${pct(f.share)} of the ten</p><h3>${esc(f.factor)}</h3>
     <ul>${f.companies.map(n => `<li>${esc(n)}</li>`).join('')}</ul>
     <p>${esc(f.explain || '')}</p></div>`).join('');
-  document.getElementById('rule-note').textContent = `We flag the list when ${Math.round(C.thresholds.amber_share*100)}% or more of the ten depend on one thing, and treat it as a serious concentration at ${Math.round(C.thresholds.red_share*100)}%. What each company depends on is a judgement from its business description and is open to review.`;
+  document.getElementById('rule-note').textContent = `We flag the list when ${Math.round(C.thresholds.amber_share*100)}% or more of the ten depends on one thing, and treat it as a serious concentration at ${Math.round(C.thresholds.red_share*100)}%. Each company counts once, spread across the things its sales depend on (for example 70% maritime, 30% public sector), so a share of 30% means three companies' worth of sales. Splits are estimated from the accounts and are open to review.`;
 }
 
 // Score glossary
