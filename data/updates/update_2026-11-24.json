@@ -1,0 +1,401 @@
+{
+ "date": "2026-11-24",
+ "checked_since": "2026-08-26",
+ "previous_scored_on": "2026-11-22",
+ "headline": "0 new in the top 10, 0 dropped out, 0 moved within it",
+ "events_count": 12,
+ "companies_checked": 73,
+ "top10": [
+  {
+   "rank": 1,
+   "company": "VEA Group",
+   "score": 96.0,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 32560948.0,
+   "margin": 0.306,
+   "access": "Low-Medium",
+   "access_note": "UK arm of an overseas founder group, carve-out needed",
+   "town": "Bracknell",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 13.5,
+    "data_completeness": 15.0,
+    "debt_capacity": 10.0
+   }
+  },
+  {
+   "rank": 2,
+   "company": "The Networking People (TNP)",
+   "score": 88.6,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 18099102.0,
+   "margin": 0.127,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "Lancaster",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 13.6,
+    "margin_quality": 8.5,
+    "data_completeness": 15.0,
+    "debt_capacity": 9.0
+   }
+  },
+  {
+   "rank": 3,
+   "company": "Satcom Global",
+   "score": 86.0,
+   "fit": "IN",
+   "segment": "Satellite networks",
+   "turnover": 36305200.0,
+   "margin": 0.138,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "North Shields",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 8.9,
+    "data_completeness": 12.0,
+    "debt_capacity": 7.6
+   }
+  },
+  {
+   "rank": 4,
+   "company": "Clarus Networks",
+   "score": 85.7,
+   "fit": "IN",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 26680567.0,
+   "margin": 0.161,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Bathgate",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 9.8,
+    "data_completeness": 9.0,
+    "debt_capacity": 9.4
+   }
+  },
+  {
+   "rank": 5,
+   "company": "MAP Group (UK)",
+   "score": 80.0,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 75597498.0,
+   "margin": 0.24,
+   "access": "Low",
+   "access_note": "employee-owned, rarely for sale",
+   "town": "Stockton-On-Tees",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 12.8,
+    "data_completeness": 15.0,
+    "debt_capacity": 8.4
+   }
+  },
+  {
+   "rank": 6,
+   "company": "Dstny Global Services UK",
+   "score": 76.9,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 12584106.0,
+   "margin": 0.407,
+   "access": "Check",
+   "access_note": "ownership not found",
+   "town": "Newport Pagnell",
+   "pts": {
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 9.4,
+    "margin_quality": 15.0,
+    "data_completeness": 15.0,
+    "debt_capacity": 8.0
+   }
+  },
+  {
+   "rank": 7,
+   "company": "C.A. Telecom UK",
+   "score": 76.4,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 18385935.0,
+   "margin": 0.135,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Whitstable",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 13.8,
+    "margin_quality": 8.8,
+    "data_completeness": 15.0,
+    "debt_capacity": 10.0
+   }
+  },
+  {
+   "rank": 8,
+   "company": "A-2-Sea Solutions",
+   "score": 73.0,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 15221057.0,
+   "margin": 0.239,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Romsey",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 11.4,
+    "margin_quality": 11.0,
+    "data_completeness": 12.0,
+    "debt_capacity": 9.8
+   }
+  },
+  {
+   "rank": 9,
+   "company": "Barclay Digital Services",
+   "score": 72.0,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 17547732.0,
+   "margin": 0.222,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Belfast",
+   "pts": {
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 13.2,
+    "margin_quality": 12.1,
+    "data_completeness": 9.0,
+    "debt_capacity": 8.2
+   }
+  },
+  {
+   "rank": 10,
+   "company": "Siteground Hosting",
+   "score": 70.7,
+   "fit": "ADJACENT",
+   "segment": "Data centres, data processing and hosting",
+   "turnover": 48984027.0,
+   "margin": 0.051,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "London",
+   "pts": {
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 15.0,
+    "margin_quality": 5.7,
+    "data_completeness": 12.0,
+    "debt_capacity": 8.5
+   }
+  }
+ ],
+ "top10_moves": [
+  {
+   "company": "Satcom Global",
+   "number": "05208041",
+   "kind": "same",
+   "from": 3,
+   "to": 3,
+   "score_from": 86.0,
+   "score_to": 86.0,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-09-02): Leydon, Chris resigned"
+   ]
+  }
+ ],
+ "all_moves": [
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "same",
+   "from": 24,
+   "to": 24,
+   "score_from": 62.2,
+   "score_to": 62.4,
+   "reasons": [
+    "turnover \u00a310.6m \u2192 \u00a310.8m",
+    "margin 34% \u2192 32%"
+   ],
+   "events": [
+    "New accounts (2026-11-24): New accounts filed (made up to 2026-03-31): turnover \u00a310.8m (+1%), EBITDA margin 32%",
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  },
+  {
+   "company": "F C E Projects",
+   "number": "05206348",
+   "kind": "same",
+   "from": 16,
+   "to": 16,
+   "score_from": 65.9,
+   "score_to": 65.9,
+   "reasons": [],
+   "events": [
+    "New owner (2026-10-16): Bc Bidco 6 Limited registered as a person with significant control",
+    "Owner left (2026-10-16): Ian Alexander Cole ceased to be a person with significant control",
+    "Owner left (2026-10-16): Mr Timothy Whitehill ceased to be a person with significant control",
+    "New charge (2026-10-16): Security registered in favour of Corpacq Limited (possible new borrowing)",
+    "Director appointed (2026-10-16): Newton, Stephen David appointed"
+   ]
+  },
+  {
+   "company": "Satcom Global",
+   "number": "05208041",
+   "kind": "same",
+   "from": 3,
+   "to": 3,
+   "score_from": 86.0,
+   "score_to": 86.0,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-09-02): Leydon, Chris resigned"
+   ]
+  },
+  {
+   "company": "Heneghan Holdings",
+   "number": "09956206",
+   "kind": "same",
+   "from": 37,
+   "to": 37,
+   "score_from": 58.8,
+   "score_to": 58.8,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
+    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
+   ]
+  },
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "same",
+   "from": 46,
+   "to": 46,
+   "score_from": 56.3,
+   "score_to": 56.3,
+   "reasons": [],
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
+  },
+  {
+   "company": "Adman Civil Projects",
+   "number": "NI064545",
+   "kind": "same",
+   "from": 23,
+   "to": 23,
+   "score_from": 62.6,
+   "score_to": 62.6,
+   "reasons": [],
+   "events": [
+    "Charge satisfied (2026-10-14): Security for Ulster Bank Limited released (debt repaid or refinanced)"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "CompanyNumber": "03912906",
+   "CompanyName": "ALERT COMMUNICATIONS LIMITED",
+   "event": "New accounts",
+   "date": "2026-11-24",
+   "detail": "New accounts filed (made up to 2026-03-31): turnover \u00a310.8m (+1%), EBITDA margin 32%"
+  },
+  {
+   "CompanyNumber": "03912906",
+   "CompanyName": "ALERT COMMUNICATIONS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-04",
+   "detail": "Britton, Cara Marie appointed"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Michael Edward resigned"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Patrick William resigned"
+  },
+  {
+   "CompanyNumber": "05206348",
+   "CompanyName": "F C E PROJECTS LIMITED",
+   "event": "New owner",
+   "date": "2026-10-16",
+   "detail": "Bc Bidco 6 Limited registered as a person with significant control"
+  },
+  {
+   "CompanyNumber": "05206348",
+   "CompanyName": "F C E PROJECTS LIMITED",
+   "event": "Owner left",
+   "date": "2026-10-16",
+   "detail": "Ian Alexander Cole ceased to be a person with significant control"
+  },
+  {
+   "CompanyNumber": "05206348",
+   "CompanyName": "F C E PROJECTS LIMITED",
+   "event": "Owner left",
+   "date": "2026-10-16",
+   "detail": "Mr Timothy Whitehill ceased to be a person with significant control"
+  },
+  {
+   "CompanyNumber": "05206348",
+   "CompanyName": "F C E PROJECTS LIMITED",
+   "event": "New charge",
+   "date": "2026-10-16",
+   "detail": "Security registered in favour of Corpacq Limited (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "05206348",
+   "CompanyName": "F C E PROJECTS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-16",
+   "detail": "Newton, Stephen David appointed"
+  },
+  {
+   "CompanyNumber": "11480193",
+   "CompanyName": "RAPID RESPONSE TELECOMS LTD",
+   "event": "New charge",
+   "date": "2026-10-16",
+   "detail": "Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "NI064545",
+   "CompanyName": "ADMAN CIVIL PROJECTS LIMITED",
+   "event": "Charge satisfied",
+   "date": "2026-10-14",
+   "detail": "Security for Ulster Bank Limited released (debt repaid or refinanced)"
+  },
+  {
+   "CompanyNumber": "05208041",
+   "CompanyName": "SATCOM GLOBAL LIMITED",
+   "event": "Director resigned",
+   "date": "2026-09-02",
+   "detail": "Leydon, Chris resigned"
+  }
+ ],
+ "ranked": 73
+}
