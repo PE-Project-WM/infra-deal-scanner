@@ -1,5 +1,23 @@
-VEA GROUP LIMITED {
+WIFINITY LIMITED {
  "rank": 1,
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "why": [
+  "Squarely inside the investment case",
+  "High margin (40% EBITDA)",
+  "Sales up 20% last year",
+  "Cash of \u00a36.8m and net assets of \u00a327.1m"
+ ],
+ "checks": [
+  "Bought by a private equity fund in 2021: unlikely to be sold for a few years",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match; operating profit is after \u00a30.85m exceptional costs, so EBITDA here (\u00a315.7m) is below the company's own \u00a316.7m",
+  "Bought by Arcus Infrastructure Partners in early 2026, so unlikely to be sold again for several years",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "ebitda": 
+VEA GROUP LIMITED {
+ "rank": 2,
  "confidence": "High",
  "confidence_reasons": "",
  "why": [
@@ -20,40 +38,25 @@ VEA GROUP LIMITED {
    "year": 2024,
    "sales": 11906487.0,
    "margin": 0.17386891700297494
-CLARUS NETWORKS LIMITED {
- "rank": 2,
- "confidence": "Low",
- "confidence_reasons": "figures read from the accounts text; fewer than 3 years read",
- "why": [
-  "Squarely inside the investment case",
-  "EBITDA of \u00a34.3m, in the \u00a32\u201315m range most mid-market buyers target",
-  "Sales up 46% last year",
-  "Cash of \u00a33.2m and net assets of \u00a35.5m"
- ],
- "checks": [
-  "Figures were read from the text of the accounts: check them against the filing",
-  "Operating profit includes \u00a31.2m of R&D tax credit (RDEC) income; without it the operating margin is 10.7%, not 15.2%: price off the lower figure unless the credit recurs",
-  "Depends on Starlink and other satellite operators as suppliers; 22% of sales outside the UK",
-  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
- ],
- "history": [],
- "ebitda": 4293641.0,
- "interest_cover":
-ALERT COMMUNICATIONS LIMITED {
+OPEN FIBRE NETWORKS LIMITED {
  "rank": 3,
  "confidence": "Low",
- "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis",
+ "confidence_reasons": "OCR figures checked against the filing; missing cash, net assets; fewer than 3 years read; recurring revenue estimated",
  "why": [
-  "High margin (32% EBITDA)",
-  "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target",
-  "Most sales repeat (read from the accounts)"
+  "Squarely inside the investment case",
+  "High margin (51% EBITDA)",
+  "EBITDA of \u00a314.1m, in the \u00a32\u201315m range most mid-market buyers target",
+  "Sales up 16% last year"
  ],
  "checks": [
-  "Probably owned by a private equity fund: check when it bought in",
-  "Net debt of \u00a315.8m, 4.6x EBITDA: most of the price would go to lenders, not shareholders",
-  "Interest cover only 2.3x: check how much debt it already carries",
-  "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
-  "Figures were read from the text of the accounts: check them against the filing",
-  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-  "Its only contract (MoD PFI) ends in 2033, so
-Saved profiles.json for 46 ranked companies
+  "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (\u00a314.8m) match",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "ebitda": 14127893.0,
+ "interest_cover": null,
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "capex_share": null
+}
+Saved profiles.json for 93 ranked companies

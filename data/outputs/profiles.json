@@ -10,7 +10,7 @@
    "Cash of \u00a36.8m and net assets of \u00a327.1m"
   ],
   "checks": [
-   "Bought by a private equity fund in 2026: unlikely to be sold for a few years",
+   "Bought by a private equity fund in 2021: unlikely to be sold for a few years",
    "Figures were read by OCR and checked against the filing: Turnover and operating profit match; operating profit is after \u00a30.85m exceptional costs, so EBITDA here (\u00a315.7m) is below the company's own \u00a316.7m",
    "Bought by Arcus Infrastructure Partners in early 2026, so unlikely to be sold again for several years",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
@@ -1791,7 +1791,7 @@
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
-  "ebitda": 13228453.6,
+  "ebitda": 13228453.600000001,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
