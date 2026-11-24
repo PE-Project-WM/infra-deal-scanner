@@ -1,7 +1,8 @@
 CompanyName,CompanyNumber,status,excluded_reason
+ARRIS GLOBAL LTD.,01672847,"In band, EBITDA unknown",Foreign-owned subsidiary (not buyable on its own): Vantiva Sa
 ALCATEL SUBMARINE NETWORKS UK LTD,01750343,"In band, EBITDA unknown",Foreign-owned subsidiary (not buyable on its own): Alcatel Submarine Networks
-TENNIS DATA INNOVATIONS STREAMING (UK) LIMITED,12977032,"In band, EBITDA unknown",Foreign-owned subsidiary (not buyable on its own): Tennis Data Innovations (Uk) Limited
 IOMART MANAGED SERVICES LIMITED,SC275629,"In band, EBITDA unknown",Duplicate of IOMART GROUP PLC
+TENNIS DATA INNOVATIONS STREAMING (UK) LIMITED,12977032,"In band, EBITDA unknown",Foreign-owned subsidiary (not buyable on its own): Tennis Data Innovations (Uk) Limited
 EVERO ENERGY HOLDINGS LIMITED,09642938,"In band, EBITDA unknown",Duplicate of EVERO ENERGY GROUP LIMITED
 ROC TECHNOLOGIES LIMITED,07579363,"In band, EBITDA unknown",Duplicate of ROC TRANSFORMATION (HOLDINGS) LIMITED
 APPLIED SATELLITE TECHNOLOGY LIMITED,02153172,"In band, EBITDA unknown",Duplicate of APPLIED SATELLITE GROUP LTD
@@ -30,178 +31,299 @@ TROOLI LTD,04366668,"In band, EBITDA unknown",Foreign-owned subsidiary (not buya
 BOLDYN NETWORKS UK LIMITED,10090890,"In band, EBITDA unknown",Foreign-owned subsidiary (not buyable on its own): Boldyn Networks Pne Holdings Uk Ltd
 TELENCO UK LIMITED,12539876,"In band, EBITDA unknown",Foreign-owned subsidiary (not buyable on its own): Ect Sas
 TERRASTAR GNSS LIMITED,SC440089,"In band, EBITDA unknown",Duplicate of VERIPOS LIMITED
+P.J. CAREY (CONTRACTORS) LIMITED,01460224,Shortlist,Not digital infrastructure: Civil engineering and construction contractor
+AURORA NETWORKS INTERNATIONAL (UK) LIMITED,08277408,Shortlist,Foreign-owned subsidiary (not buyable on its own): Arris International Limited
 DATACAMP LIMITED,07489096,Shortlist,Not digital infrastructure: Online learning software
+VIRGIN MOBILE TELECOMS LIMITED,03707664,Shortlist,"Not digital infrastructure: Brand company inside Virgin Media O2, not a standalone business"
+MURPHY POWER NETWORKS LIMITED,11101645,Shortlist,Not digital infrastructure: Power network construction
+WORKDAY (UK) LIMITED,04162863,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Workday, Inc."
+SINCH UK LTD.,03049312,Shortlist,"Not digital infrastructure: Business messaging software, foreign-owned"
 LYCAMOBILE UK LIMITED,05903820,Shortlist,Not digital infrastructure: Mobile brand on another network (no own assets)
 VERIZON UK LIMITED,02776038,Shortlist,Foreign-owned subsidiary (not buyable on its own): Verizon European Holdings Limited
 POWERTEAM ELECTRICAL SERVICES (UK) LIMITED,NI034635,Shortlist,Foreign-owned subsidiary (not buyable on its own): Vinci Energies Uk Holding Ltd
+CACI LIMITED,01649776,Shortlist,"Not digital infrastructure: IT services, US-owned"
 BECHTLE LIMITED,03283032,Shortlist,Foreign-owned subsidiary (not buyable on its own): Bechtle International Operations Holding Ag
+TRANSUNION INTERNATIONAL UK LIMITED,03961870,Shortlist,Not digital infrastructure: Credit data
 TENNIS DATA INNOVATIONS OPERATIONS (UK) LIMITED,12977086,Shortlist,Foreign-owned subsidiary (not buyable on its own): Tennis Data Innovations (Uk) Limited
 WBDUK SPORT SERVICES LTD,14017604,Shortlist,Foreign-owned subsidiary (not buyable on its own): Dni Foreign Holdings Limited
 SNOWFLAKE COMPUTING U.K. LIMITED,10611715,Shortlist,Foreign-owned subsidiary (not buyable on its own): Snowflake Inc.
 FIS BANKING SOLUTIONS UK LIMITED,03517639,Shortlist,Foreign-owned subsidiary (not buyable on its own): Fis Payments (Uk) Limited
 IOMART GROUP PLC,SC204560,Shortlist,Not digital infrastructure: Listed on AIM
+ROKE MANOR RESEARCH LIMITED,00267550,Shortlist,Not digital infrastructure: Defence research and cyber consultancy (Chemring)
+"HUAWEI TECHNOLOGIES (UK) CO., LTD.",04295981,Shortlist,"Not digital infrastructure: Telecoms equipment vendor, Chinese-owned"
 IMIMOBILE LIMITED,08802718,Shortlist,Foreign-owned subsidiary (not buyable on its own): Cisco Systems Holdings Uk Limited
 FOUNDEVER GB LIMITED,03450786,Shortlist,Duplicate of FOUNDEVER EUROPE LIMITED
+FOCUS 4 U LTD.,04771242,Shortlist,Not digital infrastructure: Mobile phone distribution
+BOTTOMLINE TECHNOLOGIES LIMITED,08098450,Shortlist,Not digital infrastructure: Payments software
 RINGCENTRAL UK LTD,06737634,Shortlist,Not digital infrastructure: Software (cloud phone systems)
+NIMANS LIMITED,01876587,Shortlist,Not digital infrastructure: Telecoms equipment distributor
+DEALOGIC LIMITED,01777183,Shortlist,Not digital infrastructure: Financial data
 LIBERTY GLOBAL EUROPE LIMITED,03422231,Shortlist,Foreign-owned subsidiary (not buyable on its own): Liberty Global Broadband I Limited
+ZELLIS UK LIMITED,01587537,Shortlist,Not digital infrastructure: Payroll software and services
 VEOLIA ENERGY & UTILITY SERVICES UK LIMITED,02585759,Shortlist,Foreign-owned subsidiary (not buyable on its own): Veolia Energy Uk Limited
+MONTY MOBILE LIMITED,12980683,Shortlist,Not digital infrastructure: Business messaging (A2P SMS)
+DATASITE UK LTD.,03829230,Shortlist,Not digital infrastructure: Virtual data rooms software
+TELSTRA UK LIMITED,03830643,Shortlist,Foreign-owned subsidiary (not buyable on its own): Telstra Group (Australia) (web-checked: Public knowledge (draft: confirm))
+COLT DATA CENTRE SERVICES UK LIMITED,07306352,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Colt DCS group, owned by Fidelity Investments (US) (web-checked: Public knowledge (draft: confirm))"
+FOUNDEVER EUROPE LIMITED,02756274,Shortlist,Not digital infrastructure: Outsourced contact centres
+HUAWEI TECHNOLOGIES RESEARCH & DEVELOPMENT (UK) LIMITED,07371283,Shortlist,"Not digital infrastructure: Telecoms research and development, Chinese-owned"
 IDT RETAIL EUROPE LIMITED,07888960,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Idt Telecom, Inc."
 MBA GROUP LIMITED,02343859,Shortlist,"Not digital infrastructure: Multichannel business communications, print and data processing"
 VIAVI SOLUTIONS UK LIMITED,00887400,Shortlist,Foreign-owned subsidiary (not buyable on its own): Viavi Solutions Inc.
 EUROSTAR GLOBAL ELECTRONICS LIMITED,06046810,Shortlist,Not digital infrastructure: Electronics distribution
+MOBILE BROADBAND NETWORK LIMITED,06375220,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Joint venture of EE (BT) and Three UK (CK Hutchison, Hong Kong); not for sale on its own (web-checked: Public knowledge (draft: confirm))"
 QXTEL LIMITED,03984645,Shortlist,Foreign-owned subsidiary (not buyable on its own): Iqstel Inc
+PICO GLOBAL LTD.,09365923,Shortlist,Not digital infrastructure: Events and exhibitions
+COMPUTERSHARE TECHNOLOGY SERVICES (UK) LIMITED,03199675,Shortlist,Not digital infrastructure: Share registry and financial services technology
 ADTRAN EUROPE LIMITED,05320461,Shortlist,Foreign-owned subsidiary (not buyable on its own): Adtran Inc
 CHINA UNICOM (EUROPE) OPERATIONS LIMITED,05992614,Shortlist,Foreign-owned subsidiary (not buyable on its own): China Unicom (Hong Kong) Limited
+COMMIFY UK LIMITED,04217280,Shortlist,Not digital infrastructure: Business SMS messaging software
 MONTY UK GLOBAL LIMITED,08632740,Shortlist,Duplicate of MONTY MOBILE LIMITED
 KCOM HOLDINGS LIMITED,03317871,Shortlist,Duplicate of KCOM GROUP LIMITED
 EPAY LIMITED,03695345,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Euronet Worldwide, Inc"
+TRANT ENGINEERING LIMITED,00769274,Shortlist,Not digital infrastructure: Mechanical and electrical engineering
 NSSLGLOBAL LIMITED,03879526,Shortlist,Foreign-owned subsidiary (not buyable on its own): Arendals Fossekompani Asa
-EUNETWORKS FIBER UK LIMITED,04840874,Shortlist,Foreign-owned subsidiary (not buyable on its own): Eunetworks Group Limited
-SONY INTERACTIVE ENTERTAINMENT DIRECT EUROPE LIMITED,03754597,Shortlist,Foreign-owned subsidiary (not buyable on its own): Sony Interactive Entertainment Europe Limited
+ECOSURETY LIMITED,04713606,Shortlist,Not digital infrastructure: Environmental compliance scheme
+IMANAGE EMEA LIMITED,09625186,Shortlist,Not digital infrastructure: Legal document management software
+INCOMM EUROPE LIMITED,05322244,Shortlist,Not digital infrastructure: Prepaid payments
+RICARDO-AEA LIMITED,08229264,Shortlist,Not digital infrastructure: Environmental consultancy
 VDC UK MANAGEMENT COMPANY LIMITED,12361880,Shortlist,"Not digital infrastructure: Intra-group management company of Vantage Data Centers, not a standalone business"
+ZOOPLA LIMITED,06074771,Shortlist,Not digital infrastructure: Property portal
 EVALUATE LIMITED,05876322,Shortlist,Not digital infrastructure: Pharma data and research
 GLOBAL SWITCH ESTATES 2 LIMITED,04729738,Shortlist,Foreign-owned subsidiary (not buyable on its own): Global Switch Uk Holdings Limited
+EUNETWORKS FIBER UK LIMITED,04840874,Shortlist,Foreign-owned subsidiary (not buyable on its own): Eunetworks Group Limited
 KEMSLEY CHP LIMITED,10082985,Shortlist,Foreign-owned subsidiary (not buyable on its own): E.On Se
+TALKMOBILE LIMITED,04154716,Shortlist,"Not digital infrastructure: Mobile brand inside Vodafone, not a standalone business"
+ENIGMA INDUSTRIAL SERVICES LTD,00444313,Shortlist,Not digital infrastructure: Industrial services
 TSYS CARD TECH LIMITED,05843091,Shortlist,Not digital infrastructure: Payments
-RETN NETWORKS LTD,14786486,Shortlist,Foreign-owned subsidiary (not buyable on its own): Pinkas Ltd
+PRECISION PROCO (HOLDINGS) LIMITED,15096985,Shortlist,Not digital infrastructure: Print and packaging
+SONY INTERACTIVE ENTERTAINMENT DIRECT EUROPE LIMITED,03754597,Shortlist,Foreign-owned subsidiary (not buyable on its own): Sony Interactive Entertainment Europe Limited
+EXCALON LIMITED,04450846,Shortlist,Not digital infrastructure: Utility services for water and gas networks
+FE FUNDINFO LIMITED,03672592,Shortlist,Not digital infrastructure: Fund data
 COMMSCOPE CONNECTIVITY UK LIMITED,03107702,Shortlist,Foreign-owned subsidiary (not buyable on its own): Amphenol Corporation
 DEUTSCHE TELEKOM (UK) LIMITED,03951860,Shortlist,Foreign-owned subsidiary (not buyable on its own): Deutsche Telekom Ag
+PINKAS LTD,06040998,Shortlist,"Not digital infrastructure: International fibre network (RETN) mostly outside the UK: Central and Eastern Europe, Russia and Central Asia"
+DORENELL WINDFARM LIMITED,05628395,Shortlist,"Not digital infrastructure: Wind farm (energy, not digital)"
 GO GREEN LIMITED,04073354,Shortlist,Not digital infrastructure: Waste-management broker
+TRANSFERTO MOBILE FINANCIAL SERVICES LTD,09171042,Shortlist,Not digital infrastructure: Mobile payments
+CFH DOCMAIL LTD,01716891,Shortlist,Not digital infrastructure: Print and mail services
 RUBRIK UK LIMITED,11375501,Shortlist,Not digital infrastructure: Software
 LANCASTER GROUP HOLDINGS LIMITED,11190451,Shortlist,Not digital infrastructure: Phone recycling
+BACKOFFICE ASSOCIATES EUROPE (UK) LIMITED,06518181,Shortlist,Not digital infrastructure: Data migration software
+NETCEED UK LIMITED,01349036,Shortlist,Not digital infrastructure: Telecoms equipment distributor
+ENKA UK CONSTRUCTION LIMITED,10527034,Shortlist,Not digital infrastructure: Construction contractor
 TWILIO UK LIMITED,07945978,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Twilio, Inc."
+ENCOMPASS DIGITAL MEDIA SERVICES LIMITED,02712443,Shortlist,Not digital infrastructure: Broadcast playout services
+RETN NETWORKS LTD,14786486,Shortlist,Foreign-owned subsidiary (not buyable on its own): Pinkas Ltd
+HPI LIMITED,04068979,Shortlist,Not digital infrastructure: Vehicle data
 ENERCON WIND ENERGY UK LIMITED,SC621874,Shortlist,Foreign-owned subsidiary (not buyable on its own): Uee Holding Se & Co. Kg
 CORPORATE DOCUMENT SERVICES LIMITED,02925653,Shortlist,Not digital infrastructure: Printing and documents
+SAMSUNG CAMBRIDGE SOLUTION CENTRE LIMITED,08226456,Shortlist,"Not digital infrastructure: Mobile phone research and development, Korean-owned"
 GETECH LIMITED,02436537,Shortlist,"Not digital infrastructure: IT and telecoms equipment distributor (education IT, BT products)"
 KALTURA EUROPE LIMITED,08012257,Shortlist,Foreign-owned subsidiary (not buyable on its own): Kaltura Inc
 HALL CONSTRUCTION SERVICES LIMITED,02076179,Shortlist,Foreign-owned subsidiary (not buyable on its own): Hall Construction Holdings Limited
 ICE DATA SERVICES LIMITED,05300420,Shortlist,Foreign-owned subsidiary (not buyable on its own): Ice Futures Holdings Ltd
 COUCHBASE LIMITED,08051754,Shortlist,Foreign-owned subsidiary (not buyable on its own): Couchbase Inc.
+GRANEMORE GROUP LTD.,05965784,Shortlist,Not digital infrastructure: Site preparation
+TRANSACTION NETWORK SERVICES (UK) LIMITED,02952557,Shortlist,"Not digital infrastructure: Payment data networks, US-owned"
 HIGH VOLTAGE SYSTEMS AND SERVICES LIMITED,07413253,Shortlist,"Not digital infrastructure: Electricity networks, not digital"
+KITEWORKS UK LTD,07918226,Shortlist,Not digital infrastructure: File sharing software
 MULHOLLAND CONTRACTS LIMITED,SC064492,Shortlist,Not digital infrastructure: Groundworks for house building
 VIBEROPTIX OPCO LTD,NI666759,Shortlist,Duplicate of FIBRUS LTD
 CORE COMMUNICATION RETAIL LIMITED,08301089,Shortlist,Not digital infrastructure: Phone retail
 CONTENT GURU LIMITED,05653869,Shortlist,Duplicate of REDWOOD TECHNOLOGIES GROUP LTD
 MAZUMA MOBILE LIMITED,05909550,Shortlist,Not digital infrastructure: Phone recycling
+SMITHS BUSINESS INFORMATION SERVICES LIMITED,03254222,Shortlist,Not digital infrastructure: Business information services
 MASERGY COMMUNICATIONS UK LIMITED,04170863,Shortlist,Foreign-owned subsidiary (not buyable on its own): Comcast Corporation
+CERILLION PLC,09472870,Shortlist,Not digital infrastructure: Billing software for telecoms operators
 PHONESMART LIMITED,SC351010,Shortlist,Not digital infrastructure: Phone retail and repair
 DIGITAL SPACE GROUP LIMITED,04841830,Shortlist,Foreign-owned subsidiary (not buyable on its own): Digital Space Technology Group Limited
+THE MARKETING LOUNGE PARTNERSHIP LIMITED,06467245,Shortlist,Not digital infrastructure: Marketing services
 SPELLMAN HIGH VOLTAGE ELECTRONICS LIMITED.,02329112,Shortlist,Not digital infrastructure: Electronics manufacturing
 HEXATRONIC UK LTD,06329180,Shortlist,Foreign-owned subsidiary (not buyable on its own): Hexatronic Group Ab (Publ)
 SINGTEL (EUROPE) LIMITED,03426947,Shortlist,Foreign-owned subsidiary (not buyable on its own): The Minister Of Finance
 BENIFEX LIMITED,04768546,Shortlist,Foreign-owned subsidiary (not buyable on its own): Benifex Holdings Limited
 IDT GLOBAL LIMITED,03322447,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Idt Telecom, Inc."
+WORKIVA UK LIMITED,09836502,Shortlist,Not digital infrastructure: Reporting software
 HENEGHAN & SONS LIMITED,04416972,Shortlist,Duplicate of HENEGHAN HOLDINGS LIMITED
 VIASAT TECHNOLOGIES LIMITED,08678572,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Viasat, Inc."
 SEAPEAK TELECOM LTD,11864247,Shortlist,Foreign-owned subsidiary (not buyable on its own): Seapeak Group Holdings Limited
 IMAGINE COMMUNICATIONS EMEA (UK) LTD.,08338473,Shortlist,Foreign-owned subsidiary (not buyable on its own): Imagine Communications Corporation
 NORPOWER LTD.,SC258471,Shortlist,Foreign-owned subsidiary (not buyable on its own): Vinci Energies Uk Holding Limited
 LINK MOBILITY UK LIMITED,04013134,Shortlist,Not digital infrastructure: Messaging software
+CONDUENT BUSINESS PROCESS SOLUTIONS LIMITED,04022569,Shortlist,Not digital infrastructure: Business process outsourcing
 ALAN DICK COMMUNICATIONS LIMITED,07780713,Shortlist,Foreign-owned subsidiary (not buyable on its own): Mutares Holding-25 Gmbh
 LABEL WORX LIMITED,06729435,Shortlist,Not digital infrastructure: Music distribution
 SPIRE GLOBAL UK LIMITED,SC493745,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Spire Global, Inc."
 CONVERGENCE HOLDINGS LIMITED,10609040,Shortlist,Duplicate of CONVERGENCE GROUP (WIRELESS) NETWORKS LIMITED
 AVI-SPL LIMITED,08281689,Shortlist,Not digital infrastructure: Audio-visual integration
 TAMPNET UK LIMITED,08979990,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Tampnet group (Norway), owned by 3i (web-checked: Tampnet UK accounts FY Dec 2025, strategic report)"
+LIQUIDLOGIC LIMITED,04006349,Shortlist,Not digital infrastructure: Social care software
+NOMAD DIGITAL LIMITED,04536010,Shortlist,Foreign-owned subsidiary (not buyable on its own): Alstom (France) (web-checked: Public knowledge (draft: confirm))
+IPSUM POWER (PRIVATE NETWORKS) LIMITED,04051023,Shortlist,Not digital infrastructure: Private power networks
+KINSTA LTD,09030972,Shortlist,"Not digital infrastructure: Website hosting platform, foreign-owned"
+"SIERRA NEVADA CORPORATION MISSION SYSTEMS UK, LTD",09980940,Shortlist,"Not digital infrastructure: Defence systems, US-owned"
 BACKOFFICE ASSOCIATES LIMITED,07155824,Shortlist,Duplicate of BACKOFFICE ASSOCIATES EUROPE (UK) LIMITED
 MOTION APPLIED LIMITED,02322992,Shortlist,Foreign-owned subsidiary (not buyable on its own): Ma Corporate Holdings Limited
+BANGO. NET  LIMITED,03854965,Shortlist,Not digital infrastructure: Mobile payments software
 STS DEFENCE LIMITED,03193298,Shortlist,Foreign-owned subsidiary (not buyable on its own): Cicor Uk Ltd
+SYNECTICS SOLUTIONS LIMITED,02685135,Shortlist,Not digital infrastructure: Fraud detection software
 MLL TELECOM LTD.,02657917,Shortlist,Foreign-owned subsidiary (not buyable on its own): Arva Limited
+ORGVUE LIMITED,05454622,Shortlist,Not digital infrastructure: Workforce planning software
+MILLS LIMITED,00282704,Shortlist,Not digital infrastructure: Telecoms equipment supplier
 L3HARRIS COMMUNICATIONS SYSTEMS UK LIMITED,00173103,Shortlist,Foreign-owned subsidiary (not buyable on its own): L3harris Technologies Uk Limited
+ARELION UK LTD,02796345,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Arelion (Sweden), owned by Polhem Infra (web-checked: Public knowledge (draft: confirm))"
+INDEX EXCHANGE LIMITED,09643131,Shortlist,Not digital infrastructure: Advertising technology
 INDEPENDENT FIBRE RETAIL LIMITED,07443511,Shortlist,Foreign-owned subsidiary (not buyable on its own): Sky Uk Limited
 CCN COMMUNICATIONS LTD,06567705,Shortlist,Foreign-owned subsidiary (not buyable on its own): Verevo Limited
 REDWOOD TECHNOLOGIES LIMITED,02817863,Shortlist,Duplicate of REDWOOD TECHNOLOGIES GROUP LTD
 MEDIAOCEAN SYSTEMS LIMITED,01622089,Shortlist,Foreign-owned subsidiary (not buyable on its own): Poseidon Holding Llc
+CELLXION LTD,04780952,Shortlist,Not digital infrastructure: Security and defence communications equipment
+MOOREPAY LIMITED,00891686,Shortlist,Not digital infrastructure: Payroll services
 SINEWAVE ENERGY SOLUTIONS LIMITED,09585850,Shortlist,Not digital infrastructure: Energy
 UBIQUITI DISTRIBUTION UK LIMITED,12327590,Shortlist,Not digital infrastructure: Equipment distribution
 ENERGY IO LTD,SC713272,Shortlist,Not digital infrastructure: Energy
+SPORTS LOYALTY CARD LIMITED,04158111,Shortlist,Not digital infrastructure: Sports loyalty services
 DATAGRAPHIC LIMITED,02913191,Shortlist,Not digital infrastructure: Printing and data services
 SOCHITEL UK LTD,05869065,Shortlist,Foreign-owned subsidiary (not buyable on its own): Idt International Telecom Inc
 GLOBAL 4 COMMUNICATIONS LIMITED,03526932,Shortlist,Not digital infrastructure: Software
 MIDLAND COMMUNICATIONS DISTRIBUTION LIMITED,03413872,Shortlist,Not digital infrastructure: Equipment distribution
 ONESTREAM LIMITED,10389581,Shortlist,Duplicate of RIDOWN CAPITAL LIMITED
+IHS AFRICA (UK) LIMITED,08385732,Shortlist,"Not digital infrastructure: Mobile towers in Africa, outside the UK case"
 AXIANS NETWORKS LIMITED,04407184,Shortlist,Foreign-owned subsidiary (not buyable on its own): Vinci Energies Uk Holding Ltd.
+TENNIS DATA INNOVATIONS DATABASE (UK) LIMITED,12987201,Shortlist,Not digital infrastructure: Sports data
 DYNAMIC MOBILE BILLING LIMITED,03383285,Shortlist,Duplicate of OXYGEN8 COMMUNICATIONS LIMITED
 A L S CIVIL ENGINEERS LTD.,00902151,Shortlist,Not digital infrastructure: General civils and fabrication; insolvency link on Companies House
 BSO NETWORK SOLUTIONS LIMITED,06457839,Shortlist,Foreign-owned subsidiary (not buyable on its own): Bso Ireland Limited
+HOMETRACK DATA SYSTEMS LIMITED,04622244,Shortlist,Not digital infrastructure: Property data
+SAGACITY SOLUTIONS LTD,05526751,Shortlist,Not digital infrastructure: Customer data services
 ASITE LIMITED,02004015,Shortlist,Not digital infrastructure: Software
 EVERBRIDGE EUROPE LIMITED,03621410,Shortlist,Not digital infrastructure: Software
 GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED,03692609,Shortlist,Foreign-owned subsidiary (not buyable on its own): Itc Global (Uk) Limited
-COGENT COMMUNICATIONS UK LTD,04014628,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Cogent Communications Holdings, Inc."
+ALVARIA TECHNOLOGIES UK LIMITED,02181869,Shortlist,Not digital infrastructure: Contact centre software
 THE CLOUD NETWORKS LIMITED,05141256,Shortlist,Foreign-owned subsidiary (not buyable on its own): Sky Uk Limited
 GLOBAL RADIODATA COMMUNICATIONS LTD.,06147265,Shortlist,Duplicate of GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED
 JOTFORM LTD,12668839,Shortlist,Not digital infrastructure: Software
+NATIONAL MILK RECORDS LIMITED,03331929,Shortlist,Not digital infrastructure: Dairy herd data
 HUDDLE UTILITIES LTD,09380853,Shortlist,Not digital infrastructure: Household utility bill bundling
 WANSTOR LTD,04524830,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Previder (Netherlands), part of Odin Group; acquired Oct 2026 (web-checked: ITPro, 27 Oct 2026)"
+TEAM BLUE INTERNET SERVICES UK LIMITED,03913408,Shortlist,Foreign-owned subsidiary (not buyable on its own): team.blue (Belgium) (web-checked: Public knowledge (draft: confirm))
 GLOBAL SWITCH ESTATES 1 LIMITED,04729732,Shortlist,Foreign-owned subsidiary (not buyable on its own): Global Switch Uk Holdings Limited
 INFRASTRUCTURE GATEWAY LIMITED,04546642,Shortlist,Foreign-owned subsidiary (not buyable on its own): The Gateway Group Of Companies Limited
 CELLHIRE LIMITED,02159836,Shortlist,Not digital infrastructure: Device rental
 PADERO SOLAER LTD,08021337,Shortlist,Not digital infrastructure: Solar
 AIRPLUS INTERNATIONAL LIMITED,04449144,Shortlist,Foreign-owned subsidiary (not buyable on its own): Skandinaviska Enskilda Banken Ab
 NEXUS GREEN LIMITED,09835151,Shortlist,Not digital infrastructure: Solar and EV charging
+M GROUP ENERGY (DATA INSIGHT) LIMITED,12266916,Shortlist,Not digital infrastructure: Energy data services
+MTK WIRELESS LIMITED,06340524,Shortlist,"Not digital infrastructure: Research and development for MediaTek, its parent"
 ELECTRALINK LIMITED,03271981,Shortlist,Foreign-owned subsidiary (not buyable on its own): National Grid Electricity Distribution (South Wales) Plc
+MTI TECHNOLOGY LIMITED,SC112019,Shortlist,Not digital infrastructure: IT reseller
 COREWEAVE UK LIMITED,15272646,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Coreweave, Inc."
+AFRICA MOBILE NETWORKS LIMITED,08531564,Shortlist,"Not digital infrastructure: Rural mobile towers in Africa, outside the UK case"
 NOTUL LIMITED,10263467,Shortlist,Foreign-owned subsidiary (not buyable on its own): Equans Holding Uk Limited
 BRANDBANK LIMITED,03650275,Shortlist,Foreign-owned subsidiary (not buyable on its own): A. C. Nielsen Company Limited
 BOKU NETWORK SERVICES UK LTD,05044979,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Boku, Inc."
 DIONA CONSTRUCTION LTD.,SC278146,Shortlist,"Not digital infrastructure: Civil engineering contractor, Glasgow; no telecoms work found"
 MAVENIR SYSTEMS UK LIMITED,04388973,Shortlist,Foreign-owned subsidiary (not buyable on its own): Mavenir Private Holdings Ii Ltd
+GIGAMON UK LTD,07462898,Shortlist,"Not digital infrastructure: Network monitoring equipment, US-owned"
 AMDOCS COGNITIVE NETWORKS LIMITED,05549559,Shortlist,Not digital infrastructure: Software
+PROACTIS LIMITED,03182974,Shortlist,Not digital infrastructure: Procurement software
+COGENT COMMUNICATIONS UK LTD,04014628,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Cogent Communications Holdings, Inc."
 CONTACT SOLAR LTD,08847741,Shortlist,Not digital infrastructure: Solar
 11:11 SYSTEMS UK LIMITED,06366153,Shortlist,Foreign-owned subsidiary (not buyable on its own): 11:11 Systems Inc (US); UK arm of the former iland business (web-checked: Endole company page (website iland.com))
+RS INTEGRATED SUPPLY UK LIMITED,04188491,Shortlist,Not digital infrastructure: Industrial supplies
+COGNIA CLOUD LIMITED,04623599,Shortlist,Not digital infrastructure: Compliance software
 TMA DATA MANAGEMENT LIMITED,04367685,Shortlist,Not digital infrastructure: Records storage
 SPITFIRE NETWORK SERVICES LIMITED,02657590,Shortlist,Duplicate of SPITFIRE TECHNOLOGY HOLDINGS LIMITED
+THE SIEMON COMPANY LIMITED,02601151,Shortlist,"Not digital infrastructure: Cabling products manufacturer, US-owned"
 VAISALA LIMITED,01487125,Shortlist,Foreign-owned subsidiary (not buyable on its own): Vaisala Oyj
+QUARTIX LIMITED,04159907,Shortlist,Not digital infrastructure: Vehicle tracking software
 CONTENTFUL (UK) LIMITED,13723044,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Salesforce, Inc."
+CALNEX SOLUTIONS PLC,SC299625,Shortlist,Not digital infrastructure: Network test equipment
 ICOMERA UK LIMITED,06089258,Shortlist,Foreign-owned subsidiary (not buyable on its own): Bouygues Sa
-EUROPACIFIC COMMUNICATIONS LTD,06967555,Shortlist,Foreign-owned subsidiary (not buyable on its own): Umis Ou
+DB BROADCAST LTD,02709677,Shortlist,Not digital infrastructure: Broadcast systems integration
+ALCONEX INFRASTRUCTURE AND SOLUTIONS LIMITED,10878406,Shortlist,"Not digital infrastructure: Multi-utility (gas, water, electricity) infrastructure, no telecoms"
 ACS CONSTRUCTION GROUP LTD.,03320855,Shortlist,Not digital infrastructure: General construction and civils
+DATATONIC LTD.,07705237,Shortlist,Not digital infrastructure: Data and AI consultancy
 ATLANTIC PROJECTS COMPANY (UK) LIMITED,05035404,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Argan, Inc"
 SUMANDO LTD,14377755,Shortlist,Not digital infrastructure: Solar
 SAFENAMES LTD,03802179,Shortlist,Not digital infrastructure: Domain-name management
+GREEN ENERGY OPTIONS LTD,05783558,Shortlist,Not digital infrastructure: Energy monitoring devices
 LATCHAM DIRECT LIMITED,06695717,Shortlist,Not digital infrastructure: Printing and mailing
+NETWORK MERCHANTS LIMITED,03295353,Shortlist,Not digital infrastructure: Card payments
 IMPERIUM CENTRE LIMITED,06518721,Shortlist,Foreign-owned subsidiary (not buyable on its own): Nyse Holdings Uk Limited
+TUNGSTEN AUTOMATION ENGLAND LIMITED,03958038,Shortlist,Not digital infrastructure: Document automation software
 ABZORB SYSTEMS LTD,04058821,Shortlist,Duplicate of ABZORB GROUP LTD
+ANDREW DESIGN & INTEGRATION UK LIMITED,05531272,Shortlist,Not digital infrastructure: Manufactures wireless telecoms equipment
+TELESIGN MOBILE LIMITED,04546322,Shortlist,Not digital infrastructure: Business messaging software
 FACILITIES & CORPORATE SOLUTIONS LIMITED,03184432,Shortlist,Not digital infrastructure: Facilities services
 FLINT CONSULTING LIMITED,03811782,Shortlist,Not digital infrastructure: Consulting
+ELECTRICITYWORX LTD,NI624452,Shortlist,"Not digital infrastructure: Electricity network services, no telecoms evidence"
 RSK RENEWABLES LIMITED,SC328796,Shortlist,Foreign-owned subsidiary (not buyable on its own): Ares Management Limited
 UNILINK SOFTWARE LIMITED,02924046,Shortlist,Not digital infrastructure: Software
+DONNELLEY FINANCIAL SOLUTIONS UK LIMITED,02669185,Shortlist,Not digital infrastructure: Financial document services
 TECHEX LIMITED,01053218,Shortlist,Not digital infrastructure: Broadcast video technology
 TEW PLUS LIMITED,05858025,Shortlist,Foreign-owned subsidiary (not buyable on its own): Tew Engineering Limited
+EUROPACIFIC COMMUNICATIONS LTD,06967555,Shortlist,Foreign-owned subsidiary (not buyable on its own): Umis Ou
 RETN LTD,04774262,Shortlist,Duplicate of RETN NETWORKS LTD
+ECKOH UK LIMITED,02796531,Shortlist,Not digital infrastructure: Secure payments software for contact centres
+BUSINESS SYSTEMS (U.K.) LIMITED,02199582,Shortlist,Not digital infrastructure: Call recording software
 COMMERCETOOLS LTD,11760782,Shortlist,Not digital infrastructure: Software
 AUTOGRAPH SOUND RECORDING LIMITED,01103988,Shortlist,Not digital infrastructure: Sound recording
+1ST LOCATE (UK) LIMITED,03702599,Shortlist,Not digital infrastructure: Debt tracing data
+SUBEX (UK) LIMITED,04190929,Shortlist,Not digital infrastructure: Analytics software for telecoms operators
 MARITIME CARGO PROCESSING P.L.C.,01919399,Shortlist,Not digital infrastructure: Port software
+NOVO TECHNOLOGIES LTD,10305880,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Axians, part of Vinci (France); bought 2025 (web-checked: Public knowledge (draft: confirm))"
+INFINITY TRACKING LIMITED,07192131,Shortlist,Not digital infrastructure: Call tracking software
 FLIXMEDIA LIMITED,05134871,Shortlist,Foreign-owned subsidiary (not buyable on its own): Advantage Smollan 3 Limited
 CTDI MILTON KEYNES LTD,04068222,Shortlist,Foreign-owned subsidiary (not buyable on its own): Ctdi Gmbh
 SENCEIVE LIMITED,05608752,Shortlist,Foreign-owned subsidiary (not buyable on its own): Eddyfi Holding Uk Ltd
+EUROCOIN GROUP LIMITED,11856671,Shortlist,Not digital infrastructure: Coin recycling
+1SPATIAL GROUP LIMITED,04785688,Shortlist,Not digital infrastructure: Geospatial software
+WEATHERBYS LTD,00526599,Shortlist,Not digital infrastructure: Horse racing administration
+BREEZE BIDCO (TNC) LIMITED,10361590,Shortlist,Not digital infrastructure: Holding company of a 41MW wind farm
 NANCLACH LIMITED,05628358,Shortlist,Duplicate of BREEZE BIDCO (TNC) LIMITED
 PUZZEL LTD,04124967,Shortlist,Not digital infrastructure: Software
+EXMILE SOLUTIONS LIMITED,08037485,Shortlist,Not digital infrastructure: Software consultancy
 NETDOCUMENTS LIMITED,07509508,Shortlist,Not digital infrastructure: Software
+COMMUNITY NETWORK SERVICES LIMITED,02084279,Shortlist,Not digital infrastructure: Computer services
 BENIFEX FINANCIAL SOLUTIONS LTD,06242658,Shortlist,Foreign-owned subsidiary (not buyable on its own): Benifex Limited
 TAILOR MADE TECHNOLOGIES LIMITED,04125178,Shortlist,Not digital infrastructure: Software
+CARILLION COMMUNICATIONS LIMITED,02817840,Shortlist,Not digital infrastructure: Audio-visual systems integrator
 LIVEDRIVE INTERNET LIMITED,05435857,Shortlist,Foreign-owned subsidiary (not buyable on its own): J2 Global Uk Limited
+MILEXIA UK LTD.,02473216,Shortlist,Not digital infrastructure: Electronics distributor
 HUTCHISON TECHNOLOGIES LIMITED,SC176095,Shortlist,Duplicate of HUTCHISON LIMITED
+DATABASE FOR BUSINESS LTD,03639825,Shortlist,Not digital infrastructure: Business data
+PARADIGM COMMUNICATION SYSTEMS LIMITED,03425054,Shortlist,Foreign-owned subsidiary (not buyable on its own): Airbus Defence and Space (Europe) (web-checked: Public knowledge (draft: confirm))
 EASTWEST TELEVISION DISTRIBUTION LIMITED,08645373,Shortlist,Not digital infrastructure: TV distribution
+MYPOS PAYMENTS LTD,10630670,Shortlist,Not digital infrastructure: Card payments
 A-2-SEA SOLUTIONS LIMITED,03223673,Shortlist,"Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100% (web-checked: A-2-Sea accounts FY Sep 2025, ultimate controlling party note; most work is now for the parent)"
 JONES LIGHTING LTD,06643355,Shortlist,Not digital infrastructure: Lighting
+ACORAH SOFTWARE PRODUCTS LIMITED,03948264,Shortlist,Not digital infrastructure: Software
 VIANET LIMITED,SC138846,Shortlist,Foreign-owned subsidiary (not buyable on its own): Vianet Group Plc
+PROLINX LIMITED,03379531,Shortlist,Not digital infrastructure: IT security services
 F C E PROJECTS LIMITED,05206348,Shortlist,"Not digital infrastructure: Civil engineering contractor, Chester (CorpAcq); no telecoms work found"
-ZINWAVE HOLDINGS LIMITED,06496829,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Wilson Electronics, Llc"
+RAIL ELECTRIFICATION LIMITED,SC512016,Shortlist,Not digital infrastructure: Rail electrification
 TRUST UTILITY MANAGEMENT LTD,05809155,Shortlist,Not digital infrastructure: Highways maintenance and water civils for public sector and utilities
+SIP COMMUNICATIONS LIMITED,05759363,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Advania UK, part of the Advania group (Nordic IT services) (web-checked: Endole PSC record)"
+ALGOLIA LIMITED,11124395,Shortlist,Not digital infrastructure: Search software
+STEVE VICK INTERNATIONAL LIMITED,01564477,Shortlist,Not digital infrastructure: Gas pipe products
 INMOMENT LIMITED,01590198,Shortlist,Not digital infrastructure: Software
+WINDCAVE LIMITED,07835804,Shortlist,Not digital infrastructure: Card payments
 ELANDERS LTD,03788582,Shortlist,Not digital infrastructure: Printing and logistics
 COBRA WIND INTERNATIONAL LTD,SC558431,Shortlist,Not digital infrastructure: Wind energy
 PURE IP LIMITED,05024088,Shortlist,Foreign-owned subsidiary (not buyable on its own): Bcm One Uk International Limited
 ALPHA CONSTRUCTION LIMITED,01675457,Shortlist,Not digital infrastructure: Civil engineering and building contractor
-AEROMOBILE COMMUNICATIONS LIMITED,07129922,Shortlist,Foreign-owned subsidiary (not buyable on its own): Panasonic Corporation
 MKODO LIMITED,03991840,Shortlist,Not digital infrastructure: App development
 MIX TELEMATICS EUROPE LTD,05998818,Shortlist,Not digital infrastructure: Vehicle tracking software
+ASSOCIATED UTILITY SUPPLIES LIMITED,03492030,Shortlist,Not digital infrastructure: Utility supplies
 SYSDIG LTD,10634013,Shortlist,Not digital infrastructure: Software
 LIVERAMP UK LIMITED,11393386,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Liveramp Holdings, Inc."
 CITYFIBRE METRO NETWORKS LIMITED,06586002,Shortlist,Duplicate of CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED
 ALCATEL IP NETWORKS LIMITED,03934955,Shortlist,Foreign-owned subsidiary (not buyable on its own): Nokia Corporation
+HIHI LTD,07590894,Shortlist,Not digital infrastructure: Phone system research and development for its group
 LUMEN TECHNOLOGIES SOLUTIONS UK LIMITED,14849638,Shortlist,Foreign-owned subsidiary (not buyable on its own): Lumen Technologies Europe Holdings Limited
+IQBLADE LIMITED,12275817,Shortlist,Not digital infrastructure: Sales data software
 ASSET SERVICES GROUP LIMITED,13540747,Shortlist,Duplicate of PROJECT PENNY LIMITED
 SO PURPLE GROUP LIMITED,08187142,Shortlist,"Not digital infrastructure: Purple: guest wifi and analytics software, not network infrastructure"
 MAYDEN HOUSE LIMITED,04005808,Shortlist,Not digital infrastructure: Health software
@@ -212,18 +334,30 @@ MUSIC MARKETING SERVICES LIMITED,02000217,Shortlist,Not digital infrastructure: 
 DIGITALOCEAN DROPLET LIMITED,13315180,Shortlist,Foreign-owned subsidiary (not buyable on its own): Digitalocean Holdings Inc
 TALK STRAIGHT LIMITED,05657023,Shortlist,Duplicate of TALK STRAIGHT HOLDINGS LIMITED
 TRAK (GLOBAL SOLUTIONS) LIMITED,06944694,Shortlist,Foreign-owned subsidiary (not buyable on its own): Trak Global Group Limited
+TRACSIS TRAFFIC DATA LIMITED,03896384,Shortlist,Not digital infrastructure: Traffic data surveys
+ACQUIA LTD,07499149,Shortlist,"Not digital infrastructure: Web software, US-owned"
 RESOURCE DATA MANAGEMENT LIMITED,SC208148,Shortlist,Foreign-owned subsidiary (not buyable on its own): Resource Data Management Group Ltd
 MMX COMMUNICATIONS SERVICES LIMITED,07326283,Shortlist,Duplicate of TXO SYSTEMS LTD
 GAMMA ENERGY LIMITED,08762055,Shortlist,Not digital infrastructure: Energy
 BEYOND BLUE INSIGHT LTD,09816652,Shortlist,Not digital infrastructure: Market research
 YOTPO UK LIMITED,10495742,Shortlist,Not digital infrastructure: Software
 JARMANY LIMITED,06710006,Shortlist,Foreign-owned subsidiary (not buyable on its own): Ipsos Emea Holdings Ltd
+GMV NSL LIMITED,03645072,Shortlist,"Not digital infrastructure: Satellite navigation technology, Spanish-owned"
 TELENSA LTD,04498125,Shortlist,Foreign-owned subsidiary (not buyable on its own): Telensa Holdings Limited
 EASYSPACE LIMITED,03405586,Shortlist,Duplicate of IOMART GROUP PLC
 TRATOS CAVI UK LTD.,03971894,Shortlist,Foreign-owned subsidiary (not buyable on its own): Tratos Cavi Spa
+OPEN ENERGY MARKET LIMITED,08264515,Shortlist,Not digital infrastructure: Energy procurement software
+ZINWAVE HOLDINGS LIMITED,06496829,Shortlist,"Foreign-owned subsidiary (not buyable on its own): Wilson Electronics, Llc"
+DRW NX UK LTD,09067938,Shortlist,Not digital infrastructure: Private microwave network for a trading firm
+TYMIT LTD,10827757,Shortlist,Not digital infrastructure: Consumer credit
 FORSTA (EUROPE) LTD,05271302,Shortlist,Not digital infrastructure: Software
+ALLIANTIST LIMITED,04922343,Shortlist,Not digital infrastructure: Compliance software
 ONEFILE LTD,04404879,Shortlist,Not digital infrastructure: Software
+AEROMOBILE COMMUNICATIONS LIMITED,07129922,Shortlist,Foreign-owned subsidiary (not buyable on its own): Panasonic Corporation
+DIGITALK TECHNOLOGY LIMITED,05653649,Shortlist,Not digital infrastructure: Telecoms software
 VOICE MOBILE LIMITED,04112330,Shortlist,Duplicate of DAISY COMMUNICATIONS LTD.
+TOTAL UTILITY CONNECTIONS LTD,07655073,Shortlist,"Not digital infrastructure: Water, electricity and gas connections, no telecoms"
+LIFECYCLE SOFTWARE LIMITED,03056738,Shortlist,Not digital infrastructure: Billing software for telecoms operators
 WIX.COM (UK) LIMITED,12576807,Shortlist,Foreign-owned subsidiary (not buyable on its own): Wix.Com Ltd
 ELLIO CX LIMITED,01336850,Watchlist (loss-making),Not digital infrastructure: Customer-service outsourcing
 CITYFIBRE LIMITED,09759465,Watchlist (loss-making),Duplicate of CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED

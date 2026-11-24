@@ -1,4 +1,7 @@
 CompanyName,CompanyNumber,relevance,relevance_reason,segment,turnover,ebitda_margin,ownership
+TATA COMMUNICATIONS (UK) LIMITED,05272339,UNSURE,Not yet reviewed,Fibre and wired telecoms networks,217250601.79680002,0.058,Unknown
+CIENA LIMITED,03330283,UNSURE,Not yet reviewed,Other telecoms networks,209337896.98250002,0.054,Likely sponsor-owned (check)
+SUMUP PAYMENTS LIMITED,07836562,UNSURE,Not yet reviewed,"Data centres, data processing and hosting",209303294.20000002,0.012,Founder or family-owned
 SAINT TOPCO LIMITED,13567332,UNSURE,Holding company (Basingstoke); trading business not identified (web-checked 24 Nov 2026),Fibre and wired telecoms networks,168064390.0,0.216,Likely sponsor-owned (check)
 ARROW BUSINESS COMMUNICATIONS LIMITED,05643503,UNSURE,Not yet reviewed,Other telecoms networks,69742322.0,0.136,"UK group, owner-managed"
 MICOM TECHNOLOGIES LTD,13535125,UNSURE,No business description found (web-checked 24 Nov 2026),"Data centres, data processing and hosting",37037757.0,0.103,Likely sponsor-owned (check)
