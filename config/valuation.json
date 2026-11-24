@@ -121,6 +121,7 @@
   "fx_to_gbp": {
     "GBP": 1.0,
     "USD": 0.7576,
-    "_source": "GBP/USD about 1.32 on 18 Nov 2026 (exchangerate.guru reference rate)"
+    "_source": "GBP/USD about 1.32 and EUR/GBP about 0.83 on 18 Nov 2026 (exchangerate.guru reference rates)",
+    "EUR": 0.8333
   }
 }

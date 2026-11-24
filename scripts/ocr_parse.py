@@ -32,6 +32,8 @@ LINES = {
 def numbers(line, small_ok=False):
     """Amounts on a line, in order; skips years and note numbers. small_ok: the page is in £000s, so small amounts count."""
     out = []
+    if not small_ok:   # whole pounds: OCR sometimes splits '2,247,576' into '2,247 576'
+        line = re.sub(r'(\d{1,3}(?:,\d{3})+) (\d{3})(?![\d,])', r'\1,\2', line)
     for m in NUM.findall(line) if not small_ok else re.findall(r'\(?-?\d{1,3}(?:[,.] ?\d{3})+\)?|\(?-?\d+\)?', line):
         neg = m.startswith('(') or m.startswith('-')
         digits = re.sub(r'[^\d]', '', m)
@@ -105,18 +107,33 @@ def parse(text):
         implied = gp + abs(cos)   # turnover = gross profit + cost of sales: catches a misread digit
         if implied > 0 and abs(out['turnover'] - implied) / implied > 0.02:
             out['turnover'], out['turnover_prior'], out['fixed'] = implied, None, 'turnover rebuilt from gross profit + cost of sales'
-    # depreciation and amortisation from the notes after the P&L (operating profit note)
-    da = 0.0
-    for key in ('depreciation', 'amortisation'):
-        for n, t in P:
-            if n < n0:   # the P&L itself can show D&A (IFRS layouts), then the notes
-                continue
+    # depreciation and amortisation: the 'stated after charging' note first, then the cash flow statement,
+    # then any other page from the P&L on. Lines about revaluation reserves or wrapped headings are skipped.
+    BAD = re.compile(r'revalu|excess|transfer|before|accumulated|policy|provided|charged so', re.I)
+    after = [(n, t) for n, t in P if n >= n0 and re.search(r'after charging', t, re.I)]
+    cashflow = [(n, t) for n, t in P if n >= n0 and re.search(r'cash flows? from operating activities', t, re.I)]
+    rest = [(n, t) for n, t in P if n >= n0]
+    def find(group, key):
+        for n, t in group:
             kt = scale_of(t) if scale_of(t) > 1 else k
-            v = first_line(t, key, kt > 1)
-            if v:
-                da += abs(v[0]) * (scale_of(t) if scale_of(t) > 1 else k)
-                out[key] = abs(v[0]) * (scale_of(t) if scale_of(t) > 1 else k)
-                break
+            for line in t.split('\n'):
+                if LINES[key].search(line) and not BAD.search(line):
+                    v = numbers(line, kt > 1)
+                    if v:
+                        return abs(v[0]) * kt, n
+        return None, None
+    da = 0.0
+    for group, basis in ((after, 'note'), (cashflow, 'cash flow'), (rest, 'other')):
+        dep, _ = find(group, 'depreciation')
+        amo, _ = find(group, 'amortisation')
+        if dep or amo:
+            if dep:
+                out['depreciation'] = dep
+            if amo and not (dep and basis == 'cash flow'):   # cash-flow lines usually combine D&A already
+                out['amortisation'] = amo
+            da = (dep or 0) + (out.get('amortisation') or 0)
+            out['da_source'] = basis
+            break
     if da:
         out['da_total'] = da
     bs = [(n, t) for n, t in P if BS_HEAD.search(t) and (first_line(t, 'net_assets') or first_line(t, 'cash'))]
@@ -130,6 +147,13 @@ def parse(text):
     m = re.search(r'(year|period|52 weeks|53 weeks) ended\s+(\d{1,2}(st|nd|rd|th)? \w+ \d{4})', text, re.I)
     out['period_text'] = m.group(2) if m else None
     out['unit'] = {1: '£', 1000: "000s", 1_000_000: 'millions'}[k]
+    head = page[:1500]   # the column headings of the P&L say which currency it is in
+    if re.search(r"€|\bEUR\b", head) and not re.search('£', head):
+        out['page_currency'] = 'EUR'
+    elif re.search(r"\$|\bUSD\b", head) and not re.search('£', head):
+        out['page_currency'] = 'USD'
+    elif re.search('£', head):
+        out['page_currency'] = 'GBP'
     return out
 
 def checks(o):
@@ -151,7 +175,8 @@ for path in sorted(glob.glob(f'{TXT}/*.txt')):
     num, filed = os.path.basename(path)[:-4].rsplit('_', 1)
     text = open(path, errors='ignore').read()
     o = parse(text)
-    o.update({'CompanyNumber': num, 'filed': filed, 'currency': currency_of(text)})
+    o.update({'CompanyNumber': num, 'filed': filed})
+    o['currency'] = o.pop('page_currency', None) or currency_of(text)
     if 'problem' not in o:
         o['problem'] = checks(o)
     op, da = o.get('operating_profit'), o.get('da_total')
@@ -165,7 +190,7 @@ for path in sorted(glob.glob(f'{TXT}/*.txt')):
 R = pd.DataFrame(rows)
 cols = ['CompanyNumber', 'filed', 'period_text', 'currency', 'unit', 'turnover', 'turnover_prior', 'operating_profit',
         'profit_before_tax', 'depreciation', 'amortisation', 'da_total', 'ebitda', 'ebitda_basis', 'cash', 'net_assets',
-        'figures_source', 'fixed', 'problem']
+        'da_source', 'figures_source', 'fixed', 'problem']
 R = R.reindex(columns=cols)
 R.to_csv(f'{ROOT}/data/ocr/ocr_financials.csv', index=False)
 ok = R[R['problem'].fillna('') == '']

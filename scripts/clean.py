@@ -190,7 +190,7 @@ print(D['relevance'].value_counts().to_string())
 
 def exclusion(r):
     if r['relevance'] == 'OUT':
-        return 'Not digital infrastructure: ' + r['relevance_reason'].split(' (draft')[0].split(' (web-checked')[0]
+        return 'Not digital infrastructure: ' + r['relevance_reason'].split(' (draft')[0].split(' (web-checked')[0].split(' (checked')[0]
     if r['duplicate_of']:
         return 'Duplicate of ' + r['duplicate_of']
     if r['ownership'] == 'Foreign-owned subsidiary':

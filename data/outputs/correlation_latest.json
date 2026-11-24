@@ -20,16 +20,16 @@
     ]
    },
    {
-    "factor": "SME IT and telecoms spending",
+    "factor": "Unknown",
     "share": 0.2,
     "count": 2,
     "flag": "green",
     "companies": [
-     "Kcom Group",
-     "Dstny Global Services UK"
+     "Wifinity",
+     "Alert Communications"
     ],
     "drivers": [
-     "Business telecoms (SME)"
+     "Unknown"
     ]
    },
    {
@@ -39,22 +39,22 @@
     "flag": "green",
     "companies": [
      "The Wireless Infrastructure Company",
-     "Alert Communications"
+     "Beacon Communication Services"
     ],
     "drivers": [
      "Mobile, radio and critical comms"
     ]
    },
    {
-    "factor": "Unknown",
+    "factor": "SME IT and telecoms spending",
     "share": 0.1,
     "count": 1,
     "flag": "green",
     "companies": [
-     "Wifinity"
+     "Kcom Group"
     ],
     "drivers": [
-     "Unknown"
+     "Business telecoms (SME)"
     ]
    },
    {
@@ -85,27 +85,9 @@
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 5.0,
-  "flag": "amber",
+  "effective_bets": 5.7,
+  "flag": "green",
   "factors": [
-   {
-    "factor": "SME IT and telecoms spending",
-    "share": 0.3,
-    "count": 6,
-    "flag": "amber",
-    "companies": [
-     "Kcom Group",
-     "Dstny Global Services UK",
-     "Redwood Technologies Group",
-     "Barclay Digital Services",
-     "Natterbox",
-     "Aerial Direct"
-    ],
-    "drivers": [
-     "Business telecoms (SME)",
-     "Hosting and cloud (SME)"
-    ]
-   },
    {
     "factor": "Altnet funding and interest rates",
     "share": 0.25,
@@ -124,11 +106,12 @@
    },
    {
     "factor": "Unknown",
-    "share": 0.15,
-    "count": 3,
+    "share": 0.2,
+    "count": 4,
     "flag": "green",
     "companies": [
      "Wifinity",
+     "Alert Communications",
      "X-On Health",
      "Network Planning Solutions"
     ],
@@ -138,24 +121,41 @@
    },
    {
     "factor": "Mobile operator and emergency-services spend",
-    "share": 0.1,
-    "count": 2,
+    "share": 0.15,
+    "count": 3,
     "flag": "green",
     "companies": [
      "The Wireless Infrastructure Company",
-     "Alert Communications"
+     "Beacon Communication Services",
+     "The Badger Group"
     ],
     "drivers": [
      "Mobile, radio and critical comms"
     ]
    },
    {
+    "factor": "SME IT and telecoms spending",
+    "share": 0.15,
+    "count": 3,
+    "flag": "green",
+    "companies": [
+     "Kcom Group",
+     "Dstny Global Services UK",
+     "Redwood Technologies Group"
+    ],
+    "drivers": [
+     "Business telecoms (SME)",
+     "Hosting and cloud (SME)"
+    ]
+   },
+   {
     "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.1,
-    "count": 2,
+    "share": 0.15,
+    "count": 3,
     "flag": "green",
     "companies": [
      "Clarus Networks",
+     "Global Marine Systems",
      "Satcom Global"
     ],
     "drivers": [
@@ -175,15 +175,15 @@
     ]
    },
    {
-    "factor": "AI and cloud capex",
+    "factor": "Construction and utility capex",
     "share": 0.05,
     "count": 1,
     "flag": "green",
     "companies": [
-     "Redcentric Solutions"
+     "Centercomms"
     ],
     "drivers": [
-     "Data centre and AI compute demand"
+     "Utility and civil construction"
     ]
    }
   ]
@@ -201,16 +201,6 @@
   },
   {
    "rank": 2,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "recurring-type revenue (estimated) but margin only 46%",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Business telecoms (SME)",
-   "second_driver": "",
-   "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Rule from business description (confirm)"
-  },
-  {
-   "rank": 3,
    "deal_type": "High-growth",
    "deal_type_reason": "sales up 65% a year over 3 years, margin 31%",
    "fund_fit": "Growth and mid-market PE",
@@ -220,7 +210,7 @@
    "driver_basis": "Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "deal_type": "Steady compounder",
    "deal_type_reason": "recurring-type revenue (estimated), margin 51%, sales up 16% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
@@ -230,13 +220,23 @@
    "driver_basis": "Rule from business description (confirm)"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "deal_type": "Steady compounder",
    "deal_type_reason": "recurring-type revenue (estimated), margin 59%, sales up 12% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Mobile, radio and critical comms",
    "second_driver": "",
    "macro_factor": "Mobile operator and emergency-services spend",
+   "driver_basis": "Rule from business description (confirm)"
+  },
+  {
+   "rank": 5,
+   "deal_type": "Between buckets",
+   "deal_type_reason": "recurring-type revenue (estimated) but margin only 46%",
+   "fund_fit": "Depends on the reason given",
+   "demand_driver": "Business telecoms (SME)",
+   "second_driver": "",
+   "macro_factor": "SME IT and telecoms spending",
    "driver_basis": "Rule from business description (confirm)"
   },
   {
@@ -262,7 +262,7 @@
   {
    "rank": 8,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (from the accounts), margin 32%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "deal_type_reason": "recurring-type revenue (estimated), margin 20%, sales up 22% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Mobile, radio and critical comms",
    "second_driver": "",
@@ -272,34 +272,34 @@
   {
    "rank": 9,
    "deal_type": "Steady compounder",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 32%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "fund_fit": "Core and core-plus infrastructure funds",
+   "demand_driver": "Unknown",
+   "second_driver": "",
+   "macro_factor": "Unknown",
+   "driver_basis": "No rule matched: needs a look"
+  },
+  {
+   "rank": 10,
+   "deal_type": "Steady compounder",
    "deal_type_reason": "recurring-type revenue (from the accounts), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Public sector budgets",
    "second_driver": "",
    "macro_factor": "Government spending",
    "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"
-  },
-  {
-   "rank": 10,
-   "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (from the accounts), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
-   "fund_fit": "Core and core-plus infrastructure funds",
-   "demand_driver": "Business telecoms (SME)",
-   "second_driver": "",
-   "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Judgement: business phone services (web-checked: Endole)"
   }
  ],
  "deal_type_counts": {
   "ranked": {
-   "Between buckets": 29,
-   "Under pressure": 22,
+   "Between buckets": 32,
+   "Under pressure": 24,
+   "Steady compounder": 15,
    "High-growth": 15,
-   "Steady compounder": 13,
    "Numbers to check": 7
   },
   "watchlist": {
-   "Under pressure": 34,
+   "Under pressure": 35,
    "Growth infrastructure": 27,
    "Numbers to check": 1
   }
