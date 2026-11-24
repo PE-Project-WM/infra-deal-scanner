@@ -19,16 +19,16 @@ Companies with a number to check: 9
 75/211 | 1.2 min
 100/211 | 1.7 min
 125/211 | 2.1 min
-150/211 | 2.4 min
+150/211 | 2.5 min
 175/211 | 2.9 min
 200/211 | 3.3 min
 211/211 | 3.5 min
-Ownership overrides applied: 7
+Ownership overrides applied: 8
 
 ownership
-Founder or family-owned          52
+Founder or family-owned          51
 UK group, owner-managed          48
-Foreign-owned subsidiary         39
+Foreign-owned subsidiary         40
 Likely sponsor-owned (check)     37
 Unknown                          29
 Employee-owned (EOT)              4
@@ -52,11 +52,11 @@ OUT         92
 ADJACENT    58
 UNSURE      32
 IN          29
-Candidates: 211 | going forward: 90 | excluded: 121
+Candidates: 211 | going forward: 89 | excluded: 122
 
 Going forward, by status:
 status
-Shortlist                  59
+Shortlist                  58
 Watchlist (loss-making)    21
 In band, EBITDA unknown    10
 
@@ -64,9 +64,9 @@ Shortlist going forward, by relevance and ownership:
 ownership  Employee-owned (EOT)  Foreign parent, founder group  Founder or family-owned  Likely sponsor-owned (check)  Sponsor-owned, recent entry  UK group, owner-managed  Unknown  All
 relevance                                                                                                                                                                                
 ADJACENT                      2                              0                       18                             7                            0                        6        4   37
-IN                            1                              1                        5                             0                            1                        2        0   10
+IN                            1                              1                        4                             0                            1                        2        0    9
 UNSURE                        0                              0                        4                             2                            0                        4        2   12
-All                           3                              1                       27                             9                            1                       12        6   59
+All                           3                              1                       26                             9                            1                       12        6   58
 
 PLCs to check are not listed: ['NEW TECHNOLOGY GROUP HOLDINGS PLC', 'TRUSTCO PLC.']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs
