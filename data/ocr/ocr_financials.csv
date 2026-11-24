@@ -1,9 +1,9 @@
-CompanyNumber,filed,period_text,currency,unit,turnover,turnover_prior,operating_profit,profit_before_tax,depreciation,amortisation,da_total,ebitda,ebitda_basis,cash,net_assets,figures_source,problem
-00011116,2026-10-06,,GBP,,,,,,,,,,,,,"OCR, check",no profit and loss account with turnover found
-00173103,2026-09-24,2 JANUARY 2026,GBP,000s,33180000.0,42697000.0,7862000.0,9677000.0,910000.0,,910000.0,8772000.0,Operating profit + D&A (OCR),12348000.0,42826000.0,"OCR, check",
-00238525,2026-10-06,,GBP,,,,,,,,,,,,,"OCR, check",no profit and loss account with turnover found
-00267550,2026-03-15,31 OCTOBER 2025,GBP,000s,483700000.0,185455000.0,22131000.0,21769000.0,4138000.0,1361000.0,5499000.0,27630000.0,Operating profit + D&A (OCR),12650000.0,73879000.0,"OCR, check",
-00272267,2026-07-25,31 December 2025,GBP,000s,1507000.0,2587000.0,210000.0,67000.0,,,,210000.0,"ESTIMATE: operating profit only (OCR, no D&A found)",12000.0,-5606000.0,"OCR, check",
-00282704,2026-09-18,31 December 2025,GBP,£,33604612.0,35819308.0,4244454.0,4525840.0,284117.0,,284117.0,4528571.0,Operating profit + D&A (OCR),6974109.0,17146704.0,"OCR, check",
-00444313,2026-08-09,31 DECEMBER 2025,GBP,millions,72597725000000.0,72059181000000.0,3483142000000.0,3115150000000.0,2114152000000.0,14105000000.0,2128257000000.0,5611399000000.0,Operating profit + D&A (OCR),3662747000000.0,34103319000000.0,"OCR, check",turnover implausible
-00470893,2026-07-31,,GBP,,,,,,,,,,,,,"OCR, check",no profit and loss account with turnover found
+CompanyNumber,filed,period_text,currency,unit,turnover,turnover_prior,operating_profit,profit_before_tax,depreciation,amortisation,da_total,ebitda,ebitda_basis,cash,net_assets,figures_source,fixed,problem
+00011116,2026-10-06,,GBP,,,,,,,,,,,,,"OCR, check",,no profit and loss account with turnover found
+00173103,2026-09-24,2 JANUARY 2026,GBP,000s,33180000.0,42697000.0,7862000.0,9677000.0,910000.0,,910000.0,8772000.0,Operating profit + D&A (OCR),12348000.0,42826000.0,"OCR, check",,
+00238525,2026-10-06,,GBP,,,,,,,,,,,,,"OCR, check",,no profit and loss account with turnover found
+00267550,2026-03-15,31 OCTOBER 2025,GBP,000s,153700000.0,,22131000.0,21769000.0,4138000.0,1361000.0,5499000.0,27630000.0,Operating profit + D&A (OCR),12650000.0,73879000.0,"OCR, check",turnover rebuilt from gross profit + cost of sales,
+00272267,2026-07-25,31 December 2025,GBP,000s,1507000.0,2587000.0,210000.0,67000.0,,,,210000.0,"ESTIMATE: operating profit only (OCR, no D&A found)",12000.0,-5606000.0,"OCR, check",,
+00282704,2026-09-18,31 December 2025,GBP,£,33604612.0,35819308.0,4244454.0,4525840.0,284117.0,,284117.0,4528571.0,Operating profit + D&A (OCR),6974109.0,17146704.0,"OCR, check",,
+00444313,2026-08-09,31 DECEMBER 2025,GBP,£,72597725.0,72059181.0,3483142.0,3115150.0,2114152.0,14105.0,2128257.0,5611399.0,Operating profit + D&A (OCR),3662747.0,34103319.0,"OCR, check",,
+00470893,2026-07-31,,GBP,,,,,,,,,,,,,"OCR, check",,no profit and loss account with turnover found

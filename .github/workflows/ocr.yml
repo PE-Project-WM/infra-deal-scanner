@@ -28,7 +28,7 @@ jobs:
     steps:
       - id: p
         run: |
-          N=${{ inputs.shards || (github.event_name == 'push' && '2') || '12' }}
+          N=${{ inputs.shards || (github.event_name == 'push' && '16') || '12' }}
           echo "shards=$N" >> $GITHUB_OUTPUT
           echo "list=[$(seq -s, 0 $((N-1)))]" >> $GITHUB_OUTPUT
 
@@ -54,7 +54,7 @@ jobs:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}
           SHARD: ${{ matrix.shard }}
           SHARDS: ${{ needs.plan.outputs.shards }}
-          LIMIT: ${{ inputs.limit || (github.event_name == 'push' && '4') || '' }}
+          LIMIT: ${{ inputs.limit }}
         run: python scripts/ocr_fetch.py
       - uses: actions/upload-artifact@v4
         if: always()

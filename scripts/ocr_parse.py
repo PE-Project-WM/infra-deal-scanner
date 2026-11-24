@@ -21,6 +21,8 @@ LINES = {
     'turnover': re.compile(r'^\W{0,3}(group |total )?(turnover|revenue)\b', re.I),
     'operating_profit': re.compile(r'^\W{0,3}(group )?(operating (profit|loss)|(profit|loss)\s*/?\s*\(?(profit|loss)?\)?\s*from operations)', re.I),
     'profit_before_tax': re.compile(r'^\W{0,3}(profit|loss)[^0-9]{0,40}before (income )?tax', re.I),
+    'gross_profit': re.compile(r'^\W{0,3}gross (profit|loss)\b', re.I),
+    'cost_of_sales': re.compile(r'^\W{0,3}cost of (sales|revenue)\b', re.I),
     'depreciation': re.compile(r'^\W{0,3}depreciation\b', re.I),
     'amortisation': re.compile(r'^\W{0,3}amorti[sz]ation\b', re.I),
     'cash': re.compile(r'^\W{0,3}cash (at bank( and in hand)?|and cash equivalents|in hand)\b', re.I),
@@ -51,7 +53,7 @@ def pages(text):
 def scale_of(page):
     if re.search(r"(£|\$|€|us\$|usd|eur|gbp)\s?['’`]?\s?(000|k)\b|in thousands|['’]000", page, re.I):
         return 1000
-    if re.search(r"(£|\$|€)\s?m\b|in millions", page, re.I):
+    if re.search(r"(£|\$|€)\s?m\b|(£|\$|€)\s?million|in millions", page, re.I):
         return 1_000_000
     return 1
 
@@ -82,14 +84,24 @@ def parse(text):
     if not pl:
         return {'problem': 'no profit and loss account with turnover found'}
     n0, page = pl[0]   # group accounts put the consolidated statement first
-    k = scale_of(page) if scale_of(page) > 1 else scale_of(text[:20000])
+    k = scale_of(page)
+    raw = first_line(page, 'turnover', k > 1)
+    if k == 1_000_000 and raw and abs(raw[0]) >= 100_000:
+        k = 1   # whole pounds on the page; the 'million' was in a heading or note
+    if k == 1 and raw and abs(raw[0]) < 100_000:
+        k = scale_of(text[:20000]) if scale_of(text[:20000]) == 1000 else 1
     t = first_line(page, 'turnover', k > 1)
     out['turnover'] = t[0] * k
     out['turnover_prior'] = t[1] * k if len(t) > 1 else None
-    for key in ('operating_profit', 'profit_before_tax'):
+    for key in ('operating_profit', 'profit_before_tax', 'gross_profit', 'cost_of_sales'):
         v = first_line(page, key, k > 1)
         if v:
             out[key] = v[0] * k
+    gp, cos = out.pop('gross_profit', None), out.pop('cost_of_sales', None)
+    if gp is not None and cos is not None:
+        implied = gp + abs(cos)   # turnover = gross profit + cost of sales: catches a misread digit
+        if implied > 0 and abs(out['turnover'] - implied) / implied > 0.02:
+            out['turnover'], out['turnover_prior'], out['fixed'] = implied, None, 'turnover rebuilt from gross profit + cost of sales'
     # depreciation and amortisation from the notes after the P&L (operating profit note)
     da = 0.0
     for key in ('depreciation', 'amortisation'):
@@ -150,7 +162,7 @@ for path in sorted(glob.glob(f'{TXT}/*.txt')):
 R = pd.DataFrame(rows)
 cols = ['CompanyNumber', 'filed', 'period_text', 'currency', 'unit', 'turnover', 'turnover_prior', 'operating_profit',
         'profit_before_tax', 'depreciation', 'amortisation', 'da_total', 'ebitda', 'ebitda_basis', 'cash', 'net_assets',
-        'figures_source', 'problem']
+        'figures_source', 'fixed', 'problem']
 R = R.reindex(columns=cols)
 R.to_csv(f'{ROOT}/data/ocr/ocr_financials.csv', index=False)
 ok = R[R['problem'].fillna('') == '']

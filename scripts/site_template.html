@@ -250,7 +250,7 @@ footer p{max-width:80ch;margin-bottom:10px}
     <li><b>Price check is a first pass</b>Ranges come from listed peers and deal averages, not from deals in each company's niche. Debt and cash are read from each top-ten company's latest accounts, which can be up to two years old, and debt held by owners' holding companies is not visible.</li>
     <li><b>Repeat revenue is partly read, partly estimated</b>For the leading companies it is read from the accounts (sales split, income paid in advance, contracts described), which rarely give renewal rates. For the rest it is judged from the type of business.</li>
     <li><b>Balance sheet, not debt capacity</b>Net assets, cash, margin and interest cover where known. True debt capacity needs net debt, capital spending and cash conversion.</li>
-    <li id="lim-scanned"><b>Scanned accounts not read yet</b></li>
+    <li id="lim-scanned"><b>Some scanned accounts not read</b></li>
     <li id="lim-sector"><b>Sector check pending</b></li>
     <li><b>One label per company</b>Each company is grouped by its main source of demand. Most have several, and the split is not yet known.</li>
   </ul>
@@ -418,7 +418,7 @@ if ((D.growth_infra || []).length) {
 }
 
 // Limits
-document.getElementById('lim-scanned').insertAdjacentText('beforeend', `${D.scanned.toLocaleString('en-GB')} of the ${D.universe.toLocaleString('en-GB')} companies (${Math.round(D.scanned/D.universe*100)}%) file scanned accounts that cannot be read yet, so good companies may be missing.`);
+document.getElementById('lim-scanned').insertAdjacentText('beforeend', `${D.scanned_ocr ? `Figures for ${D.scanned_ocr.toLocaleString('en-GB')} companies that file scanned accounts were read by text recognition (OCR) and are labelled "OCR, check". ` : ''}${D.scanned.toLocaleString('en-GB')} of the ${D.universe.toLocaleString('en-GB')} companies (${Math.round(D.scanned/D.universe*100)}%) still have scanned accounts that could not be read, so good companies may be missing.`);
 document.getElementById('lim-sector').insertAdjacentText('beforeend', `${D.sector_check} profitable companies are waiting for a check that they really trade in the sector. An industry code alone is not enough to be ranked.`);
 
 // Separate bets

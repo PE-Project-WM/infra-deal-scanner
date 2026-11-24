@@ -14,6 +14,10 @@ os.makedirs(OUT, exist_ok=True)
 KEY = os.environ['CH_API_KEY'].strip()
 
 F = pd.read_csv(f'{INP}/financials_all.csv', dtype={'CompanyNumber': str})
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ocr_apply import apply_ocr
+F = apply_ocr(F)   # scanned accounts read by OCR (scripts/ocr_fetch.py, ocr_parse.py)
 IN_BAND = ['Shortlist', 'Watchlist (loss-making)', 'In band, EBITDA unknown']
 D = F[F['status'].isin(IN_BAND)].copy().reset_index(drop=True)
 print(f'Candidates to clean: {len(D)}')

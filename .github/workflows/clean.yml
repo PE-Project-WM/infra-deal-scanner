@@ -11,6 +11,8 @@ on:
       - 'scripts/history.py'
       - 'config/**'
       - 'data/inputs/**'
+      - 'data/ocr/ocr_financials.csv'
+      - 'scripts/ocr_apply.py'
       - '.github/workflows/clean.yml'
 
 permissions:
@@ -31,7 +33,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install packages
-        run: pip install pandas requests
+        run: pip install pandas requests beautifulsoup4 lxml
       - name: Run the cleaning step
         env:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}

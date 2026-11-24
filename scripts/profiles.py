@@ -85,7 +85,9 @@ def checks(r):
             out.append(f"Sales up {pct(cagr if cagr is not None else g)} {'a year' if cagr is not None else 'in one year'}: check how much came from acquisitions or one-off contracts")
     if str(r['ebitda_basis']).startswith('ESTIMATE'):
         out.append('EBITDA is estimated because depreciation is not tagged: confirm from the accounts')
-    if str(r['figures_source']) != 'Tagged':
+    if str(r['figures_source']).startswith('OCR'):
+        out.append('Figures were read by OCR from scanned accounts: check every number against the filing')
+    elif str(r['figures_source']) != 'Tagged':
         out.append('Figures were read from the text of the accounts: check them against the filing')
     if r['relevance'] == 'ADJACENT':
         out.append('Only adjacent to the investment case: confirm it owns or runs infrastructure')
