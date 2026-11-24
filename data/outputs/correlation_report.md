@@ -28,7 +28,7 @@ Correlation flag for the top 10: **AMBER** (amber when 30% of the top 10, weight
 
 Top 20: about 6 independent bets (flag green).
 
-Deal types across all ranked companies: Between buckets 32, Under pressure 24, Steady compounder 15, High-growth 15, Numbers to check 7.
+Deal types across all ranked companies: Between buckets 30, Under pressure 22, Steady compounder 15, High-growth 15, Numbers to check 6.
 Watchlist (63 loss-making companies): Under pressure 35, Growth infrastructure 27, Numbers to check 1.
 
 _Splits for the top 10 are estimated from the accounts and web checks (config/demand_driver_split.csv); companies with two named drivers are assumed 70/30; the rest come from judgement or rules and should be confirmed._

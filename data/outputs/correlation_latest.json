@@ -102,22 +102,23 @@
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 6.3,
+  "effective_bets": 5.7,
   "flag": "green",
   "factors": [
    {
     "factor": "Altnet funding and interest rates",
-    "share": 0.25,
-    "exposure": 4.9,
-    "count": 6,
+    "share": 0.3,
+    "exposure": 5.9,
+    "count": 7,
     "flag": "green",
     "companies": [
+     "Wingnut Utilities",
      "Community Fibre",
      "VEA Group (85%)",
      "MAP Group (UK) (75%)",
      "Open Fibre Networks (70%)",
-     "National Grid Telecoms (60%)",
      "Kcom Group (60%)",
+     "National Grid Telecoms (60%)",
      "Wifinity (40%)"
     ],
     "drivers": [
@@ -142,24 +143,6 @@
     ]
    },
    {
-    "factor": "Government spending",
-    "share": 0.14,
-    "exposure": 2.9,
-    "count": 2,
-    "flag": "green",
-    "companies": [
-     "Alert Communications",
-     "The Networking People (TNP) (85%)",
-     "Wifinity (40%)",
-     "Satcom Global (30%)",
-     "Clarus Networks (25%)",
-     "MAP Group (UK) (10%)"
-    ],
-    "drivers": [
-     "Public sector budgets"
-    ]
-   },
-   {
     "factor": "SME IT and telecoms spending",
     "share": 0.14,
     "exposure": 2.8,
@@ -178,18 +161,20 @@
     ]
    },
    {
-    "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.11,
-    "exposure": 2.2,
-    "count": 3,
+    "factor": "Government spending",
+    "share": 0.13,
+    "exposure": 2.6,
+    "count": 2,
     "flag": "green",
     "companies": [
-     "Global Marine Systems",
-     "Satcom Global (70%)",
-     "Clarus Networks (50%)"
+     "Alert Communications",
+     "The Networking People (TNP) (85%)",
+     "Wifinity (40%)",
+     "Clarus Networks (25%)",
+     "MAP Group (UK) (10%)"
     ],
     "drivers": [
-     "Offshore energy and maritime"
+     "Public sector budgets"
     ]
    },
    {
@@ -222,6 +207,20 @@
     ],
     "drivers": [
      "Unknown"
+    ]
+   },
+   {
+    "factor": "Offshore oil, gas, wind and shipping activity",
+    "share": 0.07,
+    "exposure": 1.5,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "Global Marine Systems",
+     "Clarus Networks (50%)"
+    ],
+    "drivers": [
+     "Offshore energy and maritime"
     ]
    }
   ]
@@ -450,11 +449,11 @@
  ],
  "deal_type_counts": {
   "ranked": {
-   "Between buckets": 32,
-   "Under pressure": 24,
+   "Between buckets": 30,
+   "Under pressure": 22,
    "Steady compounder": 15,
    "High-growth": 15,
-   "Numbers to check": 7
+   "Numbers to check": 6
   },
   "watchlist": {
    "Under pressure": 35,
