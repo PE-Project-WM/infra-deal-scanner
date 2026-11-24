@@ -6,7 +6,7 @@
  "method_changed": true,
  "method_version": "v3.1",
  "events_count": 6,
- "companies_checked": 47,
+ "companies_checked": 46,
  "top10": [
   {
    "rank": 1,
@@ -359,7 +359,7 @@
    "score_from": 73.0,
    "score_to": null,
    "reasons": [
-    "Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100%"
+    "Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100% (web-checked: A-2-Sea accounts FY Sep 2025, ultimate controlling party note; most work is now for the parent)"
    ],
    "events": []
   }
@@ -478,7 +478,7 @@
    "score_from": 73.0,
    "score_to": null,
    "reasons": [
-    "Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100%"
+    "Foreign-owned subsidiary (not buyable on its own): SubCom LLC (US), immediate parent holding 100% (web-checked: A-2-Sea accounts FY Sep 2025, ultimate controlling party note; most work is now for the parent)"
    ],
    "events": []
   },
