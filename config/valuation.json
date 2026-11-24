@@ -1,18 +1,26 @@
 {
   "_about": "Screening-level valuation for the ranked companies (Version 2 item 3 + analyst review). Three lenses: listed peers (what the public market pays), deals (what control buyers pay) and a sponsor returns check (the most a buyer could pay and still make its hurdle). Kept separate from the score. Illustrative only, from public data; not a valuation of any company. Skills: valuation-triangulator (lenses and reconciliation), returns-sensitivity (walk-away price, exit flat to entry, debt fixed in pounds).",
   "as_of": "2026-11-24",
-
   "multiple_ranges": {
     "_rule": "Range applied to latest-year EBITDA. Recurring-type businesses (revenue visibility estimate 0.6 or more) use the services range; project-based businesses use the contractor range. Small EBITDA (under the threshold) takes a size discount.",
-    "recurring_services": {"low": 6.0, "mid": 7.0, "high": 8.0, "why": "Gamma (UK business communications, 89% recurring revenue) traded near 6x before its bid and was taken private at about 7.6x; Crowe puts listed UK services at 7.5x. Our companies are far smaller, so the range sits at or below these."},
-    "project_contractors": {"low": 5.0, "mid": 6.0, "high": 7.0, "why": "SPIE, a large listed technical services group, trades near 8x; UK private deals under £250m have a median near 6x. Project-by-project revenue and small size put these at a discount to SPIE."},
+    "recurring_services": {
+      "low": 6.0,
+      "mid": 7.0,
+      "high": 8.0,
+      "why": "Gamma (UK business communications, 89% recurring revenue) traded near 6x before its bid and was taken private at about 7.6x; Crowe puts listed UK services at 7.5x. Our companies are far smaller, so the range sits at or below these."
+    },
+    "project_contractors": {
+      "low": 5.0,
+      "mid": 6.0,
+      "high": 7.0,
+      "why": "SPIE, a large listed technical services group, trades near 8x; UK private deals under £250m have a median near 6x. Project-by-project revenue and small size put these at a discount to SPIE."
+    },
     "small_ebitda_threshold_gbp": 3000000,
     "small_ebitda_discount": 0.5
   },
-
   "sponsor_case": {
     "_rule": "Five-year hold, exit at the entry multiple (no multiple expansion), debt sized off EBITDA and held fixed in pounds while the entry price moves, all spare cash repays debt.",
-    "hurdle_irr": 0.20,
+    "hurdle_irr": 0.2,
     "hold_years": 5,
     "debt_turns_recurring": 3.0,
     "debt_turns_contractor": 2.5,
@@ -22,27 +30,79 @@
     "growth_cap": 0.06,
     "growth_haircut": 0.5,
     "default_capex_pct_sales": 0.02,
-    "working_capital_drag_pct_ebitda": 0.10
+    "working_capital_drag_pct_ebitda": 0.1,
+    "max_working_capital_drag_pct_ebitda": 0.3,
+    "_cash": "Where a filing has a cash flow statement, capex uses the actual figure and the working-capital drag is 1 minus cash conversion (capped at 30%, never below 0)."
   },
-
   "benchmarks": {
     "listed_peers": [
-      {"name": "Gamma Communications", "what": "UK business communications (89% recurring revenue)", "multiple": "about 6x EV/EBITDA before the bid", "use": "Business telecoms and managed networks", "source": "https://uk.marketscreener.com/quote/stock/GAMMA-COMMUNICATIONS-PLC-18206396/valuation/"},
-      {"name": "SPIE", "what": "European technical and network services", "multiple": "about 8x EV/EBITDA", "use": "Network build and maintenance (upper reference; much larger)", "source": "https://ca.marketscreener.com/quote/stock/SPIE-SA-22363257/valuation/"},
-      {"name": "Dycom Industries", "what": "US telecom network contractor", "multiple": "about 20x EV/EBITDA", "use": "Not used: priced on the US data-centre and AI build-out boom", "source": "https://stockanalysis.com/stocks/dy/statistics"}
+      {
+        "name": "Gamma Communications",
+        "what": "UK business communications (89% recurring revenue)",
+        "multiple": "about 6x EV/EBITDA before the bid",
+        "use": "Business telecoms and managed networks",
+        "source": "https://uk.marketscreener.com/quote/stock/GAMMA-COMMUNICATIONS-PLC-18206396/valuation/"
+      },
+      {
+        "name": "SPIE",
+        "what": "European technical and network services",
+        "multiple": "about 8x EV/EBITDA",
+        "use": "Network build and maintenance (upper reference; much larger)",
+        "source": "https://ca.marketscreener.com/quote/stock/SPIE-SA-22363257/valuation/"
+      },
+      {
+        "name": "Dycom Industries",
+        "what": "US telecom network contractor",
+        "multiple": "about 20x EV/EBITDA",
+        "use": "Not used: priced on the US data-centre and AI build-out boom",
+        "source": "https://stockanalysis.com/stocks/dy/statistics"
+      }
     ],
     "deals": [
-      {"name": "Epiris takes Gamma Communications private (Sept 2026)", "multiple": "about 7.6x 2025 adjusted EBITDA (EV £1.079bn on £141.7m)", "source": "https://itbrief.com.au/story/epiris-agrees-gbp-1-015-billion-cash-deal-for-gamma"},
-      {"name": "UK private deals under £250m (H1 2025)", "multiple": "median 6.2x EV/EBITDA", "source": "https://hardmanandco.com/private-company-valuation-forum-monitoring-momentum"},
-      {"name": "UK mid-cap deals £50m-£250m (MarktoMarket)", "multiple": "mean 10.0x; nano caps just over 6x", "source": "https://www.icaew.com/technical/corporate-finance/corporate-finance-faculty/corporate-financier/2026/articles/march/column-doug-lawson"},
-      {"name": "Strategic buyers active in UK telecom services", "multiple": "terms not disclosed", "detail": "Vinci Energies (Axians UK) bought Novo Technologies (Apr 2026); M Group bought Telent (2025); Kubus bought Ammcom (2026)", "source": "https://www.ispreview.co.uk/index.php/2026/04/axians-uk-acquired-scottish-telecoms-company-novo-technologies.html"}
+      {
+        "name": "Epiris takes Gamma Communications private (Sept 2026)",
+        "multiple": "about 7.6x 2025 adjusted EBITDA (EV £1.079bn on £141.7m)",
+        "source": "https://itbrief.com.au/story/epiris-agrees-gbp-1-015-billion-cash-deal-for-gamma"
+      },
+      {
+        "name": "UK private deals under £250m (H1 2025)",
+        "multiple": "median 6.2x EV/EBITDA",
+        "source": "https://hardmanandco.com/private-company-valuation-forum-monitoring-momentum"
+      },
+      {
+        "name": "UK mid-cap deals £50m-£250m (MarktoMarket)",
+        "multiple": "mean 10.0x; nano caps just over 6x",
+        "source": "https://www.icaew.com/technical/corporate-finance/corporate-finance-faculty/corporate-financier/2026/articles/march/column-doug-lawson"
+      },
+      {
+        "name": "Strategic buyers active in UK telecom services",
+        "multiple": "terms not disclosed",
+        "detail": "Vinci Energies (Axians UK) bought Novo Technologies (Apr 2026); M Group bought Telent (2025); Kubus bought Ammcom (2026)",
+        "source": "https://www.ispreview.co.uk/index.php/2026/04/axians-uk-acquired-scottish-telecoms-company-novo-technologies.html"
+      }
     ],
     "listed_infrastructure_funds": [
-      {"name": "Cordiant Digital Infrastructure", "what": "Listed digital infrastructure trust (towers, data centres, fibre)", "fact": "shares at about a 16% discount to NAV (124p vs 146p, June 2026)", "read": "Listed buyers of digital infrastructure are themselves priced below their own asset values, so they are unlikely to pay up for small service businesses; trade buyers and mid-market PE are the likelier exits.", "source": "https://static.lse.co.uk/research/download/3583.pdf"}
+      {
+        "name": "Cordiant Digital Infrastructure",
+        "what": "Listed digital infrastructure trust (towers, data centres, fibre)",
+        "fact": "shares at about a 16% discount to NAV (124p vs 146p, June 2026)",
+        "read": "Listed buyers of digital infrastructure are themselves priced below their own asset values, so they are unlikely to pay up for small service businesses; trade buyers and mid-market PE are the likelier exits.",
+        "source": "https://static.lse.co.uk/research/download/3583.pdf"
+      }
     ]
   },
-
   "market_notes": [
-    {"companies": ["02853596"], "note": "Netomnia, a customer MAP Group has worked for, is being bought by nexfibre (£2bn, Feb 2026), with Virgin Media O2 taking on network construction: check whether MAP keeps that work.", "source": "https://www.samenacouncil.org/samena_daily_news?news=109590"}
-  ]
+    {
+      "companies": [
+        "02853596"
+      ],
+      "note": "Netomnia, a customer MAP Group has worked for, is being bought by nexfibre (£2bn, Feb 2026), with Virgin Media O2 taking on network construction: check whether MAP keeps that work.",
+      "source": "https://www.samenacouncil.org/samena_daily_news?news=109590"
+    }
+  ],
+  "fx_to_gbp": {
+    "GBP": 1.0,
+    "USD": 0.7576,
+    "_source": "GBP/USD about 1.32 on 18 Nov 2026 (exchangerate.guru reference rate)"
+  }
 }

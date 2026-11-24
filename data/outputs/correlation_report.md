@@ -9,12 +9,12 @@ Correlation flag for the top 10: **AMBER** (amber at 30% of the top 10 on one ma
 | 1 | VEA Group | High-growth | Growth and mid-market PE | Altnet and operator network build | Altnet funding and interest rates |
 | 2 | Clarus Networks | High-growth | Growth and mid-market PE | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
 | 3 | The Networking People (TNP) | Steady compounder | Core and core-plus infrastructure funds | Public sector budgets | Government spending |
-| 4 | Satcom Global | Between buckets | Depends on the reason given | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
-| 5 | Dstny Global Services UK | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) | SME IT and telecoms spending |
-| 6 | Alert Communications | Between buckets | Depends on the reason given | Mobile, radio and critical comms | Mobile operator and emergency-services spend |
-| 7 | Barclay Digital Services | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) | SME IT and telecoms spending |
-| 8 | MAP Group (UK) | Between buckets | Depends on the reason given | Altnet and operator network build | Altnet funding and interest rates |
-| 9 | A-2-Sea Solutions | Under pressure | None until a fix is identified | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
+| 4 | Dstny Global Services UK | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) | SME IT and telecoms spending |
+| 5 | Barclay Digital Services | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) | SME IT and telecoms spending |
+| 6 | Satcom Global | Between buckets | Depends on the reason given | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
+| 7 | MAP Group (UK) | Between buckets | Depends on the reason given | Altnet and operator network build | Altnet funding and interest rates |
+| 8 | A-2-Sea Solutions | Under pressure | None until a fix is identified | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
+| 9 | Alert Communications | Between buckets | Depends on the reason given | Mobile, radio and critical comms | Mobile operator and emergency-services spend |
 | 10 | C.A. Telecom UK | Between buckets | Depends on the reason given | Altnet and operator network build | Altnet funding and interest rates |
 
 **Macro factors in the top 10**

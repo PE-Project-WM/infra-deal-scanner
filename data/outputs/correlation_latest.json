@@ -199,16 +199,6 @@
   },
   {
    "rank": 4,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "margin swung 11 points over the years read, too uneven for a steady compounder",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Offshore energy and maritime",
-   "second_driver": "Public sector budgets",
-   "macro_factor": "Offshore oil, gas, wind and shipping activity",
-   "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"
-  },
-  {
-   "rank": 5,
    "deal_type": "Steady compounder",
    "deal_type_reason": "recurring-type revenue (estimated), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
@@ -218,17 +208,7 @@
    "driver_basis": "Judgement: business phone services (web-checked: Endole)"
   },
   {
-   "rank": 6,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "margin 32% but project-based revenue (estimated)",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Mobile, radio and critical comms",
-   "second_driver": "",
-   "macro_factor": "Mobile operator and emergency-services spend",
-   "driver_basis": "Rule from business description (confirm)"
-  },
-  {
-   "rank": 7,
+   "rank": 5,
    "deal_type": "Steady compounder",
    "deal_type_reason": "recurring-type revenue (estimated), margin 22%, sales up 13% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
@@ -238,7 +218,17 @@
    "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"
   },
   {
-   "rank": 8,
+   "rank": 6,
+   "deal_type": "Between buckets",
+   "deal_type_reason": "margin swung 11 points over the years read, too uneven for a steady compounder",
+   "fund_fit": "Depends on the reason given",
+   "demand_driver": "Offshore energy and maritime",
+   "second_driver": "Public sector budgets",
+   "macro_factor": "Offshore oil, gas, wind and shipping activity",
+   "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"
+  },
+  {
+   "rank": 7,
    "deal_type": "Between buckets",
    "deal_type_reason": "margin 24% but project-based revenue (estimated)",
    "fund_fit": "Depends on the reason given",
@@ -248,7 +238,7 @@
    "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "deal_type": "Under pressure",
    "deal_type_reason": "thin EBITDA margin (24%); no specific fix identified yet",
    "fund_fit": "None until a fix is identified",
@@ -256,6 +246,16 @@
    "second_driver": "",
    "macro_factor": "Offshore oil, gas, wind and shipping activity",
    "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"
+  },
+  {
+   "rank": 9,
+   "deal_type": "Between buckets",
+   "deal_type_reason": "margin 32% but project-based revenue (estimated)",
+   "fund_fit": "Depends on the reason given",
+   "demand_driver": "Mobile, radio and critical comms",
+   "second_driver": "",
+   "macro_factor": "Mobile operator and emergency-services spend",
+   "driver_basis": "Rule from business description (confirm)"
   },
   {
    "rank": 10,

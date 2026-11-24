@@ -14,6 +14,7 @@ R = pd.read_csv(f'{OUT}/ranking_latest.csv', dtype={'CompanyNumber': str})
 L = pd.read_csv(f'{OUT}/lenses_latest.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
 H = pd.read_csv(f'{OUT}/history.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{OUT}/history.csv') else pd.DataFrame(columns=['CompanyNumber'])
 HS = pd.read_csv(f'{OUT}/history_summary.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{OUT}/history_summary.csv') else pd.DataFrame()
+BS = pd.read_csv(f'{CFG}/balance_sheet.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{CFG}/balance_sheet.csv') else pd.DataFrame()
 NOTES = pd.read_csv(f'{CFG}/company_notes.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{CFG}/company_notes.csv') else pd.DataFrame(columns=['CompanyNumber', 'check'])
 m = lambda v: f'£{v / 1e6:.1f}m'
 pct = lambda v: f'{v * 100:.0f}%'
@@ -58,6 +59,14 @@ def checks(r):
         out.append('Probably owned by a private equity fund: check when it bought in')
     elif own == 'Unknown':
         out.append('Owner not yet confirmed')
+    if num in BS.index:
+        b = BS.loc[num].fillna(0)
+        nd = float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash'])
+        cur = '$' if b['currency'] == 'USD' else '£'
+        if r['ebitda'] > 0 and nd / r['ebitda'] >= 2:
+            out.append(f"Net debt of {cur}{nd / 1e6:.1f}m, {nd / r['ebitda']:.1f}x EBITDA: most of the price would go to lenders, not shareholders")
+        if float(b['other_owed_to_group']) > 2 * max(r['ebitda'], 1):
+            out.append(f"A further {cur}{float(b['other_owed_to_group']) / 1e6:.1f}m is owed to group companies: find out whether it is debt")
     cover = hs(num, 'interest_cover')
     if cover is not None and cover < 3:
         out.append(f"Interest cover only {cover:.1f}x: check how much debt it already carries")
