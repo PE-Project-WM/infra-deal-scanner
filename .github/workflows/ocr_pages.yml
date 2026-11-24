@@ -2,10 +2,6 @@ name: 03d Render pages of scanned filings (for checking OCR)
 
 on:
   workflow_dispatch:
-  push:
-    branches: [v9-ocr]
-    paths:
-      - 'config/ocr_verify_pages.txt'
 
 permissions:
   contents: write

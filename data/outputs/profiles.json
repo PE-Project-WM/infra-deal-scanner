@@ -2,7 +2,7 @@
  "03921568": {
   "rank": 1,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "High margin (40% EBITDA)",
@@ -11,7 +11,7 @@
   ],
   "checks": [
    "Bought by a private equity fund in 2026: unlikely to be sold for a few years",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; operating profit is after \u00a30.85m exceptional costs, so EBITDA here (\u00a315.7m) is below the company's own \u00a316.7m",
    "Bought by Arcus Infrastructure Partners in early 2026, so unlikely to be sold again for several years",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -68,7 +68,7 @@
  "05412813": {
   "rank": 3,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; missing cash, net assets; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; missing cash, net assets; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "High margin (51% EBITDA)",
@@ -76,7 +76,7 @@
    "Sales up 16% last year"
   ],
   "checks": [
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (\u00a314.8m) match",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
@@ -89,7 +89,7 @@
  "03307001": {
   "rank": 4,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "High margin (59% EBITDA)",
@@ -97,7 +97,7 @@
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover, EBITDA (\u00a322.9m) and operating profit match the filing exactly",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
@@ -110,7 +110,7 @@
  "02150618": {
   "rank": 5,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "High margin (46% EBITDA)",
@@ -119,7 +119,7 @@
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
    "Net debt of \u00a3379.5m, 8.6x EBITDA: most of the price would go to lenders, not shareholders",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Revenue, operating profit before exceptional items and D&A (\u00a325.4m, cash flow) match",
    "Macquarie is running a sale (2026) while lenders seek to recover about \u00a3395m of debt, around 9x EBITDA; a 2026 restructuring only runs to September 2027. Likely a distressed or lender-led deal",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -133,14 +133,14 @@
  "02386327": {
   "rank": 6,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; missing cash; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "EBITDA of \u00a33.3m, in the \u00a32\u201315m range most mid-market buyers target",
    "A type of business that usually earns repeat revenue (estimated)"
   ],
   "checks": [
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation (\u00a32.2m) match",
    "Part of National Grid plc: buying it would be a carve-out from a listed utility",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -177,7 +177,7 @@
  "04186486": {
   "rank": 8,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "EBITDA of \u00a36.2m, in the \u00a32\u201315m range most mid-market buyers target",
@@ -185,7 +185,7 @@
    "Cash of \u00a33.4m and net assets of \u00a340.3m"
   ],
   "checks": [
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
@@ -307,7 +307,7 @@
  "07413288": {
   "rank": 12,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; missing net assets; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; missing net assets; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "Sales up 48% last year",
@@ -315,7 +315,7 @@
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Revenue, operating loss, depreciation and amortisation match",
    "Loss-making before tax (\u00a3118.5m loss in 2024) and talked about at around \u00a32bn of value, far above this screen's size range: a platform for large infrastructure funds, not a mid-market buyout",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -329,7 +329,7 @@
  "10902222": {
   "rank": 13,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "High margin (33% EBITDA)",
    "EBITDA of \u00a34.5m, in the \u00a32\u201315m range most mid-market buyers target",
@@ -337,7 +337,7 @@
    "Cash of \u00a37.2m and net assets of \u00a318.4m"
   ],
   "checks": [
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation match; \u00a30.1m goodwill amortisation not added",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -383,7 +383,7 @@
  "09228224": {
   "rank": 15,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "EBITDA of \u00a39.8m, in the \u00a32\u201315m range most mid-market buyers target",
    "Sales up 17% last year",
@@ -392,7 +392,7 @@
   ],
   "checks": [
    "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; D&A not found, so EBITDA is understated",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -406,7 +406,7 @@
  "01708481": {
   "rank": 16,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "High margin (32% EBITDA)",
@@ -415,7 +415,7 @@
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: D&A was misread (revaluation line); corrected to $33.0m from the operating profit note",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
@@ -428,7 +428,7 @@
  "02578478": {
   "rank": 17,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "High margin (38% EBITDA)",
    "EBITDA of \u00a311.5m, in the \u00a32\u201315m range most mid-market buyers target",
@@ -437,7 +437,7 @@
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
    "Sales up 41% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -451,7 +451,7 @@
  "08709631": {
   "rank": 18,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "High margin (26% EBITDA)",
@@ -460,7 +460,7 @@
   ],
   "checks": [
    "Owner not yet confirmed",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Figures match, but they cover a 15-month period",
    "Latest accounts cover 15 months (Oct 2024 to Dec 2025), so sales of \u00a318.7m are about \u00a315m a year and the growth figure is overstated; it also bought Complete Technology Group, so results include an acquisition",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -474,7 +474,7 @@
  "06391276": {
   "rank": 19,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
    "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target",
@@ -483,7 +483,7 @@
   ],
   "checks": [
    "Sales fell 15% last year: find out why",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
@@ -562,14 +562,14 @@
  "08322856": {
   "rank": 22,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "EBITDA of \u00a314.7m, in the \u00a32\u201315m range most mid-market buyers target",
    "A type of business that usually earns repeat revenue (estimated)"
   ],
   "checks": [
    "Owner not yet confirmed",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: Revenue, operating profit and D&A match; company's adjusted EBITDA is \u00a318.3m",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
@@ -1444,13 +1444,13 @@
  "02804354": {
   "rank": 63,
   "confidence": "Low",
-  "confidence_reasons": "figures read by OCR from scanned accounts; missing net assets; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "OCR figures checked against the filing; missing net assets; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "EBITDA of \u00a33.8m, in the \u00a32\u201315m range most mid-market buyers target"
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Figures were read by OCR and checked against the filing: D&A was misread (wrapped heading); corrected to \u00a34.2m from the operating loss note",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],

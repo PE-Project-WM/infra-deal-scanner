@@ -121,13 +121,18 @@ def balance(r):
         s -= 0.4 * clip((nd / r['ebitda'] - 1.0) / 3.0, 0, 1)   # existing debt above 1x EBITDA leaves less room; 4x+ takes the full 0.4
     return clip(s, 0, 1)
 
+_V = f'{ROOT}/data/ocr/verified.csv'   # OCR figures checked by eye against rendered filing pages
+OCR_CHECKED = set(pd.read_csv(_V, dtype={'CompanyNumber': str})['CompanyNumber']) if os.path.exists(_V) else set()
+
 # Confidence (not scored): how far the inputs can be trusted
 def confidence(r):
     if not r['numbers_ok']:
         return 'Low', 'numbers flagged'
     src = str(r['figures_source'])
-    c = 1.0 if src == 'Tagged' else 0.5 if ('£000s' in src or src.startswith('OCR')) else 0.6
-    reasons = [] if src == 'Tagged' else ['figures read by OCR from scanned accounts'] if src.startswith('OCR') else ['figures read from the accounts text']
+    checked = src.startswith('OCR') and r['CompanyNumber'] in OCR_CHECKED
+    c = 1.0 if src == 'Tagged' else 0.6 if checked else 0.5 if ('£000s' in src or src.startswith('OCR')) else 0.6
+    reasons = ([] if src == 'Tagged' else ['OCR figures checked against the filing'] if checked
+               else ['figures read by OCR from scanned accounts'] if src.startswith('OCR') else ['figures read from the accounts text'])
     if str(r['ebitda_basis']).startswith('ESTIMATE'):
         c -= 0.2
         reasons.append('EBITDA estimated')
