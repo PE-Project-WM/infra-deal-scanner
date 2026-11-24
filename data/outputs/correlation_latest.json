@@ -2,37 +2,9 @@
  "date": "2026-11-24",
  "top_n": {
   "n": 10,
-  "effective_bets": 4.2,
-  "flag": "amber",
+  "effective_bets": 5.6,
+  "flag": "green",
   "factors": [
-   {
-    "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.3,
-    "count": 3,
-    "flag": "amber",
-    "companies": [
-     "Clarus Networks",
-     "Satcom Global",
-     "A-2-Sea Solutions"
-    ],
-    "drivers": [
-     "Offshore energy and maritime"
-    ]
-   },
-   {
-    "factor": "SME IT and telecoms spending",
-    "share": 0.3,
-    "count": 3,
-    "flag": "amber",
-    "companies": [
-     "Dstny Global Services UK",
-     "Barclay Digital Services",
-     "5G Communications"
-    ],
-    "drivers": [
-     "Business telecoms (SME)"
-    ]
-   },
    {
     "factor": "Altnet funding and interest rates",
     "share": 0.2,
@@ -47,6 +19,57 @@
     ]
    },
    {
+    "factor": "Offshore oil, gas, wind and shipping activity",
+    "share": 0.2,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "Clarus Networks",
+     "Satcom Global"
+    ],
+    "drivers": [
+     "Offshore energy and maritime"
+    ]
+   },
+   {
+    "factor": "SME IT and telecoms spending",
+    "share": 0.2,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "Dstny Global Services UK",
+     "Barclay Digital Services"
+    ],
+    "drivers": [
+     "Business telecoms (SME)"
+    ]
+   },
+   {
+    "factor": "Construction and utility capex",
+    "share": 0.2,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "Rapid Response Telecoms",
+     "Heneghan Holdings"
+    ],
+    "drivers": [
+     "Utility and civil construction"
+    ]
+   },
+   {
+    "factor": "Mobile operator and emergency-services spend",
+    "share": 0.1,
+    "count": 1,
+    "flag": "green",
+    "companies": [
+     "Alert Communications"
+    ],
+    "drivers": [
+     "Mobile, radio and critical comms"
+    ]
+   },
+   {
     "factor": "Government spending",
     "share": 0.1,
     "count": 1,
@@ -57,24 +80,12 @@
     "drivers": [
      "Public sector budgets"
     ]
-   },
-   {
-    "factor": "Construction and utility capex",
-    "share": 0.1,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "Rapid Response Telecoms"
-    ],
-    "drivers": [
-     "Utility and civil construction"
-    ]
    }
   ]
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 5.0,
+  "effective_bets": 4.9,
   "flag": "amber",
   "factors": [
    {
@@ -101,13 +112,28 @@
     "count": 4,
     "flag": "green",
     "companies": [
-     "Croft Communications",
      "Alert Communications",
+     "Croft Communications",
      "Radiocoms Systems",
      "Scci Alphatrack"
     ],
     "drivers": [
      "Mobile, radio and critical comms"
+    ]
+   },
+   {
+    "factor": "Construction and utility capex",
+    "share": 0.2,
+    "count": 4,
+    "flag": "green",
+    "companies": [
+     "Rapid Response Telecoms",
+     "Heneghan Holdings",
+     "GCU (UK)",
+     "Glenelly Infrastructure Solutions"
+    ],
+    "drivers": [
+     "Utility and civil construction"
     ]
    },
    {
@@ -126,30 +152,15 @@
    },
    {
     "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.15,
-    "count": 3,
+    "share": 0.1,
+    "count": 2,
     "flag": "green",
     "companies": [
      "Clarus Networks",
-     "Satcom Global",
-     "A-2-Sea Solutions"
+     "Satcom Global"
     ],
     "drivers": [
      "Offshore energy and maritime"
-    ]
-   },
-   {
-    "factor": "Construction and utility capex",
-    "share": 0.15,
-    "count": 3,
-    "flag": "green",
-    "companies": [
-     "Rapid Response Telecoms",
-     "Heneghan Holdings",
-     "GCU (UK)"
-    ],
-    "drivers": [
-     "Utility and civil construction"
     ]
    },
    {
@@ -190,7 +201,17 @@
   {
    "rank": 3,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 32%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "fund_fit": "Core and core-plus infrastructure funds",
+   "demand_driver": "Mobile, radio and critical comms",
+   "second_driver": "",
+   "macro_factor": "Mobile operator and emergency-services spend",
+   "driver_basis": "Rule from business description (confirm)"
+  },
+  {
+   "rank": 4,
+   "deal_type": "Steady compounder",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Public sector budgets",
    "second_driver": "",
@@ -198,9 +219,9 @@
    "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
@@ -208,17 +229,17 @@
    "driver_basis": "Judgement: business phone services (web-checked: Endole)"
   },
   {
-   "rank": 5,
-   "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 22%, sales up 13% in one year (only one year read), margin stability not yet tested",
-   "fund_fit": "Core and core-plus infrastructure funds",
-   "demand_driver": "Business telecoms (SME)",
+   "rank": 6,
+   "deal_type": "Between buckets",
+   "deal_type_reason": "margin 24% but project-based revenue (from the accounts)",
+   "fund_fit": "Depends on the reason given",
+   "demand_driver": "Altnet and operator network build",
    "second_driver": "",
-   "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"
+   "macro_factor": "Altnet funding and interest rates",
+   "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "deal_type": "Between buckets",
    "deal_type_reason": "margin swung 11 points over the years read, too uneven for a steady compounder",
    "fund_fit": "Depends on the reason given",
@@ -228,37 +249,17 @@
    "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"
   },
   {
-   "rank": 7,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "margin 24% but project-based revenue (estimated)",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Altnet and operator network build",
-   "second_driver": "",
-   "macro_factor": "Altnet funding and interest rates",
-   "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
-  },
-  {
    "rank": 8,
-   "deal_type": "Under pressure",
-   "deal_type_reason": "thin EBITDA margin (24%); no specific fix identified yet",
-   "fund_fit": "None until a fix is identified",
-   "demand_driver": "Offshore energy and maritime",
-   "second_driver": "",
-   "macro_factor": "Offshore oil, gas, wind and shipping activity",
-   "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"
-  },
-  {
-   "rank": 9,
-   "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (estimated), margin 12%, sales up 0% in one year (only one year read), margin stability not yet tested",
-   "fund_fit": "Core and core-plus infrastructure funds",
+   "deal_type": "Between buckets",
+   "deal_type_reason": "margin 22% but project-based revenue (from the accounts)",
+   "fund_fit": "Depends on the reason given",
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
    "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Rule from business description (confirm)"
+   "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "deal_type": "High-growth",
    "deal_type_reason": "sales up 56% in one year (only one year read), margin 16%",
    "fund_fit": "Growth and mid-market PE",
@@ -266,12 +267,22 @@
    "second_driver": "",
    "macro_factor": "Construction and utility capex",
    "driver_basis": "Rule from industry code only (confirm)"
+  },
+  {
+   "rank": 10,
+   "deal_type": "Under pressure",
+   "deal_type_reason": "sales down 23% in one year (only one year read); no specific fix identified yet",
+   "fund_fit": "None until a fix is identified",
+   "demand_driver": "Utility and civil construction",
+   "second_driver": "",
+   "macro_factor": "Construction and utility capex",
+   "driver_basis": "Rule from business description (confirm)"
   }
  ],
  "deal_type_counts": {
   "ranked": {
-   "Under pressure": 16,
    "Between buckets": 15,
+   "Under pressure": 15,
    "High-growth": 7,
    "Steady compounder": 5,
    "Numbers to check": 4
@@ -287,5 +298,5 @@
   "amber_share": 0.3,
   "red_share": 0.5
  },
- "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on offshore oil, gas, wind and shipping activity, 3 depend on SME IT and telecoms spending"
+ "headline": "The top 10 is about 6 independent bets, not 10"
 }

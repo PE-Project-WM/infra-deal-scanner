@@ -51,7 +51,7 @@ def hist(num, col):
 
 clip = lambda x, lo, hi: max(lo, min(hi, x))
 
-# 1. Revenue visibility (PROVISIONAL ESTIMATE): accounts don't split recurring revenue, so judge by business type
+# 1. Revenue visibility: read from the accounts where config/revenue_mix.csv has the company; otherwise PROVISIONAL, judged by business type
 VIS_RULES = [
     (0.9, r'network operator|altnet|fibre network|data cent|satellite communications|cloud|managed .*networks|connectivity|mobile infrastructure|remote communications|offshore'),
     (0.7, r'business telecoms|broadband|phone|voice|hosting|managed it|iot'),
@@ -63,7 +63,12 @@ SEGMENT_DEFAULT = {'Fibre and wired telecoms networks': 0.6, 'Wireless networks,
                    'Data centres, data processing and hosting': 0.5,
                    'Building and maintaining telecoms and utility networks': 0.35}
 
+RM_PATH = f'{CFG}/revenue_mix.csv'   # revenue mix read from the accounts and web checks (top companies only)
+RM = pd.read_csv(RM_PATH, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(RM_PATH) else pd.DataFrame()
+
 def visibility(r):
+    if r['CompanyNumber'] in RM.index:   # evidence beats the estimate
+        return float(RM.at[r['CompanyNumber'], 'visibility']), 'From the accounts: ' + RM.at[r['CompanyNumber'], 'evidence']
     reason = str(r['relevance_reason']).lower()
     for score, pattern in VIS_RULES:
         if re.search(pattern, reason):
@@ -138,7 +143,8 @@ def confidence(r):
     if r['relevance'] == 'ADJACENT':
         c -= 0.1
         reasons.append('only adjacent to the thesis')
-    reasons.append('recurring revenue estimated')
+    if r['CompanyNumber'] not in RM.index:
+        reasons.append('recurring revenue estimated')
     if label(r['CompanyNumber']):
         reasons.append(label(r['CompanyNumber']))
     level = 'High' if c >= 0.95 else 'Medium' if c >= 0.6 else 'Low'
