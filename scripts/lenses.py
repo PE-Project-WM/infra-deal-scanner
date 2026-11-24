@@ -94,8 +94,10 @@ corr = {'date': A['labelled_on'].iloc[0], 'top_n': concentration(top), 'top_20':
         'thresholds': CT}
 c = corr['top_n']
 big = [f for f in c['factors'] if f['flag'] != 'green']
-corr['headline'] = (f"The top {N} is about {c['effective_bets']:.0f} independent bets, not {N}" +
-                    (f": {', '.join(f'{f['count']} depend on {f['factor'] if f['factor'][:3].isupper() else f['factor'][0].lower() + f['factor'][1:]}' for f in big)}" if big else ''))
+def lower_first(x):   # keep acronyms such as SME in capitals
+    return x if x[:3].isupper() else x[0].lower() + x[1:]
+parts = ', '.join(f"{f['count']} depend on {lower_first(f['factor'])}" for f in big)
+corr['headline'] = f"The top {N} is about {c['effective_bets']:.0f} independent bets, not {N}" + (f": {parts}" if big else '')
 json.dump(corr, open(f'{OUT}/correlation_latest.json', 'w'), indent=1, default=str)
 
 # Markdown report (also appended to the weekly issue)
