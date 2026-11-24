@@ -48,11 +48,11 @@
     "strategy_fit": "Thesis relevance; only IN and ADJACENT companies are ranked",
     "size_fit": "EBITDA in the £2-15m sweet spot",
     "margin_quality": "EBITDA margin level (70%) and margin stability across three or more years where history is available (30%; neutral where not)",
-    "balance_sheet": "Balance sheet resilience: positive net assets, cash cover and margin headroom, reduced where interest cover is below 3x. Not yet true debt capacity (needs net debt, capex and cash conversion)"
+    "balance_sheet": "Balance sheet resilience: positive net assets, cash cover and margin headroom; reduced where interest cover is below 3x or where net debt (read from the latest accounts, top companies) is above 1x EBITDA. Still not full debt capacity"
   },
   "fit_and_access_kept_separate": true,
   "pricing": "Walk-away multiple to be set from disclosed deals before any named company is screened",
-  "method_version": "v3 (24 Nov 2026): data quality moved out of the score into a confidence rating; size on EBITDA; margin stability from multi-year history; sector gate; debt capacity renamed balance sheet resilience",
+  "method_version": "v3.1 (24 Nov 2026): balance sheet also reduced where net debt read from the latest accounts is above 1x EBITDA. data quality moved out of the score into a confidence rating; size on EBITDA; margin stability from multi-year history; sector gate; debt capacity renamed balance sheet resilience",
   "sector_gate": {
     "ranked_if_relevance_in": [
       "IN",

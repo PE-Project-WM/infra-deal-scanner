@@ -19,6 +19,7 @@ on:
       - 'scripts/profiles.py'
       - 'scripts/valuation.py'
       - 'config/valuation.json'
+      - 'config/balance_sheet.csv'
       - 'scripts/history.py'
       - 'scripts/score.py'
       - 'config/criteria_digital_infra.json'

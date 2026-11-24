@@ -24,6 +24,16 @@ print(f'Companies to score: {len(S)} ({len(check)} more need a sector check firs
 HS_PATH = f'{OUT}/history_summary.csv'   # from history.py (deep-dived companies only)
 HS = pd.read_csv(HS_PATH, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(HS_PATH) else pd.DataFrame()
 
+BS_PATH = f'{CFG}/balance_sheet.csv'   # net debt transcribed from the latest accounts (top companies only)
+BS = pd.read_csv(BS_PATH, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(BS_PATH) else pd.DataFrame()
+
+def net_debt(num):
+    """Net debt in the accounts' own currency (same currency as the EBITDA it is compared with), or None."""
+    if num not in BS.index:
+        return None
+    b = BS.loc[num].fillna(0)
+    return float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash'])
+
 def hist(num, col):
     if num in HS.index and col in HS.columns and pd.notna(HS.at[num, col]):
         return HS.at[num, col]
@@ -91,6 +101,9 @@ def balance(r):
     cover = hist(r['CompanyNumber'], 'interest_cover')
     if cover is not None and cover < 3:
         s -= 0.3 * (3 - cover) / 3   # thin interest cover eats into room for new debt
+    nd = net_debt(r['CompanyNumber'])
+    if nd is not None and r['ebitda'] > 0 and nd / r['ebitda'] > 1.0:
+        s -= 0.4 * clip((nd / r['ebitda'] - 1.0) / 3.0, 0, 1)   # existing debt above 1x EBITDA leaves less room; 4x+ takes the full 0.4
     return clip(s, 0, 1)
 
 # Confidence (not scored): how far the inputs can be trusted

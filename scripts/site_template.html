@@ -203,9 +203,9 @@ footer p{max-width:80ch;margin-bottom:10px}
 
 <section class="band" id="price-section" hidden><div class="wrap">
   <h2>What would they cost, and would a buyer make money?</h2>
-  <p class="sub text">A first price check, kept separate from the score. Each price range applies multiples that listed companies and recent deals point to. The last two columns show the most a private equity buyer could pay and still make a 20% yearly return, and whether that is inside the range.</p>
+  <p class="sub text">A first price check, kept separate from the score. The price for the business applies multiples that listed companies and recent deals point to. Taking away debt and adding back cash from each company's latest accounts gives the price for the shares. Cash conversion is how much of the year's EBITDA arrived as cash. The last two columns show the most a private equity buyer could pay for the business and still make a 20% yearly return.</p>
   <p class="verdict" id="price-verdict"></p>
-  <div class="scroll"><table class="tbl"><thead><tr><th class="num">Rank</th><th>Company</th><th class="num">EBITDA</th><th>Priced as</th><th class="num">Price range</th><th class="num">Most a buyer could pay</th><th>Result</th></tr></thead><tbody id="price-body"></tbody></table></div>
+  <div class="scroll"><table class="tbl"><thead><tr><th class="num">Rank</th><th>Company</th><th class="num">EBITDA</th><th class="num">Cash conversion</th><th class="num">Price for the business</th><th class="num">Net cash or (debt)</th><th class="num">Price for the shares</th><th class="num">Most a buyer could pay</th><th>20% return in range?</th></tr></thead><tbody id="price-body"></tbody></table></div>
   <h3 style="margin:40px 0 14px">How the prices were set</h3>
   <div class="gloss" id="price-bench"></div>
   <p class="rule-note" id="price-note"></p>
@@ -247,7 +247,7 @@ footer p{max-width:80ch;margin-bottom:10px}
   <h2>Limits of this screen</h2>
   <p class="sub text">The screen points to where to look and gives a first view on price. It is not a valuation and not advice.</p>
   <ul class="limits">
-    <li><b>Price check is a first pass</b>Ranges come from listed peers and deal averages, not from deals in each company's niche, and debt and cash on each balance sheet are mostly unknown.</li>
+    <li><b>Price check is a first pass</b>Ranges come from listed peers and deal averages, not from deals in each company's niche. Debt and cash are read from each top-ten company's latest accounts, which can be up to two years old, and debt held by owners' holding companies is not visible.</li>
     <li><b>Repeat revenue is estimated</b>Accounts do not split contracted from one-off sales, so this is judged from the type of business until contract data is gathered.</li>
     <li><b>Balance sheet, not debt capacity</b>Net assets, cash, margin and interest cover where known. True debt capacity needs net debt, capital spending and cash conversion.</li>
     <li id="lim-scanned"><b>Scanned accounts not read yet</b></li>
@@ -360,7 +360,11 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
       <h4>How the ${t.score.toFixed(0)} is made up</h4><div class="bars">${bars}</div>
       ${t.price ? `<h4 style="margin-top:20px">Price check</h4><dl class="facts">
         <div><dt>Price range</dt><dd>${money(t.price.ev_low)}–${money(t.price.ev_high)} (${t.price.mult_low.toFixed(1)}–${t.price.mult_high.toFixed(1)}x EBITDA of ${money(t.price.ebitda)})</dd></div>
-        <div><dt>Most a buyer could pay</dt><dd>${t.price.walk_away_mult.toFixed(1)}x, or ${money(t.price.walk_away_ev)}, for a 20% yearly return</dd></div>
+        ${t.price.net_debt != null ? `<div><dt>${t.price.net_debt <= 0 ? 'Net cash' : 'Net debt'}</dt><dd>${money(Math.abs(t.price.net_debt))} at ${esc(fmtDate(t.price.accounts_year_end))}${t.price.net_debt > 0 ? ` (${(t.price.net_debt_to_ebitda).toFixed(1)}x EBITDA)` : ''}</dd></div>
+        <div><dt>Price for the shares</dt><dd>${t.price.equity_high <= 0 ? 'Nil: debts exceed the price range' : `${t.price.equity_low <= 0 ? 'Nil' : money(t.price.equity_low)}–${money(t.price.equity_high)}`}</dd></div>` : ''}
+        ${t.price.cash_conversion != null ? `<div><dt>Cash conversion</dt><dd>${pct(t.price.cash_conversion)} of EBITDA arrived as cash before tax; ${pct(t.price.fcf_conversion)} after capital spending</dd></div>` : `<div><dt>Cash conversion</dt><dd>Not shown: the filing has no cash flow statement</dd></div>`}
+        <div><dt>Most a buyer could pay</dt><dd>${t.price.walk_away_mult.toFixed(1)}x, or ${money(t.price.walk_away_ev)} for the business${t.price.walk_away_equity != null ? ` (${t.price.walk_away_equity <= 0 ? 'nothing' : money(t.price.walk_away_equity)} for the shares)` : ''}, for a 20% yearly return</dd></div>
+        ${t.price.balance_note ? `<div><dt>From the accounts</dt><dd>${esc(t.price.balance_note)}</dd></div>` : ''}
         <div><dt>At the middle price</dt><dd>${pct(t.price.irr_mid)} a year, ${t.price.moic_mid.toFixed(1)} times the money. One turn more or less at exit moves this to ${pct(t.price.irr_exit_plus1)} or ${pct(t.price.irr_exit_minus1)}.</dd></div>
         ${t.price.notes ? `<div><dt>Market note</dt><dd>${esc(t.price.notes)}</dd></div>` : ''}
       </dl>` : ''}
@@ -372,17 +376,19 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
 if (D.val) {
   const V = D.val, A2 = V.assumptions;
   document.getElementById('price-section').hidden = false;
-  const res = c => c.walk_away_mult >= c.mult_mid ? ['res-ok', 'Clears 20% at a typical price'] : c.walk_away_mult >= c.mult_low ? ['res-mid', 'Only at the low end'] : ['res-no', 'Not within the range'];
+  const res = c => c.walk_away_mult >= c.mult_mid ? ['res-ok', 'Yes, at a typical price'] : c.walk_away_mult >= c.mult_low ? ['res-mid', 'Only at the low end'] : ['res-no', 'No'];
   const ok = V.companies.filter(c => c.walk_away_mult >= c.mult_low).length;
   document.getElementById('price-verdict').textContent = ok
     ? `${ok} of ${V.companies.length} ${ok === 1 ? 'clears' : 'clear'} a 20% buyout return somewhere in ${ok === 1 ? 'its' : 'their'} price range. For the rest, a buyer would need to pay less than the market usually asks, or count on growth and a higher exit price.`
     : `None of the ${V.companies.length} clears a 20% buyout return inside its price range. A buyer would need to pay less than the market usually asks, or count on growth and a higher exit price.`;
-  document.getElementById('price-body').innerHTML = V.companies.map(c => { const [cls, txt] = res(c); return `<tr><td class="num">${c.rank}</td><td><b>${esc(c.company)}</b>${c.notes ? `<small>${esc(c.notes)}</small>` : ''}</td><td class="num">${money(c.ebitda)}</td><td>${esc(c.basis)}<small>${c.mult_low.toFixed(1)}–${c.mult_high.toFixed(1)}x EBITDA${c.small_discount ? ', small-size discount' : ''}</small></td><td class="num">${money(c.ev_low)}–${money(c.ev_high)}</td><td class="num">${c.walk_away_mult.toFixed(1)}x<small>${money(c.walk_away_ev)}</small></td><td class="${cls}">${txt}</td></tr>`; }).join('');
+  const nd = v => v == null ? '–' : v <= 0 ? money(-v) : `(${money(v)})`;
+  const eq = (lo, hi) => lo == null ? '–' : hi <= 0 ? 'Nil' : `${lo <= 0 ? 'Nil' : money(lo)}–${money(hi)}`;
+  document.getElementById('price-body').innerHTML = V.companies.map(c => { const [cls, txt] = res(c); return `<tr><td class="num">${c.rank}</td><td><b>${esc(c.company)}</b><small>${esc(c.basis)}, ${c.mult_low.toFixed(1)}–${c.mult_high.toFixed(1)}x EBITDA${c.small_discount ? ' (small-size discount)' : ''}${c.currency !== 'GBP' ? `. Accounts in ${c.currency}, converted to pounds` : ''}</small>${c.notes ? `<small>${esc(c.notes)}</small>` : ''}</td><td class="num">${money(c.ebitda)}</td><td class="num">${c.cash_conversion != null ? pct(c.cash_conversion) : '<small>not shown</small>'}</td><td class="num">${money(c.ev_low)}–${money(c.ev_high)}</td><td class="num">${nd(c.net_debt)}</td><td class="num"><b>${eq(c.equity_low, c.equity_high)}</b></td><td class="num">${c.walk_away_mult.toFixed(1)}x<small>${money(c.walk_away_ev)}</small></td><td class="${cls}">${txt}</td></tr>`; }).join('');
   const B = V.benchmarks;
   const item = (title, rows) => `<div><dt><b>${title}</b></dt><dd>${rows.map(r => `<p style="margin-bottom:8px"><a href="${esc(r.source)}">${esc(r.name)}</a>${r.what ? `, ${esc(r.what.charAt(0).toLowerCase() + r.what.slice(1))}` : ''}: ${esc(r.multiple || r.fact || '')}.${r.detail ? ` ${esc(r.detail)}.` : ''}${r.use ? ` ${esc(r.use)}.` : ''}${r.read ? ` ${esc(r.read)}` : ''}</p>`).join('')}</dd></div>`;
   document.getElementById('price-bench').innerHTML = item('Listed peers', B.listed_peers) + item('Deals', B.deals) + item('Listed infrastructure funds', B.listed_infrastructure_funds)
     + `<div><dt><b>Price ranges used</b></dt><dd><p style="margin-bottom:8px">Repeat-revenue businesses: ${A2.multiple_ranges.recurring_services.low}–${A2.multiple_ranges.recurring_services.high}x EBITDA. ${esc(A2.multiple_ranges.recurring_services.why)}</p><p>Project contractors: ${A2.multiple_ranges.project_contractors.low}–${A2.multiple_ranges.project_contractors.high}x. ${esc(A2.multiple_ranges.project_contractors.why)} Companies with EBITDA under £${A2.multiple_ranges.small_ebitda_threshold_gbp/1e6}m take ${A2.multiple_ranges.small_ebitda_discount}x off.</p></dd></div>`;
-  document.getElementById('price-note').textContent = `Buyer's case: borrow ${A2.debt_turns_recurring}x EBITDA (${A2.debt_turns_contractor}x for contractors) at ${Math.round(A2.interest_rate*1000)/10}% interest, grow at half the historic rate (capped at ${Math.round(A2.growth_cap*100)}% a year), use spare cash to repay debt, and sell after ${A2.hold_years} years at the same multiple it paid. Prices are enterprise values: debt and cash on each balance sheet would change what is paid for the shares. Illustrative only, from public information; not a valuation or advice. Prices as of ${fmtDate(V.as_of)}.`;
+  document.getElementById('price-note').textContent = `Buyer's case: borrow ${A2.debt_turns_recurring}x EBITDA (${A2.debt_turns_contractor}x for contractors) at ${Math.round(A2.interest_rate*1000)/10}% interest, grow at half the historic rate (capped at ${Math.round(A2.growth_cap*100)}% a year), use spare cash to repay debt, and sell after ${A2.hold_years} years at the same multiple it paid. Where a filing has a cash flow statement, the buyer's case uses that company's actual capital spending and cash conversion. Debt and cash are as at each company's latest year end. Illustrative only, from public information; not a valuation or advice. Prices as of ${fmtDate(V.as_of)}.`;
 }
 
 // All ranked companies, with filters
