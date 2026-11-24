@@ -31,15 +31,14 @@ CLARUS NETWORKS LIMITED {
   "Cash of \u00a33.2m and net assets of \u00a35.5m"
  ],
  "checks": [
-  "Sales up 46% in one year: check how much came from acquisitions or one-off contracts",
   "Figures were read from the text of the accounts: check them against the filing",
+  "Operating profit includes \u00a31.2m of R&D tax credit (RDEC) income; without it the operating margin is 10.7%, not 15.2%: price off the lower figure unless the credit recurs",
   "Depends on Starlink and other satellite operators as suppliers; 22% of sales outside the UK",
   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
  ],
  "history": [],
  "ebitda": 4293641.0,
- "interest_cover": 111.52025633268242,
- "revenue_mix": "Equipment sales and installation alongside recurring
+ "interest_cover":
 ALERT COMMUNICATIONS LIMITED {
  "rank": 3,
  "confidence": "Low",

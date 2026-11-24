@@ -2,37 +2,36 @@
   OV = pd.read_csv(f'{CFG}/demand_driver_overrides.csv', dtype={'CompanyNumber': str}).fillna('').set_index('CompanyNumber')
 ## Deal types and correlation (2026-11-24)
 
-**The top 10 is about 6 independent bets, not 10.**
+**The top 10 is about 4 independent bets, not 10: 33% of it depends on altnet funding and interest rates.**
 
-Correlation flag for the top 10: **GREEN** (amber at 30% of the top 10 on one macro factor, red at 50%).
+Correlation flag for the top 10: **AMBER** (amber when 30% of the top 10, weighted by each company's share of sales, depends on one macro factor; red at 50%).
 
-| Rank | Company | Deal type | Suits | Main demand driver | Macro factor |
+| Rank | Company | Deal type | Suits | Sales depend on | Main macro factor |
 |---|---|---|---|---|---|
-| 1 | VEA Group | High-growth | Growth and mid-market PE | Altnet and operator network build | Altnet funding and interest rates |
-| 2 | Clarus Networks | High-growth | Growth and mid-market PE | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
-| 3 | Alert Communications | Steady compounder | Core and core-plus infrastructure funds | Mobile, radio and critical comms | Mobile operator and emergency-services spend |
-| 4 | The Networking People (TNP) | Steady compounder | Core and core-plus infrastructure funds | Public sector budgets | Government spending |
-| 5 | Dstny Global Services UK | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) | SME IT and telecoms spending |
-| 6 | MAP Group (UK) | Between buckets | Depends on the reason given | Altnet and operator network build | Altnet funding and interest rates |
-| 7 | Satcom Global | Between buckets | Depends on the reason given | Offshore energy and maritime | Offshore oil, gas, wind and shipping activity |
-| 8 | Barclay Digital Services | Between buckets | Depends on the reason given | Business telecoms (SME) | SME IT and telecoms spending |
-| 9 | Rapid Response Telecoms | High-growth | Growth and mid-market PE | Utility and civil construction | Construction and utility capex |
-| 10 | Heneghan Holdings | Under pressure | None until a fix is identified | Utility and civil construction | Construction and utility capex |
+| 1 | VEA Group | High-growth | Growth and mid-market PE | Altnet and operator network build 85%; Utility and civil construction 15% | Altnet funding and interest rates |
+| 2 | Clarus Networks | High-growth | Growth and mid-market PE | Offshore energy and maritime 50%; Public sector budgets 25%; Utility and civil construction 25% | Offshore oil, gas, wind and shipping activity |
+| 3 | Alert Communications | Steady compounder | Core and core-plus infrastructure funds | Public sector budgets 100% | Government spending |
+| 4 | The Networking People (TNP) | Steady compounder | Core and core-plus infrastructure funds | Public sector budgets 85%; Business telecoms (SME) 15% | Government spending |
+| 5 | Dstny Global Services UK | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) 100% | SME IT and telecoms spending |
+| 6 | MAP Group (UK) | Between buckets | Depends on the reason given | Altnet and operator network build 75%; Utility and civil construction 15%; Public sector budgets 10% | Altnet funding and interest rates |
+| 7 | Satcom Global | Between buckets | Depends on the reason given | Offshore energy and maritime 70%; Public sector budgets 30% | Offshore oil, gas, wind and shipping activity |
+| 8 | Barclay Digital Services | Between buckets | Depends on the reason given | Business telecoms (SME) 90%; Public sector budgets 10% | SME IT and telecoms spending |
+| 9 | Rapid Response Telecoms | High-growth | Growth and mid-market PE | Altnet and operator network build 80%; Utility and civil construction 20% | Altnet funding and interest rates |
+| 10 | Heneghan Holdings | Under pressure | None until a fix is identified | Altnet and operator network build 90%; Utility and civil construction 10% | Altnet funding and interest rates |
 
 **Macro factors in the top 10**
 
-- Altnet funding and interest rates: 2 of 10 (green), VEA Group, MAP Group (UK)
-- Offshore oil, gas, wind and shipping activity: 2 of 10 (green), Clarus Networks, Satcom Global
-- SME IT and telecoms spending: 2 of 10 (green), Dstny Global Services UK, Barclay Digital Services
-- Construction and utility capex: 2 of 10 (green), Rapid Response Telecoms, Heneghan Holdings
-- Mobile operator and emergency-services spend: 1 of 10 (green), Alert Communications
-- Government spending: 1 of 10 (green), The Networking People (TNP)
+- Altnet funding and interest rates: 33% of the top 10 (amber), Heneghan Holdings (90%), VEA Group (85%), Rapid Response Telecoms (80%), MAP Group (UK) (75%)
+- Government spending: 26% of the top 10 (green), Alert Communications, The Networking People (TNP) (85%), Satcom Global (30%), Clarus Networks (25%), MAP Group (UK) (10%), Barclay Digital Services (10%)
+- SME IT and telecoms spending: 20% of the top 10 (green), Dstny Global Services UK, Barclay Digital Services (90%), The Networking People (TNP) (15%)
+- Offshore oil, gas, wind and shipping activity: 12% of the top 10 (green), Satcom Global (70%), Clarus Networks (50%)
+- Construction and utility capex: 9% of the top 10 (green), Clarus Networks (25%), Rapid Response Telecoms (20%), VEA Group (15%), MAP Group (UK) (15%), Heneghan Holdings (10%)
 
 Top 20: about 5 independent bets (flag amber).
 
 Deal types across all ranked companies: Between buckets 15, Under pressure 15, High-growth 7, Steady compounder 5, Numbers to check 4.
 Watchlist (21 loss-making companies): Under pressure 12, Growth infrastructure 9.
 
-_Drivers for the top 20 are judgement calls from business descriptions (see config/demand_driver_overrides.csv); the rest come from rules and should be confirmed. Growth is one year only._
+_Splits for the top 10 are estimated from the accounts and web checks (config/demand_driver_split.csv); companies with two named drivers are assumed 70/30; the rest come from judgement or rules and should be confirmed._
 
 Saved lenses_latest.csv, correlation_latest.json and correlation_report.md in data/outputs/
