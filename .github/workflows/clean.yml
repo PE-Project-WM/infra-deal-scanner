@@ -8,6 +8,7 @@ on:
     paths:
       - 'scripts/clean.py'
       - 'scripts/score.py'
+      - 'scripts/history.py'
       - 'config/**'
       - 'data/inputs/**'
       - '.github/workflows/clean.yml'
@@ -32,6 +33,7 @@ jobs:
         run: |
           set -o pipefail
           python scripts/clean.py 2>&1 | tee data/outputs/clean_log.txt
+          python scripts/history.py 2>&1 | tee data/outputs/history_log.txt
           python scripts/score.py 2>&1 | tee data/outputs/score_log.txt
       - name: Save the results back to the repository
         if: always()

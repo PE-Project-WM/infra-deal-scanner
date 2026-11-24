@@ -1,15 +1,17 @@
 {
  "date": "2026-11-24",
  "checked_since": "2026-08-26",
- "previous_scored_on": "2026-11-22",
- "headline": "0 new in the top 10, 0 dropped out, 0 moved within it",
+ "previous_scored_on": "2026-11-24",
+ "headline": "Scoring method updated (v3): 1 new in the top 10, 1 dropped out, 10 moved within it",
+ "method_changed": true,
+ "method_version": "v3",
  "events_count": 11,
  "companies_checked": 73,
  "top10": [
   {
    "rank": 1,
    "company": "VEA Group",
-   "score": 96.0,
+   "score": 91.8,
    "fit": "IN",
    "segment": "Building and maintaining telecoms and utility networks",
    "turnover": 32560948.0,
@@ -17,59 +19,19 @@
    "access": "Low-Medium",
    "access_note": "UK arm of an overseas founder group, carve-out needed",
    "town": "Bracknell",
+   "confidence": "High",
    "pts": {
     "revenue_visibility": 22.5,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
-    "margin_quality": 13.5,
-    "data_completeness": 15.0,
-    "debt_capacity": 10.0
+    "margin_quality": 19.3,
+    "balance_sheet": 15.0
    }
   },
   {
    "rank": 2,
-   "company": "The Networking People (TNP)",
-   "score": 88.6,
-   "fit": "IN",
-   "segment": "Other telecoms networks",
-   "turnover": 18099102.0,
-   "margin": 0.127,
-   "access": "Low",
-   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
-   "town": "Lancaster",
-   "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
-    "size_fit": 13.6,
-    "margin_quality": 8.5,
-    "data_completeness": 15.0,
-    "debt_capacity": 9.0
-   }
-  },
-  {
-   "rank": 3,
-   "company": "Satcom Global",
-   "score": 86.0,
-   "fit": "IN",
-   "segment": "Satellite networks",
-   "turnover": 36305200.0,
-   "margin": 0.138,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "North Shields",
-   "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
-    "size_fit": 15.0,
-    "margin_quality": 8.9,
-    "data_completeness": 12.0,
-    "debt_capacity": 7.6
-   }
-  },
-  {
-   "rank": 4,
    "company": "Clarus Networks",
-   "score": 85.7,
+   "score": 84.6,
    "fit": "IN",
    "segment": "Wireless networks, towers and fixed wireless",
    "turnover": 26680567.0,
@@ -77,39 +39,59 @@
    "access": "High",
    "access_note": "founder-owned, proprietary approach possible",
    "town": "Bathgate",
+   "confidence": "Low",
    "pts": {
     "revenue_visibility": 22.5,
     "strategy_fit": 20.0,
     "size_fit": 15.0,
-    "margin_quality": 9.8,
-    "data_completeness": 9.0,
-    "debt_capacity": 9.4
+    "margin_quality": 13.1,
+    "balance_sheet": 14.0
+   }
+  },
+  {
+   "rank": 3,
+   "company": "The Networking People (TNP)",
+   "score": 83.0,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 18099102.0,
+   "margin": 0.127,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "Lancaster",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 12.0,
+    "balance_sheet": 13.5
+   }
+  },
+  {
+   "rank": 4,
+   "company": "Satcom Global",
+   "score": 79.2,
+   "fit": "IN",
+   "segment": "Satellite networks",
+   "turnover": 36305200.0,
+   "margin": 0.138,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "North Shields",
+   "confidence": "Medium",
+   "pts": {
+    "revenue_visibility": 22.5,
+    "strategy_fit": 20.0,
+    "size_fit": 15.0,
+    "margin_quality": 11.4,
+    "balance_sheet": 10.3
    }
   },
   {
    "rank": 5,
-   "company": "MAP Group (UK)",
-   "score": 80.0,
-   "fit": "IN",
-   "segment": "Other telecoms networks",
-   "turnover": 75597498.0,
-   "margin": 0.24,
-   "access": "Low",
-   "access_note": "employee-owned, rarely for sale",
-   "town": "Stockton-On-Tees",
-   "pts": {
-    "revenue_visibility": 8.8,
-    "strategy_fit": 20.0,
-    "size_fit": 15.0,
-    "margin_quality": 12.8,
-    "data_completeness": 15.0,
-    "debt_capacity": 8.4
-   }
-  },
-  {
-   "rank": 6,
    "company": "Dstny Global Services UK",
-   "score": 76.9,
+   "score": 77.7,
    "fit": "ADJACENT",
    "segment": "Other telecoms networks",
    "turnover": 12584106.0,
@@ -117,37 +99,77 @@
    "access": "Check",
    "access_note": "ownership not found",
    "town": "Newport Pagnell",
+   "confidence": "Medium",
    "pts": {
     "revenue_visibility": 17.5,
     "strategy_fit": 12.0,
-    "size_fit": 9.4,
-    "margin_quality": 15.0,
-    "data_completeness": 15.0,
-    "debt_capacity": 8.0
+    "size_fit": 15.0,
+    "margin_quality": 21.2,
+    "balance_sheet": 12.0
+   }
+  },
+  {
+   "rank": 6,
+   "company": "Alert Communications",
+   "score": 73.9,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 10761040.0,
+   "margin": 0.32,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "London",
+   "confidence": "Low",
+   "pts": {
+    "revenue_visibility": 12.5,
+    "strategy_fit": 12.0,
+    "size_fit": 15.0,
+    "margin_quality": 21.2,
+    "balance_sheet": 13.2
    }
   },
   {
    "rank": 7,
-   "company": "C.A. Telecom UK",
-   "score": 76.4,
-   "fit": "IN",
-   "segment": "Building and maintaining telecoms and utility networks",
-   "turnover": 18385935.0,
-   "margin": 0.135,
-   "access": "Medium",
-   "access_note": "owned via a UK holding company",
-   "town": "Whitstable",
+   "company": "Barclay Digital Services",
+   "score": 73.6,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 17547732.0,
+   "margin": 0.222,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Belfast",
+   "confidence": "Low",
    "pts": {
-    "revenue_visibility": 8.8,
-    "strategy_fit": 20.0,
-    "size_fit": 13.8,
-    "margin_quality": 8.8,
-    "data_completeness": 15.0,
-    "debt_capacity": 10.0
+    "revenue_visibility": 17.5,
+    "strategy_fit": 12.0,
+    "size_fit": 15.0,
+    "margin_quality": 16.7,
+    "balance_sheet": 12.4
    }
   },
   {
    "rank": 8,
+   "company": "MAP Group (UK)",
+   "score": 73.1,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 75597498.0,
+   "margin": 0.24,
+   "access": "Low",
+   "access_note": "employee-owned, rarely for sale",
+   "town": "Stockton-On-Tees",
+   "confidence": "Medium",
+   "pts": {
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
+    "size_fit": 13.8,
+    "margin_quality": 17.8,
+    "balance_sheet": 12.7
+   }
+  },
+  {
+   "rank": 9,
    "company": "A-2-Sea Solutions",
    "score": 73.0,
    "fit": "IN",
@@ -157,97 +179,602 @@
    "access": "High",
    "access_note": "founder-owned, proprietary approach possible",
    "town": "Romsey",
+   "confidence": "Medium",
    "pts": {
     "revenue_visibility": 8.8,
     "strategy_fit": 20.0,
-    "size_fit": 11.4,
-    "margin_quality": 11.0,
-    "data_completeness": 12.0,
-    "debt_capacity": 9.8
-   }
-  },
-  {
-   "rank": 9,
-   "company": "Barclay Digital Services",
-   "score": 72.0,
-   "fit": "ADJACENT",
-   "segment": "Other telecoms networks",
-   "turnover": 17547732.0,
-   "margin": 0.222,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "Belfast",
-   "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 12.0,
-    "size_fit": 13.2,
-    "margin_quality": 12.1,
-    "data_completeness": 9.0,
-    "debt_capacity": 8.2
+    "size_fit": 15.0,
+    "margin_quality": 14.5,
+    "balance_sheet": 14.7
    }
   },
   {
    "rank": 10,
-   "company": "Siteground Hosting",
-   "score": 70.7,
-   "fit": "ADJACENT",
-   "segment": "Data centres, data processing and hosting",
-   "turnover": 48984027.0,
-   "margin": 0.051,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "London",
+   "company": "C.A. Telecom UK",
+   "score": 66.7,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 18385935.0,
+   "margin": 0.135,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Whitstable",
+   "confidence": "High",
    "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 12.0,
+    "revenue_visibility": 8.8,
+    "strategy_fit": 20.0,
     "size_fit": 15.0,
-    "margin_quality": 5.7,
-    "data_completeness": 12.0,
-    "debt_capacity": 8.5
+    "margin_quality": 7.9,
+    "balance_sheet": 15.0
    }
   }
  ],
  "top10_moves": [
   {
+   "company": "VEA Group",
+   "number": "13433533",
+   "kind": "same",
+   "from": 1,
+   "to": 1,
+   "score_from": 96.0,
+   "score_to": 91.8,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Clarus Networks",
+   "number": "SC492820",
+   "kind": "up",
+   "from": 4,
+   "to": 2,
+   "score_from": 85.7,
+   "score_to": 84.6,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Networking People (TNP)",
+   "number": "07667393",
+   "kind": "down",
+   "from": 2,
+   "to": 3,
+   "score_from": 88.6,
+   "score_to": 83.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
    "company": "Satcom Global",
    "number": "05208041",
-   "kind": "same",
+   "kind": "down",
    "from": 3,
-   "to": 3,
+   "to": 4,
    "score_from": 86.0,
-   "score_to": 86.0,
-   "reasons": [],
+   "score_to": 79.2,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
    "events": [
     "Director resigned (2026-09-02): Leydon, Chris resigned"
    ]
-  }
- ],
- "all_moves": [
+  },
+  {
+   "company": "Dstny Global Services UK",
+   "number": "08414530",
+   "kind": "up",
+   "from": 6,
+   "to": 5,
+   "score_from": 76.9,
+   "score_to": 77.7,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
   {
    "company": "Alert Communications",
    "number": "03912906",
-   "kind": "same",
+   "kind": "up",
    "from": 24,
-   "to": 24,
-   "score_from": 62.2,
-   "score_to": 62.4,
+   "to": 6,
+   "score_from": 62.4,
+   "score_to": 73.9,
    "reasons": [
-    "turnover \u00a310.6m \u2192 \u00a310.8m",
-    "margin 34% \u2192 32%"
+    "scoring method changed (v1 to v3)"
    ],
    "events": [
     "Director appointed (2026-11-04): Britton, Cara Marie appointed"
    ]
   },
   {
+   "company": "Barclay Digital Services",
+   "number": "NI624500",
+   "kind": "up",
+   "from": 9,
+   "to": 7,
+   "score_from": 72.0,
+   "score_to": 73.6,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "MAP Group (UK)",
+   "number": "02853596",
+   "kind": "down",
+   "from": 5,
+   "to": 8,
+   "score_from": 80.0,
+   "score_to": 73.1,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "A-2-Sea Solutions",
+   "number": "03223673",
+   "kind": "down",
+   "from": 8,
+   "to": 9,
+   "score_from": 73.0,
+   "score_to": 73.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "C.A. Telecom UK",
+   "number": "06011062",
+   "kind": "down",
+   "from": 7,
+   "to": 10,
+   "score_from": 76.4,
+   "score_to": 66.7,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Siteground Hosting",
+   "number": "09348602",
+   "kind": "down",
+   "from": 10,
+   "to": 11,
+   "score_from": 70.7,
+   "score_to": 64.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  }
+ ],
+ "all_moves": [
+  {
+   "company": "Fourway Communication",
+   "number": "00714431",
+   "kind": "out",
+   "from": 39,
+   "to": null,
+   "score_from": 58.0,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "A L S Civil Engineers",
+   "number": "00902151",
+   "kind": "out",
+   "from": 54,
+   "to": null,
+   "score_from": 54.3,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Alpha Construction",
+   "number": "01675457",
+   "kind": "out",
+   "from": 64,
+   "to": null,
+   "score_from": 51.3,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avoira",
+   "number": "01763970",
+   "kind": "down",
+   "from": 21,
+   "to": 22,
+   "score_from": 63.0,
+   "score_to": 47.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "MBA Group",
+   "number": "02343859",
+   "kind": "out",
+   "from": 49,
+   "to": null,
+   "score_from": 55.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Getech",
+   "number": "02436537",
+   "kind": "out",
+   "from": 62,
+   "to": null,
+   "score_from": 51.7,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "BDR Voice & Data Solutions",
+   "number": "02652955",
+   "kind": "up",
+   "from": 42,
+   "to": 25,
+   "score_from": 57.3,
+   "score_to": 44.2,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Scci Alphatrack",
+   "number": "02760731",
+   "kind": "up",
+   "from": 17,
+   "to": 14,
+   "score_from": 65.7,
+   "score_to": 60.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Chess",
+   "number": "02797895",
+   "kind": "up",
+   "from": 45,
+   "to": 19,
+   "score_from": 56.7,
+   "score_to": 55.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "MAP Group (UK)",
+   "number": "02853596",
+   "kind": "down",
+   "from": 5,
+   "to": 8,
+   "score_from": 80.0,
+   "score_to": 73.1,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Teligent",
+   "number": "02893478",
+   "kind": "out",
+   "from": 58,
+   "to": null,
+   "score_from": 52.2,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Corporate Direct (Europe)",
+   "number": "02946493",
+   "kind": "out",
+   "from": 68,
+   "to": null,
+   "score_from": 47.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ferns Surfacing",
+   "number": "03193093",
+   "kind": "up",
+   "from": 66,
+   "to": 23,
+   "score_from": 50.6,
+   "score_to": 46.8,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "A-2-Sea Solutions",
+   "number": "03223673",
+   "kind": "down",
+   "from": 8,
+   "to": 9,
+   "score_from": 73.0,
+   "score_to": 73.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Elitetele.Com",
+   "number": "03228824",
+   "kind": "up",
+   "from": 27,
+   "to": 20,
+   "score_from": 61.5,
+   "score_to": 54.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ACS Construction Group",
+   "number": "03320855",
+   "kind": "out",
+   "from": 25,
+   "to": null,
+   "score_from": 62.2,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Wingnut Utilities",
+   "number": "03368473",
+   "kind": "out",
+   "from": 35,
+   "to": null,
+   "score_from": 59.4,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Trustco Plc.",
+   "number": "03476994",
+   "kind": "out",
+   "from": 59,
+   "to": null,
+   "score_from": 52.0,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "5G Communications",
+   "number": "03513467",
+   "kind": "out",
+   "from": 31,
+   "to": null,
+   "score_from": 60.3,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Windsor Telecom",
+   "number": "03752620",
+   "kind": "up",
+   "from": 28,
+   "to": 13,
+   "score_from": 60.7,
+   "score_to": 63.3,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Medhurst Communications",
+   "number": "03868503",
+   "kind": "up",
+   "from": 51,
+   "to": 26,
+   "score_from": 55.5,
+   "score_to": 44.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "up",
+   "from": 24,
+   "to": 6,
+   "score_from": 62.4,
+   "score_to": 73.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": [
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  },
+  {
+   "company": "GO Green",
+   "number": "04073354",
+   "kind": "out",
+   "from": 18,
+   "to": null,
+   "score_from": 64.2,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "FLR Spectron",
+   "number": "04085164",
+   "kind": "down",
+   "from": 15,
+   "to": 18,
+   "score_from": 67.8,
+   "score_to": 55.8,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "I.P. Integration",
+   "number": "04210561",
+   "kind": "up",
+   "from": 19,
+   "to": 16,
+   "score_from": 64.1,
+   "score_to": 56.7,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Babble Cloud",
+   "number": "04213760",
+   "kind": "same",
+   "from": 12,
+   "to": 12,
+   "score_from": 69.8,
+   "score_to": 63.6,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VCG Technology Services",
+   "number": "04380546",
+   "kind": "out",
+   "from": 48,
+   "to": null,
+   "score_from": 56.0,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "NEW Technology Group Holdings PLC",
+   "number": "04503928",
+   "kind": "out",
+   "from": 71,
+   "to": null,
+   "score_from": 40.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Radiocoms Systems",
+   "number": "04544886",
+   "kind": "out",
+   "from": 29,
+   "to": null,
+   "score_from": 60.6,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Spectra Group (UK)",
+   "number": "04570376",
+   "kind": "up",
+   "from": 56,
+   "to": 30,
+   "score_from": 53.5,
+   "score_to": 40.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Telappliant",
+   "number": "04632756",
+   "kind": "up",
+   "from": 60,
+   "to": 29,
+   "score_from": 51.8,
+   "score_to": 41.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
    "company": "F C E Projects",
    "number": "05206348",
-   "kind": "same",
+   "kind": "out",
    "from": 16,
-   "to": 16,
+   "to": null,
    "score_from": 65.9,
-   "score_to": 65.9,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
    "events": [
     "New owner (2026-10-16): Bc Bidco 6 Limited registered as a person with significant control",
     "Owner left (2026-10-16): Ian Alexander Cole ceased to be a person with significant control",
@@ -259,55 +786,544 @@
   {
    "company": "Satcom Global",
    "number": "05208041",
-   "kind": "same",
+   "kind": "down",
    "from": 3,
-   "to": 3,
+   "to": 4,
    "score_from": 86.0,
-   "score_to": 86.0,
-   "reasons": [],
+   "score_to": 79.2,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
    "events": [
     "Director resigned (2026-09-02): Leydon, Chris resigned"
    ]
   },
   {
+   "company": "Taylor Plant",
+   "number": "05556360",
+   "kind": "out",
+   "from": 20,
+   "to": null,
+   "score_from": 63.5,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Fieldway Compliance",
+   "number": "05743944",
+   "kind": "out",
+   "from": 63,
+   "to": null,
+   "score_from": 51.4,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Nomios UK&I",
+   "number": "05787755",
+   "kind": "up",
+   "from": 30,
+   "to": 17,
+   "score_from": 60.6,
+   "score_to": 56.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Trust Utility Management",
+   "number": "05809155",
+   "kind": "out",
+   "from": 67,
+   "to": null,
+   "score_from": 50.5,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "C.A. Telecom UK",
+   "number": "06011062",
+   "kind": "down",
+   "from": 7,
+   "to": 10,
+   "score_from": 76.4,
+   "score_to": 66.7,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ridown Capital",
+   "number": "06521296",
+   "kind": "up",
+   "from": 38,
+   "to": 28,
+   "score_from": 58.6,
+   "score_to": 42.8,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Lily Communications",
+   "number": "07020016",
+   "kind": "up",
+   "from": 44,
+   "to": 21,
+   "score_from": 56.8,
+   "score_to": 49.1,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Egnaro",
+   "number": "07395042",
+   "kind": "out",
+   "from": 13,
+   "to": null,
+   "score_from": 69.6,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Networking People (TNP)",
+   "number": "07667393",
+   "kind": "down",
+   "from": 2,
+   "to": 3,
+   "score_from": 88.6,
+   "score_to": 83.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "SO Purple Group",
+   "number": "08187142",
+   "kind": "out",
+   "from": 53,
+   "to": null,
+   "score_from": 54.3,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Dstny Global Services UK",
+   "number": "08414530",
+   "kind": "up",
+   "from": 6,
+   "to": 5,
+   "score_from": 76.9,
+   "score_to": 77.7,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Abacus Information Technology UK",
+   "number": "08824522",
+   "kind": "up",
+   "from": 73,
+   "to": 32,
+   "score_from": 40.1,
+   "score_to": 33.1,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avidety",
+   "number": "09112352",
+   "kind": "out",
+   "from": 34,
+   "to": null,
+   "score_from": 59.4,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ICE Telecommunications",
+   "number": "09180490",
+   "kind": "out",
+   "from": 52,
+   "to": null,
+   "score_from": 54.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Damoco Bidco",
+   "number": "09317188",
+   "kind": "out",
+   "from": 14,
+   "to": null,
+   "score_from": 67.8,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Siteground Hosting",
+   "number": "09348602",
+   "kind": "down",
+   "from": 10,
+   "to": 11,
+   "score_from": 70.7,
+   "score_to": 64.0,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Huddle Utilities",
+   "number": "09380853",
+   "kind": "out",
+   "from": 36,
+   "to": null,
+   "score_from": 59.0,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Croft Communications",
+   "number": "09585068",
+   "kind": "out",
+   "from": 55,
+   "to": null,
+   "score_from": 54.3,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Cloudnimbus Holdings",
+   "number": "09820855",
+   "kind": "out",
+   "from": 40,
+   "to": null,
+   "score_from": 58.0,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
    "company": "Heneghan Holdings",
    "number": "09956206",
-   "kind": "same",
+   "kind": "out",
    "from": 37,
-   "to": 37,
+   "to": null,
    "score_from": 58.8,
-   "score_to": 58.8,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
    "events": [
     "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
     "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
    ]
   },
   {
+   "company": "Glenelly Infrastructure Solutions",
+   "number": "10021562",
+   "kind": "out",
+   "from": 43,
+   "to": null,
+   "score_from": 56.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Nano Fibre UK",
+   "number": "10174559",
+   "kind": "out",
+   "from": 26,
+   "to": null,
+   "score_from": 62.0,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Abzorb Group",
+   "number": "10779280",
+   "kind": "out",
+   "from": 57,
+   "to": null,
+   "score_from": 52.3,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
    "company": "Rapid Response Telecoms",
    "number": "11480193",
-   "kind": "same",
+   "kind": "out",
    "from": 46,
-   "to": 46,
+   "to": null,
    "score_from": 56.3,
-   "score_to": 56.3,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
    "events": [
     "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
    ]
   },
   {
+   "company": "Trust Group Ventures",
+   "number": "12027048",
+   "kind": "out",
+   "from": 69,
+   "to": null,
+   "score_from": 46.2,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VDC UK Management Company",
+   "number": "12361880",
+   "kind": "out",
+   "from": 33,
+   "to": null,
+   "score_from": 59.7,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Opus Tech",
+   "number": "12520403",
+   "kind": "out",
+   "from": 72,
+   "to": null,
+   "score_from": 40.8,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "QPC 2020",
+   "number": "12665741",
+   "kind": "out",
+   "from": 65,
+   "to": null,
+   "score_from": 50.7,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VEA Group",
+   "number": "13433533",
+   "kind": "same",
+   "from": 1,
+   "to": 1,
+   "score_from": 96.0,
+   "score_to": 91.8,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Micom Technologies",
+   "number": "13535125",
+   "kind": "out",
+   "from": 22,
+   "to": null,
+   "score_from": 62.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Solid Telecommunications",
+   "number": "13576894",
+   "kind": "up",
+   "from": 61,
+   "to": 27,
+   "score_from": 51.8,
+   "score_to": 43.2,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Talk Straight Holdings",
+   "number": "14354114",
+   "kind": "up",
+   "from": 70,
+   "to": 31,
+   "score_from": 41.9,
+   "score_to": 35.5,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
    "company": "Adman Civil Projects",
    "number": "NI064545",
-   "kind": "same",
+   "kind": "up",
    "from": 23,
-   "to": 23,
+   "to": 15,
    "score_from": 62.6,
-   "score_to": 62.6,
-   "reasons": [],
+   "score_to": 56.9,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
    "events": [
     "Charge satisfied (2026-10-14): Security for Ulster Bank Limited released (debt repaid or refinanced)"
    ]
+  },
+  {
+   "company": "M & M Contractors (Europe)",
+   "number": "NI614374",
+   "kind": "out",
+   "from": 41,
+   "to": null,
+   "score_from": 57.7,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "GCU (UK)",
+   "number": "NI620995",
+   "kind": "out",
+   "from": 32,
+   "to": null,
+   "score_from": 59.7,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Barclay Digital Services",
+   "number": "NI624500",
+   "kind": "up",
+   "from": 9,
+   "to": 7,
+   "score_from": 72.0,
+   "score_to": 73.6,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Mulholland Contracts",
+   "number": "SC064492",
+   "kind": "out",
+   "from": 50,
+   "to": null,
+   "score_from": 55.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Diona Construction",
+   "number": "SC278146",
+   "kind": "out",
+   "from": 11,
+   "to": null,
+   "score_from": 69.9,
+   "score_to": null,
+   "reasons": [
+    "needs a sector check before it can be ranked (new sector gate)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Clarus Networks",
+   "number": "SC492820",
+   "kind": "up",
+   "from": 4,
+   "to": 2,
+   "score_from": 85.7,
+   "score_to": 84.6,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Hutchison",
+   "number": "SC702923",
+   "kind": "up",
+   "from": 47,
+   "to": 24,
+   "score_from": 56.1,
+   "score_to": 44.5,
+   "reasons": [
+    "scoring method changed (v1 to v3)"
+   ],
+   "events": []
   }
  ],
  "events": [
@@ -389,5 +1405,5 @@
    "detail": "Leydon, Chris resigned"
   }
  ],
- "ranked": 73
+ "ranked": 32
 }

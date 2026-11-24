@@ -33,7 +33,13 @@ def nice(s):
     t = _re.sub(r'\(([A-Za-z]{2,4})\)', lambda m: '(' + m.group(1).upper() + ')', t)
     return t.replace('Ca Telecom', 'CA Telecom').replace('C.A.', 'C.A.')
 
+METHOD_NOW = str(new['method_version'].iloc[0]) if 'method_version' in new else 'v1'
+METHOD_PREV = str(prev['method_version'].iloc[0]) if 'method_version' in prev else 'v1'
+METHOD_CHANGED = METHOD_NOW != METHOD_PREV
+
 def component_reasons(n, p):
+    if METHOD_CHANGED:   # points are not comparable across scoring methods
+        return [f'scoring method changed ({METHOD_PREV} to {METHOD_NOW})']
     out = []
     for k in KEYS:
         d = float(n[f'pts_{k}']) - float(p[f'pts_{k}'])
@@ -76,7 +82,9 @@ for num in sorted(set(N.index) | set(P.index)):
     else:
         p = P.loc[num]
         why = clean.loc[clean['CompanyNumber'] == num, 'excluded_reason']
-        why = why.iloc[0] if len(why) and isinstance(why.iloc[0], str) and why.iloc[0] else 'no longer on the profitable shortlist'
+        why = why.iloc[0] if len(why) and isinstance(why.iloc[0], str) and why.iloc[0] else (
+            'needs a sector check before it can be ranked (new sector gate)' if METHOD_CHANGED and num in set(pd.read_csv(f'{OUT}/sector_check.csv', dtype={'CompanyNumber': str})['CompanyNumber'])
+            else 'no longer on the profitable shortlist')
         moves.append({'company': nice(p['CompanyName']), 'number': num, 'kind': 'out', 'from': int(p['rank']), 'to': None,
                       'score_from': float(p['score']), 'score_to': None, 'reasons': [why], 'events': evtext})
 
@@ -87,13 +95,16 @@ out_top = sorted(set(top_prev['CompanyNumber']) - set(top_now['CompanyNumber']))
 touch_top = sorted([m for m in moves if (m['to'] and m['to'] <= 10) or (m['from'] and m['from'] <= 10)], key=lambda m: (m['to'] or 99, m['from'] or 99))
 headline = (f"{len(in_top)} new in the top 10, {len(out_top)} dropped out, {len([m for m in touch_top if m['kind'] in ('up', 'down')])} moved within it"
             if (in_top or out_top or touch_top) else 'No changes to the top 10 this week')
+if METHOD_CHANGED:
+    headline = f"Scoring method updated ({METHOD_NOW}): {headline[0].lower() + headline[1:]}"
 update = {
     'date': today, 'checked_since': state.get('checked_since'), 'previous_scored_on': str(prev['scored_on'].iloc[0]) if 'scored_on' in prev else None,
-    'headline': headline, 'events_count': int(len(E)), 'companies_checked': state.get('companies_checked', len(new)),
+    'headline': headline, 'method_changed': METHOD_CHANGED, 'method_version': METHOD_NOW, 'events_count': int(len(E)), 'companies_checked': state.get('companies_checked', len(new)),
     'top10': [{'rank': int(r['rank']), 'company': nice(r['CompanyName']), 'score': float(r['score']), 'fit': r['relevance'],
                'segment': r['segment'], 'turnover': float(r['turnover']), 'margin': float(r['ebitda_margin']) if pd.notna(r['ebitda_margin']) else None,
                'access': str(r['accessibility']).split(':')[0], 'access_note': str(r['accessibility']).split(': ', 1)[-1],
                'town': str(r.get('RegAddress.PostTown', '')).title(),
+               'confidence': r.get('confidence'),
                'pts': {k: float(r[f'pts_{k}']) for k in KEYS}} for _, r in top_now.iterrows()],
     'top10_moves': touch_top, 'all_moves': moves,
     'events': E.head(40).to_dict('records'),

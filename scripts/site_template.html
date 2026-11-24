@@ -44,19 +44,21 @@ header .meta b{color:var(--ink2);font-weight:600}
 .t-dip{background:var(--dip-bg);color:var(--dip)}
 .t-growth{background:var(--growth-bg);color:var(--growth)}
 .t-between{background:var(--between-bg);color:var(--between)}
+.t-pressure{background:#f8e6e2;color:#9a3424}
+.t-infra{background:#e3f1f3;color:#0f6b73}
 
 /* type key above the table */
 .typekey{background:var(--paper);border:1px solid var(--rule);border-radius:8px;padding:22px 24px;margin-bottom:36px}
 .typekey>p{font-size:16px;color:var(--ink2);margin-bottom:16px}
-.keylist{display:grid;grid-template-columns:repeat(4,1fr);gap:18px 24px}
+.keylist{display:grid;grid-template-columns:repeat(5,1fr);gap:18px 22px}
 .keylist dt{margin-bottom:6px}
 .keylist dd{font-size:15px;line-height:1.5;color:var(--ink2)}
 @media (max-width:820px){.keylist{grid-template-columns:1fr 1fr}}
 @media (max-width:480px){.keylist{grid-template-columns:1fr}}
 /* top ten table */
-.tablehead,.row>summary{display:grid;grid-template-columns:52px 1fr 190px 74px 28px;gap:20px;align-items:center}
+.tablehead,.row>summary{display:grid;grid-template-columns:52px 1fr 180px 100px 64px 28px;gap:18px;align-items:center}
 .tablehead{padding:0 20px 10px;font-size:14px;font-weight:600;color:var(--mute);border-bottom:2px solid var(--ink)}
-.tablehead span:nth-child(4){text-align:right}
+.tablehead span:nth-child(5){text-align:right}
 .row{border-bottom:1px solid var(--rule)}
 .row>summary{list-style:none;cursor:pointer;padding:20px}
 .row>summary::-webkit-details-marker{display:none}
@@ -79,6 +81,32 @@ header .meta b{color:var(--ink2);font-weight:600}
 .key{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:8px;vertical-align:0}
 .bar span:last-child{text-align:right;color:var(--ink);font-variant-numeric:tabular-nums}
 
+/* confidence */
+.conf{font-size:14px;font-weight:600;display:inline-flex;align-items:center;gap:7px}
+.conf i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.c-High i{background:var(--steady)} .c-Medium i{background:#c98a16} .c-Low i{background:#b3402e}
+.more ul{padding-left:18px;margin-bottom:18px}
+.more li{margin-bottom:6px;line-height:1.45}
+.more ul.checks li::marker{color:var(--dip)}
+.hist{border-collapse:collapse;font-size:14.5px;margin:6px 0 20px;width:100%}
+.hist th,.hist td{padding:5px 8px 5px 0;text-align:right;border-bottom:1px solid var(--rule);font-variant-numeric:tabular-nums}
+.hist th:first-child,.hist td:first-child{text-align:left}
+.hist th{font-weight:600;color:var(--mute)}
+/* all companies */
+.filters{display:flex;flex-wrap:wrap;gap:14px 20px;margin-bottom:18px;align-items:end}
+.filters label{font-size:14px;font-weight:600;color:var(--ink2);display:grid;gap:5px}
+.filters select{font:inherit;font-size:15px;padding:7px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--paper);color:var(--ink);min-width:170px}
+.filters .count{font-size:15px;color:var(--mute);margin-left:auto}
+.tbl{width:100%;border-collapse:collapse;font-size:15.5px}
+.tbl th{font-size:14px;font-weight:600;color:var(--mute);text-align:left;padding:10px 12px 10px 0;border-bottom:2px solid var(--ink)}
+.tbl td{padding:12px 12px 12px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.tbl td.num,.tbl th.num{text-align:right;font-variant-numeric:tabular-nums}
+.tbl td small{display:block;color:var(--mute);font-size:14px}
+.scroll{overflow-x:auto}
+.limits{list-style:none;display:grid;grid-template-columns:repeat(2,1fr);gap:22px 40px;margin-top:8px}
+.limits li{font-size:16px;color:var(--ink2);padding-left:16px;border-left:3px solid var(--rule)}
+.limits b{display:block;color:var(--ink)}
+@media (max-width:820px){.limits{grid-template-columns:1fr}.filters .count{margin-left:0}}
 /* four bets */
 .verdict{font-size:22px;line-height:1.45;font-weight:600;max-width:46ch;margin-bottom:36px}
 .groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:32px}
@@ -122,6 +150,7 @@ footer p{max-width:80ch;margin-bottom:10px}
   .tablehead{display:none}
   .row>summary{grid-template-columns:36px 1fr 56px;gap:6px 12px;padding:18px 6px}
   .row>summary .typecell{grid-column:2/4;grid-row:2}
+  .row>summary .confcell{grid-column:2/4;grid-row:3}
   .chev{display:none}
   .more{grid-template-columns:1fr;padding:0 6px 24px}
   .facts div,.bar{grid-template-columns:120px 1fr}
@@ -148,17 +177,18 @@ footer p{max-width:80ch;margin-bottom:10px}
 
 <section class="band"><div class="wrap">
   <h2>The top ten</h2>
-  <p class="sub text">Scored out of 100 against a written investment case. Select a company to see what it does, its numbers and how the score is made up.</p>
+  <p class="sub text">Scored out of 100 against a written investment case. A high score means a good fit with that case, not a good price: valuation is not part of the score yet. Select a company for why it is on the list and what to check first.</p>
   <div class="typekey">
-    <p>The type of deal says what kind of investor a company suits. It is a label and does not change the score.</p>
+    <p>The type of deal says what kind of investor a company suits. Confidence says how far the figures behind the score can be trusted. Neither changes the score.</p>
   <dl class="keylist">
-    <div><dt><span class="type t-steady">Steady compounder</span></dt><dd>Mostly repeat revenue and steady margins. Suits infrastructure funds that want reliable income.</dd></div>
-    <div><dt><span class="type t-growth">High-growth</span></dt><dd>Sales up 25% or more in a year, with less predictable profit. Suits growth and mid-market private equity.</dd></div>
-    <div><dt><span class="type t-dip">Fixable dip</span></dt><dd>Sales falling or margins thin, with a possible fix still to be confirmed. Suits funds that buy and turn around.</dd></div>
-    <div><dt><span class="type t-between">Between types</span></dt><dd>Fits none cleanly, often because sales come project by project. The reason is shown for each company.</dd></div>
+    <div><dt><span class="type t-steady">Steady compounder</span></dt><dd>Repeat-type revenue and margins that have held steady. Suits infrastructure funds that want reliable income.</dd></div>
+    <div><dt><span class="type t-growth">High-growth</span></dt><dd>Sales growing 20%+ a year over several years (25%+ where only one year is known). Suits growth private equity.</dd></div>
+    <div><dt><span class="type t-dip">Fixable dip</span></dt><dd>Falling or thin results with a named problem and a fix. Suits funds that buy and turn around.</dd></div>
+    <div><dt><span class="type t-pressure">Under pressure</span></dt><dd>Falling or thin results with no fix identified yet. Not a buy until one is found.</dd></div>
+    <div><dt><span class="type t-between">Between types</span></dt><dd>Fits none cleanly, for example uneven margins or project-by-project sales.</dd></div>
   </dl>
   </div>
-  <div class="tablehead" aria-hidden="true"><span>Rank</span><span>Company</span><span>Type of deal</span><span>Score</span><span></span></div>
+  <div class="tablehead" aria-hidden="true"><span>Rank</span><span>Company</span><span>Type of deal</span><span>Confidence</span><span>Score</span><span></span></div>
   <div id="rank"></div>
 </div></section>
 
@@ -171,8 +201,27 @@ footer p{max-width:80ch;margin-bottom:10px}
 </div></section>
 
 <section class="band"><div class="wrap">
+  <h2 id="all-title">All ranked companies</h2>
+  <p class="sub text" id="all-sub"></p>
+  <div class="filters">
+    <label>Type of deal<select id="f-type"><option value="">All</option></select></label>
+    <label>Confidence<select id="f-conf"><option value="">All</option><option>High</option><option>Medium</option><option>Low</option></select></label>
+    <label>Ease of buying<select id="f-access"><option value="">All</option></select></label>
+    <label>Sector<select id="f-sector"><option value="">All</option></select></label>
+    <span class="count" id="f-count"></span>
+  </div>
+  <div class="scroll"><table class="tbl"><thead><tr><th class="num">Rank</th><th>Company</th><th>Sector</th><th>Type of deal</th><th>Confidence</th><th class="num">Sales</th><th class="num">Margin</th><th class="num">Score</th></tr></thead><tbody id="all-body"></tbody></table></div>
+</div></section>
+
+<section id="infra-section" hidden><div class="wrap">
+  <h2>Growth infrastructure watchlist</h2>
+  <p class="sub text">Loss-making companies that are still growing, often because they are building networks. They are not ranked, since a buyout needs profits to borrow against, but a growth infrastructure fund might look at them.</p>
+  <div class="scroll"><table class="tbl"><thead><tr><th>Company</th><th class="num">Sales</th><th>Why it is here</th></tr></thead><tbody id="infra-body"></tbody></table></div>
+</div></section>
+
+<section class="band"><div class="wrap">
   <h2>What the score is made of</h2>
-  <p class="sub text">The score adds up six things, each worth a set number of points.</p>
+  <p class="sub text">The score adds up five things, each worth a set number of points. How reliable the figures are is shown separately as a confidence rating, so a company is not ranked higher just because its accounts are easier to read.</p>
 
   <dl class="gloss criteria" id="gloss-score"></dl>
 </div></section>
@@ -181,6 +230,19 @@ footer p{max-width:80ch;margin-bottom:10px}
   <h2>What changed this week</h2>
   <p class="sub text" id="changes-sub"></p>
   <div id="changes"></div>
+</div></section>
+
+<section><div class="wrap">
+  <h2>Limits of this screen</h2>
+  <p class="sub text">The screen points to where to look. It does not yet tell you whether a deal is worth doing.</p>
+  <ul class="limits">
+    <li><b>No valuation yet</b>The score measures fit with the investment case. Price, comparable deals and returns are the next step.</li>
+    <li><b>Repeat revenue is estimated</b>Accounts do not split contracted from one-off sales, so this is judged from the type of business until contract data is gathered.</li>
+    <li><b>Balance sheet, not debt capacity</b>Net assets, cash, margin and interest cover where known. True debt capacity needs net debt, capital spending and cash conversion.</li>
+    <li id="lim-scanned"><b>Scanned accounts not read yet</b></li>
+    <li id="lim-sector"><b>Sector check pending</b></li>
+    <li><b>One label per company</b>Each company is grouped by its main source of demand. Most have several, and the split is not yet known.</li>
+  </ul>
 </div></section>
 
 <section class="band"><div class="wrap">
@@ -192,7 +254,7 @@ footer p{max-width:80ch;margin-bottom:10px}
     <li><b>Pull the register</b>All UK companies in the sector's industry codes.</li>
     <li><b>Read the accounts</b>Sales, profit, cash and owners from each filing.</li>
     <li><b>Check and clean</b>Owners traced, duplicates merged, off-topic firms removed.</li>
-    <li><b>Score and explain</b>Six weighted criteria, with every weekly move explained.</li>
+    <li><b>Score and explain</b>Five weighted criteria, confidence shown separately, every weekly move explained.</li>
   </ol>
 </div></section>
 </main>
@@ -211,19 +273,20 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const fmtDate = d => new Date(d + 'T12:00:00').toLocaleDateString('en-GB', {day:'numeric', month:'long', year:'numeric'});
 const money = v => '£' + (v/1e6).toFixed(1) + 'm';
 const pct = v => Math.round(v*100) + '%';
-const CCOL = {revenue_visibility:'#2463c7', strategy_fit:'#e2742a', size_fit:'#2e9a57', margin_quality:'#86563a', data_completeness:'#64707e', debt_capacity:'#7a4fd0'};
+const CCOL = {revenue_visibility:'#2463c7', strategy_fit:'#e2742a', size_fit:'#2e9a57', margin_quality:'#86563a', balance_sheet:'#7a4fd0'};
 const CRIT = {
-  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur, judged from the type of business.'],
-  strategy_fit: ['Fits the case', 'How closely the business matches the investment case.'],
-  size_fit: ['Right size', 'Sales close to the £20–100m sweet spot.'],
-  margin_quality: ['Profit margin', 'Operating profit before depreciation as a share of sales, and how steady sales are.'],
-  data_completeness: ['Reliable figures', 'Whether the accounts give clean, complete numbers.'],
-  debt_capacity: ['Room to borrow', 'Cash, net assets and margin, as a rough guide to how much debt it could carry.']
+  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur. Estimated for now from the type of business, until contract and customer data are gathered.'],
+  strategy_fit: ['Fits the case', 'How closely the business matches the investment case. Only companies confirmed to trade in the sector are ranked.'],
+  size_fit: ['Right size', 'EBITDA (profit before interest, tax and depreciation) in the £2–15m range most mid-market buyers target.'],
+  margin_quality: ['Profit margin', 'How high the EBITDA margin is and, where three or more years of accounts have been read, how steady it has been.'],
+  balance_sheet: ['Balance sheet', 'Net assets, cash and margin headroom, reduced where interest cover is thin. A first check, not a full measure of how much a buyer could borrow.']
 };
-const TYPE = {'Steady compounder':['t-steady','Steady compounder'], 'High-growth':['t-growth','High-growth'], 'Fixable dip':['t-dip','Fixable dip'],
+const TYPE = {'Steady compounder':['t-steady','Steady compounder'], 'High-growth':['t-growth','High-growth'], 'Fixable dip':['t-dip','Fixable dip'], 'Under pressure':['t-pressure','Under pressure'], 'Growth infrastructure':['t-infra','Growth infrastructure'],
               'Between buckets':['t-between','Between types'], 'Numbers to check':['t-between','Numbers to check']};
-const typeTag = l => { if (!l) return ''; const [c, t] = TYPE[l.deal_type] || ['t-between', l.deal_type]; return `<span class="type ${c}">${t}</span>`; };
-const ACCESS = {'High':'Easy: owned by its founders','Medium':'Possible','Low-Medium':'Harder','Low':'Hard: recently bought, or rarely sold','Check':'Not yet known'};
+const tagFor = d => { if (!d) return ''; const [c, t] = TYPE[d] || ['t-between', d]; return `<span class="type ${c}">${t}</span>`; };
+const typeTag = l => l ? tagFor(l.deal_type) : '';
+const confTag = c => c ? `<span class="conf c-${c}"><i></i>${c}</span>` : '';
+const ACCESS = {'High':'Easy','Medium':'Possible','Low-Medium':'Harder','Low':'Hard','Check':'Not yet known'};
 const COLORS = ['var(--f1)','var(--f2)','var(--f3)','var(--f4)','var(--f5)','var(--f6)'];
 
 document.getElementById('asof').textContent = 'Last updated ' + fmtDate(U.date);
@@ -232,40 +295,85 @@ document.getElementById('asof').textContent = 'Last updated ' + fmtDate(U.date);
 const t1 = U.top10[0];
 const counts = {};
 U.top10.forEach(t => { const k = t.lens ? t.lens.deal_type : ''; counts[k] = (counts[k]||0) + 1; });
+const confCount = {};
+U.top10.forEach(t => { confCount[t.confidence] = (confCount[t.confidence]||0) + 1; });
+const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
 const short = [
-  `<b>${esc(t1.company)} ranks first</b> with ${t1.score.toFixed(0)} out of 100: ${esc((t1.what||'').toLowerCase())}, sales of ${money(t1.turnover)}${t1.growth != null ? ` (up ${pct(t1.growth)} last year)` : ''} and a ${pct(t1.margin)} margin.`,
+  `<b>${esc(t1.company)} ranks first</b> with ${t1.score.toFixed(0)} out of 100: ${esc((t1.what||'').toLowerCase())}, sales of ${money(t1.turnover)} and a ${pct(t1.margin)} margin. A high score means a close fit with the investment case, not a good price.`,
 ];
 if (C) {
   const c = C.top_n;
   short.push(`<b>The ten are really about ${c.effective_bets.toFixed(0)} separate bets.</b> ${c.factors.filter(f => f.count >= 3).map(f => `${f.count} depend on ${esc(f.factor.charAt(0).toLowerCase() + f.factor.slice(1)).replace(/^sME/,'SME')}`).join(', ')}.`);
-  short.push(`<b>${counts['Steady compounder']||0} are steady compounders</b>, ${counts['High-growth']||0} are high-growth and ${counts['Fixable dip']||0} ${(counts['Fixable dip']||0) === 1 ? 'is a fixable dip' : 'are fixable dips'}, so the list has something for different kinds of fund.`);
+  const parts = [['Steady compounder','steady compounder','steady compounders'],['High-growth','high-growth','high-growth'],['Fixable dip','fixable dip','fixable dips'],['Under pressure','under pressure','under pressure'],['Between buckets','between types','between types']]
+    .filter(([k]) => counts[k]).map(([k, one, many]) => plural(counts[k], one, many));
+  short.push(`<b>Types of deal in the ten:</b> ${parts.join(', ')}.`);
 }
+short.push(`<b>Confidence in the figures:</b> ${['High','Medium','Low'].filter(k => confCount[k]).map(k => `${confCount[k]} ${k.toLowerCase()}`).join(', ')}. Low means the figures were read from text, estimated or cover fewer than three years.`);
 const evs = U.events_count ? `${U.events_count} new Companies House ${U.events_count === 1 ? 'filing was' : 'filings were'} found for the ranked companies.` : 'No new Companies House filings for the ranked companies since the last run.';
-short.push(U.top10_moves.length ? `<b>${esc(U.headline)}.</b> See what changed below.` : `<b>No change to the top ten this week.</b> ${evs}`);
+if (U.method_changed) short.push(`<b>The scoring method was tightened this week</b> after an outside review: data quality no longer adds to the score, size is judged on profit, margins are tested over several years, and only companies confirmed to trade in the sector are ranked.`);
+else short.push(U.top10_moves.length ? `<b>${esc(U.headline)}.</b> See what changed below.` : `<b>No change to the top ten this week.</b> ${evs}`);
 document.getElementById('short').innerHTML = short.map(s => `<li>${s}</li>`).join('');
 
 // Top ten
+const histTable = h => !h || !h.length ? '' : `<table class="hist"><thead><tr><th>Year</th>${h.map(x => `<th>${x.year}</th>`).join('')}</tr></thead><tbody>
+  <tr><td>Sales</td>${h.map(x => `<td>${money(x.sales)}</td>`).join('')}</tr>
+  <tr><td>${esc(h[h.length-1].basis === 'Operating profit' ? 'Operating margin' : 'Pre-tax margin')}</td>${h.map(x => `<td>${x.margin != null ? pct(x.margin) : '–'}</td>`).join('')}</tr></tbody></table>`;
 document.getElementById('rank').innerHTML = U.top10.map(t => {
-  const l = t.lens;
+  const l = t.lens, P = t.profile || {};
   const bars = Object.keys(W).map(k => `<div class="bar"><span><i class="key" style="background:${CCOL[k]}"></i>${CRIT[k][0]}</span><span class="track"><span class="fill" style="display:block;width:${(t.pts[k]/W[k]*100).toFixed(0)}%;background:${CCOL[k]}"></span></span><span>${t.pts[k].toFixed(0)}/${W[k]}</span></div>`).join('');
   return `<details class="row"><summary>
     <span class="rk">${t.rank}</span>
     <span class="co"><h3>${esc(t.company)}</h3><p>${esc(t.what || '')}${t.town ? '. ' + esc(t.town) : ''}</p></span>
     <span class="typecell">${typeTag(l)}</span>
+    <span class="confcell">${confTag(t.confidence)}</span>
     <span class="sc">${t.score.toFixed(0)}</span>
     <span class="chev" aria-hidden="true"></span>
   </summary>
   <div class="more">
-    <div><h4>Key facts</h4><dl class="facts">
-      <div><dt>Sales</dt><dd>${money(t.turnover)}${t.growth != null ? `, ${t.growth >= 0 ? 'up' : 'down'} ${pct(Math.abs(t.growth))} on the year before` : ''}</dd></div>
-      <div><dt>Profit margin</dt><dd>${t.margin != null ? pct(t.margin) : 'Not available'}</dd></div>
+    <div>
+      ${P.why && P.why.length ? `<h4>Why it is on the list</h4><ul>${P.why.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+      ${P.checks && P.checks.length ? `<h4>Check first</h4><ul class="checks">${P.checks.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+      <h4>Key facts</h4><dl class="facts">
       ${l ? `<div><dt>Why this type</dt><dd>${esc(l.deal_type_reason.charAt(0).toUpperCase() + l.deal_type_reason.slice(1))}.</dd></div>
       <div><dt>Sales depend on</dt><dd>${esc(l.demand_driver)}${l.second_driver ? ', then ' + esc(l.second_driver) : ''}</dd></div>` : ''}
       <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
+      ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}: ${esc(P.confidence_reasons)}.</dd></div>` : ''}
     </dl></div>
-    <div><h4>How the ${t.score.toFixed(0)} is made up</h4><div class="bars">${bars}</div></div>
+    <div>
+      <h4>Results by year</h4>${histTable(P.history) || `<p style="margin-bottom:20px">Latest year only: sales ${money(t.turnover)}${t.growth != null ? `, ${t.growth >= 0 ? 'up' : 'down'} ${pct(Math.abs(t.growth))} on the year before` : ''}, EBITDA margin ${t.margin != null ? pct(t.margin) : 'not available'}.</p>`}
+      <h4>How the ${t.score.toFixed(0)} is made up</h4><div class="bars">${bars}</div>
+    </div>
   </div></details>`;
 }).join('');
+
+// All ranked companies, with filters
+const A = D.all || [];
+document.getElementById('all-title').textContent = `All ${A.length} ranked companies`;
+document.getElementById('all-sub').textContent = `Every company that passed the filters and the sector check, ranked by score. ${D.sector_check} more are waiting for a check that they really trade in the sector.`;
+const fill = (id, vals, lab = v => v) => { const el = document.getElementById(id); [...new Set(vals)].filter(Boolean).sort().forEach(v => el.insertAdjacentHTML('beforeend', `<option value="${esc(v)}">${esc(lab(v))}</option>`)); };
+fill('f-type', A.map(a => a.type), v => (TYPE[v] || [0, v])[1]);
+fill('f-access', A.map(a => a.access), v => ACCESS[v] || v);
+fill('f-sector', A.map(a => a.sector));
+const F = {type: 'f-type', confidence: 'f-conf', access: 'f-access', sector: 'f-sector'};
+const draw = () => {
+  const sel = Object.fromEntries(Object.entries(F).map(([k, id]) => [k, document.getElementById(id).value]));
+  const rows = A.filter(a => Object.entries(sel).every(([k, v]) => !v || a[k] === v));
+  document.getElementById('f-count').textContent = `${rows.length} of ${A.length} shown`;
+  document.getElementById('all-body').innerHTML = rows.map(a => `<tr><td class="num">${a.rank}</td><td><b>${esc(a.company)}</b><small>${esc(a.what)}</small></td><td>${esc(a.sector)}</td><td>${tagFor(a.type)}</td><td>${confTag(a.confidence)}</td><td class="num">${money(a.sales)}</td><td class="num">${a.margin != null ? pct(a.margin) : '–'}</td><td class="num"><b>${a.score.toFixed(0)}</b></td></tr>`).join('')
+    || '<tr><td colspan="8">No companies match these filters. Clear one to see more.</td></tr>';
+};
+Object.values(F).forEach(id => document.getElementById(id).addEventListener('change', draw));
+draw();
+
+// Growth infrastructure watchlist
+if ((D.growth_infra || []).length) {
+  document.getElementById('infra-section').hidden = false;
+  document.getElementById('infra-body').innerHTML = D.growth_infra.map(g => `<tr><td><b>${esc(g.company)}</b><small>${esc(g.what)}</small></td><td class="num">${money(g.sales)}</td><td>${esc(g.reason.charAt(0).toUpperCase() + g.reason.slice(1))}.</td></tr>`).join('');
+}
+
+// Limits
+document.getElementById('lim-scanned').insertAdjacentText('beforeend', `${D.scanned.toLocaleString('en-GB')} of the ${D.universe.toLocaleString('en-GB')} companies (${Math.round(D.scanned/D.universe*100)}%) file scanned accounts that cannot be read yet, so good companies may be missing.`);
+document.getElementById('lim-sector').insertAdjacentText('beforeend', `${D.sector_check} profitable companies are waiting for a check that they really trade in the sector. An industry code alone is not enough to be ranked.`);
 
 // Separate bets
 if (C) {
@@ -284,15 +392,15 @@ document.getElementById('gloss-score').innerHTML = Object.keys(W).map(k => `<div
 
 // Changes
 const moves = U.top10_moves;
-document.getElementById('changes-sub').textContent = U.previous_scored_on ? `Compared with the ranking of ${fmtDate(U.previous_scored_on)}.` : 'The first weekly comparison will appear here.';
+document.getElementById('changes-sub').textContent = U.method_changed ? `The scoring method changed this week (see In short), so these moves come from the new method rather than new filings. Compared with the ranking of ${fmtDate(U.previous_scored_on)}.` : U.previous_scored_on ? `Compared with the ranking of ${fmtDate(U.previous_scored_on)}.` : 'The first weekly comparison will appear here.';
 const label = m => ({up:`Up to ${m.to}`, down:`Down to ${m.to}`, new:`New at ${m.to}`, out:`Out of the ten`, same:`Stays at ${m.to}`})[m.kind];
 document.getElementById('changes').innerHTML = moves.length ? moves.map(m => `<div class="chg"><span class="mv">${label(m)}</span>
-  <div><h3>${esc(m.company)}</h3><p>${esc(m.reasons.join('; '))}.</p>${m.events.length ? `<p class="small">${m.events.map(esc).join('<br>')}</p>` : ''}</div></div>`).join('')
+  <div><h3>${esc(m.company)}</h3>${U.method_changed ? '' : `<p>${esc(m.reasons.join('; '))}.</p>`}${m.events.length ? `<p class="small">${m.events.map(esc).join('<br>')}</p>` : ''}</div></div>`).join('')
   : `<p class="text">No company moved in or out of the top ten, and the order is unchanged. ${evs}</p>`;
 
 // Funnel
 const maxN = D.funnel[0][1];
 document.getElementById('funnel').innerHTML = D.funnel.map(([lab, n]) => `<div class="fstep"><span class="fnum">${n.toLocaleString('en-GB')}</span><div class="fbar" style="--w:${Math.max(1.2, Math.sqrt(n/maxN)*100).toFixed(1)}%"><span>${esc(lab)}</span></div></div>`).join('')
-  + `<p class="small" style="margin-top:10px">Bar lengths use a square-root scale so the small steps stay visible. 842 companies file scanned accounts that cannot be read yet.</p>`;
+  + `<p class="small" style="margin-top:10px">The first figure counts Companies House records under the chosen industry codes, not every UK digital-infrastructure company. Bar lengths use a square-root scale so the small steps stay visible.</p>`;
 </script>
 </body></html>

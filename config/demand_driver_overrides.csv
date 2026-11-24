@@ -1,22 +1,22 @@
-CompanyNumber,CompanyName,demand_driver,second_driver,basis
-13433533,VEA GROUP LIMITED,Altnet and operator network build,Business telecoms (SME),"Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"
-07667393,THE NETWORKING PEOPLE (TNP) LIMITED,Public sector budgets,,"Judgement: managed networks for councils, schools and NHS (confirm)"
-05208041,SATCOM GLOBAL LIMITED,Offshore energy and maritime,Public sector budgets,"Judgement: satellite airtime for ships, energy and government users (confirm split)"
-SC492820,CLARUS NETWORKS LIMITED,Offshore energy and maritime,Utility and civil construction,"Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"
-02853596,MAP GROUP (UK) LIMITED,Altnet and operator network build,,"Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
-08414530,DSTNY GLOBAL SERVICES UK LTD,Business telecoms (SME),,"Judgement: business phone services (web-checked: Endole)"
-06011062,C.A. TELECOM UK LIMITED,Altnet and operator network build,,"Judgement: fibre installation and telecoms civils (web-checked profile)"
-03223673,A-2-SEA SOLUTIONS LIMITED,Offshore energy and maritime,,"Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"
-NI624500,BARCLAY DIGITAL SERVICES LTD,Business telecoms (SME),,"Judgement: Belfast business telecoms provider (web-checked: Irish News)"
-09348602,SITEGROUND HOSTING LTD.,Hosting and cloud (SME),,"Judgement: web hosting for small businesses (confirm)"
-SC278146,DIONA CONSTRUCTION LTD.,Utility and civil construction,,"Judgement: civil engineering contractor, no telecoms evidence (web-checked)"
-05206348,F C E PROJECTS LIMITED,Utility and civil construction,,"Judgement: civil engineering contractor (web-checked)"
-07395042,EGNARO LIMITED,Unknown,,"No business description found (web-checked: Companies House)"
-09317188,DAMOCO BIDCO LIMITED,Unknown,,"Telecoms, telemetry, radar and public wifi; trading business not identified"
-09187893,TRUESPEED COMMUNICATIONS LTD,Consumer broadband,,"Judgement: altnet selling fibre to households (confirm)"
-10285348,GRAIN CONNECT LIMITED,Consumer broadband,,"Judgement: altnet selling fibre to households (confirm)"
-12556681,NEXGEN CLOUD LIMITED,Data centre and AI compute demand,,"Judgement: GPU cloud (confirm)"
-14219520,NLIGHTEN UK LTD,Data centre and AI compute demand,,"Judgement: edge data centres (confirm)"
-SC161678,BRIGHTSOLID ONLINE TECHNOLOGY LIMITED,Data centre and AI compute demand,,"Judgement: data centres (confirm)"
-11641366,SPITFIRE TECHNOLOGY HOLDINGS LIMITED,Business telecoms (SME),,"Judgement: business network operator (confirm)"
-04128539,CABLE AND SPLICING SERVICES LIMITED,Altnet and operator network build,,"Judgement: fibre installation contractor (confirm)"
+CompanyNumber,CompanyName,demand_driver,second_driver,basis,fix
+13433533,VEA GROUP LIMITED,Altnet and operator network build,Business telecoms (SME),Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix),
+07667393,THE NETWORKING PEOPLE (TNP) LIMITED,Public sector budgets,,"Judgement: managed networks for councils, schools and NHS (confirm)",
+05208041,SATCOM GLOBAL LIMITED,Offshore energy and maritime,Public sector budgets,"Judgement: satellite airtime for ships, energy and government users (confirm split)",
+SC492820,CLARUS NETWORKS LIMITED,Offshore energy and maritime,Utility and civil construction,Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description),
+02853596,MAP GROUP (UK) LIMITED,Altnet and operator network build,,"Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)",
+08414530,DSTNY GLOBAL SERVICES UK LTD,Business telecoms (SME),,Judgement: business phone services (web-checked: Endole),
+06011062,C.A. TELECOM UK LIMITED,Altnet and operator network build,,Judgement: fibre installation and telecoms civils (web-checked profile),
+03223673,A-2-SEA SOLUTIONS LIMITED,Offshore energy and maritime,,"Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)",
+NI624500,BARCLAY DIGITAL SERVICES LTD,Business telecoms (SME),,Judgement: Belfast business telecoms provider (web-checked: Irish News),
+09348602,SITEGROUND HOSTING LTD.,Hosting and cloud (SME),,Judgement: web hosting for small businesses (confirm),
+SC278146,DIONA CONSTRUCTION LTD.,Utility and civil construction,,"Judgement: civil engineering contractor, no telecoms evidence (web-checked)",
+05206348,F C E PROJECTS LIMITED,Utility and civil construction,,Judgement: civil engineering contractor (web-checked),
+07395042,EGNARO LIMITED,Unknown,,No business description found (web-checked: Companies House),
+09317188,DAMOCO BIDCO LIMITED,Unknown,,"Telecoms, telemetry, radar and public wifi; trading business not identified",
+09187893,TRUESPEED COMMUNICATIONS LTD,Consumer broadband,,Judgement: altnet selling fibre to households (confirm),
+10285348,GRAIN CONNECT LIMITED,Consumer broadband,,Judgement: altnet selling fibre to households (confirm),
+12556681,NEXGEN CLOUD LIMITED,Data centre and AI compute demand,,Judgement: GPU cloud (confirm),
+14219520,NLIGHTEN UK LTD,Data centre and AI compute demand,,Judgement: edge data centres (confirm),
+SC161678,BRIGHTSOLID ONLINE TECHNOLOGY LIMITED,Data centre and AI compute demand,,Judgement: data centres (confirm),
+11641366,SPITFIRE TECHNOLOGY HOLDINGS LIMITED,Business telecoms (SME),,Judgement: business network operator (confirm),
+04128539,CABLE AND SPLICING SERVICES LIMITED,Altnet and operator network build,,Judgement: fibre installation contractor (confirm),

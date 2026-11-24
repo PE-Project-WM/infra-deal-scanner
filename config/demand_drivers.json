@@ -2,7 +2,7 @@
   "_about": "Version 2 lenses: deal-type buckets and the demand-driver correlation map. Edit this file to retarget at another sub-sector. Built with the deal-screening skill (buckets) and the red-flag-register skill (correlation test: findings with one cause are one exposure).",
   "version": "2026-11-24",
   "deal_types": {
-    "_rules": "Applied in order; the first match wins. Growth is the latest year's turnover growth, visibility is the revenue-visibility estimate (0-1) from score.py.",
+    "_rules": "Applied in order; the first match wins. Growth uses the multi-year sales CAGR where 3+ years have been read, otherwise the latest year (labelled). Fixable dip needs a named problem and fix in config/demand_driver_overrides.csv (column fix); without one a falling or thin business is 'Under pressure'. Loss-making watchlist companies that are still growing are 'Growth infrastructure'.",
     "high_growth_min_growth": 0.25,
     "dip_max_growth": -0.1,
     "dip_max_margin": 0.05,
@@ -11,11 +11,16 @@
     "compounder_min_growth": -0.05,
     "fund_fit": {
       "Steady compounder": "Core and core-plus infrastructure funds",
-      "Fixable dip": "Value-add infrastructure and special-situations funds",
       "High-growth": "Growth and mid-market PE",
+      "Fixable dip": "Value-add infrastructure and special-situations funds",
+      "Under pressure": "None until a fix is identified",
+      "Growth infrastructure": "Growth infrastructure funds (loss-making while building)",
       "Between buckets": "Depends on the reason given",
       "Numbers to check": "Fix the numbers first"
-    }
+    },
+    "high_growth_min_cagr": 0.2,
+    "compounder_max_margin_swing_pp": 10,
+    "growth_infra_min_growth": 0.1
   },
   "drivers": {
     "Altnet and operator network build": "Altnet funding and interest rates",
