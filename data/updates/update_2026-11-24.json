@@ -3,7 +3,7 @@
  "checked_since": "2026-08-26",
  "previous_scored_on": "2026-11-22",
  "headline": "0 new in the top 10, 0 dropped out, 0 moved within it",
- "events_count": 12,
+ "events_count": 11,
  "companies_checked": 73,
  "top10": [
   {
@@ -236,7 +236,6 @@
     "margin 34% \u2192 32%"
    ],
    "events": [
-    "New accounts (2026-11-24): New accounts filed (made up to 2026-03-31): turnover \u00a310.8m (+1%), EBITDA margin 32%",
     "Director appointed (2026-11-04): Britton, Cara Marie appointed"
    ]
   },
@@ -312,13 +311,6 @@
   }
  ],
  "events": [
-  {
-   "CompanyNumber": "03912906",
-   "CompanyName": "ALERT COMMUNICATIONS LIMITED",
-   "event": "New accounts",
-   "date": "2026-11-24",
-   "detail": "New accounts filed (made up to 2026-03-31): turnover \u00a310.8m (+1%), EBITDA margin 32%"
-  },
   {
    "CompanyNumber": "03912906",
    "CompanyName": "ALERT COMMUNICATIONS LIMITED",

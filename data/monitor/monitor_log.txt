@@ -1,10 +1,9 @@
 Checking for changes since 2026-08-26
-Companies checked: 73 | events: 12 | accounts re-read: 1
+Companies checked: 73 | events: 11 | accounts re-read: 0
 event
 Charge satisfied      1
 Director appointed    2
 Director resigned     3
-New accounts          1
 New charge            2
 New owner             1
 Owner left            2
