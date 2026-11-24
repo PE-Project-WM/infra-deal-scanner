@@ -74,6 +74,11 @@ details>summary:hover{background:#f7f9fb}
 .bucket{border-top:3px solid var(--ink);padding-top:10px;font-size:14px;color:var(--ink2)}
 .bucket b{display:block;color:var(--ink);font-size:15.5px}
 @media (max-width:860px){.buckets{grid-template-columns:1fr}.cbar span{font-size:0;padding:0}}
+/* bucket key above the ranking */
+.bkey{display:grid;grid-template-columns:repeat(4,1fr);gap:10px 18px;margin:0 0 18px;font-size:13.5px;color:var(--ink2);line-height:1.4}
+.bkey .tag{display:inline-block;margin:0 0 5px}
+.bkey>span{display:flex;flex-direction:column;align-items:flex-start}
+@media (max-width:860px){.bkey{grid-template-columns:1fr 1fr}}
 /* changes */
 .changes{display:grid;gap:12px}
 .chg{display:grid;grid-template-columns:118px 1fr;gap:18px;padding:14px 0;border-bottom:1px solid var(--rule)}
@@ -127,6 +132,12 @@ footer p{max-width:80ch;margin-bottom:8px}
   <h2>The top ten</h2>
   <p class="sub">Each bar is a bundle of six strands, one per scoring criterion, so you can see why a company ranks where it does. How easy a company would be to buy is shown separately and never added to the score. Select a company for its numbers.</p>
   <div class="legend" id="legend"></div>
+  <div class="bkey" id="bkey" hidden>
+    <span><span class="tag t-Steady">Steady compounder</span>Recurring revenue, stable margins. Suits core infrastructure funds.</span>
+    <span><span class="tag t-Fixable">Fixable dip</span>Falling or thin results with a possible fix. Suits value-add funds.</span>
+    <span><span class="tag t-High-growth">High-growth</span>Turnover up 25%+ in a year, lumpier profit. Suits growth PE.</span>
+    <span><span class="tag t-Between">Between buckets</span>Fits none cleanly; the reason is in each company's detail.</span>
+  </div>
   <ol class="rank" id="rank"></ol>
 </div></section>
 
@@ -210,6 +221,7 @@ document.getElementById('rank').innerHTML = U.top10.map((t, idx) => {
 if (D.corr) {
   const c = D.corr.top_n, PAL = ['#2463c7','#e2742a','#2e9a57','#86563a','#7a4fd0','#64707e','#c2412d','#1d8a8a'];
   document.getElementById('corr-section').hidden = false;
+  document.getElementById('bkey').hidden = false;
   document.getElementById('corr').innerHTML = `<span class="flag ${c.flag}">${c.flag.toUpperCase()}</span>
     <h3>${esc(D.corr.headline)}.</h3>
     <div class="cbar" role="img" aria-label="Top ten split by macro factor">${c.factors.map((f, i) => `<span style="width:${f.share*100}%;background:${PAL[i % PAL.length]}" title="${esc(f.factor)}: ${f.count}">${f.count}</span>`).join('')}</div>
