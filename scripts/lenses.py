@@ -71,7 +71,14 @@ def deal_type(r):
         return 'Between buckets', f"margin {pct(m)} but project-based revenue ({src})"
     return 'Between buckets', f"recurring-type revenue ({src}) but margin only {pct(m)}"
 
+SP_PATH = f'{CFG}/demand_driver_split.csv'   # revenue split across drivers, read from the accounts where possible
+SP = pd.read_csv(SP_PATH, dtype={'CompanyNumber': str}) if os.path.exists(SP_PATH) else pd.DataFrame(columns=['CompanyNumber', 'driver', 'share', 'basis'])
+assert (SP.groupby('CompanyNumber')['share'].sum().round(3) == 1).all(), 'Driver shares must add up to 1 for each company'
+
 def driver(r):
+    sp = SP[SP['CompanyNumber'] == r['CompanyNumber']].sort_values('share', ascending=False)
+    if len(sp):
+        return sp['driver'].iloc[0], sp['driver'].iloc[1] if len(sp) > 1 else '', 'Split: ' + sp['basis'].iloc[0]
     if r['CompanyNumber'] in OV.index:
         o = OV.loc[r['CompanyNumber']]
         return o['demand_driver'], o['second_driver'], o['basis']
@@ -88,8 +95,23 @@ A[['demand_driver', 'second_driver', 'driver_basis']] = A.apply(lambda r: pd.Ser
 bad = set(A['demand_driver']) - set(DRIVERS)
 assert not bad, f'Drivers missing from config/demand_drivers.json: {bad}'
 A['macro_factor'] = A['demand_driver'].map(DRIVERS)
+
+def split(r):
+    """[(driver, share)]: from config/demand_driver_split.csv, else 70/30 if a second driver is named, else 100%."""
+    sp = SP[SP['CompanyNumber'] == r['CompanyNumber']]
+    if len(sp):
+        return [(d, float(x)) for d, x in zip(sp['driver'], sp['share'])], 'estimated split from the accounts'
+    if isinstance(r['second_driver'], str) and r['second_driver']:
+        return [(r['demand_driver'], 0.7), (r['second_driver'], 0.3)], 'assumed 70/30 split'
+    return [(r['demand_driver'], 1.0)], 'single driver'
+sp_all = A.apply(split, axis=1)
+A['split'] = [x[0] for x in sp_all]
+A['split_basis'] = [x[1] for x in sp_all]
+bad = {d for sp in A['split'] for d, _ in sp} - set(DRIVERS)
+assert not bad, f'Drivers missing from config/demand_drivers.json: {bad}'
+A['driver_split'] = A['split'].map(lambda sp: '; '.join(f'{d} {x:.0%}' for d, x in sorted(sp, key=lambda t: -t[1])))
 A['labelled_on'] = datetime.date.today().isoformat()
-A.drop(columns=['visibility']).to_csv(f'{OUT}/lenses_latest.csv', index=False)
+A.drop(columns=['visibility', 'split']).to_csv(f'{OUT}/lenses_latest.csv', index=False)
 
 def nice(s):   # same tidy-up as compare.py
     stop = {'THE', 'AND', 'FOR', 'OF', 'LTD'}
@@ -99,14 +121,20 @@ def nice(s):   # same tidy-up as compare.py
     return re.sub(r'\(([A-Za-z]{2,4})\)', lambda m: '(' + m.group(1).upper() + ')', t)
 # Correlation test on the top N (red-flag-register, step 5)
 def concentration(df):
-    share = df['macro_factor'].value_counts(normalize=True)
+    """Exposure of the list to each macro factor, weighting each company by the share of its sales tied to that factor."""
+    rows = [(d, DRIVERS[d], x, r['CompanyName']) for _, r in df.iterrows() for d, x in r['split']]
+    E = pd.DataFrame(rows, columns=['driver', 'factor', 'x', 'company'])
+    expo = E.groupby('factor')['x'].sum().sort_values(ascending=False)
+    share = expo / len(df)
     hhi = float((share ** 2).sum())
     factors = []
     for f, s in share.items():
         flag = 'red' if s >= CT['red_share'] else 'amber' if s >= CT['amber_share'] else 'green'
-        names = [nice(n) for n in df.loc[df['macro_factor'] == f, 'CompanyName']]
-        factors.append({'factor': f, 'share': round(float(s), 2), 'count': len(names), 'flag': flag, 'companies': names,
-                        'drivers': sorted(df.loc[df['macro_factor'] == f, 'demand_driver'].unique().tolist())})
+        g = E[E['factor'] == f].groupby('company', sort=False)['x'].sum().sort_values(ascending=False)
+        factors.append({'factor': f, 'share': round(float(s), 2), 'exposure': round(float(expo[f]), 1),
+                        'count': int((g >= 0.5).sum()), 'flag': flag,
+                        'companies': [f"{nice(n)} ({x:.0%})" if x < 0.999 else nice(n) for n, x in g.items()],
+                        'drivers': sorted(E.loc[E['factor'] == f, 'driver'].unique().tolist())})
     worst = 'red' if any(x['flag'] == 'red' for x in factors) else 'amber' if any(x['flag'] == 'amber' for x in factors) else 'green'
     return {'n': len(df), 'effective_bets': round(1 / hhi, 1), 'flag': worst, 'factors': factors}
 
@@ -115,7 +143,8 @@ top = A[A['list'] == 'Ranked'].sort_values('rank').head(N)
 corr = {'date': A['labelled_on'].iloc[0], 'top_n': concentration(top), 'top_20': concentration(A[A['list'] == 'Ranked'].sort_values('rank').head(20)),
         'top10': [{'rank': int(r['rank']), 'deal_type': r['deal_type'], 'deal_type_reason': r['deal_type_reason'], 'fund_fit': r['fund_fit'],
                    'demand_driver': r['demand_driver'], 'second_driver': r['second_driver'], 'macro_factor': r['macro_factor'],
-                   'driver_basis': r['driver_basis']} for _, r in top.iterrows()],
+                   'driver_basis': r['driver_basis'], 'driver_split': r['driver_split'], 'split_basis': r['split_basis'],
+                   'split': [{'driver': d, 'share': x} for d, x in sorted(r['split'], key=lambda t: -t[1])]} for _, r in top.iterrows()],
         'deal_type_counts': {'ranked': A[A['list'] == 'Ranked']['deal_type'].value_counts().to_dict(),
                              'watchlist': A[A['list'] != 'Ranked']['deal_type'].value_counts().to_dict()},
         'thresholds': CT}
@@ -123,22 +152,22 @@ c = corr['top_n']
 big = [f for f in c['factors'] if f['flag'] != 'green']
 def lower_first(x):   # keep acronyms such as SME in capitals
     return x if x[:3].isupper() else x[0].lower() + x[1:]
-parts = ', '.join(f"{f['count']} depend on {lower_first(f['factor'])}" for f in big)
+parts = ', '.join(f"{f['share']:.0%} of it depends on {lower_first(f['factor'])}" for f in big)
 corr['headline'] = f"The top {N} is about {c['effective_bets']:.0f} independent bets, not {N}" + (f": {parts}" if big else '')
 json.dump(corr, open(f'{OUT}/correlation_latest.json', 'w'), indent=1, default=str)
 
 # Markdown report (also appended to the weekly issue)
 md = [f"## Deal types and correlation ({corr['date']})", '', f"**{corr['headline']}.**", '',
-      f"Correlation flag for the top {N}: **{c['flag'].upper()}** (amber at {CT['amber_share']:.0%} of the top {N} on one macro factor, red at {CT['red_share']:.0%}).", '',
-      '| Rank | Company | Deal type | Suits | Main demand driver | Macro factor |', '|---|---|---|---|---|---|']
-md += [f"| {t['rank']} | {nice(n)} | {t['deal_type']} | {t['fund_fit']} | {t['demand_driver']} | {t['macro_factor']} |"
+      f"Correlation flag for the top {N}: **{c['flag'].upper()}** (amber when {CT['amber_share']:.0%} of the top {N}, weighted by each company's share of sales, depends on one macro factor; red at {CT['red_share']:.0%}).", '',
+      '| Rank | Company | Deal type | Suits | Sales depend on | Main macro factor |', '|---|---|---|---|---|---|']
+md += [f"| {t['rank']} | {nice(n)} | {t['deal_type']} | {t['fund_fit']} | {t['driver_split']} | {t['macro_factor']} |"
        for t, n in zip(corr['top10'], top['CompanyName'])]
 md += ['', '**Macro factors in the top 10**', '']
-md += [f"- {f['factor']}: {f['count']} of {N} ({f['flag']}), {', '.join(nice(x) for x in f['companies'])}" for f in c['factors']]
+md += [f"- {f['factor']}: {f['share']:.0%} of the top {N} ({f['flag']}), {', '.join(f['companies'])}" for f in c['factors']]
 md += ['', f"Top 20: about {corr['top_20']['effective_bets']:.0f} independent bets (flag {corr['top_20']['flag']}).", '',
        'Deal types across all ranked companies: ' + ', '.join(f'{k} {v}' for k, v in corr['deal_type_counts']['ranked'].items()) + '.',
        f"Watchlist ({sum(corr['deal_type_counts']['watchlist'].values())} loss-making companies): " + ', '.join(f'{k} {v}' for k, v in corr['deal_type_counts']['watchlist'].items()) + '.', '',
-       '_Drivers for the top 20 are judgement calls from business descriptions (see config/demand_driver_overrides.csv); the rest come from rules and should be confirmed. Growth is one year only._']
+       '_Splits for the top 10 are estimated from the accounts and web checks (config/demand_driver_split.csv); companies with two named drivers are assumed 70/30; the rest come from judgement or rules and should be confirmed._']
 open(f'{OUT}/correlation_report.md', 'w').write('\n'.join(md) + '\n')
 print('\n'.join(md))
 print('\nSaved lenses_latest.csv, correlation_latest.json and correlation_report.md in data/outputs/')
