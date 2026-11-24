@@ -75,7 +75,8 @@ header .meta b{color:var(--ink2);font-weight:600}
 .bars{display:grid;gap:9px}
 .bar{display:grid;grid-template-columns:150px 1fr 56px;gap:12px;align-items:center;font-size:15px}
 .bar .track{height:8px;background:#e6ebf0;border-radius:4px;overflow:hidden}
-.bar .fill{height:100%;background:var(--link);border-radius:4px}
+.bar .fill{height:100%;border-radius:4px}
+.key{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:8px;vertical-align:0}
 .bar span:last-child{text-align:right;color:var(--ink);font-variant-numeric:tabular-nums}
 
 /* four bets */
@@ -210,6 +211,7 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const fmtDate = d => new Date(d + 'T12:00:00').toLocaleDateString('en-GB', {day:'numeric', month:'long', year:'numeric'});
 const money = v => '£' + (v/1e6).toFixed(1) + 'm';
 const pct = v => Math.round(v*100) + '%';
+const CCOL = {revenue_visibility:'#2463c7', strategy_fit:'#e2742a', size_fit:'#2e9a57', margin_quality:'#86563a', data_completeness:'#64707e', debt_capacity:'#7a4fd0'};
 const CRIT = {
   revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur, judged from the type of business.'],
   strategy_fit: ['Fits the case', 'How closely the business matches the investment case.'],
@@ -245,7 +247,7 @@ document.getElementById('short').innerHTML = short.map(s => `<li>${s}</li>`).joi
 // Top ten
 document.getElementById('rank').innerHTML = U.top10.map(t => {
   const l = t.lens;
-  const bars = Object.keys(W).map(k => `<div class="bar"><span>${CRIT[k][0]}</span><span class="track"><span class="fill" style="display:block;width:${(t.pts[k]/W[k]*100).toFixed(0)}%"></span></span><span>${t.pts[k].toFixed(0)}/${W[k]}</span></div>`).join('');
+  const bars = Object.keys(W).map(k => `<div class="bar"><span><i class="key" style="background:${CCOL[k]}"></i>${CRIT[k][0]}</span><span class="track"><span class="fill" style="display:block;width:${(t.pts[k]/W[k]*100).toFixed(0)}%;background:${CCOL[k]}"></span></span><span>${t.pts[k].toFixed(0)}/${W[k]}</span></div>`).join('');
   return `<details class="row"><summary>
     <span class="rk">${t.rank}</span>
     <span class="co"><h3>${esc(t.company)}</h3><p>${esc(t.what || '')}${t.town ? '. ' + esc(t.town) : ''}</p></span>
@@ -278,7 +280,7 @@ if (C) {
 }
 
 // Score glossary
-document.getElementById('gloss-score').innerHTML = Object.keys(W).map(k => `<div><dt>${CRIT[k][0]} (up to ${W[k]} points)</dt><dd>${CRIT[k][1]}</dd></div>`).join('');
+document.getElementById('gloss-score').innerHTML = Object.keys(W).map(k => `<div><dt><i class="key" style="background:${CCOL[k]}"></i>${CRIT[k][0]} (up to ${W[k]} points)</dt><dd>${CRIT[k][1]}</dd></div>`).join('');
 
 // Changes
 const moves = U.top10_moves;
