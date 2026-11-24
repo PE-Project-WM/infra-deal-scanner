@@ -1,8 +1,7 @@
 {
   "_about": "Screening criteria for the Infra Deal Screener. Edit this file to retarget the tool at another sub-sector or fund. Built with the thesis-development, market-map-and-sourcing and deal-screening skills.",
-  "version": "2026-11-21",
+  "version": "2026-11-24",
   "sub_sector": "UK digital infrastructure",
-
   "segments": {
     "61100": "Fibre and wired telecoms networks",
     "61200": "Wireless networks, towers and fixed wireless",
@@ -11,45 +10,64 @@
     "63110": "Data centres, data processing and hosting",
     "42220": "Building and maintaining telecoms and utility networks"
   },
-
   "hard_stops": {
-    "company_status": ["Active"],
-    "allowed_company_types": ["Private Limited Company", "Public Limited Company"],
+    "company_status": [
+      "Active"
+    ],
+    "allowed_company_types": [
+      "Private Limited Company",
+      "Public Limited Company"
+    ],
     "exclude_if_listed": true,
-    "accounts_categories_allowed": ["FULL", "GROUP", "MEDIUM"],
+    "accounts_categories_allowed": [
+      "FULL",
+      "GROUP",
+      "MEDIUM"
+    ],
     "min_years_since_incorporation": 3,
     "country": "United Kingdom"
   },
-
   "size_band_gbp": {
     "turnover_min": 10000000,
     "turnover_max": 250000000,
     "note": "Turnover comes from filed accounts in a later step; the bulk company file has no financials."
   },
-
   "ebitda_rule": {
     "shortlist_requires_positive_ebitda": true,
     "loss_making_network_owners": "Send to a separate watchlist, not the shortlist"
   },
-
   "scoring_weights": {
     "revenue_visibility": 25,
     "strategy_fit": 20,
     "size_fit": 15,
-    "margin_quality": 15,
-    "data_completeness": 15,
-    "debt_capacity": 10
+    "margin_quality": 25,
+    "balance_sheet": 15
   },
-
   "scoring_notes": {
-    "revenue_visibility": "Share of revenue from subscriptions, wholesale contracts or multi-year frameworks",
-    "strategy_fit": "Segment, UK focus and ownership against this file",
-    "size_fit": "Turnover inside the band",
-    "margin_quality": "EBITDA margin level and stability over three years",
-    "data_completeness": "Revenue, profit, cash and debt present for every year",
-    "debt_capacity": "Net debt to EBITDA; cash conversion"
+    "revenue_visibility": "PROVISIONAL: estimated from the type of business until contract mix, customer concentration and renewal data are available",
+    "strategy_fit": "Thesis relevance; only IN and ADJACENT companies are ranked",
+    "size_fit": "EBITDA in the £2-15m sweet spot",
+    "margin_quality": "EBITDA margin level (70%) and margin stability across three or more years where history is available (30%; neutral where not)",
+    "balance_sheet": "Balance sheet resilience: positive net assets, cash cover and margin headroom, reduced where interest cover is below 3x. Not yet true debt capacity (needs net debt, capex and cash conversion)"
   },
-
   "fit_and_access_kept_separate": true,
-  "pricing": "Walk-away multiple to be set from disclosed deals before any named company is screened"
+  "pricing": "Walk-away multiple to be set from disclosed deals before any named company is screened",
+  "method_version": "v3 (24 Nov 2026): data quality moved out of the score into a confidence rating; size on EBITDA; margin stability from multi-year history; sector gate; debt capacity renamed balance sheet resilience",
+  "sector_gate": {
+    "ranked_if_relevance_in": [
+      "IN",
+      "ADJACENT"
+    ],
+    "otherwise": "Listed separately as needing a sector check, not ranked"
+  },
+  "size_ebitda_gbp": {
+    "min_useful": 1000000,
+    "sweet_spot_min": 2000000,
+    "sweet_spot_max": 15000000,
+    "upper_fade_to": 30000000,
+    "note": "Turnover band still applies as the hard stop; size fit now scores EBITDA, the base a buyer prices off"
+  },
+  "confidence": {
+    "note": "How far the inputs can be trusted. Shown beside the score, never added to it."
+  }
 }

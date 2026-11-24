@@ -16,6 +16,11 @@ on:
       - 'scripts/compare.py'
       - 'scripts/site.py'
       - 'scripts/lenses.py'
+      - 'scripts/profiles.py'
+      - 'scripts/history.py'
+      - 'scripts/score.py'
+      - 'config/criteria_digital_infra.json'
+      - 'config/company_notes.csv'
       - 'scripts/site_template.html'
       - 'config/demand_drivers.json'
       - 'config/demand_driver_overrides.csv'
@@ -52,9 +57,11 @@ jobs:
         run: |
           set -o pipefail
           python scripts/clean.py 2>&1 | tee data/outputs/clean_log.txt
+          python scripts/history.py 2>&1 | tee data/outputs/history_log.txt
           python scripts/score.py 2>&1 | tee data/outputs/score_log.txt
           python scripts/compare.py 2>&1 | tee data/monitor/compare_log.txt
           python scripts/lenses.py 2>&1 | tee data/outputs/lenses_log.txt
+          python scripts/profiles.py 2>&1 | tee data/outputs/profiles_log.txt
           python scripts/site.py
       - name: Save results
         run: |

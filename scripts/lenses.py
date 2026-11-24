@@ -14,6 +14,7 @@ OUT, CFG = f'{ROOT}/data/outputs', f'{ROOT}/config'
 L = json.load(open(f'{CFG}/demand_drivers.json'))
 T, DRIVERS, CT = L['deal_types'], L['drivers'], L['correlation_test']
 OV = pd.read_csv(f'{CFG}/demand_driver_overrides.csv', dtype={'CompanyNumber': str}).fillna('').set_index('CompanyNumber')
+pct = lambda x: f'{x * 100:.0f}%'
 
 R = pd.read_csv(f'{OUT}/ranking_latest.csv', dtype={'CompanyNumber': str})
 C = pd.read_csv(f'{OUT}/candidates_clean.csv', dtype={'CompanyNumber': str})
@@ -26,23 +27,48 @@ keep = ['rank', 'list', 'CompanyName', 'CompanyNumber', 'score', 'relevance', 'r
 A = pd.concat([R.reindex(columns=keep), Wl.reindex(columns=keep)], ignore_index=True)
 pct = lambda x: f'{x * 100:.0f}%'
 
+HS_PATH = f'{OUT}/history_summary.csv'   # multi-year history for deep-dived companies (history.py)
+HS = pd.read_csv(HS_PATH, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(HS_PATH) else pd.DataFrame()
+def hist(num, col):
+    if num in HS.index and col in HS.columns and pd.notna(HS.at[num, col]):
+        return HS.at[num, col]
+    return None
+
 def deal_type(r):
-    g, m, v = r['turnover_growth'], r['ebitda_margin'], r['visibility']
+    m, v, num = r['ebitda_margin'], r['visibility'], r['CompanyNumber']
+    fix = str(OV.at[num, 'fix']).strip() if num in OV.index and 'fix' in OV.columns else ''
+    cagr, swing = hist(num, 'sales_cagr'), hist(num, 'margin_swing_pp')
+    if cagr is not None:   # growth over several years beats a single year
+        g, gtext = cagr, f"sales up {pct(cagr)} a year over {int(hist(num, 'years_of_sales'))} years"
+        if cagr < 0:
+            gtext = f"sales down {pct(-cagr)} a year over {int(hist(num, 'years_of_sales'))} years"
+    else:
+        g = r['turnover_growth']
+        gtext = 'growth not known' if pd.isna(g) else (f"sales up {pct(g)} in one year (only one year read)" if g >= 0 else f"sales down {pct(-g)} in one year (only one year read)")
     if isinstance(r['data_flags'], str) and r['data_flags'].strip():
         return 'Numbers to check', f"flagged numbers ({r['data_flags']})"
     if r['list'] != 'Ranked':
-        return 'Fixable dip', f"loss-making (EBITDA margin {pct(m)}); the fix still has to be identified"
-    if pd.notna(g) and g >= T['high_growth_min_growth']:
-        return 'High-growth', f"turnover up {pct(g)} in the latest year, margin {pct(m)}"
-    if pd.notna(g) and g <= T['dip_max_growth']:
-        return 'Fixable dip', f"turnover down {pct(-g)} in the latest year; check whether it is temporary"
-    if m < T['dip_max_margin']:
-        return 'Fixable dip', f"thin EBITDA margin ({pct(m)}); check for a clear lever"
-    if v >= T['compounder_min_visibility'] and m >= T['compounder_min_margin'] and (pd.isna(g) or g >= T['compounder_min_growth']):
-        return 'Steady compounder', f"recurring-type revenue (visibility {v:.1f}), margin {pct(m)}, turnover {'+' if g >= 0 else ''}{pct(g)}"
+        if pd.notna(g) and g >= T['growth_infra_min_growth']:
+            return 'Growth infrastructure', f"loss-making (EBITDA margin {pct(m)}) while {gtext}"
+        return 'Under pressure', f"loss-making (EBITDA margin {pct(m)}), {gtext}; no fix identified yet"
+    high = T['high_growth_min_cagr'] if cagr is not None else T['high_growth_min_growth']
+    if pd.notna(g) and g >= high:
+        return 'High-growth', f"{gtext}, margin {pct(m)}"
+    weak = (pd.notna(g) and g <= T['dip_max_growth']) or m < T['dip_max_margin']
+    if weak or (swing is not None and r['turnover_growth'] <= T['dip_max_growth']):
+        why = gtext if (pd.notna(g) and g <= T['dip_max_growth']) else f"thin EBITDA margin ({pct(m)})"
+        if fix:
+            return 'Fixable dip', f"{why}; fix identified: {fix}"
+        return 'Under pressure', f"{why}; no specific fix identified yet"
+    steady_margin = swing is None or swing <= T['compounder_max_margin_swing_pp']
+    if v >= T['compounder_min_visibility'] and m >= T['compounder_min_margin'] and (pd.isna(g) or g >= T['compounder_min_growth']) and steady_margin:
+        return 'Steady compounder', (f"recurring-type revenue (estimated), margin {pct(m)}, {gtext}" +
+                                     (f", margin within {swing:.0f} points over the years read" if swing is not None else ", margin stability not yet tested"))
+    if not steady_margin:
+        return 'Between buckets', f"margin swung {swing:.0f} points over the years read, too uneven for a steady compounder"
     if v < T['compounder_min_visibility']:
-        return 'Between buckets', f"stable numbers (margin {pct(m)}) but project-based revenue (visibility {v:.2f})"
-    return 'Between buckets', f"recurring-type revenue but margin only {pct(m)}"
+        return 'Between buckets', f"margin {pct(m)} but project-based revenue (estimated)"
+    return 'Between buckets', f"recurring-type revenue (estimated) but margin only {pct(m)}"
 
 def driver(r):
     if r['CompanyNumber'] in OV.index:
@@ -110,7 +136,7 @@ md += ['', '**Macro factors in the top 10**', '']
 md += [f"- {f['factor']}: {f['count']} of {N} ({f['flag']}), {', '.join(nice(x) for x in f['companies'])}" for f in c['factors']]
 md += ['', f"Top 20: about {corr['top_20']['effective_bets']:.0f} independent bets (flag {corr['top_20']['flag']}).", '',
        'Deal types across all ranked companies: ' + ', '.join(f'{k} {v}' for k, v in corr['deal_type_counts']['ranked'].items()) + '.',
-       f"Watchlist ({sum(corr['deal_type_counts']['watchlist'].values())} loss-making companies): all labelled Fixable dip until a fix is identified.", '',
+       f"Watchlist ({sum(corr['deal_type_counts']['watchlist'].values())} loss-making companies): " + ', '.join(f'{k} {v}' for k, v in corr['deal_type_counts']['watchlist'].items()) + '.', '',
        '_Drivers for the top 20 are judgement calls from business descriptions (see config/demand_driver_overrides.csv); the rest come from rules and should be confirmed. Growth is one year only._']
 open(f'{OUT}/correlation_report.md', 'w').write('\n'.join(md) + '\n')
 print('\n'.join(md))

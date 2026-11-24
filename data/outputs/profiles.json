@@ -1,0 +1,729 @@
+{
+ "13433533": {
+  "rank": 1,
+  "confidence": "High",
+  "confidence_reasons": "recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (31% EBITDA)",
+   "EBITDA of \u00a310.0m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 65% a year over 3 years"
+  ],
+  "checks": [
+   "Part of an overseas group: buying it means a carve-out from the parent",
+   "Margin moved between 16% and 30% over the years read: find out what drives it",
+   "Sales grew from \u00a311.9m to \u00a332.6m in two years: check how much is organic, how concentrated customers are and how much repeats",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 11906487.0,
+    "margin": 0.1738689170029749,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 21059192.0,
+    "margin": 0.1564401901079585,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 32560948.0,
+    "margin": 0.3010447361667725,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 9954432.0,
+  "interest_cover": null,
+  "capex_share": 0.0097713585694069
+ },
+ "SC492820": {
+  "rank": 2,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a34.3m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 46% last year",
+   "Cash of \u00a33.2m and net assets of \u00a35.5m"
+  ],
+  "checks": [
+   "Sales up 46% in one year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 4293641.0,
+  "interest_cover": 111.52025633268242,
+  "capex_share": null
+ },
+ "07667393": {
+  "rank": 3,
+  "confidence": "High",
+  "confidence_reasons": "recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a32.3m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 16% a year over 4 years",
+   "Cash of \u00a31.8m and net assets of \u00a32.0m"
+  ],
+  "checks": [
+   "Bought by a private equity fund in 2025: unlikely to be sold for a few years",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 11631850.0,
+    "margin": 0.0287912928725869,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 13107972.0,
+    "margin": 0.0446529028289044,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 15518554.0,
+    "margin": 0.0633666641879133,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 18099102.0,
+    "margin": 0.1177872250236503,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2304777.0,
+  "interest_cover": 241.4044842033745,
+  "capex_share": 0.029020427844778
+ },
+ "05208041": {
+  "rank": 4,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a35.0m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible",
+   "A type of business that usually earns repeat revenue (estimated)"
+  ],
+  "checks": [
+   "Interest cover only 2.3x: check how much debt it already carries",
+   "Margin moved between 2% and 14% over the years read: find out what drives it",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "The accounts may be presented in US dollars (currency check flagged it): confirm before comparing figures",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 34050643.0,
+    "margin": 0.0559207354762728,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 34740479.0,
+    "margin": 0.0249531101744452,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 36305200.0,
+    "margin": 0.1376243898945605,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 4996481.0,
+  "interest_cover": 2.2927420316988334,
+  "capex_share": null
+ },
+ "08414530": {
+  "rank": 5,
+  "confidence": "Medium",
+  "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "High margin (41% EBITDA)",
+   "EBITDA of \u00a35.1m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Ownership within the Dstny group not yet confirmed",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 12481726.0,
+    "margin": 0.3235158342684337,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 12584106.0,
+    "margin": 0.3333161688243884,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 5127856.0,
+  "interest_cover": 13.939939580653846,
+  "capex_share": null
+ },
+ "03912906": {
+  "rank": 6,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "High margin (32% EBITDA)",
+   "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a31.0m and net assets of \u00a34.1m"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 3441424.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "NI624500": {
+  "rank": 7,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a33.9m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 3895937.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "02853596": {
+  "rank": 8,
+  "confidence": "Medium",
+  "confidence_reasons": "fewer than 3 years read; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case"
+  ],
+  "checks": [
+   "Employee-owned: a sale needs the trustees to agree and is rare",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 74397230.0,
+    "margin": 0.163019980717024,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 75597498.0,
+    "margin": 0.2343891592814354,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 18109918.0,
+  "interest_cover": 264.5886006958443,
+  "capex_share": 0.0032031864380687
+ },
+ "03223673": {
+  "rank": 9,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a33.6m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a32.1m and net assets of \u00a37.0m",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Margin moved between 21% and 38% over the years read: find out what drives it",
+   "Sales fell 24% last year: find out why",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 13676423.0,
+    "margin": 0.2105642681569589,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 17817082.0,
+    "margin": 0.3787490566637118,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 19903436.0,
+    "margin": 0.3345897160671152,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 15221057.0,
+    "margin": 0.2388715842795937,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3635878.0,
+  "interest_cover": null,
+  "capex_share": 0.0072765371301974
+ },
+ "06011062": {
+  "rank": 10,
+  "confidence": "High",
+  "confidence_reasons": "recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a32.5m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a313.2m and net assets of \u00a33.9m"
+  ],
+  "checks": [
+   "Margin moved between -1% and 27% over the years read: find out what drives it",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 20193182.0,
+    "margin": 0.2707568326774849,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 17175614.0,
+    "margin": -0.0067560321278761,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 18385935.0,
+    "margin": 0.1079474065365726,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2473621.0,
+  "interest_cover": null,
+  "capex_share": 0.0364016160977236
+ },
+ "09348602": {
+  "rank": 11,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a32.5m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a314.0m and net assets of \u00a32.0m",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 2521185.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "04213760": {
+  "rank": 12,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a37.1m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 7113000.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "03752620": {
+  "rank": 13,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a32.1m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 16% last year"
+  ],
+  "checks": [
+   "Employee-owned: a sale needs the trustees to agree and is rare",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 2067292.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "02760731": {
+  "rank": 14,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a33.9m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Sales fell 16% last year: find out why",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 3873779.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "NI064545": {
+  "rank": 15,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a35.1m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Employee-owned: a sale needs the trustees to agree and is rare",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 5074328.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "04210561": {
+  "rank": 16,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a32.5m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 2451584.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "05787755": {
+  "rank": 17,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a33.3m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 3324917.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "04085164": {
+  "rank": 18,
+  "confidence": "Medium",
+  "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Sales up 25% last year",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 1653446.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "02797895": {
+  "rank": 19,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a33.1m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 3142000.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "03228824": {
+  "rank": 20,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 1339556.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "07020016": {
+  "rank": 21,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 714379.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "01763970": {
+  "rank": 22,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 1233380.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "03193093": {
+  "rank": 23,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 1965524.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "SC702923": {
+  "rank": 24,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 665470.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "02652955": {
+  "rank": 25,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [],
+  "checks": [
+   "Sales fell 24% last year: find out why",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 124182.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "03868503": {
+  "rank": 26,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 696450.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "13576894": {
+  "rank": 27,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [],
+  "checks": [
+   "Owner not yet confirmed",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 224974.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "06521296": {
+  "rank": 28,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 585986.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "04632756": {
+  "rank": 29,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 691849.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "04570376": {
+  "rank": 30,
+  "confidence": "Low",
+  "confidence_reasons": "figures read from the accounts text; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Sales fell 22% last year: find out why",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 1054861.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "14354114": {
+  "rank": 31,
+  "confidence": "Low",
+  "confidence_reasons": "numbers flagged",
+  "why": [
+   "Sales up 952% last year",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Sales up 952% in one year: check how much came from acquisitions or one-off contracts",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 13909.0,
+  "interest_cover": null,
+  "capex_share": null
+ },
+ "08824522": {
+  "rank": 32,
+  "confidence": "Low",
+  "confidence_reasons": "numbers flagged",
+  "why": [
+   "Sales up 144% last year"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Sales up 144% in one year: check how much came from acquisitions or one-off contracts",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [],
+  "ebitda": 14824.0,
+  "interest_cover": null,
+  "capex_share": null
+ }
+}

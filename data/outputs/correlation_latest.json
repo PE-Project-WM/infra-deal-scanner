@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "top_n": {
   "n": 10,
-  "effective_bets": 3.6,
+  "effective_bets": 4.2,
   "flag": "amber",
   "factors": [
    {
@@ -25,8 +25,8 @@
     "count": 3,
     "flag": "amber",
     "companies": [
-     "Satcom Global",
      "Clarus Networks",
+     "Satcom Global",
      "A-2-Sea Solutions"
     ],
     "drivers": [
@@ -35,17 +35,15 @@
    },
    {
     "factor": "SME IT and telecoms spending",
-    "share": 0.3,
-    "count": 3,
-    "flag": "amber",
+    "share": 0.2,
+    "count": 2,
+    "flag": "green",
     "companies": [
      "Dstny Global Services UK",
-     "Barclay Digital Services",
-     "Siteground Hosting"
+     "Barclay Digital Services"
     ],
     "drivers": [
-     "Business telecoms (SME)",
-     "Hosting and cloud (SME)"
+     "Business telecoms (SME)"
     ]
    },
    {
@@ -59,25 +57,41 @@
     "drivers": [
      "Public sector budgets"
     ]
+   },
+   {
+    "factor": "Mobile operator and emergency-services spend",
+    "share": 0.1,
+    "count": 1,
+    "flag": "green",
+    "companies": [
+     "Alert Communications"
+    ],
+    "drivers": [
+     "Mobile, radio and critical comms"
+    ]
    }
   ]
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 6.5,
-  "flag": "green",
+  "effective_bets": 3.6,
+  "flag": "amber",
   "factors": [
    {
     "factor": "SME IT and telecoms spending",
-    "share": 0.25,
-    "count": 5,
-    "flag": "green",
+    "share": 0.45,
+    "count": 9,
+    "flag": "amber",
     "companies": [
      "Dstny Global Services UK",
      "Barclay Digital Services",
      "Siteground Hosting",
      "Babble Cloud",
-     "I.P. Integration"
+     "Windsor Telecom",
+     "I.P. Integration",
+     "Nomios UK&I",
+     "Chess",
+     "Elitetele.Com"
     ],
     "drivers": [
      "Business telecoms (SME)",
@@ -104,8 +118,8 @@
     "count": 3,
     "flag": "green",
     "companies": [
-     "Satcom Global",
      "Clarus Networks",
+     "Satcom Global",
      "A-2-Sea Solutions"
     ],
     "drivers": [
@@ -113,40 +127,14 @@
     ]
    },
    {
-    "factor": "Construction and utility capex",
+    "factor": "Mobile operator and emergency-services spend",
     "share": 0.15,
     "count": 3,
     "flag": "green",
     "companies": [
-     "Diona Construction",
-     "F C E Projects",
-     "Taylor Plant"
-    ],
-    "drivers": [
-     "Utility and civil construction"
-    ]
-   },
-   {
-    "factor": "Unknown",
-    "share": 0.1,
-    "count": 2,
-    "flag": "green",
-    "companies": [
-     "Egnaro",
-     "Damoco Bidco"
-    ],
-    "drivers": [
-     "Unknown"
-    ]
-   },
-   {
-    "factor": "Mobile operator and emergency-services spend",
-    "share": 0.1,
-    "count": 2,
-    "flag": "green",
-    "companies": [
-     "FLR Spectron",
-     "Scci Alphatrack"
+     "Alert Communications",
+     "Scci Alphatrack",
+     "FLR Spectron"
     ],
     "drivers": [
      "Mobile, radio and critical comms"
@@ -165,15 +153,15 @@
     ]
    },
    {
-    "factor": "AI and cloud capex",
+    "factor": "Construction and utility capex",
     "share": 0.05,
     "count": 1,
     "flag": "green",
     "companies": [
-     "GO Green"
+     "Adman Civil Projects"
     ],
     "drivers": [
-     "Data centre and AI compute demand"
+     "Utility and civil construction"
     ]
    }
   ]
@@ -182,7 +170,7 @@
   {
    "rank": 1,
    "deal_type": "High-growth",
-   "deal_type_reason": "turnover up 55% in the latest year, margin 31%",
+   "deal_type_reason": "sales up 65% a year over 3 years, margin 31%",
    "fund_fit": "Growth and mid-market PE",
    "demand_driver": "Altnet and operator network build",
    "second_driver": "Business telecoms (SME)",
@@ -191,28 +179,8 @@
   },
   {
    "rank": 2,
-   "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 13%, turnover +17%",
-   "fund_fit": "Core and core-plus infrastructure funds",
-   "demand_driver": "Public sector budgets",
-   "second_driver": "",
-   "macro_factor": "Government spending",
-   "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"
-  },
-  {
-   "rank": 3,
-   "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (visibility 0.9), margin 14%, turnover +4%",
-   "fund_fit": "Core and core-plus infrastructure funds",
-   "demand_driver": "Offshore energy and maritime",
-   "second_driver": "Public sector budgets",
-   "macro_factor": "Offshore oil, gas, wind and shipping activity",
-   "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"
-  },
-  {
-   "rank": 4,
    "deal_type": "High-growth",
-   "deal_type_reason": "turnover up 46% in the latest year, margin 16%",
+   "deal_type_reason": "sales up 46% in one year (only one year read), margin 16%",
    "fund_fit": "Growth and mid-market PE",
    "demand_driver": "Offshore energy and maritime",
    "second_driver": "Utility and civil construction",
@@ -220,19 +188,29 @@
    "driver_basis": "Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"
   },
   {
-   "rank": 5,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "stable numbers (margin 24%) but project-based revenue (visibility 0.35)",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Altnet and operator network build",
+   "rank": 3,
+   "deal_type": "Steady compounder",
+   "deal_type_reason": "recurring-type revenue (estimated), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
+   "fund_fit": "Core and core-plus infrastructure funds",
+   "demand_driver": "Public sector budgets",
    "second_driver": "",
-   "macro_factor": "Altnet funding and interest rates",
-   "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
+   "macro_factor": "Government spending",
+   "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"
   },
   {
-   "rank": 6,
+   "rank": 4,
+   "deal_type": "Between buckets",
+   "deal_type_reason": "margin swung 11 points over the years read, too uneven for a steady compounder",
+   "fund_fit": "Depends on the reason given",
+   "demand_driver": "Offshore energy and maritime",
+   "second_driver": "Public sector budgets",
+   "macro_factor": "Offshore oil, gas, wind and shipping activity",
+   "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"
+  },
+  {
+   "rank": 5,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 41%, turnover +1%",
+   "deal_type_reason": "recurring-type revenue (estimated), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
@@ -240,29 +218,19 @@
    "driver_basis": "Judgement: business phone services (web-checked: Endole)"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "deal_type": "Between buckets",
-   "deal_type_reason": "stable numbers (margin 14%) but project-based revenue (visibility 0.35)",
+   "deal_type_reason": "margin 32% but project-based revenue (estimated)",
    "fund_fit": "Depends on the reason given",
-   "demand_driver": "Altnet and operator network build",
+   "demand_driver": "Mobile, radio and critical comms",
    "second_driver": "",
-   "macro_factor": "Altnet funding and interest rates",
-   "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"
+   "macro_factor": "Mobile operator and emergency-services spend",
+   "driver_basis": "Rule from business description (confirm)"
   },
   {
-   "rank": 8,
-   "deal_type": "Fixable dip",
-   "deal_type_reason": "turnover down 24% in the latest year; check whether it is temporary",
-   "fund_fit": "Value-add infrastructure and special-situations funds",
-   "demand_driver": "Offshore energy and maritime",
-   "second_driver": "",
-   "macro_factor": "Offshore oil, gas, wind and shipping activity",
-   "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"
-  },
-  {
-   "rank": 9,
+   "rank": 7,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (visibility 0.7), margin 22%, turnover +13%",
+   "deal_type_reason": "recurring-type revenue (estimated), margin 22%, sales up 13% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
@@ -270,26 +238,47 @@
    "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"
   },
   {
+   "rank": 8,
+   "deal_type": "Between buckets",
+   "deal_type_reason": "margin 24% but project-based revenue (estimated)",
+   "fund_fit": "Depends on the reason given",
+   "demand_driver": "Altnet and operator network build",
+   "second_driver": "",
+   "macro_factor": "Altnet funding and interest rates",
+   "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
+  },
+  {
+   "rank": 9,
+   "deal_type": "Under pressure",
+   "deal_type_reason": "thin EBITDA margin (24%); no specific fix identified yet",
+   "fund_fit": "None until a fix is identified",
+   "demand_driver": "Offshore energy and maritime",
+   "second_driver": "",
+   "macro_factor": "Offshore oil, gas, wind and shipping activity",
+   "driver_basis": "Judgement: subsea cable installation, demand from offshore oil, gas and wind (confirm)"
+  },
+  {
    "rank": 10,
    "deal_type": "Between buckets",
-   "deal_type_reason": "recurring-type revenue but margin only 5%",
+   "deal_type_reason": "margin swung 28 points over the years read, too uneven for a steady compounder",
    "fund_fit": "Depends on the reason given",
-   "demand_driver": "Hosting and cloud (SME)",
+   "demand_driver": "Altnet and operator network build",
    "second_driver": "",
-   "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Judgement: web hosting for small businesses (confirm)"
+   "macro_factor": "Altnet funding and interest rates",
+   "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"
   }
  ],
  "deal_type_counts": {
   "ranked": {
-   "Between buckets": 26,
-   "Fixable dip": 26,
-   "High-growth": 11,
-   "Steady compounder": 6,
-   "Numbers to check": 4
+   "Between buckets": 14,
+   "Under pressure": 10,
+   "Steady compounder": 4,
+   "High-growth": 2,
+   "Numbers to check": 2
   },
   "watchlist": {
-   "Fixable dip": 21
+   "Under pressure": 12,
+   "Growth infrastructure": 9
   }
  },
  "thresholds": {
@@ -298,5 +287,5 @@
   "amber_share": 0.3,
   "red_share": 0.5
  },
- "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on altnet funding and interest rates, 3 depend on offshore oil, gas, wind and shipping activity, 3 depend on SME IT and telecoms spending"
+ "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on altnet funding and interest rates, 3 depend on offshore oil, gas, wind and shipping activity"
 }
