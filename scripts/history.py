@@ -9,6 +9,7 @@ Skills: deal-screening (preliminary financial assessment).
 """
 import os
 import pandas as pd
+from fx import to_gbp
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 F_PATH, OUT = f'{ROOT}/data/deep_dive/facts.csv', f'{ROOT}/data/outputs'
@@ -40,6 +41,8 @@ H = (F.pivot_table(index=['CompanyNumber', 'CompanyName', 'fy'], columns='tag', 
 for c in TAGS.values():
     if c not in H:
         H[c] = pd.NA
+for c in TAGS.values():   # accounts in another currency are converted to pounds (config/company_currency.csv)
+    H[c] = pd.to_numeric(H[c], errors='coerce') * H['CompanyNumber'].map(to_gbp)
 H['profit'] = H['operating_profit'].fillna(H['profit_before_tax'])
 H['profit_basis'] = H['operating_profit'].notna().map({True: 'Operating profit', False: 'Profit before tax'})
 H['margin'] = H['profit'] / H['sales']

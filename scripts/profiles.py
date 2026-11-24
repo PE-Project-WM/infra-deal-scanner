@@ -6,6 +6,7 @@ Skills: deal-screening (business-quality flags), red-flag-register (each check i
 """
 import os, json
 import pandas as pd
+from fx import rate
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT, CFG = f'{ROOT}/data/outputs', f'{ROOT}/config'
@@ -61,12 +62,13 @@ def checks(r):
         out.append('Owner not yet confirmed')
     if num in BS.index:
         b = BS.loc[num].fillna(0)
-        nd = float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash'])
-        cur = '$' if b['currency'] == 'USD' else '£'
+        f = rate(b['currency'])   # balance sheet converted to pounds, like the ranking EBITDA
+        nd = float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash']) * f
+        owed = float(b['other_owed_to_group']) * f
         if r['ebitda'] > 0 and nd / r['ebitda'] >= 2:
-            out.append(f"Net debt of {cur}{nd / 1e6:.1f}m, {nd / r['ebitda']:.1f}x EBITDA: most of the price would go to lenders, not shareholders")
-        if float(b['other_owed_to_group']) > 2 * max(r['ebitda'], 1):
-            out.append(f"A further {cur}{float(b['other_owed_to_group']) / 1e6:.1f}m is owed to group companies: find out whether it is debt")
+            out.append(f"Net debt of {m(nd)}, {nd / r['ebitda']:.1f}x EBITDA: most of the price would go to lenders, not shareholders")
+        if owed > 2 * max(r['ebitda'], 1):
+            out.append(f"A further {m(owed)} is owed to group companies: find out whether it is debt")
     cover = hs(num, 'interest_cover')
     if cover is not None and cover < 3:
         out.append(f"Interest cover only {cover:.1f}x: check how much debt it already carries")

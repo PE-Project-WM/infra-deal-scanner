@@ -9,12 +9,22 @@ Skills: deal-screening (scoring rubric), market-map-and-sourcing (fit and access
 """
 import os, re, json, datetime
 import pandas as pd
+from fx import to_gbp, rate, currency, label
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT, CFG = f'{ROOT}/data/outputs', f'{ROOT}/config'
 C = json.load(open(f'{CFG}/criteria_digital_infra.json'))
 W = C['scoring_weights']
 D = pd.read_csv(f'{OUT}/candidates_clean.csv', dtype={'CompanyNumber': str})
+# Accounts filed in another currency (config/company_currency.csv) are converted to pounds before anything is compared
+MONEY = ['turnover', 'turnover_prior', 'operating_profit', 'ebitda', 'gross_profit', 'staff_costs', 'profit_before_tax', 'cash', 'net_assets']
+D['reported_currency'] = D['CompanyNumber'].map(currency)
+for i in D.index[D['reported_currency'] != 'GBP']:
+    f = to_gbp(D.at[i, 'CompanyNumber'])
+    for c in MONEY:
+        if c in D.columns and pd.notna(D.at[i, c]):
+            D.at[i, c] = D.at[i, c] * f
+    print(f"{D.at[i, 'CompanyName']}: {label(D.at[i, 'CompanyNumber'])}")
 S = D[D['goes_forward'] & (D['status'] == 'Shortlist')].copy()
 GATE = C['sector_gate']['ranked_if_relevance_in']
 check = S[~S['relevance'].isin(GATE)].copy()   # sector gate: an industry code alone is not enough to be ranked
@@ -28,11 +38,11 @@ BS_PATH = f'{CFG}/balance_sheet.csv'   # net debt transcribed from the latest ac
 BS = pd.read_csv(BS_PATH, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(BS_PATH) else pd.DataFrame()
 
 def net_debt(num):
-    """Net debt in the accounts' own currency (same currency as the EBITDA it is compared with), or None."""
+    """Net debt in pounds (converted from the accounts' currency, like the EBITDA it is compared with), or None."""
     if num not in BS.index:
         return None
     b = BS.loc[num].fillna(0)
-    return float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash'])
+    return float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash']) * rate(b['currency'])
 
 def hist(num, col):
     if num in HS.index and col in HS.columns and pd.notna(HS.at[num, col]):
@@ -129,6 +139,8 @@ def confidence(r):
         c -= 0.1
         reasons.append('only adjacent to the thesis')
     reasons.append('recurring revenue estimated')
+    if label(r['CompanyNumber']):
+        reasons.append(label(r['CompanyNumber']))
     level = 'High' if c >= 0.95 else 'Medium' if c >= 0.6 else 'Low'
     return level, '; '.join(reasons)
 
@@ -166,7 +178,7 @@ S['method_version'] = C['method_version'].split(' ')[0]
 cols = (['rank', 'CompanyName', 'CompanyNumber', 'score'] + [f'pts_{k}' for k in W] +
         ['confidence', 'confidence_reasons', 'margin_stability_basis', 'method_version',
          'accessibility', 'relevance', 'relevance_reason', 'segment', 'turnover', 'turnover_growth', 'ebitda',
-         'ebitda_margin', 'ebitda_basis', 'figures_source', 'revenue_visibility_basis', 'data_flags',
+         'ebitda_margin', 'ebitda_basis', 'figures_source', 'reported_currency', 'revenue_visibility_basis', 'data_flags',
          'ownership', 'owner_chain', 'owner_since_year', 'cash', 'net_assets', 'employees',
          'RegAddress.PostTown', 'accounts_filed', 'scored_on'])
 S = S[[c for c in cols if c in S.columns]]

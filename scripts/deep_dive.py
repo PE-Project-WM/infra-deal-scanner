@@ -97,6 +97,13 @@ for _, co in ranking.iterrows():
         open(f'{OUT}/text/{safe}_{rec["filed"]}.txt', 'w').write(text)
     print(f'{name}: {len(items[:YEARS])} filings')
 
-pd.DataFrame(filings).to_csv(f'{OUT}/filings.csv', index=False)
-pd.DataFrame(facts).to_csv(f'{OUT}/facts.csv', index=False)
+# Keep earlier deep dives for companies that have since left the top N, so their history (and score inputs) stay stable
+def keep_old(new, path):
+    new = pd.DataFrame(new)
+    if os.path.exists(path) and len(new):
+        old = pd.read_csv(path, dtype={'CompanyNumber': str})
+        new = pd.concat([old[~old['CompanyNumber'].isin(new['CompanyNumber'])], new], ignore_index=True)
+    return new
+keep_old(filings, f'{OUT}/filings.csv').to_csv(f'{OUT}/filings.csv', index=False)
+keep_old(facts, f'{OUT}/facts.csv').to_csv(f'{OUT}/facts.csv', index=False)
 print(f'Saved {len(filings)} filings and {len(facts)} tagged numbers to data/deep_dive')

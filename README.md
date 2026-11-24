@@ -37,7 +37,8 @@ The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run 
 
 - 842 of the 1,209 companies file scanned PDF accounts that are not read yet (OCR is planned).
 - The price check is a first pass: ranges come from listed peers and deal averages. Net debt is read from each top-ten company's latest accounts (up to two years old); debt held by owners' holding companies is not visible.
-- 41 profitable companies await a check that they really trade in the sector (`data/outputs/sector_check.csv`).
+- 12 profitable companies still await a check that they really trade in the sector (`data/outputs/sector_check.csv`): web checks on 24 Nov 2026 found no clear description of what they do. The other 29 of the 41 were settled that day (3 IN, 12 ADJACENT, 14 OUT, reasons in `config/relevance_draft.csv`).
+- Accounts filed in another currency are listed in `config/company_currency.csv` and converted to pounds (rate in `config/valuation.json`) before anything is compared; Satcom Global is the only one so far.
 - Repeat revenue is estimated from business type; balance sheet resilience is a proxy, not true debt capacity; figures read from the accounts text are labelled and should be checked against the filing.
 - Ownership comes from the register of people with significant control (from April 2016), corrected by web checks and the accounts where noted.
 

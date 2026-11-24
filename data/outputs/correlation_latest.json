@@ -6,20 +6,6 @@
   "flag": "amber",
   "factors": [
    {
-    "factor": "Altnet funding and interest rates",
-    "share": 0.3,
-    "count": 3,
-    "flag": "amber",
-    "companies": [
-     "VEA Group",
-     "MAP Group (UK)",
-     "C.A. Telecom UK"
-    ],
-    "drivers": [
-     "Altnet and operator network build"
-    ]
-   },
-   {
     "factor": "Offshore oil, gas, wind and shipping activity",
     "share": 0.3,
     "count": 3,
@@ -35,114 +21,34 @@
    },
    {
     "factor": "SME IT and telecoms spending",
-    "share": 0.2,
-    "count": 2,
-    "flag": "green",
+    "share": 0.3,
+    "count": 3,
+    "flag": "amber",
     "companies": [
      "Dstny Global Services UK",
-     "Barclay Digital Services"
+     "Barclay Digital Services",
+     "5G Communications"
     ],
     "drivers": [
      "Business telecoms (SME)"
     ]
    },
    {
-    "factor": "Government spending",
-    "share": 0.1,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "The Networking People (TNP)"
-    ],
-    "drivers": [
-     "Public sector budgets"
-    ]
-   },
-   {
-    "factor": "Mobile operator and emergency-services spend",
-    "share": 0.1,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "Alert Communications"
-    ],
-    "drivers": [
-     "Mobile, radio and critical comms"
-    ]
-   }
-  ]
- },
- "top_20": {
-  "n": 20,
-  "effective_bets": 3.6,
-  "flag": "amber",
-  "factors": [
-   {
-    "factor": "SME IT and telecoms spending",
-    "share": 0.45,
-    "count": 9,
-    "flag": "amber",
-    "companies": [
-     "Dstny Global Services UK",
-     "Barclay Digital Services",
-     "Siteground Hosting",
-     "Babble Cloud",
-     "Windsor Telecom",
-     "I.P. Integration",
-     "Nomios UK&I",
-     "Chess",
-     "Elitetele.Com"
-    ],
-    "drivers": [
-     "Business telecoms (SME)",
-     "Hosting and cloud (SME)"
-    ]
-   },
-   {
     "factor": "Altnet funding and interest rates",
-    "share": 0.15,
-    "count": 3,
+    "share": 0.2,
+    "count": 2,
     "flag": "green",
     "companies": [
      "VEA Group",
-     "MAP Group (UK)",
-     "C.A. Telecom UK"
+     "MAP Group (UK)"
     ],
     "drivers": [
      "Altnet and operator network build"
     ]
    },
    {
-    "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.15,
-    "count": 3,
-    "flag": "green",
-    "companies": [
-     "Clarus Networks",
-     "Satcom Global",
-     "A-2-Sea Solutions"
-    ],
-    "drivers": [
-     "Offshore energy and maritime"
-    ]
-   },
-   {
-    "factor": "Mobile operator and emergency-services spend",
-    "share": 0.15,
-    "count": 3,
-    "flag": "green",
-    "companies": [
-     "Alert Communications",
-     "Scci Alphatrack",
-     "FLR Spectron"
-    ],
-    "drivers": [
-     "Mobile, radio and critical comms"
-    ]
-   },
-   {
     "factor": "Government spending",
-    "share": 0.05,
+    "share": 0.1,
     "count": 1,
     "flag": "green",
     "companies": [
@@ -154,14 +60,108 @@
    },
    {
     "factor": "Construction and utility capex",
+    "share": 0.1,
+    "count": 1,
+    "flag": "green",
+    "companies": [
+     "Rapid Response Telecoms"
+    ],
+    "drivers": [
+     "Utility and civil construction"
+    ]
+   }
+  ]
+ },
+ "top_20": {
+  "n": 20,
+  "effective_bets": 5.0,
+  "flag": "amber",
+  "factors": [
+   {
+    "factor": "SME IT and telecoms spending",
+    "share": 0.3,
+    "count": 6,
+    "flag": "amber",
+    "companies": [
+     "Dstny Global Services UK",
+     "Barclay Digital Services",
+     "5G Communications",
+     "Siteground Hosting",
+     "Babble Cloud",
+     "Windsor Telecom"
+    ],
+    "drivers": [
+     "Business telecoms (SME)",
+     "Hosting and cloud (SME)"
+    ]
+   },
+   {
+    "factor": "Mobile operator and emergency-services spend",
+    "share": 0.2,
+    "count": 4,
+    "flag": "green",
+    "companies": [
+     "Croft Communications",
+     "Alert Communications",
+     "Radiocoms Systems",
+     "Scci Alphatrack"
+    ],
+    "drivers": [
+     "Mobile, radio and critical comms"
+    ]
+   },
+   {
+    "factor": "Altnet funding and interest rates",
+    "share": 0.15,
+    "count": 3,
+    "flag": "green",
+    "companies": [
+     "VEA Group",
+     "MAP Group (UK)",
+     "C.A. Telecom UK"
+    ],
+    "drivers": [
+     "Altnet and operator network build"
+    ]
+   },
+   {
+    "factor": "Offshore oil, gas, wind and shipping activity",
+    "share": 0.15,
+    "count": 3,
+    "flag": "green",
+    "companies": [
+     "Clarus Networks",
+     "Satcom Global",
+     "A-2-Sea Solutions"
+    ],
+    "drivers": [
+     "Offshore energy and maritime"
+    ]
+   },
+   {
+    "factor": "Construction and utility capex",
+    "share": 0.15,
+    "count": 3,
+    "flag": "green",
+    "companies": [
+     "Rapid Response Telecoms",
+     "Heneghan Holdings",
+     "GCU (UK)"
+    ],
+    "drivers": [
+     "Utility and civil construction"
+    ]
+   },
+   {
+    "factor": "Government spending",
     "share": 0.05,
     "count": 1,
     "flag": "green",
     "companies": [
-     "Adman Civil Projects"
+     "The Networking People (TNP)"
     ],
     "drivers": [
-     "Utility and civil construction"
+     "Public sector budgets"
     ]
    }
   ]
@@ -249,32 +249,32 @@
   },
   {
    "rank": 9,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "margin 32% but project-based revenue (estimated)",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Mobile, radio and critical comms",
+   "deal_type": "Steady compounder",
+   "deal_type_reason": "recurring-type revenue (estimated), margin 12%, sales up 0% in one year (only one year read), margin stability not yet tested",
+   "fund_fit": "Core and core-plus infrastructure funds",
+   "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
-   "macro_factor": "Mobile operator and emergency-services spend",
+   "macro_factor": "SME IT and telecoms spending",
    "driver_basis": "Rule from business description (confirm)"
   },
   {
    "rank": 10,
-   "deal_type": "Between buckets",
-   "deal_type_reason": "margin swung 28 points over the years read, too uneven for a steady compounder",
-   "fund_fit": "Depends on the reason given",
-   "demand_driver": "Altnet and operator network build",
+   "deal_type": "High-growth",
+   "deal_type_reason": "sales up 56% in one year (only one year read), margin 16%",
+   "fund_fit": "Growth and mid-market PE",
+   "demand_driver": "Utility and civil construction",
    "second_driver": "",
-   "macro_factor": "Altnet funding and interest rates",
-   "driver_basis": "Judgement: fibre installation and telecoms civils (web-checked profile)"
+   "macro_factor": "Construction and utility capex",
+   "driver_basis": "Rule from industry code only (confirm)"
   }
  ],
  "deal_type_counts": {
   "ranked": {
-   "Between buckets": 14,
-   "Under pressure": 10,
-   "Steady compounder": 4,
-   "High-growth": 2,
-   "Numbers to check": 2
+   "Under pressure": 16,
+   "Between buckets": 15,
+   "High-growth": 7,
+   "Steady compounder": 5,
+   "Numbers to check": 4
   },
   "watchlist": {
    "Under pressure": 12,
@@ -287,5 +287,5 @@
   "amber_share": 0.3,
   "red_share": 0.5
  },
- "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on altnet funding and interest rates, 3 depend on offshore oil, gas, wind and shipping activity"
+ "headline": "The top 10 is about 4 independent bets, not 10: 3 depend on offshore oil, gas, wind and shipping activity, 3 depend on SME IT and telecoms spending"
 }
