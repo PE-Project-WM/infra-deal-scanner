@@ -1,14 +1,13 @@
 {
   "_about": "Version 2 lenses: deal-type buckets and the demand-driver correlation map. Edit this file to retarget at another sub-sector. Built with the deal-screening skill (buckets) and the red-flag-register skill (correlation test: findings with one cause are one exposure).",
   "version": "2026-11-24",
-
   "deal_types": {
     "_rules": "Applied in order; the first match wins. Growth is the latest year's turnover growth, visibility is the revenue-visibility estimate (0-1) from score.py.",
     "high_growth_min_growth": 0.25,
-    "dip_max_growth": -0.10,
+    "dip_max_growth": -0.1,
     "dip_max_margin": 0.05,
     "compounder_min_visibility": 0.6,
-    "compounder_min_margin": 0.10,
+    "compounder_min_margin": 0.1,
     "compounder_min_growth": -0.05,
     "fund_fit": {
       "Steady compounder": "Core and core-plus infrastructure funds",
@@ -18,7 +17,6 @@
       "Numbers to check": "Fix the numbers first"
     }
   },
-
   "drivers": {
     "Altnet and operator network build": "Altnet funding and interest rates",
     "Consumer broadband": "Altnet funding and interest rates",
@@ -31,23 +29,58 @@
     "Utility and civil construction": "Construction and utility capex",
     "Unknown": "Unknown"
   },
-
   "driver_rules": [
-    ["public.sector|council|nhs|government", "Public sector budgets"],
-    ["offshore|maritime|subsea|marine", "Offshore energy and maritime"],
-    ["data cent|gpu|colocation", "Data centre and AI compute demand"],
-    ["hosting|cloud", "Hosting and cloud (SME)"],
-    ["broadband provider|altnet", "Consumer broadband"],
-    ["fibre install|splicing|fibre network|network build|telecoms civil", "Altnet and operator network build"],
-    ["radio|wireless|spectrum|antenna|mobile|tracking", "Mobile, radio and critical comms"],
-    ["business telecoms|phone|voice|broadband|it services|integrator|network operator", "Business telecoms (SME)"],
-    ["civil|construction|reinstatement|utility|surfacing|plant", "Utility and civil construction"]
+    [
+      "public.sector|council|nhs|government",
+      "Public sector budgets"
+    ],
+    [
+      "offshore|maritime|subsea|marine",
+      "Offshore energy and maritime"
+    ],
+    [
+      "data cent|gpu|colocation",
+      "Data centre and AI compute demand"
+    ],
+    [
+      "hosting|cloud",
+      "Hosting and cloud (SME)"
+    ],
+    [
+      "broadband provider|altnet",
+      "Consumer broadband"
+    ],
+    [
+      "fibre install|splicing|fibre network|network build|telecoms civil",
+      "Altnet and operator network build"
+    ],
+    [
+      "radio|wireless|spectrum|antenna|mobile|tracking",
+      "Mobile, radio and critical comms"
+    ],
+    [
+      "business telecoms|phone|voice|broadband|it services|integrator|network operator",
+      "Business telecoms (SME)"
+    ],
+    [
+      "civil|construction|reinstatement|utility|surfacing|plant",
+      "Utility and civil construction"
+    ]
   ],
-
   "correlation_test": {
     "_rule": "Share of the top N companies driven by one macro factor. Companies sharing a factor are one bet, not several.",
     "top_n": 10,
-    "amber_share": 0.30,
-    "red_share": 0.50
+    "amber_share": 0.3,
+    "red_share": 0.5
+  },
+  "factor_explainers": {
+    "Altnet funding and interest rates": "Paid by new fibre networks to lay cable. If those networks raise less money or rates stay high, they build less and these companies lose work together.",
+    "Offshore oil, gas, wind and shipping activity": "Serve ships, rigs and offshore wind farms. A fall in offshore activity would hit all of them at once.",
+    "SME IT and telecoms spending": "Sell phone, network and hosting services to small and mid-sized businesses. A squeeze on business budgets would hit them together.",
+    "Government spending": "Run networks for councils, schools and the NHS. Depends on public budgets.",
+    "AI and cloud capex": "Depend on companies spending on data centres and computing power.",
+    "Mobile operator and emergency-services spend": "Depend on mobile networks and emergency services buying radio and wireless work.",
+    "Construction and utility capex": "General building and utility contractors. Depend on the construction cycle.",
+    "Unknown": "Not enough information yet to say what drives demand."
   }
 }
