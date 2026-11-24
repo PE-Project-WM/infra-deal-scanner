@@ -5,8 +5,8 @@
  "headline": "Scoring method updated (v3.1): 2 new in the top 10, 2 dropped out, 7 moved within it",
  "method_changed": true,
  "method_version": "v3.1",
- "events_count": 3,
- "companies_checked": 32,
+ "events_count": 6,
+ "companies_checked": 47,
  "top10": [
   {
    "rank": 1,
@@ -302,7 +302,9 @@
    "reasons": [
     "entered the ranking (IN fit, high accessibility)"
    ],
-   "events": []
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
   },
   {
    "company": "Alert Communications",
@@ -766,7 +768,10 @@
    "reasons": [
     "entered the ranking (ADJACENT fit, medium accessibility)"
    ],
-   "events": []
+   "events": [
+    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
+    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
+   ]
   },
   {
    "company": "Glenelly Infrastructure Solutions",
@@ -805,7 +810,9 @@
    "reasons": [
     "entered the ranking (IN fit, high accessibility)"
    ],
-   "events": []
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
   },
   {
    "company": "Opus Tech",
@@ -921,6 +928,27 @@
    "event": "Director appointed",
    "date": "2026-11-04",
    "detail": "Britton, Cara Marie appointed"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Michael Edward resigned"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Patrick William resigned"
+  },
+  {
+   "CompanyNumber": "11480193",
+   "CompanyName": "RAPID RESPONSE TELECOMS LTD",
+   "event": "New charge",
+   "date": "2026-10-16",
+   "detail": "Security registered in favour of Barclays Bank PLC (possible new borrowing)"
   },
   {
    "CompanyNumber": "NI064545",

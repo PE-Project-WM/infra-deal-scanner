@@ -1,15 +1,18 @@
 # Weekly update: 2026-11-24
 
-**Scoring method updated (v3.1): 0 new in the top 10, 0 dropped out, 6 moved within it.** Checked 32 ranked companies for changes since 2026-08-26; 3 Companies House events found.
+**Scoring method updated (v3.1): 2 new in the top 10, 2 dropped out, 7 moved within it.** Checked 47 ranked companies for changes since 2026-08-26; 6 Companies House events found.
 
 ## Top 10 changes
 
 - **Dstny Global Services UK** (5 → 4): scoring method changed (v3 to v3.1)
 - **Barclay Digital Services** (7 → 5): scoring method changed (v3 to v3.1)
-- **Satcom Global** (4 → 6): scoring method changed (v3 to v3.1) Events: Director resigned (2026-09-02): Leydon, Chris resigned
+- **Satcom Global** (4 → 6): turnover £36.3m → £27.5m; scoring method changed (v3 to v3.1) Events: Director resigned (2026-09-02): Leydon, Chris resigned
 - **MAP Group (UK)** (8 → 7): scoring method changed (v3 to v3.1)
 - **A-2-Sea Solutions** (9 → 8): scoring method changed (v3 to v3.1)
-- **Alert Communications** (6 → 9): scoring method changed (v3 to v3.1) Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
+- **5G Communications** (new at 9): entered the ranking (ADJACENT fit, high accessibility)
+- **Rapid Response Telecoms** (new at 10): entered the ranking (IN fit, high accessibility) Events: New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)
+- **Alert Communications** (6 → 14): scoring method changed (v3 to v3.1) Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
+- **C.A. Telecom UK** (10 → 15): scoring method changed (v3 to v3.1)
 
 ## Current top 10
 
@@ -23,8 +26,5 @@
 | 6 | Satcom Global | 73.3 | IN | High |
 | 7 | MAP Group (UK) | 73.1 | IN | Low |
 | 8 | A-2-Sea Solutions | 73.0 | IN | High |
-| 9 | Alert Communications | 66.9 | ADJACENT | Medium |
-| 10 | C.A. Telecom UK | 66.7 | IN | Medium |
-
-## Companies House events
-
+| 9 | 5G Communications | 69.1 | ADJACENT | High |
+| 10 | Rapid Response Telecoms | 67.8 | IN | High |
