@@ -18,6 +18,7 @@ Built by William Mikollovci with Python, GitHub Actions and Claude.
 | 6. Weekly update | New accounts, owners, charges, directors and status changes; re-rank and explain each move from the points that changed | `scripts/monitor.py`, `scripts/compare.py` |
 | 6b. Deal types and correlation (Version 2) | Each company labelled Steady compounder, Fixable dip or High-growth (which kind of fund it suits) and tagged with its main demand driver; the top 10 is tested for hidden concentration on one macro factor (amber at 30%, red at 50%) | `scripts/lenses.py`, `config/demand_drivers.json`, `config/demand_driver_overrides.csv` |
 | 6c. Profiles | Why each company is on the list and what to check first (ownership, interest cover, margin swings, estimated figures, growth source) | `scripts/profiles.py`, `config/company_notes.csv` |
+| 6d. Price check | Indicative price range from listed peers and deal multiples, plus a sponsor returns check (walk-away multiple for a 20% IRR, exit flat to entry, debt fixed in pounds). Kept separate from the score | `scripts/valuation.py`, `config/valuation.json` |
 | 7. Website | Rebuilt from the latest run and published with GitHub Pages | `scripts/site.py` + `scripts/site_template.html` → `docs/` |
 
 The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run commits its results to `data/` and opens an issue with the update.
@@ -34,7 +35,7 @@ The weekly run is `.github/workflows/weekly.yml` (Mondays, 05:30 UTC). Each run 
 ## Known limits
 
 - 842 of the 1,209 companies file scanned PDF accounts that are not read yet (OCR is planned).
-- No valuation yet: the score measures fit with the thesis, not price.
+- The price check is a first pass: ranges come from listed peers and deal averages, and net debt is mostly unknown.
 - 41 profitable companies await a check that they really trade in the sector (`data/outputs/sector_check.csv`).
 - Repeat revenue is estimated from business type; balance sheet resilience is a proxy, not true debt capacity; figures read from the accounts text are labelled and should be checked against the filing.
 - Ownership comes from the register of people with significant control (from April 2016), corrected by web checks and the accounts where noted.
