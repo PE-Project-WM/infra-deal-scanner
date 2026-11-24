@@ -1,24 +1,24 @@
-Companies to score: 73
- rank                         CompanyName  score relevance turnover ebitda_margin                                                     accessibility
-    1                   VEA GROUP LIMITED   96.0        IN    32.6m         31.0% Low-Medium: UK arm of an overseas founder group, carve-out needed
-    2 THE NETWORKING PEOPLE (TNP) LIMITED   88.6        IN    18.1m         13.0%    Low: sponsor bought in the last 2 years, unlikely to sell soon
-    3               SATCOM GLOBAL LIMITED   86.0        IN    36.3m         14.0%                High: founder-owned, proprietary approach possible
-    4             CLARUS NETWORKS LIMITED   85.7        IN    26.7m         16.0%                High: founder-owned, proprietary approach possible
-    5              MAP GROUP (UK) LIMITED   80.0        IN    75.6m         24.0%                              Low: employee-owned, rarely for sale
-    6        DSTNY GLOBAL SERVICES UK LTD   76.9  ADJACENT    12.6m         41.0%                                        Check: ownership not found
-    7             C.A. TELECOM UK LIMITED   76.4        IN    18.4m         14.0%                            Medium: owned via a UK holding company
-    8           A-2-SEA SOLUTIONS LIMITED   73.0        IN    15.2m         24.0%                High: founder-owned, proprietary approach possible
-    9        BARCLAY DIGITAL SERVICES LTD   72.0  ADJACENT    17.5m         22.0%                High: founder-owned, proprietary approach possible
-   10             SITEGROUND HOSTING LTD.   70.7  ADJACENT    49.0m          5.0%                High: founder-owned, proprietary approach possible
-   11             DIONA CONSTRUCTION LTD.   69.9    UNSURE    23.6m         28.0%                                        Check: ownership not found
-   12                BABBLE CLOUD LIMITED   69.8  ADJACENT    85.3m          8.0%           Medium: sponsor-owned, sale timing depends on hold year
-   13                      EGNARO LIMITED   69.6    UNSURE    22.0m         13.0%                            Medium: owned via a UK holding company
-   14                DAMOCO BIDCO LIMITED   67.8    UNSURE    13.7m         30.0%           Medium: sponsor-owned, sale timing depends on hold year
-   15                FLR SPECTRON LIMITED   67.8  ADJACENT    18.0m          9.0%                High: founder-owned, proprietary approach possible
-   16              F C E PROJECTS LIMITED   65.9    UNSURE    15.1m         25.0%           Medium: sponsor-owned, sale timing depends on hold year
-   17                 SCCI ALPHATRACK LTD   65.7  ADJACENT    32.6m         12.0%           Medium: sponsor-owned, sale timing depends on hold year
-   18                    GO GREEN LIMITED   64.2    UNSURE    61.1m          9.0%                High: founder-owned, proprietary approach possible
-   19            I.P. INTEGRATION LIMITED   64.1  ADJACENT    39.7m          6.0%           Medium: sponsor-owned, sale timing depends on hold year
-   20                    TAYLOR PLANT LTD   63.5    UNSURE    13.5m         21.0%                                        Check: ownership not found
+Companies to score: 32 (41 more need a sector check first)
+ rank                         CompanyName  score confidence relevance turnover ebitda_margin                                                     accessibility
+    1                   VEA GROUP LIMITED   91.8       High        IN    32.6m         31.0% Low-Medium: UK arm of an overseas founder group, carve-out needed
+    2             CLARUS NETWORKS LIMITED   84.6        Low        IN    26.7m         16.0%                High: founder-owned, proprietary approach possible
+    3 THE NETWORKING PEOPLE (TNP) LIMITED   83.0       High        IN    18.1m         13.0%    Low: sponsor bought in the last 2 years, unlikely to sell soon
+    4               SATCOM GLOBAL LIMITED   79.2     Medium        IN    36.3m         14.0%                High: founder-owned, proprietary approach possible
+    5        DSTNY GLOBAL SERVICES UK LTD   77.7     Medium  ADJACENT    12.6m         41.0%                                        Check: ownership not found
+    6        ALERT COMMUNICATIONS LIMITED   73.9        Low  ADJACENT    10.8m         32.0%           Medium: sponsor-owned, sale timing depends on hold year
+    7        BARCLAY DIGITAL SERVICES LTD   73.6        Low  ADJACENT    17.5m         22.0%                High: founder-owned, proprietary approach possible
+    8              MAP GROUP (UK) LIMITED   73.1     Medium        IN    75.6m         24.0%                              Low: employee-owned, rarely for sale
+    9           A-2-SEA SOLUTIONS LIMITED   73.0     Medium        IN    15.2m         24.0%                High: founder-owned, proprietary approach possible
+   10             C.A. TELECOM UK LIMITED   66.7       High        IN    18.4m         14.0%                            Medium: owned via a UK holding company
+   11             SITEGROUND HOSTING LTD.   64.0     Medium  ADJACENT    49.0m          5.0%                High: founder-owned, proprietary approach possible
+   12                BABBLE CLOUD LIMITED   63.6     Medium  ADJACENT    85.3m          8.0%           Medium: sponsor-owned, sale timing depends on hold year
+   13             WINDSOR TELECOM LIMITED   63.3        Low  ADJACENT    15.4m         13.0%                              Low: employee-owned, rarely for sale
+   14                 SCCI ALPHATRACK LTD   60.9     Medium  ADJACENT    32.6m         12.0%           Medium: sponsor-owned, sale timing depends on hold year
+   15        ADMAN CIVIL PROJECTS LIMITED   56.9     Medium  ADJACENT    53.0m         10.0%                              Low: employee-owned, rarely for sale
+   16            I.P. INTEGRATION LIMITED   56.7     Medium  ADJACENT    39.7m          6.0%           Medium: sponsor-owned, sale timing depends on hold year
+   17                 NOMIOS UK&I LIMITED   56.0        Low  ADJACENT    52.5m          6.0%                            Medium: owned via a UK holding company
+   18                FLR SPECTRON LIMITED   55.8     Medium  ADJACENT    18.0m          9.0%                High: founder-owned, proprietary approach possible
+   19                       CHESS LIMITED   55.0        Low  ADJACENT    46.0m          7.0%                High: founder-owned, proprietary approach possible
+   20               ELITETELE.COM LIMITED   54.9        Low  ADJACENT    16.9m          8.0%                High: founder-owned, proprietary approach possible
 
-Saved ranking_latest.csv and a dated copy in data/outputs/rankings/
+Saved ranking_latest.csv, a dated copy in data/outputs/rankings/ and sector_check.csv
