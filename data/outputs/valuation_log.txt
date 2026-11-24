@@ -1,13 +1,13 @@
- rank                         CompanyName              basis  mult_low  mult_high  ev_low  ev_high  growth_assumed  irr_mid  walk_away_mult                                     verdict
-    1                   VEA GROUP LIMITED Recurring services       6.0        8.0    59.7     79.6             6.0     17.3             6.1 Clears 20% only at the low end of the range
-    2             CLARUS NETWORKS LIMITED Recurring services       6.0        8.0    25.8     34.3             6.0     16.5             5.8         Does not clear 20% within the range
-    3 THE NETWORKING PEOPLE (TNP) LIMITED Recurring services       5.5        7.5    12.7     17.3             6.0     16.2             5.4         Does not clear 20% within the range
-    4               SATCOM GLOBAL LIMITED Recurring services       6.0        8.0    30.0     40.0             1.6      9.8             4.5         Does not clear 20% within the range
-    5        DSTNY GLOBAL SERVICES UK LTD Recurring services       6.0        8.0    30.8     41.0             0.4      9.3             4.5         Does not clear 20% within the range
-    6        ALERT COMMUNICATIONS LIMITED Project contractor       5.0        7.0    17.2     24.1             0.7     11.4             4.1         Does not clear 20% within the range
-    7        BARCLAY DIGITAL SERVICES LTD Recurring services       6.0        8.0    23.4     31.2             6.0     16.9             6.0         Does not clear 20% within the range
-    8              MAP GROUP (UK) LIMITED Project contractor       5.0        7.0    90.5    126.8             0.8     11.2             4.1         Does not clear 20% within the range
-    9           A-2-SEA SOLUTIONS LIMITED Project contractor       5.0        7.0    18.2     25.5             1.8     12.6             4.3         Does not clear 20% within the range
-   10             C.A. TELECOM UK LIMITED Project contractor       4.5        6.5    11.1     16.1             0.0      7.9             3.4         Does not clear 20% within the range
+ rank                         CompanyName currency  ebitda  ev_low  ev_high  net_debt  equity_low  equity_high cash_conversion  irr_mid  walk_away_mult                                     verdict  growth_assumed
+    1                   VEA GROUP LIMITED      GBP    10.0    59.7     79.6     -12.7        72.4         92.3             76%     15.6             5.6         Does not clear 20% within the range               0
+    2             CLARUS NETWORKS LIMITED      GBP     4.3    25.8     34.3      -2.9        28.7         37.3             90%     17.6             6.2 Clears 20% only at the low end of the range               0
+    3 THE NETWORKING PEOPLE (TNP) LIMITED      GBP     2.3    12.7     17.3      -1.6        14.3         18.9             99%     15.8             5.3         Does not clear 20% within the range               0
+    4        DSTNY GLOBAL SERVICES UK LTD      GBP     5.1    30.8     41.0      -0.6        31.4         41.7                      9.3             4.5         Does not clear 20% within the range               0
+    5        BARCLAY DIGITAL SERVICES LTD      GBP     3.9    23.4     31.2      -1.1        24.5         32.3             32%     12.2             4.6         Does not clear 20% within the range               0
+    6               SATCOM GLOBAL LIMITED      USD     3.8    22.7     30.3      14.9         7.8         15.4                      7.7             4.0         Does not clear 20% within the range               0
+    7              MAP GROUP (UK) LIMITED      GBP    18.1    90.5    126.8      -4.7        95.3        131.5            100%     14.1             4.7         Does not clear 20% within the range               0
+    8           A-2-SEA SOLUTIONS LIMITED      GBP     3.6    18.2     25.5      -2.1        20.3         27.6                     12.6             4.3         Does not clear 20% within the range               0
+    9        ALERT COMMUNICATIONS LIMITED      GBP     3.4    17.2     24.1      15.8         1.4          8.3                     11.4             4.1         Does not clear 20% within the range               0
+   10             C.A. TELECOM UK LIMITED      GBP     2.5    11.1     16.1     -11.5        22.6         27.5            146%     14.4             4.4         Does not clear 20% within the range               0
 
 Saved valuation_latest.csv and .json (10 companies)

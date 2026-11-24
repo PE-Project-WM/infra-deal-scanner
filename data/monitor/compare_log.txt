@@ -1,20 +1,15 @@
 # Weekly update: 2026-11-24
 
-**Scoring method updated (v3): 1 new in the top 10, 1 dropped out, 10 moved within it.** Checked 32 ranked companies for changes since 2026-08-26; 3 Companies House events found.
+**Scoring method updated (v3.1): 0 new in the top 10, 0 dropped out, 6 moved within it.** Checked 32 ranked companies for changes since 2026-08-26; 3 Companies House events found.
 
 ## Top 10 changes
 
-- **VEA Group** (stays 1): scoring method changed (v1 to v3)
-- **Clarus Networks** (4 → 2): scoring method changed (v1 to v3)
-- **The Networking People (TNP)** (2 → 3): scoring method changed (v1 to v3)
-- **Satcom Global** (3 → 4): scoring method changed (v1 to v3) Events: Director resigned (2026-09-02): Leydon, Chris resigned
-- **Dstny Global Services UK** (6 → 5): scoring method changed (v1 to v3)
-- **Alert Communications** (24 → 6): scoring method changed (v1 to v3) Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
-- **Barclay Digital Services** (9 → 7): scoring method changed (v1 to v3)
-- **MAP Group (UK)** (5 → 8): scoring method changed (v1 to v3)
-- **A-2-Sea Solutions** (8 → 9): scoring method changed (v1 to v3)
-- **C.A. Telecom UK** (7 → 10): scoring method changed (v1 to v3)
-- **Siteground Hosting** (10 → 11): scoring method changed (v1 to v3)
+- **Dstny Global Services UK** (5 → 4): scoring method changed (v3 to v3.1)
+- **Barclay Digital Services** (7 → 5): scoring method changed (v3 to v3.1)
+- **Satcom Global** (4 → 6): scoring method changed (v3 to v3.1) Events: Director resigned (2026-09-02): Leydon, Chris resigned
+- **MAP Group (UK)** (8 → 7): scoring method changed (v3 to v3.1)
+- **A-2-Sea Solutions** (9 → 8): scoring method changed (v3 to v3.1)
+- **Alert Communications** (6 → 9): scoring method changed (v3 to v3.1) Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
 
 ## Current top 10
 
@@ -23,8 +18,13 @@
 | 1 | VEA Group | 91.8 | IN | Low-Medium |
 | 2 | Clarus Networks | 84.6 | IN | High |
 | 3 | The Networking People (TNP) | 83.0 | IN | Low |
-| 4 | Satcom Global | 79.2 | IN | High |
-| 5 | Dstny Global Services UK | 77.7 | ADJACENT | Check |
-| 6 | Alert Communications | 73.9 | ADJACENT | Medium |
-| 7 | Barclay Digital Services | 73.6 | ADJACENT | High |
-| 8 | MAP Group (UK) | 73.1 | IN | Low |
+| 4 | Dstny Global Services UK | 77.7 | ADJACENT | Check |
+| 5 | Barclay Digital Services | 73.6 | ADJACENT | High |
+| 6 | Satcom Global | 73.3 | IN | High |
+| 7 | MAP Group (UK) | 73.1 | IN | Low |
+| 8 | A-2-Sea Solutions | 73.0 | IN | High |
+| 9 | Alert Communications | 66.9 | ADJACENT | Medium |
+| 10 | C.A. Telecom UK | 66.7 | IN | Medium |
+
+## Companies House events
+
