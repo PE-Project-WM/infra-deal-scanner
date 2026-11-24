@@ -20,13 +20,13 @@
    {
     "year": 2024,
     "sales": 11906487.0,
-    "margin": 0.17386891700297494,
+    "margin": 0.1738689170029749,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 21059192.0,
-    "margin": 0.15644019010795857,
+    "margin": 0.1564401901079585,
     "basis": "Operating profit"
    },
    {
@@ -40,7 +40,7 @@
   "interest_cover": null,
   "revenue_mix": "Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
   "revenue_mix_source": "VEA accounts FY Feb 2026 (business review, principal risks); VEA Telecoms job adverts on maintenance contracts",
-  "capex_share": 0.00977135856940696
+  "capex_share": 0.0097713585694069
  },
  "SC492820": {
   "rank": 2,
@@ -53,8 +53,8 @@
    "Cash of \u00a33.2m and net assets of \u00a35.5m"
   ],
   "checks": [
-   "Sales up 46% in one year: check how much came from acquisitions or one-off contracts",
    "Figures were read from the text of the accounts: check them against the filing",
+   "Operating profit includes \u00a31.2m of R&D tax credit (RDEC) income; without it the operating margin is 10.7%, not 15.2%: price off the lower figure unless the credit recurs",
    "Depends on Starlink and other satellite operators as suppliers; 22% of sales outside the UK",
    "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
@@ -111,33 +111,33 @@
    {
     "year": 2023,
     "sales": 11631850.0,
-    "margin": 0.028791292872586905,
+    "margin": 0.0287912928725869,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 13107972.0,
-    "margin": 0.044652902828904426,
+    "margin": 0.0446529028289044,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 15518554.0,
-    "margin": 0.06336666418791338,
+    "margin": 0.0633666641879133,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 18099102.0,
-    "margin": 0.11778722502365034,
+    "margin": 0.1177872250236503,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 2304777.0,
-  "interest_cover": 241.40448420337447,
+  "interest_cover": 241.4044842033745,
   "revenue_mix": "Accounts split sales: connectivity \u00a37.5m (41%), labour and support \u00a33.2m (18%), materials \u00a37.4m (41%). \u00a34.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
   "revenue_mix_source": "TNP accounts FY Mar 2026 (turnover note, creditors note, strategic report)",
-  "capex_share": 0.02902042784477803
+  "capex_share": 0.029020427844778
  },
  "08414530": {
   "rank": 5,
@@ -164,7 +164,7 @@
    {
     "year": 2025,
     "sales": 12584106.0,
-    "margin": 0.33331616882438847,
+    "margin": 0.3333161688243884,
     "basis": "Operating profit"
    }
   ],
@@ -196,7 +196,7 @@
    {
     "year": 2025,
     "sales": 75597498.0,
-    "margin": 0.23438915928143547,
+    "margin": 0.2343891592814354,
     "basis": "Operating profit"
    }
   ],
@@ -204,7 +204,7 @@
   "interest_cover": 264.5886006958443,
   "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at \u00a375.6m. No split between ongoing maintenance and one-off build work.",
   "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
-  "capex_share": 0.0032031864380687794
+  "capex_share": 0.0032031864380687
  },
  "05208041": {
   "rank": 7,
@@ -228,24 +228,24 @@
   "history": [
    {
     "year": 2022,
-    "sales": 25796767.136800002,
-    "margin": 0.05592073547627279,
+    "sales": 25796767.1368,
+    "margin": 0.0559207354762727,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 26319386.8904,
-    "margin": 0.02495311017444521,
+    "margin": 0.0249531101744452,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 27504819.520000003,
-    "margin": 0.13762438989456055,
+    "margin": 0.1376243898945605,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 3785334.0056000003,
+  "ebitda": 3785334.0056,
   "interest_cover": 2.2927420316988334,
   "revenue_mix": "All sales are satellite airtime ($36.3m), billed by usage to maritime and land customers, so revenue repeats but varies with use. Customers are spread: Asia 36%, Europe and Middle East 30%, US 18%, Oceania 16%.",
   "revenue_mix_source": "Satcom Global accounts FY Jun 2024 (turnover note, strategic report)",
@@ -306,7 +306,7 @@
   "interest_cover": 39.777972676673976,
   "revenue_mix": "Fibre build and installation services; sales up 56% to \u00a333.1m. Work is priced under fixed framework contracts, so it is repeat work but project by project.",
   "revenue_mix_source": "Rapid Response Telecoms accounts FY Jul 2025 (strategic report)",
-  "capex_share": 0.06450148677967799
+  "capex_share": 0.0645014867796779
  },
  "09956206": {
   "rank": 10,
@@ -397,13 +397,13 @@
    {
     "year": 2023,
     "sales": 17175614.0,
-    "margin": -0.006756032127876186,
+    "margin": -0.0067560321278761,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 18385935.0,
-    "margin": 0.10794740653657266,
+    "margin": 0.1079474065365726,
     "basis": "Operating profit"
    }
   ],
@@ -411,7 +411,7 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.036401616097723674
+  "capex_share": 0.0364016160977236
  },
  "03513467": {
   "rank": 14,

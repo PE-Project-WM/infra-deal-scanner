@@ -2,104 +2,110 @@
  "date": "2026-11-24",
  "top_n": {
   "n": 10,
-  "effective_bets": 5.6,
-  "flag": "green",
+  "effective_bets": 4.2,
+  "flag": "amber",
   "factors": [
    {
     "factor": "Altnet funding and interest rates",
-    "share": 0.2,
-    "count": 2,
-    "flag": "green",
+    "share": 0.33,
+    "exposure": 3.3,
+    "count": 4,
+    "flag": "amber",
     "companies": [
-     "VEA Group",
-     "MAP Group (UK)"
+     "Heneghan Holdings (90%)",
+     "VEA Group (85%)",
+     "Rapid Response Telecoms (80%)",
+     "MAP Group (UK) (75%)"
     ],
     "drivers": [
      "Altnet and operator network build"
     ]
    },
    {
-    "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.2,
+    "factor": "Government spending",
+    "share": 0.26,
+    "exposure": 2.6,
     "count": 2,
     "flag": "green",
     "companies": [
-     "Clarus Networks",
-     "Satcom Global"
+     "Alert Communications",
+     "The Networking People (TNP) (85%)",
+     "Satcom Global (30%)",
+     "Clarus Networks (25%)",
+     "MAP Group (UK) (10%)",
+     "Barclay Digital Services (10%)"
     ],
     "drivers": [
-     "Offshore energy and maritime"
+     "Public sector budgets"
     ]
    },
    {
     "factor": "SME IT and telecoms spending",
     "share": 0.2,
+    "exposure": 2.0,
     "count": 2,
     "flag": "green",
     "companies": [
      "Dstny Global Services UK",
-     "Barclay Digital Services"
+     "Barclay Digital Services (90%)",
+     "The Networking People (TNP) (15%)"
     ],
     "drivers": [
      "Business telecoms (SME)"
     ]
    },
    {
-    "factor": "Construction and utility capex",
-    "share": 0.2,
+    "factor": "Offshore oil, gas, wind and shipping activity",
+    "share": 0.12,
+    "exposure": 1.2,
     "count": 2,
     "flag": "green",
     "companies": [
-     "Rapid Response Telecoms",
-     "Heneghan Holdings"
+     "Satcom Global (70%)",
+     "Clarus Networks (50%)"
+    ],
+    "drivers": [
+     "Offshore energy and maritime"
+    ]
+   },
+   {
+    "factor": "Construction and utility capex",
+    "share": 0.09,
+    "exposure": 0.9,
+    "count": 0,
+    "flag": "green",
+    "companies": [
+     "Clarus Networks (25%)",
+     "Rapid Response Telecoms (20%)",
+     "VEA Group (15%)",
+     "MAP Group (UK) (15%)",
+     "Heneghan Holdings (10%)"
     ],
     "drivers": [
      "Utility and civil construction"
-    ]
-   },
-   {
-    "factor": "Mobile operator and emergency-services spend",
-    "share": 0.1,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "Alert Communications"
-    ],
-    "drivers": [
-     "Mobile, radio and critical comms"
-    ]
-   },
-   {
-    "factor": "Government spending",
-    "share": 0.1,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "The Networking People (TNP)"
-    ],
-    "drivers": [
-     "Public sector budgets"
     ]
    }
   ]
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 4.9,
+  "effective_bets": 5.0,
   "flag": "amber",
   "factors": [
    {
     "factor": "SME IT and telecoms spending",
     "share": 0.3,
+    "exposure": 6.0,
     "count": 6,
     "flag": "amber",
     "companies": [
      "Dstny Global Services UK",
-     "Barclay Digital Services",
-     "5G Communications",
      "Siteground Hosting",
+     "5G Communications",
      "Babble Cloud",
-     "Windsor Telecom"
+     "Windsor Telecom",
+     "Barclay Digital Services (90%)",
+     "The Networking People (TNP) (15%)"
     ],
     "drivers": [
      "Business telecoms (SME)",
@@ -107,12 +113,29 @@
     ]
    },
    {
-    "factor": "Mobile operator and emergency-services spend",
-    "share": 0.2,
-    "count": 4,
+    "factor": "Altnet funding and interest rates",
+    "share": 0.21,
+    "exposure": 4.3,
+    "count": 5,
     "flag": "green",
     "companies": [
-     "Alert Communications",
+     "C.A. Telecom UK",
+     "Heneghan Holdings (90%)",
+     "VEA Group (85%)",
+     "Rapid Response Telecoms (80%)",
+     "MAP Group (UK) (75%)"
+    ],
+    "drivers": [
+     "Altnet and operator network build"
+    ]
+   },
+   {
+    "factor": "Mobile operator and emergency-services spend",
+    "share": 0.15,
+    "exposure": 3.0,
+    "count": 3,
+    "flag": "green",
+    "companies": [
      "Croft Communications",
      "Radiocoms Systems",
      "Scci Alphatrack"
@@ -123,56 +146,53 @@
    },
    {
     "factor": "Construction and utility capex",
-    "share": 0.2,
-    "count": 4,
+    "share": 0.14,
+    "exposure": 2.9,
+    "count": 2,
     "flag": "green",
     "companies": [
-     "Rapid Response Telecoms",
-     "Heneghan Holdings",
+     "Glenelly Infrastructure Solutions",
      "GCU (UK)",
-     "Glenelly Infrastructure Solutions"
+     "Clarus Networks (25%)",
+     "Rapid Response Telecoms (20%)",
+     "VEA Group (15%)",
+     "MAP Group (UK) (15%)",
+     "Heneghan Holdings (10%)"
     ],
     "drivers": [
      "Utility and civil construction"
     ]
    },
    {
-    "factor": "Altnet funding and interest rates",
-    "share": 0.15,
-    "count": 3,
+    "factor": "Government spending",
+    "share": 0.13,
+    "exposure": 2.6,
+    "count": 2,
     "flag": "green",
     "companies": [
-     "VEA Group",
-     "MAP Group (UK)",
-     "C.A. Telecom UK"
+     "Alert Communications",
+     "The Networking People (TNP) (85%)",
+     "Satcom Global (30%)",
+     "Clarus Networks (25%)",
+     "MAP Group (UK) (10%)",
+     "Barclay Digital Services (10%)"
     ],
     "drivers": [
-     "Altnet and operator network build"
+     "Public sector budgets"
     ]
    },
    {
     "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.1,
+    "share": 0.06,
+    "exposure": 1.2,
     "count": 2,
     "flag": "green",
     "companies": [
-     "Clarus Networks",
-     "Satcom Global"
+     "Satcom Global (70%)",
+     "Clarus Networks (50%)"
     ],
     "drivers": [
      "Offshore energy and maritime"
-    ]
-   },
-   {
-    "factor": "Government spending",
-    "share": 0.05,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "The Networking People (TNP)"
-    ],
-    "drivers": [
-     "Public sector budgets"
     ]
    }
   ]
@@ -184,9 +204,21 @@
    "deal_type_reason": "sales up 65% a year over 3 years, margin 31%",
    "fund_fit": "Growth and mid-market PE",
    "demand_driver": "Altnet and operator network build",
-   "second_driver": "Business telecoms (SME)",
+   "second_driver": "Utility and civil construction",
    "macro_factor": "Altnet funding and interest rates",
-   "driver_basis": "Judgement: fibre installation and wireless broadband for operators; managed networks second (confirm customer mix)"
+   "driver_basis": "Split: Accounts FY Feb 2026: fibre build (140,000+ premises passed) and maintenance for about 1.28m premises; civils, water, facilities and highways work is newer and smaller (split estimated)",
+   "driver_split": "Altnet and operator network build 85%; Utility and civil construction 15%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Altnet and operator network build",
+     "share": 0.85
+    },
+    {
+     "driver": "Utility and civil construction",
+     "share": 0.15
+    }
+   ]
   },
   {
    "rank": 2,
@@ -194,19 +226,43 @@
    "deal_type_reason": "sales up 46% in one year (only one year read), margin 16%",
    "fund_fit": "Growth and mid-market PE",
    "demand_driver": "Offshore energy and maritime",
-   "second_driver": "Utility and civil construction",
+   "second_driver": "Public sector budgets",
    "macro_factor": "Offshore oil, gas, wind and shipping activity",
-   "driver_basis": "Judgement: maritime and offshore connectivity; temporary site networks second (web-checked description)"
+   "driver_basis": "Split: Accounts FY Dec 2025 and news: maritime and offshore connectivity (e.g. CalMac fleet), rail (ScotRail, South Western Railway trials) and remote site networks; 22% of sales outside the UK (split estimated)",
+   "driver_split": "Offshore energy and maritime 50%; Public sector budgets 25%; Utility and civil construction 25%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Offshore energy and maritime",
+     "share": 0.5
+    },
+    {
+     "driver": "Public sector budgets",
+     "share": 0.25
+    },
+    {
+     "driver": "Utility and civil construction",
+     "share": 0.25
+    }
+   ]
   },
   {
    "rank": 3,
    "deal_type": "Steady compounder",
    "deal_type_reason": "recurring-type revenue (from the accounts), margin 32%, sales up 1% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
-   "demand_driver": "Mobile, radio and critical comms",
+   "demand_driver": "Public sector budgets",
    "second_driver": "",
-   "macro_factor": "Mobile operator and emergency-services spend",
-   "driver_basis": "Rule from business description (confirm)"
+   "macro_factor": "Government spending",
+   "driver_basis": "Split: Accounts FY Mar 2026: one Ministry of Defence PFI contract, ending 2033",
+   "driver_split": "Public sector budgets 100%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Public sector budgets",
+     "share": 1.0
+    }
+   ]
   },
   {
    "rank": 4,
@@ -214,9 +270,21 @@
    "deal_type_reason": "recurring-type revenue (from the accounts), margin 13%, sales up 16% a year over 4 years, margin within 9 points over the years read",
    "fund_fit": "Core and core-plus infrastructure funds",
    "demand_driver": "Public sector budgets",
-   "second_driver": "",
+   "second_driver": "Business telecoms (SME)",
    "macro_factor": "Government spending",
-   "driver_basis": "Judgement: managed networks for councils, schools and NHS (confirm)"
+   "driver_basis": "Split: Accounts FY Mar 2026: most business is local government, health, blue light and education; some private customers (split estimated)",
+   "driver_split": "Public sector budgets 85%; Business telecoms (SME) 15%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Public sector budgets",
+     "share": 0.85
+    },
+    {
+     "driver": "Business telecoms (SME)",
+     "share": 0.15
+    }
+   ]
   },
   {
    "rank": 5,
@@ -226,7 +294,15 @@
    "demand_driver": "Business telecoms (SME)",
    "second_driver": "",
    "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Judgement: business phone services (web-checked: Endole)"
+   "driver_basis": "Split: Accounts FY Dec 2025: cloud business communications, sold internationally",
+   "driver_split": "Business telecoms (SME) 100%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Business telecoms (SME)",
+     "share": 1.0
+    }
+   ]
   },
   {
    "rank": 6,
@@ -234,9 +310,25 @@
    "deal_type_reason": "margin 24% but project-based revenue (from the accounts)",
    "fund_fit": "Depends on the reason given",
    "demand_driver": "Altnet and operator network build",
-   "second_driver": "",
+   "second_driver": "Utility and civil construction",
    "macro_factor": "Altnet funding and interest rates",
-   "driver_basis": "Judgement: fibre installation, e.g. for Netomnia (web-checked: ensun.io)"
+   "driver_basis": "Split: Accounts FY Sep 2025: services to network operators, service providers and equipment vendors, plus utilities and public bodies (split estimated)",
+   "driver_split": "Altnet and operator network build 75%; Utility and civil construction 15%; Public sector budgets 10%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Altnet and operator network build",
+     "share": 0.75
+    },
+    {
+     "driver": "Utility and civil construction",
+     "share": 0.15
+    },
+    {
+     "driver": "Public sector budgets",
+     "share": 0.1
+    }
+   ]
   },
   {
    "rank": 7,
@@ -246,7 +338,19 @@
    "demand_driver": "Offshore energy and maritime",
    "second_driver": "Public sector budgets",
    "macro_factor": "Offshore oil, gas, wind and shipping activity",
-   "driver_basis": "Judgement: satellite airtime for ships, energy and government users (confirm split)"
+   "driver_basis": "Split: Accounts FY Jun 2024: airtime for maritime and land users; sector split not given (split estimated)",
+   "driver_split": "Offshore energy and maritime 70%; Public sector budgets 30%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Offshore energy and maritime",
+     "share": 0.7
+    },
+    {
+     "driver": "Public sector budgets",
+     "share": 0.3
+    }
+   ]
   },
   {
    "rank": 8,
@@ -254,29 +358,65 @@
    "deal_type_reason": "margin 22% but project-based revenue (from the accounts)",
    "fund_fit": "Depends on the reason given",
    "demand_driver": "Business telecoms (SME)",
-   "second_driver": "",
+   "second_driver": "Public sector budgets",
    "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Judgement: Belfast business telecoms provider (web-checked: Irish News)"
+   "driver_basis": "Split: Barclay group sells to about 11,000 business customers; also on a UK Government mobile framework (split estimated)",
+   "driver_split": "Business telecoms (SME) 90%; Public sector budgets 10%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Business telecoms (SME)",
+     "share": 0.9
+    },
+    {
+     "driver": "Public sector budgets",
+     "share": 0.1
+    }
+   ]
   },
   {
    "rank": 9,
    "deal_type": "High-growth",
    "deal_type_reason": "sales up 56% in one year (only one year read), margin 16%",
    "fund_fit": "Growth and mid-market PE",
-   "demand_driver": "Utility and civil construction",
-   "second_driver": "",
-   "macro_factor": "Construction and utility capex",
-   "driver_basis": "Rule from industry code only (confirm)"
+   "demand_driver": "Altnet and operator network build",
+   "second_driver": "Utility and civil construction",
+   "macro_factor": "Altnet funding and interest rates",
+   "driver_basis": "Split: Accounts FY Jul 2025: fibre build and installation under framework contracts; smaller sub-divisions such as commercial vehicle works (split estimated)",
+   "driver_split": "Altnet and operator network build 80%; Utility and civil construction 20%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Altnet and operator network build",
+     "share": 0.8
+    },
+    {
+     "driver": "Utility and civil construction",
+     "share": 0.2
+    }
+   ]
   },
   {
    "rank": 10,
    "deal_type": "Under pressure",
    "deal_type_reason": "sales down 23% in one year (only one year read); no specific fix identified yet",
    "fund_fit": "None until a fix is identified",
-   "demand_driver": "Utility and civil construction",
-   "second_driver": "",
-   "macro_factor": "Construction and utility capex",
-   "driver_basis": "Rule from business description (confirm)"
+   "demand_driver": "Altnet and operator network build",
+   "second_driver": "Utility and civil construction",
+   "macro_factor": "Altnet funding and interest rates",
+   "driver_basis": "Split: Accounts FY Apr 2025: groundworks and cabling for the telecoms industry; directors cite reduced telecoms funding and are bidding in other sectors (split estimated)",
+   "driver_split": "Altnet and operator network build 90%; Utility and civil construction 10%",
+   "split_basis": "estimated split from the accounts",
+   "split": [
+    {
+     "driver": "Altnet and operator network build",
+     "share": 0.9
+    },
+    {
+     "driver": "Utility and civil construction",
+     "share": 0.1
+    }
+   ]
   }
  ],
  "deal_type_counts": {
@@ -298,5 +438,5 @@
   "amber_share": 0.3,
   "red_share": 0.5
  },
- "headline": "The top 10 is about 6 independent bets, not 10"
+ "headline": "The top 10 is about 4 independent bets, not 10: 33% of it depends on altnet funding and interest rates"
 }
