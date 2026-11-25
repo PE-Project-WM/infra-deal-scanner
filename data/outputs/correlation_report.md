@@ -1,4 +1,4 @@
-## Deal types and correlation (2026-11-24)
+## Deal types and correlation (2026-11-25)
 
 **The top 10 is about 4 independent bets, not 10: 32% of it depends on altnet funding and interest rates.**
 

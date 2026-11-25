@@ -49,20 +49,21 @@ Companies with a number to check: 22
 450/620 | 8.1 min
 475/620 | 8.5 min
 500/620 | 8.9 min
-525/620 | 9.4 min
+525/620 | 9.3 min
 550/620 | 9.7 min
 575/620 | 10.1 min
 600/620 | 10.4 min
 620/620 | 10.8 min
-Ownership overrides applied: 28
+Ownership overrides applied: 34
 
 ownership
-Foreign-owned subsidiary         163
-Likely sponsor-owned (check)     143
-Unknown                          113
-UK group, owner-managed          100
+Foreign-owned subsidiary         165
+Likely sponsor-owned (check)     140
+Unknown                          111
+UK group, owner-managed           99
 Founder or family-owned           93
 Employee-owned (EOT)               5
+Part of a larger group             4
 Sponsor-owned, recent entry        2
 Foreign parent, founder group      1
 Duplicates found: 43
@@ -115,21 +116,21 @@ UNSURE      256
 OUT         224
 ADJACENT     89
 IN           51
-Candidates: 620 | going forward: 217 | excluded: 403
+Candidates: 620 | going forward: 211 | excluded: 409
 
 Going forward, by status:
 status
-Shortlist                  101
-Watchlist (loss-making)     63
-In band, EBITDA unknown     53
+Shortlist                  95
+Watchlist (loss-making)    63
+In band, EBITDA unknown    53
 
 Shortlist going forward, by relevance and ownership:
 ownership  Employee-owned (EOT)  Foreign parent, founder group  Founder or family-owned  Likely sponsor-owned (check)  Sponsor-owned, recent entry  UK group, owner-managed  Unknown  All
 relevance                                                                                                                                                                                
-ADJACENT                      1                              0                       20                            21                            0                       10       10   62
-IN                            1                              1                        8                             7                            2                        6        1   26
+ADJACENT                      1                              0                       20                            19                            0                       10        8   58
+IN                            1                              1                        8                             6                            2                        5        1   24
 UNSURE                        1                              0                        2                             4                            0                        3        3   13
-All                           3                              1                       30                            32                            2                       19       14  101
+All                           3                              1                       30                            29                            2                       18       12   95
 
 PLCs to check are not listed: ['BISTECH GROUP PLC', 'FLEXION MOBILE PLC', 'NEW TECHNOLOGY GROUP HOLDINGS PLC']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs

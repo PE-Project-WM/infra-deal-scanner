@@ -18,30 +18,26 @@ WIFINITY LIMITED {
  "ebitda": 
 VEA GROUP LIMITED {
  "rank": 2,
- "confidence": "Medium",
- "confidence_reasons": "fewer than 3 years read",
+ "confidence": "High",
+ "confidence_reasons": "",
  "why": [
   "Squarely inside the investment case",
   "High margin (31% EBITDA)",
   "EBITDA of \u00a310.0m, in the \u00a32\u201315m range most mid-market buyers target",
-  "Sales up 55% last year"
+  "Sales up 65% a year over 3 years"
  ],
  "checks": [
   "Part of an overseas group: buying it means a carve-out from the parent",
+  "Margin moved between 16% and 30% over the years read: find out what drives it",
   "Sales grew from \u00a311.9m to \u00a332.6m in two years: check how much is organic, how concentrated customers are and how much repeats",
   "Customers not named in the accounts: find out how much comes from the largest network owner",
   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
  ],
  "history": [
   {
-   "year": 2025,
-   "sales": 21059192.0,
-   "margin": 0.15644019010795857,
-   "basis": "Operating profit"
-  },
-  {
-   "year": 2026,
-   "sales
+   "year": 2024,
+   "sales": 11906487.0,
+   "margin": 0.17386891700297494
 OPEN FIBRE NETWORKS LIMITED {
  "rank": 3,
  "confidence": "Low",
@@ -54,6 +50,7 @@ OPEN FIBRE NETWORKS LIMITED {
  ],
  "checks": [
   "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (\u00a314.8m) match",
+  "Part of the BUUK multi-utility group (which bought Persimmon's FibreNest for about \u00a3100m in 2025): buying it would be a carve-out",
   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
  ],
  "history": [],
@@ -61,6 +58,5 @@ OPEN FIBRE NETWORKS LIMITED {
  "interest_cover": null,
  "revenue_mix": null,
  "revenue_mix_source": null,
- "capex_share": null
-}
-Saved profiles.json for 88 ranked companies
+ 
+Saved profiles.json for 82 ranked companies

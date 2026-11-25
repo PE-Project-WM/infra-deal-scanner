@@ -1,12 +1,12 @@
 {
- "date": "2026-11-24",
- "checked_since": "2026-08-26",
+ "date": "2026-11-25",
+ "checked_since": "2026-08-27",
  "previous_scored_on": "2026-11-24",
  "headline": "0 new in the top 10, 0 dropped out, 4 moved within it",
  "method_changed": false,
  "method_version": "v3.1",
- "events_count": 38,
- "companies_checked": 88,
+ "events_count": 34,
+ "companies_checked": 82,
  "top10": [
   {
    "rank": 1,
@@ -734,10 +734,7 @@
    "reasons": [
     "Part of a much larger group (not buyable on its own): O2 Daisy, 70% owned by Virgin Media O2 and 30% by Daisy Group (2025); about \u00a31.4bn revenue"
    ],
-   "events": [
-    "Director appointed (2026-10-07): Smith, Nigel Paul appointed",
-    "Director appointed (2026-10-07): Milton, Paul Stephen appointed"
-   ]
+   "events": []
   },
   {
    "company": "Beacon Communication Services",
@@ -1025,11 +1022,11 @@
    "score_to": 61.6,
    "reasons": [],
    "events": [
-    "Director resigned (2026-10-07): Scutt, Gary resigned",
-    "Director appointed (2026-10-07): Ullah, Karen appointed",
     "Director appointed (2026-10-07): Smith, Nigel Paul appointed",
     "Director appointed (2026-10-07): Milton, Paul Stephen appointed",
-    "Director appointed (2026-10-07): Morten, Stuart Norman appointed"
+    "Director appointed (2026-10-07): Morten, Stuart Norman appointed",
+    "Director resigned (2026-10-07): Scutt, Gary resigned",
+    "Director appointed (2026-10-07): Ullah, Karen appointed"
    ]
   },
   {
@@ -1199,10 +1196,7 @@
    "reasons": [
     "Part of a much larger group (not buyable on its own): Arqiva group: the company holds Arqiva's smart metering contract"
    ],
-   "events": [
-    "Director resigned (2026-10-02): Longhurst, Scott Robert  James resigned",
-    "Director appointed (2026-10-01): Duffy, Simon Patrick appointed"
-   ]
+   "events": []
   },
   {
    "company": "Network Planning Solutions",
@@ -1647,20 +1641,6 @@
   {
    "CompanyNumber": "06472696",
    "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director resigned",
-   "date": "2026-10-07",
-   "detail": "Scutt, Gary resigned"
-  },
-  {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-07",
-   "detail": "Ullah, Karen appointed"
-  },
-  {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
    "event": "Director appointed",
    "date": "2026-10-07",
    "detail": "Smith, Nigel Paul appointed"
@@ -1680,18 +1660,18 @@
    "detail": "Morten, Stuart Norman appointed"
   },
   {
-   "CompanyNumber": "04145329",
-   "CompanyName": "DAISY COMMUNICATIONS LTD.",
-   "event": "Director appointed",
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
+   "event": "Director resigned",
    "date": "2026-10-07",
-   "detail": "Smith, Nigel Paul appointed"
+   "detail": "Scutt, Gary resigned"
   },
   {
-   "CompanyNumber": "04145329",
-   "CompanyName": "DAISY COMMUNICATIONS LTD.",
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
    "event": "Director appointed",
    "date": "2026-10-07",
-   "detail": "Milton, Paul Stephen appointed"
+   "detail": "Ullah, Karen appointed"
   },
   {
    "CompanyNumber": "02578478",
@@ -1706,20 +1686,6 @@
    "event": "Director appointed",
    "date": "2026-10-05",
    "detail": "Overd, Matthew John appointed"
-  },
-  {
-   "CompanyNumber": "08682562",
-   "CompanyName": "ARQIVA SMART METERING LIMITED",
-   "event": "Director resigned",
-   "date": "2026-10-02",
-   "detail": "Longhurst, Scott Robert  James resigned"
-  },
-  {
-   "CompanyNumber": "08682562",
-   "CompanyName": "ARQIVA SMART METERING LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-01",
-   "detail": "Duffy, Simon Patrick appointed"
   },
   {
    "CompanyNumber": "02386327",

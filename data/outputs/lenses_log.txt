@@ -1,8 +1,8 @@
 /home/runner/work/infra-deal-scanner/infra-deal-scanner/scripts/lenses.py:16: Pandas4Warning: 'str' is not supported as a fill value for float64 dtype. In a future version, calling fillna with an incompatible value will raise. Explicitly cast to a common dtype before filling.
   OV = pd.read_csv(f'{CFG}/demand_driver_overrides.csv', dtype={'CompanyNumber': str}).fillna('').set_index('CompanyNumber')
-## Deal types and correlation (2026-11-24)
+## Deal types and correlation (2026-11-25)
 
-**The top 10 is about 5 independent bets, not 10: 32% of it depends on altnet funding and interest rates.**
+**The top 10 is about 4 independent bets, not 10: 32% of it depends on altnet funding and interest rates.**
 
 Correlation flag for the top 10: **AMBER** (amber when 30% of the top 10, weighted by each company's share of sales, depends on one macro factor; red at 50%).
 
@@ -17,20 +17,20 @@ Correlation flag for the top 10: **AMBER** (amber when 30% of the top 10, weight
 | 7 | National Grid Telecoms | Steady compounder | Core and core-plus infrastructure funds | Altnet and operator network build 60%; Mobile, radio and critical comms 40% | Altnet funding and interest rates |
 | 8 | Clarus Networks | High-growth | Growth and mid-market PE | Offshore energy and maritime 50%; Public sector budgets 25%; Utility and civil construction 25% | Offshore oil, gas, wind and shipping activity |
 | 9 | Beacon Communication Services | Steady compounder | Core and core-plus infrastructure funds | Mobile, radio and critical comms 70%; Utility and civil construction 30% | Mobile operator and emergency-services spend |
-| 10 | Dstny Global Services UK | Steady compounder | Core and core-plus infrastructure funds | Business telecoms (SME) 100% | SME IT and telecoms spending |
+| 10 | The Networking People (TNP) | Steady compounder | Core and core-plus infrastructure funds | Public sector budgets 85%; Business telecoms (SME) 15% | Government spending |
 
 **Macro factors in the top 10**
 
 - Altnet funding and interest rates: 32% of the top 10 (amber), VEA Group (85%), Open Fibre Networks (70%), Kcom Group (60%), National Grid Telecoms (60%), Wifinity (40%)
+- Government spending: 25% of the top 10 (green), Alert Communications, The Networking People (TNP) (85%), Wifinity (40%), Clarus Networks (25%)
 - Mobile operator and emergency-services spend: 21% of the top 10 (green), The Wireless Infrastructure Company, Beacon Communication Services (70%), National Grid Telecoms (40%)
-- Government spending: 16% of the top 10 (green), Alert Communications, Wifinity (40%), Clarus Networks (25%)
-- SME IT and telecoms spending: 16% of the top 10 (green), Dstny Global Services UK, Kcom Group (40%), Wifinity (20%)
 - Construction and utility capex: 10% of the top 10 (green), Open Fibre Networks (30%), Beacon Communication Services (30%), Clarus Networks (25%), VEA Group (15%)
+- SME IT and telecoms spending: 7% of the top 10 (green), Kcom Group (40%), Wifinity (20%), The Networking People (TNP) (15%)
 - Offshore oil, gas, wind and shipping activity: 5% of the top 10 (green), Clarus Networks (50%)
 
-Top 20: about 5 independent bets (flag green).
+Top 20: about 6 independent bets (flag green).
 
-Deal types across all ranked companies: Between buckets 29, Steady compounder 21, Under pressure 18, High-growth 16, Numbers to check 4.
+Deal types across all ranked companies: Between buckets 27, Steady compounder 19, Under pressure 17, High-growth 15, Numbers to check 4.
 Watchlist (63 loss-making companies): Under pressure 35, Growth infrastructure 27, Numbers to check 1.
 
 _Splits for the top 10 are estimated from the accounts and web checks (config/demand_driver_split.csv); companies with two named drivers are assumed 70/30; the rest come from judgement or rules and should be confirmed._

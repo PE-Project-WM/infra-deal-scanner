@@ -8,6 +8,6 @@
     7              NATIONAL GRID TELECOMS LIMITED      GBP     3.3    19.8     26.4       NaN         NaN          NaN                     11.6             4.8         Does not clear 20% within the range               0
     8                     CLARUS NETWORKS LIMITED      GBP     4.3    25.8     34.3      -2.9        28.7         37.3             90%     17.6             6.2 Clears 20% only at the low end of the range               0
     9       BEACON COMMUNICATION SERVICES LIMITED      GBP     6.2    37.1     49.5       NaN         NaN          NaN                     16.8             5.9         Does not clear 20% within the range               0
-   10                DSTNY GLOBAL SERVICES UK LTD      GBP     5.1    30.8     41.0      -0.6        31.4         41.7                      9.3             4.5         Does not clear 20% within the range               0
+   10         THE NETWORKING PEOPLE (TNP) LIMITED      GBP     2.3    12.7     17.3      -1.6        14.3         18.9             99%     15.8             5.3         Does not clear 20% within the range               0
 
 Saved valuation_latest.csv and .json (10 companies)

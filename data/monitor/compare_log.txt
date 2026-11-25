@@ -1,23 +1,21 @@
-# Weekly update: 2026-11-24
+# Weekly update: 2026-11-25
 
-**1 new in the top 10, 1 dropped out, 6 moved within it.** Checked 88 ranked companies for changes since 2026-08-26; 38 Companies House events found.
+**0 new in the top 10, 0 dropped out, 4 moved within it.** Checked 82 ranked companies for changes since 2026-08-27; 34 Companies House events found.
 
 ## Top 10 changes
 
-- **VEA Group** (stays 2): margin quality +1.9
 - **Alert Communications** (9 → 6): margin 32% → 50%; balance sheet +2.1 Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
 - **National Grid Telecoms** (6 → 7): moved because companies around it entered or left the ranking Events: New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged) | Director resigned (2026-10-01): Sharma, Tanya Joy resigned
 - **Clarus Networks** (7 → 8): moved because companies around it entered or left the ranking
 - **Beacon Communication Services** (8 → 9): moved because companies around it entered or left the ranking
-- **Dstny Global Services UK** (11 → 10): moved because companies around it entered or left the ranking
-- **The Networking People (TNP)** (10 → 11): margin quality -0.8
+- **The Networking People (TNP)** (stays 10): margin quality -0.8
 
 ## Current top 10
 
 | Rank | Company | Score | Fit | Accessibility |
 | --- | --- | --- | --- | --- |
 | 1 | Wifinity | 93.4 | IN | Low |
-| 2 | VEA Group | 86.2 | IN | Low-Medium |
+| 2 | VEA Group | 84.3 | IN | Low-Medium |
 | 3 | Open Fibre Networks | 83.2 | IN | Medium |
 | 4 | The Wireless Infrastructure Company | 83.1 | IN | Medium |
 | 5 | Kcom Group | 81.7 | IN | Medium |
@@ -25,6 +23,8 @@
 | 7 | National Grid Telecoms | 79.7 | IN | Medium |
 | 8 | Clarus Networks | 79.6 | IN | High |
 | 9 | Beacon Communication Services | 78.8 | IN | High |
-| 10 | Dstny Global Services UK | 77.7 | ADJACENT | Check |
+| 10 | The Networking People (TNP) | 77.2 | IN | Low |
 
 ## Companies House events
+
+- 2026-11-24 · National Grid Telecoms · New accounts: New accounts filed, but figures could not be read (PDF or untagged)

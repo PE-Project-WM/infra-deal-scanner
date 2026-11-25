@@ -43,13 +43,13 @@
    {
     "year": 2024,
     "sales": 11906487.0,
-    "margin": 0.1738689170029749,
+    "margin": 0.17386891700297494,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 21059192.0,
-    "margin": 0.1564401901079585,
+    "margin": 0.15644019010795857,
     "basis": "Operating profit"
    },
    {
@@ -63,7 +63,7 @@
   "interest_cover": null,
   "revenue_mix": "Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
   "revenue_mix_source": "VEA accounts FY Feb 2026 (business review, principal risks); VEA Telecoms job adverts on maintenance contracts",
-  "capex_share": 0.0097713585694069
+  "capex_share": 0.00977135856940696
  },
  "05412813": {
   "rank": 3,
@@ -245,21 +245,21 @@
    {
     "year": 2025,
     "sales": 15518554.0,
-    "margin": 0.0633666641879133,
+    "margin": 0.06336666418791338,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 18099102.0,
-    "margin": 0.1177872250236503,
+    "margin": 0.11778722502365034,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 2304777.0,
-  "interest_cover": 241.4044842033745,
+  "interest_cover": 241.40448420337447,
   "revenue_mix": "Accounts split sales: connectivity \u00a37.5m (41%), labour and support \u00a33.2m (18%), materials \u00a37.4m (41%). \u00a34.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
   "revenue_mix_source": "TNP accounts FY Mar 2026 (turnover note, creditors note, strategic report)",
-  "capex_share": 0.0528304111441551
+  "capex_share": 0.052830411144155105
  },
  "07413288": {
   "rank": 11,
@@ -305,13 +305,13 @@
    {
     "year": 2023,
     "sales": 26319386.8904,
-    "margin": 0.0249531101744452,
+    "margin": 0.02495311017444521,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 27504819.520000003,
-    "margin": 0.1376243898945605,
+    "margin": 0.13762438989456055,
     "basis": "Operating profit"
    }
   ],
@@ -365,7 +365,7 @@
    {
     "year": 2025,
     "sales": 75597498.0,
-    "margin": 0.2343891592814354,
+    "margin": 0.23438915928143547,
     "basis": "Operating profit"
    }
   ],
@@ -373,7 +373,7 @@
   "interest_cover": 264.5886006958443,
   "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at \u00a375.6m. No split between ongoing maintenance and one-off build work.",
   "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
-  "capex_share": 0.0031997884374427
+  "capex_share": 0.003199788437442731
  },
  "09228224": {
   "rank": 15,
@@ -435,7 +435,7 @@
   ],
   "history": [],
   "ebitda": 2677414.0,
-  "interest_cover": 92.63570957095708,
+  "interest_cover": 92.63570957095709,
   "revenue_mix": null,
   "revenue_mix_source": null,
   "capex_share": null
@@ -632,13 +632,13 @@
    {
     "year": 2023,
     "sales": 17175614.0,
-    "margin": -0.0067560321278761,
+    "margin": -0.006756032127876186,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 18385935.0,
-    "margin": 0.1079474065365726,
+    "margin": 0.10794740653657266,
     "basis": "Operating profit"
    }
   ],
@@ -646,7 +646,7 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.004889117686971
+  "capex_share": 0.004889117686971046
  },
  "10779280": {
   "rank": 27,
@@ -770,13 +770,13 @@
    {
     "year": 2025,
     "sales": 21934414.0,
-    "margin": 0.0175341360840549,
+    "margin": 0.017534136084054946,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 24124352.0,
-    "margin": 0.0822723031068357,
+    "margin": 0.08227230310683578,
     "basis": "Operating profit"
    }
   ],
@@ -784,7 +784,7 @@
   "interest_cover": 5.688720102036429,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0040786587759953
+  "capex_share": 0.0040786587759953094
  },
  "11480193": {
   "rank": 33,
@@ -827,13 +827,13 @@
    {
     "year": 2024,
     "sales": 92375000.0,
-    "margin": 0.0921569688768606,
+    "margin": 0.09215696887686062,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 85284000.0,
-    "margin": 0.0834036865062614,
+    "margin": 0.08340368650626143,
     "basis": "Operating profit"
    }
   ],
@@ -841,7 +841,7 @@
   "interest_cover": 11.148902821316614,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0078326532526616
+  "capex_share": 0.007832653252661696
  },
  "NI620995": {
   "rank": 35,
@@ -859,7 +859,7 @@
    {
     "year": 2024,
     "sales": 42366827.0,
-    "margin": 0.0999974343134075,
+    "margin": 0.09999743431340752,
     "basis": "Operating profit"
    },
    {
@@ -873,7 +873,7 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0095598512417208
+  "capex_share": 0.009559851241720879
  },
  "09585068": {
   "rank": 36,
@@ -1102,13 +1102,13 @@
    {
     "year": 2024,
     "sales": 14422719.0,
-    "margin": 0.0264536804745346,
+    "margin": 0.026453680474534655,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 18004724.0,
-    "margin": 0.0860319769411627,
+    "margin": 0.08603197694116277,
     "basis": "Operating profit"
    }
   ],
@@ -1116,7 +1116,7 @@
   "interest_cover": 142.42203015814638,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0043680758449837
+  "capex_share": 0.004368075844983795
  },
  "NI612801": {
   "rank": 47,
@@ -1259,13 +1259,13 @@
    {
     "year": 2024,
     "sales": 36442070.0,
-    "margin": 0.0861666200630205,
+    "margin": 0.08616662006302057,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 39743266.0,
-    "margin": 0.0616855192524942,
+    "margin": 0.06168551925249425,
     "basis": "Operating profit"
    }
   ],
@@ -1273,7 +1273,7 @@
   "interest_cover": 872.139452152259,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0027713877364784
+  "capex_share": 0.002771387736478426
  },
  "03101568": {
   "rank": 54,
@@ -1513,21 +1513,21 @@
    {
     "year": 2024,
     "sales": 29380521.0,
-    "margin": 0.0222752687060927,
+    "margin": 0.02227526870609272,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 20980894.0,
-    "margin": 0.0266295611616931,
+    "margin": 0.02662956116169311,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 558712.0,
-  "interest_cover": 18.10883868667553,
+  "interest_cover": 18.108838686675526,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0143489595819892
+  "capex_share": 0.014348959581989213
  },
  "05238375": {
   "rank": 66,
@@ -1677,7 +1677,7 @@
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [],
-  "ebitda": 13228453.6,
+  "ebitda": 13228453.600000001,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
@@ -1736,13 +1736,13 @@
    {
     "year": 2023,
     "sales": 17003298.0,
-    "margin": 0.0134576833270816,
+    "margin": 0.013457683327081605,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 19246654.0,
-    "margin": 0.0214205024935762,
+    "margin": 0.021420502493576285,
     "basis": "Operating profit"
    }
   ],
@@ -1750,7 +1750,7 @@
   "interest_cover": 8.628749032001506,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0005959477423971
+  "capex_share": 0.000595947742397198
  },
  "00714431": {
   "rank": 77,
@@ -1765,7 +1765,7 @@
    {
     "year": 2024,
     "sales": 26005566.0,
-    "margin": 0.0016076558379848,
+    "margin": 0.0016076558379848375,
     "basis": "Operating profit"
    },
    {
@@ -1779,7 +1779,7 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.001858598501575
+  "capex_share": 0.0018585985015750106
  },
  "NI614374": {
   "rank": 78,
@@ -1797,21 +1797,21 @@
    {
     "year": 2023,
     "sales": 15181248.0,
-    "margin": 0.0384297127614277,
+    "margin": 0.03842971276142778,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 20274554.0,
-    "margin": 0.0386314786505291,
+    "margin": 0.038631478650529134,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 891948.0,
-  "interest_cover": 24.35965539763008,
+  "interest_cover": 24.359655397630082,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0077958311684686
+  "capex_share": 0.007795831168468614
  },
  "02893478": {
   "rank": 79,
@@ -1830,21 +1830,21 @@
    {
     "year": 2024,
     "sales": 25142876.0,
-    "margin": 0.0198473714781077,
+    "margin": 0.019847371478107754,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 17478481.0,
-    "margin": 0.0141729707518633,
+    "margin": 0.014172970751863391,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 291531.0,
-  "interest_cover": 1.6485346181489071,
+  "interest_cover": 1.6485346181489073,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0157097747796275
+  "capex_share": 0.015709774779627587
  },
  "05942331": {
   "rank": 80,
