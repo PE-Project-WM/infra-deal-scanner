@@ -1,0 +1,70 @@
+{
+ "rank": 58,
+ "company_number": "02665837",
+ "name": "Maintel Europe",
+ "registered_name": "MAINTEL EUROPE LIMITED",
+ "what_it_does": "Business communications and managed services (Maintel)",
+ "town": "London",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 56.0,
+ "score_parts": {
+  "revenue_visibility": 13.8,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 7.0,
+  "balance_sheet": 8.2
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "margin 6% but project-based revenue (estimated)",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Not yet known",
+ "ease_of_buying_note": "Ownership not found",
+ "ownership_type": "Unknown",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£25m–£35m at 5–7x EBITDA of £5m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-07-20",
+  "sales_gbp": 92229000.0,
+  "sales_growth": -0.058,
+  "ebitda_gbp": 5063000.0,
+  "ebitda_margin": 0.055,
+  "ebitda_basis": "Operating profit + amortisation (checked against the filing)",
+  "cash_gbp": null,
+  "net_assets_gbp": 683000.0,
+  "employees": null,
+  "source": "OCR, corrected by hand",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £5.1m, in the £2–15m range most mid-market buyers target"
+ ],
+ "check_first": [
+  "Owner not yet confirmed",
+  "Figures were read by OCR and checked against the filing: Operating profit misread (4,187 for 1,157); corrected from the P&L arithmetic. EBITDA £5.1m including amortisation",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02665837/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02665837.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02665837",
+ "updated": "2026-11-25"
+}

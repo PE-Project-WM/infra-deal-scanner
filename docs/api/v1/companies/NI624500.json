@@ -1,0 +1,71 @@
+{
+ "rank": 29,
+ "company_number": "NI624500",
+ "name": "Barclay Digital Services",
+ "registered_name": "BARCLAY DIGITAL SERVICES LTD",
+ "what_it_does": "Belfast business telecoms provider, Barclay Communications",
+ "town": "Belfast",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 69.9,
+ "score_parts": {
+  "revenue_visibility": 13.8,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 16.7,
+  "balance_sheet": 12.4
+ },
+ "confidence": "Low",
+ "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "margin 22% but project-based revenue (from the accounts)",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Business telecoms (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£19m–£27m at 5–7x EBITDA of £4m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-09-12",
+  "sales_gbp": 17547732.0,
+  "sales_growth": 0.13,
+  "ebitda_gbp": 3895937.0,
+  "ebitda_margin": 0.222,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 1093926.0,
+  "net_assets_gbp": 4809366.0,
+  "employees": 74.0,
+  "source": "FROM TEXT, check",
+  "repeat_revenue_basis": "From the accounts: The accounts describe it only as telecommunications sales, and sales fell last year. The wider Barclay group sells business mobile, landline and broadband contracts; this company's role in the group is not clear.",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £3.9m, in the £2–15m range most mid-market buyers target",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Confirm which Barclay group company holds the customer contracts",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [],
+ "revenue_mix": "The accounts describe it only as telecommunications sales, and sales fell last year. The wider Barclay group sells business mobile, landline and broadband contracts; this company's role in the group is not clear.",
+ "revenue_mix_source": "Barclay Digital Services accounts FY 2025 (directors' report); Irish News; Mobile News",
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/NI624500/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/NI624500.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/NI624500",
+ "updated": "2026-11-25"
+}

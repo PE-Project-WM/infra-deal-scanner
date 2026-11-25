@@ -1,0 +1,124 @@
+{
+ "rank": 4,
+ "company_number": "03307001",
+ "name": "The Wireless Infrastructure Company",
+ "registered_name": "THE WIRELESS INFRASTRUCTURE COMPANY LIMITED",
+ "what_it_does": "Mobile towers and small cells (WIG)",
+ "town": "London",
+ "sector": "towers",
+ "sector_name": "Towers and small cells",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 83.1,
+ "score_parts": {
+  "revenue_visibility": 15.0,
+  "strategy_fit": 20.0,
+  "size_fit": 11.9,
+  "margin_quality": 21.2,
+  "balance_sheet": 15.0
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 59%, sales up 12% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Probably above £250m",
+ "likely_deal_size_basis": "£575m: enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019). From EBITDA: £274m–£412m at 12–18x EBITDA of £23m (network asset owner: towers)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-11-03",
+  "sales_gbp": 38943912.0,
+  "sales_growth": 0.117,
+  "ebitda_gbp": 22868874.0,
+  "ebitda_margin": 0.587,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 8680215.0,
+  "net_assets_gbp": 7036186.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "High margin (59% EBITDA)",
+  "Cash of £8.7m and net assets of £7.0m"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read by OCR and checked against the filing: Turnover, EBITDA (£22.9m) and operating profit match the filing exactly",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 22868874.0,
+  "ev_low": 137213244.0,
+  "ev_mid": 160082118.0,
+  "ev_high": 182950992.0,
+  "net_debt": -8680215.0,
+  "net_debt_to_ebitda": -0.37956459946388266,
+  "accounts_year_end": "2025-12-31",
+  "equity_low": 145893459.0,
+  "equity_high": 191631207.0,
+  "cash_conversion": null,
+  "fcf_conversion": null,
+  "walk_away_mult": 6.132755990713043,
+  "walk_away_ev": 140249224.02436173,
+  "walk_away_equity": 148929439.02436173,
+  "irr_mid": 0.17441026247797842,
+  "moic_mid": 2.2340824048052346,
+  "irr_exit_plus1": 0.20586333217753205,
+  "irr_exit_minus1": 0.13917489434145858,
+  "currency": "GBP",
+  "balance_note": "Read by OCR from scanned accounts. Owes £36.2m to group companies; the wider WIG group has £456m of senior and junior bank debt, so a buyer of this company alone would need to unpick group funding.",
+  "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12–18x asset-owner range and any public deal value instead."
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03307001/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03307001.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03307001",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "fails",
+    "why": "Probably above £250m"
+   },
+   {
+    "check": "buyable",
+    "result": "passes",
+    "why": "Possible: Sponsor-owned, sale timing depends on hold year"
+   },
+   {
+    "check": "price",
+    "result": "partly",
+    "why": "Most a buyer could pay for 20% a year: 6.1x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated"
+   }
+  ],
+  "passes": 1,
+  "fails": 2
+ },
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,72 @@
+{
+ "rank": 42,
+ "company_number": "04544886",
+ "name": "Radiocoms Systems",
+ "registered_name": "RADIOCOMS SYSTEMS LIMITED",
+ "what_it_does": "Two-way radio and critical communications, incl. defence; Companies House shows an insolvency link, check",
+ "town": "London",
+ "sector": "critical",
+ "sector_name": "Critical communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 62.3,
+ "score_parts": {
+  "revenue_visibility": 12.5,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 11.5,
+  "balance_sheet": 11.3
+ },
+ "confidence": "Low",
+ "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 68% in one year (only one year read), margin 13%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£26m–£36m at 5–7x EBITDA of £5m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-02-24",
+  "sales_gbp": 38625956.0,
+  "sales_growth": 0.679,
+  "ebitda_gbp": 5147258.0,
+  "ebitda_margin": 0.133,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 1062955.0,
+  "net_assets_gbp": 5197391.0,
+  "employees": 66.0,
+  "source": "FROM TEXT, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £5.1m, in the £2–15m range most mid-market buyers target",
+  "Sales up 68% last year"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Sales up 68% in one year: check how much came from acquisitions or one-off contracts",
+  "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04544886/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04544886.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04544886",
+ "updated": "2026-11-25"
+}

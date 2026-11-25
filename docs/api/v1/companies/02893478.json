@@ -1,0 +1,83 @@
+{
+ "rank": 79,
+ "company_number": "02893478",
+ "name": "Teligent",
+ "registered_name": "TELIGENT LIMITED",
+ "what_it_does": "Mobile mast acquisition, design and build; rigging and 5G upgrades for Vodafone and Ericsson",
+ "town": "Theale",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 36.5,
+ "score_parts": {
+  "revenue_visibility": 8.8,
+  "strategy_fit": 20.0,
+  "size_fit": 3.0,
+  "margin_quality": 4.7,
+  "balance_sheet": 0.0
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 30% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£1m–£2m at 4.5–6.5x EBITDA of £0m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-08-20",
+  "sales_gbp": 17478481.0,
+  "sales_growth": -0.305,
+  "ebitda_gbp": 291531.0,
+  "ebitda_margin": 0.017,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 214035.0,
+  "net_assets_gbp": -221732.0,
+  "employees": 79.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Interest cover only 1.6x: check how much debt it already carries",
+  "Sales fell 30% last year: find out why",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 25142876.0,
+   "margin": 0.019847371478107754,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 17478481.0,
+   "margin": 0.014172970751863391,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02893478/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02893478.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02893478",
+ "updated": "2026-11-25"
+}

@@ -1,4 +1,4 @@
-"""Build the public website (docs/index.html, served by GitHub Pages) from the latest update."""
+"""Assemble the data for the public website, then build it with scripts/northing/build.py (docs/, served by GitHub Pages)."""
 import os, json, html, re as _re
 import pandas as pd
 
@@ -125,9 +125,10 @@ quality = {'corrected_filings': int(fc[['CompanyNumber', 'accounts_filed']].drop
            'sector_placed': int(len(SECDF))}
 data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr, 'all': all_ranked, 'growth_infra': growth_infra,
         'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val, 'size_band': size_band, 'sectors': sector_stats, 'factor_avg': factor_avg, 'quality': quality}
-payload = json.dumps(data, default=str).replace('</', '<\\/')
-
-page = open(f'{ROOT}/scripts/site_template.html').read()   # layout and styles live in the template
-open(f'{ROOT}/docs/index.html', 'w').write(page.replace('__DATA__', payload))
-open(f'{ROOT}/docs/.nojekyll', 'w').write('')
-print('Built docs/index.html')
+excluded = pd.read_csv(f'{ROOT}/data/outputs/excluded_log.csv', dtype={'CompanyNumber': str})
+sig_path = f'{ROOT}/data/outputs/signals.json'   # exit and refinancing signals (signals.py)
+signals = json.load(open(sig_path))['signals'] if os.path.exists(sig_path) else []
+from northing.build import build   # the Northing website and its data files (scripts/northing/)
+build(dict(data=data, U=U, C=C, rk=rk, prof=prof, lens_by_num=lens_by_num, SZ=SZ, SECDF=SECDF, SECTORS=SECTORS,
+           sector_stats=sector_stats, val=val, corr=corr, clean=clean, excluded=excluded, weights=weights,
+           nice=nice, plain=plain, signals=signals))

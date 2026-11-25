@@ -1,0 +1,67 @@
+{
+ "rank": 74,
+ "company_number": "01938625",
+ "name": "Intercity Technology",
+ "registered_name": "INTERCITY TECHNOLOGY LIMITED",
+ "what_it_does": "IT and communications managed services (Intercity)",
+ "town": "West Midlands",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 41.1,
+ "score_parts": {
+  "revenue_visibility": 13.8,
+  "strategy_fit": 12.0,
+  "size_fit": 3.0,
+  "margin_quality": 4.6,
+  "balance_sheet": 7.7
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "thin EBITDA margin (2%); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£4m–£5m at 4.5–6.5x EBITDA of £1m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-10-08",
+  "sales_gbp": 52623000.0,
+  "sales_growth": 0.045,
+  "ebitda_gbp": 806000.0,
+  "ebitda_margin": 0.015,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 3065000.0,
+  "net_assets_gbp": 6276000.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/01938625/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/01938625.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/01938625",
+ "updated": "2026-11-25"
+}

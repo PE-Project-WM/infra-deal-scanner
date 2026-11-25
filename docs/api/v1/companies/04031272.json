@@ -1,0 +1,68 @@
+{
+ "rank": 48,
+ "company_number": "04031272",
+ "name": "Onecom",
+ "registered_name": "ONECOM LIMITED",
+ "what_it_does": "Business mobile and communications provider (Onecom)",
+ "town": "Fareham",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 60.6,
+ "score_parts": {
+  "revenue_visibility": 13.8,
+  "strategy_fit": 12.0,
+  "size_fit": 11.1,
+  "margin_quality": 11.9,
+  "balance_sheet": 11.8
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "margin 14% but project-based revenue (estimated)",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£124m–£173m at 5–7x EBITDA of £25m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-09-24",
+  "sales_gbp": 178654455.0,
+  "sales_growth": 0.089,
+  "ebitda_gbp": 24752141.0,
+  "ebitda_margin": 0.139,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 7619085.0,
+  "net_assets_gbp": 101548002.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04031272/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04031272.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04031272",
+ "updated": "2026-11-25"
+}

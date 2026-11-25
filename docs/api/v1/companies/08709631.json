@@ -1,0 +1,73 @@
+{
+ "rank": 19,
+ "company_number": "08709631",
+ "name": "Network Planning Solutions",
+ "registered_name": "NETWORK PLANNING SOLUTIONS LTD.",
+ "what_it_does": "Designs and builds telecoms networks; owns fibre infrastructure since buying Complete Technology Group",
+ "town": "Canterbury",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 73.7,
+ "score_parts": {
+  "revenue_visibility": 8.8,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 19.0,
+  "balance_sheet": 10.9
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 71% in one year (only one year read), margin 26%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Not yet known",
+ "ease_of_buying_note": "Ownership not found",
+ "ownership_type": "Unknown",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£25m–£34m at 5–7x EBITDA of £5m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-10-29",
+  "sales_gbp": 18724104.0,
+  "sales_growth": 0.712,
+  "ebitda_gbp": 4908675.0,
+  "ebitda_margin": 0.262,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 225305.0,
+  "net_assets_gbp": 8945059.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "High margin (26% EBITDA)",
+  "EBITDA of £4.9m, in the £2–15m range most mid-market buyers target",
+  "Sales up 71% last year"
+ ],
+ "check_first": [
+  "Owner not yet confirmed",
+  "Figures were read by OCR and checked against the filing: Figures match, but they cover a 15-month period",
+  "Latest accounts cover 15 months (Oct 2024 to Dec 2025), so sales of £18.7m are about £15m a year and the growth figure is overstated; it also bought Complete Technology Group, so results include an acquisition",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/08709631/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/08709631.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/08709631",
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,82 @@
+{
+ "rank": 78,
+ "company_number": "NI614374",
+ "name": "M & M Contractors (Europe)",
+ "registered_name": "M & M CONTRACTORS (EUROPE) LTD",
+ "what_it_does": "Utilities (power and telecoms) civils and infrastructure",
+ "town": "Belfast",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 38.3,
+ "score_parts": {
+  "revenue_visibility": 8.8,
+  "strategy_fit": 12.0,
+  "size_fit": 3.0,
+  "margin_quality": 6.3,
+  "balance_sheet": 8.2
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 34% in one year (only one year read), margin 4%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Utility and civil construction",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£4m–£6m at 4.5–6.5x EBITDA of £1m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-02-17",
+  "sales_gbp": 20274554.0,
+  "sales_growth": 0.335,
+  "ebitda_gbp": 891948.0,
+  "ebitda_margin": 0.044,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 1493398.0,
+  "net_assets_gbp": 1924905.0,
+  "employees": 27.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Sales up 34% last year",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2023,
+   "sales": 15181248.0,
+   "margin": 0.03842971276142778,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2024,
+   "sales": 20274554.0,
+   "margin": 0.038631478650529134,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/NI614374/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/NI614374.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/NI614374",
+ "updated": "2026-11-25"
+}

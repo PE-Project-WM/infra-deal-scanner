@@ -1,0 +1,146 @@
+{
+ "rank": 2,
+ "company_number": "13433533",
+ "name": "VEA Group",
+ "registered_name": "VEA GROUP LIMITED",
+ "what_it_does": "Fibre installation, wireless broadband and managed networks",
+ "town": "Bracknell",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 84.3,
+ "score_parts": {
+  "revenue_visibility": 15.0,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 19.3,
+  "balance_sheet": 15.0
+ },
+ "confidence": "High",
+ "confidence_reasons": null,
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 65% a year over 3 years, margin 31%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Altnet and operator network build",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Harder",
+ "ease_of_buying_note": "UK arm of an overseas founder group, carve-out needed",
+ "ownership_type": "Foreign parent, founder group",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£60m–£80m at 6–8x EBITDA of £10m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-06-30",
+  "sales_gbp": 32560948.0,
+  "sales_growth": 0.546,
+  "ebitda_gbp": 9954432.0,
+  "ebitda_margin": 0.306,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 12689126.0,
+  "net_assets_gbp": 11561696.0,
+  "employees": 127.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "From the accounts: Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
+  "margin_stability_basis": "margin moved 14 points across 3 years"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "High margin (31% EBITDA)",
+  "EBITDA of £10.0m, in the £2–15m range most mid-market buyers target",
+  "Sales up 65% a year over 3 years"
+ ],
+ "check_first": [
+  "Part of an overseas group: buying it means a carve-out from the parent",
+  "Margin moved between 16% and 30% over the years read: find out what drives it",
+  "Sales grew from £11.9m to £32.6m in two years: check how much is organic, how concentrated customers are and how much repeats",
+  "Customers not named in the accounts: find out how much comes from the largest network owner",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 11906487.0,
+   "margin": 0.17386891700297494,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 21059192.0,
+   "margin": 0.15644019010795857,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2026,
+   "sales": 32560948.0,
+   "margin": 0.3010447361667725,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": "Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
+ "revenue_mix_source": "VEA accounts FY Feb 2026 (business review, principal risks); VEA Telecoms job adverts on maintenance contracts",
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 9954432.0,
+  "ev_low": 59726592.0,
+  "ev_mid": 69681024.0,
+  "ev_high": 79635456.0,
+  "net_debt": -12686583.0,
+  "net_debt_to_ebitda": -1.2744657856922423,
+  "accounts_year_end": "2026-02-28",
+  "equity_low": 72413175.0,
+  "equity_high": 92322039.0,
+  "cash_conversion": 0.762597504307629,
+  "fcf_conversion": 0.756155147777392,
+  "walk_away_mult": 5.552519012908479,
+  "walk_away_ev": 55272172.94270457,
+  "walk_away_equity": 67958755.94270457,
+  "irr_mid": 0.15631913371870731,
+  "moic_mid": 2.0672288630693614,
+  "irr_exit_plus1": 0.18987465927744895,
+  "irr_exit_minus1": 0.11834516875247836,
+  "currency": "GBP",
+  "balance_note": "Cash from operations is net cash from operating activities (5,542,265) plus tax paid (2,048,960). £0.72m owed to the parent group is treated as a trading balance.",
+  "notes": ""
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/13433533/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/13433533.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/13433533",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "passes",
+    "why": "Within £10–250m"
+   },
+   {
+    "check": "buyable",
+    "result": "partly",
+    "why": "Harder: UK arm of an overseas founder group, carve-out needed"
+   },
+   {
+    "check": "price",
+    "result": "fails",
+    "why": "Most a buyer could pay for 20% a year: 5.6x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "passes",
+    "why": "High confidence"
+   }
+  ],
+  "passes": 2,
+  "fails": 1
+ },
+ "updated": "2026-11-25"
+}

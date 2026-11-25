@@ -1,0 +1,69 @@
+{
+ "rank": 31,
+ "company_number": "08043921",
+ "name": "Aerial Direct",
+ "registered_name": "AERIAL DIRECT LIMITED",
+ "what_it_does": "Business telecoms reseller (Aerial Direct)",
+ "town": "Fareham",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 69.5,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 14.5,
+  "balance_sheet": 10.5
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 18%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Business telecoms (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£40m–£54m at 6–8x EBITDA of £7m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-05-17",
+  "sales_gbp": 36580431.0,
+  "sales_growth": -0.077,
+  "ebitda_gbp": 6720195.0,
+  "ebitda_margin": 0.184,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": null,
+  "net_assets_gbp": 27962729.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £6.7m, in the £2–15m range most mid-market buyers target"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/08043921/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/08043921.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/08043921",
+ "updated": "2026-11-25"
+}

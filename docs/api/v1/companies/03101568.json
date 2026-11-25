@@ -1,0 +1,70 @@
+{
+ "rank": 54,
+ "company_number": "03101568",
+ "name": "ZEN Internet",
+ "registered_name": "ZEN INTERNET LIMITED",
+ "what_it_does": "Internet service provider for homes and businesses (Zen)",
+ "town": "Rochdale",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 58.6,
+ "score_parts": {
+  "revenue_visibility": 15.0,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 7.0,
+  "balance_sheet": 9.6
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 6%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£42m–£56m at 6–8x EBITDA of £7m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-04-22",
+  "sales_gbp": 126668000.0,
+  "sales_growth": 0.05,
+  "ebitda_gbp": 7051000.0,
+  "ebitda_margin": 0.056,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 5581000.0,
+  "net_assets_gbp": 30320000.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £7.1m, in the £2–15m range most mid-market buyers target",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover, operating profit and D&A match; EBITDA matches the company's £7.1m",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03101568/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03101568.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03101568",
+ "updated": "2026-11-25"
+}

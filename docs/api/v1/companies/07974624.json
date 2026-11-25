@@ -1,0 +1,71 @@
+{
+ "rank": 22,
+ "company_number": "07974624",
+ "name": "Tela Technology",
+ "registered_name": "TELA TECHNOLOGY LIMITED",
+ "what_it_does": "Mobility, telephony, connectivity and IT managed services",
+ "town": "Solihull",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 71.7,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 9.8,
+  "balance_sheet": 12.4
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 10%, sales up 8% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-02-20",
+  "sales_gbp": 23458630.0,
+  "sales_growth": 0.081,
+  "ebitda_gbp": 2407851.0,
+  "ebitda_margin": 0.103,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 1498796.0,
+  "net_assets_gbp": 1315387.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £2.4m, in the £2–15m range most mid-market buyers target",
+  "Founder-owned, so a direct approach is possible",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: EBITDA matches the company's own figure (£2.4m)",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/07974624/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/07974624.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/07974624",
+ "updated": "2026-11-25"
+}

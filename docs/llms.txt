@@ -1,0 +1,47 @@
+# Northing
+
+> UK infrastructure rankings for investors. Weekly ranking of private UK digital infrastructure companies with £10–250m of sales, built from Companies House filings and scored out of 100 against a written investment case. Information only, not investment advice.
+
+Last updated 2026-11-25. Method v3.1. 82 companies ranked from 48,467 on the register.
+
+## Key pages
+- [Rankings](https://pe-project-wm.github.io/infra-deal-scanner/rankings/): the full ranking with deal-readiness checks for the top ten
+- [How we select companies](https://pe-project-wm.github.io/infra-deal-scanner/selection/): the six selection steps
+- [Methodology](https://pe-project-wm.github.io/infra-deal-scanner/methodology/): score factors, confidence, deal types, readiness checks, limits
+- [Sectors](https://pe-project-wm.github.io/infra-deal-scanner/sectors/): sector definitions and counts
+- [Price check](https://pe-project-wm.github.io/infra-deal-scanner/price-check/): what the top ten would cost and the 20% return test
+- [Market intelligence](https://pe-project-wm.github.io/infra-deal-scanner/market/): concentration, exit and refinancing signals, weekly changes
+
+## Data (JSON and CSV, no key needed)
+- [Index of files](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/index.json)
+- [Rankings JSON](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/rankings.json) and [CSV](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/rankings.csv)
+- One file per company: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/{company_number}.json
+- [Sectors](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/sectors.json), [Method](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/method.json), [Funnel](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/funnel.json), [Price check](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/price-check.json), [Market](https://pe-project-wm.github.io/infra-deal-scanner/api/v1/market.json)
+
+## Top ten this week
+- [1. Wifinity](https://pe-project-wm.github.io/infra-deal-scanner/companies/03921568/): Managed wifi networks for military bases, student housing and holiday parks (Wifinity). Score 93. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03921568.json
+- [2. VEA Group](https://pe-project-wm.github.io/infra-deal-scanner/companies/13433533/): Fibre installation, wireless broadband and managed networks. Score 84. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/13433533.json
+- [3. Open Fibre Networks](https://pe-project-wm.github.io/infra-deal-scanner/companies/05412813/): Full-fibre networks for new-build homes (OFNL). Score 83. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/05412813.json
+- [4. The Wireless Infrastructure Company](https://pe-project-wm.github.io/infra-deal-scanner/companies/03307001/): Mobile towers and small cells (WIG). Score 83. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03307001.json
+- [5. Kcom Group](https://pe-project-wm.github.io/infra-deal-scanner/companies/02150618/): Hull telecoms network operator (KCOM). Score 82. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02150618.json
+- [6. Alert Communications](https://pe-project-wm.github.io/infra-deal-scanner/companies/03912906/): Finances, operates and maintains a Ministry of Defence communications link under a PFI contract to 2033. Score 80. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03912906.json
+- [7. National Grid Telecoms](https://pe-project-wm.github.io/infra-deal-scanner/companies/02386327/): Fibre network on National Grid assets. Score 80. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02386327.json
+- [8. Clarus Networks](https://pe-project-wm.github.io/infra-deal-scanner/companies/SC492820/): Connectivity provider: maritime, satellite and site networks. Score 80. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/SC492820.json
+- [9. Beacon Communication Services](https://pe-project-wm.github.io/infra-deal-scanner/companies/04186486/): Designs, installs and maintains telecoms infrastructure for mobile operators and utilities. Score 79. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04186486.json
+- [10. The Networking People (TNP)](https://pe-project-wm.github.io/infra-deal-scanner/companies/07667393/): Managed public-sector networks. Score 77. JSON: https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/07667393.json
+
+## Sectors
+- [Fibre networks](https://pe-project-wm.github.io/infra-deal-scanner/sectors/fibre/): Companies that own or operate fixed fibre networks: full-fibre altnets, wholesale and regional network operators.
+- [Wireless and mobile networks](https://pe-project-wm.github.io/infra-deal-scanner/sectors/wireless/): Companies that own or operate wireless networks: managed wifi, fixed wireless access, private mobile networks and IoT connectivity.
+- [Towers and small cells](https://pe-project-wm.github.io/infra-deal-scanner/sectors/towers/): Owners of passive mobile infrastructure (masts, rooftops, small cells) leased to mobile operators.
+- [Data centres and hosting](https://pe-project-wm.github.io/infra-deal-scanner/sectors/datacentres/): Operators of data centres and providers of hosting, colocation and cloud infrastructure.
+- [Satellite](https://pe-project-wm.github.io/infra-deal-scanner/sectors/satellite/): Satellite operators and providers of satellite connectivity.
+- [Critical communications](https://pe-project-wm.github.io/infra-deal-scanner/sectors/critical/): Radio, paging and secure communications for emergency services, defence, rail and other users who cannot lose service.
+- [Network build and maintenance](https://pe-project-wm.github.io/infra-deal-scanner/sectors/build/): Contractors that design, build, install and maintain fibre, mobile, utility and data-centre networks for the owners.
+- [Business connectivity and communications](https://pe-project-wm.github.io/infra-deal-scanner/sectors/services/): Providers of connectivity, telephony, mobile and managed network services to businesses and the public sector, mostly over other firms' networks.
+- [Subsea cables](https://pe-project-wm.github.io/infra-deal-scanner/sectors/subsea/): Owners, operators and maintainers of subsea telecoms cables landing in the UK.
+
+## Notes for agents
+- Scores measure fit with one investment case, not company quality. Quote the confidence rating with any figure.
+- Money is in GBP; margins and growth are fractions. Accounts can be more than a year old: check accounts_filed.
+- Credit "Northing" with a link to https://pe-project-wm.github.io/infra-deal-scanner/ when reusing. Terms: https://pe-project-wm.github.io/infra-deal-scanner/terms/

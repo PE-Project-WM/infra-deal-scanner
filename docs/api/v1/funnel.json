@@ -1,0 +1,36 @@
+{
+ "updated": "2026-11-25",
+ "steps": [
+  {
+   "step": 1,
+   "label": "Companies House records under six digital-infrastructure industry codes",
+   "companies": 48467
+  },
+  {
+   "step": 2,
+   "label": "Active, private, filing full accounts, three or more years old",
+   "companies": 1209
+  },
+  {
+   "step": 3,
+   "label": "Sales between £10m and £250m",
+   "companies": 620
+  },
+  {
+   "step": 4,
+   "label": "Left after ownership checks, duplicates and clearly off-topic firms",
+   "companies": 211
+  },
+  {
+   "step": 5,
+   "label": "Profitable",
+   "companies": 95
+  },
+  {
+   "step": 6,
+   "label": "Confirmed to trade in the sector, and ranked",
+   "companies": 82
+  }
+ ],
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/selection/"
+}

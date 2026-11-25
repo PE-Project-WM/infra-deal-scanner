@@ -24,12 +24,14 @@ on:
       - 'scripts/sectors.py'
       - 'config/sectors.json'
       - 'config/sector_map.csv'
+      - 'config/site.json'
+      - 'scripts/signals.py'
+      - 'scripts/northing/**'
       - 'config/balance_sheet.csv'
       - 'scripts/history.py'
       - 'scripts/score.py'
       - 'config/criteria_digital_infra.json'
       - 'config/company_notes.csv'
-      - 'scripts/site_template.html'
       - 'config/demand_drivers.json'
       - 'config/demand_driver_overrides.csv'
 
@@ -73,6 +75,7 @@ jobs:
           python scripts/valuation.py 2>&1 | tee data/outputs/valuation_log.txt
           python scripts/size_check.py
           python scripts/sectors.py
+          python scripts/signals.py
           python scripts/site.py
       - name: Save results
         run: |

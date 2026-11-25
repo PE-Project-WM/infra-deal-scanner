@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data &amp; API | Northing</title>
+<meta name="description" content="Open data from Northing: rankings, company profiles, sectors and method as JSON and CSV, free to read, for people, programs and AI agents.">
+<link rel="canonical" href="https://pe-project-wm.github.io/infra-deal-scanner/data/">
+<link rel="alternate" type="application/json" href="../api/v1/index.json" title="Northing data (JSON)">
+<link rel="stylesheet" href="../assets/northing.css">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<meta property="og:title" content="Data &amp; API | Northing"><meta property="og:description" content="Open data from Northing: rankings, company profiles, sectors and method as JSON and CSV, free to read, for people, programs and AI agents."><meta property="og:type" content="website"><meta property="og:url" content="https://pe-project-wm.github.io/infra-deal-scanner/data/">
+
+</head>
+<body data-page="">
+<a class="skip" href="#main">Skip to content</a>
+<div class="top"><div class="wrap">
+  <a class="logo" href="../" aria-label="Northing home"><svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="17" width="7" height="13" fill="#5FC3E4"/><rect x="12.5" y="10" width="7" height="20" fill="#1D8FE1"/><rect x="23" y="2" width="7" height="28" fill="#DCE6F2"/></svg><span><b>NORTHING</b><small>UK infrastructure rankings</small></span></a>
+  <button class="menu" id="menu" aria-controls="nav" aria-expanded="false">Menu</button>
+  <ul class="nav" id="nav"><li><a href="../rankings/">Rankings</a></li><li><a href="../sectors/">Sectors</a></li><li><a href="../market/">Market intelligence</a></li><li><a href="../price-check/">Price check</a></li><li><a href="../selection/">How we select</a></li><li><a href="../methodology/">Methodology</a></li><li><a href="../data/" aria-current="page">Data &amp; API</a></li></ul>
+  <span class="live"><i aria-hidden="true"></i>Weekly ranking, updated 25 Nov 2026</span>
+</div></div>
+<header class="phead"><div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><a href="../">Home</a> / <span aria-current="page">Data &amp; API</span></nav>
+<h1>Data &amp; API</h1><p class="lede">The rankings, every company profile, the sectors and the method, as JSON and CSV. Free to read, no key needed.</p></div></header>
+<main id="main" tabindex="-1"><div class="wrap">
+<div class="g12"><div class="s8">
+<section class="panel prose"><h2 style="margin-top:0">Open data, free to read</h2><p>Everything on this site is also published as plain files that people and programs can read: JSON for programs and AI agents, CSV for spreadsheets. There is no key, sign-up or rate limit; the files are static and rebuilt every Monday with the site. The base address is:</p>
+<pre><code>https://pe-project-wm.github.io/infra-deal-scanner/api/v1/</code></pre>
+<p>AI agents can start from <a href="../llms.txt">llms.txt</a>, a short guide to the site and its data in plain text.</p></section>
+<section class="section"><h2>Files</h2><div class="tbox" style="margin-top:16px"><table class="tbl"><thead><tr><th>File</th><th>What it holds</th><th></th></tr></thead><tbody><tr><td><code>index.json</code></td><td>List of every file below, with what it holds</td><td><a href="../api/v1/index.json">Open</a></td></tr><tr><td><code>meta.json</code></td><td>Name, update date, method version, licence and attribution</td><td><a href="../api/v1/meta.json">Open</a></td></tr><tr><td><code>rankings.json</code></td><td>All ranked companies: rank, score, sector, type, confidence, size and key figures</td><td><a href="../api/v1/rankings.json">Open</a></td></tr><tr><td><code>rankings.csv</code></td><td>The same as a spreadsheet</td><td><a href="../api/v1/rankings.csv">Open</a></td></tr><tr><td><code>companies/{company_number}.json</code></td><td>Everything on a company page: figures, score breakdown, ownership type, checks, history and price check</td><td><a href="../api/v1/companies/03921568.json">Example</a></td></tr><tr><td><code>sectors.json</code></td><td>Each sector: what it covers, counts and median figures</td><td><a href="../api/v1/sectors.json">Open</a></td></tr><tr><td><code>funnel.json</code></td><td>The selection steps and how many companies each keeps</td><td><a href="../api/v1/funnel.json">Open</a></td></tr><tr><td><code>method.json</code></td><td>Score weights, factor definitions, deal types, readiness checks and limits</td><td><a href="../api/v1/method.json">Open</a></td></tr><tr><td><code>price-check.json</code></td><td>Price check for the top ten, assumptions and benchmarks</td><td><a href="../api/v1/price-check.json">Open</a></td></tr><tr><td><code>market.json</code></td><td>Concentration of the top ten, signals and this week&#x27;s changes</td><td><a href="../api/v1/market.json">Open</a></td></tr></tbody></table></div></section>
+<section class="section panel prose"><h2 style="margin-top:0">Example</h2><p>One entry from <code>rankings.json</code>:</p><pre><code>{
+  &quot;rank&quot;: 1,
+  &quot;company_number&quot;: &quot;03921568&quot;,
+  &quot;name&quot;: &quot;Wifinity&quot;,
+  &quot;sector&quot;: &quot;wireless&quot;,
+  &quot;score&quot;: 93.4,
+  &quot;confidence&quot;: &quot;Low&quot;,
+  &quot;deal_type&quot;: &quot;Steady compounder&quot;,
+  &quot;likely_deal_size&quot;: &quot;Could be above £250m&quot;,
+  &quot;page&quot;: &quot;companies/03921568/&quot;,
+  &quot;json&quot;: &quot;api/v1/companies/03921568.json&quot;
+}</code></pre>
+<p>Fetch it from the command line:</p><pre><code>curl https://pe-project-wm.github.io/infra-deal-scanner/api/v1/rankings.json</code></pre></section>
+<section class="section panel prose"><h2 style="margin-top:0">Fields to know</h2><ul>
+<li><code>score</code>: out of 100, the sum of <code>score_parts</code>. Fit with the investment case, not a price.</li>
+<li><code>confidence</code>: High, Medium or Low, with <code>confidence_reasons</code>. Never added to the score.</li>
+<li><code>likely_deal_size</code>: an estimate from EBITDA and a multiple range; see <code>likely_deal_size_basis</code>.</li>
+<li>Money is in pounds (GBP) as plain numbers, converted where the accounts are in another currency. Margins and growth are fractions (0.25 means 25%).</li>
+<li>Dates are ISO 8601 (YYYY-MM-DD). <code>company_number</code> is the Companies House number and links to the official record.</li></ul></section></div>
+<div class="s4"><section class="panel prose"><h2 style="margin-top:0;font-size:18px">Use and attribution</h2><p>You may read, quote and reuse the data, including in other tools and AI systems, if you credit "Northing" with a link to https://pe-project-wm.github.io/infra-deal-scanner/. Companies House material is under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>. The data is information, not advice; see the <a href="../terms/">terms of use</a>.</p></section>
+<section class="section panel prose"><h2 style="margin-top:0;font-size:18px">Updates</h2><p>Last update 25 November 2026. Files are replaced each Monday; <code>meta.json</code> carries the date and method version so you can tell when something changed.</p></section>
+<section class="section panel prose"><h2 style="margin-top:0;font-size:18px">Not included</h2><p>Names of directors and owners are left out, because they are people. The official company record has them.</p></section></div></div>
+</div></main>
+<footer class="foot"><div class="wrap">
+  <div><a class="logo" href="../"><svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="17" width="7" height="13" fill="#5FC3E4"/><rect x="12.5" y="10" width="7" height="20" fill="#1D8FE1"/><rect x="23" y="2" width="7" height="28" fill="#DCE6F2"/></svg><span><b>NORTHING</b></span></a>
+    <p style="margin-top:12px">UK infrastructure rankings for investors. Covering UK digital infrastructure today. Rebuilt every Monday from Companies House filings.</p></div>
+  <div><h2>Explore</h2><ul><li><a href="../rankings/">Rankings</a></li><li><a href="../sectors/">Sectors</a></li><li><a href="../market/">Market intelligence</a></li><li><a href="../price-check/">Price check</a></li></ul></div>
+  <div><h2>Method and data</h2><ul><li><a href="../selection/">How we select companies</a></li><li><a href="../methodology/">Methodology</a></li><li><a href="../data/">Data &amp; API</a></li><li><a href="../licence/">Data sources and licence</a></li></ul></div>
+  <div><h2>About</h2><ul><li><a href="../about/">About Northing</a></li><li><a href="../terms/">Terms of use</a></li><li><a href="../privacy/">Privacy notice</a></li><li><a href="../corrections/">Corrections</a></li></ul></div>
+  <div class="fine">
+    <p>Information and analysis only. Not investment advice, not a recommendation to buy or sell anything, and not a view on any company's prospects. Rankings measure fit with a written investment case.</p>
+    <p>Contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, from Companies House. Last updated 25 November 2026.</p>
+  </div>
+</div></footer>
+<script src="../assets/northing.js" defer></script>
+</body>
+</html>

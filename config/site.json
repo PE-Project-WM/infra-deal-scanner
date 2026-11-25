@@ -1,0 +1,14 @@
+{
+  "_about": "Public website settings (scripts/northing/build.py). contact_email is used on the corrections and privacy pages; while it is empty those pages point to GitHub issues instead.",
+  "name": "Northing",
+  "tagline": "UK infrastructure rankings for investors.",
+  "coverage_now": "UK digital infrastructure",
+  "coverage_next": "Energy transition, water and waste, transport and social infrastructure are planned.",
+  "operator": "William Mikollovci",
+  "contact_email": "",
+  "base_url": "https://pe-project-wm.github.io/infra-deal-scanner/",
+  "repo_url": "https://github.com/PE-Project-WM/infra-deal-scanner",
+  "issues_url": "https://github.com/PE-Project-WM/infra-deal-scanner/issues",
+  "api_version": "v1",
+  "policies_updated": "2026-11-25"
+}

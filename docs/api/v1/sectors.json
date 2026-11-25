@@ -1,0 +1,329 @@
+{
+ "updated": "2026-11-25",
+ "sectors": [
+  {
+   "id": "fibre",
+   "name": "Fibre networks",
+   "status": "screened",
+   "covers": "Companies that own or operate fixed fibre networks: full-fibre altnets, wholesale and regional network operators.",
+   "excludes": "Fibre build contractors (Network build and maintenance) and resellers of other firms' lines (Business connectivity and communications).",
+   "measures_to_add": [
+    "Homes and premises passed",
+    "Take-up rate",
+    "Revenue per connection",
+    "Build cost per premise"
+   ],
+   "in_band": 49,
+   "forward": 21,
+   "ranked": 4,
+   "checked": 4,
+   "in_top10": 3,
+   "best": {
+    "rank": 3,
+    "company": "Open Fibre Networks",
+    "score": 83.2
+   },
+   "median_score": 80.7,
+   "median_sales": 61984847.5,
+   "median_margin": 0.35,
+   "in_size_band": 1,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 4
+   },
+   "types": {
+    "Steady compounder": 2,
+    "Between buckets": 1,
+    "High-growth": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/fibre/"
+  },
+  {
+   "id": "wireless",
+   "name": "Wireless and mobile networks",
+   "status": "screened",
+   "covers": "Companies that own or operate wireless networks: managed wifi, fixed wireless access, private mobile networks and IoT connectivity.",
+   "excludes": "Towers and small cells (own sector) and mast build contractors (Network build and maintenance).",
+   "measures_to_add": [
+    "Sites or venues served",
+    "Contract length",
+    "Revenue per site"
+   ],
+   "in_band": 43,
+   "forward": 12,
+   "ranked": 2,
+   "checked": 2,
+   "in_top10": 1,
+   "best": {
+    "rank": 1,
+    "company": "Wifinity",
+    "score": 93.4
+   },
+   "median_score": 72.05000000000001,
+   "median_sales": 27284964.5,
+   "median_margin": 0.21350000000000002,
+   "in_size_band": 0,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 2
+   },
+   "types": {
+    "Steady compounder": 1,
+    "Under pressure": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/wireless/"
+  },
+  {
+   "id": "towers",
+   "name": "Towers and small cells",
+   "status": "screened",
+   "covers": "Owners of passive mobile infrastructure (masts, rooftops, small cells) leased to mobile operators.",
+   "excludes": "Companies that only design or build masts.",
+   "measures_to_add": [
+    "Sites owned",
+    "Tenants per site",
+    "Escalator terms"
+   ],
+   "in_band": 1,
+   "forward": 1,
+   "ranked": 1,
+   "checked": 1,
+   "in_top10": 1,
+   "best": {
+    "rank": 4,
+    "company": "The Wireless Infrastructure Company",
+    "score": 83.1
+   },
+   "median_score": 83.1,
+   "median_sales": 38943912.0,
+   "median_margin": 0.587,
+   "in_size_band": 0,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 1
+   },
+   "types": {
+    "Steady compounder": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/towers/"
+  },
+  {
+   "id": "datacentres",
+   "name": "Data centres and hosting",
+   "status": "screened",
+   "covers": "Operators of data centres and providers of hosting, colocation and cloud infrastructure.",
+   "excludes": "Contractors that build or fit out data centres (Network build and maintenance).",
+   "measures_to_add": [
+    "Contracted power (MW)",
+    "Utilisation",
+    "Revenue per MW"
+   ],
+   "in_band": 185,
+   "forward": 36,
+   "ranked": 1,
+   "checked": 1,
+   "in_top10": 0,
+   "best": {
+    "rank": 24,
+    "company": "Redcentric Solutions",
+    "score": 70.7
+   },
+   "median_score": 70.7,
+   "median_sales": 126965000.0,
+   "median_margin": 0.116,
+   "in_size_band": 1,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 1
+   },
+   "types": {
+    "Steady compounder": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/datacentres/"
+  },
+  {
+   "id": "satellite",
+   "name": "Satellite",
+   "status": "screened",
+   "covers": "Satellite operators and providers of satellite connectivity.",
+   "excludes": "",
+   "measures_to_add": [
+    "Capacity sold",
+    "Government share of sales"
+   ],
+   "in_band": 22,
+   "forward": 9,
+   "ranked": 4,
+   "checked": 4,
+   "in_top10": 0,
+   "best": {
+    "rank": 12,
+    "company": "Satcom Global",
+    "score": 76.0
+   },
+   "median_score": 53.9,
+   "median_sales": 23000054.160000004,
+   "median_margin": 0.11549999999999999,
+   "in_size_band": 2,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 4
+   },
+   "types": {
+    "Steady compounder": 1,
+    "Between buckets": 1,
+    "Under pressure": 1,
+    "Numbers to check": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/satellite/"
+  },
+  {
+   "id": "critical",
+   "name": "Critical communications",
+   "status": "screened",
+   "covers": "Radio, paging and secure communications for emergency services, defence, rail and other users who cannot lose service.",
+   "excludes": "",
+   "measures_to_add": [
+    "Public-sector share of sales",
+    "Contract end dates"
+   ],
+   "in_band": 5,
+   "forward": 5,
+   "ranked": 5,
+   "checked": 5,
+   "in_top10": 1,
+   "best": {
+    "rank": 6,
+    "company": "Alert Communications",
+    "score": 80.3
+   },
+   "median_score": 62.3,
+   "median_sales": 13560131.0,
+   "median_margin": 0.133,
+   "in_size_band": 3,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 5
+   },
+   "types": {
+    "Steady compounder": 2,
+    "Between buckets": 1,
+    "High-growth": 1,
+    "Under pressure": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/critical/"
+  },
+  {
+   "id": "build",
+   "name": "Network build and maintenance",
+   "status": "screened",
+   "covers": "Contractors that design, build, install and maintain fibre, mobile, utility and data-centre networks for the owners.",
+   "excludes": "",
+   "measures_to_add": [
+    "Order book",
+    "Share of sales from the largest client",
+    "Framework agreements held"
+   ],
+   "in_band": 84,
+   "forward": 30,
+   "ranked": 22,
+   "checked": 22,
+   "in_top10": 2,
+   "best": {
+    "rank": 2,
+    "company": "VEA Group",
+    "score": 84.3
+   },
+   "median_score": 67.05,
+   "median_sales": 25402492.5,
+   "median_margin": 0.1195,
+   "in_size_band": 15,
+   "conf": {
+    "High": 1,
+    "Medium": 8,
+    "Low": 13
+   },
+   "types": {
+    "High-growth": 7,
+    "Steady compounder": 1,
+    "Between buckets": 7,
+    "Under pressure": 6,
+    "Numbers to check": 1
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/build/"
+  },
+  {
+   "id": "services",
+   "name": "Business connectivity and communications",
+   "status": "screened",
+   "covers": "Providers of connectivity, telephony, mobile and managed network services to businesses and the public sector, mostly over other firms' networks.",
+   "excludes": "",
+   "measures_to_add": [
+    "Recurring share of sales",
+    "Customer churn",
+    "Average contract length"
+   ],
+   "in_band": 231,
+   "forward": 97,
+   "ranked": 43,
+   "checked": 43,
+   "in_top10": 2,
+   "best": {
+    "rank": 8,
+    "company": "Clarus Networks",
+    "score": 79.6
+   },
+   "median_score": 60.6,
+   "median_sales": 26680567.0,
+   "median_margin": 0.093,
+   "in_size_band": 27,
+   "conf": {
+    "High": 0,
+    "Medium": 5,
+    "Low": 38
+   },
+   "types": {
+    "High-growth": 6,
+    "Steady compounder": 10,
+    "Between buckets": 17,
+    "Under pressure": 8,
+    "Numbers to check": 2
+   },
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/services/"
+  },
+  {
+   "id": "subsea",
+   "name": "Subsea cables",
+   "status": "planned",
+   "covers": "Owners, operators and maintainers of subsea telecoms cables landing in the UK.",
+   "excludes": "",
+   "measures_to_add": [
+    "Capacity lit",
+    "Landing stations"
+   ],
+   "in_band": 0,
+   "forward": 0,
+   "ranked": 0,
+   "checked": 0,
+   "in_top10": 0,
+   "best": null,
+   "median_score": null,
+   "median_sales": null,
+   "median_margin": null,
+   "in_size_band": 0,
+   "conf": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 0
+   },
+   "types": {},
+   "page": "https://pe-project-wm.github.io/infra-deal-scanner/sectors/subsea/"
+  }
+ ]
+}

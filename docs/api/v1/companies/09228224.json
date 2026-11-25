@@ -1,0 +1,73 @@
+{
+ "rank": 15,
+ "company_number": "09228224",
+ "name": "Redwood Technologies Group",
+ "registered_name": "REDWOOD TECHNOLOGIES GROUP LTD",
+ "what_it_does": "Cloud telephony for regulated businesses (Redwood)",
+ "town": "Bracknell",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 75.4,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 10.9,
+  "balance_sheet": 15.0
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 12%, sales up 17% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Hosting and cloud (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£59m–£78m at 6–8x EBITDA of £10m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-05-13",
+  "sales_gbp": 80319834.0,
+  "sales_growth": 0.172,
+  "ebitda_gbp": 9771203.0,
+  "ebitda_margin": 0.122,
+  "ebitda_basis": "ESTIMATE: operating profit only (OCR, no D&A found)",
+  "cash_gbp": 18921924.0,
+  "net_assets_gbp": 43960069.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £9.8m, in the £2–15m range most mid-market buyers target",
+  "Sales up 17% last year",
+  "Cash of £18.9m and net assets of £44.0m",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match; D&A not found, so EBITDA is understated",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/09228224/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/09228224.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/09228224",
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,84 @@
+{
+ "rank": 34,
+ "company_number": "04213760",
+ "name": "Babble Cloud",
+ "registered_name": "BABBLE CLOUD LIMITED",
+ "what_it_does": "Cloud telephony, contact centre, connectivity and mobile for businesses",
+ "town": "Basildon",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 69.0,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 9.0,
+  "balance_sheet": 10.5
+ },
+ "confidence": "Low",
+ "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 9%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Hosting and cloud (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£46m–£61m at 6–8x EBITDA of £8m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-06-30",
+  "sales_gbp": 85284000.0,
+  "sales_growth": -0.077,
+  "ebitda_gbp": 7653000.0,
+  "ebitda_margin": 0.09,
+  "ebitda_basis": "Operating profit + D&A (checked against the filing)",
+  "cash_gbp": 6388000.0,
+  "net_assets_gbp": 17314000.0,
+  "employees": 467.0,
+  "source": "Tagged, corrected by hand",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £7.7m, in the £2–15m range most mid-market buyers target",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read from the text of the accounts: check them against the filing",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 92375000.0,
+   "margin": 0.09215696887686062,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 85284000.0,
+   "margin": 0.08340368650626143,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04213760/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04213760.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04213760",
+ "updated": "2026-11-25"
+}

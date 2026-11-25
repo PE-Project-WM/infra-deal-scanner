@@ -1,0 +1,71 @@
+{
+ "rank": 63,
+ "company_number": "SC211701",
+ "name": "Pelion IOT",
+ "registered_name": "PELION IOT LIMITED",
+ "what_it_does": "IoT connectivity and device management",
+ "town": "Glasgow",
+ "sector": "wireless",
+ "sector_name": "Wireless and mobile networks",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 50.7,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 12.0,
+  "size_fit": 3.0,
+  "margin_quality": 5.6,
+  "balance_sheet": 7.6
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "thin EBITDA margin (3%); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£3m–£4m at 5.5–7.5x EBITDA of £0m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-22",
+  "sales_gbp": 14764341.0,
+  "sales_growth": 0.206,
+  "ebitda_gbp": 470855.0,
+  "ebitda_margin": 0.032,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 795983.0,
+  "net_assets_gbp": 7651338.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Sales up 21% last year",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read by OCR and checked against the filing: Turnover matches; operating profit used is before £0.9m non-recurring costs",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/SC211701/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/SC211701.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/SC211701",
+ "updated": "2026-11-25"
+}

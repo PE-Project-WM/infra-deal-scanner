@@ -1,0 +1,70 @@
+{
+ "rank": 70,
+ "company_number": "03958887",
+ "name": "Avanti Broadband",
+ "registered_name": "AVANTI BROADBAND LIMITED",
+ "what_it_does": "Satellite broadband (Avanti)",
+ "town": "London",
+ "sector": "satellite",
+ "sector_name": "Satellite",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 45.8,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 20.0,
+  "size_fit": 3.0,
+  "margin_quality": 4.7,
+  "balance_sheet": 0.6
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 36% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Business telecoms (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£2m–£2m at 5.5–7.5x EBITDA of £0m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-07-24",
+  "sales_gbp": 18495288.8,
+  "sales_growth": -0.355,
+  "ebitda_gbp": 312888.80000000005,
+  "ebitda_margin": 0.017,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 353041.60000000003,
+  "net_assets_gbp": -18658172.8,
+  "employees": null,
+  "source": "OCR, check (converted from USD)",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Sales fell 36% last year: find out why",
+  "Figures were read by OCR and checked against the filing: EBITDA after restructuring matches the company figure ($0.4m)",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03958887/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03958887.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03958887",
+ "updated": "2026-11-25"
+}

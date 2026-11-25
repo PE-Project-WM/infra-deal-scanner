@@ -1,0 +1,83 @@
+{
+ "rank": 32,
+ "company_number": "10174559",
+ "name": "Nano Fibre UK",
+ "registered_name": "NANO FIBRE UK LIMITED",
+ "what_it_does": "Fibre network installation contractor (about 180 staff, Harborough and Bradford)",
+ "town": "Lutterworth",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 69.3,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 9.4,
+  "balance_sheet": 2.4
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 10%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Altnet and operator network build",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-10-15",
+  "sales_gbp": 24124352.0,
+  "sales_growth": 0.1,
+  "ebitda_gbp": 2346500.0,
+  "ebitda_margin": 0.097,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 121378.0,
+  "net_assets_gbp": -431800.0,
+  "employees": 329.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "EBITDA of £2.3m, in the £2–15m range most mid-market buyers target",
+  "Founder-owned, so a direct approach is possible",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2025,
+   "sales": 21934414.0,
+   "margin": 0.017534136084054946,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2026,
+   "sales": 24124352.0,
+   "margin": 0.08227230310683578,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/10174559/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/10174559.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/10174559",
+ "updated": "2026-11-25"
+}

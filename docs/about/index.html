@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-root="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Northing | Northing</title>
+<meta name="description" content="What Northing is, who runs it and how it is built.">
+<link rel="canonical" href="https://pe-project-wm.github.io/infra-deal-scanner/about/">
+<link rel="alternate" type="application/json" href="../api/v1/index.json" title="Northing data (JSON)">
+<link rel="stylesheet" href="../assets/northing.css">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<meta property="og:title" content="About Northing | Northing"><meta property="og:description" content="What Northing is, who runs it and how it is built."><meta property="og:type" content="website"><meta property="og:url" content="https://pe-project-wm.github.io/infra-deal-scanner/about/">
+
+</head>
+<body data-page="">
+<a class="skip" href="#main">Skip to content</a>
+<div class="top"><div class="wrap">
+  <a class="logo" href="../" aria-label="Northing home"><svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="17" width="7" height="13" fill="#5FC3E4"/><rect x="12.5" y="10" width="7" height="20" fill="#1D8FE1"/><rect x="23" y="2" width="7" height="28" fill="#DCE6F2"/></svg><span><b>NORTHING</b><small>UK infrastructure rankings</small></span></a>
+  <button class="menu" id="menu" aria-controls="nav" aria-expanded="false">Menu</button>
+  <ul class="nav" id="nav"><li><a href="../rankings/">Rankings</a></li><li><a href="../sectors/">Sectors</a></li><li><a href="../market/">Market intelligence</a></li><li><a href="../price-check/">Price check</a></li><li><a href="../selection/">How we select</a></li><li><a href="../methodology/">Methodology</a></li><li><a href="../data/">Data &amp; API</a></li></ul>
+  <span class="live"><i aria-hidden="true"></i>Weekly ranking, updated 25 Nov 2026</span>
+</div></div>
+<header class="phead"><div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><a href="../">Home</a> / <span aria-current="page">About Northing</span></nav>
+<h1>About Northing</h1></div></header>
+<main id="main" tabindex="-1"><div class="wrap">
+<div class="panel prose" style="max-width:900px">
+<p>Northing ranks private UK infrastructure companies for investors. It starts with UK digital infrastructure: every company with £10–250m of sales that a mid-market private equity or infrastructure investor could buy. Energy transition, water and waste, transport and social infrastructure are planned.</p>
+<h2>Why it exists</h2><p>Mid-market investors spend weeks finding companies before they come to market. Most company databases list who exists; Northing tries to say which companies deserve attention, why, and roughly what they might cost, with every step written down so it can be checked.</p>
+<h2>Who runs it</h2><p>Northing is run by William Mikollovci, independently. No company pays to be included or to change its position, and no company has endorsed the ranking.</p>
+<h2>How it is built</h2><p>The data comes from Companies House: the public register and each company's filed accounts. A pipeline written in Python reads the accounts, applies the filters and scores each company; it runs every Monday on GitHub Actions and rebuilds this site. It was built with help from Claude, an AI assistant. The method and code are public on <a href="https://github.com/PE-Project-WM/infra-deal-scanner">GitHub</a>.</p>
+<h2>Accessibility</h2><p>The site aims to meet WCAG 2.2 AA: text contrast, keyboard navigation, visible focus, and pages that work without JavaScript. If something is hard to use, please report it through the <a href="../corrections/">corrections</a> page.</p></div>
+</div></main>
+<footer class="foot"><div class="wrap">
+  <div><a class="logo" href="../"><svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="17" width="7" height="13" fill="#5FC3E4"/><rect x="12.5" y="10" width="7" height="20" fill="#1D8FE1"/><rect x="23" y="2" width="7" height="28" fill="#DCE6F2"/></svg><span><b>NORTHING</b></span></a>
+    <p style="margin-top:12px">UK infrastructure rankings for investors. Covering UK digital infrastructure today. Rebuilt every Monday from Companies House filings.</p></div>
+  <div><h2>Explore</h2><ul><li><a href="../rankings/">Rankings</a></li><li><a href="../sectors/">Sectors</a></li><li><a href="../market/">Market intelligence</a></li><li><a href="../price-check/">Price check</a></li></ul></div>
+  <div><h2>Method and data</h2><ul><li><a href="../selection/">How we select companies</a></li><li><a href="../methodology/">Methodology</a></li><li><a href="../data/">Data &amp; API</a></li><li><a href="../licence/">Data sources and licence</a></li></ul></div>
+  <div><h2>About</h2><ul><li><a href="../about/">About Northing</a></li><li><a href="../terms/">Terms of use</a></li><li><a href="../privacy/">Privacy notice</a></li><li><a href="../corrections/">Corrections</a></li></ul></div>
+  <div class="fine">
+    <p>Information and analysis only. Not investment advice, not a recommendation to buy or sell anything, and not a view on any company's prospects. Rankings measure fit with a written investment case.</p>
+    <p>Contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, from Companies House. Last updated 25 November 2026.</p>
+  </div>
+</div></footer>
+<script src="../assets/northing.js" defer></script>
+</body>
+</html>

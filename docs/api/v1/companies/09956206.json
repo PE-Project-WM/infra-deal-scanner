@@ -1,0 +1,72 @@
+{
+ "rank": 37,
+ "company_number": "09956206",
+ "name": "Heneghan Holdings",
+ "registered_name": "HENEGHAN HOLDINGS LIMITED",
+ "what_it_does": "Utility construction for electricity and telecoms (Heneghan Comms subsidiary)",
+ "town": "Leeds",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 67.3,
+ "score_parts": {
+  "revenue_visibility": 8.8,
+  "strategy_fit": 12.0,
+  "size_fit": 13.8,
+  "margin_quality": 21.2,
+  "balance_sheet": 11.5
+ },
+ "confidence": "Low",
+ "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 23% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Altnet and operator network build",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£90m–£126m at 5–7x EBITDA of £18m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-11-05",
+  "sales_gbp": 41678822.0,
+  "sales_growth": -0.226,
+  "ebitda_gbp": 17939797.0,
+  "ebitda_margin": 0.43,
+  "ebitda_basis": "Operating profit + D&A (checked against the filing)",
+  "cash_gbp": 1385455.0,
+  "net_assets_gbp": 6917419.0,
+  "employees": 4.0,
+  "source": "FROM TEXT, corrected by hand",
+  "repeat_revenue_basis": "From the accounts: Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "High margin (43% EBITDA)"
+ ],
+ "check_first": [
+  "Sales fell 23% last year: find out why",
+  "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Both Heneghan family directors resigned on 26 Oct 2026 (Companies House): find out whether the business has been sold or is changing hands",
+  "The accounts call concentration of revenue the largest internal risk: find out which customer and how much",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [],
+ "revenue_mix": "Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
+ "revenue_mix_source": "Heneghan Holdings accounts FY Apr 2025 (strategic report, principal risks)",
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/09956206/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/09956206.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/09956206",
+ "updated": "2026-11-25"
+}

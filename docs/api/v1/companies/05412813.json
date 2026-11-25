@@ -1,0 +1,125 @@
+{
+ "rank": 3,
+ "company_number": "05412813",
+ "name": "Open Fibre Networks",
+ "registered_name": "OPEN FIBRE NETWORKS LIMITED",
+ "what_it_does": "Full-fibre networks for new-build homes (OFNL)",
+ "town": "Bury St. Edmunds",
+ "sector": "fibre",
+ "sector_name": "Fibre networks",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 83.2,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 21.2,
+  "balance_sheet": 4.5
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; missing cash, net assets; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 51%, sales up 16% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Consumer broadband",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Could be above £250m",
+ "likely_deal_size_basis": "£170m–£254m at 12–18x EBITDA of £14m (network asset owner: fibre network)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-09-21",
+  "sales_gbp": 27759695.0,
+  "sales_growth": 0.161,
+  "ebitda_gbp": 14127893.0,
+  "ebitda_margin": 0.509,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": null,
+  "net_assets_gbp": null,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "High margin (51% EBITDA)",
+  "EBITDA of £14.1m, in the £2–15m range most mid-market buyers target",
+  "Sales up 16% last year"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (£14.8m) match",
+  "Part of the BUUK multi-utility group (which bought Persimmon's FibreNest for about £100m in 2025): buying it would be a carve-out",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 14127893.0,
+  "ev_low": 84767358.0,
+  "ev_mid": 98895251.0,
+  "ev_high": 113023144.0,
+  "net_debt": null,
+  "net_debt_to_ebitda": null,
+  "accounts_year_end": null,
+  "equity_low": null,
+  "equity_high": null,
+  "cash_conversion": null,
+  "fcf_conversion": null,
+  "walk_away_mult": 6.172938836890691,
+  "walk_away_ev": 87210619.38313614,
+  "walk_away_equity": null,
+  "irr_mid": 0.1758402702595161,
+  "moic_mid": 2.24771709841394,
+  "irr_exit_plus1": 0.20736142283115644,
+  "irr_exit_minus1": 0.14052459836100262,
+  "currency": "GBP",
+  "balance_note": null,
+  "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12–18x asset-owner range and any public deal value instead."
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/05412813/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/05412813.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/05412813",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "partly",
+    "why": "Could be above £250m"
+   },
+   {
+    "check": "buyable",
+    "result": "partly",
+    "why": "Only as a carve-out from a larger parent"
+   },
+   {
+    "check": "price",
+    "result": "partly",
+    "why": "Most a buyer could pay for 20% a year: 6.2x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: OCR figures checked against the filing; missing cash, net assets; fewer than 3 years read; recurring revenue estimated"
+   }
+  ],
+  "passes": 0,
+  "fails": 1
+ },
+ "updated": "2026-11-25"
+}

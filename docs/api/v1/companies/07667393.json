@@ -1,0 +1,139 @@
+{
+ "rank": 10,
+ "company_number": "07667393",
+ "name": "The Networking People (TNP)",
+ "registered_name": "THE NETWORKING PEOPLE (TNP) LIMITED",
+ "what_it_does": "Managed public-sector networks",
+ "town": "Lancaster",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 77.2,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 11.2,
+  "balance_sheet": 13.5
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (from the accounts), margin 13%, sales up 17% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Public sector budgets",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Hard",
+ "ease_of_buying_note": "Sponsor bought in the last 2 years, unlikely to sell soon",
+ "ownership_type": "Sponsor-owned, recent entry",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£13m–£17m at 5.5–7.5x EBITDA of £2m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-10-16",
+  "sales_gbp": 18099102.0,
+  "sales_growth": 0.166,
+  "ebitda_gbp": 2304777.0,
+  "ebitda_margin": 0.127,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 1780803.0,
+  "net_assets_gbp": 1997819.0,
+  "employees": 60.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "From the accounts: Accounts split sales: connectivity £7.5m (41%), labour and support £3.2m (18%), materials £7.4m (41%). £4.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "EBITDA of £2.3m, in the £2–15m range most mid-market buyers target",
+  "Sales up 17% last year",
+  "Cash of £1.8m and net assets of £2.0m"
+ ],
+ "check_first": [
+  "Bought by a private equity fund in 2025: unlikely to be sold for a few years",
+  "Bought by YFM Equity Partners in 2025, so unlikely to be sold for several years: a possible add-on partner rather than a target",
+  "Mostly public sector (local government, health, blue light, education), won through procurement frameworks",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [
+  {
+   "year": 2025,
+   "sales": 15518554.0,
+   "margin": 0.06336666418791338,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2026,
+   "sales": 18099102.0,
+   "margin": 0.11778722502365034,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": "Accounts split sales: connectivity £7.5m (41%), labour and support £3.2m (18%), materials £7.4m (41%). £4.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
+ "revenue_mix_source": "TNP accounts FY Mar 2026 (turnover note, creditors note, strategic report)",
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 5.5,
+  "mult_mid": 6.5,
+  "mult_high": 7.5,
+  "small_discount": true,
+  "ebitda": 2304777.0,
+  "ev_low": 12676273.5,
+  "ev_mid": 14981050.5,
+  "ev_high": 17285827.5,
+  "net_debt": -1616063.0,
+  "net_debt_to_ebitda": -0.7011797670664016,
+  "accounts_year_end": "2026-03-31",
+  "equity_low": 14292336.5,
+  "equity_high": 18901890.5,
+  "cash_conversion": 0.9902046922543917,
+  "fcf_conversion": 0.6107471568832906,
+  "walk_away_mult": 5.265562497186606,
+  "walk_away_ev": 12135947.335578253,
+  "walk_away_equity": 13752010.335578253,
+  "irr_mid": 0.15765010028265358,
+  "moic_mid": 2.0791535716922636,
+  "irr_exit_plus1": 0.19543272476297502,
+  "irr_exit_minus1": 0.11417427343143194,
+  "currency": "GBP",
+  "balance_note": "Acquisition debt for the 2025 buyout usually sits in the holding companies above this one (The Networking People Bidco and Topco), not in these accounts. £4.4m of customer payments received in advance (deferred income) supports the cash.",
+  "notes": ""
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/07667393/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/07667393.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/07667393",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "passes",
+    "why": "Within £10–250m"
+   },
+   {
+    "check": "buyable",
+    "result": "fails",
+    "why": "Bought recently, so unlikely to be sold for several years"
+   },
+   {
+    "check": "price",
+    "result": "fails",
+    "why": "Most a buyer could pay for 20% a year: 5.3x, against a 5.5–7.5x price range"
+   },
+   {
+    "check": "figures",
+    "result": "partly",
+    "why": "Medium confidence: fewer than 3 years read"
+   }
+  ],
+  "passes": 1,
+  "fails": 2
+ },
+ "updated": "2026-11-25"
+}

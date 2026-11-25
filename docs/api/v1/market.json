@@ -1,0 +1,403 @@
+{
+ "updated": "2026-11-25",
+ "concentration": {
+  "n": 10,
+  "effective_bets": 4.5,
+  "flag": "amber",
+  "factors": [
+   {
+    "factor": "Altnet funding and interest rates",
+    "share": 0.32,
+    "exposure": 3.1,
+    "count": 4,
+    "flag": "amber",
+    "companies": [
+     "VEA Group (85%)",
+     "Open Fibre Networks (70%)",
+     "Kcom Group (60%)",
+     "National Grid Telecoms (60%)",
+     "Wifinity (40%)"
+    ],
+    "drivers": [
+     "Altnet and operator network build",
+     "Consumer broadband"
+    ],
+    "explain": "Paid by new fibre networks to lay cable. If those networks raise less money or rates stay high, they build less and these companies lose work together."
+   },
+   {
+    "factor": "Government spending",
+    "share": 0.25,
+    "exposure": 2.5,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "Alert Communications",
+     "The Networking People (TNP) (85%)",
+     "Wifinity (40%)",
+     "Clarus Networks (25%)"
+    ],
+    "drivers": [
+     "Public sector budgets"
+    ],
+    "explain": "Paid from public budgets: councils, schools, the NHS, defence and publicly funded transport. Spending cuts would hit them together."
+   },
+   {
+    "factor": "Mobile operator and emergency-services spend",
+    "share": 0.21,
+    "exposure": 2.1,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "The Wireless Infrastructure Company",
+     "Beacon Communication Services (70%)",
+     "National Grid Telecoms (40%)"
+    ],
+    "drivers": [
+     "Mobile, radio and critical comms"
+    ],
+    "explain": "Depend on mobile networks and emergency services buying radio and wireless work."
+   },
+   {
+    "factor": "Construction and utility capex",
+    "share": 0.1,
+    "exposure": 1.0,
+    "count": 0,
+    "flag": "green",
+    "companies": [
+     "Open Fibre Networks (30%)",
+     "Beacon Communication Services (30%)",
+     "Clarus Networks (25%)",
+     "VEA Group (15%)"
+    ],
+    "drivers": [
+     "Utility and civil construction"
+    ],
+    "explain": "General building and utility contractors. Depend on the construction cycle."
+   },
+   {
+    "factor": "SME IT and telecoms spending",
+    "share": 0.07,
+    "exposure": 0.8,
+    "count": 0,
+    "flag": "green",
+    "companies": [
+     "Kcom Group (40%)",
+     "Wifinity (20%)",
+     "The Networking People (TNP) (15%)"
+    ],
+    "drivers": [
+     "Business telecoms (SME)"
+    ],
+    "explain": "Sell phone, network and hosting services to small and mid-sized businesses. A squeeze on business budgets would hit them together."
+   },
+   {
+    "factor": "Offshore oil, gas, wind and shipping activity",
+    "share": 0.05,
+    "exposure": 0.5,
+    "count": 1,
+    "flag": "green",
+    "companies": [
+     "Clarus Networks (50%)"
+    ],
+    "drivers": [
+     "Offshore energy and maritime"
+    ],
+    "explain": "Serve ships, rigs and offshore wind farms. A fall in offshore activity would hit all of them at once."
+   }
+  ]
+ },
+ "signals": [
+  {
+   "number": "08322856",
+   "company": "Redcentric Solutions",
+   "date": "2026-08-28",
+   "signal": "Refinancing",
+   "strength": "strong",
+   "why": "Old security released and new security registered: debt repaid and replaced",
+   "evidence": "1 new charge (National Westminster Bank PLC (As Security Agent)), 2 released"
+  },
+  {
+   "number": "05448638",
+   "company": "4Net Technologies",
+   "date": "2026-10-23",
+   "signal": "Refinancing with a fund or security agent",
+   "strength": "strong",
+   "why": "Old security released and new security registered in favour of a security agent or fund, which often comes with a buyout or a private credit loan",
+   "evidence": "3 new charges (Alter Domus Trustees (UK) Limited as Security Agent; Alter Domus Trustees (UK) Limited, as Security Agent; Palatine Private Equity LLP (The Security Trustee)), 1 released"
+  },
+  {
+   "number": "08235914",
+   "company": "Datalec Power Installations",
+   "date": "2026-10-27",
+   "signal": "Possible change of ownership",
+   "strength": "strong",
+   "why": "Owners changed and the board was reshaped on the same day, which usually happens when a sale completes",
+   "evidence": "2 owner changes, 3 director changes the same day"
+  },
+  {
+   "number": "06472696",
+   "company": "4Com Network Services",
+   "date": "2026-10-07",
+   "signal": "Board reshaped",
+   "strength": "moderate",
+   "why": "Several directors changed on one day; this often follows a sale, a refinancing or a group reorganisation",
+   "evidence": "5 director changes on one day"
+  },
+  {
+   "number": "02804354",
+   "company": "Charterhouse Voice & Data",
+   "date": "2026-11-11",
+   "signal": "Board reshaped",
+   "strength": "moderate",
+   "why": "Several directors changed on one day; this often follows a sale, a refinancing or a group reorganisation",
+   "evidence": "6 director changes on one day"
+  },
+  {
+   "number": "11480193",
+   "company": "Rapid Response Telecoms",
+   "date": "2026-10-16",
+   "signal": "New bank borrowing",
+   "strength": "weak",
+   "why": "A lender registered security over the company, usually for a new loan or facility",
+   "evidence": "1 new charge (Barclays Bank PLC)"
+  }
+ ],
+ "top10_moves": [
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "same",
+   "from": 6,
+   "to": 6
+  },
+  {
+   "company": "National Grid Telecoms",
+   "number": "02386327",
+   "kind": "same",
+   "from": 7,
+   "to": 7
+  }
+ ],
+ "events": [
+  {
+   "company_number": "02386327",
+   "event": "New accounts: New accounts filed, but figures could not be read (PDF or untagged)",
+   "date": "2026-11-24"
+  },
+  {
+   "company_number": "02804354",
+   "event": "Director resigned",
+   "date": "2026-11-11"
+  },
+  {
+   "company_number": "02804354",
+   "event": "Director resigned",
+   "date": "2026-11-11"
+  },
+  {
+   "company_number": "02804354",
+   "event": "Director appointed",
+   "date": "2026-11-11"
+  },
+  {
+   "company_number": "02804354",
+   "event": "Director appointed",
+   "date": "2026-11-11"
+  },
+  {
+   "company_number": "02804354",
+   "event": "Director appointed",
+   "date": "2026-11-11"
+  },
+  {
+   "company_number": "02804354",
+   "event": "Director appointed",
+   "date": "2026-11-11"
+  },
+  {
+   "company_number": "03912906",
+   "event": "Director appointed",
+   "date": "2026-11-04"
+  },
+  {
+   "company_number": "05217343",
+   "event": "Director appointed",
+   "date": "2026-10-28"
+  },
+  {
+   "company_number": "08235914",
+   "event": "Director appointed",
+   "date": "2026-10-27"
+  },
+  {
+   "company_number": "08235914",
+   "event": "Director appointed",
+   "date": "2026-10-27"
+  },
+  {
+   "company_number": "08235914",
+   "event": "Director appointed",
+   "date": "2026-10-27"
+  },
+  {
+   "company_number": "08235914",
+   "event": "Owner left",
+   "date": "2026-10-27"
+  },
+  {
+   "company_number": "08235914",
+   "event": "Owner left",
+   "date": "2026-10-27"
+  },
+  {
+   "company_number": "09956206",
+   "event": "Director resigned",
+   "date": "2026-10-26"
+  },
+  {
+   "company_number": "09956206",
+   "event": "Director resigned",
+   "date": "2026-10-26"
+  },
+  {
+   "company_number": "05448638",
+   "event": "New charge: Security registered in favour of Alter Domus Trustees (UK) Limited, as Security Agent (possible new borrowing)",
+   "date": "2026-10-23"
+  },
+  {
+   "company_number": "11480193",
+   "event": "New charge: Security registered in favour of Barclays Bank PLC (possible new borrowing)",
+   "date": "2026-10-16"
+  },
+  {
+   "company_number": "06472696",
+   "event": "Director appointed",
+   "date": "2026-10-07"
+  },
+  {
+   "company_number": "06472696",
+   "event": "Director appointed",
+   "date": "2026-10-07"
+  },
+  {
+   "company_number": "06472696",
+   "event": "Director appointed",
+   "date": "2026-10-07"
+  },
+  {
+   "company_number": "06472696",
+   "event": "Director resigned",
+   "date": "2026-10-07"
+  },
+  {
+   "company_number": "06472696",
+   "event": "Director appointed",
+   "date": "2026-10-07"
+  },
+  {
+   "company_number": "02578478",
+   "event": "Director appointed",
+   "date": "2026-10-05"
+  },
+  {
+   "company_number": "02578478",
+   "event": "Director appointed",
+   "date": "2026-10-05"
+  },
+  {
+   "company_number": "02386327",
+   "event": "Director resigned",
+   "date": "2026-10-01"
+  },
+  {
+   "company_number": "05448638",
+   "event": "Charge satisfied: Security for Alter Domus Trustees (UK) Limited as Security Agent released (debt repaid or refinanced)",
+   "date": "2026-09-23"
+  },
+  {
+   "company_number": "05448638",
+   "event": "New charge: Security registered in favour of Alter Domus Trustees (UK) Limited as Security Agent (possible new borrowing)",
+   "date": "2026-09-18"
+  },
+  {
+   "company_number": "05448638",
+   "event": "New charge: Security registered in favour of Palatine Private Equity LLP (The Security Trustee) (possible new borrowing)",
+   "date": "2026-09-18"
+  },
+  {
+   "company_number": "05208041",
+   "event": "Director resigned",
+   "date": "2026-09-02"
+  },
+  {
+   "company_number": "08322856",
+   "event": "Charge satisfied: Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
+   "date": "2026-09-01"
+  },
+  {
+   "company_number": "08322856",
+   "event": "Charge satisfied: Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
+   "date": "2026-09-01"
+  },
+  {
+   "company_number": "05238375",
+   "event": "Director resigned",
+   "date": "2026-08-31"
+  },
+  {
+   "company_number": "08322856",
+   "event": "New charge: Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)",
+   "date": "2026-08-28"
+  }
+ ],
+ "growth_infrastructure_watchlist": [
+  {
+   "company": "Nexgen Cloud",
+   "what": "GPU cloud and data centres",
+   "sales": 52723813.0,
+   "reason": "loss-making (EBITDA margin -21%) while sales up 101% in one year (only one year read)"
+  },
+  {
+   "company": "Nlighten UK",
+   "what": "Edge data centres",
+   "sales": 25357470.0,
+   "reason": "loss-making (EBITDA margin -40%) while sales up 192% in one year (only one year read)"
+  },
+  {
+   "company": "MDA Satconn UK",
+   "what": "Satellite equipment",
+   "sales": 18999828.0,
+   "reason": "loss-making (EBITDA margin -76%) while sales up 291% in one year (only one year read)"
+  },
+  {
+   "company": "FLO Live",
+   "what": "IoT connectivity",
+   "sales": 15355067.0,
+   "reason": "loss-making (EBITDA margin -140%) while sales up 80% in one year (only one year read)"
+  },
+  {
+   "company": "Communicate Technology",
+   "what": "Business telecoms and IT",
+   "sales": 13755104.0,
+   "reason": "loss-making (EBITDA margin -6%) while sales up 106% in one year (only one year read)"
+  },
+  {
+   "company": "Grain Connect",
+   "what": "Fibre network (altnet)",
+   "sales": 13308000.0,
+   "reason": "loss-making (EBITDA margin -72%) while sales up 48% in one year (only one year read)"
+  },
+  {
+   "company": "Truespeed Communications",
+   "what": "Fibre network (altnet)",
+   "sales": 11615420.0,
+   "reason": "loss-making (EBITDA margin -89%) while sales up 25% in one year (only one year read)"
+  },
+  {
+   "company": "Brightsolid Online Technology",
+   "what": "Data centres",
+   "sales": 11424620.0,
+   "reason": "loss-making (EBITDA margin -12%) while sales up 12% in one year (only one year read)"
+  }
+ ]
+}

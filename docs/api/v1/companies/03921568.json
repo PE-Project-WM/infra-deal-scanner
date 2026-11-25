@@ -1,0 +1,126 @@
+{
+ "rank": 1,
+ "company_number": "03921568",
+ "name": "Wifinity",
+ "registered_name": "WIFINITY LIMITED",
+ "what_it_does": "Managed wifi networks for military bases, student housing and holiday parks (Wifinity)",
+ "town": "London",
+ "sector": "wireless",
+ "sector_name": "Wireless and mobile networks",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 93.4,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 20.0,
+  "size_fit": 14.7,
+  "margin_quality": 21.2,
+  "balance_sheet": 15.0
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 40%, sales up 20% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Public sector budgets",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Hard",
+ "ease_of_buying_note": "Sponsor bought in the last 2 years, unlikely to sell soon",
+ "ownership_type": "Sponsor-owned, recent entry",
+ "likely_deal_size": "Could be above £250m",
+ "likely_deal_size_basis": "£189m–£283m at 12–18x EBITDA of £16m (network asset owner: owned wifi networks)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-06-26",
+  "sales_gbp": 39805588.0,
+  "sales_growth": 0.201,
+  "ebitda_gbp": 15709277.0,
+  "ebitda_margin": 0.395,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 6822251.0,
+  "net_assets_gbp": 27142424.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "High margin (40% EBITDA)",
+  "Sales up 20% last year",
+  "Cash of £6.8m and net assets of £27.1m"
+ ],
+ "check_first": [
+  "Bought by a private equity fund in 2021: unlikely to be sold for a few years",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match; operating profit is after £0.85m exceptional costs, so EBITDA here (£15.7m) is below the company's own £16.7m",
+  "Bought by Arcus Infrastructure Partners in early 2026, so unlikely to be sold again for several years",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 15709277.0,
+  "ev_low": 94255662.0,
+  "ev_mid": 109964939.0,
+  "ev_high": 125674216.0,
+  "net_debt": -6447007.0,
+  "net_debt_to_ebitda": -0.4103948895929456,
+  "accounts_year_end": "2025-12-31",
+  "equity_low": 100702669.0,
+  "equity_high": 132121223.0,
+  "cash_conversion": null,
+  "fcf_conversion": null,
+  "walk_away_mult": 6.1259781942698535,
+  "walk_away_ev": 96234688.34974495,
+  "walk_away_equity": 102681695.34974495,
+  "irr_mid": 0.17440744786547357,
+  "moic_mid": 2.234055633725595,
+  "irr_exit_plus1": 0.2060728615331513,
+  "irr_exit_minus1": 0.13890524403897841,
+  "currency": "GBP",
+  "balance_note": "Read by OCR from scanned accounts. £12.2m owed to group companies, repayable on demand and interest-free; acquisition debt for the 2026 Arcus deal will sit in holding companies above. No cash flow statement read.",
+  "notes": ""
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03921568/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03921568.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03921568",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "partly",
+    "why": "Could be above £250m"
+   },
+   {
+    "check": "buyable",
+    "result": "fails",
+    "why": "Bought recently, so unlikely to be sold for several years"
+   },
+   {
+    "check": "price",
+    "result": "partly",
+    "why": "Most a buyer could pay for 20% a year: 6.1x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated"
+   }
+  ],
+  "passes": 0,
+  "fails": 2
+ },
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,82 @@
+{
+ "rank": 14,
+ "company_number": "02853596",
+ "name": "MAP Group (UK)",
+ "registered_name": "MAP GROUP (UK) LIMITED",
+ "what_it_does": "Telecoms network services and fibre installation, e.g. for Netomnia",
+ "town": "Stockton-On-Tees",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 75.5,
+ "score_parts": {
+  "revenue_visibility": 11.2,
+  "strategy_fit": 20.0,
+  "size_fit": 13.8,
+  "margin_quality": 17.8,
+  "balance_sheet": 12.7
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "margin 24% but project-based revenue (from the accounts)",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Altnet and operator network build",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Hard",
+ "ease_of_buying_note": "Employee-owned, rarely for sale",
+ "ownership_type": "Employee-owned (EOT)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£91m–£127m at 5–7x EBITDA of £18m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-06-26",
+  "sales_gbp": 75597498.0,
+  "sales_growth": 0.016,
+  "ebitda_gbp": 18109918.0,
+  "ebitda_margin": 0.24,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 5468679.0,
+  "net_assets_gbp": 10582372.0,
+  "employees": 371.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "From the accounts: All sales are services to network operators, service providers, utilities and public bodies; flat at £75.6m. No split between ongoing maintenance and one-off build work.",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case"
+ ],
+ "check_first": [
+  "Employee-owned: a sale needs the trustees to agree and is rare",
+  "Netomnia, a customer, is being bought by nexfibre: check how much of sales it is",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 74397230.0,
+   "margin": 0.163019980717024,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 75597498.0,
+   "margin": 0.23438915928143547,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at £75.6m. No split between ongoing maintenance and one-off build work.",
+ "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02853596/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02853596.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02853596",
+ "updated": "2026-11-25"
+}

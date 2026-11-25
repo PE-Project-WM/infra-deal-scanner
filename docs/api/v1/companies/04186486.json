@@ -1,0 +1,125 @@
+{
+ "rank": 9,
+ "company_number": "04186486",
+ "name": "Beacon Communication Services",
+ "registered_name": "BEACON COMMUNICATION SERVICES LIMITED",
+ "what_it_does": "Designs, installs and maintains telecoms infrastructure for mobile operators and utilities",
+ "town": "Tavistock",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 78.8,
+ "score_parts": {
+  "revenue_visibility": 15.0,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 15.1,
+  "balance_sheet": 13.7
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 20%, sales up 22% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£37m–£50m at 6–8x EBITDA of £6m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-27",
+  "sales_gbp": 31765539.0,
+  "sales_growth": 0.219,
+  "ebitda_gbp": 6187997.0,
+  "ebitda_margin": 0.195,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 3426541.0,
+  "net_assets_gbp": 40269277.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "EBITDA of £6.2m, in the £2–15m range most mid-market buyers target",
+  "Sales up 22% last year",
+  "Cash of £3.4m and net assets of £40.3m"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
+  "Founder-owned (Mark Manton, Tavistock). Not the US Beacon Communications bought by Kelso and ARA in April 2026",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 6187997.0,
+  "ev_low": 37127982.0,
+  "ev_mid": 43315979.0,
+  "ev_high": 49503976.0,
+  "net_debt": null,
+  "net_debt_to_ebitda": null,
+  "accounts_year_end": null,
+  "equity_low": null,
+  "equity_high": null,
+  "cash_conversion": null,
+  "fcf_conversion": null,
+  "walk_away_mult": 5.911436587067021,
+  "walk_away_ev": 36579951.866460964,
+  "walk_away_equity": null,
+  "irr_mid": 0.16777096663495095,
+  "moic_mid": 2.171642676248692,
+  "irr_exit_plus1": 0.2001148492010365,
+  "irr_exit_minus1": 0.1313874958388801,
+  "currency": "GBP",
+  "balance_note": null,
+  "notes": ""
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04186486/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04186486.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04186486",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "passes",
+    "why": "Within £10–250m"
+   },
+   {
+    "check": "buyable",
+    "result": "passes",
+    "why": "Easy: Founder-owned, proprietary approach possible"
+   },
+   {
+    "check": "price",
+    "result": "fails",
+    "why": "Most a buyer could pay for 20% a year: 5.9x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated"
+   }
+  ],
+  "passes": 2,
+  "fails": 2
+ },
+ "updated": "2026-11-25"
+}

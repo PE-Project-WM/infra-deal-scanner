@@ -1,0 +1,77 @@
+{
+ "method_version": "v3.1",
+ "score_weights": {
+  "revenue_visibility": 25,
+  "strategy_fit": 20,
+  "size_fit": 15,
+  "margin_quality": 25,
+  "balance_sheet": 15
+ },
+ "factors": {
+  "revenue_visibility": {
+   "label": "Repeat revenue",
+   "definition": "How much of the sales are likely to recur. Read from the accounts for the leading companies; estimated from the type of business for the rest."
+  },
+  "strategy_fit": {
+   "label": "Fits the case",
+   "definition": "How closely the business matches the investment case. Only companies confirmed to trade in the sector are ranked."
+  },
+  "size_fit": {
+   "label": "Right size",
+   "definition": "EBITDA (profit before interest, tax, depreciation and amortisation) in the £2–15m range most mid-market buyers target."
+  },
+  "margin_quality": {
+   "label": "Profit margin",
+   "definition": "How high the EBITDA margin is and, where three or more years of accounts have been read, how steady it has been."
+  },
+  "balance_sheet": {
+   "label": "Balance sheet",
+   "definition": "Net assets, cash and margin headroom, reduced where interest cover is thin or net debt is above 1x EBITDA. A first check, not a full measure of how much a buyer could borrow."
+  }
+ },
+ "confidence": "High, Medium or Low: how far the figures can be trusted. Shown beside the score, never added to it.",
+ "deal_types": {
+  "Steady compounder": {
+   "label": "Steady compounder",
+   "definition": "Recurring-type revenue, margin of 10% or more, sales not falling and a steady margin.",
+   "suits": "Core and core-plus infrastructure funds"
+  },
+  "High-growth": {
+   "label": "High-growth",
+   "definition": "Sales growing 20% a year or more over several years (25% if only one year is known).",
+   "suits": "Growth and mid-market PE"
+  },
+  "Fixable dip": {
+   "label": "Fixable dip",
+   "definition": "Falling sales or a thin margin, with a named problem and a fix.",
+   "suits": "Value-add infrastructure and special-situations funds"
+  },
+  "Under pressure": {
+   "label": "Under pressure",
+   "definition": "Falling sales or a thin margin, and no fix identified yet.",
+   "suits": "None until a fix is identified"
+  },
+  "Growth infrastructure": {
+   "label": "Growth infrastructure",
+   "definition": "Loss-making while building a network, but growing. Not ranked; on the watchlist.",
+   "suits": "Growth infrastructure funds (loss-making while building)"
+  },
+  "Between buckets": {
+   "label": "Between types",
+   "definition": "Good on some tests, not others, for the reason given.",
+   "suits": "Depends on the reason given"
+  },
+  "Numbers to check": {
+   "label": "Numbers to check",
+   "definition": "Something in the figures needs checking before the company can be typed.",
+   "suits": "Fix the numbers first"
+  }
+ },
+ "readiness_checks": {
+  "size": "Likely deal size within £10–250m",
+  "buyable": "Owner able and likely to sell",
+  "price": "A buyer could make 20% a year inside the price range",
+  "figures": "Confidence in the figures"
+ },
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/methodology/"
+}

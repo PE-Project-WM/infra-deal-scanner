@@ -1,0 +1,84 @@
+{
+ "rank": 65,
+ "company_number": "04380546",
+ "name": "VCG Technology Services",
+ "registered_name": "VCG TECHNOLOGY SERVICES LIMITED",
+ "what_it_does": "Managed service provider: connectivity, cloud, unified communications (Vodat/Axonex)",
+ "town": "Stockport",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 49.8,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 12.0,
+  "size_fit": 3.0,
+  "margin_quality": 5.3,
+  "balance_sheet": 7.0
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 29% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Hosting and cloud (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£3m–£4m at 5.5–7.5x EBITDA of £1m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-11",
+  "sales_gbp": 20980894.0,
+  "sales_growth": -0.286,
+  "ebitda_gbp": 558712.0,
+  "ebitda_margin": 0.027,
+  "ebitda_basis": "ESTIMATE: operating profit only (no D&A tagged)",
+  "cash_gbp": 677591.0,
+  "net_assets_gbp": 2553159.0,
+  "employees": 100.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Sales fell 29% last year: find out why",
+  "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 29380521.0,
+   "margin": 0.02227526870609272,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 20980894.0,
+   "margin": 0.02662956116169311,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04380546/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04380546.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04380546",
+ "updated": "2026-11-25"
+}

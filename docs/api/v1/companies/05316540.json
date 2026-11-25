@@ -1,0 +1,70 @@
+{
+ "rank": 73,
+ "company_number": "05316540",
+ "name": "Avanti Space",
+ "registered_name": "AVANTI SPACE LIMITED",
+ "what_it_does": "Satellite operator (Avanti)",
+ "town": "London",
+ "sector": "satellite",
+ "sector_name": "Satellite",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 41.4,
+ "score_parts": {
+  "revenue_visibility": 15.0,
+  "strategy_fit": 20.0,
+  "size_fit": 0.0,
+  "margin_quality": 0.0,
+  "balance_sheet": 6.4
+ },
+ "confidence": "Low",
+ "confidence_reasons": "numbers flagged",
+ "deal_type": "Numbers to check",
+ "deal_type_reason": "flagged numbers (EBITDA margin above 60%)",
+ "fund_fit": "Fix the numbers first",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£79m–£106m at 6–8x EBITDA of £13m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-07-24",
+  "sales_gbp": 18089972.8,
+  "sales_growth": -0.199,
+  "ebitda_gbp": 13228453.6,
+  "ebitda_margin": 0.731,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 223492.00000000003,
+  "net_assets_gbp": 15745958.4,
+  "employees": null,
+  "source": "OCR, check (converted from USD)",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "no reliable margin"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Sales fell 20% last year: find out why",
+  "Figures were read by OCR and checked against the filing: EBITDA matches the company's own figure ($17.5m)",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/05316540/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/05316540.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/05316540",
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,73 @@
+{
+ "rank": 18,
+ "company_number": "02578478",
+ "name": "X-On Health",
+ "registered_name": "X-ON HEALTH LIMITED",
+ "what_it_does": "Telephony and communications for GP surgeries (X-on Surgery Connect)",
+ "town": "Basingstoke",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 73.9,
+ "score_parts": {
+  "revenue_visibility": 15.0,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 21.2,
+  "balance_sheet": 10.7
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 41% in one year (only one year read), margin 38%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£69m–£92m at 6–8x EBITDA of £11m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-21",
+  "sales_gbp": 30399814.0,
+  "sales_growth": 0.406,
+  "ebitda_gbp": 11496598.0,
+  "ebitda_margin": 0.378,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 192104.0,
+  "net_assets_gbp": 15109965.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "High margin (38% EBITDA)",
+  "EBITDA of £11.5m, in the £2–15m range most mid-market buyers target",
+  "Sales up 41% last year"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Part of Southern Communications Group (SCG), which has Providence Equity Partners as an investor: it would be a carve-out from SCG",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02578478/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02578478.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02578478",
+ "updated": "2026-11-25"
+}

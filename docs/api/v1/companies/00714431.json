@@ -1,0 +1,79 @@
+{
+ "rank": 77,
+ "company_number": "00714431",
+ "name": "Fourway Communication",
+ "registered_name": "FOURWAY COMMUNICATION LIMITED",
+ "what_it_does": "Rail telecoms and systems infrastructure",
+ "town": "Stevenage",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 38.8,
+ "score_parts": {
+  "revenue_visibility": 8.8,
+  "strategy_fit": 12.0,
+  "size_fit": 3.0,
+  "margin_quality": 4.5,
+  "balance_sheet": 10.5
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "thin EBITDA margin (1%); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Utility and civil construction",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£2m–£2m at 4.5–6.5x EBITDA of £0m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-15",
+  "sales_gbp": 26051888.0,
+  "sales_growth": 0.002,
+  "ebitda_gbp": 341638.0,
+  "ebitda_margin": 0.013,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 5094910.0,
+  "net_assets_gbp": 2687203.0,
+  "employees": 79.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [],
+ "check_first": [
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 26005566.0,
+   "margin": 0.0016076558379848375,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 26051888.0,
+   "margin": 0.0110711745728371,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/00714431/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/00714431.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/00714431",
+ "updated": "2026-11-25"
+}

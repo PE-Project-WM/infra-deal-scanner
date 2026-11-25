@@ -1,0 +1,69 @@
+{
+ "rank": 38,
+ "company_number": "12421328",
+ "name": "Nets International",
+ "registered_name": "NETS INTERNATIONAL LIMITED",
+ "what_it_does": "Fibre network build and customer installation contractor for altnets (UK arm of NETS International)",
+ "town": "Redhill",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 66.8,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 20.0,
+  "size_fit": 7.1,
+  "margin_quality": 8.6,
+  "balance_sheet": 8.6
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 8%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Consumer broadband",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Could be below £10m",
+ "likely_deal_size_basis": "£7m–£10m at 5.5–7.5x EBITDA of £1m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-07-09",
+  "sales_gbp": 15983404.0,
+  "sales_growth": 0.013,
+  "ebitda_gbp": 1339695.0,
+  "ebitda_margin": 0.084,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 186170.0,
+  "net_assets_gbp": 2478307.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/12421328/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/12421328.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/12421328",
+ "updated": "2026-11-25"
+}

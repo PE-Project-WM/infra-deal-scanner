@@ -1,0 +1,18 @@
+{
+ "name": "Northing",
+ "updated": "2026-11-25",
+ "base": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/",
+ "files": {
+  "meta.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/meta.json",
+  "rankings.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/rankings.json",
+  "rankings.csv": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/rankings.csv",
+  "sectors.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/sectors.json",
+  "funnel.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/funnel.json",
+  "method.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/method.json",
+  "price-check.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/price-check.json",
+  "market.json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/market.json"
+ },
+ "companies": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/{company_number}.json",
+ "docs": "https://pe-project-wm.github.io/infra-deal-scanner/data/",
+ "llms_txt": "https://pe-project-wm.github.io/infra-deal-scanner/llms.txt"
+}

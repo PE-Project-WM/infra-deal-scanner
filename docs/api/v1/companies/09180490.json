@@ -1,0 +1,80 @@
+{
+ "rank": 76,
+ "company_number": "09180490",
+ "name": "ICE Telecommunications",
+ "registered_name": "ICE TELECOMMUNICATIONS LTD",
+ "what_it_does": "Ice Comms: business broadband, mobile and VoIP for SMEs",
+ "town": "Crewe",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 39.0,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 12.0,
+  "size_fit": 3.0,
+  "margin_quality": 5.0,
+  "balance_sheet": 1.5
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "thin EBITDA margin (2%); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Mobile, radio and critical comms",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Below £10m",
+ "likely_deal_size_basis": "£2m–£3m at 5.5–7.5x EBITDA of £0m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-08-13",
+  "sales_gbp": 19246654.0,
+  "sales_growth": 0.132,
+  "ebitda_gbp": 412273.0,
+  "ebitda_margin": 0.021,
+  "ebitda_basis": "ESTIMATE: operating profit only (no D&A tagged)",
+  "cash_gbp": 934826.0,
+  "net_assets_gbp": -1192244.0,
+  "employees": 134.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [],
+ "check_first": [
+  "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2023,
+   "sales": 17003298.0,
+   "margin": 0.013457683327081605,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2024,
+   "sales": 19246654.0,
+   "margin": 0.021420502493576285,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/09180490/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/09180490.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/09180490",
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,82 @@
+{
+ "rank": 46,
+ "company_number": "04085164",
+ "name": "FLR Spectron",
+ "registered_name": "FLR SPECTRON LIMITED",
+ "what_it_does": "Business telecoms and IT services (Microsoft partner)",
+ "town": "London",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 60.8,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 12.0,
+  "size_fit": 10.8,
+  "margin_quality": 9.1,
+  "balance_sheet": 11.4
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 9%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Business telecoms (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Could be below £10m",
+ "likely_deal_size_basis": "£9m–£12m at 5.5–7.5x EBITDA of £2m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-02-03",
+  "sales_gbp": 18004724.0,
+  "sales_growth": 0.248,
+  "ebitda_gbp": 1653446.0,
+  "ebitda_margin": 0.092,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 1886369.0,
+  "net_assets_gbp": 1425684.0,
+  "employees": 64.0,
+  "source": "Tagged",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Sales up 25% last year",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [
+  {
+   "year": 2024,
+   "sales": 14422719.0,
+   "margin": 0.026453680474534655,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2025,
+   "sales": 18004724.0,
+   "margin": 0.08603197694116277,
+   "basis": "Operating profit"
+  }
+ ],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04085164/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04085164.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04085164",
+ "updated": "2026-11-25"
+}

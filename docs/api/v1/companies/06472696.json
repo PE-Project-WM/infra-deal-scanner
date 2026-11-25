@@ -1,0 +1,73 @@
+{
+ "rank": 44,
+ "company_number": "06472696",
+ "name": "4Com Network Services",
+ "registered_name": "4COM NETWORK SERVICES LIMITED",
+ "what_it_does": "Business telephony provider (4Com)",
+ "town": "Reading",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 61.6,
+ "score_parts": {
+  "revenue_visibility": 13.8,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 10.2,
+  "balance_sheet": 10.6
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 18% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Unknown",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£25m–£35m at 5–7x EBITDA of £5m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-04-12",
+  "sales_gbp": 45987000.0,
+  "sales_growth": -0.184,
+  "ebitda_gbp": 5057000.0,
+  "ebitda_margin": 0.11,
+  "ebitda_basis": "ESTIMATE: operating profit only (OCR, no D&A found)",
+  "cash_gbp": 196000.0,
+  "net_assets_gbp": 14495000.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "EBITDA of £5.1m, in the £2–15m range most mid-market buyers target"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Sales fell 18% last year: find out why",
+  "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match, but the accounts cover 9 months (year-end changed to March); D&A not found",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Latest accounts cover 9 months to March 2025 (year-end changed), so sales and profit are understated against a full year",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/06472696/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/06472696.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/06472696",
+ "updated": "2026-11-25"
+}

@@ -1,0 +1,126 @@
+{
+ "rank": 8,
+ "company_number": "SC492820",
+ "name": "Clarus Networks",
+ "registered_name": "CLARUS NETWORKS LIMITED",
+ "what_it_does": "Connectivity provider: maritime, satellite and site networks",
+ "town": "Bathgate",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 79.6,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 13.1,
+  "balance_sheet": 14.0
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "figures checked against the filing; fewer than 3 years read",
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 46% in one year (only one year read), margin 16%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Offshore energy and maritime",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£26m–£34m at 6–8x EBITDA of £4m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-09-30",
+  "sales_gbp": 26680567.0,
+  "sales_growth": 0.457,
+  "ebitda_gbp": 4293641.0,
+  "ebitda_margin": 0.161,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 3150581.0,
+  "net_assets_gbp": 5524246.0,
+  "employees": 69.0,
+  "source": "FROM TEXT, check",
+  "repeat_revenue_basis": "From the accounts: Equipment sales and installation alongside recurring connectivity subscriptions and managed support; the accounts say recurring service revenue grew. No split given. Resells Starlink, OneWeb and Amazon Leo; 12-month CalMac fleet contract.",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "EBITDA of £4.3m, in the £2–15m range most mid-market buyers target",
+  "Sales up 46% last year",
+  "Cash of £3.2m and net assets of £5.5m"
+ ],
+ "check_first": [
+  "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+  "Operating profit includes £1.2m of R&D tax credit (RDEC) income; without it the operating margin is 10.7%, not 15.2%: price off the lower figure unless the credit recurs",
+  "Depends on Starlink and other satellite operators as suppliers; 22% of sales outside the UK",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [],
+ "revenue_mix": "Equipment sales and installation alongside recurring connectivity subscriptions and managed support; the accounts say recurring service revenue grew. No split given. Resells Starlink, OneWeb and Amazon Leo; 12-month CalMac fleet contract.",
+ "revenue_mix_source": "Clarus accounts FY Dec 2025 (strategic report); ISPreview; Edinburgh Chamber",
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 4293641.0,
+  "ev_low": 25761846.0,
+  "ev_mid": 30055487.0,
+  "ev_high": 34349128.0,
+  "net_debt": -2940013.0,
+  "net_debt_to_ebitda": -0.6847365674028173,
+  "accounts_year_end": "2025-12-31",
+  "equity_low": 28701859.0,
+  "equity_high": 37289141.0,
+  "cash_conversion": 0.8981929322921968,
+  "fcf_conversion": 0.8616998952637167,
+  "walk_away_mult": 6.174569873777784,
+  "walk_away_ev": 26511386.36741712,
+  "walk_away_equity": 29451399.36741712,
+  "irr_mid": 0.17588990971666174,
+  "moic_mid": 2.248191588361156,
+  "irr_exit_plus1": 0.2074060784080578,
+  "irr_exit_minus1": 0.14058067676927566,
+  "currency": "GBP",
+  "balance_note": "£0.51m owed to group companies is treated as a trading balance; check its terms.",
+  "notes": ""
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/SC492820/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/SC492820.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/SC492820",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "passes",
+    "why": "Within £10–250m"
+   },
+   {
+    "check": "buyable",
+    "result": "passes",
+    "why": "Easy: Founder-owned, proprietary approach possible"
+   },
+   {
+    "check": "price",
+    "result": "partly",
+    "why": "Most a buyer could pay for 20% a year: 6.2x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "partly",
+    "why": "Medium confidence: figures checked against the filing; fewer than 3 years read"
+   }
+  ],
+  "passes": 2,
+  "fails": 0
+ },
+ "updated": "2026-11-25"
+}

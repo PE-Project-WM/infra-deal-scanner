@@ -1,0 +1,71 @@
+{
+ "rank": 16,
+ "company_number": "03368473",
+ "name": "Wingnut Utilities",
+ "registered_name": "WINGNUT UTILITIES LIMITED",
+ "what_it_does": "Telecoms and broadband infrastructure installation: duct excavation, cable and fibre installation",
+ "town": "Chorley",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 75.1,
+ "score_parts": {
+  "revenue_visibility": 17.5,
+  "strategy_fit": 20.0,
+  "size_fit": 12.4,
+  "margin_quality": 10.2,
+  "balance_sheet": 15.0
+ },
+ "confidence": "Medium",
+ "confidence_reasons": "figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 20% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Altnet and operator network build",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Could be below £10m",
+ "likely_deal_size_basis": "£10m–£13m at 5.5–7.5x EBITDA of £2m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-17",
+  "sales_gbp": 16254696.0,
+  "sales_growth": -0.203,
+  "ebitda_gbp": 1784248.0,
+  "ebitda_margin": 0.11,
+  "ebitda_basis": "Operating profit + D&A",
+  "cash_gbp": 8334081.0,
+  "net_assets_gbp": 9834523.0,
+  "employees": 49.0,
+  "source": "FROM TEXT, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "Cash of £8.3m and net assets of £9.8m",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Sales fell 20% last year: find out why",
+  "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03368473/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03368473.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03368473",
+ "updated": "2026-11-25"
+}

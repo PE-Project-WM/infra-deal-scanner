@@ -1,0 +1,72 @@
+{
+ "rank": 21,
+ "company_number": "06391276",
+ "name": "Centercomms",
+ "registered_name": "CENTERCOMMS LIMITED",
+ "what_it_does": "Installation and maintenance of fibre-optic cables",
+ "town": "Welham Green",
+ "sector": "build",
+ "sector_name": "Network build and maintenance",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 72.1,
+ "score_parts": {
+  "revenue_visibility": 8.8,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 13.3,
+  "balance_sheet": 15.0
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Under pressure",
+ "deal_type_reason": "sales down 15% in one year (only one year read); no specific fix identified yet",
+ "fund_fit": "None until a fix is identified",
+ "demand_drivers": [
+  {
+   "driver": "Utility and civil construction",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Easy",
+ "ease_of_buying_note": "Founder-owned, proprietary approach possible",
+ "ownership_type": "Founder or family-owned",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£17m–£24m at 5–7x EBITDA of £3m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-04-18",
+  "sales_gbp": 20831918.0,
+  "sales_growth": -0.148,
+  "ebitda_gbp": 3421827.0,
+  "ebitda_margin": 0.164,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 4875782.0,
+  "net_assets_gbp": 27401269.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "EBITDA of £3.4m, in the £2–15m range most mid-market buyers target",
+  "Cash of £4.9m and net assets of £27.4m",
+  "Founder-owned, so a direct approach is possible"
+ ],
+ "check_first": [
+  "Sales fell 15% last year: find out why",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/06391276/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/06391276.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/06391276",
+ "updated": "2026-11-25"
+}

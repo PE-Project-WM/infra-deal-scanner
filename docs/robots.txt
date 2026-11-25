@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pe-project-wm.github.io/infra-deal-scanner/sitemap.xml

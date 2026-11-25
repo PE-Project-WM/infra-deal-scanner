@@ -1,0 +1,124 @@
+{
+ "rank": 7,
+ "company_number": "02386327",
+ "name": "National Grid Telecoms",
+ "registered_name": "NATIONAL GRID TELECOMS LIMITED",
+ "what_it_does": "Fibre network on National Grid assets",
+ "town": "Bristol",
+ "sector": "fibre",
+ "sector_name": "Fibre networks",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 79.7,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 20.0,
+  "size_fit": 15.0,
+  "margin_quality": 11.7,
+  "balance_sheet": 10.5
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (estimated), margin 14%, sales up 6% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Altnet and operator network build",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Owned via a UK holding company",
+ "ownership_type": "UK group, owner-managed",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£40m–£59m at 12–18x EBITDA of £3m (network asset owner: fibre and towers on the electricity network)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-11-07",
+  "sales_gbp": 24089000.0,
+  "sales_growth": 0.057,
+  "ebitda_gbp": 3299000.0,
+  "ebitda_margin": 0.137,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": null,
+  "net_assets_gbp": 17489000.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "EBITDA of £3.3m, in the £2–15m range most mid-market buyers target",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation (£2.2m) match",
+  "Part of National Grid plc: buying it would be a carve-out from a listed utility",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 3299000.0,
+  "ev_low": 19794000.0,
+  "ev_mid": 23093000.0,
+  "ev_high": 26392000.0,
+  "net_debt": null,
+  "net_debt_to_ebitda": null,
+  "accounts_year_end": null,
+  "equity_low": null,
+  "equity_high": null,
+  "cash_conversion": null,
+  "fcf_conversion": null,
+  "walk_away_mult": 4.75132572489875,
+  "walk_away_ev": 15674623.566440977,
+  "walk_away_equity": null,
+  "irr_mid": 0.1163836483498677,
+  "moic_mid": 1.7340728306963062,
+  "irr_exit_plus1": 0.14955121514497627,
+  "irr_exit_minus1": 0.07873011573541944,
+  "currency": "GBP",
+  "balance_note": null,
+  "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12–18x asset-owner range and any public deal value instead."
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02386327/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02386327.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02386327",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "passes",
+    "why": "Within £10–250m"
+   },
+   {
+    "check": "buyable",
+    "result": "partly",
+    "why": "Only as a carve-out from a larger parent"
+   },
+   {
+    "check": "price",
+    "result": "fails",
+    "why": "Most a buyer could pay for 20% a year: 4.8x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: OCR figures checked against the filing; missing cash; fewer than 3 years read; recurring revenue estimated"
+   }
+  ],
+  "passes": 1,
+  "fails": 2
+ },
+ "updated": "2026-11-25"
+}

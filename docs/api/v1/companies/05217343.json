@@ -1,0 +1,71 @@
+{
+ "rank": 52,
+ "company_number": "05217343",
+ "name": "North PB",
+ "registered_name": "NORTH PB LIMITED",
+ "what_it_does": "Network and smart-building technology integrator",
+ "town": "St. Asaph",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 59.4,
+ "score_parts": {
+  "revenue_visibility": 12.5,
+  "strategy_fit": 12.0,
+  "size_fit": 14.6,
+  "margin_quality": 7.5,
+  "balance_sheet": 12.8
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "margin 6% but project-based revenue (estimated)",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Business telecoms (SME)",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Could be below £10m",
+ "likely_deal_size_basis": "£9m–£13m at 4.5–6.5x EBITDA of £2m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-02-02",
+  "sales_gbp": 30431973.0,
+  "sales_growth": 0.215,
+  "ebitda_gbp": 1967967.0,
+  "ebitda_margin": 0.065,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 6397146.0,
+  "net_assets_gbp": 4608276.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Sales up 22% last year",
+  "Cash of £6.4m and net assets of £4.6m"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/05217343/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/05217343.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/05217343",
+ "updated": "2026-11-25"
+}

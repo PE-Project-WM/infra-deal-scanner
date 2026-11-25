@@ -1,0 +1,127 @@
+{
+ "rank": 5,
+ "company_number": "02150618",
+ "name": "Kcom Group",
+ "registered_name": "KCOM GROUP LIMITED",
+ "what_it_does": "Hull telecoms network operator (KCOM)",
+ "town": "East Yorkshire",
+ "sector": "fibre",
+ "sector_name": "Fibre networks",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 81.7,
+ "score_parts": {
+  "revenue_visibility": 22.5,
+  "strategy_fit": 20.0,
+  "size_fit": 9.0,
+  "margin_quality": 21.2,
+  "balance_sheet": 9.0
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "deal_type": "Between buckets",
+ "deal_type_reason": "recurring-type revenue (estimated) but margin only 46%",
+ "fund_fit": "Depends on the reason given",
+ "demand_drivers": [
+  {
+   "driver": "Consumer broadband",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Probably above £250m",
+ "likely_deal_size_basis": "£627m: price Macquarie paid to take it private (Aug 2019). From EBITDA: £529m–£793m at 12–18x EBITDA of £44m (network asset owner: fibre network)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-04-10",
+  "sales_gbp": 96210000.0,
+  "sales_growth": -0.056,
+  "ebitda_gbp": 44061000.0,
+  "ebitda_margin": 0.458,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": 19444000.0,
+  "net_assets_gbp": 5081000.0,
+  "employees": null,
+  "source": "OCR, check",
+  "repeat_revenue_basis": "Provisional: estimated from business type",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "Squarely inside the investment case",
+  "High margin (46% EBITDA)",
+  "A type of business that usually earns repeat revenue (estimated)"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Net debt of £379.5m, 8.6x EBITDA: most of the price would go to lenders, not shareholders",
+  "Figures were read by OCR and checked against the filing: Revenue, operating profit before exceptional items and D&A (£25.4m, cash flow) match",
+  "Macquarie is running a sale (2026) while lenders seek to recover about £395m of debt, around 9x EBITDA; a 2026 restructuring only runs to September 2027. Likely a distressed or lender-led deal",
+  "Deal status (Nov 2026): the Quickline backer is reported to be reconsidering a merger, which may delay the sale; a lender agreement allows a sale, asset sale or reorganisation",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 44061000.0,
+  "ev_low": 264366000.0,
+  "ev_mid": 308427000.0,
+  "ev_high": 352488000.0,
+  "net_debt": 379468000.0,
+  "net_debt_to_ebitda": 8.61233290211298,
+  "accounts_year_end": "2025-03-31",
+  "equity_low": -115102000.0,
+  "equity_high": -26980000.0,
+  "cash_conversion": 0.4067315766777876,
+  "fcf_conversion": -0.03508771929824561,
+  "walk_away_mult": 2.0,
+  "walk_away_ev": 88122000.0,
+  "walk_away_equity": -291346000.0,
+  "irr_mid": -0.03148995161823076,
+  "moic_mid": 0.8521590382655201,
+  "irr_exit_plus1": 0.017326814770668886,
+  "irr_exit_minus1": -0.09275902094820265,
+  "currency": "GBP",
+  "balance_note": "Read by OCR from scanned accounts. Bank debt of about £395m is the figure reported in the press for the 2026 sale (The Times via M&A Insights); confirm against the borrowings note. A £40m exceptional charge and a large asset write-down in the year.",
+  "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12–18x asset-owner range and any public deal value instead."
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02150618/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02150618.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02150618",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "fails",
+    "why": "Probably above £250m"
+   },
+   {
+    "check": "buyable",
+    "result": "passes",
+    "why": "Possible: Sponsor-owned, sale timing depends on hold year"
+   },
+   {
+    "check": "price",
+    "result": "fails",
+    "why": "Most a buyer could pay for 20% a year: 2.0x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated"
+   }
+  ],
+  "passes": 1,
+  "fails": 3
+ },
+ "updated": "2026-11-25"
+}

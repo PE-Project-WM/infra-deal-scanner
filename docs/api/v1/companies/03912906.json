@@ -1,0 +1,130 @@
+{
+ "rank": 6,
+ "company_number": "03912906",
+ "name": "Alert Communications",
+ "registered_name": "ALERT COMMUNICATIONS LIMITED",
+ "what_it_does": "Finances, operates and maintains a Ministry of Defence communications link under a PFI contract to 2033",
+ "town": "London",
+ "sector": "critical",
+ "sector_name": "Critical communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 80.3,
+ "score_parts": {
+  "revenue_visibility": 23.8,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 21.2,
+  "balance_sheet": 8.3
+ },
+ "confidence": "Low",
+ "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
+ "deal_type": "Steady compounder",
+ "deal_type_reason": "recurring-type revenue (from the accounts), margin 50%, sales up 1% in one year (only one year read), margin stability not yet tested",
+ "fund_fit": "Core and core-plus infrastructure funds",
+ "demand_drivers": [
+  {
+   "driver": "Public sector budgets",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Possible",
+ "ease_of_buying_note": "Sponsor-owned, sale timing depends on hold year",
+ "ownership_type": "Likely sponsor-owned (check)",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£32m–£43m at 6–8x EBITDA of £5m (recurring services)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2026-11-24",
+  "sales_gbp": 10761040.0,
+  "sales_growth": 0.014,
+  "ebitda_gbp": 5404507.0,
+  "ebitda_margin": 0.502,
+  "ebitda_basis": "Operating profit + D&A (checked against the filing)",
+  "cash_gbp": 959044.0,
+  "net_assets_gbp": 4142119.0,
+  "employees": 0.0,
+  "source": "FROM TEXT, corrected by hand",
+  "repeat_revenue_basis": "From the accounts: A single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22 and ending in 2033: fully contracted, but only about seven years left.",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "High margin (50% EBITDA)",
+  "EBITDA of £5.4m, in the £2–15m range most mid-market buyers target",
+  "Most sales repeat (read from the accounts)"
+ ],
+ "check_first": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Net debt of £15.8m, 2.9x EBITDA: most of the price would go to lenders, not shareholders",
+  "Interest cover only 2.3x: check how much debt it already carries",
+  "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Its only contract (MoD PFI) ends in 2033, so the price check overstates value: a buyer would be paying for about seven years of cash, not a business with an exit value",
+  "Owned through BIIF Bidco, an infrastructure-fund vehicle: it is a single-contract PFI company and would trade as an infrastructure asset",
+  "One customer (the MoD), and the contract ends in 2033: the business is worth the remaining contract, not a going concern",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [],
+ "revenue_mix": "A single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22 and ending in 2033: fully contracted, but only about seven years left.",
+ "revenue_mix_source": "Alert Communications accounts FY Mar 2026 (principal activity, turnover note)",
+ "price_check": {
+  "basis": "Recurring services",
+  "mult_low": 6.0,
+  "mult_mid": 7.0,
+  "mult_high": 8.0,
+  "small_discount": false,
+  "ebitda": 5404507.0,
+  "ev_low": 32427042.0,
+  "ev_mid": 37831549.0,
+  "ev_high": 43236056.0,
+  "net_debt": 15823992.0,
+  "net_debt_to_ebitda": 2.9279251558005197,
+  "accounts_year_end": "2026-03-31",
+  "equity_low": 16603050.0,
+  "equity_high": 27412064.0,
+  "cash_conversion": null,
+  "fcf_conversion": null,
+  "walk_away_mult": 4.564616215253783,
+  "walk_away_ev": 24669500.287652574,
+  "walk_away_equity": 8845508.287652574,
+  "irr_mid": 0.0992068024737458,
+  "moic_mid": 1.6047117656231495,
+  "irr_exit_plus1": 0.13100858216958255,
+  "irr_exit_minus1": 0.06323189537314877,
+  "currency": "GBP",
+  "balance_note": "Bank loans of £12.8m repayable by 2030, plus a £2.9m shareholder loan at 14.04% with £1.1m of interest accrued. £0.61m of the cash is restricted under the funding agreements. No cash flow statement in the filing.",
+  "notes": "Single MoD PFI contract ending in 2033: the buyer case assumes an exit at the entry multiple after five years, which a contract with two years left would not fetch. Value it on the remaining contract cash flows instead."
+ },
+ "in_top_ten": true,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03912906/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03912906.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03912906",
+ "readiness": {
+  "checks": [
+   {
+    "check": "size",
+    "result": "passes",
+    "why": "Within £10–250m"
+   },
+   {
+    "check": "buyable",
+    "result": "passes",
+    "why": "Possible: Sponsor-owned, sale timing depends on hold year"
+   },
+   {
+    "check": "price",
+    "result": "fails",
+    "why": "Most a buyer could pay for 20% a year: 4.6x, against a 6.0–8.0x price range"
+   },
+   {
+    "check": "figures",
+    "result": "fails",
+    "why": "Low confidence: figures checked against the filing; fewer than 3 years read; only adjacent to the thesis"
+   }
+  ],
+  "passes": 2,
+  "fails": 2
+ },
+ "updated": "2026-11-25"
+}

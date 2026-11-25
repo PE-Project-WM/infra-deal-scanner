@@ -1,0 +1,72 @@
+{
+ "rank": 25,
+ "company_number": "03592271",
+ "name": "Telecommunications Management",
+ "registered_name": "TELECOMMUNICATIONS MANAGEMENT LIMITED",
+ "what_it_does": "Fixed and mobile telecoms services to business and public sector customers",
+ "town": "London",
+ "sector": "services",
+ "sector_name": "Business connectivity and communications",
+ "sector_basis": "Main activity from the checked company description (25 Nov 2026)",
+ "score": 70.6,
+ "score_parts": {
+  "revenue_visibility": 13.8,
+  "strategy_fit": 12.0,
+  "size_fit": 15.0,
+  "margin_quality": 19.3,
+  "balance_sheet": 10.5
+ },
+ "confidence": "Low",
+ "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "deal_type": "High-growth",
+ "deal_type_reason": "sales up 29% in one year (only one year read), margin 27%",
+ "fund_fit": "Growth and mid-market PE",
+ "demand_drivers": [
+  {
+   "driver": "Public sector budgets",
+   "share": 1.0
+  }
+ ],
+ "ease_of_buying": "Not yet known",
+ "ease_of_buying_note": "Ownership not found",
+ "ownership_type": "Unknown",
+ "likely_deal_size": "Within £10–250m",
+ "likely_deal_size_basis": "£13m–£18m at 4.5–6.5x EBITDA of £3m (project contractor)",
+ "figures": {
+  "currency_reported": "GBP",
+  "accounts_filed": "2025-12-23",
+  "sales_gbp": 10647182.0,
+  "sales_growth": 0.287,
+  "ebitda_gbp": 2839758.0,
+  "ebitda_margin": 0.267,
+  "ebitda_basis": "Operating profit + D&A (OCR)",
+  "cash_gbp": null,
+  "net_assets_gbp": 12092751.0,
+  "employees": null,
+  "source": "OCR, corrected by hand",
+  "repeat_revenue_basis": "Provisional: estimated from industry code only",
+  "margin_stability_basis": "stability not tested (fewer than 3 years read)"
+ },
+ "why_on_list": [
+  "High margin (27% EBITDA)",
+  "EBITDA of £2.8m, in the £2–15m range most mid-market buyers target",
+  "Sales up 29% last year"
+ ],
+ "check_first": [
+  "Owner not yet confirmed",
+  "Figures were read by OCR and checked against the filing: Turnover and operating profit match; profit before tax misread and corrected",
+  "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+ ],
+ "history": [],
+ "revenue_mix": null,
+ "revenue_mix_source": null,
+ "price_check": null,
+ "in_top_ten": false,
+ "method_version": "v3.1",
+ "scored_on": "2026-11-25",
+ "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03592271/",
+ "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03592271.json",
+ "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03592271",
+ "updated": "2026-11-25"
+}

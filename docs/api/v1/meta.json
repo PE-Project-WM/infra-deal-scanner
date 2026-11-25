@@ -1,0 +1,13 @@
+{
+ "name": "Northing",
+ "description": "UK infrastructure rankings for investors.",
+ "coverage": "UK digital infrastructure",
+ "updated": "2026-11-25",
+ "method_version": "v3.1",
+ "companies_ranked": 82,
+ "site": "https://pe-project-wm.github.io/infra-deal-scanner/",
+ "licence": "Free to reuse with credit to Northing and a link to https://pe-project-wm.github.io/infra-deal-scanner/. See https://pe-project-wm.github.io/infra-deal-scanner/terms/",
+ "attribution": "Contains public sector information licensed under the Open Government Licence v3.0, from Companies House.",
+ "disclaimer": "Information and analysis only; not investment advice. Rankings measure fit with a written investment case, not company quality.",
+ "personal_data": "Names of individuals (directors, owners) are not included."
+}
