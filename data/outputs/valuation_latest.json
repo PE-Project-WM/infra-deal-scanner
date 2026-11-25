@@ -30,7 +30,17 @@
     "why": "SPIE, a large listed technical services group, trades near 8x; UK private deals under \u00a3250m have a median near 6x. Project-by-project revenue and small size put these at a discount to SPIE."
    },
    "small_ebitda_threshold_gbp": 3000000,
-   "small_ebitda_discount": 0.5
+   "small_ebitda_discount": 0.5,
+   "network_asset_owners": {
+    "low": 12.0,
+    "mid": 15.0,
+    "high": 18.0,
+    "why": "Owners of towers and fibre networks are priced by infrastructure funds, well above services firms: VodafoneZiggo's Dutch towers sold at 16.2x 2025 EBITDA (DigitalBridge-led consortium, 2026) and Bite's TeleTower at 16x EBITDAaL (Stonepeak). UK fibre deals are often priced per home and include distressed sales, so the range starts lower.",
+    "sources": [
+     "https://mobileworldlive.com/network-tech/liberty-global-dumps-vodafoneziggo-tower-assets",
+     "https://www.sorainen.com/?p=116246"
+    ]
+   }
   }
  },
  "benchmarks": {
@@ -229,7 +239,7 @@
    "fcf_conversion": null,
    "wc_drag_used": null,
    "balance_note": null,
-   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used here, so the price check is a floor, not a guide to what a seller would accept. Add asset-level comparables before relying on it."
+   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12\u201318x asset-owner range and any public deal value instead."
   },
   {
    "rank": 4,
@@ -277,7 +287,7 @@
    "fcf_conversion": null,
    "wc_drag_used": null,
    "balance_note": "Read by OCR from scanned accounts. Owes \u00a336.2m to group companies; the wider WIG group has \u00a3456m of senior and junior bank debt, so a buyer of this company alone would need to unpick group funding.",
-   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used here, so the price check is a floor, not a guide to what a seller would accept. Add asset-level comparables before relying on it."
+   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12\u201318x asset-owner range and any public deal value instead."
   },
   {
    "rank": 5,
@@ -325,7 +335,7 @@
    "fcf_conversion": -0.03508771929824561,
    "wc_drag_used": 0.3,
    "balance_note": "Read by OCR from scanned accounts. Bank debt of about \u00a3395m is the figure reported in the press for the 2026 sale (The Times via M&A Insights); confirm against the borrowings note. A \u00a340m exceptional charge and a large asset write-down in the year.",
-   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used here, so the price check is a floor, not a guide to what a seller would accept. Add asset-level comparables before relying on it."
+   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12\u201318x asset-owner range and any public deal value instead."
   },
   {
    "rank": 6,
@@ -417,7 +427,7 @@
    "fcf_conversion": null,
    "wc_drag_used": null,
    "balance_note": null,
-   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used here, so the price check is a floor, not a guide to what a seller would accept. Add asset-level comparables before relying on it."
+   "notes": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6\u20138x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12\u201318x asset-owner range and any public deal value instead."
   },
   {
    "rank": 8,
