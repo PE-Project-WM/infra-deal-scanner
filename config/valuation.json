@@ -101,6 +101,12 @@
         "multiple": "enterprise value of about £1.26bn for about 700,000 business customers: roughly £1,800 per customer (industry analysis, not company-stated)",
         "use": "A cross-check for business connectivity providers priced per customer",
         "source": "https://www.mobiliseglobal.com/virgin-media-o2-and-daisy-group-merger-a-strategic-analysis/"
+      },
+      {
+        "name": "Stellanor (DWS) buys Redcentric's eight UK data centres (completed May 2026)",
+        "multiple": "about £123m for 41MW of capacity (23MW of secured grid power at signing): roughly £3m per MW",
+        "use": "A per-MW yardstick for data-centre operators, which are priced on power capacity rather than EBITDA",
+        "source": "https://www.investments.halifax.co.uk/research-centre/news-centre/article/?id=22399544&type=bsm"
       }
     ],
     "listed_infrastructure_funds": [
