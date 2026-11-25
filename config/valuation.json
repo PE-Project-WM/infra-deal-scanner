@@ -89,6 +89,18 @@
         "multiple": "terms not disclosed",
         "detail": "Vinci Energies (Axians UK) bought Novo Technologies (Apr 2026); M Group bought Telent (2025); Kubus bought Ammcom (2026)",
         "source": "https://www.ispreview.co.uk/index.php/2026/04/axians-uk-acquired-scottish-telecoms-company-novo-technologies.html"
+      },
+      {
+        "name": "nexfibre buys Substantial Group (Netomnia) (Feb 2026, completion expected Q3 2026)",
+        "multiple": "£2bn enterprise value for more than 3.4m fibre premises and 500,000+ customers at completion: about £590 per premise passed",
+        "use": "Fibre network owners are priced per premise and on growth, not on current EBITDA; use this as the yardstick for OFNL, NGT and Community Fibre",
+        "source": "https://convergedigest.com/?p=108828"
+      },
+      {
+        "name": "Virgin Media O2 combines its business unit with Daisy (2025)",
+        "multiple": "enterprise value of about £1.26bn for about 700,000 business customers: roughly £1,800 per customer (industry analysis, not company-stated)",
+        "use": "A cross-check for business connectivity providers priced per customer",
+        "source": "https://www.mobiliseglobal.com/virgin-media-o2-and-daisy-group-merger-a-strategic-analysis/"
       }
     ],
     "listed_infrastructure_funds": [
@@ -113,7 +125,7 @@
       "companies": [
         "03912906"
       ],
-      "note": "Single MoD PFI contract ending in 2033: the buyer case assumes an exit at the entry multiple after five years, which a contract with two years left would not fetch. Value it on the remaining contract cash flows instead.",
+      "note": "Single MoD PFI contract ending in 2033: the buyer case assumes an exit at the entry multiple after five years, which a contract with two years left would not fetch. Valued on the remaining contract alone (about seven years of free cash flow of roughly £3.9m a year: EBITDA £5.4m less capital spending at 2% of sales and tax at 25%, no extension, no hand-back costs), the business is worth about £19–20m at an 8–10% discount rate, against £32–43m on multiples; after £15.8m of net debt the shares would be worth only about £3–4m.",
       "source": "Alert Communications accounts FY Mar 2026 (principal activity)"
     },
     {
