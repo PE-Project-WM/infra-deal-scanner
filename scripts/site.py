@@ -25,7 +25,7 @@ funnel = [
 ]
 weights = C['scoring_weights']
 rank_df = pd.read_csv(f'{ROOT}/data/outputs/ranking_latest.csv', dtype={'CompanyNumber': str}).set_index('rank')
-plain = lambda r: _re.sub(r'\s*\((draft|web-checked|via subsidiary)[^)]*\)', '', str(r)).strip()
+plain = lambda r: _re.sub(r'\s*\((draft|web-checked|checked against the filing|via subsidiary)[^)]*\)', '', str(r)).strip()
 for t in U['top10']:   # plain one-line description and growth for each company
     if t['rank'] in rank_df.index:
         row = rank_df.loc[t['rank']]
@@ -60,11 +60,20 @@ def nice(n):   # same tidy-up as compare.py
     t = _re.sub(r'\s+(Limited|Ltd\.?|Plc\.?)$', '', t.replace("'S", "'s"))
     t = _re.sub(r'\bUk\b', 'UK', t)
     return _re.sub(r'\(([A-Za-z]{2,4})\)', lambda m: '(' + m.group(1).upper() + ')', t)
+sz_path = f'{ROOT}/data/outputs/size_check.csv'   # likely deal size (size_check.py)
+SZ = pd.read_csv(sz_path, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(sz_path) else None
+size_of = lambda num: (SZ.at[num, 'size_flag'], SZ.at[num, 'size_basis']) if SZ is not None and num in SZ.index else ('', '')
 all_ranked = [{'rank': int(r['rank']), 'company': nice(r['CompanyName']), 'what': plain(r['relevance_reason']),
                'sector': SEG.get(r['segment'], r['segment']), 'score': float(r['score']), 'confidence': r.get('confidence'),
                'type': (lens_by_num.at[r['CompanyNumber'], 'deal_type'] if r['CompanyNumber'] in lens_by_num.index else ''),
                'access': str(r['accessibility']).split(':')[0], 'sales': float(r['turnover']),
-               'margin': None if pd.isna(r['ebitda_margin']) else float(r['ebitda_margin'])} for _, r in rk.iterrows()]
+               'margin': None if pd.isna(r['ebitda_margin']) else float(r['ebitda_margin']),
+               'size': size_of(r['CompanyNumber'])[0], 'size_text': size_of(r['CompanyNumber'])[1]} for _, r in rk.iterrows()]
+by_rank = {a['rank']: a for a in all_ranked}
+for t in U['top10']:
+    a = by_rank.get(int(t['rank']), {})
+    t['size'], t['size_text'] = a.get('size', ''), a.get('size_text', '')
+size_band = json.load(open(f'{ROOT}/config/valuation.json')).get('deal_size_band_gbp')
 wl = lens[(lens['list'] != 'Ranked') & (lens['deal_type'] == 'Growth infrastructure') & lens['relevance'].isin(C['sector_gate']['ranked_if_relevance_in'])] if len(lens) else lens
 growth_infra = [{'company': nice(r['CompanyName']), 'what': plain(r['relevance_reason']), 'sales': float(r['turnover']),
                  'reason': r['deal_type_reason']} for _, r in wl.sort_values('turnover', ascending=False).iterrows()]
@@ -79,7 +88,7 @@ if val:
     for c in val['companies']:
         c['company'] = nice(c['CompanyName'])
 data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr, 'all': all_ranked, 'growth_infra': growth_infra,
-        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val}
+        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val, 'size_band': size_band}
 payload = json.dumps(data, default=str).replace('</', '<\\/')
 
 page = open(f'{ROOT}/scripts/site_template.html').read()   # layout and styles live in the template

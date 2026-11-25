@@ -16,7 +16,17 @@
       "why": "SPIE, a large listed technical services group, trades near 8x; UK private deals under £250m have a median near 6x. Project-by-project revenue and small size put these at a discount to SPIE."
     },
     "small_ebitda_threshold_gbp": 3000000,
-    "small_ebitda_discount": 0.5
+    "small_ebitda_discount": 0.5,
+    "network_asset_owners": {
+      "low": 12.0,
+      "mid": 15.0,
+      "high": 18.0,
+      "why": "Owners of towers and fibre networks are priced by infrastructure funds, well above services firms: VodafoneZiggo's Dutch towers sold at 16.2x 2025 EBITDA (DigitalBridge-led consortium, 2026) and Bite's TeleTower at 16x EBITDAaL (Stonepeak). UK fibre deals are often priced per home and include distressed sales, so the range starts lower.",
+      "sources": [
+        "https://mobileworldlive.com/network-tech/liberty-global-dumps-vodafoneziggo-tower-assets",
+        "https://www.sorainen.com/?p=116246"
+      ]
+    }
   },
   "sponsor_case": {
     "_rule": "Five-year hold, exit at the entry multiple (no multiple expansion), debt sized off EBITDA and held fixed in pounds while the entry price moves, all spare cash repays debt.",
@@ -114,8 +124,8 @@
         "02150618",
         "02386327"
       ],
-      "note": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used here, so the price check is a floor, not a guide to what a seller would accept. Add asset-level comparables before relying on it.",
-      "source": "Screen limitation; asset-owner comparables not yet added"
+      "note": "Owns network assets (towers or fibre). Sellers and infrastructure funds price these well above the 6–8x services range used in this price check, so it is a floor, not a guide to what a seller would accept. The size check uses a 12–18x asset-owner range and any public deal value instead.",
+      "source": "Size check (config/asset_owners.csv; asset-owner range in multiple_ranges)"
     }
   ],
   "fx_to_gbp": {
@@ -123,5 +133,10 @@
     "USD": 0.7576,
     "_source": "GBP/USD about 1.32 and EUR/GBP about 0.83 on 18 Nov 2026 (exchangerate.guru reference rates)",
     "EUR": 0.8333
+  },
+  "deal_size_band_gbp": {
+    "low": 10000000,
+    "high": 250000000,
+    "_about": "Enterprise value range a lower mid-market private equity buyer would normally pay. Used only to flag deal size on the site; it does not change the score."
   }
 }

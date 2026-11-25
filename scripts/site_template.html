@@ -85,6 +85,9 @@ header .meta b{color:var(--ink2);font-weight:600}
 .conf{font-size:14px;font-weight:600;display:inline-flex;align-items:center;gap:7px}
 .conf i{width:9px;height:9px;border-radius:50%;display:inline-block}
 .c-High i{background:var(--steady)} .c-Medium i{background:#c98a16} .c-Low i{background:#b3402e}
+/* likely deal size */
+.size{font-size:13px;font-weight:600;white-space:nowrap;padding:2px 8px;border-radius:3px;border:1px solid currentColor}
+.z-ok{color:var(--steady)} .z-big{color:#b3402e} .z-small{color:#8a6a1e}
 .more ul{padding-left:18px;margin-bottom:18px}
 .more li{margin-bottom:6px;line-height:1.45}
 .more ul.checks li::marker{color:var(--dip)}
@@ -219,9 +222,10 @@ footer p{max-width:80ch;margin-bottom:10px}
     <label>Confidence<select id="f-conf"><option value="">All</option><option>High</option><option>Medium</option><option>Low</option></select></label>
     <label>Ease of buying<select id="f-access"><option value="">All</option></select></label>
     <label>Sector<select id="f-sector"><option value="">All</option></select></label>
+    <label>Likely deal size<select id="f-size"><option value="">All</option></select></label>
     <span class="count" id="f-count"></span>
   </div>
-  <div class="scroll"><table class="tbl"><thead><tr><th class="num">Rank</th><th>Company</th><th>Sector</th><th>Type of deal</th><th>Confidence</th><th class="num">Sales</th><th class="num">Margin</th><th class="num">Score</th></tr></thead><tbody id="all-body"></tbody></table></div>
+  <div class="scroll"><table class="tbl"><thead><tr><th class="num">Rank</th><th>Company</th><th>Sector</th><th>Type of deal</th><th>Confidence</th><th class="num">Sales</th><th class="num">Margin</th><th>Likely deal size</th><th class="num">Score</th></tr></thead><tbody id="all-body"></tbody></table></div>
 </div></section>
 
 <section class="band" id="infra-section" hidden><div class="wrap">
@@ -296,6 +300,7 @@ const TYPE = {'Steady compounder':['t-steady','Steady compounder'], 'High-growth
               'Between buckets':['t-between','Between types'], 'Numbers to check':['t-between','Numbers to check']};
 const tagFor = d => { if (!d) return ''; const [c, t] = TYPE[d] || ['t-between', d]; return `<span class="type ${c}">${t}</span>`; };
 const typeTag = l => l ? tagFor(l.deal_type) : '';
+const sizeTag = z => !z ? '' : `<span class="size ${/above/.test(z) ? 'z-big' : /below/i.test(z) ? 'z-small' : 'z-ok'}">${esc(z)}</span>`;
 const confTag = c => c ? `<span class="conf c-${c}"><i></i>${c}</span>` : '';
 const ACCESS = {'High':'Easy','Medium':'Possible','Low-Medium':'Harder','Low':'Hard','Check':'Not yet known'};
 const COLORS = ['var(--f1)','var(--f2)','var(--f3)','var(--f4)','var(--f5)','var(--f6)'];
@@ -323,6 +328,11 @@ if (D.val) {
   const cs = D.val.companies, ok = cs.filter(c => c.walk_away_mult >= c.mult_mid).length, low = cs.filter(c => c.walk_away_mult >= c.mult_low && c.walk_away_mult < c.mult_mid).length;
   const was = cs.map(c => c.walk_away_mult);
   short.push(`<b>A good company is not automatically a good deal.</b> At typical market prices, ${ok === 0 ? 'none' : ok} of the ten would give a private equity buyer a 20% yearly return${low ? `, and ${low} only at the low end of the price range` : ''}. The most a buyer could pay ranges from ${Math.min(...was).toFixed(1)} to ${Math.max(...was).toFixed(1)} times EBITDA.`);
+}
+if (D.size_band && U.top10.some(t => t.size)) {
+  const big = U.top10.filter(t => /above/.test(t.size || '')), small = U.top10.filter(t => /below/i.test(t.size || ''));
+  const inb = U.top10.length - big.length - small.length;
+  short.push(`<b>Deal size:</b> ${inb} of the ten look like £10–250m deals.${big.length ? ` ${big.map(t => esc(t.company)).join(', ')} ${big.length === 1 ? 'is' : 'are'} probably or possibly above £250m, mostly network owners that infrastructure funds price well above service firms.` : ''}${small.length ? ` ${small.map(t => esc(t.company)).join(', ')} may be below £10m.` : ''} Deal size does not change the score.`);
 }
 short.push(`<b>Confidence in the figures:</b> ${['High','Medium','Low'].filter(k => confCount[k]).map(k => `${confCount[k]} ${k.toLowerCase()}`).join(', ')}. Low means the figures were read from text, estimated or cover fewer than three years.`);
 const evs = U.events_count ? `${U.events_count} new Companies House ${U.events_count === 1 ? 'filing was' : 'filings were'} found for the ranked companies.` : 'No new Companies House filings for the ranked companies since the last run.';
@@ -352,6 +362,7 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
       <h4>Key facts</h4><dl class="facts">
       ${l ? `<div><dt>Why this type</dt><dd>${esc(l.deal_type_reason.charAt(0).toUpperCase() + l.deal_type_reason.slice(1))}.</dd></div>
       <div><dt>Sales depend on</dt><dd>${(l.split || [{driver: l.demand_driver, share: 1}]).map(x => `${esc(x.driver)}${x.share < 0.999 ? ' ' + pct(x.share) : ''}`).join(', ')}${l.split && l.split.length > 1 ? ` <span style="color:var(--mute)">(${esc(l.split_basis)})</span>` : ''}</dd></div>` : ''}
+      ${t.size ? `<div><dt>Likely deal size</dt><dd>${sizeTag(t.size)} ${esc(t.size_text)}.</dd></div>` : ''}
       <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
       ${P.revenue_mix ? `<div><dt>Where sales come from</dt><dd>${esc(P.revenue_mix)} <span style="color:var(--mute)">Source: ${esc(P.revenue_mix_source)}.</span></dd></div>` : ''}
       ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}${P.confidence_reasons ? ': ' + esc(P.confidence_reasons) : ': figures tagged in the filing, three or more years read'}.</dd></div>` : ''}
@@ -400,13 +411,14 @@ const fill = (id, vals, lab = v => v) => { const el = document.getElementById(id
 fill('f-type', A.map(a => a.type), v => (TYPE[v] || [0, v])[1]);
 fill('f-access', A.map(a => a.access), v => ACCESS[v] || v);
 fill('f-sector', A.map(a => a.sector));
-const F = {type: 'f-type', confidence: 'f-conf', access: 'f-access', sector: 'f-sector'};
+fill('f-size', A.map(a => a.size));
+const F = {type: 'f-type', confidence: 'f-conf', access: 'f-access', sector: 'f-sector', size: 'f-size'};
 const draw = () => {
   const sel = Object.fromEntries(Object.entries(F).map(([k, id]) => [k, document.getElementById(id).value]));
   const rows = A.filter(a => Object.entries(sel).every(([k, v]) => !v || a[k] === v));
   document.getElementById('f-count').textContent = `${rows.length} of ${A.length} shown`;
-  document.getElementById('all-body').innerHTML = rows.map(a => `<tr><td class="num">${a.rank}</td><td><b>${esc(a.company)}</b><small>${esc(a.what)}</small></td><td>${esc(a.sector)}</td><td>${tagFor(a.type)}</td><td>${confTag(a.confidence)}</td><td class="num">${money(a.sales)}</td><td class="num">${a.margin != null ? pct(a.margin) : '–'}</td><td class="num"><b>${a.score.toFixed(0)}</b></td></tr>`).join('')
-    || '<tr><td colspan="8">No companies match these filters. Clear one to see more.</td></tr>';
+  document.getElementById('all-body').innerHTML = rows.map(a => `<tr><td class="num">${a.rank}</td><td><b>${esc(a.company)}</b><small>${esc(a.what)}</small></td><td>${esc(a.sector)}</td><td>${tagFor(a.type)}</td><td>${confTag(a.confidence)}</td><td class="num">${money(a.sales)}</td><td class="num">${a.margin != null ? pct(a.margin) : '–'}</td><td>${sizeTag(a.size)}</td><td class="num"><b>${a.score.toFixed(0)}</b></td></tr>`).join('')
+    || '<tr><td colspan="9">No companies match these filters. Clear one to see more.</td></tr>';
 };
 Object.values(F).forEach(id => document.getElementById(id).addEventListener('change', draw));
 draw();
