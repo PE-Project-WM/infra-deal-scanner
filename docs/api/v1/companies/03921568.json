@@ -96,6 +96,7 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03921568/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03921568.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03921568",
+ "sector_measures": [],
  "readiness": {
   "checks": [
    {

@@ -95,6 +95,14 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/05412813/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/05412813.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/05412813",
+ "sector_measures": [
+  {
+   "measure": "Homes and premises passed",
+   "value": "about 170,000 premises, plus about 54,000 from FibreNest (bought 2025)",
+   "as_of": "2025",
+   "source": "https://www.ofcom.org.uk/siteassets/resources/documents/consultations/202294-openreachs-proposed-commercial-offers/responses/nexfibre-annex-2.pdf"
+  }
+ ],
  "readiness": {
   "checks": [
    {

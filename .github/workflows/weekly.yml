@@ -25,6 +25,7 @@ on:
       - 'config/sectors.json'
       - 'config/sector_map.csv'
       - 'config/site.json'
+      - 'config/sector_measures.csv'
       - 'scripts/signals.py'
       - 'scripts/northing/**'
       - 'config/balance_sheet.csv'

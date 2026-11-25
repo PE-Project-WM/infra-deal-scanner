@@ -68,5 +68,19 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/07413288/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/07413288.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/07413288",
+ "sector_measures": [
+  {
+   "measure": "Homes and premises passed",
+   "value": "1.4 million, including 185,000 businesses",
+   "as_of": "2026",
+   "source": "https://www.ispreview.co.uk/?p=46520"
+  },
+  {
+   "measure": "Take-up rate",
+   "value": "about 33% (around 450,000 customers)",
+   "as_of": "2026",
+   "source": "https://www.ispreview.co.uk/?p=46520"
+  }
+ ],
  "updated": "2026-11-25"
 }

@@ -100,6 +100,11 @@ class Site:
         self.pages = []      # (path, title) for the sitemap
         self.companies = [self.company(r) for _, r in ctx['rk'].iterrows()]
         self.by_num = {c['company_number']: c for c in self.companies}
+        mp = f'{ROOT}/config/sector_measures.csv'   # sector-specific measures collected so far
+        M = pd.read_csv(mp, dtype={'CompanyNumber': str}) if os.path.exists(mp) else pd.DataFrame(columns=['CompanyNumber'])
+        for c in self.companies:
+            c['sector_measures'] = [{'measure': m.measure, 'value': m.value, 'as_of': str(m.as_of), 'source': m.source}
+                                    for m in M[M['CompanyNumber'] == c['company_number']].itertuples()]
         self.by_rank = {c['rank']: c for c in self.companies}
         self.sectors = ctx['sector_stats']
         self.sector_info = {s['id']: s for s in ctx['SECTORS']}
@@ -575,6 +580,11 @@ class Site:
             ready = ('<section class="section panel" aria-labelledby="h-rd"><div class="ph"><h2 id="h-rd">Deal readiness</h2><a href="' + r + 'methodology/#readiness">About the checks</a></div>'
                      f'<p class="desc">Passes {rd["passes"]} of 4 checks.</p><dl class="facts">' +
                      ''.join(f'<div><dt><i class="mk {dict(passes="full", partly="half", fails="none")[k["result"]]}" aria-hidden="true"></i> {names[k["check"]]}</dt><dd><b>{cap(k["result"])}.</b> {e(k["why"])}</dd></div>' for k in rd['checks']) + '</dl></section>')
+        measures = ''
+        if c['sector_measures']:
+            src = lambda m: f'<a href="{e(m["source"])}">source</a>' if str(m['source']).startswith('http') else e(m['source'])
+            measures = ('<section class="section panel" aria-labelledby="h-ms"><h2 id="h-ms">Sector measures</h2><p class="desc" style="margin-top:6px">Measures investors use for this sector, collected from public sources. Not part of the score.</p><dl class="facts">'
+                        + ''.join(f'<div><dt>{e(m["measure"])}</dt><dd>{e(m["value"])} <span class="small">({e(m["as_of"])}, {src(m)})</span></dd></div>' for m in c['sector_measures']) + '</dl></section>')
         why = ''.join(f'<li>{e(w)}</li>' for w in c['why_on_list'])
         chk = ''.join(f'<li>{e(w)}</li>' for w in c['check_first'])
         prev = self.by_rank.get(c['rank'] - 1)
@@ -592,6 +602,7 @@ class Site:
     <section class="section panel" aria-labelledby="h-hist"><h2 id="h-hist">Results by year</h2>{hist or f'<p class="desc" style="margin-top:8px">Latest year only: sales {money(f["sales_gbp"])}, EBITDA margin {pct(f["ebitda_margin"])}.</p>'}</section>
     {ready}
     {price}
+    {measures}
     <section class="section panel" aria-labelledby="h-src"><h2 id="h-src">Sources and data</h2><div class="srcs" style="margin-top:8px"><a href="{CH}{c['company_number']}">Companies House record</a><a href="{CH}{c['company_number']}/filing-history">Filing history</a><a href="{r}{c['json']}">This company as JSON</a></div>
     <p class="note">Company number {e(c['company_number'])}. Scored on {fdate(c['scored_on'])} with method {e(c['method_version'])}. Spotted an error? <a href="{r}corrections/">Ask for a correction</a>.</p></section>
   </div>
@@ -653,13 +664,22 @@ class Site:
                 body = (f'<div class="panel prose">{scope}</div><div class="figs section">{"".join(f"<div><b>{v}</b><span>{l}</span></div>" for v, l in st)}</div>'
                         f'<section class="section" aria-labelledby="h-sc"><div class="shead"><div><h2 id="h-sc">Ranked companies in this sector</h2><p>{s["in_band"]} companies in the sales band, {s["forward"]} passed ownership and quality checks, {s["ranked"]} ranked.</p></div></div>'
                         f'{self.ranking_table(rr, comps, s["name"])}</section>'
-                        f'<section class="section panel"><h2>Sector measures not yet collected</h2><p class="desc" style="margin-top:8px">{e(", ".join(s["measures_to_add"] or []) or "None listed")}. Scores use the same five factors in every sector, so companies can be compared across sectors.</p></section>')
+                        + self.sector_measures_table(rr, comps) +
+                        f'<section class="section panel"><h2>Sector measures</h2><p class="desc" style="margin-top:8px">Measures investors use here: {e(", ".join(s["measures_to_add"] or []) or "none listed")}. They are being collected company by company and are not part of the score, so companies can be compared across sectors on the same five factors.</p></section>')
             self.write(f'sectors/{s["id"]}/', s['name'], f"{s['name']} in the UK: {s['covers']}", body, 'sectors', crumbs=[('sectors/', 'Sectors')],
                        lede=('Planned sector, not yet screened.' if s['status'] == 'planned' else f"{s['ranked']} ranked companies."))
 
     def co_link(self, r, num, fallback):
         c = self.by_num.get(num)
         return f'<a class="co" href="{r}{c["page"]}">{e(c["name"])}</a>' if c else e(fallback)
+
+    def sector_measures_table(self, r, comps):
+        rows = ''.join(f'<tr><td><a class="co" href="{r}{c["page"]}">{e(c["name"])}</a></td><td>{e(m["measure"])}</td><td>{e(m["value"])}</td><td class="opt">{e(m["as_of"])}</td></tr>'
+                       for c in comps for m in c.get('sector_measures', []))
+        if not rows:
+            return ''
+        return ('<section class="section" aria-labelledby="h-msr"><div class="shead"><div><h2 id="h-msr">Sector measures collected so far</h2><p>From accounts and public announcements; sources on each company page. Not part of the score.</p></div></div>'
+                f'<div class="tbox"><table class="tbl"><thead><tr><th>Company</th><th>Measure</th><th>Value</th><th class="opt">As of</th></tr></thead><tbody>{rows}</tbody></table></div></section>')
 
     def num_for_rank(self, rank):
         return self.by_rank[rank]['company_number']

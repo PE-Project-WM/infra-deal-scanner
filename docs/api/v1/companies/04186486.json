@@ -95,6 +95,7 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/04186486/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/04186486.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/04186486",
+ "sector_measures": [],
  "readiness": {
   "checks": [
    {

@@ -116,6 +116,14 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/13433533/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/13433533.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/13433533",
+ "sector_measures": [
+  {
+   "measure": "Order book",
+   "value": "Not stated as a value; the accounts report order book growth for FY27. Fibre build passed more than 140,000 premises in the year and maintenance contracts cover about 1.28 million premises",
+   "as_of": "2026-02-28",
+   "source": "VEA Group accounts FY Feb 2026"
+  }
+ ],
  "readiness": {
   "checks": [
    {

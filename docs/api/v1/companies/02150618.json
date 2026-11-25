@@ -97,6 +97,14 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/02150618/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/02150618.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/02150618",
+ "sector_measures": [
+  {
+   "measure": "Homes and premises passed",
+   "value": "307,000 full-fibre premises (about 200,000 in the Hull area)",
+   "as_of": "2026",
+   "source": "https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-1-10-weeks/consultation-promoting-competition-and-investment-in-fibre-networks-hull-area-review-2026-31/responses/kcom.pdf"
+  }
+ ],
  "readiness": {
   "checks": [
    {

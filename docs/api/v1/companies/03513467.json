@@ -68,5 +68,6 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/03513467/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/03513467.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/03513467",
+ "sector_measures": [],
  "updated": "2026-11-25"
 }

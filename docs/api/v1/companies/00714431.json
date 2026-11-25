@@ -75,5 +75,13 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/00714431/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/00714431.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/00714431",
+ "sector_measures": [
+  {
+   "measure": "Order book",
+   "value": "Not stated as a value; the accounts describe a stronger order book across rail, aviation, energy and defence",
+   "as_of": "2025",
+   "source": "Fourway Communication accounts (filed Dec 2025)"
+  }
+ ],
  "updated": "2026-11-25"
 }

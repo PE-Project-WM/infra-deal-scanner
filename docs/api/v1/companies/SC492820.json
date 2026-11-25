@@ -96,6 +96,7 @@
  "page": "https://pe-project-wm.github.io/infra-deal-scanner/companies/SC492820/",
  "json": "https://pe-project-wm.github.io/infra-deal-scanner/api/v1/companies/SC492820.json",
  "companies_house": "https://find-and-update.company-information.service.gov.uk/company/SC492820",
+ "sector_measures": [],
  "readiness": {
   "checks": [
    {
