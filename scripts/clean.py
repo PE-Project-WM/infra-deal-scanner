@@ -195,6 +195,8 @@ def exclusion(r):
         return 'Duplicate of ' + r['duplicate_of']
     if r['ownership'] == 'Foreign-owned subsidiary':
         return 'Foreign-owned subsidiary (not buyable on its own): ' + str(r['owner_chain']).split(' > ')[0]
+    if r['ownership'] == 'Part of a larger group':
+        return 'Part of a much larger group (not buyable on its own): ' + str(r['owner_chain']).split(' (web-checked')[0]
     return ''
 
 D['excluded_reason'] = D.apply(exclusion, axis=1)

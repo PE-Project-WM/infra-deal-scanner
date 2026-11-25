@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "top_n": {
   "n": 10,
-  "effective_bets": 4.8,
+  "effective_bets": 4.5,
   "flag": "amber",
   "factors": [
    {
@@ -24,6 +24,22 @@
     ]
    },
    {
+    "factor": "Government spending",
+    "share": 0.25,
+    "exposure": 2.5,
+    "count": 2,
+    "flag": "green",
+    "companies": [
+     "Alert Communications",
+     "The Networking People (TNP) (85%)",
+     "Wifinity (40%)",
+     "Clarus Networks (25%)"
+    ],
+    "drivers": [
+     "Public sector budgets"
+    ]
+   },
+   {
     "factor": "Mobile operator and emergency-services spend",
     "share": 0.21,
     "exposure": 2.1,
@@ -36,36 +52,6 @@
     ],
     "drivers": [
      "Mobile, radio and critical comms"
-    ]
-   },
-   {
-    "factor": "Government spending",
-    "share": 0.16,
-    "exposure": 1.6,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "Alert Communications",
-     "Wifinity (40%)",
-     "Clarus Networks (25%)"
-    ],
-    "drivers": [
-     "Public sector budgets"
-    ]
-   },
-   {
-    "factor": "SME IT and telecoms spending",
-    "share": 0.16,
-    "exposure": 1.6,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "Dstny Global Services UK",
-     "Kcom Group (40%)",
-     "Wifinity (20%)"
-    ],
-    "drivers": [
-     "Business telecoms (SME)"
     ]
    },
    {
@@ -85,6 +71,21 @@
     ]
    },
    {
+    "factor": "SME IT and telecoms spending",
+    "share": 0.07,
+    "exposure": 0.8,
+    "count": 0,
+    "flag": "green",
+    "companies": [
+     "Kcom Group (40%)",
+     "Wifinity (20%)",
+     "The Networking People (TNP) (15%)"
+    ],
+    "drivers": [
+     "Business telecoms (SME)"
+    ]
+   },
+   {
     "factor": "Offshore oil, gas, wind and shipping activity",
     "share": 0.05,
     "exposure": 0.5,
@@ -101,7 +102,7 @@
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 5.4,
+  "effective_bets": 5.5,
   "flag": "green",
   "factors": [
    {
@@ -126,25 +127,6 @@
     ]
    },
    {
-    "factor": "SME IT and telecoms spending",
-    "share": 0.19,
-    "exposure": 3.8,
-    "count": 3,
-    "flag": "green",
-    "companies": [
-     "Redwood Technologies Group",
-     "Dstny Global Services UK",
-     "Elitetele.Com",
-     "Kcom Group (40%)",
-     "Wifinity (20%)",
-     "The Networking People (TNP) (15%)"
-    ],
-    "drivers": [
-     "Business telecoms (SME)",
-     "Hosting and cloud (SME)"
-    ]
-   },
-   {
     "factor": "Mobile operator and emergency-services spend",
     "share": 0.15,
     "exposure": 3.1,
@@ -158,6 +140,21 @@
     ],
     "drivers": [
      "Mobile, radio and critical comms"
+    ]
+   },
+   {
+    "factor": "Unknown",
+    "share": 0.15,
+    "exposure": 3.0,
+    "count": 3,
+    "flag": "green",
+    "companies": [
+     "X-On Health",
+     "Network Planning Solutions",
+     "Connect Managed Services (UK)"
+    ],
+    "drivers": [
+     "Unknown"
     ]
    },
    {
@@ -179,13 +176,30 @@
     ]
    },
    {
-    "factor": "Offshore oil, gas, wind and shipping activity",
-    "share": 0.11,
-    "exposure": 2.2,
-    "count": 3,
+    "factor": "SME IT and telecoms spending",
+    "share": 0.14,
+    "exposure": 2.8,
+    "count": 2,
     "flag": "green",
     "companies": [
-     "Global Marine Systems",
+     "Elitetele.Com",
+     "Redwood Technologies Group",
+     "Kcom Group (40%)",
+     "Wifinity (20%)",
+     "The Networking People (TNP) (15%)"
+    ],
+    "drivers": [
+     "Business telecoms (SME)",
+     "Hosting and cloud (SME)"
+    ]
+   },
+   {
+    "factor": "Offshore oil, gas, wind and shipping activity",
+    "share": 0.06,
+    "exposure": 1.2,
+    "count": 2,
+    "flag": "green",
+    "companies": [
      "Satcom Global (70%)",
      "Clarus Networks (50%)"
     ],
@@ -208,19 +222,6 @@
     ],
     "drivers": [
      "Utility and civil construction"
-    ]
-   },
-   {
-    "factor": "Unknown",
-    "share": 0.05,
-    "exposure": 1.0,
-    "count": 1,
-    "flag": "green",
-    "companies": [
-     "X-On Health"
-    ],
-    "drivers": [
-     "Unknown"
     ]
    }
   ]
@@ -255,7 +256,7 @@
   {
    "rank": 2,
    "deal_type": "High-growth",
-   "deal_type_reason": "sales up 55% in one year (only one year read), margin 31%",
+   "deal_type_reason": "sales up 65% a year over 3 years, margin 31%",
    "fund_fit": "Growth and mid-market PE",
    "demand_driver": "Altnet and operator network build",
    "second_driver": "Utility and civil construction",
@@ -427,28 +428,32 @@
   {
    "rank": 10,
    "deal_type": "Steady compounder",
-   "deal_type_reason": "recurring-type revenue (from the accounts), margin 41%, sales up 1% in one year (only one year read), margin stability not yet tested",
+   "deal_type_reason": "recurring-type revenue (from the accounts), margin 13%, sales up 17% in one year (only one year read), margin stability not yet tested",
    "fund_fit": "Core and core-plus infrastructure funds",
-   "demand_driver": "Business telecoms (SME)",
-   "second_driver": "",
-   "macro_factor": "SME IT and telecoms spending",
-   "driver_basis": "Split: Accounts FY Dec 2025: cloud business communications, sold internationally",
-   "driver_split": "Business telecoms (SME) 100%",
+   "demand_driver": "Public sector budgets",
+   "second_driver": "Business telecoms (SME)",
+   "macro_factor": "Government spending",
+   "driver_basis": "Split: Accounts FY Mar 2026: most business is local government, health, blue light and education; some private customers (split estimated)",
+   "driver_split": "Public sector budgets 85%; Business telecoms (SME) 15%",
    "split_basis": "estimated split from the accounts",
    "split": [
     {
+     "driver": "Public sector budgets",
+     "share": 0.85
+    },
+    {
      "driver": "Business telecoms (SME)",
-     "share": 1.0
+     "share": 0.15
     }
    ]
   }
  ],
  "deal_type_counts": {
   "ranked": {
-   "Between buckets": 29,
-   "Steady compounder": 21,
-   "Under pressure": 18,
-   "High-growth": 16,
+   "Between buckets": 27,
+   "Steady compounder": 19,
+   "Under pressure": 17,
+   "High-growth": 15,
    "Numbers to check": 4
   },
   "watchlist": {
@@ -463,5 +468,5 @@
   "amber_share": 0.3,
   "red_share": 0.5
  },
- "headline": "The top 10 is about 5 independent bets, not 10: 32% of it depends on altnet funding and interest rates"
+ "headline": "The top 10 is about 4 independent bets, not 10: 32% of it depends on altnet funding and interest rates"
 }
