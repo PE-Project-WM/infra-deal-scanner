@@ -204,6 +204,42 @@ footer{background:var(--navy);color:var(--onnavy2);padding:40px 0 56px;font-size
 footer p{max-width:84ch;margin-bottom:10px}
 footer a{color:var(--onnavy)}
 
+
+/* sectors */
+.scroll .tbl th{position:static}
+.sectbl td{vertical-align:middle}
+.sectbl tbody tr{cursor:pointer}
+.sectbl tbody tr.cur td{background:#EEF5FC}
+.sectbl tbody tr.cur td:first-child{box-shadow:inset 3px 0 0 var(--accent)}
+.sectbl td.nm a{font-weight:600;color:var(--ink);text-decoration:none}
+.sectbl td.nm a:hover{color:var(--link);text-decoration:underline}
+.sectbl td.nm small{max-width:46ch}
+.sectbl tr.planned td{color:var(--mute)}
+.sectbl tr.planned td.nm a{color:var(--ink2)}
+.sectbl td.zero{color:#A9B5C4}
+.cbar{display:flex;width:96px;height:8px;border-radius:2px;overflow:hidden;background:var(--rule2)}
+.cbar i{display:block;height:100%}
+.cbar .h{background:var(--steady)} .cbar .m{background:var(--warn)} .cbar .l{background:var(--bad)}
+.cnums{font-size:12.5px;color:var(--mute);margin-top:3px;white-space:nowrap}
+.secnote{font-size:14.5px;color:var(--mute);margin-top:12px;max-width:90ch}
+.secdetail{margin-top:36px;border:1px solid var(--rule);border-radius:var(--r);background:var(--surface)}
+.secdetail[hidden]{display:none}
+.sd-head{display:flex;justify-content:space-between;gap:24px;align-items:start;padding:22px 24px 4px}
+.sd-head h3{font-size:22px}
+.sd-head .back{font-size:14.5px;white-space:nowrap}
+.sd-scope{display:grid;grid-template-columns:1fr 1fr;gap:6px 32px;padding:4px 24px 18px;font-size:15px;color:var(--ink2)}
+.sd-scope b{color:var(--ink);font-weight:500}
+.sd-stats{display:grid;grid-template-columns:repeat(6,1fr);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);background:var(--paper)}
+.sd-stats div{padding:14px 16px;border-right:1px solid var(--rule2)}
+.sd-stats div:last-child{border-right:0}
+.sd-stats b{display:block;font-size:21px;font-weight:600;line-height:1.25}
+.sd-stats span{font-size:13.5px;color:var(--mute)}
+.sd-body{padding:20px 24px 22px}
+.sd-body .tablebox{margin-top:4px}
+.sd-foot{display:grid;grid-template-columns:1fr 1fr;gap:8px 32px;margin-top:14px;font-size:14.5px;color:var(--ink2)}
+.sd-foot b{font-weight:500;color:var(--ink)}
+.top10tag{font-size:12px;font-weight:600;color:var(--accent-ink);border:1px solid #B9D6EE;border-radius:var(--r);padding:1px 6px;margin-left:8px;white-space:nowrap;vertical-align:1px}
+.sd-empty{padding:4px 24px 24px;color:var(--ink2);max-width:72ch}
 @media (max-width:980px){
   .exec{grid-template-columns:1fr;gap:32px}
   .keylist{grid-template-columns:1fr 1fr}
@@ -213,6 +249,14 @@ footer a{color:var(--onnavy)}
 }
 @media (max-width:600px){.nav .asof{display:none}}
 @media (max-width:820px){
+  .sd-stats{grid-template-columns:repeat(3,1fr)}
+  .sd-stats div:nth-child(3){border-right:0}
+  .sd-stats div:nth-child(n+4){border-top:1px solid var(--rule2)}
+  .sd-scope,.sd-foot{grid-template-columns:1fr}
+  .sectbl .opt,.secdetail .opt{display:none}
+  .sd-head{padding:18px 16px 4px}.sd-scope{padding:4px 16px 16px}.sd-body{padding:12px 0 16px}.sd-foot{padding:0 16px}.sd-empty{padding:4px 16px 20px}
+  .secdetail .tablebox{border-left:0;border-right:0;border-radius:0}
+  .secdetail .tbl th,.secdetail .tbl td{padding:9px 8px}.secdetail .tbl td:first-child,.secdetail .tbl th:first-child{padding-left:14px}.secdetail .tbl td:last-child,.secdetail .tbl th:last-child{padding-right:14px}
   body{font-size:16px}
   .wrap{padding:0 18px}
   section{padding:40px 0}
@@ -250,6 +294,7 @@ footer a{color:var(--onnavy)}
   <a class="brand" href="#top"><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><rect x="1" y="11" width="4" height="8" fill="#5FC3E4"/><rect x="8" y="6" width="4" height="13" fill="#1D8FE1"/><rect x="15" y="1" width="4" height="18" fill="#C9D6E8"/></svg>UK Digital Infrastructure Screen</a>
   <ul>
     <li><a href="#summary">Summary</a></li>
+    <li><a href="#sectors">Sectors</a></li>
     <li><a href="#findings">Findings</a></li>
     <li><a href="#market">Market intelligence</a></li>
     <li><a href="#method">Methodology</a></li>
@@ -259,7 +304,7 @@ footer a{color:var(--onnavy)}
 
 <header class="mast" id="top"><div class="wrap">
   <h1>Which UK digital-infrastructure companies are investable this week</h1>
-  <p class="lead">A weekly screen of fibre, wireless, satellite, data-centre and network-building companies, ranked from their public accounts for a private equity buyer of £10–250m businesses.</p>
+  <p class="lead">A weekly screen of UK digital-infrastructure companies in eight sectors, from fibre and towers to data centres and network building, ranked from their public accounts for a private equity buyer of £10–250m businesses.</p>
   <p class="by">By William Mikollovci. Rebuilt every Monday from Companies House.</p>
   <div class="strip" id="strip"></div>
 </div></header>
@@ -276,6 +321,27 @@ footer a{color:var(--onnavy)}
       <div class="ready-f"><span><i class="mk full"></i>Passes</span><span><i class="mk half"></i>Partly</span><span><i class="mk none"></i>Fails</span><span>Hover a mark for the reason.</span></div>
     </div>
   </div>
+</div></section>
+
+<div class="group-head" id="sectors"><div class="wrap">
+  <p class="gname">Sectors</p>
+  <h2>Where the screen looks, and what each sector holds</h2>
+  <p class="gintro">Every company sits in one sector, chosen by its main activity rather than its registered industry code. Choose a sector to see its ranked companies.</p>
+</div></div>
+
+<section class="tight"><div class="wrap">
+  <div class="tablebox scroll"><table class="tbl sectbl"><thead><tr>
+    <th>Sector</th>
+    <th class="num opt" title="Companies with sales of £10–250m filing full accounts">In the sales band</th>
+    <th class="num opt" title="Left after ownership, duplicate and off-topic checks">Passed checks</th>
+    <th class="num">Ranked</th>
+    <th class="num">In top ten</th>
+    <th class="opt">Best ranked</th>
+    <th class="num">Median score</th>
+    <th class="opt">Confidence in figures</th>
+  </tr></thead><tbody id="sec-body"></tbody></table></div>
+  <p class="secnote" id="sec-note"></p>
+  <div class="secdetail" id="sec-detail" hidden></div>
 </div></section>
 
 <div class="group-head" id="findings"><div class="wrap">
@@ -575,6 +641,52 @@ const draw = () => {
 };
 Object.values(F).forEach(id => document.getElementById(id).addEventListener('change', draw));
 draw();
+
+// Sectors: overview table and one detail panel, driven by D.sectors (config/sectors.json)
+const SEC = D.sectors || [];
+if (SEC.length) {
+  const cbar = c => { const n = c.High + c.Medium + c.Low; if (!n) return '<span class="small">–</span>';
+    const w = k => (100 * c[k] / n).toFixed(1) + '%';
+    return `<div class="cbar" role="img" aria-label="${c.High} high, ${c.Medium} medium, ${c.Low} low"><i class="h" style="width:${w('High')}"></i><i class="m" style="width:${w('Medium')}"></i><i class="l" style="width:${w('Low')}"></i></div><div class="cnums">${c.High} high, ${c.Medium} medium, ${c.Low} low</div>`; };
+  const num = v => v ? `<td class="num">${v}</td>` : '<td class="num zero">0</td>';
+  document.getElementById('sec-body').innerHTML = SEC.map(x => x.status === 'planned'
+    ? `<tr class="planned" data-sec="${x.id}"><td class="nm"><a href="#sector-${x.id}">${esc(x.name)}</a><small>Not yet screened</small></td><td class="num opt">–</td><td class="num opt">–</td><td class="num">–</td><td class="num">–</td><td class="opt">–</td><td class="num">–</td><td class="opt">–</td></tr>`
+    : `<tr data-sec="${x.id}"><td class="nm"><a href="#sector-${x.id}">${esc(x.name)}</a></td><td class="num opt">${x.in_band}</td><td class="num opt">${x.forward}</td>${num(x.ranked)}${num(x.in_top10)}<td class="opt">${x.best ? `${esc(x.best.company)} <span class="small">#${x.best.rank}</span>` : '–'}</td><td class="num">${x.median_score != null ? x.median_score.toFixed(0) : '–'}</td><td class="opt">${cbar(x.conf)}</td></tr>`).join('');
+  const live = SEC.filter(x => x.status !== 'planned');
+  const placedChecked = live.reduce((a, x) => a + x.checked, 0), placedAll = live.reduce((a, x) => a + x.in_band, 0);
+  document.getElementById('sec-note').textContent = `Ranked companies are placed by their checked main activity. The other ${placedAll - placedChecked} companies in the sales band are placed by their industry code only, so those counts are a first cut. Sectors marked not yet screened are planned: the screen has not searched for them.`;
+  document.querySelectorAll('#sec-body tr').forEach(tr => tr.addEventListener('click', e => { if (e.target.tagName !== 'A') location.hash = 'sector-' + tr.dataset.sec; }));
+
+  const panel = document.getElementById('sec-detail');
+  const showSector = (id, scroll) => {
+    const x = SEC.find(s => s.id === id);
+    document.querySelectorAll('#sec-body tr').forEach(tr => tr.classList.toggle('cur', tr.dataset.sec === id));
+    if (!x) { panel.hidden = true; return; }
+    const head = `<div class="sd-head"><h3>${esc(x.name)}</h3><a class="back" href="#sectors">All sectors</a></div>
+      <div class="sd-scope"><p><b>Covers:</b> ${esc(x.covers)}</p>${x.excludes ? `<p><b>Not included:</b> ${esc(x.excludes)}</p>` : ''}</div>`;
+    if (x.status === 'planned' || !x.ranked) {
+      panel.innerHTML = head + `<p class="sd-empty">${x.status === 'planned'
+        ? 'Not yet screened. The screen has not searched for companies in this sector, so nothing here should be read as an absence of targets.'
+        : `No company in this sector is ranked yet. ${x.in_band} companies are in the sales band and ${x.forward} passed the ownership and quality checks; none has yet passed every test.`}</p>`;
+    } else {
+      const rows = (D.all || []).filter(a => a.sec === id);
+      const top = new Set(U.top10.map(t => +t.rank));
+      const st = [[x.ranked, 'ranked'], [x.in_top10, 'in the top ten'], [x.median_score.toFixed(0), 'median score'],
+        [x.median_sales != null ? money(x.median_sales) : '–', 'median sales'], [x.median_margin != null ? pct(x.median_margin) : '–', 'median EBITDA margin'],
+        [`${x.in_size_band} of ${x.ranked}`, 'likely priced £10–250m']];
+      panel.innerHTML = head + `<div class="sd-stats">${st.map(([b, l]) => `<div><b>${b}</b><span>${l}</span></div>`).join('')}</div>
+        <div class="sd-body"><div class="tablebox scroll"><table class="tbl"><thead><tr><th class="num">Rank</th><th>Company</th><th class="opt">Type of deal</th><th>Confidence</th><th class="num opt">Sales</th><th class="num opt">Margin</th><th class="opt">Likely deal size</th><th class="num">Score</th></tr></thead><tbody>${
+          rows.map(a => `<tr><td class="num">${a.rank}</td><td><b>${esc(a.company)}</b>${top.has(a.rank) ? '<span class="top10tag">Top ten</span>' : ''}<small>${esc(a.what)}</small></td><td class="opt">${tagFor(a.type)}</td><td>${confTag(a.confidence)}</td><td class="num opt">${money(a.sales)}</td><td class="num opt">${a.margin != null ? pct(a.margin) : '–'}</td><td class="opt">${sizeTag(a.size)}</td><td class="num"><b>${a.score.toFixed(0)}</b></td></tr>`).join('')}</tbody></table></div>
+        <div class="sd-foot"><p><b>Sales band to ranking:</b> ${x.in_band} in the sales band, ${x.forward} passed ownership and quality checks, ${x.ranked} ranked.</p>
+        <p><b>Sector measures not yet collected:</b> ${esc((x.measures_to_add || []).join(', ')) || 'none listed'}. Scores use the same five factors in every sector.</p></div></div>`;
+    }
+    panel.hidden = false;
+    if (scroll) panel.scrollIntoView({block: 'start'});
+  };
+  const fromHash = scroll => { const m = location.hash.match(/^#sector-([a-z0-9]+)$/); if (m) showSector(m[1], scroll); else if (location.hash === '#sectors') showSector('', false); };
+  window.addEventListener('hashchange', () => fromHash(true));
+  fromHash(true);
+}
 
 // Growth infrastructure watchlist
 if ((D.growth_infra || []).length) {

@@ -63,8 +63,14 @@ def nice(n):   # same tidy-up as compare.py
 sz_path = f'{ROOT}/data/outputs/size_check.csv'   # likely deal size (size_check.py)
 SZ = pd.read_csv(sz_path, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(sz_path) else None
 size_of = lambda num: (SZ.at[num, 'size_flag'], SZ.at[num, 'size_basis']) if SZ is not None and num in SZ.index else ('', '')
+SECTORS = json.load(open(f'{ROOT}/config/sectors.json'))['sectors']   # sector map (sectors.py)
+SEC_NAME = {x['id']: x['name'] for x in SECTORS}
+sec_path = f'{ROOT}/data/outputs/sectors.csv'
+SECDF = pd.read_csv(sec_path, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(sec_path) else pd.DataFrame(columns=['sector', 'sector_source'])
+sec_of = lambda num: SECDF.at[num, 'sector'] if num in SECDF.index and isinstance(SECDF.at[num, 'sector'], str) else ''
 all_ranked = [{'rank': int(r['rank']), 'company': nice(r['CompanyName']), 'what': plain(r['relevance_reason']),
-               'sector': SEG.get(r['segment'], r['segment']), 'score': float(r['score']), 'confidence': r.get('confidence'),
+               'sec': sec_of(r['CompanyNumber']),
+               'sector': SEC_NAME.get(sec_of(r['CompanyNumber']), SEG.get(r['segment'], r['segment'])), 'score': float(r['score']), 'confidence': r.get('confidence'),
                'type': (lens_by_num.at[r['CompanyNumber'], 'deal_type'] if r['CompanyNumber'] in lens_by_num.index else ''),
                'access': str(r['accessibility']).split(':')[0], 'sales': float(r['turnover']),
                'margin': None if pd.isna(r['ebitda_margin']) else float(r['ebitda_margin']),
@@ -73,6 +79,28 @@ by_rank = {a['rank']: a for a in all_ranked}
 for t in U['top10']:
     a = by_rank.get(int(t['rank']), {})
     t['size'], t['size_text'] = a.get('size', ''), a.get('size_text', '')
+    t['sec'], t['sector'] = a.get('sec', ''), a.get('sector', '')
+top_ranks = {int(t['rank']) for t in U['top10']}
+sector_stats = []   # one entry per sector, screened or planned, built the same way for every sector
+for x in SECTORS:
+    placed = clean.assign(sec=clean['CompanyNumber'].map(sec_of))
+    placed = placed[placed['sec'] == x['id']]
+    rk_s = [a for a in all_ranked if a['sec'] == x['id']]
+    med = lambda v: float(pd.Series(v).median()) if len(v) else None
+    conf = {k: sum(1 for a in rk_s if a['confidence'] == k) for k in ('High', 'Medium', 'Low')}
+    types = {}
+    for a in rk_s:
+        if a['type']:
+            types[a['type']] = types.get(a['type'], 0) + 1
+    sector_stats.append({**{k: x[k] for k in ('id', 'name', 'status', 'covers', 'excludes', 'measures_to_add')},
+        'in_band': int(len(placed)), 'forward': int(placed['goes_forward'].sum()), 'ranked': len(rk_s),
+        'checked': int((SECDF.loc[SECDF.index.isin(placed['CompanyNumber']), 'sector_source'] == 'checked').sum()) if len(placed) else 0,
+        'in_top10': sum(1 for a in rk_s if a['rank'] in top_ranks),
+        'best': ({'rank': rk_s[0]['rank'], 'company': rk_s[0]['company'], 'score': rk_s[0]['score']} if rk_s else None),
+        'median_score': med([a['score'] for a in rk_s]), 'median_sales': med([a['sales'] for a in rk_s]),
+        'median_margin': med([a['margin'] for a in rk_s if a['margin'] is not None]),
+        'in_size_band': sum(1 for a in rk_s if a['size'] and not _re.search('above|below|not', a['size'], _re.I)),
+        'conf': conf, 'types': types})
 size_band = json.load(open(f'{ROOT}/config/valuation.json')).get('deal_size_band_gbp')
 wl = lens[(lens['list'] != 'Ranked') & (lens['deal_type'] == 'Growth infrastructure') & lens['relevance'].isin(C['sector_gate']['ranked_if_relevance_in'])] if len(lens) else lens
 growth_infra = [{'company': nice(r['CompanyName']), 'what': plain(r['relevance_reason']), 'sales': float(r['turnover']),
@@ -88,7 +116,7 @@ if val:
     for c in val['companies']:
         c['company'] = nice(c['CompanyName'])
 data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr, 'all': all_ranked, 'growth_infra': growth_infra,
-        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val, 'size_band': size_band}
+        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val, 'size_band': size_band, 'sectors': sector_stats}
 payload = json.dumps(data, default=str).replace('</', '<\\/')
 
 page = open(f'{ROOT}/scripts/site_template.html').read()   # layout and styles live in the template
