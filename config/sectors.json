@@ -1,0 +1,142 @@
+{
+ "_about": "The sector map for the screen. Every company is placed in exactly one sector, by its main activity. To add a sector, add an entry here (status 'planned' until companies are screened for it) and place companies in config/sector_map.csv. Industry codes are only the fallback: a code says what a company registered as, not what it does.",
+ "version": "2026-11-25",
+ "sectors": [
+  {
+   "id": "fibre",
+   "name": "Fibre networks",
+   "short": "Fibre",
+   "status": "screened",
+   "covers": "Companies that own or operate fixed fibre networks: full-fibre altnets, wholesale and regional network operators.",
+   "excludes": "Fibre build contractors (Network build and maintenance) and resellers of other firms' lines (Business connectivity and communications).",
+   "sic_fallback": [
+    "61100"
+   ],
+   "measures_to_add": [
+    "Homes and premises passed",
+    "Take-up rate",
+    "Revenue per connection",
+    "Build cost per premise"
+   ]
+  },
+  {
+   "id": "wireless",
+   "name": "Wireless and mobile networks",
+   "short": "Wireless",
+   "status": "screened",
+   "covers": "Companies that own or operate wireless networks: managed wifi, fixed wireless access, private mobile networks and IoT connectivity.",
+   "excludes": "Towers and small cells (own sector) and mast build contractors (Network build and maintenance).",
+   "sic_fallback": [
+    "61200"
+   ],
+   "measures_to_add": [
+    "Sites or venues served",
+    "Contract length",
+    "Revenue per site"
+   ]
+  },
+  {
+   "id": "towers",
+   "name": "Towers and small cells",
+   "short": "Towers",
+   "status": "screened",
+   "covers": "Owners of passive mobile infrastructure (masts, rooftops, small cells) leased to mobile operators.",
+   "excludes": "Companies that only design or build masts.",
+   "sic_fallback": [],
+   "measures_to_add": [
+    "Sites owned",
+    "Tenants per site",
+    "Escalator terms"
+   ]
+  },
+  {
+   "id": "datacentres",
+   "name": "Data centres and hosting",
+   "short": "Data centres",
+   "status": "screened",
+   "covers": "Operators of data centres and providers of hosting, colocation and cloud infrastructure.",
+   "excludes": "Contractors that build or fit out data centres (Network build and maintenance).",
+   "sic_fallback": [
+    "63110"
+   ],
+   "measures_to_add": [
+    "Contracted power (MW)",
+    "Utilisation",
+    "Revenue per MW"
+   ]
+  },
+  {
+   "id": "satellite",
+   "name": "Satellite",
+   "short": "Satellite",
+   "status": "screened",
+   "covers": "Satellite operators and providers of satellite connectivity.",
+   "excludes": "",
+   "sic_fallback": [
+    "61300"
+   ],
+   "measures_to_add": [
+    "Capacity sold",
+    "Government share of sales"
+   ]
+  },
+  {
+   "id": "critical",
+   "name": "Critical communications",
+   "short": "Critical comms",
+   "status": "screened",
+   "covers": "Radio, paging and secure communications for emergency services, defence, rail and other users who cannot lose service.",
+   "excludes": "",
+   "sic_fallback": [],
+   "measures_to_add": [
+    "Public-sector share of sales",
+    "Contract end dates"
+   ]
+  },
+  {
+   "id": "build",
+   "name": "Network build and maintenance",
+   "short": "Network build",
+   "status": "screened",
+   "covers": "Contractors that design, build, install and maintain fibre, mobile, utility and data-centre networks for the owners.",
+   "excludes": "",
+   "sic_fallback": [
+    "42220"
+   ],
+   "measures_to_add": [
+    "Order book",
+    "Share of sales from the largest client",
+    "Framework agreements held"
+   ]
+  },
+  {
+   "id": "services",
+   "name": "Business connectivity and communications",
+   "short": "Business connectivity",
+   "status": "screened",
+   "covers": "Providers of connectivity, telephony, mobile and managed network services to businesses and the public sector, mostly over other firms' networks.",
+   "excludes": "",
+   "sic_fallback": [
+    "61900"
+   ],
+   "measures_to_add": [
+    "Recurring share of sales",
+    "Customer churn",
+    "Average contract length"
+   ]
+  },
+  {
+   "id": "subsea",
+   "name": "Subsea cables",
+   "short": "Subsea",
+   "status": "planned",
+   "covers": "Owners, operators and maintainers of subsea telecoms cables landing in the UK.",
+   "excludes": "",
+   "sic_fallback": [],
+   "measures_to_add": [
+    "Capacity lit",
+    "Landing stations"
+   ]
+  }
+ ]
+}
