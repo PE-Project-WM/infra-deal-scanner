@@ -1,11 +1,11 @@
 {
  "date": "2026-11-25",
- "checked_since": "2026-11-25",
+ "checked_since": "2026-08-27",
  "previous_scored_on": "2026-11-25",
- "headline": "No changes to the top 10 this week",
+ "headline": "0 new in the top 10, 0 dropped out, 0 moved within it",
  "method_changed": false,
  "method_version": "v3.1",
- "events_count": 0,
+ "events_count": 34,
  "companies_checked": 82,
  "top10": [
   {
@@ -209,8 +209,466 @@
    }
   }
  ],
- "top10_moves": [],
- "all_moves": [],
- "events": [],
+ "top10_moves": [
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "same",
+   "from": 6,
+   "to": 6,
+   "score_from": 80.3,
+   "score_to": 80.3,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  },
+  {
+   "company": "National Grid Telecoms",
+   "number": "02386327",
+   "kind": "same",
+   "from": 7,
+   "to": 7,
+   "score_from": 79.7,
+   "score_to": 79.7,
+   "reasons": [],
+   "events": [
+    "New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged)",
+    "Director resigned (2026-10-01): Sharma, Tanya Joy resigned"
+   ]
+  }
+ ],
+ "all_moves": [
+  {
+   "company": "National Grid Telecoms",
+   "number": "02386327",
+   "kind": "same",
+   "from": 7,
+   "to": 7,
+   "score_from": 79.7,
+   "score_to": 79.7,
+   "reasons": [],
+   "events": [
+    "New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged)",
+    "Director resigned (2026-10-01): Sharma, Tanya Joy resigned"
+   ]
+  },
+  {
+   "company": "X-On Health",
+   "number": "02578478",
+   "kind": "same",
+   "from": 18,
+   "to": 18,
+   "score_from": 73.9,
+   "score_to": 73.9,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-10-05): Pile, Daryl James appointed",
+    "Director appointed (2026-10-05): Overd, Matthew John appointed"
+   ]
+  },
+  {
+   "company": "Charterhouse Voice & Data",
+   "number": "02804354",
+   "kind": "same",
+   "from": 60,
+   "to": 60,
+   "score_from": 54.6,
+   "score_to": 54.6,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-11-11): Stevenson, Kelly Louise resigned",
+    "Director resigned (2026-11-11): Crawford, Amy Elizabeth resigned",
+    "Director appointed (2026-11-11): Skiba, Giles Tomasz Christopher appointed",
+    "Director appointed (2026-11-11): Pitt, Jonathan Louis appointed",
+    "Director appointed (2026-11-11): Parkman, Ross Stuart appointed",
+    "Director appointed (2026-11-11): Brar, Taranjit Singh appointed"
+   ]
+  },
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "same",
+   "from": 6,
+   "to": 6,
+   "score_from": 80.3,
+   "score_to": 80.3,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  },
+  {
+   "company": "Satcom Global",
+   "number": "05208041",
+   "kind": "same",
+   "from": 12,
+   "to": 12,
+   "score_from": 76.0,
+   "score_to": 76.0,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-09-02): Leydon, Chris resigned"
+   ]
+  },
+  {
+   "company": "North PB",
+   "number": "05217343",
+   "kind": "same",
+   "from": 52,
+   "to": 52,
+   "score_from": 59.4,
+   "score_to": 59.4,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-10-28): Mauguy, Philippe Robert Francis appointed"
+   ]
+  },
+  {
+   "company": "Intelligent Communications Solutions",
+   "number": "05238375",
+   "kind": "same",
+   "from": 66,
+   "to": 66,
+   "score_from": 48.8,
+   "score_to": 48.8,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-08-31): Welch, Alexander Thomas resigned"
+   ]
+  },
+  {
+   "company": "4Net Technologies",
+   "number": "05448638",
+   "kind": "same",
+   "from": 45,
+   "to": 45,
+   "score_from": 61.0,
+   "score_to": 61.0,
+   "reasons": [],
+   "events": [
+    "New charge (2026-10-23): Security registered in favour of Alter Domus Trustees (UK) Limited, as Security Agent (possible new borrowing)",
+    "Charge satisfied (2026-09-23): Security for Alter Domus Trustees (UK) Limited as Security Agent released (debt repaid or refinanced)",
+    "New charge (2026-09-18): Security registered in favour of Alter Domus Trustees (UK) Limited as Security Agent (possible new borrowing)",
+    "New charge (2026-09-18): Security registered in favour of Palatine Private Equity LLP (The Security Trustee) (possible new borrowing)"
+   ]
+  },
+  {
+   "company": "4Com Network Services",
+   "number": "06472696",
+   "kind": "same",
+   "from": 44,
+   "to": 44,
+   "score_from": 61.6,
+   "score_to": 61.6,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-10-07): Smith, Nigel Paul appointed",
+    "Director appointed (2026-10-07): Milton, Paul Stephen appointed",
+    "Director appointed (2026-10-07): Morten, Stuart Norman appointed",
+    "Director resigned (2026-10-07): Scutt, Gary resigned",
+    "Director appointed (2026-10-07): Ullah, Karen appointed"
+   ]
+  },
+  {
+   "company": "Datalec Power Installations",
+   "number": "08235914",
+   "kind": "same",
+   "from": 49,
+   "to": 49,
+   "score_from": 60.5,
+   "score_to": 60.5,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-10-27): Walton, Steven William appointed",
+    "Director appointed (2026-10-27): Nagarajan, Balasubramanian appointed",
+    "Director appointed (2026-10-27): Brady, Christopher Douglas appointed",
+    "Owner left (2026-10-27): Mr Daniel John Keeper ceased to be a person with significant control",
+    "Owner left (2026-10-27): Mr Stuart Alan Richmond ceased to be a person with significant control"
+   ]
+  },
+  {
+   "company": "Redcentric Solutions",
+   "number": "08322856",
+   "kind": "same",
+   "from": 24,
+   "to": 24,
+   "score_from": 70.7,
+   "score_to": 70.7,
+   "reasons": [],
+   "events": [
+    "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
+    "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
+    "New charge (2026-08-28): Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)"
+   ]
+  },
+  {
+   "company": "Heneghan Holdings",
+   "number": "09956206",
+   "kind": "same",
+   "from": 37,
+   "to": 37,
+   "score_from": 67.3,
+   "score_to": 67.3,
+   "reasons": [],
+   "events": [
+    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
+    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
+   ]
+  },
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "same",
+   "from": 33,
+   "to": 33,
+   "score_from": 69.0,
+   "score_to": 69.0,
+   "reasons": [],
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "CompanyNumber": "02386327",
+   "CompanyName": "NATIONAL GRID TELECOMS LIMITED",
+   "event": "New accounts",
+   "date": "2026-11-24",
+   "detail": "New accounts filed, but figures could not be read (PDF or untagged)"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director resigned",
+   "date": "2026-11-11",
+   "detail": "Stevenson, Kelly Louise resigned"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director resigned",
+   "date": "2026-11-11",
+   "detail": "Crawford, Amy Elizabeth resigned"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Skiba, Giles Tomasz Christopher appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Pitt, Jonathan Louis appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Parkman, Ross Stuart appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Brar, Taranjit Singh appointed"
+  },
+  {
+   "CompanyNumber": "03912906",
+   "CompanyName": "ALERT COMMUNICATIONS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-04",
+   "detail": "Britton, Cara Marie appointed"
+  },
+  {
+   "CompanyNumber": "05217343",
+   "CompanyName": "NORTH PB LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-28",
+   "detail": "Mauguy, Philippe Robert Francis appointed"
+  },
+  {
+   "CompanyNumber": "08235914",
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-27",
+   "detail": "Walton, Steven William appointed"
+  },
+  {
+   "CompanyNumber": "08235914",
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-27",
+   "detail": "Nagarajan, Balasubramanian appointed"
+  },
+  {
+   "CompanyNumber": "08235914",
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-27",
+   "detail": "Brady, Christopher Douglas appointed"
+  },
+  {
+   "CompanyNumber": "08235914",
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "event": "Owner left",
+   "date": "2026-10-27",
+   "detail": "Mr Daniel John Keeper ceased to be a person with significant control"
+  },
+  {
+   "CompanyNumber": "08235914",
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "event": "Owner left",
+   "date": "2026-10-27",
+   "detail": "Mr Stuart Alan Richmond ceased to be a person with significant control"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Michael Edward resigned"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Patrick William resigned"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "New charge",
+   "date": "2026-10-23",
+   "detail": "Security registered in favour of Alter Domus Trustees (UK) Limited, as Security Agent (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "11480193",
+   "CompanyName": "RAPID RESPONSE TELECOMS LTD",
+   "event": "New charge",
+   "date": "2026-10-16",
+   "detail": "Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-07",
+   "detail": "Smith, Nigel Paul appointed"
+  },
+  {
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-07",
+   "detail": "Milton, Paul Stephen appointed"
+  },
+  {
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-07",
+   "detail": "Morten, Stuart Norman appointed"
+  },
+  {
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-07",
+   "detail": "Scutt, Gary resigned"
+  },
+  {
+   "CompanyNumber": "06472696",
+   "CompanyName": "4COM NETWORK SERVICES LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-07",
+   "detail": "Ullah, Karen appointed"
+  },
+  {
+   "CompanyNumber": "02578478",
+   "CompanyName": "X-ON HEALTH LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-05",
+   "detail": "Pile, Daryl James appointed"
+  },
+  {
+   "CompanyNumber": "02578478",
+   "CompanyName": "X-ON HEALTH LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-05",
+   "detail": "Overd, Matthew John appointed"
+  },
+  {
+   "CompanyNumber": "02386327",
+   "CompanyName": "NATIONAL GRID TELECOMS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-01",
+   "detail": "Sharma, Tanya Joy resigned"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "Charge satisfied",
+   "date": "2026-09-23",
+   "detail": "Security for Alter Domus Trustees (UK) Limited as Security Agent released (debt repaid or refinanced)"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "New charge",
+   "date": "2026-09-18",
+   "detail": "Security registered in favour of Alter Domus Trustees (UK) Limited as Security Agent (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "New charge",
+   "date": "2026-09-18",
+   "detail": "Security registered in favour of Palatine Private Equity LLP (The Security Trustee) (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "05208041",
+   "CompanyName": "SATCOM GLOBAL LIMITED",
+   "event": "Director resigned",
+   "date": "2026-09-02",
+   "detail": "Leydon, Chris resigned"
+  },
+  {
+   "CompanyNumber": "08322856",
+   "CompanyName": "REDCENTRIC SOLUTIONS LIMITED",
+   "event": "Charge satisfied",
+   "date": "2026-09-01",
+   "detail": "Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
+  },
+  {
+   "CompanyNumber": "08322856",
+   "CompanyName": "REDCENTRIC SOLUTIONS LIMITED",
+   "event": "Charge satisfied",
+   "date": "2026-09-01",
+   "detail": "Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
+  },
+  {
+   "CompanyNumber": "05238375",
+   "CompanyName": "INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-08-31",
+   "detail": "Welch, Alexander Thomas resigned"
+  },
+  {
+   "CompanyNumber": "08322856",
+   "CompanyName": "REDCENTRIC SOLUTIONS LIMITED",
+   "event": "New charge",
+   "date": "2026-08-28",
+   "detail": "Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)"
+  }
+ ],
  "ranked": 82
 }
