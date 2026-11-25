@@ -64,7 +64,7 @@ sz_path = f'{ROOT}/data/outputs/size_check.csv'   # likely deal size (size_check
 SZ = pd.read_csv(sz_path, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(sz_path) else None
 size_of = lambda num: (SZ.at[num, 'size_flag'], SZ.at[num, 'size_basis']) if SZ is not None and num in SZ.index else ('', '')
 SECTORS = json.load(open(f'{ROOT}/config/sectors.json'))['sectors']   # sector map (sectors.py)
-SEC_NAME = {x['id']: x['name'] for x in SECTORS}
+SEC_NAME = {x['id']: x.get('short', x['name']) for x in SECTORS}
 sec_path = f'{ROOT}/data/outputs/sectors.csv'
 SECDF = pd.read_csv(sec_path, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(sec_path) else pd.DataFrame(columns=['sector', 'sector_source'])
 sec_of = lambda num: SECDF.at[num, 'sector'] if num in SECDF.index and isinstance(SECDF.at[num, 'sector'], str) else ''
@@ -115,8 +115,16 @@ if val:
         t['price'] = vby.get(t['rank'])
     for c in val['companies']:
         c['company'] = nice(c['CompanyName'])
+factor_avg = {k: {'all': float(rank_df[f'pts_{k}'].mean()), 'top': float(rank_df.loc[rank_df.index <= 10, f'pts_{k}'].mean())}
+              for k in weights if f'pts_{k}' in rank_df}   # average points per scoring factor (overview)
+fc = pd.read_csv(f'{ROOT}/config/figure_corrections.csv', dtype={'CompanyNumber': str})
+vf = f'{ROOT}/data/ocr/verified.csv'
+quality = {'corrected_filings': int(fc[['CompanyNumber', 'accounts_filed']].drop_duplicates().shape[0]),
+           'checked_against_filing': int(len(pd.read_csv(vf))) if os.path.exists(vf) else 0,
+           'sector_checked': int((SECDF['sector_source'] == 'checked').sum()) if len(SECDF) else 0,
+           'sector_placed': int(len(SECDF))}
 data = {'update': U, 'funnel': funnel, 'weights': weights, 'corr': corr, 'all': all_ranked, 'growth_infra': growth_infra,
-        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val, 'size_band': size_band, 'sectors': sector_stats}
+        'sector_check': sector_check, 'scanned': scanned_unread, 'scanned_ocr': scanned_ocr, 'universe': len(fin), 'val': val, 'size_band': size_band, 'sectors': sector_stats, 'factor_avg': factor_avg, 'quality': quality}
 payload = json.dumps(data, default=str).replace('</', '<\\/')
 
 page = open(f'{ROOT}/scripts/site_template.html').read()   # layout and styles live in the template
