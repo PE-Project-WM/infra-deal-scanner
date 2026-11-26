@@ -38,7 +38,6 @@ SC145376,satellite,checked,"Main activity from the sector call (rulebook, 26 Nov
 02853596,build,checked,Main activity from the checked company description (25 Nov 2026)
 02804354,services,checked,Main activity from the checked company description (25 Nov 2026)
 06521296,services,checked,Main activity from the checked company description (25 Nov 2026)
-11190451,services,industry code,"Industry code 61900 only, not yet checked"
 01938625,services,checked,Main activity from the checked company description (25 Nov 2026)
 02557464,services,checked,Main activity from the checked company description (25 Nov 2026)
 05448638,services,checked,Main activity from the checked company description (25 Nov 2026)
@@ -77,7 +76,6 @@ SC492820,services,checked,Main activity from the checked company description (25
 07395042,wireless,industry code,"Industry code 61200 only, not yet checked"
 07800863,build,checked,Main activity from the checked company description (25 Nov 2026)
 04380546,services,checked,Main activity from the checked company description (25 Nov 2026)
-14377755,build,industry code,"Industry code 42220 only, not yet checked"
 03513467,services,checked,Main activity from the checked company description (25 Nov 2026)
 06391276,build,checked,Main activity from the checked company description (25 Nov 2026)
 NI614374,build,checked,Main activity from the checked company description (25 Nov 2026)
@@ -92,7 +90,6 @@ NI614374,build,checked,Main activity from the checked company description (25 No
 03868503,services,checked,Main activity from the checked company description (25 Nov 2026)
 NI624500,services,checked,Main activity from the checked company description (25 Nov 2026)
 02893478,build,checked,Main activity from the checked company description (25 Nov 2026)
-SC702923,fibre,industry code,"Industry code 61100 only, not yet checked"
 03368473,build,checked,Main activity from the checked company description (25 Nov 2026)
 12421328,build,checked,Main activity from the checked company description (25 Nov 2026)
 03752620,services,checked,Main activity from the checked company description (25 Nov 2026)
@@ -110,7 +107,6 @@ SC211701,wireless,checked,Main activity from the checked company description (25
 03912906,critical,checked,Main activity from the checked company description (25 Nov 2026)
 03592271,services,checked,Main activity from the checked company description (25 Nov 2026)
 07222543,fibre,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
-14972810,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 11065412,datacentres,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 07476617,fibre,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 12556681,datacentres,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
@@ -134,7 +130,6 @@ SC328828,wireless,checked,"Main activity from the sector call (rulebook, 26 Nov 
 07867043,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 10285348,fibre,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 03935705,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
-15189949,services,industry code,"Industry code 61900 only, not yet checked"
 06306526,services,industry code,"Industry code 61900 only, not yet checked"
 SC196409,services,industry code,"Industry code 61900 only, not yet checked"
 09187893,fibre,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
@@ -290,6 +285,7 @@ SC204560,datacentres,industry code,"Industry code 63110 only, not yet checked"
 09171042,services,industry code,"Industry code 61900 only, not yet checked"
 01716891,datacentres,industry code,"Industry code 63110 only, not yet checked"
 11375501,datacentres,industry code,"Industry code 63110 only, not yet checked"
+11190451,services,industry code,"Industry code 61900 only, not yet checked"
 06518181,datacentres,industry code,"Industry code 63110 only, not yet checked"
 01349036,fibre,industry code,"Industry code 61100 only, not yet checked"
 10527034,build,industry code,"Industry code 42220 only, not yet checked"
@@ -436,6 +432,7 @@ SC299625,services,industry code,"Industry code 61900 only, not yet checked"
 03320855,build,industry code,"Industry code 42220 only, not yet checked"
 07705237,datacentres,industry code,"Industry code 63110 only, not yet checked"
 05035404,build,industry code,"Industry code 42220 only, not yet checked"
+14377755,build,industry code,"Industry code 42220 only, not yet checked"
 03802179,datacentres,industry code,"Industry code 63110 only, not yet checked"
 05783558,datacentres,industry code,"Industry code 63110 only, not yet checked"
 06695717,datacentres,industry code,"Industry code 63110 only, not yet checked"
@@ -468,6 +465,7 @@ SC328796,build,industry code,"Industry code 42220 only, not yet checked"
 01919399,datacentres,industry code,"Industry code 63110 only, not yet checked"
 10305880,build,industry code,"Industry code 42220 only, not yet checked"
 07192131,services,industry code,"Industry code 61900 only, not yet checked"
+SC702923,fibre,industry code,"Industry code 61100 only, not yet checked"
 05134871,datacentres,industry code,"Industry code 63110 only, not yet checked"
 04068222,services,industry code,"Industry code 61900 only, not yet checked"
 05608752,wireless,industry code,"Industry code 61200 only, not yet checked"
@@ -567,6 +565,7 @@ SC208148,datacentres,industry code,"Industry code 63110 only, not yet checked"
 05083841,services,industry code,"Industry code 61900 only, not yet checked"
 03276974,datacentres,industry code,"Industry code 63110 only, not yet checked"
 11347230,services,industry code,"Industry code 61900 only, not yet checked"
+14972810,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 08409950,services,industry code,"Industry code 61900 only, not yet checked"
 04306881,services,industry code,"Industry code 61900 only, not yet checked"
 04239332,datacentres,industry code,"Industry code 63110 only, not yet checked"
@@ -613,6 +612,7 @@ SC208148,datacentres,industry code,"Industry code 63110 only, not yet checked"
 03829923,wireless,industry code,"Industry code 61200 only, not yet checked"
 04884651,datacentres,industry code,"Industry code 63110 only, not yet checked"
 11952362,datacentres,industry code,"Industry code 63110 only, not yet checked"
+15189949,services,industry code,"Industry code 61900 only, not yet checked"
 06611280,datacentres,industry code,"Industry code 63110 only, not yet checked"
 14186908,build,industry code,"Industry code 42220 only, not yet checked"
 00599145,wireless,industry code,"Industry code 61200 only, not yet checked"

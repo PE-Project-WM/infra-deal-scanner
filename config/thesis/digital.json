@@ -231,5 +231,9 @@
   "adjacent": -0.1,
   "high": 0.85,
   "medium": 0.6
+ },
+ "sector_measures": {
+  "_rule": "Sector measures (homes passed, take-up, sites, MW, order book) are shown but not scored. A measure starts to count in the score only when it has been collected from filings or company disclosures for at least 80% of the ranked companies of that business type in the sector, so that no company is marked down for a figure nobody collected. Until then it informs the price check and the company page only.",
+  "scored": []
  }
 }

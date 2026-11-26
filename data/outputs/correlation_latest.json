@@ -428,13 +428,13 @@
  "deal_type_counts": {
   "ranked": {
    "Between buckets": 23,
-   "Under pressure": 23,
+   "Under pressure": 22,
    "High-growth": 19,
    "Steady compounder": 15,
    "Numbers to check": 3
   },
   "watchlist": {
-   "Under pressure": 17,
+   "Under pressure": 16,
    "Growth infrastructure": 13,
    "Numbers to check": 1
   }

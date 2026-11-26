@@ -64,6 +64,19 @@ def walk_away(e0, sales0, debt, g, capex_pct, wc=None, hurdle=None):
             hi = mid
     return lo
 
+def irr_of(price, cash, years):
+    """Yearly return from paying price for a flat cash flow over a number of years (bisection)."""
+    if not years or price <= 0:
+        return None
+    lo, hi = -0.5, 1.0
+    for _ in range(80):
+        mid = (lo + hi) / 2
+        if sum(cash / (1 + mid) ** t for t in range(1, years + 1)) > price:
+            lo = mid
+        else:
+            hi = mid
+    return lo
+
 rows = []
 for _, r in R.head(TOP_N).iterrows():
     num, e0, sales0 = r['CompanyNumber'], float(r['ebitda']), float(r['turnover'])
@@ -92,7 +105,15 @@ for _, r in R.head(TOP_N).iterrows():
         rows.append({'rank': int(r['rank']), 'CompanyName': r['CompanyName'], 'CompanyNumber': num, 'ebitda': e0, 'sales': sales0,
                      'basis': T['label'], 'business_type': kind, 'hurdle_irr': hurdle, 'mult_low': pv(0.10) / e0, 'mult_mid': pv(0.09) / e0, 'mult_high': pv(0.08) / e0,
                      'ev_low': pv(0.10), 'ev_mid': pv(0.09), 'ev_high': pv(0.08), 'verdict': f'Valued on the cash left in the contract ({left} years at 8-10%), not a multiple',
+                     'hurdle_irr': 0.09, 'walk_away_mult': pv(0.10) / e0 if left else 0.0, 'walk_away_ev': pv(0.10),
+                     'irr_mid': 0.09, 'moic_mid': (cash * left / pv(0.09)) if left else 0.0,
+                     'irr_exit_plus1': 0.09, 'irr_exit_minus1': 0.09,
+                     'irr_ebitda_plus10': irr_of(pv(0.09), cash * 1.1, left), 'irr_ebitda_minus10': irr_of(pv(0.09), cash * 0.9, left),
                      'net_debt': net_debt, 'debt_parts': debt_parts, 'currency': cur, 'fx_to_gbp': fx,
+                     'net_debt_to_ebitda': None if net_debt is None else net_debt / e0, 'accounts_year_end': None if b is None else b['year_end'],
+                     'cash_gbp': None if b is None else float(b['cash'] or 0) * fx, 'cash_conversion': conv, 'fcf_conversion': fcf_conv,
+                     'walk_away_equity': None if net_debt is None else pv(0.10) - net_debt, 'small_discount': False, 'debt_assumed': 0.0,
+                     'growth_assumed': 0.0, 'capex_pct': 0.0,
                      'equity_low': None if net_debt is None else pv(0.10) - net_debt, 'equity_high': None if net_debt is None else pv(0.08) - net_debt,
                      'balance_note': None if b is None else b['note'],
                      'notes': '; '.join(n['note'] for n in V.get('market_notes', []) if num in n['companies'])})

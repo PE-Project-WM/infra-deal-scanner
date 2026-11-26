@@ -415,7 +415,7 @@
    "number": "00714431",
    "kind": "down",
    "from": 77,
-   "to": 79,
+   "to": 78,
    "score_from": 38.8,
    "score_to": 40.9,
    "reasons": [
@@ -427,9 +427,9 @@
   {
    "company": "Avoira",
    "number": "01763970",
-   "kind": "up",
+   "kind": "same",
    "from": 68,
-   "to": 67,
+   "to": 68,
    "score_from": 47.9,
    "score_to": 50.7,
    "reasons": [
@@ -443,7 +443,7 @@
    "number": "01938625",
    "kind": "up",
    "from": 74,
-   "to": 68,
+   "to": 69,
    "score_from": 41.1,
    "score_to": 50.4,
    "reasons": [
@@ -471,7 +471,7 @@
    "number": "02296733",
    "kind": "down",
    "from": 56,
-   "to": 69,
+   "to": 70,
    "score_from": 57.2,
    "score_to": 50.3,
    "reasons": [
@@ -530,9 +530,9 @@
   {
    "company": "BDR Voice & Data Solutions",
    "number": "02652955",
-   "kind": "same",
+   "kind": "down",
    "from": 64,
-   "to": 64,
+   "to": 65,
    "score_from": 50.0,
    "score_to": 54.4,
    "reasons": [
@@ -560,7 +560,7 @@
    "number": "02697046",
    "kind": "up",
    "from": 82,
-   "to": 74,
+   "to": 73,
    "score_from": 28.2,
    "score_to": 45.8,
    "reasons": [
@@ -588,7 +588,7 @@
    "number": "02797895",
    "kind": "down",
    "from": 39,
-   "to": 62,
+   "to": 63,
    "score_from": 65.3,
    "score_to": 54.7,
    "reasons": [
@@ -602,7 +602,7 @@
    "number": "02804354",
    "kind": "up",
    "from": 60,
-   "to": 58,
+   "to": 59,
    "score_from": 54.6,
    "score_to": 56.1,
    "reasons": [
@@ -637,7 +637,7 @@
    "number": "02893478",
    "kind": "up",
    "from": 79,
-   "to": 78,
+   "to": 77,
    "score_from": 36.5,
    "score_to": 41.6,
    "reasons": [
@@ -651,7 +651,7 @@
    "number": "02946493",
    "kind": "down",
    "from": 72,
-   "to": 83,
+   "to": 82,
    "score_from": 43.5,
    "score_to": 35.0,
    "reasons": [
@@ -761,9 +761,9 @@
    "number": "03526932",
    "kind": "new",
    "from": null,
-   "to": 72,
+   "to": 58,
    "score_from": null,
-   "score_to": 48.6,
+   "score_to": 56.6,
    "reasons": [
     "entered the ranking (ADJACENT fit, medium accessibility)"
    ],
@@ -802,7 +802,7 @@
    "number": "03868503",
    "kind": "down",
    "from": 67,
-   "to": 80,
+   "to": 79,
    "score_from": 48.4,
    "score_to": 40.4,
    "reasons": [
@@ -929,7 +929,7 @@
    "number": "04380546",
    "kind": "down",
    "from": 65,
-   "to": 76,
+   "to": 75,
    "score_from": 49.8,
    "score_to": 43.0,
    "reasons": [
@@ -943,7 +943,7 @@
    "number": "04503928",
    "kind": "up",
    "from": 81,
-   "to": 75,
+   "to": 74,
    "score_from": 31.9,
    "score_to": 44.3,
    "reasons": [
@@ -969,9 +969,9 @@
   {
    "company": "Pageone Communications",
    "number": "04560277",
-   "kind": "same",
+   "kind": "down",
    "from": 59,
-   "to": 59,
+   "to": 60,
    "score_from": 55.4,
    "score_to": 55.7,
    "reasons": [
@@ -985,7 +985,7 @@
    "number": "04632756",
    "kind": "down",
    "from": 51,
-   "to": 70,
+   "to": 71,
    "score_from": 59.5,
    "score_to": 50.0,
    "reasons": [
@@ -1119,7 +1119,7 @@
    "number": "05942331",
    "kind": "up",
    "from": 80,
-   "to": 77,
+   "to": 76,
    "score_from": 34.6,
    "score_to": 42.7,
    "reasons": [
@@ -1133,7 +1133,7 @@
    "number": "05954905",
    "kind": "up",
    "from": 50,
-   "to": 39,
+   "to": 38,
    "score_from": 60.3,
    "score_to": 69.8,
    "reasons": [
@@ -1194,7 +1194,7 @@
    "number": "06521296",
    "kind": "up",
    "from": 71,
-   "to": 60,
+   "to": 61,
    "score_from": 44.8,
    "score_to": 55.4,
    "reasons": [
@@ -1236,7 +1236,7 @@
    "number": "07020016",
    "kind": "down",
    "from": 61,
-   "to": 63,
+   "to": 64,
    "score_from": 52.6,
    "score_to": 54.6,
    "reasons": [
@@ -1383,7 +1383,7 @@
    "number": "09180490",
    "kind": "down",
    "from": 76,
-   "to": 81,
+   "to": 80,
    "score_from": 39.0,
    "score_to": 38.5,
    "reasons": [
@@ -1411,7 +1411,7 @@
    "number": "09585068",
    "kind": "down",
    "from": 36,
-   "to": 42,
+   "to": 43,
    "score_from": 67.5,
    "score_to": 69.4,
    "reasons": [
@@ -1456,7 +1456,7 @@
    "number": "10174559",
    "kind": "down",
    "from": 32,
-   "to": 43,
+   "to": 42,
    "score_from": 69.3,
    "score_to": 69.4,
    "reasons": [
@@ -1514,7 +1514,7 @@
    "number": "11641366",
    "kind": "new",
    "from": null,
-   "to": 61,
+   "to": 62,
    "score_from": null,
    "score_to": 55.4,
    "reasons": [
@@ -1525,9 +1525,9 @@
   {
    "company": "Nets International",
    "number": "12421328",
-   "kind": "same",
+   "kind": "down",
    "from": 38,
-   "to": 38,
+   "to": 39,
    "score_from": 66.8,
    "score_to": 69.8,
    "reasons": [
@@ -1582,25 +1582,12 @@
    "number": "14354114",
    "kind": "up",
    "from": 75,
-   "to": 71,
+   "to": 72,
    "score_from": 40.5,
    "score_to": 48.9,
    "reasons": [
     "margin 6% \u2192 6%",
     "scoring method changed (v3.1 to v4)"
-   ],
-   "events": []
-  },
-  {
-   "company": "TFP Telecoms",
-   "number": "14972810",
-   "kind": "new",
-   "from": null,
-   "to": 73,
-   "score_from": null,
-   "score_to": 46.8,
-   "reasons": [
-    "entered the ranking (ADJACENT fit, medium accessibility)"
    ],
    "events": []
   },
@@ -1623,7 +1610,7 @@
    "number": "NI614374",
    "kind": "up",
    "from": 78,
-   "to": 66,
+   "to": 67,
    "score_from": 38.3,
    "score_to": 51.6,
    "reasons": [
@@ -1665,7 +1652,7 @@
    "number": "SC211701",
    "kind": "down",
    "from": 63,
-   "to": 82,
+   "to": 81,
    "score_from": 50.7,
    "score_to": 38.4,
    "reasons": [
@@ -1693,7 +1680,7 @@
    "number": "SC646446",
    "kind": "up",
    "from": 69,
-   "to": 65,
+   "to": 66,
    "score_from": 47.2,
    "score_to": 53.2,
    "reasons": [
@@ -1943,5 +1930,5 @@
    "detail": "Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)"
   }
  ],
- "ranked": 83
+ "ranked": 82
 }

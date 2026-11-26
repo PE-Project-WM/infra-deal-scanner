@@ -1635,47 +1635,8 @@
   "revenue_mix_source": "I.P. Integration Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": 0.0027713877364784
  },
- "12421328": {
-  "rank": 38,
-  "confidence": "High",
-  "confidence_reasons": "figures checked against the filing",
-  "why": [
-   "Squarely inside the investment case",
-   "Sales up 91% a year over 3 years"
-  ],
-  "checks": [
-   "Sales up 91% a year: check how much came from acquisitions or one-off contracts",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
-  ],
-  "history": [
-   {
-    "year": 2023,
-    "sales": 4403562.0,
-    "margin": 0.0999702059378294,
-    "basis": "Operating profit"
-   },
-   {
-    "year": 2024,
-    "sales": 15778372.0,
-    "margin": 0.12323831634848,
-    "basis": "Operating profit"
-   },
-   {
-    "year": 2025,
-    "sales": 15983404.0,
-    "margin": 0.071276556608342,
-    "basis": "Operating profit"
-   }
-  ],
-  "ebitda": 1339695.0,
-  "interest_cover": null,
-  "revenue_mix": "Strategic report: installation of wired networks plus hardware and professional services; some multi-year revenue streams",
-  "revenue_mix_source": "Nets International Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
- },
  "05954905": {
-  "rank": 39,
+  "rank": 38,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1717,6 +1678,45 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: recurring revenue 70% of total (2024: 63%)",
   "revenue_mix_source": "Natilik Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "12421328": {
+  "rank": 39,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "Sales up 91% a year over 3 years"
+  ],
+  "checks": [
+   "Sales up 91% a year: check how much came from acquisitions or one-off contracts",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 4403562.0,
+    "margin": 0.0999702059378294,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 15778372.0,
+    "margin": 0.12323831634848,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 15983404.0,
+    "margin": 0.071276556608342,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1339695.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: installation of wired networks plus hardware and professional services; some multi-year revenue streams",
+  "revenue_mix_source": "Nets International Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
  "03368473": {
@@ -1794,43 +1794,8 @@
   "revenue_mix_source": "Radiocoms Systems Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": 0.0241307954741418
  },
- "09585068": {
-  "rank": 42,
-  "confidence": "Medium",
-  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
-  "why": [
-   "EBITDA of \u00a32.2m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 53% last year"
-  ],
-  "checks": [
-   "Owner not yet confirmed",
-   "Sales up 53% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
-  ],
-  "history": [
-   {
-    "year": 2024,
-    "sales": 20880594.0,
-    "margin": 0.1382104359674825,
-    "basis": "Operating profit"
-   },
-   {
-    "year": 2025,
-    "sales": 32022932.0,
-    "margin": 0.0662493365691811,
-    "basis": "Operating profit"
-   }
-  ],
-  "ebitda": 2220943.0,
-  "interest_cover": 282.5273671594087,
-  "revenue_mix": "Strategic report: mission-critical services that generate recurring revenue; mix shifting towards hardware and cloud resale after acquisitions",
-  "revenue_mix_source": "Croft Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0045135467682329
- },
  "10174559": {
-  "rank": 43,
+  "rank": 42,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
@@ -1868,6 +1833,41 @@
   "revenue_mix": "Turnover note: installations \u00a321.7m and civils and remediation \u00a32.5m: all project work",
   "revenue_mix_source": "Nano Fibre Uk Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": 0.0117694958743236
+ },
+ "09585068": {
+  "rank": 43,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a32.2m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 53% last year"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Sales up 53% in one year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 20880594.0,
+    "margin": 0.1382104359674825,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 32022932.0,
+    "margin": 0.0662493365691811,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2220943.0,
+  "interest_cover": 282.5273671594087,
+  "revenue_mix": "Strategic report: mission-critical services that generate recurring revenue; mix shifting towards hardware and cloud resale after acquisitions",
+  "revenue_mix_source": "Croft Communications Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0045135467682329
  },
  "06968249": {
   "rank": 44,
@@ -2491,8 +2491,46 @@
   "revenue_mix_source": "Ground Control Technologies Uk Ltd accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
- "02804354": {
+ "03526932": {
   "rank": 58,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Sales up 14% a year over 3 years"
+  ],
+  "checks": [
+   "Figures were read by OCR and checked against the filing: Turnover \u00a329,124,437, cost of sales and gross profit add up; operating profit \u00a31,078,609; cash \u00a3648,128 and net assets \u00a32,287,626 (group) match the text",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 22278504.0,
+    "margin": 0.0203992153153551,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 27482323.0,
+    "margin": 0.0373001947470015,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 29124437.0,
+    "margin": 0.0370345013021195,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1121727.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null
+ },
+ "02804354": {
+  "rank": 59,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing net assets; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2537,7 +2575,7 @@
   "capex_share": null
  },
  "04560277": {
-  "rank": 59,
+  "rank": 60,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
   "why": [],
@@ -2581,7 +2619,7 @@
   "capex_share": null
  },
  "06521296": {
-  "rank": 60,
+  "rank": 61,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2620,7 +2658,7 @@
   "capex_share": null
  },
  "11641366": {
-  "rank": 61,
+  "rank": 62,
   "confidence": "High",
   "confidence_reasons": "figures confirmed by the next filing; recurring revenue estimated",
   "why": [
@@ -2659,7 +2697,7 @@
   "capex_share": null
  },
  "02797895": {
-  "rank": 62,
+  "rank": 63,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2699,7 +2737,7 @@
   "capex_share": null
  },
  "07020016": {
-  "rank": 63,
+  "rank": 64,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2737,7 +2775,7 @@
   "capex_share": 0.0008344025371953
  },
  "02652955": {
-  "rank": 64,
+  "rank": 65,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2776,7 +2814,7 @@
   "capex_share": 0.0054546846215569
  },
  "SC646446": {
-  "rank": 65,
+  "rank": 66,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2821,7 +2859,7 @@
   "capex_share": null
  },
  "NI614374": {
-  "rank": 66,
+  "rank": 67,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [
@@ -2859,7 +2897,7 @@
   "capex_share": 0.0101269689760807
  },
  "01763970": {
-  "rank": 67,
+  "rank": 68,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2903,7 +2941,7 @@
   "capex_share": 0.0132885925504182
  },
  "01938625": {
-  "rank": 68,
+  "rank": 69,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2948,7 +2986,7 @@
   "capex_share": null
  },
  "02296733": {
-  "rank": 69,
+  "rank": 70,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing net assets; only adjacent to the thesis",
   "why": [
@@ -2994,7 +3032,7 @@
   "capex_share": null
  },
  "04632756": {
-  "rank": 70,
+  "rank": 71,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3033,7 +3071,7 @@
   "capex_share": 0.0074422229150455
  },
  "14354114": {
-  "rank": 71,
+  "rank": 72,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -3067,72 +3105,8 @@
   "revenue_mix_source": "Talk Straight Holdings Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
- "03526932": {
-  "rank": 72,
-  "confidence": "Medium",
-  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover \u00a329,124,437, cost of sales and gross profit add up; operating profit \u00a31,078,609; cash \u00a3648,128 and net assets \u00a32,287,626 (group) match the text",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [
-   {
-    "year": 2024,
-    "sales": 27482323.0,
-    "margin": 0.0373001947470015,
-    "basis": "Operating profit"
-   },
-   {
-    "year": 2025,
-    "sales": 29124437.0,
-    "margin": 0.0370345013021195,
-    "basis": "Operating profit"
-   }
-  ],
-  "ebitda": 1121727.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "14972810": {
-  "rank": 73,
-  "confidence": "Low",
-  "confidence_reasons": "figures read from the accounts text, not yet checked; missing cash; two years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a36.0m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales fell 37% last year: find out why",
-   "Figures were read from the text of the accounts: check them against the filing",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [
-   {
-    "year": 2024,
-    "sales": 123405000.0,
-    "margin": null,
-    "basis": "Profit before tax"
-   },
-   {
-    "year": 2025,
-    "sales": 78040000.0,
-    "margin": -0.04381086622245,
-    "basis": "Operating profit"
-   }
-  ],
-  "ebitda": 5991000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.0053582638090948
- },
  "02697046": {
-  "rank": 74,
+  "rank": 73,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -3164,7 +3138,7 @@
   "capex_share": 0.0008797264410011
  },
  "04503928": {
-  "rank": 75,
+  "rank": 74,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3204,7 +3178,7 @@
   "capex_share": 0.000587804788349
  },
  "04380546": {
-  "rank": 76,
+  "rank": 75,
   "confidence": "Medium",
   "confidence_reasons": "EBITDA estimated (no D&A found); only adjacent to the thesis",
   "why": [],
@@ -3248,7 +3222,7 @@
   "capex_share": 0.0119451010654305
  },
  "05942331": {
-  "rank": 77,
+  "rank": 76,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3293,7 +3267,7 @@
   "capex_share": null
  },
  "02893478": {
-  "rank": 78,
+  "rank": 77,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
@@ -3340,7 +3314,7 @@
   "capex_share": 0.0081168289143403
  },
  "00714431": {
-  "rank": 79,
+  "rank": 78,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [],
@@ -3381,7 +3355,7 @@
   "capex_share": 0.0033011568754206
  },
  "03868503": {
-  "rank": 80,
+  "rank": 79,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3421,7 +3395,7 @@
   "capex_share": 0.0209477883681017
  },
  "09180490": {
-  "rank": 81,
+  "rank": 80,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [],
@@ -3463,7 +3437,7 @@
   "capex_share": 0.0008199275148044
  },
  "SC211701": {
-  "rank": 82,
+  "rank": 81,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -3510,7 +3484,7 @@
   "capex_share": null
  },
  "02946493": {
-  "rank": 83,
+  "rank": 82,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [],

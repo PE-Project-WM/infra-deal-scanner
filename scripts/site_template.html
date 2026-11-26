@@ -554,7 +554,7 @@ body{background:var(--surface)}
 <section class="view" data-view="method" hidden aria-labelledby="h-method">
   <header class="vhead"><h1 id="h-method">Methodology</h1><p>Every filter comes from a written investment case, and every company removed is logged with a reason.</p></header>
 <div class="block">  <h2>What the score is made of</h2>
-  <p class="sub text">The score adds up five things, each worth a set number of points. How reliable the figures are is shown separately as a confidence rating, so a company is not ranked higher just because its accounts are easier to read.</p>
+  <p class="sub text">The score adds up six things, each worth a set number of points. How reliable the figures are is shown separately as a confidence rating, so a company is not ranked higher just because its accounts are easier to read.</p>
   <dl class="gloss criteria" id="gloss-score"></dl>
 </div>
 <div class="block">  <h2>How the ten were found</h2>
@@ -565,11 +565,11 @@ body{background:var(--surface)}
     <li><b>Pull the register</b>All UK companies in the sector's industry codes.</li>
     <li><b>Read the accounts</b>Sales, profit, cash and owners from each filing, including scanned accounts.</li>
     <li><b>Check and clean</b>Owners traced, figures checked against filings, off-topic firms removed.</li>
-    <li><b>Score and explain</b>Five weighted criteria, confidence, price and deal size shown separately.</li>
+    <li><b>Score and explain</b>Six weighted criteria, confidence, price and deal size shown separately.</li>
   </ol>
 </div>
-<div class="block">  <h2>Limits of this screen</h2>
-  <p class="sub text">The screen points to where to look and gives a first view on price. It is not a valuation and not advice.</p>
+<div class="block">  <h2>Limits of this ranking</h2>
+  <p class="sub text">The ranking points to where to look and gives a first view on price. It is not a valuation and not advice.</p>
   <ul class="limits">
     <li><b>Price check is a first pass</b>Each business type has its own price range (services 6–8x EBITDA, contractors 5–7x, network owners 12–18x with a 12% return target, project companies on the cash left in their contract), taken from listed peers and deal averages rather than deals in each company's niche. Debt held by owners' holding companies is not visible.</li>
     <li><b>Deal size is an estimate</b>EBITDA times the range for the business type, or a public deal value where one exists.</li>
@@ -632,7 +632,7 @@ document.getElementById('asof').textContent = 'Updated ' + fmtDate(U.date);
     if (/unlikely to be sold/i.test(notes)) { ease = 'none'; easeWhy = 'Bought recently, so unlikely to be sold for several years'; }
     const v = VAL[t.rank];
     const price = !v ? 'half' : v.walk_away_mult >= v.mult_mid ? 'full' : v.walk_away_mult >= v.mult_low ? 'half' : 'none';
-    const priceWhy = !v ? 'No price check' : `Most a buyer could pay for 20% a year: ${v.walk_away_mult.toFixed(1)}x, against a ${v.mult_low.toFixed(1)}–${v.mult_high.toFixed(1)}x price range`;
+    const priceWhy = !v ? 'No price check' : `Most a buyer could pay for ${Math.round((v.hurdle_irr || 0.2) * 100)}% a year: ${v.walk_away_mult.toFixed(1)}x, against a ${v.mult_low.toFixed(1)}–${v.mult_high.toFixed(1)}x price range`;
     const fig = {'High':'full', 'Medium':'half', 'Low':'none'}[t.confidence] || 'half';
     const figWhy = `${t.confidence} confidence${P.confidence_reasons ? ': ' + P.confidence_reasons : ''}`;
     const marks = [[size, z || 'Not estimated'], [ease, easeWhy], [price, priceWhy], [fig, figWhy]];
