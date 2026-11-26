@@ -1,0 +1,6 @@
+CompanyNumber,CompanyName,business_type,contract_end_year,reason
+03921568,WIFINITY LIMITED,network_owner,,"Owns and runs the wifi networks it sells access to (military bases, student housing, holiday parks); registered as wireless"
+03912906,ALERT COMMUNICATIONS LIMITED,project_company,2033,Single Ministry of Defence PFI contract ending in 2033: the company ends with the contract
+11065412,CUDO VENTURES LTD,recurring_services,,Rents out AI compute (GPU cloud) in others' data centres: a service on top of the network
+12556681,NEXGEN CLOUD LIMITED,recurring_services,,GPU cloud service: rents compute rather than owning data-centre sites
+05306504,123-REG LIMITED,recurring_services,,Domains and web hosting: a subscription service

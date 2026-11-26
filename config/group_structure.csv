@@ -1,0 +1,53 @@
+CompanyNumber,CompanyName,action,group_number,group_name,reason
+02578478,X-ON HEALTH LIMITED,group,13567332,SAINT TOPCO LIMITED,"X-on is a subsidiary of Southern Communications Group, whose group accounts are filed by Saint Topco (register chain: Southern Communications Holdings > Southern Communications Investments > Southern Communications Group > Saint Bidco)"
+05657023,TALK STRAIGHT LIMITED,group,14354114,TALK STRAIGHT HOLDINGS LIMITED,Talk Straight Holdings files the group accounts that include Talk Straight Ltd
+10389581,ONESTREAM LIMITED,group,06521296,RIDOWN CAPITAL LIMITED,Onestream is owned by Ridown Capital (register); Ridown files the group accounts
+02657590,SPITFIRE NETWORK SERVICES LIMITED,group,11641366,SPITFIRE TECHNOLOGY HOLDINGS LIMITED,Spitfire Technology Holdings files the group accounts for the same trading business (identical turnover)
+07326283,MMX COMMUNICATIONS SERVICES LIMITED,group,05479601,TXO SYSTEMS LTD,MMX is owned by TXO Systems (register)
+NI612703,FIBRUS NETWORKS LTD,group,NI655901,FIBRUS LTD,Fibrus Networks is owned by Fibrus Ltd (register)
+NI666759,VIBEROPTIX OPCO LTD,group,NI655901,FIBRUS LTD,Viberoptix Opco is owned by Fibrus Ltd (register)
+05238375,INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED,larger_group,,Whistler Bidco group (WHP Telecoms),Sister company of WHP Telecoms (about £145m turnover) and Sitec under Whistler Bidco; the group is the sale perimeter and its accounts are not in the universe
+06378151,SITEC INFRASTRUCTURE SERVICES LTD,larger_group,,Whistler Bidco group (WHP Telecoms),Sister company of WHP Telecoms under Whistler Bidco
+06472696,4COM NETWORK SERVICES LIMITED,larger_group,,O2 Daisy (Virgin Media O2),"Owned via 4com Group > Daisy Midco > O2 Business Holdings (register): part of O2 Daisy, about £1.4bn revenue"
+08380630,PIONEER BUSINESS SYSTEMS LIMITED,larger_group,,O2 Daisy (Virgin Media O2),Owned via 4com Group > Daisy Midco > O2 Business Holdings (register)
+03958887,AVANTI BROADBAND LIMITED,larger_group,,Avanti Communications group,One of several Avanti subsidiaries under Avanti Communications Infrastructure (register); the satellite operator is run as one group and is not sold in parts
+05316540,AVANTI SPACE LIMITED,larger_group,,Avanti Communications group,One of several Avanti subsidiaries under Avanti Communications Infrastructure (register)
+07072502,AVANTI HYLAS 2 LIMITED,larger_group,,Avanti Communications group,One of several Avanti subsidiaries (register)
+SC275629,IOMART MANAGED SERVICES LIMITED,larger_group,,iomart Group plc (AIM-listed),Subsidiary of a listed group
+03405586,EASYSPACE LIMITED,larger_group,,iomart Group plc (AIM-listed),Subsidiary of a listed group
+04754200,SYSGROUP TRADING LIMITED,larger_group,,SysGroup plc (AIM-listed),Subsidiary of a listed group
+12008248,NETOMNIA LIMITED,larger_group,,Substantial Group (nexfibre deal),Part of Substantial Group with YouFibre and Brsk; nexfibre agreed to buy the group for about £2bn (Feb 2026)
+12359292,YOUFIBRE LIMITED,larger_group,,Substantial Group (nexfibre deal),Part of Substantial Group with Netomnia and Brsk
+12792126,BRSK LIMITED,larger_group,,Substantial Group (nexfibre deal),Part of Substantial Group with Netomnia and YouFibre
+09642938,EVERO ENERGY HOLDINGS LIMITED,group,09279808,EVERO ENERGY GROUP LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+07579363,ROC TECHNOLOGIES LIMITED,group,10963005,ROC TRANSFORMATION (HOLDINGS) LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+02153172,APPLIED SATELLITE TECHNOLOGY LIMITED,group,13692788,APPLIED SATELLITE GROUP LTD,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+03902543,XLN TELECOM LTD.,group,04145329,DAISY COMMUNICATIONS LTD.,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+04215303,LINE MANAGEMENT GROUP LIMITED,group,13803408,LMGIQ LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+02267331,BISTECH PLC,group,06797181,BISTECH GROUP PLC,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+07488363,CITYFIBRE HOLDINGS LIMITED,group,08772997,CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+SC440089,TERRASTAR GNSS LIMITED,group,SC359548,VERIPOS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+03450786,FOUNDEVER GB LIMITED,group,02756274,FOUNDEVER EUROPE LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+08632740,MONTY UK GLOBAL LIMITED,group,12980683,MONTY MOBILE LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+03317871,KCOM HOLDINGS LIMITED,group,02150618,KCOM GROUP LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+05653869,CONTENT GURU LIMITED,group,09228224,REDWOOD TECHNOLOGIES GROUP LTD,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+04416972,HENEGHAN & SONS LIMITED,group,09956206,HENEGHAN HOLDINGS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+10609040,CONVERGENCE HOLDINGS LIMITED,group,04975343,CONVERGENCE GROUP (WIRELESS) NETWORKS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+07155824,BACKOFFICE ASSOCIATES LIMITED,group,06518181,BACKOFFICE ASSOCIATES EUROPE (UK) LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+02817863,REDWOOD TECHNOLOGIES LIMITED,group,09228224,REDWOOD TECHNOLOGIES GROUP LTD,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+03383285,DYNAMIC MOBILE BILLING LIMITED,group,05882576,OXYGEN8 COMMUNICATIONS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+06147265,GLOBAL RADIODATA COMMUNICATIONS LTD.,group,03692609,GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+04058821,ABZORB SYSTEMS LTD,group,10779280,ABZORB GROUP LTD,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+04774262,RETN LTD,group,14786486,RETN NETWORKS LTD,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+05628358,NANCLACH LIMITED,group,10361590,BREEZE BIDCO (TNC) LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+06586002,CITYFIBRE METRO NETWORKS LIMITED,group,08772997,CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+13540747,ASSET SERVICES GROUP LIMITED,group,15189949,PROJECT PENNY LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+01452919,MIDLANDS RADIOTELEPHONE CENTRE LIMITED,group,10902222,THE BADGER GROUP LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+04112330,VOICE MOBILE LIMITED,group,04145329,DAISY COMMUNICATIONS LTD.,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+09759465,CITYFIBRE LIMITED,group,08772997,CITYFIBRE INFRASTRUCTURE HOLDINGS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+11347230,TALKTALK BUSINESS DIRECT LIMITED,group,14972810,TFP TELECOMS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+03378837,PROCO PRINT LIMITED,group,15096985,PRECISION PROCO (HOLDINGS) LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+05618062,TARGET SERVICING LIMITED,group,01208137,TARGET GROUP LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+07500445,SONOVATE LIMITED,group,13178930,SONOVATE INTERNATIONAL HOLDINGS LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+12261508,EVERO ENERGY SERVICES LIMITED,group,09279808,EVERO ENERGY GROUP LIMITED,"Owned by the group company on the register, or the same business filed twice (found by the online cleaning run, 25 Nov 2026)"
+11051348,TOOB LIMITED,group,15292311,TT2026 LIMITED,"Same turnover as TT2026, the holding company that files the group accounts for Toob"

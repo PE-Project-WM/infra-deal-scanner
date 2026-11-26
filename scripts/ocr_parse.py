@@ -102,6 +102,8 @@ def parse(text):
         v = first_line(page, key, k > 1)
         if v:
             out[key] = v[0] * k
+            if key in ('operating_profit', 'profit_before_tax') and len(v) > 1:
+                out[key + '_prior'] = v[1] * k   # the comparative column (used for multi-year history)
     gp, cos = out.pop('gross_profit', None), out.pop('cost_of_sales', None)
     if gp is not None and cos is not None:
         implied = gp + abs(cos)   # turnover = gross profit + cost of sales: catches a misread digit
@@ -170,30 +172,34 @@ def checks(o):
         o['da_total'] = None
     return ''
 
-rows = []
-for path in sorted(glob.glob(f'{TXT}/*.txt')):
-    num, filed = os.path.basename(path)[:-4].rsplit('_', 1)
-    text = open(path, errors='ignore').read()
-    o = parse(text)
-    o.update({'CompanyNumber': num, 'filed': filed})
-    o['currency'] = o.pop('page_currency', None) or currency_of(text)
-    if 'problem' not in o:
-        o['problem'] = checks(o)
-    op, da = o.get('operating_profit'), o.get('da_total')
-    if op is not None and da:
-        o['ebitda'], o['ebitda_basis'] = op + da, 'Operating profit + D&A (OCR)'
-    elif op is not None:
-        o['ebitda'], o['ebitda_basis'] = op, 'ESTIMATE: operating profit only (OCR, no D&A found)'
-    o['figures_source'] = 'OCR, check'
-    rows.append(o)
+def main():
+    rows = []
+    for path in sorted(glob.glob(f'{TXT}/*.txt')):
+        num, filed = os.path.basename(path)[:-4].rsplit('_', 1)
+        text = open(path, errors='ignore').read()
+        o = parse(text)
+        o.update({'CompanyNumber': num, 'filed': filed})
+        o['currency'] = o.pop('page_currency', None) or currency_of(text)
+        if 'problem' not in o:
+            o['problem'] = checks(o)
+        op, da = o.get('operating_profit'), o.get('da_total')
+        if op is not None and da:
+            o['ebitda'], o['ebitda_basis'] = op + da, 'Operating profit + D&A (OCR)'
+        elif op is not None:
+            o['ebitda'], o['ebitda_basis'] = op, 'ESTIMATE: operating profit only (OCR, no D&A found)'
+        o['figures_source'] = 'OCR, check'
+        rows.append(o)
 
-R = pd.DataFrame(rows)
-cols = ['CompanyNumber', 'filed', 'period_text', 'currency', 'unit', 'turnover', 'turnover_prior', 'operating_profit',
-        'profit_before_tax', 'depreciation', 'amortisation', 'da_total', 'ebitda', 'ebitda_basis', 'cash', 'net_assets',
-        'da_source', 'figures_source', 'fixed', 'problem']
-R = R.reindex(columns=cols)
-R.to_csv(f'{ROOT}/data/ocr/ocr_financials.csv', index=False)
-ok = R[R['problem'].fillna('') == '']
-print(f'Read {len(R)} scanned filings: turnover found for {len(ok)}, operating profit for {ok["operating_profit"].notna().sum()}, '
-      f'D&A for {ok["da_total"].notna().sum()}, cash for {ok["cash"].notna().sum()}')
-print(R['problem'].fillna('').value_counts().to_string())
+    R = pd.DataFrame(rows)
+    cols = ['CompanyNumber', 'filed', 'period_text', 'currency', 'unit', 'turnover', 'turnover_prior', 'operating_profit',
+            'profit_before_tax', 'depreciation', 'amortisation', 'da_total', 'ebitda', 'ebitda_basis', 'cash', 'net_assets',
+            'da_source', 'figures_source', 'fixed', 'problem']
+    R = R.reindex(columns=cols)
+    R.to_csv(f'{ROOT}/data/ocr/ocr_financials.csv', index=False)
+    ok = R[R['problem'].fillna('') == '']
+    print(f'Read {len(R)} scanned filings: turnover found for {len(ok)}, operating profit for {ok["operating_profit"].notna().sum()}, '
+          f'D&A for {ok["da_total"].notna().sum()}, cash for {ok["cash"].notna().sum()}')
+    print(R['problem'].fillna('').value_counts().to_string())
+
+if __name__ == '__main__':
+    main()
