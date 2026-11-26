@@ -1,0 +1,1886 @@
+=== page 1 ===
+Egnaro Limited - Limited company accounts 25.1
+IRIS Accounts Production
+v26.1.10.61
+07395042
+director
+1.11.24
+31.10.25
+31.10.25
+Medium entities
+true
+false
+true
+true
+false
+false
+false
+true
+false
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the medium-sized companies regime.
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+07395042
+2024-10-31
+07395042
+2025-10-31
+07395042
+2024-11-01
+2025-10-31
+07395042
+2023-10-31
+07395042
+2023-11-01
+2024-10-31
+07395042
+2024-10-31
+07395042
+ns15:EnglandWales
+2024-11-01
+2025-10-31
+07395042
+ns14:PoundSterling
+2024-11-01
+2025-10-31
+07395042
+ns10:Director1
+2024-11-01
+2025-10-31
+07395042
+ns10:PrivateLimitedCompanyLtd
+2024-11-01
+2025-10-31
+07395042
+ns10:MediumEntities
+2024-11-01
+2025-10-31
+07395042
+ns10:Audited
+2024-11-01
+2025-10-31
+07395042
+ns10:Medium-sizedCompaniesRegimeForDirectorsReport
+2024-11-01
+2025-10-31
+07395042
+ns10:Medium-sizedCompaniesRegimeForAccounts
+=== page 2 ===
+2024-11-01
+2025-10-31
+07395042
+ns10:FullAccounts
+2024-11-01
+2025-10-31
+07395042
+1
+2024-11-01
+2025-10-31
+07395042
+ns10:RegisteredOffice
+2024-11-01
+2025-10-31
+07395042
+ns5:CurrentFinancialInstruments
+2025-10-31
+07395042
+ns5:CurrentFinancialInstruments
+2024-10-31
+07395042
+ns5:Non-currentFinancialInstruments
+2025-10-31
+07395042
+ns5:Non-currentFinancialInstruments
+2024-10-31
+07395042
+ns5:ShareCapital
+2025-10-31
+07395042
+ns5:ShareCapital
+2024-10-31
+07395042
+ns5:CapitalRedemptionReserve
+2025-10-31
+07395042
+ns5:CapitalRedemptionReserve
+2024-10-31
+07395042
+ns5:RetainedEarningsAccumulatedLosses
+2025-10-31
+07395042
+ns5:RetainedEarningsAccumulatedLosses
+2024-10-31
+07395042
+ns5:ShareCapital
+2023-10-31
+07395042
+ns5:RetainedEarningsAccumulatedLosses
+2023-10-31
+07395042
+ns5:CapitalRedemptionReserve
+2023-10-31
+07395042
+ns5:RetainedEarningsAccumulatedLosses
+2023-11-01
+2024-10-31
+07395042
+ns5:CapitalRedemptionReserve
+2023-11-01
+2024-10-31
+07395042
+ns5:RetainedEarningsAccumulatedLosses
+2024-11-01
+2025-10-31
+07395042
+ns5:CapitalRedemptionReserve
+2024-11-01
+2025-10-31
+07395042
+=== page 3 ===
+ns5:IntangibleAssetsOtherThanGoodwill
+2024-11-01
+2025-10-31
+07395042
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2024-11-01
+2025-10-31
+07395042
+ns5:FurnitureFittings
+2024-11-01
+2025-10-31
+07395042
+ns5:MotorVehicles
+2024-11-01
+2025-10-31
+07395042
+ns5:ComputerEquipment
+2024-11-01
+2025-10-31
+07395042
+1
+2024-11-01
+2025-10-31
+07395042
+ns15:UnitedKingdom
+2024-11-01
+2025-10-31
+07395042
+ns15:UnitedKingdom
+2023-11-01
+2024-10-31
+07395042
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2024-11-01
+2025-10-31
+07395042
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2023-11-01
+2024-10-31
+07395042
+4
+2024-11-01
+2025-10-31
+07395042
+4
+2023-11-01
+2024-10-31
+07395042
+5
+2024-11-01
+2025-10-31
+07395042
+5
+2023-11-01
+2024-10-31
+07395042
+ns5:OwnedAssets
+2024-11-01
+2025-10-31
+07395042
+ns5:OwnedAssets
+2023-11-01
+2024-10-31
+07395042
+ns5:NetGoodwill
+2024-11-01
+2025-10-31
+07395042
+ns5:NetGoodwill
+=== page 4 ===
+2023-11-01
+2024-10-31
+07395042
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2024-11-01
+2025-10-31
+07395042
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2023-11-01
+2024-10-31
+07395042
+1
+2024-11-01
+2025-10-31
+07395042
+1
+2023-11-01
+2024-10-31
+07395042
+ns5:NetGoodwill
+2024-10-31
+07395042
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2024-10-31
+07395042
+ns5:NetGoodwill
+2025-10-31
+07395042
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2025-10-31
+07395042
+ns5:NetGoodwill
+2024-10-31
+07395042
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2024-10-31
+07395042
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2024-10-31
+07395042
+ns5:FurnitureFittings
+2024-10-31
+07395042
+ns5:MotorVehicles
+2024-10-31
+07395042
+ns5:ComputerEquipment
+2024-10-31
+07395042
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2025-10-31
+07395042
+ns5:FurnitureFittings
+2025-10-31
+07395042
+ns5:MotorVehicles
+2025-10-31
+07395042
+ns5:ComputerEquipment
+2025-10-31
+07395042
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2024-10-31
+07395042
+ns5:FurnitureFittings
+2024-10-31
+07395042
+=== page 5 ===
+ns5:MotorVehicles
+2024-10-31
+07395042
+ns5:ComputerEquipment
+2024-10-31
+07395042
+ns5:CostValuation
+ns5:UnlistedNon-exchangeTraded
+2024-10-31
+07395042
+ns5:AdditionsToInvestments
+ns5:UnlistedNon-exchangeTraded
+2025-10-31
+07395042
+ns5:CostValuation
+ns5:UnlistedNon-exchangeTraded
+2025-10-31
+07395042
+ns5:UnlistedNon-exchangeTraded
+2025-10-31
+07395042
+ns5:UnlistedNon-exchangeTraded
+2024-10-31
+07395042
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2025-10-31
+07395042
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-10-31
+07395042
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2025-10-31
+07395042
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2024-10-31
+07395042
+ns5:WithinOneYear
+2025-10-31
+07395042
+ns5:WithinOneYear
+2024-10-31
+07395042
+ns5:BetweenOneFiveYears
+2025-10-31
+07395042
+ns5:BetweenOneFiveYears
+2024-10-31
+07395042
+ns5:MoreThanFiveYears
+2025-10-31
+07395042
+ns5:MoreThanFiveYears
+2024-10-31
+07395042
+ns5:AllPeriods
+2025-10-31
+07395042
+ns5:AllPeriods
+2024-10-31
+07395042
+ns5:DeferredTaxation
+2024-10-31
+07395042
+ns5:DeferredTaxation
+2024-11-01
+2025-10-31
+=== page 6 ===
+07395042
+ns5:DeferredTaxation
+2025-10-31
+REGISTERED NUMBER: 
+07395042
+(England and Wales) 
+Strategic Report, Report of the Director and
+ Financial Statements for the Year Ended 31 October 2025
+for
+Egnaro Limited
+Egnaro Limited (Registered number: 07395042)
+Contents of the Financial Statements
+for the Year Ended 31 October 2025
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Director  
+4
+Report of the Independent Auditors  
+6
+Statement of Comprehensive Income 
+10
+Statement of Financial Position  
+11
+Statement of Changes in Equity  
+12
+Statement of Cash Flows  
+13
+Notes to the Statement of Cash Flows  
+14
+Notes to the Financial Statements 
+16
+Egnaro Limited
+Company Information 
+for the Year Ended 31 October 2025
+DIRECTOR:
+A Mashkoor
+REGISTERED OFFICE:
+124 Baker Street
+London
+W1U 6TY
+REGISTERED NUMBER:
+07395042
+(England and Wales) 
+AUDITORS:
+RA Audit Services Limited (Statutory Auditor)
+2nd Floor
+Grove House
+55 Lowlands Road
+Harrow
+Middlesex
+HA1 3AW
+Page 1
+Egnaro Limited (Registered number: 07395042)
+Strategic Report 
+for the Year Ended 31 October 2025
+The director presents his strategic report for the year ended 31 October 2025. 
+REVIEW OF BUSINESS
+The results for the year and financial position at the year end were considered satisfactory by the 
+director.
+Egnaro Limited has been a franchise partner of EE since July 2011, with branches in London and the 
+South East. Over the past few years, the mobile phone industry has experienced stable sales, and 
+turnover has remained at a similar level, with the increase of 7% in the current year.
+During the year, the company closed one of its stores, bringing its total number of EE branches to 14.
+Despite industry challenges, Egnaro Limited has sustained profitability by enhancing sales conversion 
+rates and maintaining strong cost control.
+PRINCIPAL RISKS AND UNCERTAINTIES
+The management of the business and execution of company's strategies are subject to risks, the key 
+=== page 7 ===
+risks being the competition in the market place, operational risk and liquidity risk.
+The Director regards the following as the principal risks and uncertainties for the company:
+Competitive Risk:
+The mobile phone market is under pressure due to increased competition, reduced margin, and the shift 
+of balance towards online sales from retail sales. As a result of challenging trading conditions, the 
+business has seen a like-for-like footfall decline in the year.
+Commercial Risk:
+The business operates under franchise from EE Limited, with each store having a separate (but 
+identical) Franchise agreement which governs the roles and responsibilities of the franchisee and 
+franchisor. This agreement represents the legal and commercial basis of the principal activity of the 
+business. Each franchise agreement is for a term of five years. The business has policies and 
+procedures in place to ensure that the terms under the Franchise Agreement are being adhered to on an 
+on-going basis.
+Financial Risk:
+The company maintains sufficient cash reserves to meet its payments as they fall due. The company 
+monitors the financial risks carefully and has strategies in place to manage these effectively.
+Financial instruments:
+The company's principal financial instruments comprise bank balances, trade creditors and balances due 
+from related companies. The main purpose of these instruments is to raise funds for company's 
+operations and to finance company's trading activities.
+Due to the nature of the financial instruments used by the company there is no exposure to price risk. 
+The company's approach to managing other risks applicable to financial instruments concerned is shown 
+below.
+In respect of bank balances, the liquidity risk is managed by maintaining a balance between the 
+continuity of funding and flexibility through use of bank loans.
+Trade creditors liquidity risk is managed by ensuring funds are available to meet amounts due within 
+agreed terms.
+Page 2
+Egnaro Limited (Registered number: 07395042)
+Strategic Report 
+for the Year Ended 31 October 2025
+KEY PERFORMANCE INDICATORS
+The company's key performance indicators for the year ended 31 October 2025 are as follows:
+31.10.2025
+31.10.2024
+£
+£
+Turnover
+22,041,587
+20,519,032
+Gross profit
+7,753,578
+5,906,004
+Gross profit margin 
+35,18%
+28,78%
+Profit before tax
+2,594,648
+1,496,663
+Shareholders' equity
+1,646,397
+1,280,949
+The turnover for the year ended 31 October 2025 has increased by 7%.  The gross profit margin is one 
+of the prime key performance indicator which has remained similar to last year despite increasing cost of 
+sales due to close supervision. Profit before tax has increased in the current year compared to previous 
+year. Shareholders' equity has increased in the current year due to improved margins. The results are 
+considered acceptable in the light of challenging market conditions.
+Furthermore, the company continues to maintain a healthy balance of reserves to meet its current and 
+long-term liabilities as they fall due.
+ON BEHALF OF THE BOARD:
+A Mashkoor
+- Director 
+18 July 2026
+Page 3
+Egnaro Limited (Registered number: 07395042)
+Report of the Director 
+for the Year Ended 31 October 2025
+The director presents his report with the financial statements of the company for the year ended 31 October 2025.  
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was that of Wireless telecommunications 
+=== page 8 ===
+activities. 
+DIVIDENDS
+Dividends of £1,250,000 (2024: £407,157), £200,000 (2024: £200,000) and £50,000 (2024: £50,000) 
+were paid to 'A', 'D' and 'E' ordinary shareholders respectively.
+FUTURE DEVELOPMENTS
+The company is proactively seeking new revenue streams and has witnessed growth due to flex pay 
+commercial which was introduced by the franchisor earlier in the year and is seeking to focus more on 
+the same.This has anticipated to boost its earnings in the upcoming years.
+DIRECTOR
+A Mashkoor
+held office during the whole of the period from 1 November 2024 to the date of this report. 
+FINANCIAL INSTRUMENTS
+The company's principal financial instruments comprise bank balances, trade creditors and balances due 
+from related companies. The main purpose of these instruments is to raise funds for company's 
+operations and to finance company's trading activities.
+Due to the nature of the financial instruments used by the company there is no exposure to price risk. 
+The company's approach to managing other risks applicable to financial instruments concerned is shown 
+below.
+In respect of bank balances, the liquidity risk is managed by maintaining a balance between the 
+continuity of funding and flexibility through use of bank loans.
+Trade creditors liquidity risk is managed by ensuring funds are available to meet amounts due within 
+agreed terms.
+STATEMENT OF DIRECTOR'S RESPONSIBILITIES
+The director is responsible for preparing the Strategic Report, the Report of the Director and the financial 
+statements in accordance with applicable law and regulations. 
+Company law requires the director to prepare financial statements for each financial year.  Under that 
+law the director has elected to prepare the financial statements in accordance with United Kingdom 
+Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). 
+Under company law the director must not approve the financial statements unless he is satisfied that 
+they give a true and fair view of the state of affairs of the company and of the profit or loss of the 
+company for that period.  In preparing these financial statements, the director is required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that 
+the company will continue in business. 
+Page 4
+Egnaro Limited (Registered number: 07395042)
+Report of the Director 
+for the Year Ended 31 October 2025
+STATEMENT OF DIRECTOR'S RESPONSIBILITIES - continued
+The director is responsible for keeping adequate accounting records that are sufficient to show and 
+explain the company's transactions and disclose with reasonable accuracy at any time the financial 
+position of the company and enable him to ensure that the financial statements comply with the 
+Companies Act 2006. He is also responsible for safeguarding the assets of the company and hence for 
+taking reasonable steps for the prevention and detection of fraud and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the director is aware, there is no relevant audit information (as defined by Section 418 of the 
+Companies Act 2006) of which the company's auditors are unaware, and he has taken all the steps that 
+he ought to have taken as a director in order to make himself aware of any relevant audit information 
+and to establish that the company's auditors are aware of that information. 
+AUDITORS
+The auditors,  RA Audit Services Limited (Statutory Auditor), will be proposed for re-appointment at the 
+forthcoming Annual General Meeting.
+ON BEHALF OF THE BOARD:
+A Mashkoor
+- Director 
+18 July 2026
+Page 5
+Report of the Independent Auditors to the Members of 
+Egnaro Limited
+Opinion
+We have audited the financial statements of Egnaro Limited (the 'company') for the year ended 
+31 October 2025 which comprise the Statement of Comprehensive Income, Statement of Financial 
+Position, Statement of Changes in Equity, Statement of Cash Flows and Notes to the Statement of Cash 
+Flows, Notes to the Financial Statements, including a summary of significant accounting policies. The 
+financial reporting framework that has been applied in their preparation is applicable law and United 
+Kingdom Accounting Standards, including Financial Reporting Standard 102 'The Financial Reporting 
+=== page 9 ===
+Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting 
+Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 October 2025 and of its profit for 
+the year then ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting 
+Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and 
+applicable law. Our responsibilities under those standards are further described in the Auditors' 
+responsibilities for the audit of the financial statements section of our report.  We are independent of the 
+company in accordance with the ethical requirements that are relevant to our audit of the financial 
+statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements.  We believe that the audit evidence we have 
+obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the director's use of the going concern basis 
+of accounting in the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to 
+events or conditions that, individually or collectively, may cast significant doubt on the company's ability 
+to continue as a going concern for a period of at least twelve months from when the financial statements 
+are authorised for issue. 
+Our responsibilities and the responsibilities of the director with respect to going concern are described in 
+the relevant sections of this report. 
+Other information
+The director is responsible for the other information. The other information comprises the information in 
+the Strategic Report and the Report of the Director, but does not include the financial statements and our 
+Report of the Auditors thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent 
+otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information 
+and, in doing so, consider whether the other information is materially inconsistent with the financial 
+statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we 
+identify such material inconsistencies or apparent material misstatements, we are required to determine 
+whether this gives rise to a material misstatement in the financial statements themselves. If, based on 
+the work we have performed, we conclude that there is a material misstatement of this other information, 
+we are required to report that fact.  We have nothing to report in this regard. 
+Page 6
+Report of the Independent Auditors to the Members of 
+Egnaro Limited
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Director for the financial year for 
+which the financial statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Director have been prepared in accordance with applicable 
+legal requirements. 
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the 
+course of the audit, we have not identified material misstatements in the Strategic Report or the Report 
+of the Director. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us 
+to report to you if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been 
+received from branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of director's remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of director
+As explained more fully in the Statement of Director's Responsibilities set out on pages four and five, the 
+director is responsible for the preparation of the financial statements and for being satisfied that they 
+=== page 10 ===
+give a true and fair view, and for such internal control as the director determines necessary to enable the 
+preparation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+In preparing the financial statements, the director is responsible for assessing the company's ability to 
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the 
+going concern basis of accounting unless the director either intends to liquidate the company or to cease 
+operations, or has no realistic alternative but to do so. 
+Page 7
+Report of the Independent Auditors to the Members of 
+Egnaro Limited
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole 
+are free from material misstatement, whether due to fraud or error, and to issue a Report of the Auditors 
+that includes our opinion.  Reasonable assurance is a high level of assurance, but is not a guarantee 
+that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it 
+exists. Misstatements can arise from fraud or error and are considered material if, individually or in the 
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the 
+basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed 
+below: 
+Irregularities including fraud are instances of non-compliance with laws and regulations. We design 
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of 
+irregularities, including fraud.
+Our approach to identifying and assessing the risks of material misstatement in respect of irregularities, 
+including fraud and non-compliance with laws and regulations, was as follows:
+The client partner ensured that the engagement team collectively had the appropriate competence, 
+capabilities and skills to identify and recognise non-compliance with applicable laws and regulations.
+1) We identified the laws and regulations applicable to the company through discussions with directors, 
+key management personnel and from our commercial knowledge and experience.
+2) We focused on specific laws and regulations which we considered may have a direct effect on 
+financial statements or the operations of the company including Companies Act 2006, current taxation 
+legislation, data protection, anti-bribery and money laundering, food safety, employment and health and 
+safety legislation.
+3) We assessed the extent of compliance with the laws and regulations identified above through making 
+enquiries of management.
+4) Identified laws and regulations were communicated with the audit team regularly and the team 
+remained alert to instances of non-compliance throughout the audit.
+We assessed the susceptibility of the company's financial statements to material misstatement, including 
+obtaining an understanding of how fraud might occur by;
+1) Making enquiries of management as to where they considered there was susceptibility to fraud, their 
+knowledge of actual suspected and alleged fraud and
+2) Considering the internal controls in place to mitigate risks of fraud and non-compliance with laws and 
+regulations.
+To address the risk of fraud through management bias and override of controls, we:
+1) Performed analytical procedures to identify any unusual and unexpected relationships,
+2) Tested journal entries to identify unusual transactions,
+3) Investigated the rationale behind significant or unusual transactions.
+In response to the risk of irregularities and non-compliance with laws and regulations, we designed 
+procedures which included, but were not limited to:
+1) Agreeing financial statements disclosures to underlying supporting documentation.
+2) Enquiring of management as to actual and potential litigation and claims and
+3) Reviewing correspondence with HMRC, enquiring of management over health and safety.
+Page 8
+Report of the Independent Auditors to the Members of 
+Egnaro Limited
+There are inherent limitations in our audit procedures described above. Auditing standards also limit the 
+audit procedures required to identifying non-compliance with laws and regulations to enquiry of the 
+directors and other management and the inspection of regulatory and legal correspondence, if any. 
+Material misstatements that arise due to fraud can be harder to detect than those that arise from error as 
+they may involve deliberate concealment or collusion.
+A further description of our responsibilities for the audit of the financial statements is located on the 
+Financial Reporting Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms 
+part of our Report of the Auditors. 
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 
+16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the 
+company's members those matters we are required to state to them in a Report of the Auditors and for 
+no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to 
+anyone other than the company and the company's members as a body, for our audit work, for this 
+report, or for the opinions we have formed. 
+=== page 11 ===
+Poonam Madani BFP, ACA, ACCA
+(Senior Statutory Auditor) 
+for and on behalf of 
+RA Audit Services Limited (Statutory Auditor)
+2nd Floor
+Grove House
+55 Lowlands Road
+Harrow
+Middlesex
+HA1 3AW
+20 July 2026
+Page 9
+Egnaro Limited (Registered number: 07395042)
+Statement of Comprehensive Income 
+for the Year Ended 31 October 2025
+31.10.25
+31.10.24
+Notes
+£
+£
+TURNOVER
+4
+22,041,587
+20,519,032
+Cost of sales
+14,288,009
+14,613,028
+GROSS PROFIT
+7,753,578
+5,906,004
+Administrative expenses
+5,438,205
+4,276,369
+2,315,373
+1,629,635
+Other operating income
+5
+211,595
+53,959
+Gain/loss on revaluation of 
+investments 
+-
+(160,000
+)
+OPERATING PROFIT
+7
+2,526,968
+1,523,594
+Interest receivable and similar income 
+138
+10,395
+2,527,106
+1,533,989
+Interest payable and similar expenses 
+8
+28,458
+37,326
+PROFIT BEFORE TAXATION 
+2,498,648
+1,496,663
+Tax on profit
+9
+633,200
+375,581
+PROFIT FOR THE FINANCIAL YEAR 
+1,865,448
+1,121,082
+OTHER COMPREHENSIVE INCOME
+-
+-
+=== page 12 ===
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+1,865,448
+1,121,082
+The notes form part of these financial statements
+Page 10
+Egnaro Limited (Registered number: 07395042)
+Statement of Financial Position 
+31 October 2025
+31.10.25
+31.10.24
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible assets
+11
+571,503
+555,972
+Tangible assets
+12
+570,802
+710,005
+Investments
+13
+261,167
+240,000
+1,403,472
+1,505,977
+CURRENT ASSETS
+Stocks
+14
+469,638
+478,072
+Debtors
+15
+1,244,647
+1,188,554
+Cash at bank
+1,183,124
+873,698
+2,897,409
+2,540,324
+CREDITORS
+Amounts falling due within one year 
+16
+2,477,793
+2,417,900
+NET CURRENT ASSETS
+419,616
+122,424
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+1,823,088
+1,628,401
+CREDITORS
+Amounts falling due after more than 
+one year 
+17
+(
+46,667
+)
+(
+186,667
+)
+PROVISIONS FOR LIABILITIES
+20
+(
+=== page 13 ===
+130,024
+)
+(
+160,785
+)
+NET ASSETS
+1,646,397
+1,280,949
+CAPITAL AND RESERVES
+Called up share capital
+21
+100
+100
+Capital redemption reserve
+22
+110,000
+110,000
+Retained earnings
+22
+1,536,297
+1,170,849
+1,646,397
+1,280,949
+The financial statements were approved by the director and authorised for issue on 
+18 July 2026
+and 
+were signed by: 
+A Mashkoor
+- Director 
+The notes form part of these financial statements
+Page 11
+Egnaro Limited (Registered number: 07395042)
+Statement of Changes in Equity 
+for the Year Ended 31 October 2025
+Called up
+Capital
+share
+Retained
+redemption
+Total
+capital
+earnings
+reserve
+equity
+£
+£
+£
+£
+Balance at 1 November 2023
+100
+706,924
+110,000
+817,024
+Changes in equity
+Dividends
+-
+(
+657,157
+)
+-
+(
+657,157
+)
+Total comprehensive income
+-
+1,121,082
+-
+1,121,082
+Balance at 31 October 2024
+100
+=== page 14 ===
+1,170,849
+110,000
+1,280,949
+Changes in equity
+Dividends
+-
+(
+1,500,000
+)
+-
+(
+1,500,000
+)
+Total comprehensive income
+-
+1,865,448
+-
+1,865,448
+Balance at 31 October 2025
+100
+1,536,297
+110,000
+1,646,397
+The notes form part of these financial statements
+Page 12
+Egnaro Limited (Registered number: 07395042)
+Statement of Cash Flows 
+for the Year Ended 31 October 2025
+31.10.25
+31.10.24
+Notes
+£
+£
+Cash flows from operating activities
+Cash generated from operations
+1
+3,018,989
+1,632,741
+Interest paid
+(
+28,458
+)
+(
+37,326
+)
+Tax paid
+(
+863,052
+)
+(
+507,508
+)
+Net cash from operating activities
+2,127,479
+1,087,907
+Cash flows from investing activities
+Purchase of intangible fixed assets
+(
+117,733
+)
+(
+530,394
+)
+Purchase of tangible fixed assets
+(
+39,291
+)
+(
+225,244
+)
+=== page 15 ===
+Purchase of fixed asset investments
+(21,167
+)
+-
+Interest received
+138
+10,395
+Net cash from investing activities
+(
+178,053
+)
+(
+745,243
+)
+Cash flows from financing activities
+Loan repayments in year
+(
+140,000
+)
+(
+140,000
+)
+Equity dividends paid
+(
+1,500,000
+)
+(
+657,157
+)
+Net cash from financing activities
+(
+1,640,000
+)
+(
+797,157
+)
+Increase/(decrease) in cash and cash equivalents 
+309,426
+(
+454,493
+)
+Cash and cash equivalents at 
+beginning of year 
+2
+873,698
+1,328,191
+Cash and cash equivalents at end of 
+year 
+2
+1,183,124
+873,698
+The notes form part of these financial statements
+Page 13
+Egnaro Limited (Registered number: 07395042)
+Notes to the Statement of Cash Flows 
+for the Year Ended 31 October 2025
+1.
+RECONCILIATION OF PROFIT BEFORE TAXATION TO CASH GENERATED FROM 
+OPERATIONS 
+31.10.25
+31.10.24
+£
+£
+Profit before taxation
+2,498,648
+1,496,663
+Depreciation charges
+280,697
+243,372
+Loss on revaluation of fixed assets
+=== page 16 ===
+-
+160,000
+Finance costs
+28,458
+37,326
+Finance income
+(138
+)
+(10,395
+)
+2,807,665
+1,926,966
+Decrease/(increase) in stocks
+8,434
+(
+12,274
+)
+(Increase)/decrease in trade and other debtors
+(
+19,201
+)
+188,663
+Increase/(decrease) in trade and other creditors
+222,091
+(
+470,614
+)
+Cash generated from operations 
+3,018,989
+1,632,741
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Statement of Cash Flows in respect of cash and cash equivalents 
+are in respect of these Statement of Financial Position amounts: 
+Year ended 31 October 2025
+31.10.25
+1.11.24
+£
+£
+Cash and cash equivalents
+1,183,124
+873,698
+Year ended 31 October 2024
+31.10.24
+1.11.23
+£
+£
+Cash and cash equivalents
+873,698
+1,328,191
+The notes form part of these financial statements
+Page 14
+Egnaro Limited (Registered number: 07395042)
+Notes to the Statement of Cash Flows 
+for the Year Ended 31 October 2025
+3.
+ANALYSIS OF CHANGES IN NET FUNDS 
+At 1.11.24
+Cash flow
+At 31.10.25
+£
+£
+£
+Net cash 
+Cash at bank
+873,698
+309,426
+1,183,124
+873,698
+309,426
+=== page 17 ===
+1,183,124
+Debt
+Debts falling due within 1 year
+(140,000
+)
+-
+(140,000
+)
+Debts falling due after 1 year
+(186,667
+)
+140,000
+(46,667
+)
+(326,667
+)
+140,000
+(186,667
+)
+Total
+547,031
+449,426
+996,457
+The notes form part of these financial statements
+Page 15
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements 
+for the Year Ended 31 October 2025
+1.
+STATUTORY INFORMATION
+Egnaro Limited is a 
+private company, limited by shares
+, registered in England and Wales. The 
+company's registered number and registered office address can be found on the Company 
+Information page. 
+The financial statements are prepared in the Pound Sterling (£) which is the functional currency of 
+the company.
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 
+102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the 
+Companies Act 2006. The financial statements have been prepared under the historical cost 
+convention as modified by the revaluation of certain assets.
+Turnover
+Turnover is recognised at the fair value of consideration received or receivable for goods and 
+services provided in the normal course of business, net of value added tax and 
+discounts.Turnover represents commission fees receivable and is recognised in the period to 
+which it relates to.
+Intangible assets
+Intangible assets includes Goodwill and Brand fees & licence fees.
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are 
+measured at cost less any accumulated amortisation and any accumulated impairment losses.
+Goodwill, being amount paid in connection with the acquisition of a business in 2024 is amortised 
+evenly over its estimated useful life of 10 years.
+Brands fees & license fees are being amortised evenly over their estimated useful life of five 
+years.
+Page 16
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+2.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Short leasehold
+- 
+20% on cost
+Fixtures and fittings
+=== page 18 ===
+- 
+10% on cost
+Motor vehicles
+- 
+20% on cost
+Computer equipment
+- 
+15% on cost
+Tangible fixed assets are initially measured at cost and subsequently at cost net of depreciation 
+and any impairment losses.
+The gain or loss arising on disposal of an asset is determined as the difference between the sales 
+proceeds and the carrying value of an asset and is credited or charged to profit or loss.
+Impairment of fixed assets
+At each reporting period end date, the company reviews the carrying amounts of its tangible and 
+intangible assets to determine whether there is any indication that those assets have suffered an 
+impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in 
+order to determine the extent of the impairment loss (if any).
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price 
+less costs to complete and sell. Cost is based on the cost of purchase on a first in, first our basis.
+At each reporting date, an assessment is made for impairment. Any excess of the carrying 
+amount of stocks over its estimated selling price is recognised as an impairment loss in profit or 
+loss.
+Page 17
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+The company has elected to apply the provisions of Section 11 'Basic Financial Instruments' and 
+Section 12 'Other Financial Instruments Issues' of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company 
+becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial 
+statements, when there is a legally enforceable right to set off the recognised amounts and there 
+is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include debtors and cash and bank balances, are initially measured 
+at transaction price including transaction costs and are subsequently carried at amortised cost 
+using the effective interest method unless the arrangement constitutes a financing transaction, 
+where the transaction is measured at the present value of the future receipts discounted at a 
+market rate of interest. Financial assets classified as receivable within one year are not amortised.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the 
+contractual arrangements entered into. An equity instrument is any contract that evidences a 
+residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including creditors, bank loans, loans from fellow group companies and 
+preference shares that are classified as debt, are initially recognised at transaction price unless 
+the arrangement constitutes a financing transaction, where the debt instrument is measured at the 
+present value of the future payments discounted at a market rate of interest. Financial liabilities 
+classified as payable within one year are not amortised.
+Trade creditors are obligations to pay for goods or services that have been acquired in the 
+ordinary course of business from suppliers. Amounts payable are classified as current liabilities if 
+payment is due within one year or less. If not, they are presented as non-current liabilities. Trade 
+creditors are recognised initially at transaction price and subsequently measured at amortised cost 
+using the effective interest method.
+Taxation
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net 
+profit as reported in the income statement because it excludes items of income or expense that 
+are taxable or deductible in other years and it further excludes items that are never taxable or 
+deductible. The company's liability for current tax is calculated using tax rates that have been 
+enacted or substantively enacted by the reporting end date.
+Page 18
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+=== page 19 ===
+2.
+ACCOUNTING POLICIES - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed 
+at the statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods 
+different from those in which they are recognised in financial statements. Deferred tax is 
+measured using tax rates and laws that have been enacted or substantively enacted by the year 
+end and that are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is 
+probable that they will be recovered against the reversal of deferred tax liabilities or other future 
+taxable profits.
+Hire purchase and leasing commitments
+Rentals payable under operating lease, including any lease incentive received, are charged to 
+income on a straight line basis over the term of the relevant lease except where another more 
+systematic basis is more representative time pattern in which economic benefits from the lease 
+asset are consumed.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the 
+company's pension scheme are charged to profit or loss in the period to which they relate.
+Fixed asset investments
+Fixed asset investment comprise investments in other valuable assets, which are measured at fair 
+value at each balance sheet date. Changes in the fair value are recognised in profit or loss.
+Cash and cash equivalents
+Cash at bank and in hand are basic financial assets and include cash in hand and deposits held at 
+call with banks and bank overdraft. Bank overdrafts are shown within borrowings in current 
+liabilities.
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of 
+transaction costs. Dividends payable on equity instruments are recognised as liabilities once they 
+no longer at the discretion of the company.
+Page 19
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+3.
+CRITICAL ACCOUNTING JUDGEMENTS AND KEY SOURCES OF ESTIMATION UNCERTAIN
+In the application of the company's accounting policies, the directors are required to make 
+judgments estimates and assumptions about the carrying amount of the assets and liabilities that 
+are not readily apparent from other are considered to be relevant. Actual results may differ from 
+these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to 
+accounting estimates are recognised in the period in which the estimate is revised where the 
+revision affects only that period, or in the period of the revision and future periods where the 
+revision affects both current and future periods.
+Key Sources of estimation uncertainty
+The following judgements have had the most significant effect on amounts recognised in the 
+financial statements.
+Useful lives of intangible fixed assets
+Intangible fixed assets consist of goodwill and fanchisee fees. The annual amortisation charge 
+depends on estimated useful economic life of the asset. The directors regularly review the 
+remaining useful life of  these assets. Changes in asset's useful economic life can have a 
+significant impact on amortisation charge for the period. Detail of the useful economic life is 
+included in accounting policies.
+Useful lives of tangible fixed assets
+The costs of tangible fixed assets less their residual value are depreciated over their estimated 
+useful economic lives which are estimated by the director. Changes in the expected level of usage 
+and technological developments could impact on the useful economic lives of these assets; 
+therefore, further depreciation charges could be revised. The detail of useful economic life is 
+included in the accounting policies.
+4.
+TURNOVER
+The turnover and profit before taxation are attributable to the one principal activity of the company.
+An analysis of turnover by geographical market is given below: 
+31.10.25
+31.10.24
+£
+£
+United Kingdom
+=== page 20 ===
+22,041,587
+20,519,032
+22,041,587
+20,519,032
+5.
+OTHER OPERATING INCOME
+31.10.25
+31.10.24
+£
+£
+Other income- rent recharge
+154,966
+48,179
+Insurance claim income
+56,629
+5,780
+211,595
+53,959
+Page 20
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+6.
+EMPLOYEES AND DIRECTORS
+31.10.25
+31.10.24
+£
+£
+Wages and salaries
+3,177,249
+2,586,910
+Social security costs
+321,809
+226,449
+Other pension costs
+49,192
+38,378
+3,548,250
+2,851,737
+The average number of employees during the year was as follows: 
+31.10.25
+31.10.24
+102
+92
+31.10.25
+31.10.24
+£
+£
+Director's remuneration
+-
+-
+7.
+OPERATING PROFIT
+The operating profit is stated after charging:
+31.10.25
+31.10.24
+£
+£
+Other operating leases
+716,653
+611,823
+Depreciation - owned assets
+178,494
+187,615
+Goodwill amortisation
+32,500
+4,063
+Brand fees & licences amortisation
+69,702
+=== page 21 ===
+51,695
+Auditors' remuneration
+8,500
+8,491
+8.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+31.10.25
+31.10.24
+£
+£
+Bank loan interest
+22,233
+37,128
+Interest on overdue CT
+6,225
+198
+28,458
+37,326
+Page 21
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+9.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+31.10.25
+31.10.24
+£
+£
+Current tax:
+UK corporation tax
+663,961
+403,388
+Deferred tax
+(
+30,761
+)
+(
+27,807
+)
+Tax on profit
+633,200
+375,581
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is higher than the standard rate of corporation tax in the UK. The 
+difference is explained below: 
+31.10.25
+31.10.24
+£
+£
+Profit before tax
+2,498,648
+1,496,663
+Profit multiplied by the standard rate of corporation tax in the UK 
+of 
+25
+% (2024 - 
+25
+%)  
+624,662
+374,166
+Effects of:
+Expenses not deductible for tax purposes
+-
+40,000
+Capital allowances in excess of depreciation
+-
+(
+=== page 22 ===
+10,777
+)
+Depreciation in excess of capital allowances
+39,299
+-
+Deferred tax adjustment   
+(30,761
+)
+(27,808
+)
+Total tax charge
+633,200
+375,581
+10.
+DIVIDENDS
+31.10.25
+31.10.24
+£
+£
+A Ordinary shares of £1 each
+1,250,000
+407,157
+D Ordinary shares of £1 each
+200,000  
+200,000
+E ordinary shares of £1 each
+50,000
+50,000
+1,500,000
+657,157
+Page 22
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+11.
+INTANGIBLE FIXED ASSETS
+Brand fees
+Goodwill
+& licences
+Totals
+£
+£
+£
+COST
+At 1 November 2024
+325,000
+636,373
+961,373
+Additions
+-
+117,733
+117,733
+At 31 October 2025
+325,000
+754,106
+1,079,106
+AMORTISATION
+At 1 November 2024
+4,063
+401,338
+405,401
+Amortisation for year 
+32,500
+69,702
+102,202
+At 31 October 2025
+36,563
+471,040
+507,603
+=== page 23 ===
+NET BOOK VALUE
+At 31 October 2025
+288,437
+283,066
+571,503
+At 31 October 2024
+320,937
+235,035
+555,972
+12.
+TANGIBLE FIXED ASSETS
+Fixtures
+Short
+and
+Motor
+Computer
+leasehold
+fittings
+vehicles
+equipment
+Totals
+£
+£
+£
+£
+£
+COST
+At 1 November 2024 
+77,079
+1,987,199
+157,292
+26,055
+2,247,625
+Additions
+686
+29,372
+-
+9,233
+39,291
+At 31 October 2025 
+77,765
+2,016,571
+157,292
+35,288
+2,286,916
+DEPRECIATION
+At 1 November 2024 
+44,261
+1,423,177
+49,809
+20,373
+1,537,620
+Charge for year 
+12,563
+132,546
+31,459
+1,926
+178,494
+At 31 October 2025 
+56,824
+1,555,723
+81,268
+22,299
+1,716,114
+NET BOOK VALUE
+At 31 October 2025 
+20,941
+460,848
+76,024
+12,989
+=== page 24 ===
+570,802
+At 31 October 2024 
+32,818
+564,022
+107,483
+5,682
+710,005
+Page 23
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+13.
+FIXED ASSET INVESTMENTS
+Unlisted
+investments
+£
+COST
+At 1 November 2024
+240,000
+Additions
+21,167
+At 31 October 2025
+261,167
+NET BOOK VALUE
+At 31 October 2025
+261,167
+At 31 October 2024
+240,000
+Fixed asset investments above have been shown at the fair value as at the balance sheet date 
+which have been valued by the director.The valuation was made on an open market value basis 
+by reference to market evidence of transaction prices for similar watches.
+If fixed asset investments had not been revalued, they would have been included at the cost 
+£242,667 (2024: £221,500).
+14.
+STOCKS
+31.10.25
+31.10.24
+£
+£
+Stocks
+469,638
+478,072
+15.
+DEBTORS
+31.10.25
+31.10.24
+£
+£
+Amounts falling due within one year:
+Trade debtors
+1,716
+648
+Payment on accounts
+17,972
+18,460
+Other debtors
+98,885
+277,639
+Directors' current accounts
+20,000
+5,674
+Tax
+36,892
+-
+Prepayments and accrued income
+1,059,931
+886,133
+1,235,396
+1,188,554
+=== page 25 ===
+Amounts falling due after more than one year:
+Other debtors
+9,251
+-
+Aggregate amounts
+1,244,647
+1,188,554
+Page 24
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+16.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+31.10.25
+31.10.24
+£
+£
+Bank loans and overdrafts (see note 
+18) 
+140,000
+140,000
+Trade creditors
+896,738
+932,827
+Tax
+-
+162,199
+Social security and other taxes 
+84,138
+76,401
+Net wages
+-
+202,150
+Pension Payable
+10,198
+10,615
+VAT
+958,000
+316,714
+Other creditors
+96
+168,527
+Accrued expenses
+388,623
+408,467
+2,477,793
+2,417,900
+17.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+31.10.25
+31.10.24
+£
+£
+Bank loans (see note 18) 
+46,667
+186,667
+18.
+LOANS
+An analysis of the maturity of loans is given below:
+31.10.25
+31.10.24
+£
+£
+Amounts falling due within one year or on demand:
+Bank loans
+140,000
+140,000
+Amounts falling due between two and five years:
+=== page 26 ===
+Bank loans - 2-5 years
+46,667
+186,667
+Included within other creditors falling due within one year and creditors falling due after more than 
+one year is £186,667 (2024: £326,667) in respect of a bank loan which is guaranteed by the 
+government under Coronavirus Business Interruption Loan Scheme. The loan is repayable by 
+January 2027 and interest is charged at 3.99% above base rate per annum on this loan.
+Bank loan is secured by a fixed and floating charge over present and future assets of the 
+company.
+Page 25
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+19.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows: 
+31.10.25
+31.10.24
+£
+£
+Within one year
+636,518
+568,485
+Between one and five years
+781,885
+1,017,651
+In more than five years
+141,521
+218,714
+1,559,924
+1,804,850
+The cost of rent recognised as expense during the year was £716,652 (2024: £611,823).
+20.
+PROVISIONS FOR LIABILITIES
+31.10.25
+31.10.24
+£
+£
+Deferred tax
+130,024
+160,785
+Deferred tax
+£
+Balance at 1 November 2024
+160,785
+Provided during year
+(
+30,761
+)
+Balance at 31 October 2025
+130,024
+21.
+CALLED UP SHARE CAPITAL
+Alloted, issued and fully paid:
+Number
+Class
+Nominal Value
+31.10.2024
+31.10.2023
+£
+£
+59
+Ordinary Share A
+£1
+59
+59
+31
+Ordinary Share C
+£1
+=== page 27 ===
+31
+31
+5
+Ordinary Share D
+£1
+5
+5
+5
+Ordinary Share E
+£1
+5
+5
+100
+100
+All shares rank pari passu with regards to voting rights, dividends and capital distributions.
+22.
+RESERVES
+Included in profit and loss reserves is undistributable reserves of £13,875 (2024: £13,875) relating 
+to fair value reserves on fixed asset investments.
+Page 26
+continued...
+Egnaro Limited (Registered number: 07395042)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 October 2025
+23.
+ULTIMATE PARENT COMPANY
+The immediate parent company is Kolachi Holdings Ltd, a company incorporated in Jersey. The 
+ultimate controlling party is 'Accuro Trustees (Jersey) Ltd' as trustee of Napier Hall Trust, a 
+company registered in Jersey.
+24.
+RELATED PARTY DISCLOSURES
+Included in other debtors falling due within one year is an aggregate net amount of £89,647 (2024: 
+£270,800) due from companies connected to the director.
+Included in other debtors at the the year end is an amount of £20,000 (2024: £5,674) due from the 
+director.
+The above balances are unsecured, interest free and repayable on demand.
+Dividends totalling £200,000 (2024: £200,000) were paid in respect of shares held by company's 
+director.
+Page 27

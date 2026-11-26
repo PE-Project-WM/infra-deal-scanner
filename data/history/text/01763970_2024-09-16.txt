@@ -1,0 +1,1819 @@
+=== page 1 ===
+Avoira Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v24.2.0.383
+01763970
+director
+1.1.23
+31.12.23
+31.12.23
+....
+true
+false
+true
+true
+false
+false
+false
+true
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+01763970
+2022-12-31
+01763970
+2023-12-31
+01763970
+2023-01-01
+2023-12-31
+01763970
+2021-12-31
+01763970
+2022-01-01
+2022-12-31
+01763970
+2022-12-31
+01763970
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+01763970
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+01763970
+ns10:Director1
+2023-01-01
+2023-12-31
+01763970
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+01763970
+ns10:FRS102
+2023-01-01
+2023-12-31
+01763970
+ns10:Audited
+2023-01-01
+2023-12-31
+01763970
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+=== page 2 ===
+01763970
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+01763970
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+01763970
+1
+2023-01-01
+2023-12-31
+01763970
+ns10:OrdinaryShareClass1
+2023-01-01
+2023-12-31
+01763970
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+01763970
+ns10:Director2
+2023-01-01
+2023-12-31
+01763970
+ns5:CurrentFinancialInstruments
+2023-12-31
+01763970
+ns5:CurrentFinancialInstruments
+2022-12-31
+01763970
+ns5:ShareCapital
+2023-12-31
+01763970
+ns5:ShareCapital
+2022-12-31
+01763970
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+01763970
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+01763970
+ns5:ShareCapital
+2021-12-31
+01763970
+ns5:RetainedEarningsAccumulatedLosses
+2021-12-31
+01763970
+ns5:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-31
+01763970
+ns5:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+01763970
+ns5:NetGoodwill
+2023-01-01
+2023-12-31
+01763970
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-01-01
+2023-12-31
+01763970
+ns5:ComputerSoftware
+2023-01-01
+2023-12-31
+01763970
+ns5:ReportableOperatingSegment1
+=== page 3 ===
+2023-01-01
+2023-12-31
+01763970
+ns5:ReportableOperatingSegment1
+2022-01-01
+2022-12-31
+01763970
+ns5:ReportableOperatingSegment2
+2023-01-01
+2023-12-31
+01763970
+ns5:ReportableOperatingSegment2
+2022-01-01
+2022-12-31
+01763970
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2023-01-01
+2023-12-31
+01763970
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2022-01-01
+2022-12-31
+01763970
+ns15:UnitedKingdom
+2023-01-01
+2023-12-31
+01763970
+ns15:UnitedKingdom
+2022-01-01
+2022-12-31
+01763970
+ns15:Europe
+2023-01-01
+2023-12-31
+01763970
+ns15:Europe
+2022-01-01
+2022-12-31
+01763970
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2023-01-01
+2023-12-31
+01763970
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2022-01-01
+2022-12-31
+01763970
+ns10:HighestPaidDirector
+2023-01-01
+2023-12-31
+01763970
+ns10:HighestPaidDirector
+2022-01-01
+2022-12-31
+01763970
+ns5:OwnedAssets
+2023-01-01
+2023-12-31
+01763970
+ns5:OwnedAssets
+2022-01-01
+2022-12-31
+01763970
+ns5:NetGoodwill
+2022-01-01
+2022-12-31
+01763970
+ns5:ComputerSoftware
+2022-01-01
+2022-12-31
+=== page 4 ===
+01763970
+11
+2023-01-01
+2023-12-31
+01763970
+11
+2022-01-01
+2022-12-31
+01763970
+ns10:OrdinaryShareClass1
+2022-01-01
+2022-12-31
+01763970
+ns5:NetGoodwill
+2022-12-31
+01763970
+ns5:ComputerSoftware
+2022-12-31
+01763970
+ns5:NetGoodwill
+2023-12-31
+01763970
+ns5:ComputerSoftware
+2023-12-31
+01763970
+ns5:NetGoodwill
+2022-12-31
+01763970
+ns5:ComputerSoftware
+2022-12-31
+01763970
+ns5:PlantMachinery
+2022-12-31
+01763970
+ns5:FurnitureFittings
+2022-12-31
+01763970
+ns5:MotorVehicles
+2022-12-31
+01763970
+ns5:PlantMachinery
+2023-01-01
+2023-12-31
+01763970
+ns5:FurnitureFittings
+2023-01-01
+2023-12-31
+01763970
+ns5:MotorVehicles
+2023-01-01
+2023-12-31
+01763970
+ns5:PlantMachinery
+2023-12-31
+01763970
+ns5:FurnitureFittings
+2023-12-31
+01763970
+ns5:MotorVehicles
+2023-12-31
+01763970
+ns5:PlantMachinery
+2022-12-31
+01763970
+ns5:FurnitureFittings
+2022-12-31
+01763970
+ns5:MotorVehicles
+2022-12-31
+01763970
+=== page 5 ===
+ns5:CostValuation
+2022-12-31
+01763970
+ns5:AdditionsToInvestments
+2023-12-31
+01763970
+ns5:CostValuation
+2023-12-31
+01763970
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+01763970
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+01763970
+ns5:WithinOneYear
+2023-12-31
+01763970
+ns5:WithinOneYear
+2022-12-31
+01763970
+ns5:BetweenOneFiveYears
+2023-12-31
+01763970
+ns5:BetweenOneFiveYears
+2022-12-31
+01763970
+ns5:AllPeriods
+2023-12-31
+01763970
+ns5:AllPeriods
+2022-12-31
+01763970
+ns5:DeferredTaxation
+2022-12-31
+01763970
+ns5:DeferredTaxation
+2023-01-01
+2023-12-31
+01763970
+ns5:DeferredTaxation
+2023-12-31
+01763970
+ns10:OrdinaryShareClass1
+2023-12-31
+01763970
+1
+2023-01-01
+2023-12-31
+REGISTERED NUMBER: 
+01763970
+(England and Wales) 
+STRATEGIC REPORT, REPORT OF THE DIRECTOR AND
+ FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2023
+FOR
+AVOIRA LIMITED
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+CONTENTS OF THE FINANCIAL STATEMENTS
+for the Year Ended 31 December 2023
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Director  
+4
+Report of the Independent Auditors  
+7
+=== page 6 ===
+Profit and Loss Account  
+11
+Balance Sheet  
+12
+Statement of Changes in Equity  
+13
+Cash Flow Statement  
+14
+Notes to the Cash Flow Statement  
+15
+Notes to the Financial Statements 
+16
+AVOIRA LIMITED
+COMPANY INFORMATION 
+for the Year Ended 31 December 2023
+DIRECTOR:
+Mr A J Roberts
+REGISTERED OFFICE:
+Pennine House
+Salford Street
+Bury
+BL9 6YA
+REGISTERED NUMBER:
+01763970
+(England and Wales) 
+AUDITORS:
+Xeinadin Audit Limited
+100 Barbirolli Square
+Manchester
+M2 3BD
+Page 1
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+STRATEGIC REPORT 
+for the Year Ended 31 December 2023
+The directors present their strategic report of the company for the year ended 31st December 2023.
+The principal activity of Avoira Limited is the design, supply and support of unified communications and IT services to our 
+customers. The company differentiates itself through its speciality in product offering, technical expertise and the provision 
+of high levels of service and support to our customers. We have a diverse customer base and long-standing relationships 
+with several customers and vendors, some of which date back to the company's origins in 1976.
+The unprecedented global impact of the pandemic and the Ukraine conflict has continued to impact 2023, particularly in 
+supply chain delays, although we have seen some improvement in product lead-times during this year. We have a healthy 
+pipeline of projects for delivery. The year has been another positive year for the company as we continue to pursue our 
+established strategy to achieve long term sustained and profitable growth both organically and through acquisition.
+We would like to thank our colleagues, our customers and our vendors for their continued loyalty and support as together 
+we all share the successes of 2023. We believe our people are the best in the industry; they make the difference every day 
+and deliver exceptional customer service. This has been demonstrable in 2023 with our hard-working, committed and 
+amazing employees who continue to deliver in these exceptional times. The Board would like to thank all involved.
+BUSINESS REVIEW
+The financial position of Avoira Limited is presented in the balance sheet on page 12.
+The directors are pleased to report that in 2023 we again achieved growth across each of the company's key financial 
+metrics. Revenue increased from £24.3m to £26.7m whilst gross profit increased from £10.1m to £10.8m.
+Net Assets at the end of 2023 were £4.2m from £4.4m at the end of 2022. Cash balances stood at £1.2m down from 
+£1.7m in 2022.
+FINANCIAL KEY PERFORMANCE INDICATORS
+2023
+2022
+Turnover
+£26.7m
+£24.3m
+Gross Profit
+£10.8m
+£10.1m
+Cash
+£1.2m
+£1.7m
+Net Assets
+£4.2m
+£4.4m
+FUTURE PLANS
+Our plans for the future continue to be:
+=== page 7 ===
+- investment in our business systems to support business growth;
+- training development of our teams;
+- strengthening our portfolio of products and services offered; and
+- continued investment in strategic acquisitions where the directors consider are appropriate.
+Page 2
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+STRATEGIC REPORT 
+for the Year Ended 31 December 2023
+PRINCIPAL RISKS AND UNCERTAINTIES
+The directors consider the following are the principal risks that could materially impact the company's future operating 
+profits or financial stability. However, the company has systems and controls to monitor and actively manage each of 
+these potential exposures with regular reviews, reassessment and proactive management of these risks.
+- Market uncertainties surrounding the financial stability of the UK economy or other such market forces that creates 
+uncertainty around supply or demand for the company's product and services.
+- Dependency on senior management personnel who have extensive experience and knowledge of the company, the 
+company's markets, product and service offering, vendor portfolio and customer base.
+- Loss of key customers and therefore a lack of certainty in respect of the retention of existing customers who may elect 
+not to continue contracting with the company.
+- Technology failure - failure of critical IT, fixed or mobile assets causing disruption.
+- Cyber threat and information security - Internal or external attack resulting in service downtime or data breach.
+- Supplier related risk such as product supply shortages.
+- Hostilities in Ukraine
+ON BEHALF OF THE BOARD:
+Mr A J Roberts
+- Director 
+30 August 2024
+Page 3
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+REPORT OF THE DIRECTOR 
+for the Year Ended 31 December 2023
+The directors present their report and the financial statements of the company for the year ended 31 December 2023.
+DIVIDENDS
+Dividends of £540,000 were distributed for the year ended 31st December 2023.
+EVENTS SINCE THE END OF THE YEAR
+Information relating to events since the end of the year is given in the notes to the financial statements.
+DIRECTORS
+Mr A J Roberts
+has held office during the whole of the period from 1 January 2023 to the date of this report. 
+Other changes in directors holding office are as follows: 
+Mr D R Bennett
+ceased to be a director after 31 December 2023 but prior to the date of this report. 
+GOING CONCERN
+The directors take all reasonable steps to review and consider any factors that may affect the ability of the company to 
+continue as a going concern. The company's forecasts and projections, taking account of reasonably possible changes in 
+trading performance, show that the company and can generate sufficient liquidity to continue in operational existence for 
+the foreseeable future. At the end of 2023, the directors considered the working capital of the business to be adequate for 
+its needs, and the company therefore continues to adopt the going concern basis in preparing of these financial 
+statements.
+FINANCIAL RISK MANAGEMENT AND POLICIES
+The main financial risks arising from the company's operations are credit risk and liquidity risk. The directors review and 
+agree policies for managing each of these risks and they are summarised below.
+Credit risk
+The company's principal financial assets are cash and trade receivables.
+To address credit risks the directors engage a significant internal credit control function with clear procedures and controls 
+designed to assess, manage, and mitigate credit risk.
+Currency risk
+The company primarily trades in GBP and is therefore not subject to any major currency fluctuation risks.
+Liquidity risk
+The company seeks to manage financial risk by ensuring sufficient liquidity is available to meet foreseeable needs and to 
+invest cash assets safely and profitably.
+Short term flexibility is achieved by an invoice finance facility.
+KEY PERFORMANCE INDICATORS
+The company's key performance indicators are described in the Strategic Report.
+DIRECTORS' AND OFFICERS' LIABILITY INSURANCE
+The company maintains insurance cover for the directors and key personnel against liabilities which may be incurred by 
+them while carrying out their duties.
+Page 4
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+REPORT OF THE DIRECTOR 
+for the Year Ended 31 December 2023
+=== page 8 ===
+EMPLOYEE INVOLVEMENT AND POLICIES
+Our employees are our most valuable asset. They make an enormous difference to our success and our investment in 
+them protects and strengthens our common goals. We aim to attract, motivate and retain the best people in our industry, 
+regardless of race, age or disability. The company provides its employees with information and consults with staff on 
+matters of concern to them. We share with them our strategy and decision making. Our employee survey captures their 
+views and is a key component in how we track employee engagement.
+The company have a set of core values introduced to all staff at induction into the company and are re-enforced in regular 
+performance reviews throughout the year as well numerous team and company briefings. Employees are often judged on 
+their adherence to these values as they form the foundation of everything the company does.
+Ongoing training is provided to all staff through our learning and development team. The Board see training as critical in 
+improving individual and team performance as well as enhancing individual management skills. During the pandemic most 
+training was done remotely.
+The Board takes it responsibilities for the mental health of its employees seriously including providing and training mental 
+health first aiders across the business, utilising external occupational mental health specialists, regular encouragement to 
+speak to managers, a HR helpline and constant communication with those staff members working at home.
+The company gives full consideration to applications for employment from disabled persons where the requirements of the 
+job can be adequately fulfilled by a disabled person. Where existing employees become disabled, it is the company's policy 
+whenever practicable to provide continuing employment under normal terms and conditions and to provide training and 
+career development and promotion to disabled employees wherever appropriate.
+The directors would like to thank our staff for the support, commitment and enthusiasm shown last year.
+OTHER STAKEHOLDERS
+Customers and suppliers are central to our business, without them we would not exist. We engage and build relationships 
+via face to face interactions, promotional activity and open days. We constantly strive to improve our working relationship 
+with both suppliers and customers to ensure our continued strength and growth. By continually focusing on the strength of 
+these relationships we cement our ability to·grow our business and explore the many commercial opportunities in front of 
+us.
+The company's supplier payment policy is to agree terms and conditions for business transactions with suppliers. Suppliers 
+are made aware of the company's terms and payment is made according to those terms.
+HUMAN TRAFFICKING AND ANTI-SLAVERY
+The company is committed to ensuring that it is free from acts of modern slavery from within its own business and within 
+its supply chain. The company acknowledges responsibility for implementing the requirements of the Modern Slavery Act 
+2015 and will ensure transparency within the organisation and with suppliers of goods and services to the organisation.
+As part of the company's due diligence process into slavery and human trafficking, the supplier approval process will 
+require all suppliers to confirm that they are compliant with the requirements of the Act. The company will not support or 
+deal with any business knowingly involved in slavery or human trafficking.
+The company directors and senior management will take responsibility for enhancing this policy statement and its 
+objectives, and shall provide adequate training to ensure that, wherever possible, slavery and human trafficking is not 
+taking place within the organisation or within its supply chains.
+The company reserves the right to conduct audits of key suppliers to ensure compliance with the Avoira Limited supplier 
+code of conduct. These audits can be done either by Avoira employees or by contracted, independent third parties or a 
+combination. We expect our suppliers to respect human rights, including maintaining policies and procedures to prevent 
+the use of child or forced labour.
+ENVIRONMENT
+The company is aware of its environmental obligations and actively promotes environmental initiatives with its employees, 
+customers and suppliers.
+EVENTS AFTER THE REPORTING PERIOD
+No matter or circumstance has arisen since 31 December 2023 that has significantly affected, or may significantly affect 
+the company's operations, the results of those operations, or the Company's state of affairs in future financial years.
+Page 5
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+REPORT OF THE DIRECTOR 
+for the Year Ended 31 December 2023
+DISCLOSURE IN THE STRATEGIC REPORT
+The Company has chosen, in accordance with Section 414 C(ii) of the Companies Act 2006, to include certain matters in 
+its Strategic Report that would otherwise be required to disclose in this Directors' Report, specifically in respect of the 
+review of the business, future developments and key risks in the business.
+STATEMENT OF DIRECTOR'S RESPONSIBILITIES
+The director is responsible for preparing the Strategic Report, the Report of the Director and the financial statements in 
+accordance with applicable law and regulations. 
+Company law requires the director to prepare financial statements for each financial year.  Under that law the director has 
+elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice 
+(United Kingdom Accounting Standards and applicable law), including Financial Reporting Standard 102 'The Financial 
+Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the director must not approve the 
+financial statements unless he is satisfied that they give a true and fair view of the state of affairs of the company and of 
+the profit or loss of the company for that period.  In preparing these financial statements, the director is required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+=== page 9 ===
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The director is responsible for keeping adequate accounting records that are sufficient to show and explain the company's 
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable him to 
+ensure that the financial statements comply with the Companies Act 2006. He is also responsible for safeguarding the 
+assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other 
+irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the director is aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and he has taken all the steps that he ought to have taken as a 
+director in order to make himself aware of any relevant audit information and to establish that the company's auditors are 
+aware of that information. 
+ON BEHALF OF THE BOARD:
+Mr A J Roberts
+- Director 
+30 August 2024
+Page 6
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+AVOIRA LIMITED
+Opinion
+We have audited the financial statements of Avoira Limited (the 'company') for the year ended 31 December 2023 which 
+comprise the Profit and Loss Account, Balance Sheet, Statement of Changes in Equity, Cash Flow Statement and Notes to 
+the Cash Flow Statement, Notes to the Financial Statements, including a summary of significant accounting policies. The 
+financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting 
+Standards, including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the UK and Republic 
+of Ireland' (United Kingdom Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 December 2023 and of its profit for the year then 
+ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our 
+responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the financial 
+statements section of our report.  We are independent of the company in accordance with the ethical requirements that 
+are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have fulfilled 
+our other ethical responsibilities in accordance with these requirements.  We believe that the audit evidence we have 
+obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the director's use of the going concern basis of accounting in 
+the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions 
+that, individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a 
+period of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the director with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The director is responsible for the other information. The other information comprises the information in the Strategic 
+Report and the Report of the Director, but does not include the financial statements and our Report of the Auditors 
+thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly 
+stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing 
+so, consider whether the other information is materially inconsistent with the financial statements or our knowledge 
+obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or 
+apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the 
+financial statements themselves. If, based on the work we have performed, we conclude that there is a material 
+misstatement of this other information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Director for the financial year for which the financial 
+statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Director have been prepared in accordance with applicable legal 
+requirements. 
+Page 7
+=== page 10 ===
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+AVOIRA LIMITED
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, 
+we have not identified material misstatements in the Strategic Report or the Report of the Director. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you 
+if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from 
+branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of director's remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of director
+As explained more fully in the Statement of Director's Responsibilities set out on page six, the director is responsible for 
+the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal 
+control as the director determines necessary to enable the preparation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the financial statements, the director is responsible for assessing the company's ability to continue as a going 
+concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless 
+the director either intends to liquidate the company or to cease operations, or has no realistic alternative but to do so. 
+Page 8
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+AVOIRA LIMITED
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs 
+(UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+Identifying and assessing potential risks related to irregularities
+In identifying and assessing risks of material misstatement in respect of irregularities including fraud and non-compliance 
+with laws and regulations we have considered the following:
+-
+The nature of the industry and sector, control environment and business performance including the company's 
+remuneration policies, key drivers for directors remuneration, bonus levels and performance targets.
+-
+Results of the enquiries of management about their own identification and assessment of the risks of irregularities;
+-
+Any matters we have identified having obtained and reviewed the company's documentation of their policies and 
+procedures relating to: 
+-
+identifying, evaluating and complying with laws and regulations and whether they were aware of any instances of 
+noncompliance; 
+-
+detecting and responding to the risks of fraud and whether they have knowledge of any actual, suspected or 
+alleged fraud; 
+- 
+the internal controls established to mitigate risks of fraud or non-compliance with laws and regulations; 
+-
+the matters discussed among the audit engagement team regarding how and where fraud might occur in the 
+financial statements and any potential indicators of fraud. 
+As a result of these procedures, we considered the opportunities and incentives that may exist within the organisation for 
+fraud and identified the greatest potential for fraud in the following areas: timing of recognition of income and 
+recoverability of trade debtors. In common with all audits under ISAs (UK), we are also required to perform specific 
+procedures to respond to the risk of management override.
+We also obtained an understanding of the legal and regulatory frameworks that the company operates in, focusing on 
+provisions of those laws and regulations that had a direct effect on the determination of material amounts and disclosures 
+in the financial statements. The key laws and regulations we considered in this context included UK Companies Act, 
+employment law, health and safety, pensions legislation and tax legislation.
+In addition, we considered provisions of other laws and regulations that do not have a direct effect on the financial 
+statements but compliance with which may be fundamental to the company's ability to operate or to avoid a material 
+penalty.
+Audit response to risks identified
+Our procedures to respond to risks identified included the following:
+=== page 11 ===
+-
+reviewing the financial statement disclosures and testing to supporting documentation to assess compliance with 
+provisions of relevant laws and regulations described as having a direct effect on the financial statements; 
+-
+enquiring of management concerning actual and potential litigation and claims; 
+-
+performing analytical procedures to identify any unusual or unexpected relationships that may indicate risks of 
+material misstatement due to fraud; 
+-
+reading minutes of meetings of those charged with governance and reviewing correspondence with HMRC;
+-
+in addressing the risk of fraud through management override of controls, testing the appropriateness of journal 
+entries and other adjustments; assessing whether the judgements made in making accounting estimates are 
+indicative of a potential bias; and evaluating the business rationale of any significant transactions that are unusual 
+or outside the normal course of business; and 
+We also communicated relevant identified laws and regulations and potential fraud risks to all engagement team members 
+including internal specialists, and remained alert to any indications of fraud or non-compliance with laws and regulations 
+throughout the audit.
+No instances of material non-compliance were identified. However, the likelihood of detecting irregularities, including 
+fraud, is limited by the inherent difficulty in detecting irregularities, the effectiveness of the entity's controls, and the 
+nature, timing and extent of the audit procedures performed. Irregularities that result from fraud might be inherently more 
+difficult to detect than irregularities that result from error.  As explained above, there is an unavoidable risk that material 
+misstatements may not be detected, even though the audit has been planned and performed in accordance with ISAs 
+(UK).
+Page 9
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+AVOIRA LIMITED
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those 
+matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by 
+law, we do not accept or assume responsibility to anyone other than the company and the company’s members as a body, 
+for our audit work, for this report, or for the opinions we have formed.
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those 
+matters we are required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's 
+members as a body, for our audit work, for this report, or for the opinions we have formed. 
+Richard Lloyd
+(Senior Statutory Auditor) 
+for and on behalf of 
+Xeinadin Audit Limited
+100 Barbirolli Square
+Manchester
+M2 3BD
+30 August 2024
+Page 10
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+PROFIT AND LOSS ACCOUNT 
+for the Year Ended 31 December 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+TURNOVER
+3
+26,655,839
+24,274,518
+Cost of sales
+15,817,123
+14,145,657
+GROSS PROFIT
+10,838,716
+10,128,861
+Administrative expenses
+=== page 12 ===
+10,371,773
+9,711,889
+OPERATING PROFIT
+5
+466,943
+416,972
+Income from shares in group undertakings 
+-
+693,582
+Interest receivable and similar income 
+7,883
+-
+7,883
+693,582
+PROFIT BEFORE TAXATION 
+474,826
+1,110,554
+Tax on profit
+7
+132,124
+154,668
+PROFIT FOR THE FINANCIAL YEAR 
+342,702
+955,886
+The notes form part of these financial statements
+Page 11
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+BALANCE SHEET 
+31 December 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Intangible assets
+9
+2,087,677
+2,428,587
+Tangible assets
+10
+1,243,663
+1,193,052
+Investments
+11
+3,679
+1,679
+3,335,019
+3,623,318
+CURRENT ASSETS
+Stocks
+12
+780,326
+934,346
+Debtors
+13
+5,310,230
+5,878,143
+Cash at bank and in hand
+1,238,370
+1,690,948
+7,328,926
+8,503,437
+CREDITORS
+Amounts falling due within one year 
+14
+6,051,246
+7,339,072
+=== page 13 ===
+NET CURRENT ASSETS
+1,277,680
+1,164,365
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+4,612,699
+4,787,683
+PROVISIONS FOR LIABILITIES
+17
+393,805
+371,491
+NET ASSETS
+4,218,894
+4,416,192
+CAPITAL AND RESERVES
+Called up share capital
+18
+4,000
+4,000
+Retained earnings
+4,214,894
+4,412,192
+SHAREHOLDERS' FUNDS
+4,218,894
+4,416,192
+The financial statements were approved by the director and authorised for issue on 
+30 August 2024
+and were signed by: 
+Mr A J Roberts
+- Director 
+The notes form part of these financial statements
+Page 12
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+STATEMENT OF CHANGES IN EQUITY 
+for the Year Ended 31 December 2023
+Called up
+share
+Retained
+Total
+capital
+earnings
+equity
+£   
+£   
+£   
+Balance at 1 January 2022
+4,000
+4,956,306
+4,960,306
+Profit for the year
+-
+955,886
+955,886
+Total comprehensive income
+-
+955,886
+955,886
+Dividends
+-
+(
+1,500,000
+)
+(
+1,500,000
+)
+Balance at 31 December 2022
+4,000
+4,412,192
+4,416,192
+Profit for the year
+=== page 14 ===
+-
+342,702
+342,702
+Total comprehensive income
+-
+342,702
+342,702
+Dividends
+-
+(
+540,000
+)
+(
+540,000
+)
+Balance at 31 December 2023
+4,000
+4,214,894
+4,218,894
+The notes form part of these financial statements
+Page 13
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+CASH FLOW STATEMENT 
+for the Year Ended 31 December 2023
+2023
+2022
+Notes
+£   
+£   
+Cash flows from operating activities
+Cash generated from operations
+1
+21,568
+1,466,034
+Tax paid
+(
+93,437
+)
+(
+155,269
+)
+Net cash from operating activities
+(
+71,869
+)
+1,310,765
+Cash flows from investing activities
+Purchase of intangible fixed assets
+(
+33,395
+)
+(
+196,659
+)
+Purchase of tangible fixed assets
+(
+482,409
+)
+(
+462,476
+)
+Purchase of fixed asset investments
+(2,000
+)
+-
+Sale of tangible fixed assets
+129,212
+177,789
+Interest received
+7,883
+=== page 15 ===
+-
+Dividends received
+-
+693,582
+Net cash from investing activities
+(
+380,709
+)
+212,236
+Cash flows from financing activities
+Equity dividends paid
+-
+(
+1,500,000
+)
+Net cash from financing activities
+-
+(
+1,500,000
+)
+(Decrease)/increase in cash and cash equivalents 
+(
+452,578
+)
+23,001
+Cash and cash equivalents at beginning 
+of year 
+2
+1,690,948
+1,667,947
+Cash and cash equivalents at end of 
+year 
+2
+1,238,370
+1,690,948
+The notes form part of these financial statements
+Page 14
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE CASH FLOW STATEMENT 
+for the Year Ended 31 December 2023
+1.
+RECONCILIATION OF PROFIT BEFORE TAXATION TO CASH GENERATED FROM OPERATIONS 
+2023
+2022
+£   
+£   
+Profit before taxation
+474,826
+1,110,554
+Depreciation charges
+797,486
+842,213
+Profit on disposal of fixed assets
+(
+120,595
+)
+(
+125,416
+)
+Finance income
+(7,883
+)
+(693,582
+)
+1,143,834
+1,133,769
+Decrease/(increase) in stocks
+154,020
+(
+416,978
+=== page 16 ===
+)
+Decrease/(increase) in trade and other debtors
+567,913
+(
+1,046,308
+)
+(Decrease)/increase in trade and other creditors
+(
+1,844,199
+)
+1,795,551
+Cash generated from operations 
+21,568
+1,466,034
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are in respect of these 
+Balance Sheet amounts: 
+Year ended 31 December 2023
+31.12.23
+1.1.23
+£   
+£   
+Cash and cash equivalents
+1,238,370
+1,690,948
+Year ended 31 December 2022
+31.12.22
+1.1.22
+£   
+£   
+Cash and cash equivalents
+1,690,948
+1,667,947
+3.
+ANALYSIS OF CHANGES IN NET FUNDS 
+At 1.1.23
+Cash flow
+At 31.12.23
+£   
+£   
+£   
+Net cash 
+Cash at bank and in hand
+1,690,948
+(452,578
+)
+1,238,370
+1,690,948
+(
+452,578
+)
+1,238,370
+Total
+1,690,948
+(452,578
+)
+1,238,370
+The notes form part of these financial statements
+Page 15
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS 
+for the Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+Avoira Limited is a private company limited by share capital, incorporated in England and Wales, registration 
+number 01763970. The address of the registered office is Pennine House, Salford Street, Bury, BL9 6YA and 
+principal places of business are:
+Pennine House
+7a4 Victoria Road,
+=== page 17 ===
+Salford Street,
+Avonmouth,
+Bury,
+Bristol,
+Manchester,
+BS11 9DB
+BL9 6YA
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemption in preparing these financial statements, 
+as permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland": 
+•
+the requirements of Section 33 Related Party Disclosures paragraph 33.7. 
+Preparation of consolidated financial statements
+The Company is exempt from the requirement to prepare consolidated financial statements on the basis that its 
+subsdiaries are not material for the purposes of giving a true and fair view, and hence have been excluded from 
+consolidation.
+Related party exemption
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 102 'The 
+Financial Reporting Standard applicable in the UK and Republic of Ireland', not to disclose related party 
+transactions with wholly owned subsidiaries within the group.
+Turnover
+Turnover arises from the sale of goods and incidental ancillary services.
+Revenue from the sale of goods is recognised on despatch when control of the products is transferred to the 
+customer.
+Revenue from ancillary services is recognised over time as the services are performed. Where contracts for the 
+sales of ancillary services include multiple performance obligations the transaction price is allocated to each 
+separate performance obligation within the contract.
+Goodwill
+Goodwill, being the amount paid in connection with the acquisition of businesses in 2017, 2018 and 2020 are being 
+amortised evenly over their useful estimated life of ten years.
+Business combinations
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less 
+any accumulated amortisation and any accumulated impairment losses.
+Business combinations are accounted for using the purchase method. The consideration for each acquisition is 
+measured at the aggregate of the fair values at acquisition date of assets given, liabilities incurred or assumed, and 
+equity instruments issued by the group in exchange for control of the acquired, plus any costs directly attributable 
+to the business combination. When a business combination agreement provides for an adjustment to the cost of 
+the combination contingent on future events, the group includes the estimated amount of that adjustment in the 
+cost of the combination at the acquisition date if the adjustment is probable and can be measured reliably.
+Computer software
+Computer software purchased is being amortised evenly over its estimated useful life of 3 & 7 years.
+Page 16
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Tangible fixed assets are stated at cost less accumulated depreciation and accumulated impairment losses.
+Depreciation on tangible fixed assets is charged to the profit and loss so as to write off their value, over their 
+estimated useful lives, using the following method:
+Plant and machinery
+-
+3, 5 & 7 years straight line
+Fixtures and fittings
+-
+3 & 7 years straight line
+Motor vehicles
+-
+4 - 5 years straight line
+At each balance sheet date, the Company reviews the carrying amounts of its tangible fixed assets to determine 
+whether there is any indication that any items have suffered an impairment loss. If any such indication exists, the 
+recoverable amount of an asset is estimated in order to determine the extent of the impairment loss, if any. Where 
+it is not possible to estimate the recoverable amount of the asset, the Company estimates the recoverable amount 
+of the cash-generating unit to which the asset belongs.
+=== page 18 ===
+If the recoverable amount of an asset is estimated to be less than its carrying amount, the carrying amount of the 
+asset is reduced to its recoverable amount. Impairment loss is recognised as an expense immediately.
+Stocks
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost is determined 
+using the average cost (AVCO) method.
+The cost of finished goods and work in progress comprises direct materials. At each reporting date, stocks are 
+assessed for impairment. If stocks are impaired, the carrying amount is reduced to its selling price less costs to 
+complete and sell: the impairment loss is recognised immediately in the profit or loss.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the profit and loss account, except 
+to the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they 
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Foreign currencies
+Assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at the balance 
+sheet date.  Transactions in foreign currencies are translated into sterling at the rate of exchange ruling at the date 
+of transaction. Exchange differences are included in the profit or loss account.
+Pension costs and other post-retirement benefits
+The obligations for contributions to defined contribution scheme are recognised as an expense as incurred. The 
+assets of the scheme are held separately from those of the Company in an independent administered fund.
+Page 17
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Leasing commitments
+Assets that are held by the Company under leases which transfer to the Company substantially all the risks and 
+rewards of ownership are classified as being held under finance leases. Leases which do not transfer substantially 
+all the risks and rewards of ownership to the company are classified as operating leases.
+Operating lease payments are recognised as an expense on straight-line basis over the lease term, except where 
+another systematic basis is more representative of the time pattern in which economic benefits from the leased 
+asset are consumed. Contingent rentals arising under operating leases are recognised as an expense in the period 
+in which they are incurred.
+In the event that lease incentives are received to enter into operating leases, such incentives are recognised as a 
+liability. The aggregate benefit of incentives is recognised as a reduction of rental expense on a straight-line basis, 
+except where another systematic basis is more representative of the time pattern in which economic benefits from 
+the leased asset are consumed.
+Leasing - as a lessor
+Leases are classified as operating leases.
+Rental income from operating leases is recognised on a straight-line basis over the term of the relevant lease. 
+Initial direct costs incurred in negotiating and arranging an operating lease are added to the carrying amount of 
+the leased asset and recognised on a straight-line basis over the term of the lease.
+Trade and other debtors
+Trade and other debtors are initially recognised at fair value and thereafter stated at amortised cost using the 
+effective interest method, less impairment losses for bad and doubtful debts except where the effect of discounting 
+would be immaterial. In such cases, the receivables are stated at cost less impairment losses for bad and doubtful 
+debts.
+Trade and other creditors
+Trade and other creditors are initially recognised at fair value and thereafter stated at amortised cost using the 
+effective interest method unless the effect of discounting would be immaterial, in which case they are stated at 
+cost.
+Cash and cash equivalents
+Cash and cash equivalents comprise cash at bank and in hand.
+3.
+TURNOVER
+The turnover and profit before taxation are attributable to the one principal activity of the company. 
+An analysis of turnover by class of business is given below: 
+2023
+=== page 19 ===
+2022
+£   
+£   
+Goods
+16,927,275
+15,618,119
+Services
+9,728,564
+8,656,399
+26,655,839
+24,274,518
+An analysis of turnover by geographical market is given below: 
+2023
+2022
+£   
+£   
+United Kingdom
+26,368,687
+24,049,999
+Europe
+215,170
+144,518
+Rest of the world
+71,982
+80,001
+26,655,839
+24,274,518
+Page 18
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+4.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£   
+£   
+Wages and salaries
+7,067,768
+6,454,669
+Social security costs
+762,946
+732,058
+Other pension costs
+199,547
+187,380
+8,030,261
+7,374,107
+The average number of employees during the year was as follows: 
+2023
+2022
+Administration
+24
+25
+Sales & Marketing
+70
+69
+Distribution
+4
+3
+Engineers
+56
+61
+154
+158
+2023
+2022
+£   
+£   
+=== page 20 ===
+Directors' remuneration
+202,968
+288,043
+Information regarding the highest paid director is as follows:
+2023
+2022
+£   
+£   
+Emoluments etc
+202,968
+288,043
+5.
+OPERATING PROFIT
+The operating profit is stated after charging/(crediting):
+2023
+2022
+£   
+£   
+Depreciation - owned assets
+423,181
+459,573
+Profit on disposal of fixed assets
+(
+120,595
+)
+(
+125,416
+)
+Goodwill amortisation
+249,488
+274,072
+Computer software amortisation
+124,817
+108,568
+Auditors' remuneration
+33,132
+34,530
+Foreign exchange differences
+(
+8,986
+)
+1,547
+Gain/loss on revaluation of investments   
+-
+639
+6.
+EXCEPTIONAL ITEMS
+2023
+2022
+£   
+£   
+Staff settlements
+-
+(55,000
+)
+Page 19
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+7.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+2023
+2022
+£   
+£   
+Current tax:
+UK corporation tax
+=== page 21 ===
+113,933
+97,965
+Corporation tax prior years
+(4,123
+)
+-
+Total current tax
+109,810
+97,965
+Deferred tax
+22,314
+56,703
+Tax on profit
+132,124
+154,668
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is higher than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+2023
+2022
+£   
+£   
+Profit before tax
+474,826
+1,110,554
+Profit multiplied by the standard rate of corporation tax in the UK of 
+25
+% 
+(2022 - 
+19
+%)  
+118,707
+211,005
+Effects of:
+Expenses not deductible for tax purposes
+3,761
+3,482
+Income not taxable for tax purposes
+(
+30,149
+)
+(
+155,609
+)
+Depreciation in excess of capital allowances
+28,780
+39,087
+Deferred tax movement   
+22,314
+56,703
+Prior year tax under/(over) provision  
+(4,123
+)
+-
+Adjustments to tax in respect of change in tax rate  
+(7,166
+)
+-
+Total tax charge
+132,124
+154,668
+8.
+DIVIDENDS
+2023
+2022
+£   
+£   
+Ordinary shares of £1.00 each 
+Interim
+540,000
+=== page 22 ===
+1,500,000
+Page 20
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+9.
+INTANGIBLE FIXED ASSETS
+Computer
+Goodwill
+software
+Totals
+£   
+£   
+£   
+COST
+At 1 January 2023
+2,616,533
+697,657
+3,314,190
+Additions
+-
+33,395
+33,395
+At 31 December 2023
+2,616,533
+731,052
+3,347,585
+AMORTISATION
+At 1 January 2023
+625,759
+259,844
+885,603
+Amortisation for year 
+249,488
+124,817
+374,305
+At 31 December 2023
+875,247
+384,661
+1,259,908
+NET BOOK VALUE
+At 31 December 2023
+1,741,286
+346,391
+2,087,677
+At 31 December 2022
+1,990,774
+437,813
+2,428,587
+10.
+TANGIBLE FIXED ASSETS
+Fixtures
+Plant and
+and
+Motor
+machinery
+fittings
+vehicles
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 January 2023
+5,206,440
+1,674,509
+180,909
+7,061,858
+=== page 23 ===
+Additions
+370,569
+111,055
+785
+482,409
+Disposals
+(
+108,972
+)
+-
+-
+(
+108,972
+)
+At 31 December 2023
+5,468,037
+1,785,564
+181,694
+7,435,295
+DEPRECIATION
+At 1 January 2023
+4,422,484
+1,389,165
+57,157
+5,868,806
+Charge for year 
+292,468
+100,659
+30,054
+423,181
+Eliminated on disposal
+(
+100,355
+)
+-
+-
+(
+100,355
+)
+At 31 December 2023
+4,614,597
+1,489,824
+87,211
+6,191,632
+NET BOOK VALUE
+At 31 December 2023
+853,440
+295,740
+94,483
+1,243,663
+At 31 December 2022
+783,956
+285,344
+123,752
+1,193,052
+Page 21
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+11.
+FIXED ASSET INVESTMENTS
+Shares in
+group
+undertakings
+£   
+COST
+At 1 January 2023
+1,679
+Additions
+=== page 24 ===
+2,000
+At 31 December 2023
+3,679
+NET BOOK VALUE
+At 31 December 2023
+3,679
+At 31 December 2022
+1,679
+The following were subsidiary undertakings of the company:
+Name 
+Country of 
+incorporation
+Class of 
+shares
+Holding
+Principal Activity
+Co-Channel Electronics Limited
+England and Wales
+Ordinary
+100%
+Dormant
+Yellowbus Solutions Ltd
+England and Wales
+Ordinary
+100%
+Dormant
+Rocom Limited
+England and Wales
+Ordinary
+100%
+Dormant
+Pennine Telecom Limited
+England and Wales
+Ordinary
+100%
+Dormant
+The registered office and principal place of the above companies is Pennine House, Salford Street, Bury, BL9 6YA 
+and their financial year end is 31st December 2023.
+The subsidiaries are exempt from the requirements of the Companies Act 2006 relating to the audit of its individual 
+accounts by virtue of Section 477.
+12.
+STOCKS
+2023
+2022
+£   
+£   
+Work-in-progress
+21,826
+119,125
+Finished goods
+758,500
+815,221
+780,326
+934,346
+13.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade debtors
+4,738,002
+5,283,161
+Prepayments and accrued income
+572,228
+594,982
+5,310,230
+5,878,143
+Page 22
+continued...
+=== page 25 ===
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+14.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade creditors
+2,110,537
+2,800,503
+Amounts owed to group undertakings
+540,000
+937,567
+Tax
+113,906
+97,533
+Social security and other taxes 
+215,326
+207,613
+VAT
+561,400
+474,437
+Other creditors
+65,439
+117,044
+Accrued expenses
+2,444,638
+2,704,375
+6,051,246
+7,339,072
+15.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows: 
+2023
+2022
+£   
+£   
+Within one year
+114,472
+25,954
+Between one and five years
+100,527
+25,000
+214,999
+50,954
+16.
+SECURED DEBTS
+The company is party to a composite agreement with its bankers to secure the net bank indebtedness of the 
+group. There are fixed and floating charges registered in favour of both The National Westminster Bank PLC dated 
+26th May 2017 over the undertaking and all property and assets present and future.
+RBS holds two fixed and floating charges dated 11th September 2023 and 26th October 2023 which are secured 
+against all the property or undertaking of the company.
+17.
+PROVISIONS FOR LIABILITIES
+2023
+2022
+£   
+£   
+Deferred tax
+393,805
+371,491
+Deferred
+tax
+£   
+Balance at 1 January 2023
+371,491
+Provided during year
+22,314
+=== page 26 ===
+Balance at 31 December 2023
+393,805
+18.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£   
+£   
+4,000
+Ordinary
+£1.00
+4,000
+4,000
+Page 23
+continued...
+AVOIRA LIMITED (REGISTERED NUMBER: 01763970)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+for the Year Ended 31 December 2023
+19.
+PENSION COMMITMENTS
+The company operates a defined contributions pension scheme. The assets of the scheme are held separately from 
+those of the company in an independently administered fund. The pension cost charge represents contributions 
+payable by the company to the fund and amounted to £199,547 (2022 - £187,380). Contributions totalling £39,838 
+(2022 - £36,542) were payable to the fund at the balance sheet date and are included in creditors.
+20.
+RELATED PARTY DISCLOSURES
+During the period the company made sales of £61,265 (2022: £44,575) to companies where A Roberts is a 
+director. At the reporting date £24,381 (2022: £6,711) was owed by these companies.
+During the period the company incurred expenses of £28,000 (2022: £35,000) from entities related to A Roberts. 
+At the reporting date £7,000 (2022: £7,000) was owed to these entities.
+21.
+POST BALANCE SHEET EVENTS
+On the 5th March 2024, Nycomm Holdings Limited entered into a member's voluntary liquidation with Mr A Roberts 
+becoming sole shareholder of Avoira Limited.
+22.
+ULTIMATE PARENT COMPANY
+The company's ultimate parent was Nycomm Holdings Limited, incorporated in England and Wales.
+Page 24

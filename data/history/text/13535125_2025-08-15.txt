@@ -1,0 +1,2004 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+2024-12-31
+2024-12-31
+26398
+2024-01-01
+false
+43
+true
+true
+Printing and data processing
+42
+true
+false
+false
+13535125
+2024-01-01
+2024-12-31
+13535125
+2023-01-01
+2023-12-31
+13535125
+2024-12-31
+13535125
+2023-12-31
+13535125
+6
+2024-01-01
+2024-12-31
+13535125
+6
+2023-01-01
+2023-12-31
+13535125
+d:Director1
+2024-01-01
+2024-12-31
+13535125
+d:Director2
+2024-01-01
+2024-12-31
+13535125
+d:RegisteredOffice
+2024-01-01
+2024-12-31
+13535125
+e:Buildings
+e:LongLeaseholdAssets
+2024-01-01
+2024-12-31
+13535125
+e:Buildings
+e:LongLeaseholdAssets
+2024-12-31
+13535125
+e:Buildings
+e:LongLeaseholdAssets
+2023-12-31
+13535125
+e:PlantMachinery
+2024-01-01
+2024-12-31
+13535125
+e:PlantMachinery
+2024-12-31
+13535125
+e:PlantMachinery
+2023-12-31
+13535125
+=== page 2 ===
+e:PlantMachinery
+e:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+13535125
+e:PlantMachinery
+e:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+13535125
+e:MotorVehicles
+2024-01-01
+2024-12-31
+13535125
+e:MotorVehicles
+2024-12-31
+13535125
+e:MotorVehicles
+2023-12-31
+13535125
+e:MotorVehicles
+e:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+13535125
+e:MotorVehicles
+e:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+13535125
+e:FurnitureFittings
+2024-01-01
+2024-12-31
+13535125
+e:FurnitureFittings
+2024-12-31
+13535125
+e:FurnitureFittings
+2023-12-31
+13535125
+e:FurnitureFittings
+e:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+13535125
+e:FurnitureFittings
+e:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+13535125
+e:ComputerEquipment
+2024-01-01
+2024-12-31
+13535125
+e:ComputerEquipment
+2024-12-31
+13535125
+e:ComputerEquipment
+2023-12-31
+13535125
+e:ComputerEquipment
+e:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+13535125
+e:ComputerEquipment
+e:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+13535125
+=== page 3 ===
+e:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+13535125
+e:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+13535125
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-12-31
+13535125
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+13535125
+e:CopyrightsPatentsTrademarksServiceOperatingRights
+2024-12-31
+13535125
+e:CopyrightsPatentsTrademarksServiceOperatingRights
+2023-12-31
+13535125
+e:CurrentFinancialInstruments
+2024-12-31
+13535125
+e:CurrentFinancialInstruments
+2023-12-31
+13535125
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2024-12-31
+13535125
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2023-12-31
+13535125
+e:UKTax
+2024-01-01
+2024-12-31
+13535125
+e:UKTax
+2023-01-01
+2023-12-31
+13535125
+e:ShareCapital
+2024-12-31
+13535125
+e:ShareCapital
+2023-12-31
+13535125
+e:RetainedEarningsAccumulatedLosses
+2024-01-01
+2024-12-31
+13535125
+e:RetainedEarningsAccumulatedLosses
+2024-12-31
+13535125
+e:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+13535125
+e:RetainedEarningsAccumulatedLosses
+2023-12-31
+13535125
+e:RetainedEarningsAccumulatedLosses
+2023-01-01
+13535125
+e:AcceleratedTaxDepreciationDeferredTax
+2024-12-31
+13535125
+e:AcceleratedTaxDepreciationDeferredTax
+2023-12-31
+=== page 4 ===
+13535125
+e:OtherDeferredTax
+2024-12-31
+13535125
+e:OtherDeferredTax
+2023-12-31
+13535125
+d:OrdinaryShareClass1
+2024-01-01
+2024-12-31
+13535125
+d:OrdinaryShareClass1
+2024-12-31
+13535125
+d:OrdinaryShareClass1
+2023-12-31
+13535125
+d:FRS102
+2024-01-01
+2024-12-31
+13535125
+d:Audited
+2024-01-01
+2024-12-31
+13535125
+d:FullAccounts
+2024-01-01
+2024-12-31
+13535125
+d:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+13535125
+e:WithinOneYear
+2024-12-31
+13535125
+e:WithinOneYear
+2023-12-31
+13535125
+e:BetweenOneFiveYears
+2024-12-31
+13535125
+e:BetweenOneFiveYears
+2023-12-31
+13535125
+e:MoreThanFiveYears
+2024-12-31
+13535125
+e:MoreThanFiveYears
+2023-12-31
+13535125
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+e:ExternallyAcquiredIntangibleAssets
+2024-01-01
+2024-12-31
+13535125
+e:CopyrightsPatentsTrademarksServiceOperatingRights
+e:ExternallyAcquiredIntangibleAssets
+2024-01-01
+2024-12-31
+13535125
+2
+2024-01-01
+2024-12-31
+13535125
+e:ExternallyAcquiredIntangibleAssets
+2024-01-01
+2024-12-31
+13535125
+e:PlantMachinery
+=== page 5 ===
+e:LeasedAssetsHeldAsLessee
+2024-12-31
+13535125
+e:PlantMachinery
+e:LeasedAssetsHeldAsLessee
+2023-12-31
+13535125
+e:DevelopmentCostsCapitalisedDevelopmentExpenditure
+e:OwnedIntangibleAssets
+2024-01-01
+2024-12-31
+13535125
+e:CopyrightsPatentsTrademarksServiceOperatingRights
+e:OwnedIntangibleAssets
+2024-01-01
+2024-12-31
+13535125
+f:PoundSterling
+2024-01-01
+2024-12-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+13535125
+MICOM TECHNOLOGIES LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 DECEMBER 2024
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+CONTENTS
+Page
+Company Information
+1
+Strategic Report
+2 - 4
+Directors' Report
+5 - 7
+Independent Auditor's Report
+8 - 10
+Statement of Income and Retained Earnings
+11 - 12
+Balance Sheet
+12
+Notes to the Financial Statements
+13 - 29
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+COMPANY INFORMATION
+Directors
+A M Barber
+C G Buswell
+Registered number
+13535125
+Registered office
+Unit 3 Manor Park Industrial Estate
+Quinn Close
+Coventry
+England
+CV3 4LH
+Independent auditor
+MHA
+Statutory Auditor
+The Pinnacle
+150 Midsummer Boulevard
+Milton Keynes
+MK9 1LZ
+Page 1
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+=== page 6 ===
+Introduction
+The Directors present their report for the year 31 December 2024.
+Purpose & Principal activity
+Our aim is to remove complexity from business communication—making it simple, secure, and empowering for every organisation.
+Our mission is to deliver powerful communication platforms that blend digital and physical messaging, enabling businesses to connect efficiently and securely
+Our principal activity is providing Customer Communications Management (CCM) SAAS technology that digitally transforms customers’ communication workflows by providing document composition, secure multi-channel delivery (including digital mail, email, SMS, portal), storage, and retrieval through an easy-to-use web interface. 
+Business review
+Our vision is to lead the way in digital messaging transforming business communication. 
+2024 was a pivotal year
+ in this journey as we evolved from a Hybrid Mail provider to a comprehensive SaaS-based Customer Communications Management (CCM) solution.
+Key Achievements of 2024:
+• Processed record volumes of communications.
+• Achieved 
+Great Place to Work accreditation
+ in the Technology category.
+• Fully deployed 
+SaaS-based communication technology
+ within Microsoft Azure Cloud.
+Turnover this year increased by 13.6% to £32.3m, mostly from Hybrid Mail revenues with a good swing of customers beginning to use our Digital Mail platform. We, therefore, expect Digital/SAAS revenues to grow through 2025 as clients continue to migrate.
+While interest in our Digital Mail solution has been strong, we recognise that some customers require additional onboarding support. We have launched enhanced migration assistance to address this, including dedicated migration technicians and client and employee training programs.
+This year, capex spend related to completing our SAAS communication technology totalled £834k with most customers now migrated to this platform, allowing clients to migrate to our full range of encrypted Digital communication solutions.
+The rollout of new technologies assisted in developing new revenues across our client base, particularly with channel partners where our proprietary software provides a key element of their own software proposition, particularly in highly regulated markets.
+Strategic Roadmap
+Our forward-looking roadmap focuses on continued SAAS communication technology developments that enhance our digital messaging capabilities. These developments will further integrate secure, multi-channel delivery and document composition directly into clients' communications workflows.
+Page 2
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Principal risks and uncertainties
+The Directors recognise the business is subject to a number of risks. The management team continue to monitor them and take appropriate action where necessary.
+The main risks and Company policies to minimise those risks are as follows:
+Cash flow risk
+The financial team continuously monitor the company’s cash flow and alert the Directors to potential risks.
+Credit risk
+Credit risk is still considered to be low and is continuously monitored by the Directors.
+Financial key performance indicators
+Key Performance Indicators (KPIs) are employed by the management team to monitor all aspects of the business, and structure around our ambition to be an employer, provider and investment of choice; in each area we have made notable progress;
+- Employer; highest engagement levels to date 
+- Customer; highest net promoter score and retention levels to date
+- Investment; stretching revenue, EBITDA and debtor day targets achieved
+Medium and long-term revenue and profitability forecasts are considered healthy, and the management team are satisfied these are based on sound business knowledge. We remain excited for the prospects of the business as we leverage our market leading Hybrid Mail position to become the Customer Communication Management software of choice.
+The group stakeholders focus on the following:
+Year ended 31 December 2024
+Year ended 31 December 2023
+£
+£
+Turnover
+32,305,508
+28,436,998
+Gross Profit
+8,003,874
+6,957,831
+Operating Expense
+5,188,493
+4,325,756
+Profit before tax
+2,794,045
+2,661,897
+Profit after tax
+2,298,495
+2,212,605
+EBITDA
+3,868,997
+2,973,708
+Exceptional costs / (gains)
+1,450
+59,542
+Adjusted EBITDA
+3,874,203
+3,031,250
+=== page 7 ===
+Cash Balance
+872,786
+2,061,577
+Equity Shareholders’ Funds
+2,437,654
+4,339,158
+Fixed Assets - tangible
+745,396
+953,365
+Page 3
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+This report was approved by the board
+ and signed on its behalf
+.
+................................................
+C G Buswell
+Director
+................................................
+A M Barber
+Director
+Date: 
+8 August 2025
+Page 4
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 December 2024
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Strategic Report, the Directors' Report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+=== page 8 ===
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+2,298,495
+ (2023 - 
+£
+2,212,605
+)
+.
+Dividends of £4,200,000 were declared during the year (2023: £nil).
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+A M Barber
+C G Buswell
+Page 5
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Environmental matters
+The Company will seek to minimise adverse impacts on the environment from its activities, whilst continuing to address health, safety and economic issues. The Company has complied with all applicable legislation and regulations.
+Company's policy for payment of creditors
+The Company aims to settle all valid creditor invoices within their stated terms or as agreed with the individual suppliers if advantageous rates can be obtained for early settlement.
+Health and safety of employees
+The Company continually reviews the Health and Safety Policy to ensure maintenance of the high health and safety standards and record.
+Engagement with employees
+The Company operates a framework for employee information and consultation which complies with the requirements of the Information and Consultation of Employees Regulations 2004.
+Disabled employees
+The Company gives full consideration to applications for employment from disabled persons. Where existing employees become disabled it is the Company’s policy to provide continuing employment either in the same or an alternative position, wherever practicable. The Company provides equal opportunities for training and career development to all disabled employees.
+Employment, training and advancement of disabled persons
+The Company continues to be an equal opportunities employer and undertakes a proactive training policy for the benefit of the staff as appropriate at all levels. Information regarding overall performance and news is produced regularly at group level and available to all staff.
+=== page 9 ===
+Future developments
+Looking to the year ahead:
+• H1 2025: Expand Digital Mail adoption migrating existing volume
+• H2 2025: Introduce enhanced web-based SAAS multichannel workflows
+With our upgraded technology, outstanding employee culture, and robust strategic roadmap,                        Micom Technologies Limited  is well-positioned to lead the digital transformation of customer communications. 
+Disclosure of information to auditor
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor 
+is
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor 
+is
+ aware of that information.
+Page 6
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Post balance sheet events
+There have been no significant events affecting the 
+Company
+ since the year end.
+Auditor
+The auditor, MHA, previously traded through the legal entity MacIntyre Hudson LLP. In response to regulatory changes, MacIntyre Hudson LLP ceased to hold an audit registration with the engagement transitioning to MHA Audit Services LLP.
+MHA will be proposed for reappointment in accordance with section 485 of the Companies Act 2006. 
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+................................................
+C G Buswell
+Director
+................................................
+A M Barber
+Director
+Date: 
+8 August 2025
+Date: 
+8 August 2025
+Page 7
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Micom Technologies Limited (Formerly known as Imail Comms Limited) (the 'Company')
+ for the 
+year
+ ended 
+31 December 2024
+, which comprise 
+the Statement of Income and Retained Earnings, the Balance Sheet
+ and the related notes, including a summary of significant accounting policies
+=== page 10 ===
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 December 2024
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditor's
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+=== page 11 ===
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 8
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED) (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditor's Report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic Report and the Directors' Report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic Report and the Directors' Report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic Report or the Directors' Report
+=== page 12 ===
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+Directors' Responsibilities Statement
+ set out on page 5, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or 
+have
+ no realistic alternative but to do so.
+Page 9
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED) (CONTINUED)
+Auditor's responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+=== page 13 ===
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditor's Report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+• enquiry of management and those charged with governance around actual and potential litigation and claims;
+• enquiry of entity staff in tax and compliance functions to identify any instance of non-compliance with laws and regulations;
+• performing audit work over the risk of management override of controls, including testing of journal entries and other adjustment for appropriateness, evaluating the business rationale of significant transactions outside the normal course of business and reviewing accounting estimates for bias.
+• reviewing financial statement disclosures and testing to supporting documentation to assess compliance with applicable laws and regulations.
+Because of the inherent limitations of an audit, there is a risk that 
+we
+ will not detect all irregularities, including those leading to a material misstatement in the 
+financial statements
+ or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the 
+financial statements
+, as 
+we
+ will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditor's Report
+.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditor's Report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+=== page 14 ===
+Adam Young
+ (Senior Statutory Auditor)
+for and on behalf of
+MHA, Statutory Auditors
+MHA is the trading name of MHA Audit Services LLP, a limited liability partnership in England and Wales (registered number OC455542)
+15 August 2025
+Page 10
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+STATEMENT OF INCOME AND RETAINED EARNINGS
+FOR THE YEAR ENDED
+31 DECEMBER 2024
+2024
+2023
+Note
+£
+£
+Turnover
+4
+32,305,508
+28,436,998
+Cost of sales
+(
+24,301,634
+)
+(
+21,479,167
+)
+Gross profit
+8,003,874
+6,957,831
+Administrative expenses
+(
+5,188,493
+)
+(
+4,325,756
+)
+Operating profit
+5
+2,815,381
+2,632,075
+Interest receivable and similar income
+9
+38,916
+30,763
+Interest payable and similar expenses
+10
+(
+60,252
+)
+(
+941
+)
+Profit before tax
+2,794,045
+2,661,897
+Tax on profit
+11
+(
+495,550
+)
+(
+449,292
+)
+Profit after tax
+2,298,495
+2,212,605
+Retained earnings at the beginning of the year
+4,339,158
+2,126,553
+=== page 15 ===
+Profit for the year
+2,298,495
+2,212,605
+Dividends declared and paid
+12
+(
+4,200,000
+)
+-
+Retained earnings at the end of the year
+2,437,653
+4,339,158
+There were no recognised gains and losses for the period other than those included in the statement of income and retained earnings
+The notes on pages 13 to 29 form part of these 
+financial statements
+.
+Page 11
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+BALANCE SHEET
+AS AT 
+31 DECEMBER 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+13
+1,482,439
+1,231,099
+Tangible assets
+14
+745,396
+953,365
+2,227,835
+2,184,464
+Current assets
+Stocks
+15
+341,444
+299,688
+Debtors: amounts falling due within one year
+16
+3,596,362
+5,404,271
+Cash at bank and in hand
+17
+872,786
+2,061,577
+4,810,592
+7,765,536
+Creditors: amounts falling due within one year
+18
+(
+4,502,156
+)
+(
+5,463,935
+)
+Net current assets
+308,436
+2,301,601
+Total assets less current liabilities
+2,536,271
+4,486,065
+Provisions for liabilities
+Deferred tax
+19
+(
+=== page 16 ===
+98,617
+)
+(
+146,906
+)
+(
+98,617
+)
+(
+146,906
+)
+Net assets
+2,437,654
+4,339,159
+Capital and reserves
+Called up share capital 
+20
+1
+1
+Profit and loss account
+21
+2,437,653
+4,339,158
+2,437,654
+4,339,159
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+................................................
+C G Buswell
+................................................
+A M Barber
+Director
+Director
+Date: 
+8 August 2025
+The notes on pages 13 to 29 form part of these financial statements.
+Page 12
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1.
+General information
+Imail Comms Limited is a private company limited by shares and incorporated in England and Wales.
+The registered office and principal place of business is Unit 3 Manor Park Industrial Estate, Quinn Close, Coventry, England, CV3 4LH.
+The principal activity is providing Customer Communications Management (CCM) SAAS technology that digitally transforms customers’ communication workflows by providing document composition, secure multi-channel delivery (including digital mail, email, SMS, portal), storage, and retrieval through an easy-to-use web interface. 
+The financial statements are presented in Sterling, which is also the functional currency of the Company. The figures in the financial statements are rounded to the nearest £1.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+=== page 17 ===
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+HDCO11 Limited
+ as at 
+31 December 2024
+ and these financial statements may be obtained from 
+Companies House, Crown Way, Cardiff, CF14 3UZ
+.
+Page 13
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.3
+Going concern
+The financial statements have been prepared on a going concern basis. The directors have considered relevant information, including the annual budget, forecast future cash flows and the impact of subsequent events in making their assessment.
+There was a profit after tax for the period ended 31 December 2024 of £2,298,495, and for at least the next 12 months the directors consider that the Company retains sufficient working capital to continue trading for the foreseeable future.
+Based on these assessments and having regard to the resources available to the entity, the directors have concluded that there is no material uncertainty and that they can continue to adopt the going concern basis in preparing the annual report and accounts.
+2.4
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Statement of Income and Retained Earnings
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+Page 14
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.5
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+=== page 18 ===
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Sale of goods
+Revenue
+ from the sale of goods is recognised when all of the following conditions are satisfied:
+∙
+the 
+Company
+ has transferred the significant risks and rewards of ownership to the buyer;
+∙
+the 
+Company
+ retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold;
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the transaction; and
+∙
+the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.6
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+Page 15
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.7
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight line basis over their useful economic lives, which range from 3 to 6 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.8
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.9
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.10
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+=== page 19 ===
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance Sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+Page 16
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.11
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+2.12
+Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+Intangible assets related to development expenditure and are initially recognised at cost. 
+After being completed and bought under use, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses. Amortisation is provided over a 3 year period for each cycle of development asset and therefore amortisation is provided at different periods based on capitalisation dates. 
+Page 17
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.13
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+At each reporting date the 
+Company
+ assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Leasehold property improvements
+-
+Over the period of the lease
+Plant and machinery
+-
+20%
+Motor vehicles
+-
+33%
+Fixtures and fittings
+-
+33%
+Computer equipment
+-
+33%
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+=== page 20 ===
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.14
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.15
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+Page 18
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.16
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.17
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.18
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.19
+Financial instruments
+The Company only enters into basic financial instrument transactions that result in the recognition of financial assets and liabilities like trade and other debtors and creditors, loans from banks and other third parties, loans to related parties and investments in ordinary shares. 
+Debt instruments (other than those wholly repayable or receivable within one year), including loans and other accounts receivable and payable, are initially measured at present value of the future cash flows and subsequently at amortised cost using the effective interest method. Debt instruments that are payable or receivable within one year, typically trade debtors and creditors, are measured, initially and subsequently, at the undiscounted amount of the cash or other consideration expected to be paid or received. However, if the arrangements of a short-term instrument constitute a financing transaction, like the payment of a trade debt deferred beyond normal business terms or in case of an out-right short-term loan that is not at market rate, the financial asset or liability is measured, initially at the present value of future cash flows discounted at a market rate of interest for a similar debt instrument and subsequently at amortised cost, unless it qualifies as a loan from a director in the case of a small company, or a public benefit entity concessionary loan. 
+Investments in non-derivative instruments that are equity to the issuer are measured: 
+• at fair value with changes recognised in the Statement of Comprehensive Income if the shares are publicly traded or their fair value can otherwise be measured reliably; 
+• at cost less impairment for all other investments. 
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting period for objective evidence of impairment. If objective evidence of impairment is found, an impairment loss is recognised in the Statement of comprehensive Income. 
+For financial assets measured at amortised cost, the impairment loss is measured as the difference between an asset's carrying amount and the present value of estimated cash flows discounted at the asset's original effective interest rate. If a financial asset has a variable interest rate, the discount
+Page 19
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+rate for measuring any impairment loss is the current effective interest rate determined under the contract. 
+For financial assets measured at cost less impairment, the impairment loss is measured as the difference between an asset's carrying amount and best estimate of the recoverable amount, which is an approximation of the amount that the Company would receive for the asset if it were to be sold at the balance sheet date. 
+Financial assets and liabilities are offset and the net amount reported in the Balance sheet when there is an enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously. 
+2.20
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+Preparation of the financial statements requires management to make significant judgements and
+estimates. The items in the financial statements where these judgements and estimates have been made
+include:
+Useful economic lives of tangible and intangible fixed assets
+The Company holds both tangible and intangible assets. Management judgement is required in setting the useful economic lives for each class of tangible asset and an appropriate rate for intangible assets.
+Management judgement is also required for estimating any net realisable values to be incorporated into depreciation methods.
+Impairment of intangible assets
+The entity considered whether intangible assets are impaired. Where an indication of impairment is identified, the estimation of recoverable value requires estimation of the recoverable value of the cash generating units. 
+This requires estimation of the future cash flows from the cash generating units and also selection of appropriate discount rates in order to calculate the net present value of those cashflows.
+4.
+Turnover
+The whole of the turnover is attributable to the principal activity.
+All turnover arose 
+within the United Kingdom
+.
+Page 20
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+=== page 21 ===
+FOR THE YEAR ENDED 31 DECEMBER 2024
+5.
+Operating profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Exchange differences
+1,072
+196
+Other operating lease rentals
+154,286
+154,029
+6.
+Auditor's remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditor
+:
+2024
+2023
+£
+£
+Fees payable to the Company's auditor for the audit of the Company's financial statements
+27,000
+24,000
+The 
+Company
+ has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the consolidated accounts of the parent 
+Company
+.
+7.
+Employees
+Staff costs, including directors' remuneration, included in the profit and loss account were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+2,167,584
+1,989,584
+Social security costs
+285,624
+193,160
+Cost of defined contribution scheme
+33,717
+63,317
+2,486,925
+2,246,061
+In addition to the above, staff costs of £580,394 (2023: £415,239) are included in development expenditure within intangibles.
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2024
+2023
+No.
+No.
+Employees
+43
+42
+=== page 22 ===
+Page 21
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+8.
+Directors' remuneration
+2024
+2023
+£
+£
+Directors' emoluments
+570,539
+535,259
+Company contributions to defined contribution pension schemes
+3,934
+17,000
+574,473
+552,259
+During the 
+year
+ retirement benefits were accruing to 
+1
+director
+ (2023 - 
+1
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+201,422
+ (2023 - £
+296,880
+)
+.
+The value of the 
+Company
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+3,934
+ (2023 - £
+17,000
+)
+.
+9.
+Interest receivable
+2024
+2023
+£
+£
+Other interest receivable
+38,916
+30,763
+10.
+Interest payable and similar expenses
+2024
+2023
+£
+£
+Finance leases and hire purchase contracts
+60,252
+941
+Page 22
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+11.
+=== page 23 ===
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Current tax on profits for the year
+543,839
+348,790
+Total current tax
+543,839
+348,790
+Deferred tax
+Origination and reversal of timing differences
+(
+48,289
+)
+100,502
+Total deferred tax
+(
+48,289
+)
+100,502
+Tax on profit
+495,550
+449,292
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+higher than
+ (2023 - lower than) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2023 - 
+23.5
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+2,794,045
+2,661,897
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 23.5%)
+698,511
+626,093
+Effects of:
+Non-tax deductible costs
+2,080
+634
+Depreciation in excess of capital allowances / (capital allowances for year in excess of depreciation)
+38,841
+(
+98,033
+)
+Short-term timing difference leading to an increase (decrease) in taxation
+7,753
+(
+6,222
+)
+Group relief
+(
+203,346
+)
+(
+173,682
+=== page 24 ===
+)
+Deferred tax movements
+(
+48,289
+)
+100,502
+Total tax charge for the year
+495,550
+449,292
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+Page 23
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+12.
+Dividends
+2024
+2023
+£
+£
+Dividends paid
+4,200,000
+-
+13.
+Intangible assets
+Development expenditure
+Trademarks
+Total
+£
+£
+£
+Cost
+At 1 January 2024
+1,386,149
+400
+1,386,549
+Additions
+868,005
+-
+868,005
+At 31 December 2024
+2,254,154
+400
+2,254,554
+Amortisation
+At 1 January 2024
+155,450
+-
+155,450
+Charge for the year on owned assets
+616,665
+-
+616,665
+At 31 December 2024
+772,115
+-
+772,115
+Net book value
+At 31 December 2024
+1,482,039
+400
+1,482,439
+At 31 December 2023
+1,230,699
+400
+1,231,099
+Page 24
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+=== page 25 ===
+FOR THE YEAR ENDED 31 DECEMBER 2024
+14.
+Tangible fixed assets
+Leasehold property improvements
+Plant and machinery
+Motor vehicles
+Fixtures and fittings
+£
+£
+£
+£
+Cost 
+At 1 January 2024
+317,932
+600,908
+173,669
+20,091
+Additions
+12,668
+134,346
+100,896
+2,038
+Disposals
+-
+-
+(
+89,241
+)
+-
+At 31 December 2024
+330,600
+735,254
+185,324
+22,129
+Depreciation
+At 1 January 2024
+31,106
+179,192
+36,082
+10,431
+Charge for the year on owned assets
+26,398
+232,286
+58,224
+6,973
+Charge for the year on financed assets
+-
+24,162
+-
+-
+Disposals
+-
+-
+(
+54,485
+)
+-
+At 31 December 2024
+57,504
+435,640
+39,821
+17,404
+Net book value
+At 31 December 2024
+273,096
+299,614
+145,503
+4,725
+At 31 December 2023
+286,826
+=== page 26 ===
+421,716
+137,587
+9,660
+Page 25
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+14.
+Tangible fixed assets (continued)
+Computer equipment
+Total
+£
+£
+Cost 
+At 1 January 2024
+335,282
+1,447,882
+Additions
+13,790
+263,738
+Disposals
+-
+(
+89,241
+)
+At 31 December 2024
+349,072
+1,622,379
+Depreciation
+At 1 January 2024
+237,706
+494,517
+Charge for the year on owned assets
+88,908
+412,789
+Charge for the year on financed assets
+-
+24,162
+Disposals
+-
+(
+54,485
+)
+At 31 December 2024
+326,614
+876,983
+Net book value
+At 31 December 2024
+22,458
+745,396
+At 31 December 2023
+97,576
+953,365
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+2024
+2023
+£
+£
+Plant and machinery
+103,599
+-
+15.
+Stocks
+2024
+2023
+£
+£
+Raw materials and consumables
+341,444
+299,688
+=== page 27 ===
+Page 26
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+16.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+2,218,666
+2,669,658
+Amounts owed by group undertakings
+868,571
+2,306,723
+Other debtors
+3,125
+9,916
+Prepayments and accrued income
+506,000
+417,974
+3,596,362
+5,404,271
+17.
+Cash and cash equivalents
+2024
+2023
+£
+£
+Cash at bank and in hand
+872,786
+2,061,577
+18.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+2,633,136
+3,643,941
+Corporation tax
+352,554
+348,790
+Other taxation and social security
+362,422
+392,364
+Obligations under finance lease and hire purchase contracts
+92,164
+-
+Other creditors
+55,065
+50,278
+Accruals and deferred income
+1,006,815
+1,028,562
+4,502,156
+5,463,935
+Page 27
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+19.
+Deferred taxation
+2024
+£
+At beginning of year
+146,906
+Credited to the profit and loss account
+=== page 28 ===
+(
+48,289
+)
+At end of year
+98,617
+The 
+provision for deferred taxation
+ is made up as follows:
+2024
+2023
+£
+£
+Accelerated capital allowances
+128,477
+166,013
+Other timing differences
+(
+29,860
+)
+(
+19,107
+)
+98,617
+146,906
+20.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+1
+ (2023 - 
+1
+)
+Ordinary share capital
+share of
+£
+1.00
+1
+1
+21.
+Reserves
+Profit and loss account
+This reserve represents the cumulative profits and losses of the Company after the payment of dividends.
+22.
+Pension commitments
+The entity operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the entity in an independently administered fund. The pension cost charge represents contributions payable by the entity to the fund and amounted to £106,423 (2023: £58,056). Contributions totalling £24,109 (2023: £19,320) were payable to the fund at the balance sheet date.
+Page 28
+MICOM TECHNOLOGIES LIMITED (FORMERLY KNOWN AS IMAIL COMMS LIMITED)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+23.
+Commitments under operating leases
+At 
+31 December 2024
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+154,000
+154,000
+Later than 1 year and not later than 5 years
+616,000
+616,000
+Later than 5 years
+=== page 29 ===
+308,000
+462,000
+1,078,000
+1,232,000
+24.
+Other financial commitments
+Imail Comms Limited have provided Barclays Bank Plc with a fixed and floating charge over all accounts in respect of amounts owed to Barclays Bank Plc.
+Imail Comms Limited have provided TC Loans Limited with a fixed charge over certain current or potential future assets in respect of amounts owed by their parent. Total amounts outstanding to TC Loans Limited by the parent entity at the year end is £4,361,387 (2023: £4,361,387).
+25.
+Controlling party
+The immediate controlling party for the Company is 
+HDCO11 Limited
+ by virtue of their 100% holding of the shares of the company. 
+The Directors consider that there is no ultimate holding party.
+Page 29

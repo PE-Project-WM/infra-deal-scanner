@@ -1,0 +1,1795 @@
+=== page 1 ===
+Virtua UK Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v23.3.0.418
+04047798
+Board of Directors
+Board of Directors
+1.5.22
+30.4.23
+30.4.23
+true
+false
+true
+true
+false
+false
+true
+true
+true
+false
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+04047798
+2022-04-30
+04047798
+2023-04-30
+04047798
+2022-05-01
+2023-04-30
+04047798
+2021-04-30
+04047798
+2021-05-01
+2022-04-30
+04047798
+2022-04-30
+04047798
+ns10:Original
+ns15:EnglandWales
+2022-05-01
+2023-04-30
+04047798
+ns14:PoundSterling
+ns10:Original
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:Director1
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:Director2
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+2023-04-30
+04047798
+ns10:Original
+ns10:PrivateLimitedCompanyLtd
+=== page 2 ===
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:FRS102
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:Audited
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2022-05-01
+2023-04-30
+04047798
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+ns10:Original
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:FullAccounts
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:Director3
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns10:RegisteredOffice
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+2022-04-30
+04047798
+ns10:Original
+ns5:CurrentFinancialInstruments
+2023-04-30
+04047798
+ns10:Original
+ns5:CurrentFinancialInstruments
+2022-04-30
+04047798
+ns5:ShareCapital
+ns10:Original
+2023-04-30
+04047798
+ns5:ShareCapital
+ns10:Original
+2022-04-30
+04047798
+ns10:Original
+ns5:CapitalRedemptionReserve
+2023-04-30
+04047798
+ns10:Original
+ns5:CapitalRedemptionReserve
+2022-04-30
+04047798
+ns10:Original
+=== page 3 ===
+ns5:RetainedEarningsAccumulatedLosses
+2023-04-30
+04047798
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-04-30
+04047798
+ns5:ShareCapital
+ns10:Original
+2021-04-30
+04047798
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2021-04-30
+04047798
+ns10:Original
+ns5:CapitalRedemptionReserve
+2021-04-30
+04047798
+ns10:Original
+2021-04-30
+04047798
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+ns5:CapitalRedemptionReserve
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:CapitalRedemptionReserve
+2022-05-01
+2023-04-30
+04047798
+ns5:OwnedAssets
+ns10:Original
+2022-05-01
+2023-04-30
+04047798
+ns5:OwnedAssets
+ns10:Original
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+ns5:LeasedAssets
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:LeasedAssets
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+12
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+12
+2021-05-01
+=== page 4 ===
+2022-04-30
+04047798
+2
+ns10:Original
+2022-05-01
+2023-04-30
+04047798
+2
+ns10:Original
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+ns5:FinanceLeases
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:FinanceLeases
+2021-05-01
+2022-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+2022-04-30
+04047798
+ns10:Original
+ns5:FurnitureFittings
+2022-04-30
+04047798
+ns10:Original
+ns5:MotorVehicles
+2022-04-30
+04047798
+ns10:Original
+ns5:ComputerEquipment
+2022-04-30
+04047798
+ns10:Original
+2022-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:FurnitureFittings
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:MotorVehicles
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:ComputerEquipment
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+2023-04-30
+04047798
+ns10:Original
+ns5:FurnitureFittings
+2023-04-30
+04047798
+ns10:Original
+=== page 5 ===
+ns5:MotorVehicles
+2023-04-30
+04047798
+ns10:Original
+ns5:ComputerEquipment
+2023-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+2022-04-30
+04047798
+ns10:Original
+ns5:FurnitureFittings
+2022-04-30
+04047798
+ns10:Original
+ns5:MotorVehicles
+2022-04-30
+04047798
+ns10:Original
+ns5:ComputerEquipment
+2022-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2022-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2023-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2022-05-01
+2023-04-30
+04047798
+ns10:Original
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2022-04-30
+04047798
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-04-30
+04047798
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-04-30
+04047798
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:FinanceLeases
+ns5:WithinOneYear
+2023-04-30
+04047798
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:FinanceLeases
+ns5:WithinOneYear
+2022-04-30
+04047798
+ns10:Original
+ns5:WithinOneYear
+2023-04-30
+04047798
+=== page 6 ===
+ns10:Original
+ns5:WithinOneYear
+2022-04-30
+04047798
+ns5:BetweenOneFiveYears
+ns10:Original
+2023-04-30
+04047798
+ns5:BetweenOneFiveYears
+ns10:Original
+2022-04-30
+04047798
+ns10:Original
+ns5:AllPeriods
+2023-04-30
+04047798
+ns10:Original
+ns5:AllPeriods
+2022-04-30
+04047798
+ns5:Secured
+ns10:Original
+2023-04-30
+04047798
+ns5:Secured
+ns10:Original
+2022-04-30
+04047798
+ns10:Original
+ns5:OtherProvisionsContingentLiabilities
+2022-04-30
+04047798
+ns10:Original
+ns5:OtherProvisionsContingentLiabilities
+2023-04-30
+04047798
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-04-30
+04047798
+ns10:Original
+ns5:CapitalRedemptionReserve
+2022-04-30
+REGISTERED NUMBER: 
+04047798
+(England and Wales) 
+VIRTUA UK LIMITED
+STRATEGIC REPORT, REPORT OF THE DIRECTORS AND
+ AUDITED FINANCIAL STATEMENTS
+ FOR THE YEAR ENDED 30TH APRIL 2023
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30TH APRIL 2023
+Page
+Company Information  
+1
+Strategic Report  
+2
+to
+4
+Report of the Directors  
+5
+Report of the Independent Auditors  
+6
+to
+8
+Statement of Comprehensive Income 
+9
+Statement of Financial Position  
+10
+=== page 7 ===
+Statement of Changes in Equity  
+11
+Notes to the Financial Statements 
+12
+to
+20
+VIRTUA UK LIMITED
+COMPANY INFORMATION
+FOR THE YEAR ENDED 30TH APRIL 2023
+DIRECTORS:
+Mr B J Watt
+Mr A J Richards
+Mr G S Firth
+REGISTERED OFFICE:
+Unit 5 Wildmere Close
+BANBURY
+Oxfordshire
+OX16 3TL
+REGISTERED NUMBER:
+04047798
+(England and Wales) 
+AUDITORS:
+Morris Owen
+Statutory Auditors
+43-45 Devizes Road
+SWINDON
+Wiltshire
+SN1 4BG
+BANKERS:
+Barclays Bank Plc
+15 Queen Square
+BRISTOL
+Avon
+BS1 4NP
+Page 1
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+STRATEGIC REPORT
+FOR THE YEAR ENDED 30TH APRIL 2023
+OUR MARKET PLACE AND BUSINESS MODEL
+The company operates broadly across 4 markets:
+- Broadcast (ceasing in 2024/25)
+- RF Solutions/ In Building
+- FTTx
+- Network Solutions
+Each part of the business interacts in order that the business can offer a one stop shop across these 
+markets thereby increasing our offer to the market and de-risking reliance on any individual market 
+sector.
+STRATEGIC OBJECTIVES
+The year to 30th April 2023 saw the company pull back from work within the Broadcast Division. Due to 
+low margins and high risk the decision was taken to cease high mast work other than projects currently in 
+progress. The FTTx division consolidated during the year with a decision taken to concentrate on higher 
+margin work rather than volume. The company continued to only take on work at minimum acceptable 
+margins in order to ensure ongoing profitability.
+The ongoing objective is to continue to provide a wide offering across a range of working platforms and 
+customers, providing a one stop turnkey solution, and building strategic partnerships within the industry. 
+This ensures that the company is not reliant on any sector of the market or individual customer and can 
+respond to changing priorities and trends within the marketplace.
+PERFORMANCE
+Sales decreased from £22.2m for the 12 months to 30th April 2022 to £18.5m for the year to 30th April 
+2023. This was mainly due to pulling back from Broadcast work and consolidating work within the FTTx 
+division. Gross Profit Margins increased to 23.6% during the year compared to 23% in 2021. Broadcast 
+margins were very poor at 8% but other Divisions performed in line with expectations.
+Page 2
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+STRATEGIC REPORT
+FOR THE YEAR ENDED 30TH APRIL 2023
+PRINCIPAL RISKS AND UNCERTAINTIES
+Risk
+Impact
+Mitigation
+=== page 8 ===
+Over-reliance on too few 
+customers  
+Risk of impact of loss of key 
+accounts and contracts.
+Increasing offer across several 
+markets to increase customer 
+base.
+Seasonality
+Creates peaks and troughs of 
+work.
+Diversifying into areas that are 
+less seasonal in nature.
+Risk of customer going into 
+liquidation
+Risk of amounts owed to the 
+not group being paid.
+Careful selection of customers to 
+ensure credit-worthiness, and 
+strict credit control procedures.
+Cash impact of expansion
+Additional cash requirement 
+above current facility.
+All new work is cash profiled to 
+ensure that a cash positive 
+situation is maintained.
+Increased credit lines with 
+suppliers
+Additional cash requirement if 
+credit limits not increased.
+Maintain and develop good 
+current relationships with 
+suppliers. Improving profitability 
+will increase also credit limits.
+Ability to resource manpower 
+required to maintain expansion
+Inability to deliver new 
+workstreams if resource is not 
+available.
+Continuing development of 
+database of resource to call on in 
+any situation.
+Impact of Brexit
+Potential Delays on imported 
+goods.
+Appointment of specialist import 
+agent. Build in additional lead 
+times into project timescales.
+Impact of COVID 19/ 
+Pandemics
+Potential Disruption to work 
+due to access issues and 
+restrictions on working.
+Implementation of robust and 
+strict Health & Safety and working 
+practices specifically around 
+COVID 19/ Pandemic situations. 
+Risk is also mitigated by the 
+company activities generally 
+encompassing work that has been 
+permitted to continue during lock 
+down.
+KPI'S
+The company expects the following minimum Gross Margins across the individual markets it operates in:
+- RF Solutions/ In Building - 25%
+- FTTx - 28%
+- Network Solutions - 30%
+The company does not expect the revenue with any one customer to exceed 20% of overall revenue.
+The company expects to make a 3-4% EBITDA profit for the financial year 2022/23, a 4-5% EBITDA 
+profit by 2023/24 and 7% by 2024/25.
+Page 3
+=== page 9 ===
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+STRATEGIC REPORT
+FOR THE YEAR ENDED 30TH APRIL 2023
+LETTER FROM THE BOARD
+The year to 30th April 2023 saw the company continuing to focus on work that attracts a minimum 
+acceptable margin. Whilst the Gross Margin for the year was lower than expected overall this was mainly 
+due to achieving only 8% margins in the Broadcast Division. Other Divisions achieved margins in line with 
+expectations.
+The company has a very a strong order book for 2024/25 onwards and anticipates achieving overall 
+margins of at least 28%. This is underpinned by several long-term projects which provide ongoing 
+reliable revenue streams into the foreseeable future.
+The ongoing invoice discounting facility with Shawbrook Bank provides sufficient operating cash and with 
+profits now being generated, the group is in a sound financial position.
+FINANCIAL INSTRUMENTS
+Debtors:
+- Trade Debtors are all within terms and no amounts outstanding are in dispute.
+- Amounts Recoverable on Contract have been recovered since year end.
+- Accrued Income has all been invoiced since the year end.
+Creditors:
+- Trade Creditors are within terms and there are no outstanding disputes.
+- Amounts owed to Group Undertakings are owed to the holding company, Virtua Holdings Limited, who 
+are supportive of the company.
+- Other Creditors includes £1.44m owed for Sales Invoice Financing which is an ongoing facility available 
+to the company.
+- All Social Security, Tax and VAT payments are up to date.
+ON BEHALF OF THE BOARD:
+Mr A J Richards
+- Director 
+25th January 2024
+Page 4
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+REPORT OF THE DIRECTORS
+FOR THE YEAR ENDED 30TH APRIL 2023
+The directors present their report with the financial statements of the company for the year ended 30th April 2023.  
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was that of telecommunications and 
+network infrastructure solutions. 
+DIVIDENDS
+No dividends will be distributed for the year ended 30th April 2023. 
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1st May 2022 to the date 
+of this report. 
+Mr B J Watt
+Mr A J Richards
+Mr G S Firth
+DISCLOSURE IN THE STRATEGIC REPORT
+A statement in respect of the company's future developments can be found in the Strategic Report.
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the 
+financial statements in accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that 
+law the directors have elected to prepare the financial statements in accordance with United Kingdom 
+Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law), 
+including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the UK and 
+Republic of Ireland'. Under company law the directors must not approve the financial statements unless 
+they are satisfied that they give a true and fair view of the state of affairs of the company and of the 
+profit or loss of the company for that period.  In preparing these financial statements, the directors are 
+required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that 
+the company will continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and 
+explain the company's transactions and disclose with reasonable accuracy at any time the financial 
+position of the company and enable them to ensure that the financial statements comply with the 
+Companies Act 2006. They are also responsible for safeguarding the assets of the company and hence for 
+taking reasonable steps for the prevention and detection of fraud and other irregularities. 
+=== page 10 ===
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the 
+Companies Act 2006) of which the company's auditors are unaware, and each director has taken all the 
+steps that he ought to have taken as a director in order to make himself aware of any relevant audit 
+information and to establish that the company's auditors are aware of that information. 
+ON BEHALF OF THE BOARD:
+Mr A J Richards
+- Director 
+25th January 2024
+Page 5
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+VIRTUA UK LIMITED
+Opinion
+We have audited the financial statements of Virtua UK Limited (the 'company') for the year ended 
+30th April 2023 which comprise the Statement of Comprehensive Income, Statement of Financial 
+Position, Statement of Changes in Equity and Notes to the Financial Statements, including a summary of 
+significant accounting policies. The financial reporting framework that has been applied in their 
+preparation is applicable law and United Kingdom Accounting Standards, including Financial Reporting 
+Standard 102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United 
+Kingdom Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 30th April 2023 and of its loss for 
+the year then ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting 
+Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and 
+applicable law. Our responsibilities under those standards are further described in the Auditors' 
+responsibilities for the audit of the financial statements section of our report.  We are independent of the 
+company in accordance with the ethical requirements that are relevant to our audit of the financial 
+statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements.  We believe that the audit evidence we have 
+obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis 
+of accounting in the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to 
+events or conditions that, individually or collectively, may cast significant doubt on the company's ability 
+to continue as a going concern for a period of at least twelve months from when the financial statements 
+are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in 
+the relevant sections of this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information 
+in the Strategic Report and the Report of the Directors, but does not include the financial statements and 
+our Report of the Auditors thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent 
+otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information 
+and, in doing so, consider whether the other information is materially inconsistent with the financial 
+statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we 
+identify such material inconsistencies or apparent material misstatements, we are required to determine 
+whether this gives rise to a material misstatement in the financial statements themselves. If, based on 
+the work we have performed, we conclude that there is a material misstatement of this other information, 
+we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for 
+which the financial statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable 
+legal requirements. 
+Page 6
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+VIRTUA UK LIMITED
+=== page 11 ===
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the 
+course of the audit, we have not identified material misstatements in the Strategic Report or the Report 
+of the Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us 
+to report to you if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been 
+received from branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page five, the directors 
+are responsible for the preparation of the financial statements and for being satisfied that they give a 
+true and fair view, and for such internal control as the directors determine necessary to enable the 
+preparation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to 
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the 
+going concern basis of accounting unless the directors either intend to liquidate the company or to cease 
+operations, or have no realistic alternative but to do so. 
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are 
+free from material misstatement, whether due to fraud or error, and to issue a Report of the Auditors 
+that includes our opinion.  Reasonable assurance is a high level of assurance, but is not a guarantee that 
+an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it 
+exists. Misstatements can arise from fraud or error and are considered material if, individually or in the 
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the 
+basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed 
+below: 
+Our approach to identifying and assessing the risks of material misstatement in respect of irregularities, 
+including fraud and non-compliance with laws and regulations, was as follows:
+-
+the engagement partner ensured that the engagement team collectively had the appropriate 
+competence, capabilities and skills to identify or recognise non-compliance with applicable laws 
+and regulations through the audit planning process;
+-
+we identified the laws and regulations applicable to the company through discussions with directors 
+and other management, and from our commercial knowledge and experience of the company's 
+industry;
+-
+we focused on specific laws and regulations which we considered may have a direct material effect 
+on the financial statements or the operations of the company, including the Companies Act, 
+taxation legislation, employment legislation, health and safety legislation;
+-
+we assessed the extent of compliance with the laws and regulations identified above through 
+making enquiries of management and inspecting legal correspondence; and
+-
+identified laws and regulations were communicated within the audit team regularly and the team 
+remained alert to instances of non-compliance throughout the audit.
+Page 7
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF
+VIRTUA UK LIMITED
+We assessed this susceptibility of the company's financial statements to material misstatement, including 
+obtaining an understanding of how fraud might occur by:
+-
+making enquiries of management as to where they considered there was susceptibility to fraud, 
+their knowledge of actual, suspected and alleged fraud; and
+-
+considering the internal controls in place to mitigate risks of fraud and non-compliance with laws 
+and regulations.
+As a result of the company having a small management and finance team, we identified a risk of fraud 
+through management bias and ability to override of controls, including lack of segregation of duties, 
+which could lead to a misappropriation of cash and other assets. To address this we:
+-
+=== page 12 ===
+performed analytical procedures to identify any unusual or unexpected relationships;
+-
+tested journal entries and sales credit notes to identify unusual transactions;
+-
+assessed whether judgements and assumptions made in determining accounting estimates were 
+indicative of potential bias; and
+-
+investigated the rationale behind significant or unusual transactions.
+In response to the risk of irregularities and non-compliance with laws and regulations, we designed 
+procedures which included, but were not limited to:
+-
+agreeing financial statement disclosures to underlying supporting documentation;
+-
+enquiring of management as to actual and potential litigation and claims;
+-
+reviewing correspondence with HM Revenue & Customs (HMRC) and any legal correspondence;
+-
+making enquiries of the company's solicitors.
+Due to the inherent limitations of an audit, there is an unavoidable risk that we may not have detected 
+some material misstatements in the financial statements, even though we have properly planned and 
+performed our audit in accordance with auditing standards. For example, as with any audit, there 
+remained a higher risk of non-detection of irregularities, as these may involve collusion, forgery, 
+intentional omissions, misrepresentations, or the override of internal controls. We are not responsible for 
+preventing fraud or non-compliance with laws and regulations and cannot be expected to detect all fraud 
+and non-compliance with laws and regulations. Material misstatements that arise due to fraud can be 
+harder to detect than those that arise from error as they may involve deliberate concealment or collusion.
+A further description of our responsibilities for the audit of the financial statements is located on the 
+Financial Reporting Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms 
+part of our Report of the Auditors. 
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 
+of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's 
+members those matters we are required to state to them in a Report of the Auditors and for no other 
+purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone 
+other than the company and the company's members as a body, for our audit work, for this report, or for 
+the opinions we have formed. 
+Mr Robert Andrew Beale
+(Senior Statutory Auditor) 
+for and on behalf of 
+Morris Owen
+Statutory Auditors
+43-45 Devizes Road
+SWINDON
+Wiltshire
+SN1 4BG
+25th January 2024
+Page 8
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+STATEMENT OF COMPREHENSIVE
+INCOME
+FOR THE YEAR ENDED 30TH APRIL 2023
+2023
+2022
+Notes
+£   
+£   
+REVENUE
+4
+18,529,622
+22,152,282
+Cost of sales
+14,150,499
+17,056,010
+GROSS PROFIT
+4,379,123
+5,096,272
+Administrative expenses
+5,279,209
+5,190,361
+(900,086
+=== page 13 ===
+)
+(94,089
+)
+Other operating income
+-
+15,454
+OPERATING LOSS
+6
+(
+900,086
+)
+(
+78,635
+)
+Interest payable and similar expenses 
+7
+11,150
+8,171
+LOSS BEFORE TAXATION 
+(
+911,236
+)
+(
+86,806
+)
+Tax on loss
+8
+-
+(
+334
+)
+LOSS FOR THE FINANCIAL YEAR 
+(
+911,236
+)
+(
+86,472
+)
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+(
+911,236
+)
+(
+86,472
+)
+The notes form part of these financial statements
+Page 9
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+STATEMENT OF FINANCIAL POSITION
+30TH APRIL 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Property, plant and equipment
+9
+317,569
+442,714
+CURRENT ASSETS
+Inventories
+10
+256,336
+=== page 14 ===
+831,750
+Debtors
+11
+3,713,106
+5,404,537
+Cash at bank and in hand
+51,949
+53,240
+4,021,391
+6,289,527
+CREDITORS
+Amounts falling due within one year 
+12
+12,375,983
+13,858,028
+NET CURRENT LIABILITIES
+(
+8,354,592
+)
+(
+7,568,501
+)
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+(
+8,037,023
+)
+(
+7,125,787
+)
+PROVISIONS FOR LIABILITIES
+15
+4,000
+4,000
+NET LIABILITIES
+(
+8,041,023
+)
+(
+7,129,787
+)
+CAPITAL AND RESERVES
+Called up share capital
+16
+143
+143
+Capital redemption reserve
+17
+40
+40
+Retained earnings
+17
+(
+8,041,206
+)
+(
+7,129,970
+)
+SHAREHOLDERS' FUNDS
+(
+8,041,023
+)
+(
+7,129,787
+)
+The financial statements were approved and authorised for issue by the Board of Directors and authorised 
+for issue on 
+25th January 2024
+and were signed on its behalf by: 
+Mr A J Richards
+=== page 15 ===
+- Director 
+Mr G S Firth
+- Director 
+The notes form part of these financial statements
+Page 10
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 30TH APRIL 2023
+Called up
+Capital
+share
+Retained
+redemption
+Total
+capital
+earnings
+reserve
+equity
+£   
+£   
+£   
+£   
+Balance at 1st May 2021
+143
+(
+7,043,498
+)
+40
+(
+7,043,315
+)
+Changes in equity
+Total comprehensive income
+-
+(
+86,472
+)
+-
+(
+86,472
+)
+Balance at 30th April 2022
+143
+(
+7,129,970
+)
+40
+(
+7,129,787
+)
+Changes in equity
+Total comprehensive income
+-
+(
+911,236
+)
+-
+(
+911,236
+)
+Balance at 30th April 2023
+143
+(
+8,041,206
+)
+40
+(
+8,041,023
+)
+The notes form part of these financial statements
+=== page 16 ===
+Page 11
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30TH APRIL 2023
+1.
+STATUTORY INFORMATION
+The company is a private company limited by shares and incorporated in England and Wales.
+The registered office address is Unit 5 Wildmere Close, Banbury, Oxfordshire, OX16 3TL.
+These financial statements are presented in British Pounds (GBP) rounded to the nearest pound, 
+which is the company's functional and presentational currency.
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+3.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The financial statements have been prepared under the historical cost convention.
+Going concern
+During the period the company has continued to utilise their invoice discounting facility and 
+operated within this.
+Included within other creditors is
+£6,453,046 relating to intercompany debt with its Parent 
+company. The company has received a
+ssurance that, although the loan has no specific terms or 
+date of repayment and accordingly i
+s technically repayable on demand, there is no intention to ask 
+for the loan to be repaid for the f
+oreseeable future. Any repayment of the loan would only be at a 
+stage where the Parent company was 
+entirely confident that the company had sufficient cash 
+reserves to repay the debt, taking 
+in to account its current position and its future trading 
+prospects.
+The company has received additional funding post year end from its Parent company.
+The company are not delaying supplier payments and HMRC liabilities are up to date at the year 
+end.
+The directors have produced formal budgets and cashflows for the forthcoming period which shows 
+the company operating comfortably within its borrowing limits.
+The directors have produced management accounts to date which show a return to profitability. 
+The formal budgets and forecasts prepared show that this will continue.
+The company has taken advantage of the following disclosure exemptions in preparing these 
+financial statements, as permitted by FRS 102 "The Financial Reporting Standard applicable in the 
+UK and Republic of Ireland": 
+•
+the requirements of Section 7 Statement of Cash Flows; 
+•
+the requirement of paragraph 3.17(d); 
+•
+the requirement of paragraph 33.7. 
+The parent company in which Virtua UK Limited's financial statements are consolidated is Virtua 
+Holdings Limited. Financial statements for Virtua Holdings Limited can be obtained from Unit 5 
+Wildmere Close, Banbury, Oxfordshire, OX16 3TL.
+Page 12
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+3.
+ACCOUNTING POLICIES - continued
+Significant judgements and estimates
+In preparing these financial statements, the directors have made the following judgements:
+-
+Determine whether leases entered into by the company as a lessee are operating leases or 
+finance leases. These decisions depend on an assessment of whether the risks and rewards of 
+ownership have been transferred from the lessor to the lessee on a lease by lease basis.
+-
+Determine the period of useful economic life of goodwill acquired in order to write off the 
+value of goodwill over that period.
+-
+Determine the period of useful economic life and any residual value of all tangible fixed assets 
+=== page 17 ===
+order to write off the value of each asset over that period.
+-
+Determine an appropriate provision for bad and doubtful debts by assessing the 
+recoverability of all balances on a balance by balance basis.
+-
+Determine an appropriate provision for obsolete and slow moving stocks by assessing the net 
+realisable value of all stock lines on a line by line basis.
+-
+Determine an appropriate provision for dilapidations by assessing the probable future 
+obligations expected to exist at the end of the property lease.
+-
+Determine the valuation of revenue as described in the turnover accounting policy below.
+Revenue
+Revenue from the sale of services is recognised when, and to the extent that, the company obtains 
+the right to consideration in exchange for its performance under those contracts.
+Long term contract revenue is recognised when the outcome of the transaction can be assessed 
+reliably. Revenue is recognised by reference to the stage of completion which is dependent on the 
+nature of the contract, but will generally be based on the completion of discrete statements of 
+work, the achievement of contractual milestones, or the percentage of actual costs incurred 
+compared with forecast total cost to completion, where appropriate.
+During the year, the make up of long term contracts has shifted such that the majority of such 
+revenue streams are now being recognised based upon the completion of discrete statements of 
+work or achievement or contractual milestones, adjusted where necessary to present a true and 
+fair view where a statement of work or milestones is significantly progressed at the year such that 
+the outcome of the contracted work can be assessed reliably.
+All revenue is derived from the principal activities and within the UK.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its 
+estimated useful life.
+Plant and machinery - 20% on cost
+Office equipment and furniture - 20% on cost
+Motor vehicles - 33% on cost
+Computer equipment - 33% on cost
+All tangible fixed assets are measured using the cost model, being cost less accumulated 
+depreciation and accumulated impairment losses.
+Inventories
+Inventories are valued at the lower of cost and net realisable value, after making due allowance for 
+obsolete and slow moving items, on a first in, first out basis.
+Work in progress is measured at cost after making due allowances for loss making contracts.
+Page 13
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+3.
+ACCOUNTING POLICIES - continued
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Statement of 
+Comprehensive Income, except to the extent that it relates to items recognised in other 
+comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been 
+enacted or substantively enacted by the statement of financial position date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed 
+at the statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods 
+different from those in which they are recognised in financial statements. Deferred tax is measured 
+using tax rates and laws that have been enacted or substantively enacted by the year end and that 
+are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is 
+probable that they will be recovered against the reversal of deferred tax liabilities or other future 
+taxable profits.
+Foreign currencies
+Assets and liabilities in foreign currencies are translated into sterling at the rates of exchange 
+ruling at the statement of financial position date.  Transactions in foreign currencies are translated 
+into sterling at the rate of exchange ruling at the date of transaction. Exchange differences are 
+taken into account in arriving at the operating result.
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance 
+=== page 18 ===
+sheet.  Those held under hire purchase contracts are depreciated over their estimated useful lives. 
+Those held under finance leases are depreciated over their estimated useful lives or the lease 
+term, whichever is the shorter. 
+The interest element of these obligations is charged to profit or loss over the relevant period. The 
+capital element of the future payments is treated as a liability. 
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the 
+company's pension scheme are charged to profit or loss in the period to which they relate.
+Warranties and retentions
+The warranty provision is considered by assessing the obligations of the completed contracts on a 
+contract by contract basis.
+Customer contract retentions are recognised as earned in line with the on-going contract 
+applications rather than being recognised when the retention is released by the customer. Any 
+liabilities arising in the fulfilment of these contracts are covered by the company's warranty 
+provision.
+Financial instruments
+Financial instruments are classified by the directors as basic or advanced following the conditions 
+in FRS 102 Section 11. The company only has basic financial instruments and these are recognised 
+at amortised cost using the effective interest method.
+4.
+REVENUE
+All revenue is derived from the company's principal activity and from within the UK.
+Page 14
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+5.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£   
+£   
+Wages and salaries
+5,106,280
+5,423,348
+Social security costs
+575,716
+591,518
+Other pension costs
+143,992
+164,258
+5,825,988
+6,179,124
+The average number of employees during the year was as follows: 
+2023
+2022
+Engineers & project managers
+82
+90
+Administration
+39
+42
+121
+132
+The directors are employed by the parent company, Virtua Holdings Limited, and so there are no 
+directors' wages in Virtua UK Limited. The directors' wages do however form part of the 
+management recharge from Virtua Holdings Limited as follows:
+2023
+2022
+£   
+£   
+Directors' remuneration
+497,050
+471,575
+Directors pension contributions to money purchase schemes
+19,149
+17,203
+Information regarding the highest paid director, included within the management charge, is as 
+follows:
+=== page 19 ===
+2023
+2022
+£   
+£   
+Emoluments etc
+222,689
+191,741
+Pension contributions to money purchase schemes
+6,844
+6,844
+Details of directors remuneration for those directors directly employed by Virtua UK are as follows:
+2023
+2022
+£   
+£   
+Directors' remuneration
+-
+-
+6.
+OPERATING LOSS
+The operating loss is stated after charging/(crediting):
+2023
+2022
+£   
+£   
+Depreciation - owned assets
+160,940
+169,918
+Depreciation - assets on finance leases
+29,108
+40,324
+(Profit)/loss on disposal of fixed assets
+(
+2,260
+)
+591
+Auditors' remuneration
+16,500
+16,500
+Auditors' remuneration for non audit work 
+1,200
+1,248
+Foreign exchange differences
+-
+516
+Operating leases - rent   
+146,785
+144,119
+Page 15
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+7.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+2023
+2022
+£   
+£   
+Other interest
+5,871
+253
+Leasing
+5,279
+7,918
+11,150
+8,171
+8.
+TAXATION
+Analysis of the tax credit
+=== page 20 ===
+The tax credit on the loss for the year was as follows: 
+2023
+2022
+£   
+£   
+Current tax:
+Under/over provision
+-
+(334
+)
+Tax on loss
+-
+(
+334
+)
+UK corporation tax was charged at 
+19
+%) in 2022. 
+Reconciliation of total tax credit included in profit and loss
+The tax assessed for the year is higher than the standard rate of corporation tax in the UK. The 
+difference is explained below: 
+2023
+2022
+£   
+£   
+Loss before tax
+(
+911,236
+)
+(
+86,806
+)
+Loss multiplied by the standard rate of corporation tax in the UK 
+of 
+19
+% (2022 - 
+19
+%)  
+(
+173,135
+)
+(
+16,493
+)
+Effects of:
+Expenses not deductible for tax purposes
+16,868
+4,768
+Capital allowances in excess of depreciation
+-
+(
+66,641
+)
+Depreciation in excess of capital allowances
+89,696
+-
+Utilisation of tax losses
+60,338
+54,105
+Adjustments to tax charge in respect of previous periods 
+-
+(
+334
+)
+credit 
+enhanced deduction 
+Unprovided tax losses   
+6,233
+24,261
+Total tax credit
+=== page 21 ===
+-
+(334
+)
+The company has unprovided tax losses as at 30 April 2023 of £6,461,130 (2022:£5,708,671) 
+which are available for offset against future taxable profits.
+A deferred tax asset amounting to
+£1,167,277 (2022:£1,030,160) has not been recognised 
+because the directors do not expec
+t to utilise these tax losses in the near future.
+The UK corporation tax rate was set to remain at 19% as enacted on 22 July 2020. The budget 
+held on 3 March 2021 however announced that the main UK corporation tax rate has increased to 
+25% from 1 April 2023 as enacted on 24 May 2021.
+Page 16
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+9.
+PROPERTY, PLANT AND EQUIPMENT
+Office
+Plant and
+furniture
+Motor
+Computer
+machinery
+& equipment
+vehicles
+equipment
+Totals
+£   
+£   
+£   
+£   
+£   
+COST
+At 1st May 2022 
+1,134,630
+148,814
+24,971
+543,562
+1,851,977
+Additions
+14,000
+26,957
+-
+28,067
+69,024
+Disposals
+-
+-
+-
+(
+7,064
+)
+(
+7,064
+)
+At 30th April 2023 
+1,148,630
+175,771
+24,971
+564,565
+1,913,937
+DEPRECIATION
+At 1st May 2022 
+830,540
+117,221
+24,971
+436,531
+1,409,263
+=== page 22 ===
+Charge for year 
+109,589
+18,803
+-
+61,656
+190,048
+Eliminated on disposal
+-
+-
+-
+(
+2,943
+)
+(
+2,943
+)
+At 30th April 2023 
+940,129
+136,024
+24,971
+495,244
+1,596,368
+NET BOOK VALUE
+At 30th April 2023 
+208,501
+39,747
+-
+69,321
+317,569
+At 30th April 2022 
+304,090
+31,593
+-
+107,031
+442,714
+All tangible fixed assets are measured using the cost model, being cost less accumulated 
+depreciation and accumulated impairment losses.
+Fixed assets, included in the above, which are held under finance leases are as follows: 
+Plant and
+machinery
+£   
+COST
+At 1st May 2022
+201,617
+Transfer to ownership
+(201,617
+)
+At 30th April 2023
+-
+DEPRECIATION
+At 1st May 2022
+52,284
+Charge for year 
+29,108
+Transfer to ownership
+(81,392
+)
+At 30th April 2023
+-
+NET BOOK VALUE
+At 30th April 2023
+-
+At 30th April 2022
+149,333
+10.
+INVENTORIES
+2023
+2022
+£   
+£   
+=== page 23 ===
+Stocks
+88,447
+21,528
+Work-in-progress
+167,889
+810,222
+256,336
+831,750
+Page 17
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+11.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade debtors
+2,505,845
+3,691,719
+Other debtors
+34,094
+38,955
+Prepayments
+167,173
+152,151
+Accrued income
+1,005,994
+1,521,712
+3,713,106
+5,404,537
+12.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Finance leases  (see note 13) 
+-
+70,907
+Trade creditors
+2,312,227
+3,350,733
+Amounts owed to group undertakings
+6,453,046
+6,017,889
+Social security and other taxes 
+509,997
+401,760
+VAT
+407,659
+482,959
+Other creditors
+456,922
+487,918
+Sales invoice financing
+1,440,257
+1,659,333
+Accruals and deferred income
+795,875
+1,386,529
+12,375,983
+13,858,028
+13.
+LEASING AGREEMENTS
+Minimum lease payments fall due as follows: 
+Finance leases  
+2023
+=== page 24 ===
+2022
+£   
+£   
+Net obligations repayable:
+Within one year
+-
+70,907
+Non-cancellable 
+operating leases 
+2023
+2022
+£   
+£   
+Within one year
+110,654
+111,562
+Between one and five years
+224,630
+326,534
+335,284
+438,096
+Page 18
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+14.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2023
+2022
+£   
+£   
+Finance leases
+-
+70,907
+Sales invoice financing
+1,440,257
+1,659,333
+1,440,257
+1,730,240
+The finance lease balance is secured over the assets it relates to. The debt is secured by personal 
+guarantees by a director of the company.
+The sales invoice financing is secured by way of a fixed and floating charge over the company's 
+assets together with a cross guarantee from the Parent company, Virtua Holdings Limited.
+There is a also a fixed and floating charge over assets in the company as part of a cross guarantee 
+with the Parent company, Virtua Holdings Limited.
+15.
+PROVISIONS FOR LIABILITIES
+2023
+2022
+£   
+£   
+Deferred tax
+Accelerated capital allowances
+60,338
+54,105
+Deferred tax losses
+(60,338
+)
+(54,105
+)
+-
+-
+Other provisions
+4,000
+4,000
+Aggregate amounts
+4,000
+4,000
+=== page 25 ===
+Other
+provisions
+£   
+Balance at 1st May 2022
+4,000
+Balance at 30th April 2023
+4,000
+Other provisions relate to a dilapidation provision.
+The directors' have considered the company's accounting policy and believe that no warranty 
+provision is required.
+Details of unprovided deferred tax losses can be found in note 8 to the accounts.
+Page 19
+continued...
+VIRTUA UK LIMITED (REGISTERED NUMBER: 04047798)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 30TH APRIL 2023
+16.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid
+Number
+Class
+Nominal Value
+2023
+2022
+£   
+£   
+143
+Ordinary shares
+1.00
+143
+143
+143
+143
+Each share carries the right to vote at a general meeting of the Company, the right to receive a 
+dividend and the right to a return of capital on a winding up or otherwise.
+17.
+RESERVES
+Capital
+Retained
+redemption
+earnings
+reserve
+Totals
+£   
+£   
+£   
+At 1st May 2022
+(
+7,129,970
+)
+40
+(7,129,930
+)
+Deficit for the year
+(
+911,236
+)
+(
+911,236
+)
+At 30th April 2023
+(
+8,041,206
+)
+40
+(8,041,166
+)
+18.
+PENSION COMMITMENTS
+As at 30 April 2023, the company had outstanding pension commitments totalling £29,082 (2022: 
+=== page 26 ===
+£39,399)
+19.
+ULTIMATE PARENT COMPANY
+Virtua Holdings Limited 
+is regarded by the directors as being the company's ultimate parent 
+company. 
+The largest group of undertakings for which group accounts have been drawn up is that headed by 
+Virtua Holdings Limited, a company registered in England and Wales with registration number 
+08822163. Consolidated group accounts can be found at Companies House.
+20.
+RELATED PARTY DISCLOSURES
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 
+102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland', not to disclose 
+related party transactions with wholly owned subsidiaries within the group.
+During the year there were no transactions with directors.
+21.
+ULTIMATE CONTROLLING PARTY
+There is not considered to be one controlling party.
+Page 20

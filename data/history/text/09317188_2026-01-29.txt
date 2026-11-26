@@ -1,0 +1,2187 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+The preparation of financial statements in compliance with FRS 101 requires the use of certain critical accounting estimates. It also requires management to exercise judgment in applying the Company's accounting policies. The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the financial statements are disclosed in (see note 3).
+The Company has taken advantage of the following disclosure exemptions under FRS 101:
+the requirements of IFRS 7 Financial Instruments: Disclosures
+the requirements of paragraphs 91-99 of IFRS 13 Fair Value Measurement
+the requirement in paragraph 38 of IAS 1 'Presentation of Financial Statements' to present comparative information in respect of:
+- paragraph 79(a)(iv) of IAS 1;
+- paragraph 73(e) of IAS 16 Property, Plant and Equipment;
+- paragraph 118(e) of IAS 38 Intangible Assets;
+- paragraphs 76 and 79(d) of IAS 40 Investment Property; and
+- paragraph 50 of IAS 41 Agriculture
+the requirements of paragraphs 10(d), 10(f), 16, 38A, 38B, 38C, 38D, 40A, 40B, 40C, 40D, 111 and 134-136 of IAS 1 Presentation of Financial Statements
+the requirements of IAS 7 Statement of Cash Flows
+the requirements of paragraph 17 and 18A of IAS 24 Related Party Disclosures
+the requirements in IAS 24 Related Party Disclosures to disclose related party transactions entered into between two or more members of a group, provided that any subsidiary which is a party to the transaction is wholly owned by such a member
+the requirements of paragraphs 130(f)(ii), 130(f)(iii), 134(d)-134(f) and 135(c)-135(e) of IAS 36 Impairment of Assets.
+The Company’s financial statements are presented in Euros.
+The Euro is the functional and presentational currency of the Company’s financial statements. The Euro is used by the Company for conducting the majority of its business, its financing and also for reporting its results.
+The Company considers whether a contract is, or contains a lease. A lease is defined as a contract, or part of a contract, that conveys the right to use of an asset (the underlying asset) for a period of time in exchange for consideration.  
+To apply this definition the Company assesses whether the contract meets three key evaluations which are whether the contract contains an identifiable asset, which is either explicitly identified in the contract or implicitly specified as being identified at the time the asset is made available to the Company; the Company has the right to obtain substantially all of the economic benefits from the use of the identified asset throughout the period of use, considering its rights within the defined scope of the contract; and the Company has the right to direct the use of the identified asset throughout the period of use. 
+At the lease commencement date, the Company recognises a right-of-use asset and a lease liability on the balance sheet. The right-of-use asset is measured at cost, which is made up of the initially measurement of the lease liability measured at the present value of future lease payments, any initial direct costs incurred by the Company, an estimate of any costs to dismantle and remove the asset at the end of the lease, and any lease payments made in advance of the lease commencement date.
+The Company depreciates the right-of-use assets on a straight-line basis from the lease commencement date to the earlier of the end of the useful life of the right-of-use asset, or the end of the lease term.  
+The lease liability is initially measured at the present value of lease payments that are not paid at the commencement date, discounted using the rate implicit in the lease, or if this rate cannot be determined, the incremental borrowing rate. The lease liability is subsequently measured by increasing the carrying value amount to reflect the interest on the lease liability and by reducing the liability by any repayments made. The Group re-measures the lease liability (and adjusts the related right-of-use asset) whenever the lease contract has been modified or the term changed. The modification is not accounted for as a separate lease.
+Under IFRS 16, the Company recognises depreciation of the right-of-use asset and interest on the lease liability with in the Statement of comprehensive income. On the balance sheet, right-of-use assets have been included within property, plant and equipment and lease liabilities have been included within current and non-current borrowings.
+Depreciation is charged on a straight-line basis over the estimated useful life of the assets based on the following rates:
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Financial assets are derecognised when the contractual rights to the cash flows from the financial asset expire, or when the financial asset and substantially all the risks and rewards are transferred. A financial liability is derecognised when it is extinguished, discharged, cancelled or expires
+Financial assets, other than those designated and effective as hedging instruments, are classified into the following categories:
+amortised cost
+fair value through profit or loss (FVTPL) 
+fair value through other comprehensive income (FVOCI). 
+In the periods presented the Company does not have any financial assets categorised as FVOCI. 
+The classification is determined by both: 
+• the entity’s business model for managing the financial asset 
+• the contractual cash flow characteristics of the financial asset. 
+All income and expenses relating to financial assets that are recognised in profit or loss are presented within finance costs, finance income or other financial items, except for impairment of trade receivables which is presented within other expenses.
+Financial assets are measured at amortised cost if the assets meet the following conditions (and are not designated as FVTPL):
+they are held within a business model whose objective is to hold the financial assets and collect its contractual cash flows 
+the contractual terms of the financial assets give rise to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+After initial recognition, these are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial. The Company’s cash and cash equivalents, trade and most other receivables fall into this category of financial instruments. 
+Financial assets that are held within a different business model other than ‘hold to collect’ or ‘hold to collect and sell’ are categorised at fair value through profit and loss. Further, irrespective of business model financial assets whose contractual cash flows are not solely payments of principal and interest are accounted for at FVTPL. All derivative financial instruments fall into this category, except for those designated and effective as hedging instruments, for which the hedge accounting requirements apply (see below). Assets in this category are measured at fair value with gains or losses recognised in profit or loss. The fair values of financial assets in this category are determined by reference to active market transactions or using a valuation technique where no active market exists.
+The Company’s financial liabilities include borrowings, trade and other payables and derivative financial instruments. Financial liabilities are initially measured at fair value, and, where applicable, adjusted for transaction costs unless the Company designated a financial liability at fair value through profit or loss. 
+Subsequently, financial liabilities are measured at amortised cost using the effective interest method except for derivatives and financial liabilities designated at FVTPL, which are carried subsequently at fair value with gains or losses recognised in profit or loss (other than derivative financial instruments that are designated and effective as hedging instruments).   All interest-related charges and, if applicable, changes in an instrument’s fair value that are reported in profit or loss are included within finance costs or finance income.
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (i.e. the “exit price”) in an orderly transaction between market participants at the measurement date. Fair value is a market-based measure considered from the perspective of a market participant rather than an entity-specific measure. Therefore, even when market assumptions are not readily available, assumptions are set to reflect those that the Company believes market participants would use in pricing the asset at the measurement date.
+Financial assets and liabilities primarily comprise loans and advances, cash and cash equivalents, other receivable and payables and debt and other borrowings.
+Cash and cash equivalents comprise cash on hand and demand deposits and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+Loans and advances, other receivables and payables, debt and other borrowings and subordinated loans are recognised when the Company becomes a party to the contractual provisions of the instrument and are initially measured at fair value and subsequently measured at amortised cost (less allowance for impairment on financial assets). Interest is recognised in the Statement of comprehensive income using the effective interest rate (“EIR”) method.
+A provision against other receivables is made where there is objective evidence that the Company will not be able to collect all amounts due to it in accordance with the original terms of those receivables. The amount of the write down is determined as the difference between the assets carrying amount and the present value of future cash flows. An assessment for impairment is undertaken at least at each reporting date.
+In addition to this, IFRS 9 requires an expected credit loss model as opposed to an incurred credit loss model under IAS 39. The expected credit loss (“ECL”) model requires the Company to account for expected credit losses and changes in those expected credit losses at each reporting date to reflect changes in credit risk since initial recognition of the financial assets. The Company recognises an allowance for expected credit losses for all debt instruments not held at fair value through the profit or loss (“FVTPL”). The main financial assets that are subject to the new expected credit loss model are other receivables.
+All turnover arose within the United Kingdom.
+The Company provides management services to companies within the Damovo Trust. All revenues generated are from charges raised according to a Management Services Agreement, agreed by all parties on an arm’s length basis. The Company recognizes revenues, including reimbursement of expenses, based on the monthly invoices.
+The Company has no outstanding performance obligations (2024: €Nil) or has no contract assets or liabilities recognised in the financial statements (2024: €Nil) other than amounts billed to Damovo Trust undertakings where payment has not yet been received.
+As permitted by FRS 101, related party disclosures with wholly owned members of Damovo Group Trust have not been disclosed.
+Trade payable consists of €58,228 (2024: €58,228) owed to GGHI companies, in respect of advances received by the Company during the year. There were no other material transactions carried out with GGHI companies during the year then ended.
+The remuneration of Directors’ is set out at note 6.
+As a result of the above, the financial statements have been corrected and the prior year comparative figures have been restated to account for the aforementioned transactions in line with the requirements of IAS 8 and FRS 101.
+Damoco Bidco Limited’s immediate parent company is Damoco Midco Limited a company incorporated in the U.K, with a registered office at BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom  In June 2021, the ownership of the Group was transferred by GGHI to Damovo Group Trust (established in 2021). Hugh Steven Wilson, as the trustee of the Damovo Group Trust, is the person with the ultimate control over the Damovo Group.
+The financial statements of Atlanta Topco Limited represent the largest and the smallest group for which consolidated accounts are prepared and are publicly available and include the results of the Company. The registered office of Atlanta Topco Limited is BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom
+true
+11
+true
+true
+true
+false
+true
+true
+=== page 2 ===
+true
+true
+true
+true
+true
+11
+true
+2024-02-01
+false
+true
+09317188
+2024-02-01
+2025-01-31
+09317188
+2023-02-01
+2024-01-31
+09317188
+2025-01-31
+09317188
+2024-01-31
+09317188
+2023-02-01
+09317188
+1
+2024-02-01
+2025-01-31
+09317188
+c:Exceptional
+2024-02-01
+2025-01-31
+09317188
+c:Exceptional
+2023-02-01
+2024-01-31
+09317188
+d:Director3
+2024-02-01
+2025-01-31
+09317188
+d:Director3
+2025-01-31
+09317188
+d:Director4
+2024-02-01
+2025-01-31
+09317188
+d:Director5
+2024-02-01
+2025-01-31
+09317188
+d:Director6
+2024-02-01
+2025-01-31
+09317188
+d:RegisteredOffice
+2024-02-01
+2025-01-31
+09317188
+d:Agent1
+2024-02-01
+2025-01-31
+09317188
+c:Buildings
+c:LongLeaseholdAssets
+2024-02-01
+2025-01-31
+09317188
+c:Buildings
+c:LongLeaseholdAssets
+2025-01-31
+=== page 3 ===
+09317188
+c:Buildings
+c:LongLeaseholdAssets
+2024-01-31
+09317188
+c:ComputerEquipment
+2024-02-01
+2025-01-31
+09317188
+c:ComputerEquipment
+2025-01-31
+09317188
+c:ComputerEquipment
+2024-01-31
+09317188
+c:ComputerEquipment
+c:LeasedAssetsHeldAsLessee
+2024-02-01
+2025-01-31
+09317188
+c:LeasedAssetsHeldAsLessee
+2024-02-01
+2025-01-31
+09317188
+c:ComputerSoftware
+2024-02-01
+2025-01-31
+09317188
+c:ComputerSoftware
+2025-01-31
+09317188
+c:ComputerSoftware
+2024-01-31
+09317188
+c:CurrentFinancialInstruments
+2025-01-31
+09317188
+c:CurrentFinancialInstruments
+2024-01-31
+09317188
+c:Non-currentFinancialInstruments
+2025-01-31
+09317188
+c:Non-currentFinancialInstruments
+2024-01-31
+09317188
+c:ReportableOperatingSegment1
+2024-02-01
+2025-01-31
+09317188
+c:ReportableOperatingSegment1
+2023-02-01
+2024-01-31
+09317188
+c:ReportableOperatingSegment2
+2024-02-01
+2025-01-31
+09317188
+c:ReportableOperatingSegment2
+2023-02-01
+2024-01-31
+09317188
+c:UKTax
+2024-02-01
+2025-01-31
+09317188
+c:UKTax
+2023-02-01
+2024-01-31
+09317188
+=== page 4 ===
+c:ShareCapital
+2025-01-31
+09317188
+c:ShareCapital
+2024-01-31
+09317188
+c:ShareCapital
+2023-02-01
+09317188
+c:SharePremium
+2024-02-01
+2025-01-31
+09317188
+c:SharePremium
+2025-01-31
+09317188
+c:SharePremium
+2024-01-31
+09317188
+c:SharePremium
+2023-02-01
+09317188
+c:CapitalRedemptionReserve
+2024-02-01
+2025-01-31
+09317188
+c:CapitalRedemptionReserve
+2025-01-31
+09317188
+c:CapitalRedemptionReserve
+2023-02-01
+2024-01-31
+09317188
+c:CapitalRedemptionReserve
+2024-01-31
+09317188
+c:CapitalRedemptionReserve
+2023-02-01
+09317188
+c:OtherMiscellaneousReserve
+2024-02-01
+2025-01-31
+09317188
+c:OtherMiscellaneousReserve
+2025-01-31
+09317188
+c:OtherMiscellaneousReserve
+2024-01-31
+09317188
+c:OtherMiscellaneousReserve
+2023-02-01
+09317188
+c:RetainedEarningsAccumulatedLosses
+2024-02-01
+2025-01-31
+09317188
+c:RetainedEarningsAccumulatedLosses
+2025-01-31
+09317188
+c:RetainedEarningsAccumulatedLosses
+2023-02-01
+2024-01-31
+09317188
+c:RetainedEarningsAccumulatedLosses
+2024-01-31
+09317188
+c:RetainedEarningsAccumulatedLosses
+2023-02-01
+09317188
+d:OrdinaryShareClass1
+=== page 5 ===
+2024-02-01
+2025-01-31
+09317188
+d:OrdinaryShareClass1
+2023-02-01
+2024-01-31
+09317188
+d:OrdinaryShareClass1
+2025-01-31
+09317188
+d:OrdinaryShareClass1
+2024-01-31
+09317188
+d:FRS101
+2024-02-01
+2025-01-31
+09317188
+d:Audited
+2024-02-01
+2025-01-31
+09317188
+d:FullAccounts
+2024-02-01
+2025-01-31
+09317188
+d:PrivateLimitedCompanyLtd
+2024-02-01
+2025-01-31
+09317188
+c:KeyManagementPersonnelCloseFamilyMembersEntitiesUnderKeyManagementPersonnelsControl
+2024-02-01
+2025-01-31
+09317188
+c:KeyManagementPersonnelCloseFamilyMembersEntitiesUnderKeyManagementPersonnelsControl
+2025-01-31
+09317188
+c:KeyManagementPersonnelCloseFamilyMembersEntitiesUnderKeyManagementPersonnelsControl
+2024-01-31
+09317188
+c:Subsidiary1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary1
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary2
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary2
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary3
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary3
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary4
+2024-02-01
+2025-01-31
+09317188
+=== page 6 ===
+c:Subsidiary4
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary5
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary5
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary6
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary6
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary7
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary7
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary8
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary8
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary9
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary9
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary10
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary10
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary11
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary11
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary12
+2024-02-01
+=== page 7 ===
+2025-01-31
+09317188
+c:Subsidiary12
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary13
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary13
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary14
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary14
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary15
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary15
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary16
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary16
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary17
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary17
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary18
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary18
+1
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary19
+2024-02-01
+2025-01-31
+09317188
+c:Subsidiary19
+1
+2024-02-01
+2025-01-31
+09317188
+=== page 8 ===
+c:ComputerSoftware
+c:ExternallyAcquiredIntangibleAssets
+2024-02-01
+2025-01-31
+09317188
+e:Euro
+2024-02-01
+2025-01-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Financial Statements
+Damoco Bidco Limited
+For the year ended
+31 January 2025
+Registered number: 09317188
+Damoco Bidco Limited
+Company Information
+Directors
+Jeffrey James McFarlane
+(resigned 
+8 April 2024
+)
+Walter Alpheus Jones III
+Chris Nickerson
+Michael Lee Workman
+Registered number
+09317188
+Registered office
+BDO LLP
+First Floor, North Bottle Works
+The Bars
+Guildford
+Surrey
+GU1 4LP
+United Kingdom
+Independent auditor
+Grant Thornton
+Chartered Accountants
+ & 
+Statutory Auditors
+13-18 City Quay
+Dublin
+D02 ED70
+Republic of Ireland
+Bankers
+Barclays Bank PLC
+1 Churchill Place
+London
+EC14 5HP
+Solicitors
+Fladgate LLP
+16 Great Queen Street
+London
+WC2B 5DG
+United Kingdom
+Damoco Bidco Limited
+Contents
+Page
+Strategic report
+1 - 2
+Directors' report
+3 - 5
+Directors' responsibilities statement
+6
+Independent auditor's report
+7 - 11
+Statement of comprehensive income
+12
+Balance sheet
+=== page 9 ===
+13
+Statement of changes in equity
+14 - 15
+Notes to the financial statements
+16 - 36
+Damoco Bidco Limited
+Strategic report
+For the year ended 31 January 2025
+Introduction
+The directors present the Strategic Report for Damoco Bidco Limited (the “Company”) for the year ended 31 January 2025.
+Principal activity
+The principal activity of the Company is that of an intermediate holding company and it provides financing and management services within the Damovo Group. The principal activity of the wider Damovo Group is to provide Information and Communications Technology (“ICT”) solutions and services for enterprises in both the private and public sectors.
+Atlanta Topco Limited (“ATL”) is the head of the smallest and largest group for which consolidated financial statements are prepared and are publically available. Atlanta Topco Limited and its wholly owned subsidiaries are more commonly known as, the Damovo Group (“the “Group”).
+No significant change in the Company’s principal activity is expected.
+Business review
+The financial result for the year is a loss of €
+4,744,964
+ (2024: loss of €
+4,118,284
+) which is in line with Board expectations.
+As at 31 January 2025, the Company had a total net assets position of €
+40,895,666
+ (2024: €
+43,158,630
+). However, as a significant part of total liabilities represents amounts owing to fellow group undertakings, the demand for repayment of which is wholly within the control of the Group, the Board is satisfied that this does not present any liquidity issues for the Company.
+On 22 December 2023, the structure of the Damovo Group was revised such that Lares LLC, Lares Holdings, LLC (together referred a “Lares”) and Damovo Technology Services NV (“DTS”) were transferred from Damovo Group Trust to ATL Group and became wholly owned subsidiaries of Damoco Bidco Limited. This reorganisation was carried out pursuant to the terms of the senior facilities agreement dated 8 September 2022 with Triton and Kartesia (“SFA”), for which the completion of the reorganisation was a condition subsequent to the Group
+re-financing. 
+Principal risks and uncertainties
+From the perspective of the Company, the principal risks and uncertainties are the same as the principal risks of the Group and are not managed separately. Accordingly, the principal risks and uncertainties of the Damovo Group, which include those of the Company, are discussed in the Atlanta Topco Limited consolidated group financial statements which do not form part of this report.
+The key risk of the Company is the impact any deterioration in financial performance of group undertakings would have on recoverability of balances due from those group undertakings and in the value of its investments in subsidiary undertakings. Due to the current financial strength of its subsidiary undertakings, the Director considers that the actual risk the Company is exposed to is minimal.
+Key performance indicators (KPIs)
+Given the straightforward nature of the Company’s business, being that of an intermediate holding company, the Company’s directors re of the opinion that an analysis using KPIs is not necessary for an understanding of the development, performance or position of the Company’s business. Costs of the business are tracked monthly against an annual budget approved by the directors.
+Page 
+1
+Damoco Bidco Limited
+Strategic report (continued)
+For the year ended 31 January 2025
+Future developments
+The Company’s future developments are solely dependent on the success of the Group. Management believe that the Group can continue to grow revenue and profits by following the Group’s strategy and this strategy is detailed in Atlanta Topco Limited’s consolidated group financial statements and thus do not form part of this report.
+In addition, the Group will continue to review strategic acquisition opportunities where it is possible to add expertise or scale in a value creating manner via inorganic projects. As the Company is managed as part of the overall Group, it will continue to offer financing and management support to the rest of the Group as part of that overall strategy.
+This report was approved by the board
+ and signed on its behalf
+.
+................................................
+Chris Nickerson
+Director
+Date: 
+29 January 2026
+Page 
+2
+Damoco Bidco Limited
+Directors' report
+For the year ended 31 January 2025
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 January 2025
+.
+The Company has elected to take the exemption to exclude items in the Director’s Report which are included within the Strategic Report under s414C(1).  The item impacted relates to future developments.
+Results and dividends
+The 
+loss
+ for the 
+year
+=== page 10 ===
+, after taxation, amounted to 
+€
+4,744,964
+ (2024: 
+loss 
+€
+4,118,284
+)
+.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+Jeffrey James McFarlane
+(resigned 
+8 April 2024
+)
+Walter Alpheus Jones III
+Chris Nickerson
+Michael Lee Workman
+Director’s indemnities
+There are no directors' indemnities provided by the Company.
+Principal shareholders
+Damoco Bidco Limited’s immediate parent company is Damoco Midco Limited a company incorporated in the U.K, with a registered office at BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom.
+In June 2021, the ownership of Atlanta Topco Limited (the Group or Damovo Group) was transferred by GGHI to Damovo Group Trust (established in 2021). Hugh Steven Wilson, as the trustee of the Damovo Group Trust, is the person with the ultimate control over the Damovo Group.
+The financial statements of Atlanta Topco Limited represent the largest and the smallest group for which consolidated accounts are prepared and are publicly available, and include the results of the Company. The registered office of Atlanta Topco Limited is BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom.
+Going concern
+In assessing the going concern of the Company, the directors have considered forecasts for at least 12 months from the date of the approval of the financial statements. The Company is an intermediate holding company and therefore is reliant on the Atlanta Topco Limited or Damovo Group (Group) to be a going concern to be able to support it. Therefore, the going concern review focuses on the forecasts for the Group and their ability to continue as a going concern.
+The results for the year for the Group show revenues of €157,484K (2024: €143,863K) and a pre-tax loss of €24,009K (2024: loss of €12,464K). The Company’s current liabilities exceeded its current assets by €29,266K (2024: €29,184K). Cash generated from operations for the year ended 31 January 2025 was €5,040K (2024: €8,384K) and net liabilities (or shareholders’ deficit) as at 31 January 2025 were €56,224K (2024: €32,258K). Net liabilities have partly arisen as a result of classifying €73,983K (2024: €67,764K) of preference shares (including accrued dividends) as debt as opposed to equity, in line with the agreement. 
+Page 
+3
+Damoco Bidco Limited
+Directors' report (continued)
+For the year ended 31 January 2025
+Going concern (continued)
+At incorporation, Global Growth Holdings, Inc. (“GGHI”), the former shareholders of the Group, provided €46,161K of preference share funding to complete the acquisition of the Damovo subsidiaries; and Ares Management Limited (“ARES”) provided €50,000K of a senior loan note financing facility to the Group.
+In September 2022, the Group completed the re-financing of ARES loan of €50,000K with Triton & Kartesia for €55,000K Senior Facilities Agreement (“SFA”) and aimed to improve the current liability position of the Group. As part of re-financing, a settlement agreement was also reached with Damoco Bermuda (owners of Damovo Group before GGHI) and GGHI to settle the legal dispute related to contingent consideration following their sale of the Damovo in 2018. As part of the settlement agreement, total aggregate deferred consideration and costs of €14,960K was paid to Damoco Bermuda on completion of the re-financing, with a further amount of €7,034K comprising principal plus accrued interest and annual interest, at an agreed rate payable, over three years in quarterly instalments. It was also agreed that GGHI would fund these amounts on behalf of the Damovo Group pursuant to an equity commitment letter in which it undertook to pay all of the deferred consideration under the settlement agreement.
+However, in 2023 and till date of the approval of accounts, GGHI defaulted on its obligations under the equity commitment letter. This payment default represents a breach of the settlement agreement and the equity commitment letter and is a cross-default under the SFA with the new lenders. The payment default triggers certain enforcement rights for both the previous owners and the current lenders under the relevant contractual arrangements and enforcement of their respective underlying security in relation to the relevant entities in the Group. However, at the date of approval of the financial statements, the current lenders have not yet shown any intent in any enforcement action in respect of the Payment Default to enable all parties to explore options to address the defaults. The current lenders have a strong and co-operative working relationship with the Damovo Group and are supportive of the business. The Damovo Board, executive management and the operational finance teams within the business have regular and extensive engagement with the lenders, who have confirmed that at the current time, the focus is on developing and executing a viable plan to address the payment default with all relevant stakeholders.
+There are banking covenants in place in relation to the Facility, which include net leverage and cash flow cover requirements to be reported on a quarterly basis. During the year and at the date of approval of accounts, the Group was in breach of the net leverage and cash flow cover covenants in the SFA. The Lenders have reserved their rights in respect of the breach, and the issue is being addressed in the context of the ongoing discussions to resolve the SFA cross-default. The Group maintains constructive relationships with its lenders, which resulted on the lenders consenting to full default interests’ capitalisation in December 2023, and each quarter since June 2024. The financial statements do not include any adjustments should the continued support of the lenders not be forthcoming, or a resolution of the payment default is not found.
+The Board of Directors have prepared an overall group strategy to create sustainable positive trading results within the Group. Currently, the Group has incurred losses during the current and previous years, which has resulted in accumulated losses as at the reporting date. However, the Group has been able to generate positive cash flows from its operation for the year under review.
+Given the industry dynamics that the Group operates in and the expectation of being in an investment and expansion phase for some time, the directors and shareholders have prepared forecasts of the Group’s performance for the next five years in line with their expectations and are satisfied that the Group’s progress to date is in line with their strategy. Expected increases in adjusted EBITDA going forward as per management’s latest planning will lead to recovery of accumulated losses before tax over the coming 5 years.
+Page 
+4
+Damoco Bidco Limited
+Directors' report (continued)
+For the year ended 31 January 2025
+Going concern (continued)
+The Group has short-term working capital facilities in place in Germany, Switzerland, and Belgium. The Group maintains constructive relationships with its lenders and is current on all interest payments on these working capital facilities.
+The Board have also considered the year-to-date performance of the Group and continue to take actions to ensure that the Group is profitable in the future through an increase in activity and turnover together with managing expenses and overheads.
+Accordingly, the directors believe that it is appropriate for the financial statements to be prepared on a going concern basis, based on historical experience, the Group’s performance up to the current date, forecasts for the following twelve months and beyond, coupled with the continued support of the group’s lenders for a minimum period of twelve months from the date of signing of the financial statements.
+Research and development activities
+The Company does not engage in research and development activities. 
+Disclosure of information to auditor
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor 
+is
+ unaware, and
+∙
+the director
+=== page 11 ===
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor 
+is
+ aware of that information.
+Events after the reporting date
+The directors have carried out a post balance sheet review for events that may give rise to adjusting items to be recorded and have concluded that there are none.
+Auditor
+The auditor, 
+Grant Thornton
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+................................................
+Chris Nickerson
+Director
+Date: 
+29 January 2026
+Page 
+5
+Damoco Bidco Limited
+Directors' responsibilities statement
+For the year ended 31 January 2025
+The 
+directors
+are
+ responsible for preparing the
+ Strategic report, the Directors' report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 101 ‘Reduced Disclosure Framework’. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable  have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+=== page 12 ===
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+This responsibility statement was approved by the Board of Directors and is signed on its behalf by:
+................................................
+Chris Nickerson
+Director
+Date: 
+29 January 2026
+Page 
+6
+Independent auditor's report to the members of Damoco Bidco Limited
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Damoco Bidco Limited
+, which comprise 
+the Statement of comprehensive income, the Balance sheet, the Statement of changes in equity
+ for the 
+year
+ ended 
+31 January 2025
+,
+ and the related notes to the financial statements, including a summary of 
+ material
+ accounting policy information
+.  
+The financial reporting framework that has been applied in the preparation is applicable law
+and United Kingdom Accounting Standards, 
+issued by the Financial Reporting Council, including Financial Reporting Standard 101 ‘Reduced Disclosure Framework’ (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion, 
+Damoco Bidco Limited
+'s 
+financial statements
+:
+∙
+give a true and fair view in accordance with United Kingdom Generally Accepted Accounting Practice of the assets, liabilities and financial position of the 
+Company
+ as at 
+31 January 2025
+ and of 
+its
+financial performance
+ for the 
+year
+ then ended; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+=== page 13 ===
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) ('ISAs (UK)') and applicable law. 
+Our
+ responsibilities under those standards are further described in the 'Responsibilities of the auditor for the audit of the 
+financial statements
+' section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, namely the FRC's Ethical Standard and the ethical pronouncements established by Chartered Accountants Ireland, applied as determined to be appropriate in the circumstances of the entity. 
+We
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Material uncertainty related to going concern
+In forming our opinion, which is not modified, we draw attention to disclosures made in the Directors’ report and Note 2.3 in the financial statements concerning the Company’s ability to continue as a going concern. The Company is an intermediate holding company and therefore is reliant on the Atlanta Topco Limited Group (Group or Damovo Group) to be a going concern to be able to support it. Therefore the going concern review focuses on the forecasts for the Group and their ability to continue as a going concern. The events and conditions, along with other matters as set forth in Note 2.3, indicate that a material uncertainty exists that may cast significant doubt on the Group and the Company’s ability to continue as a going concern. The financial statements have been prepared on a going concern basis, which assumes that the Group and the Company will continue in operational existence for the foreseeable future. The validity of this assumption as stated in Note 2.3 depends on the outcome of the actions taken by the directors to return the Group to profitability and the continued support of the Group's stakeholders and lenders. The financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts and classifications of liabilities that might be necessary should the Company be unable to continue in existence.
+In auditing the financial statements, we have concluded that the directors’ use of going concern basis of accounting in the preparation of the financial statements is appropriate.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Page 
+7
+Independent auditor's report to the members of Damoco Bidco Limited (continued)
+Other information
+Other information comprises the information included in the 
+Annual Report
+, other than the 
+financial statements
+ and 
+our
+Auditor's report
+ thereon, including the 
+Directors' report
+and the Strategic Report
+. The 
+directors
+ are responsible for the other information. 
+Our
+ opinion on the 
+financial statements
+ does not cover the other information and, except to the extent otherwise explicitly stated in 
+our
+ report, 
+we
+ do not express any form of assurance conclusion thereon.
+In connection with 
+our
+ audit of the 
+financial statements
+, 
+our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the 
+financial statements
+ or 
+our
+ knowledge obtained in the audit, or otherwise appears to be materially misstated. If 
+we
+=== page 14 ===
+ identify such material inconsistencies in the financial statements, 
+we
+are
+ required to determine whether there is a material misstatement in the 
+financial statements
+ or a material misstatement of the other information. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Directors' report
+and the Strategic Report
+ for the 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+, and 
+∙
+the 
+Directors' report
+and the Strategic Report
+have
+ been prepared in accordance with applicable legal requirements. 
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment we have obtained in the course of the audit, we have not identified material misstatements in the  
+Directors' report
+and the Strategic Report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+=== page 15 ===
+ audit
+.
+Page 
+8
+Independent auditor's report to the members of Damoco Bidco Limited (continued)
+Responsibilities of management and those charged with governance for the financial statements
+Management is responsible for the preparation of the financial statements which give a true and fair view in accordance with United Kingdom Generally Accepted Accounting Practice, including 
+FRS101
+ and for such internal control as the 
+directors
+ determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, management is responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intend to liquidate the 
+Company
+ or to cease operations, or has no realistic alternative but to do so.
+Those charged with governance are responsible for overseeing the 
+Company
+'s financial reporting process.
+Responsibilities of the auditor for the audit of the financial statements
+The objectives of an auditor are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditor's report
+ that includes their opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+A further description of an auditor's responsibilities for the audit of the financial statements is located on the Financial Reporting Council's website at 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of our auditor's report.
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. Owing to the inherent limitations of an audit, there is an unavoidable risk that material misstatement in the financial statements may not be detected, even though the audit is properly planned and performed in accordance with ISAs (UK).
+The extent to which our procedures are capable of detecting irregularities, including fraud, is detailed below:
+Based on our understanding of the Company and the industry, we identified the principal risks of non-compliance with laws and regulations in which they operate. We determined that the following laws and regulations related to Communications Act 2003, Wireless Telegraphy Act 2006, National Security and Investment Act 2021, Data Protection Act & Privacy and Electronic Communications Regulations, European Electronic Communications Code, Digital Markets Act (DMA) & Digital Services Act (DSA), Net Neutrality Regulation, and General Data Protection Regulation and we considered the extent to which non-compliance might have a material effect on the financial statements. We also considered those laws and regulations that have a direct impact on the preparation of the financial statements such as the UK-adopted international accounting standards, FRS 101 ‘Reduced Disclosure Framework’ (UK GAAP), Companies Act 2006, and relevant UK taxation laws. The audit engagement partner considered the experience and expertise of the engagement team to ensure that the team had appropriate competence and capabilities to identify or recognise non-compliance with the laws and regulations. 
+Page 
+9
+Independent auditor's report to the members of Damoco Bidco Limited (continued)
+Responsibilities of the auditor for the audit of the financial statements (continued)
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud (continued)
+We evaluated management's incentives and opportunities for fraudulent manipulation of the financial statements (including risk of override of controls) and determined that the principal risks were related to posting inappropriate journal entries to manipulate financial performance and management bias through judgements and assumptions in significant accounting estimates, in particular in relation to significant one-off or unusual transactions. We apply professional skepticism through the audit to consider potential deliberate omission or concealment of significant transactions, or incomplete/inaccurate disclosures in the financial statement. 
+In response to these principal risks, our audit procedures included but were not limited to:
+∙
+inquiries of management on the policies and procedures in place regarding compliance with laws and regulations, including consideration of known or suspected instances of non-compliance and whether they have knowledge of any actual, suspected or alleged fraud;
+∙
+inspection of the company's regulatory and legal correspondence and review of minutes of board meetings during the year to corroborate inquiries made;
+∙
+gaining an understanding of the internal controls established to mitigate risk related to fraud;
+∙
+discussion amongst the engagement team in relation to the identified laws and regulations and regarding the risk of fraud and remaining alert to any indications of non-compliance or opportunities for fraudulent manipulation of financial statements throughout the audit;
+∙
+identifying and testing journal entries to address the risk of inappropriate journals and management override of controls;
+∙
+designing audit procedures to incorporate unpredictability around the nature, timing or extent of our testing;
+∙
+challenging assumptions and judgements made by management in their significant accounting estimates, including carrying value of investments and,
+∙
+review of the financial statement disclosures to underlying supporting documentation and inquiries of management.
+The primary responsibility for the prevention and detection of irregularities including fraud rests with those charged with governance and management. As with any audit, there remains a risk of non-detection or irregularities, as these may involve collusion, forgery, intentional omissions, misrepresentations or override of internal controls.
+Page 
+10
+Independent auditor's report to the members of Damoco Bidco Limited (continued)
+The purpose of our audit work and to whom we owe our responsibilities
+This report is made solely to the 
+Company
+’s members, as a body, in accordance with chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the Company and the Company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Tracey Sullivan
+ (Senior statutory auditor)
+for and on behalf of
+=== page 16 ===
+Grant Thornton
+Chartered Accountants &
+Statutory Auditors
+13-18 City Quay
+Dublin
+29 January 2026
+Page 
+11
+Damoco Bidco Limited
+Statement of comprehensive income
+For the year ended
+31 January 2025
+2025
+2024
+Note
+€
+€
+Turnover
+4
+7,028,649
+6,467,782
+Administrative expenses
+(
+5,762,498
+)
+(
+8,984,371
+)
+Operating profit/(loss)
+5
+1,266,151
+(
+2,516,589
+)
+Exceptional items
+10
+(
+4,504,605
+)
+-
+Interest receivable and similar income
+7
+299,029
+333,961
+Interest payable and similar expenses
+8
+(
+1,805,539
+)
+(
+1,935,656
+)
+Loss before tax
+(
+4,744,964
+)
+(
+4,118,284
+)
+Tax on loss
+9
+-
+-
+Loss for the year
+(
+4,744,964
+)
+(
+4,118,284
+)
+=== page 17 ===
+All activities of the Company are classed as continuing. 
+There was no other comprehensive income for 
+2025
+ (
+2024
+: 
+€
+Nil).
+The notes on pages 16 to 36 form part of these 
+financial statements
+.
+Page 
+12
+Damoco Bidco Limited
+Registered number:
+09317188
+Balance sheet
+As at 
+31 January 2025
+2025
+2024
+Note
+€
+€
+Non-current assets
+Intangible assets
+11
+12,631
+28,637
+Property, plant and equipment
+12
+3,194
+9,944
+Investments in subsidiary undertakings
+13
+93,364,197
+90,882,197
+93,380,022
+90,920,778
+Current assets
+Debtors: amounts falling due after more than one year
+14
+-
+8,125,376
+Debtors: amounts falling due within one year
+14
+8,795,689
+31,430,248
+Cash at bank and in hand
+15
+48,736
+151,133
+8,844,425
+39,706,757
+Current liabilities
+Creditors: amounts falling due within one year
+16
+(
+8,687,851
+)
+(
+43,327,818
+)
+Net current assets/(liabilities)
+156,574
+(
+3,621,061
+)
+Total assets less current liabilities
+93,536,596
+=== page 18 ===
+87,299,717
+Creditors: amounts falling due after more than one year
+17
+(
+52,640,930
+)
+(
+44,141,087
+)
+Net assets
+40,895,666
+43,158,630
+Capital and reserves
+Called up share capital 
+18
+100
+100
+Share premium account
+19
+84,900
+84,900
+Other reserves
+19
+50,697,787
+50,697,787
+Capital contribution
+19
+27,924,477
+25,442,477
+Profit and loss account
+19
+(
+37,811,598
+)
+(
+33,066,634
+)
+Shareholders' funds
+40,895,666
+43,158,630
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ on
+29 January 2026
+.
+................................................
+Chris Nickerson
+Director
+The notes on pages 16 to 36 form part of these financial statements.
+Page 
+13
+Damoco Bidco Limited
+Statement of changes in equity
+For the year ended 
+31 January 2025
+Called up share capital
+Share premium account
+Other reserves
+Capital contribution
+Profit and loss account
+Total equity
+€
+€
+€
+€
+=== page 19 ===
+€
+€
+At 1 February 2024
+100
+84,900
+50,697,787
+25,442,477
+(
+33,066,634
+)
+43,158,630
+Comprehensive income for the year
+Loss for the year
+-
+-
+-
+-
+(
+4,744,964
+)
+(
+4,744,964
+)
+Contributions by and distributions to owners
+Capital contributions without issuance of shares
+-
+-
+-
+2,482,000
+-
+2,482,000
+At 31 January 2025
+100
+84,900
+50,697,787
+27,924,477
+(
+37,811,598
+)
+40,895,666
+The notes on pages 16 to 36 form part of these 
+financial statements
+.
+Page 
+14  
+Damoco Bidco Limited
+Statement of changes in equity
+For the year ended 
+31 January 2024
+Called up share capital
+Share premium account
+Other reserves
+Capital contribution
+Profit and loss account
+Total equity
+€
+€
+€
+€
+€
+€
+At 1 February 2023
+100
+84,900
+50,697,787
+9,532,394
+(
+28,948,350
+)
+31,366,831
+=== page 20 ===
+Comprehensive income for the year
+Loss for the year
+-
+-
+-
+-
+(
+4,118,284
+)
+(
+4,118,284
+)
+Contributions by and distributions to owners
+Capital contributions without issuance of shares
+-
+-
+-
+15,910,083
+-
+15,910,083
+At 31 January 2024
+100
+84,900
+50,697,787
+25,442,477
+(
+33,066,634
+)
+43,158,630
+The notes on pages 16 to 36 form part of these 
+financial statements
+.
+Page 
+15  
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+1.
+General information
+Damoco Bidco Limited is a private limited company, limited by shares, registered in England and Wales and incorporated in the United Kingdom under the Companies Act 2006.  The registered number of the Company is 09317188. The address of the registered office is BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom.
+The nature of the Company’s operations and its principal activities are set out in the Strategic Report.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The financial statements have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with Financial Reporting Standard 101 'Reduced Disclosure Framework'  and the Companies Act 2006.
+The preparation of financial statements in compliance with FRS 101 requires the use of certain critical accounting estimates. It also requires management to exercise judgment in applying the Company's accounting policies. The areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant to the financial statements are disclosed in (see note 3).
+The Company’s financial statements are presented in Euros.
+The principal 
+accounting policies
+ adopted in the preparation of these financial statements are set out below:
+2.2
+Exemption from preparing consolidated financial statements
+The Company is not required to prepare consolidated financial statements by virtue of the exemption under Section 400 of the Companies Act 2006. The results of the Company are included within the financial statements of Atlanta Topco Limited, which has prepared consolidated financial statements for the year ended 31 January 2025. The financial statements therefore present information about the Company as an individual entity and not about its group. 
+2.3
+Going concern
+In assessing the going concern of the Company, the directors have considered forecasts for at least 12 months from the date of the approval of the financial statements. The Company is an intermediate holding company and therefore is reliant on the Atlanta Topco Limited or Damovo Group (Group) to be a going concern to be able to support it. Therefore, the going concern review focuses on the forecasts for the Group and their ability to continue as a going concern.
+The results for the year for the Group show revenues of €157,484K (2024: €143,863K) and a pre-tax loss of €24,009K (2024: loss of €12,464K). The Company’s current liabilities exceeded its current assets by €29,266K (2024: €29,184K). Cash generated from operations for the year ended 31 January 2025 was €5,040K (2024: €8,384K) and net liabilities (or shareholders’ deficit) as at 31 January 2025 were €56,224K (2024: €32,258K). Net liabilities have partly arisen as a result of classifying €73,983K (2024: €67,764K) of preference shares (including accrued dividends) as debt as opposed to equity, in line with the agreement.
+Page 
+16
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.3
+Going concern (continued)
+At incorporation, Global Growth Holdings, Inc. (“GGHI”), the former shareholders of the Group, provided €46,161K of preference share funding to complete the acquisition of the Damovo subsidiaries; and Ares Management Limited (“ARES”) provided €50,000K of a senior loan note financing facility to the Group.
+In September 2022, the Group completed the re-financing of ARES loan of €50,000K with Triton & Kartesia for €55,000K Senior Facilities Agreement (“SFA”) and aimed to improve the current liability position of the Group. As part of re-financing, a settlement agreement was also reached with Damoco Bermuda (owners of Damovo Group before GGHI) and GGHI to settle the legal dispute related to contingent consideration following their sale of the Damovo in 2018. As part of the settlement agreement, total aggregate deferred consideration and costs of €14,960K was paid to Damoco Bermuda on completion of the re-financing, with a further amount of €7,034K comprising principal plus accrued interest and annual interest, at an agreed rate payable, over three years in quarterly instalments. It was also agreed that GGHI would fund these amounts on behalf of the Damovo Group pursuant to an equity commitment letter in which it undertook to pay all of the deferred consideration under the settlement agreement.
+However, in 2023 and till date of the approval of accounts, GGHI defaulted on its obligations under the equity commitment letter. This payment default represents a breach of the settlement agreement and the equity commitment letter and is a cross-default under the SFA with the new lenders. The payment default triggers certain enforcement rights for both the previous owners and the current lenders under the relevant contractual arrangements and enforcement of their respective underlying security in relation to the relevant entities in the Group. However, at the date of approval of the financial statements, the current lenders have not yet shown any intent in any enforcement action in respect of the Payment Default to enable all parties to explore options to address the defaults. The current lenders have a strong and co-operative working relationship with the Damovo Group and are supportive of the business. The Damovo Board, executive management and the operational finance teams within the business have regular and extensive engagement with the lenders, who have confirmed that at the current time, the focus is on developing and executing a viable plan to address the payment default with all relevant stakeholders.
+=== page 21 ===
+There are banking covenants in place in relation to the Facility, which include net leverage and cash flow cover requirements to be reported on a quarterly basis. During the year and at the date of approval of accounts, the Group was in breach of the net leverage and cash flow cover covenants in the SFA. The Lenders have reserved their rights in respect of the breach, and the issue is being addressed in the context of the ongoing discussions to resolve the SFA cross-default. The Group maintains constructive relationships with its lenders, which resulted on the lenders consenting to full default interests’ capitalisation in December 2023, and each quarter since June 2024. The financial statements do not include any adjustments should the continued support of the lenders not be forthcoming, or a resolution of the payment default is not found.
+The Board of Directors have prepared an overall group strategy to create sustainable positive trading results within the Group. Currently, the Group has incurred losses during the current and previous years, which has resulted in accumulated losses as at the reporting date. However, the Group has been able to generate positive cash flows from its operation for the year under review.
+Page 
+17
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.3
+Going concern (continued)
+Given the industry dynamics that the Group operates in and the expectation of being in an investment and expansion phase for some time, the directors and shareholders have prepared forecasts of the Group’s performance for the next five years in line with their expectations and are satisfied that the Group’s progress to date is in line with their strategy. Expected increases in adjusted EBITDA going forward as per management’s latest planning will lead to recovery of accumulated losses before tax over the coming 5 years.
+The Group has short-term working capital facilities in place in Germany, Switzerland and Belgium. The Group maintains constructive relationships with its lenders and is current on all interest payments on these working capital facilities.
+The Board have also considered the year-to-date performance of the Group and continue to take actions to ensure that the Group is profitable in the future through an increase in activity and turnover together with managing expenses and overheads.
+Accordingly, the directors believe that it is appropriate for the financial statements to be prepared on a going concern basis, based on historical experience, the Group’s performance up to the current date, forecasts for the following twelve months and beyond, coupled with the continued support of the group’s lenders for a minimum period of twelve months from the date of signing of the financial statements.
+2.4
+Financial Reporting Standard 101 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions under FRS 101:
+∙
+the requirements of IFRS 7 Financial Instruments: Disclosures
+∙
+the requirements of paragraphs 91-99 of IFRS 13 Fair Value Measurement
+∙
+the requirement in paragraph 38 of IAS 1 'Presentation of Financial Statements' to present comparative information in respect of:
+ - paragraph 79(a)(iv) of IAS 1;
+ - paragraph 73(e) of IAS 16 Property, Plant and Equipment;
+ - paragraph 118(e) of IAS 38 Intangible Assets;
+ - paragraphs 76 and 79(d) of IAS 40 Investment Property; and
+ - paragraph 50 of IAS 41 Agriculture
+∙
+the requirements of paragraphs 10(d), 10(f), 16, 38A, 38B, 38C, 38D, 40A, 40B, 40C, 40D
+, 111 and 134-136
+ of IAS 1 Presentation of Financial Statements
+∙
+the requirements of IAS 7 Statement of Cash Flows
+∙
+the requirements of paragraph 17 and 18A of IAS 24 Related Party Disclosures
+∙
+the requirements in IAS 24 Related Party Disclosures to disclose related party transactions entered into between two or more members of a group, provided that any subsidiary which is a party to the transaction is wholly owned by such a member
+∙
+the requirements of paragraphs 130(f)(ii), 130(f)(iii), 134(d)-134(f) and 135(c)-135(e) of IAS 36 Impairment of Assets.
+Page 
+18
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.4
+Financial Reporting Standard 101 - reduced disclosure exemptions (continued)
+This information is included in the consolidated financial statements of 
+Atlanta Topco Limited
+ as at 
+31 January 2025
+ and these financial statements may be obtained from 
+Companies House
+.
+2.5
+Functional currency
+The Euro is the functional and presentational currency of the Company’s financial statements. The Euro is used by the Company for conducting the majority of its business, its financing and also for reporting its results. 
+2.6
+Foreign currencies
+Where the Company carries out transactions in a different currency to its reporting currency, the foreign currency amounts are translated at the exchange rate ruling at the date of the transaction. Assets and liabilities denominated in foreign currencies, such as trade receivables, trade payables and foreign currency bank accounts, are retranslated at the rate of exchange ruling at the balance sheet date.  All differences arising on translating these amounts are taken to the Statement of comprehensive income in the period in which they occur.
+2.7
+Revenue recognition
+Revenue arises mainly from the provision of the management services to group undertakings. The Company’s revenue recognition policy is to recognise revenue in the Statement of comprehensive income upon the invoicing to the Company’s subsidiaries of the management services provided, as described in Note 2, ‘Revenues’.   
+To determine whether to recognise revenue, the Company follows a 5-step process: 
+  1. Identifying the contract with a customer
+=== page 22 ===
+  2. Identifying the performance obligations 
+  3. Determining the transaction price 
+  4. Allocating the transaction price to the performance obligations 
+  5. Recognising revenue when/as performance obligation(s) are satisfied.
+Revenue is recognised either at a point in time or over time, when (or as) the Company satisfies performance obligations by transferring the promised goods or services to its customers. The Company recognises contract liabilities for consideration received in respect of unsatisfied performance obligations and reports these amounts as part of ‘trade and other payables’ in the statement of financial position. Similarly, if the Company satisfies a performance obligation before it receives the consideration, the Company recognises either a contract asset or a receivable in its statement of financial position, depending on whether something other than the passage of time is required before the consideration is due.
+In accordance with IFRS 15, the Company recognises reimbursement of expenses and recharge of costs as part of revenue from operations. 
+There is no significant management judgment required on the revenue to be recognised.  
+Page 
+19
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.8
+Leases
+The Company considers whether a contract is, or contains a lease. A lease is defined as a contract, or part of a contract, that conveys the right to use of an asset (the underlying asset) for a period of time in exchange for consideration.  
+To apply this definition the Company assesses whether the contract meets three key evaluations which are whether the contract contains an identifiable asset, which is either explicitly identified in the contract or implicitly specified as being identified at the time the asset is made available to the Company; the Company has the right to obtain substantially all of the economic benefits from the use of the identified asset throughout the period of use, considering its rights within the defined scope of the contract; and the Company has the right to direct the use of the identified asset throughout the period of use. 
+At the lease commencement date, the Company recognises a right-of-use asset and a lease liability on the balance sheet. The right-of-use asset is measured at cost, which is made up of the initially measurement of the lease liability measured at the present value of future lease payments, any initial direct costs incurred by the Company, an estimate of any costs to dismantle and remove the asset at the end of the lease, and any lease payments made in advance of the lease commencement date.
+The Company depreciates the right-of-use assets on a straight-line basis from the lease commencement date to the earlier of the end of the useful life of the right-of-use asset, or the end of the lease term.  
+The lease liability is initially measured at the present value of lease payments that are not paid at the commencement date, discounted using the rate implicit in the lease, or if this rate cannot be determined, the incremental borrowing rate. The lease liability is subsequently measured by increasing the carrying value amount to reflect the interest on the lease liability and by reducing the liability by any repayments made. The Group re-measures the lease liability (and adjusts the related right-of-use asset) whenever the lease contract has been modified or the term changed. The modification is not accounted for as a separate lease.
+Under IFRS 16, the Company recognises depreciation of the right-of-use asset and interest on the lease liability with in the Statement of comprehensive income. On the balance sheet, right-of-use assets have been included within property, plant and equipment and lease liabilities have been included within current and non-current borrowings.
+2.9
+Taxation
+Tax expense represents the sum of the tax currently payable and deferred tax. 
+Page 
+20
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.10
+ Intangible assets
+Intangible assets are stated at cost less amortisation and comprise the purchase cost of computer software and software licences, for both the Company’s IT software and Enterprise Resource Planning system “ERP”, including the costs of software that has been internally developed. Computer software and ERP are amortised to administrative expenses in the Statement of comprehensive income on a straight-line basis over the estimated useful life of the assets. The Company estimates the useful life of software to be 5-10 years and ERP (our internally developed software system) to be 5 years. The carrying value of intangible assets is reviewed for impairment when events or changes in circumstances indicate that the carrying value may not be recoverable. If the recoverable amount of an asset is estimated to be less than its carrying amount, the impairment loss is recognised immediately in the Statement of comprehensive income. 
+2.11
+ Property, plant and equipment
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged on a straight-line basis over the estimated useful life of the assets based on the
+following rates:
+Depreciation is provided on the following basis:
+Leasehold property and leasehold improvements
+-
+     shorter of the useful life of the asset or lease
+  term
+Computer equipment and IT infrastructure
+-
+    20-33%
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.12
+ Investments in subsidiary undertakings
+Subsidiaries are entities over which the Company has control. The Company controls an entity when it is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity.
+Investments in subsidiaries are initially recognised at cost and subsequently carried at cost less accumulated provisions made for any impairment. Non-cash investments obtained as a result of a common control transactions are initially recognised at fair value via deemed cost approach to reflect the economic substance of the transaction, which is a reorganization of legal form under continuing common control rather than a substantive change in economic ownership. Deemed cost in this instance pertains to the original cost of the investments at the date when control was obtained by the wider Damovo Group.
+Page 
+21
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.12
+ Investments in subsidiary undertakings (continued)
+Dividends, impairment losses and reversals of impairment losses are recognised in the Statement of comprehensive income in ‘net gains on investments in subsidiaries.
+Impairment losses on investment in subsidiaries are measured as the difference between cost and the current estimated recoverable amount. When the recoverable amount is less than the cost, an impairment is recognised in the Statement of comprehensive income in ‘net losses on investments in subsidiaries’ and is reflected against the carrying amount of the impaired asset on the Statement of Financial Position.
+2.13
+ Financial instruments
+Financial assets and financial liabilities are recognised in the Statement of Financial Position when the Company becomes a party to the contractual provisions of the instrument.
+Financial assets are derecognised when the contractual rights to the cash flows from the financial asset expire, or when the financial asset and substantially all the risks and rewards are transferred. A financial liability is derecognised when it is extinguished, discharged, cancelled or expires
+Classification and initial measurement of financial asset
+=== page 23 ===
+Financial assets, other than those designated and effective as hedging instruments, are classified into the following categories:
+∙
+amortised cost
+∙
+fair value through profit or loss (FVTPL) 
+∙
+fair value through other comprehensive income (FVOCI). 
+In the periods presented the Company does not have any financial assets categorised as FVOCI. 
+The classification is determined by both: 
+• the entity’s business model for managing the financial asset 
+• the contractual cash flow characteristics of the financial asset. 
+Subsequent measurement of financial assets
+All income and expenses relating to financial assets that are recognised in profit or loss are presented within finance costs, finance income or other financial items, except for impairment of trade receivables which is presented within other expenses.
+Financial assets at amortised cost
+Financial assets are measured at amortised cost if the assets meet the following conditions (and are not designated as FVTPL):
+∙
+they are held within a business model whose objective is to hold the financial assets and collect its contractual cash flows 
+∙
+the contractual terms of the financial assets give rise to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+Page 
+22
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.13
+ Financial instruments (continued)
+Page 
+23
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.13
+ Financial instruments (continued)
+After initial recognition, these are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial. The Company’s cash and cash equivalents, trade and most other receivables fall into this category of financial instruments. 
+Financial assets at fair value through profit or loss (FVTPL) 
+Financial assets that are held within a different business model other than ‘hold to collect’ or ‘hold to collect and sell’ are categorised at fair value through profit and loss. Further, irrespective of business model financial assets whose contractual cash flows are not solely payments of principal and interest are accounted for at FVTPL. All derivative financial instruments fall into this category, except for those designated and effective as hedging instruments, for which the hedge accounting requirements apply (see below). Assets in this category are measured at fair value with gains or losses recognised in profit or loss. The fair values of financial assets in this category are determined by reference to active market transactions or using a valuation technique where no active market exists.
+Impairment of financial assets
+A provision against other receivables is made where there is objective evidence that the Company will not be able to collect all amounts due to it in accordance with the original terms of those receivables. The amount of the write down is determined as the difference between the assets carrying amount and the present value of future cash flows. An assessment for impairment is undertaken at least at each reporting date.
+In addition to this, IFRS 9 requires an expected credit loss model as opposed to an incurred credit loss model under IAS 39. The expected credit loss (“ECL”) model requires the Company to account for expected credit losses and changes in those expected credit losses at each reporting date to reflect changes in credit risk since initial recognition of the financial assets. The Company recognises an allowance for expected credit losses for all debt instruments not held at fair value through the profit or loss (“FVTPL”). The main financial assets that are subject to the new expected credit loss model are other receivables.
+Classification and measurement of financial liabilities 
+The Company’s financial liabilities include borrowings, trade and other payables and derivative financial instruments. Financial liabilities are initially measured at fair value, and, where applicable, adjusted for transaction costs unless the Company designated a financial liability at fair value through profit or loss. 
+Subsequently, financial liabilities are measured at amortised cost using the effective interest method except for derivatives and financial liabilities designated at FVTPL, which are carried subsequently at fair value with gains or losses recognised in profit or loss (other than derivative financial instruments that are designated and effective as hedging instruments). 
+All interest-related charges and, if applicable, changes in an instrument’s fair value that are reported in profit or loss are included within finance costs or finance income.
+Page 
+24
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+2.
+Accounting policies (continued)
+2.13
+ Financial instruments (continued)
+Fair value measurement
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (i.e. the “exit price”) in an orderly transaction between market participants at the measurement date. Fair value is a market-based measure considered from the perspective of a market participant rather than an entity-specific measure. Therefore, even when market assumptions are not readily available, assumptions are set to reflect those that the Company believes market participants would use in pricing the asset at the measurement date.
+Financial assets and liabilities
+Financial assets and liabilities primarily comprise loans and advances, cash and cash equivalents, other receivable and payables and debt and other borrowings.
+Cash and cash equivalents comprise cash on hand and demand deposits and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+Loans and advances, other receivables and payables, debt and other borrowings and subordinated loans are recognised when the Company becomes a party to the contractual provisions of the instrument and are initially measured at fair value and subsequently measured at amortised cost (less allowance for impairment on financial assets). Interest is recognised in the Statement of comprehensive income using the effective interest rate (“EIR”) method.
+3.
+Critical accounts judgements and key sources of estimation uncertainty
+In the application of the Company’s accounting policies, which are contained within this note, the director is required to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates. The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period or in the period of the revision and future periods if the revision affects both current and future periods.
+Going concern
+The financial statements have been prepared by the Board of Directors on a going concern basis. See 'Going concern' in Note 2 for further details. 
+Page 
+25
+Damoco Bidco Limited
+=== page 24 ===
+Notes to the financial statements
+For the year ended 31 January 2025
+3.
+Critical accounts judgements and key sources of estimation uncertainty (continued)
+Carrying value of investments
+Investments are the most significant balance on the company's Statement of financial position. The directors review the carrying value annually and ensure it is supportable by assessing the budgets and projections of the businesses to which it relates. Determining whether the company's investments in subsidiaries have been impaired requires estimations of the investments' values in use. The value-in-use calculations require the entity to estimate future cash flows expected to arise from the investments and suitable discount rates in order to calculate present values. If appropriate, an impairment would be booked. 
+4.
+Revenue
+An analysis of turnover by class of business is as follows:
+2025
+2024
+€
+€
+Management services charge
+7,028,649
+4,404,692
+Other income
+-
+2,063,090
+7,028,649
+6,467,782
+All turnover arose 
+within the United Kingdom
+.
+The Company provides management services to companies within the Damovo Trust. All revenues generated are from charges raised according to a Management Services Agreement, agreed by all parties on an arm’s length basis. The Company recognizes revenues, including reimbursement of expenses, based on the monthly invoices.
+The Company has no outstanding performance obligations (2024: €Nil) or has no contract assets or liabilities recognised in the financial statements (2024: €Nil) other than amounts billed to Damovo Trust undertakings where payment has not yet been received.
+5.
+Operating loss
+The operating loss is stated after charging:
+2025
+2024
+€
+€
+Depreciation on property, plant and equipment (including right-of-
+use assets)
+12
+6,750
+4,724
+Amortisation of intangible assets
+11
+54,803
+86,872
+Currency translation losses, net
+198,632
+183,721
+Fees for the auditing of the Company's financial statements are included in the Atlanta Topco Group audit fee. This cost is bome by Atlanta Topco Limited on behalf of the UK-domiciled entities within the Group. The Company did not incur any costs in relation to non-audit services.  
+Page 
+26
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+6.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2025
+2024
+€
+€
+Wages and salaries
+4,664,081
+6,047,423
+Pension costs - defined contribution plans
+84,717
+87,273
+4,748,798
+6,134,696
+The total aggregate emoluments (inducing benefits in kind and fees) paid to Director for the year ended 31 January 2025 amounted to €1,786k (2024: €1,179k)
+The average
+=== page 25 ===
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2025
+2024
+No.
+No.
+Directors and management
+11
+11
+7.
+Interest receivable
+2025
+2024
+€
+€
+Interest receivable on loans with group undertakings
+299,029
+333,961
+8.
+Interest payable and similar expenses
+2025
+2024
+€
+€
+Interest payable on loans with group undertakings and related parties
+1,807,067
+1,946,603
+Foreign currency translation gains or losses, net
+(
+1,528
+)
+(
+10,947
+)
+1,805,539
+1,935,656
+9.
+Taxation
+2025
+2024
+€
+€
+Current tax on profits for the year
+-
+-
+Taxation on profit on ordinary activities
+-
+-
+Page 
+27
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+9.
+Taxation (continued)
+Factors affecting tax charge for the year
+There is no corporation tax credit in the year, which differs when compared to tax credit arising when applying the average rate of corporation tax in UK for the year of 19%. 
+2025
+2024
+€
+€
+Loss on ordinary activities before tax
+(
+4,744,964
+)
+(
+=== page 26 ===
+4,118,284
+)
+Loss on ordinary activities multiplied by standard rate of corporation tax in the UK of 19% (2024 - 19%)
+(
+901,543
+)
+(
+782,474
+)
+Effects of:
+Group relief and adjustments for nil consideration
+901,543
+782,474
+Total tax charge for the year
+-
+-
+A deferred tax asset will only be recognised where, in the opinion of the Directors, the Company is expected to make sufficient profits against which these tax assets can be set-off on the future. As at 31 January 2025, no deferred tax asset has been recognised.
+10.
+Exceptional items
+2025
+2024
+€
+€
+Restructuring costs
+4,504,605
+-
+During the year, management recognised provisions for expenses expected to be incurred in connection with on going business restructuring activities.
+Page 
+28
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+11.
+Intangible assets
+Computer software & ERP
+€
+Cost
+At 1 February 2024
+1,032,856
+Additions - external
+38,797
+At 31 January 2025
+1,071,653
+Amortisation
+At 1 February 2024
+1,004,219
+Charge for the year on owned assets
+54,803
+At 31 January 2025
+1,059,022
+Net book value
+At 31 January 2025
+12,631
+At 31 January 2024
+28,637
+All intangible assets above are unsecured. 
+Page 
+29
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+12.
+Tangible fixed assets
+Long-term leasehold property
+Computer equipment
+Total
+€
+€
+€
+Cost or valuation
+=== page 27 ===
+At 1 February 2024
+31,405
+27,666
+59,071
+At 31 January 2025
+31,405
+27,666
+59,071
+Depreciation
+At 1 February 2024
+31,405
+17,722
+49,127
+Charge for the year on right-of-use assets
+-
+6,750
+6,750
+At 31 January 2025
+31,405
+24,472
+55,877
+Net book value
+At 31 January 2025
+-
+3,194
+3,194
+At 31 January 2024
+-
+9,944
+9,944
+Page 
+30
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+13.
+Investment in subsidiaries
+Investments in subsidiary companies
+€
+Cost or valuation
+At 1 February 2024
+92,823,942
+Additions
+2,482,000
+At 31 January 2025
+95,305,942
+Impairment
+At 1 February 2024
+1,941,745
+At 31 January 2025
+1,941,745
+Net book value
+At 31 January 2025
+93,364,197
+At 31 January 2024
+90,882,197
+In 2024, the Group undertook a restructuring exercise, resulting in the Company acquiring full ownership of Damovo Technology Services (DTS), Lares LLC, and Lares Holdings LLC. This acquisition was made as a capital contribution, amounting to €15,910,083.
+During previous years, the directors have carried out a specific review of the investments at standalone level of subsidiaries on account of the sale of one of the revenue contract by a subsidiary, followed by reorganisation of business operations for some of the regions. As a result of this exercise, the Directors have impaired the full carrying value of investments for Damovo Schweiz AG, as disclosed above.
+As at 31 January 2025, the directors consider that the net carrying value of investments is recoverable and no additional impairment was made for financial year 2025.
+Details of the subsidiaries are disclosed in the financial statements of Atlanta Topco Limited.
+Page 
+31
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+Subsidiary undertakings
+The following 
+were subsidiary undertakings of the Company:
+Name
+ of undertaking
+=== page 28 ===
+Registered office
+ and principal place of business
+Principal activity
+% Ownership held by the Company
+DAMOVO Deutschland GmbH & Co. KG
+Fritz-Vomfelde-Straße 26, 40547 Düsseldorf, Germany
+Trading company
+100
+%
+DAMOVO Deutschland TopCo GmbH
+Fritz-Vomfelde-Straße 26, 40547 Düsseldorf, Germany
+Holding company
+100
+%
+DAMOVO Holdings Deutschland GmbH
+Fritz-Vomfelde-Straße 26, 40547 Düsseldorf, Germany
+Holding company
+100
+%
+DAMOVO Deutschland Verwaltungs GmbH
+Fritz-Vomfelde-Straße 26, 40547 Düsseldorf, Germany
+Holding company
+100
+%
+Netfarmers GmbH
+Muskatellerweg 25, 55232 Alzey, Germany
+Trading company
+100
+%
+DAMOVO Österreich GmbH
+Teinfaltstrasse 8/4, Vienna, A-1010, Austria
+Trading company
+100
+%
+DAMOVO Belgium NV / SA
+Lenneke Marelaan 8, 1932 St Stevens Woluwe, Belgium
+Trading company
+100
+%
+DAMOVO Nederland NV
+Papandorpseweg 100, 3528 BJ Utrecht, Netherlands
+Trading company
+100
+%
+DAMOVO Luxembourg S.á.r.l
+Rue Du Père Raphaël 43, L - 2413, Luxembourg
+Trading company
+100
+%
+DAMOVO Polska Sp. z o.o.
+Postepu 21, Warsaw 02-676, Poland
+Trading company
+100
+%
+DAMOVO Schweiz AG
+Zunstrasse 11, CH – 8152 Glattbrugg, Switzerland
+Trading company
+100
+%
+DAMOVO Ireland Limited
+Block A, Citylink Business Park, Dublin 12, Ireland
+Trading company
+100
+%
+DAMOVO Costa Rica SRL
+Avenida Escazu, floor 4 Torre Lexus, San Jose, Costa Rica
+Trading company
+100
+%
+DAMOVO USA. Inc.
+=== page 29 ===
+Atrium Two, 221 East Fourth Street, Suite 2500, Cincinnati, OH
+Trading company
+100
+%
+Data Point LLC
+2764 N Green Valley Pkwy #472 Henderson NV 89014, USA
+Trading company
+100
+%
+DAMOVO Sverige AG
+Jagersrovagen 151D, 213 75, Malmo, Sweden
+Trading company
+100
+%
+Lares Holding LLC
+1624 Market St Ste 226 PMB 79199 Denver, Colorado 80202
+Holding company
+100
+%
+Page 
+32
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+Subsidiary undertakings (continued)
+Name
+Registered office
+Principal activity
+Holding
+Lares LLC
+1624 Market St Ste 226 PMB 79199 Denver, Colorado 80202
+Trading company
+100
+%
+Damovo Technology Services
+Lenneke Marelaan 8, 1932 St Stevens Woluwe, Belgium
+Trading company
+100
+%
+14.
+Debtors
+2025
+2024
+€
+€
+Due after more than one year
+Amounts owed by group undertakings
+-
+8,125,376
+Due within one year
+Amounts owed by group undertakings
+8,309,355
+31,124,925
+Other debtors
+-
+79,966
+Prepayments
+95,486
+68,665
+Tax recoverable
+390,848
+156,692
+8,795,689
+39,555,624
+The carrying amounts of amounts owed by group undertakings are equal to their fair values. Amounts receivable are from 100% owned  group companies and interest is charged on these loans at rate 3.5%-7%. All assets are unsecured and due by 31 January 2025 to 31 January 2027.
+15.
+Cash and cash equivalents
+2025
+2024
+€
+=== page 30 ===
+€
+Cash at bank and in hand
+48,736
+151,133
+Page 
+33
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+16.
+Creditors: Amounts falling due within one year
+2025
+2024
+€
+€
+Trade creditors
+1,231,150
+112,079
+Amounts owed to group companies
+-
+37,811,619
+Amounts owed to a related party
+58,228
+58,228
+Other taxation and social security
+77,435
+50,242
+Other creditors
+-
+1,000
+Accruals
+3,735,147
+1,505,996
+Deferred income
+3,585,891
+3,788,654
+8,687,851
+43,327,818
+Amounts due to group undertakings interests include short-term trading balances and on demand loans from subsidiaries including accrued interest.
+17.
+Creditors: Amounts falling due after more than one year
+2025
+2024
+€
+€
+Non current element of lease contracts
+-
+3,597
+Amounts owed to group undertakings
+52,640,930
+44,137,490
+52,640,930
+44,141,087
+18.
+Share capital
+2025
+2024
+€
+€
+Allotted, called up and fully paid
+1,000
+ (2024 - 
+1,000
+)
+Ordinary
+shares of
+€
+0.10
+ each
+100
+=== page 31 ===
+100
+The Company has one class of ordinary share, which carries no right to fixed income. There are no restrictions on these shares, which carry a right to one vote each. All other rights attaching to these shares are set out in the articles of association.
+The Company is 100% owned by the parent company Damoco Midco Limited.
+Page 
+34
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+19.
+Reserves
+Share premium account
+Share premium account includes any premiums received on issue of share capital.
+Capital contribution
+Capital contribution reserves account consists of the capital elements from discounting interest free intercompany loans from prior years.
+In 2025, UK Atlanta Holdings, LLC converted its receivable from the Company’s subsidiaries, totalling €2,482K, into an additional investment within the Group structure. Accordingly, a capital contribution of €2,482K was recognised at the levels of Damovo US Holdco, LLC, the Company's parent, Damoco Midco Limited, and the Company itself, to reflect the downstream conversion of the receivable into equity.
+In 2024, the Group undertook a restructuring exercise, resulting in the Company acquiring full ownership of Damovo Technology Services, Lares LLC, and Lares Holdings LLC. This acquisition was made as a capital contribution, amounting to €15,910,083.
+Other reserves
+During the year ended 31 January 2019, the Company captailised amount of €50,697,787, being excess of the consideration received by the company over the carrying amount of the investment, from disposal of its subsidiary to another group undertaking in the previous year.
+Profit and loss account
+This account includes all current and prior period retained profits and losses.
+20.
+Related party transactions
+As permitted by FRS 101, related party disclosures with wholly owned members of Damovo Group Trust have not been disclosed.
+Transactions with related parties (not wholly owned members of the Group)
+Trade payable consists of €
+58,228
+ (2024: €
+58,228
+) owed to 
+GGHI companies
+, in respect of advances received by the Company during the year. There were no other material transactions carried out with GGHI companies during the year then ended.
+Directors’ remuneration
+The remuneration of Directors’ is set out at note 6.
+As a result of the above, the financial statements have been corrected and the prior year comparative figures have been restated to account for the aforementioned transactions in line with the requirements of IAS 8 and FRS 101. 
+21.
+Post balance sheet events
+The directors have carried out a post balance sheet review for events that may give rise to adjusting items to be recorded and have concluded that there are none.
+Page 
+35
+Damoco Bidco Limited
+Notes to the financial statements
+For the year ended 31 January 2025
+22.
+Commitments and contingencies
+Glas Trust Corporation Limited hold a fixed and floating charge over the assets of the company as part of the refinancing of the prior year Triton & Kartersia loan.
+23.
+Controlling party
+Damoco Bidco Limited’s immediate parent company is 
+Damoco Midco Limited
+ a company incorporated in the U.K, with a registered office at BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom
+In June 2021, the ownership of the Group was transferred by GGHI to Damovo Group Trust (established in 2021). 
+Hugh Steven Wilson
+, as the trustee of the Damovo Group Trust, is the person with the ultimate control over the Damovo Group.
+The financial statements of Atlanta Topco Limited represent the largest and the smallest group for which consolidated accounts are prepared and are publicly available and include the results of the Company. The registered office of Atlanta Topco Limited is BDO LLP, First Floor, North Bottle Works, The Bars, Guildford, Surrey, GU1 4LP, United Kingdom
+Page 
+36

@@ -1,0 +1,929 @@
+=== page 1 ===
+Lily Communications Ltd. - Accounts to registrar (filleted) - small 23.2.5
+IRIS Accounts Production
+v24.1.0.578
+07020016
+Board of Directors
+1.10.22
+30.9.23
+30.9.23
+false
+true
+false
+false
+false
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+07020016
+2022-09-30
+07020016
+2023-09-30
+07020016
+2022-10-01
+2023-09-30
+07020016
+2021-09-30
+07020016
+2021-10-01
+2022-09-30
+07020016
+2022-09-30
+07020016
+ns15:EnglandWales
+2022-10-01
+2023-09-30
+07020016
+ns14:PoundSterling
+2022-10-01
+2023-09-30
+07020016
+ns10:Director1
+2022-10-01
+2023-09-30
+07020016
+ns10:PrivateLimitedCompanyLtd
+2022-10-01
+2023-09-30
+07020016
+ns10:SmallEntities
+2022-10-01
+2023-09-30
+07020016
+ns10:AuditExempt-NoAccountantsReport
+2022-10-01
+2023-09-30
+07020016
+ns10:SmallCompaniesRegimeForDirectorsReport
+2022-10-01
+2023-09-30
+07020016
+ns10:SmallCompaniesRegimeForAccounts
+2022-10-01
+2023-09-30
+=== page 2 ===
+07020016
+ns10:FullAccounts
+2022-10-01
+2023-09-30
+07020016
+1
+2022-10-01
+2023-09-30
+07020016
+ns10:OrdinaryShareClass1
+2022-10-01
+2023-09-30
+07020016
+ns10:Director2
+2022-10-01
+2023-09-30
+07020016
+ns10:Director3
+2022-10-01
+2023-09-30
+07020016
+ns10:RegisteredOffice
+2022-10-01
+2023-09-30
+07020016
+ns5:CurrentFinancialInstruments
+2023-09-30
+07020016
+ns5:CurrentFinancialInstruments
+2022-09-30
+07020016
+ns5:Non-currentFinancialInstruments
+2023-09-30
+07020016
+ns5:Non-currentFinancialInstruments
+2022-09-30
+07020016
+ns5:ShareCapital
+2023-09-30
+07020016
+ns5:ShareCapital
+2022-09-30
+07020016
+ns5:SharePremium
+2023-09-30
+07020016
+ns5:SharePremium
+2022-09-30
+07020016
+ns5:RetainedEarningsAccumulatedLosses
+2023-09-30
+07020016
+ns5:RetainedEarningsAccumulatedLosses
+2022-09-30
+07020016
+ns5:NetGoodwill
+2022-10-01
+2023-09-30
+07020016
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-10-01
+2023-09-30
+07020016
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2022-10-01
+2023-09-30
+07020016
+ns5:OwnedOrFreeholdAssets
+ns5:LandBuildings
+2022-10-01
+=== page 3 ===
+2023-09-30
+07020016
+ns5:FurnitureFittings
+2022-10-01
+2023-09-30
+07020016
+ns5:ComputerEquipment
+2022-10-01
+2023-09-30
+07020016
+ns5:NetGoodwill
+2022-09-30
+07020016
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-09-30
+07020016
+ns5:NetGoodwill
+2023-09-30
+07020016
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-09-30
+07020016
+ns5:NetGoodwill
+2022-09-30
+07020016
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-09-30
+07020016
+ns5:LandBuildings
+2022-09-30
+07020016
+ns5:FurnitureFittings
+2022-09-30
+07020016
+ns5:ComputerEquipment
+2022-09-30
+07020016
+ns5:LandBuildings
+2022-10-01
+2023-09-30
+07020016
+ns5:LandBuildings
+2023-09-30
+07020016
+ns5:FurnitureFittings
+2023-09-30
+07020016
+ns5:ComputerEquipment
+2023-09-30
+07020016
+ns5:LandBuildings
+2022-09-30
+07020016
+ns5:FurnitureFittings
+2022-09-30
+07020016
+ns5:ComputerEquipment
+2022-09-30
+07020016
+ns5:FurnitureFittings
+ns5:LeasedAssetsHeldAsLessee
+2022-09-30
+07020016
+ns5:FurnitureFittings
+ns5:LeasedAssetsHeldAsLessee
+2022-10-01
+2023-09-30
+07020016
+ns5:FurnitureFittings
+ns5:LeasedAssetsHeldAsLessee
+=== page 4 ===
+2023-09-30
+07020016
+ns5:FurnitureFittings
+ns5:LeasedAssetsHeldAsLessee
+2022-09-30
+07020016
+ns5:CostValuation
+2022-09-30
+07020016
+ns5:AdditionsToInvestments
+2023-09-30
+07020016
+ns5:ProvidedReleasedInPeriodProvisionsForImpairmentInvestments
+2023-09-30
+07020016
+ns5:TransfersBetweenInvestmentClassesIncreaseDecreaseInInvestments
+2023-09-30
+07020016
+ns5:CostValuation
+2023-09-30
+07020016
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-09-30
+07020016
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-09-30
+07020016
+ns5:Secured
+2023-09-30
+07020016
+ns5:Secured
+2022-09-30
+07020016
+ns10:OrdinaryShareClass1
+2023-09-30
+07020016
+1
+ns10:Director1
+2022-09-30
+07020016
+1
+ns10:Director1
+2021-09-30
+07020016
+1
+ns10:Director1
+2022-10-01
+2023-09-30
+07020016
+1
+ns10:Director1
+2021-10-01
+2022-09-30
+07020016
+1
+ns10:Director1
+2023-09-30
+07020016
+1
+ns10:Director1
+2022-09-30
+REGISTERED NUMBER: 
+07020016
+(England and Wales) 
+UNAUDITED FINANCIAL STATEMENTS
+ FOR THE YEAR ENDED 30 SEPTEMBER 2023
+FOR
+LILY COMMUNICATIONS LTD.
+=== page 5 ===
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+Page
+Company Information  
+1
+Balance Sheet  
+2
+Notes to the Financial Statements  
+4
+LILY COMMUNICATIONS LTD.
+COMPANY INFORMATION 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+DIRECTORS:
+C J Morrisey
+C D Goodman
+R Gilbert
+REGISTERED OFFICE:
+Connect House
+Unit A, Millshaw Business Park
+Global Avenue
+Leeds
+LS11 8PR
+REGISTERED NUMBER:
+07020016
+(England and Wales) 
+ACCOUNTANTS:
+Watson Associates (Professional Services) Ltd
+30 - 34 North Street
+Hailsham
+East Sussex
+BN27 1DW
+Page 1
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+BALANCE SHEET 
+30 SEPTEMBER 2023
+2023
+2022
+Notes
+£   
+£   
+FIXED ASSETS
+Intangible assets
+4
+1,406,245
+368,810
+Tangible assets
+5
+755,368
+772,414
+Investments
+6
+1,115,946
+293,607
+3,277,559
+1,434,831
+CURRENT ASSETS
+Stocks
+134,883
+133,742
+Debtors
+7
+1,835,598
+1,694,941
+Cash at bank
+636,933
+354,797
+2,607,414
+2,183,480
+CREDITORS
+=== page 6 ===
+Amounts falling due within one year 
+8
+(
+4,197,266
+)
+(
+2,160,856
+)
+NET CURRENT (LIABILITIES)/ASSETS
+(
+1,589,852
+)
+22,624
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+1,687,707
+1,457,455
+CREDITORS
+Amounts falling due after more than one 
+year 
+9
+(
+1,616,661
+)
+(
+1,494,164
+)
+PROVISIONS FOR LIABILITIES
+(
+18,531
+)
+(
+18,531
+)
+NET ASSETS/(LIABILITIES)
+52,515
+(
+55,240
+)
+The notes form part of these financial statements
+Page 2
+continued...
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+BALANCE SHEET - continued 
+30 SEPTEMBER 2023
+2023
+2022
+Notes
+£   
+£   
+CAPITAL AND RESERVES
+Called up share capital
+11
+134
+134
+Share premium
+249,968
+249,968
+Retained earnings
+(
+197,587
+)
+(
+305,342
+)
+SHAREHOLDERS' FUNDS
+52,515
+(
+55,240
+)
+=== page 7 ===
+The company is entitled to exemption from audit under Section 477 of the Companies Act 2006 for the year ended 30 September 2023.
+The members have not required the company to obtain an audit of its financial statements for the year ended 30 September 2023 in accordance with Section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for:
+(a)
+ensuring that the company keeps accounting records which comply with Sections 386 and 387 of the 
+Companies Act 2006 and 
+(b)
+preparing financial statements which give a true and fair view of the state of affairs of the company as at 
+the end of each financial year and of its profit or loss for each financial year in accordance with the 
+requirements of Sections 394 and 395 and which otherwise comply with the requirements of the 
+Companies Act 2006 relating to financial statements, so far as applicable to the company. 
+The financial statements have been prepared and delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+In accordance with Section 444 of the Companies Act 2006, the Statement of Comprehensive Income has not been delivered.  
+The financial statements were approved by the Board of Directors and authorised for issue on 
+27 June 2024
+and 
+were signed on its behalf by: 
+C J Morrisey
+- Director 
+The notes form part of these financial statements
+Page 3
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+1.
+STATUTORY INFORMATION
+Lily Communications Ltd. is a 
+private company, limited by shares
+, registered in England and Wales. The 
+company's registered number and registered office address can be found on the Company Information 
+page. 
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" including the provisions of Section 1A "Small Entities" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Preparation of consolidated financial statements
+The financial statements contain information about Lily Communications Ltd. as an individual company 
+and do not contain consolidated financial information as the parent of a group. The company is exempt 
+under Section 399(2A) of the Companies Act 2006 from the requirements to prepare consolidated 
+financial statements. 
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, 
+rebates, value added tax and other sales taxes. 
+Goodwill
+Goodwill, being the amount paid in connection with the acquisition of businesses in 2021 and 2023, is 
+being amortised evenly over its estimated useful life of 10 years.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at 
+cost less any accumulated amortisation and any accumulated impairment losses. 
+Patents and licences are being amortised evenly over their estimated useful life of five years.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off the cost less estimated residual value of each asset over its estimated useful life or, if held under a finance lease, over the lease term, whichever is the shorter.
+Freehold property
+- 
+not provided
+Fixtures and fittings
+- 
+20% on reducing balance
+Computer equipment
+- 
+33% on reducing balance
+Tangible fixed assets are initially measured at cost and subsequently measured at cost or valuation, net 
+of depreciation and any impairment losses.
+Investments in subsidiaries
+Investments in subsidiary undertakings are recognised at cost. 
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete 
+and slow moving items. 
+Page 4
+continued...
+=== page 8 ===
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+The company only enters into basic financial instruments transactions that result in the recognition of 
+financial assets and liabilities like trade and other accounts receivable and payable, loans from banks and 
+other third parties, and loans to related parties.
+Debt instruments that are payable or receivable within one year, are measured, initially and subsequently, 
+at the undiscounted amount of the cash or other consideration expected to be paid or received; other 
+debt instruments are initially measured at present value of the future payments and subsequently at 
+amortised cost using the effective interest method.
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting 
+period for objective evidence of impairment. If objective evidence of impairment is found, an impairment 
+loss is recognised in profit or loss.
+Financial assets and liabilities are offset and the net amount reported in the balance sheet only when 
+there is an enforceable right to set off the recognised amounts and there is an intention to settle on a net 
+basis or to realise the asset and settle the liability simultaneously.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, 
+except to the extent that it relates to items recognised in other comprehensive income or directly in 
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been 
+enacted or substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the 
+balance sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods 
+different from those in which they are recognised in financial statements. Deferred tax is measured using 
+tax rates and laws that have been enacted or substantively enacted by the year end and that are 
+expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable 
+that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet. 
+Those held under hire purchase contracts are depreciated over their estimated useful lives.  Those held 
+under finance leases are depreciated over their estimated useful lives or the lease term, whichever is the 
+shorter. 
+The interest element of these obligations is charged to profit or loss over the relevant period. The capital 
+element of the future payments is treated as a liability. 
+Page 5
+continued...
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+2.
+ACCOUNTING POLICIES - continued
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the company's 
+pension scheme are charged to profit or loss in the period to which they relate.
+Government grants
+Grants are accounted under the accruals model as permitted by FRS 102. Grants relating to expenditure 
+on tangible fixed assets are credited to the profit and loss account at the same rate as the depreciation 
+on the assets to which the grant relates. The deferred element of grants is included in creditors as 
+deferred income.
+Grants of a revenue nature are recognised in other income within profit or loss in the same period as the 
+related expenditure.
+3.
+EMPLOYEES AND DIRECTORS
+The average number of employees during the year was 
+82
+(2022 - 
+82
+) . 
+4.
+INTANGIBLE FIXED ASSETS
+Other
+intangible
+=== page 9 ===
+Goodwill
+assets
+Totals
+£   
+£   
+£   
+COST
+At 1 October 2022
+-
+651,240
+651,240
+Additions
+-
+57,590
+57,590
+Reclassification/transfer
+1,216,471
+-
+1,216,471
+At 30 September 2023
+1,216,471
+708,830
+1,925,301
+AMORTISATION
+At 1 October 2022
+-
+282,430
+282,430
+Charge for year
+81,509
+129,801
+211,310
+Impairments
+25,316
+-
+25,316
+At 30 September 2023
+106,825
+412,231
+519,056
+NET BOOK VALUE
+At 30 September 2023
+1,109,646
+296,599
+1,406,245
+At 30 September 2022
+-
+368,810
+368,810
+Page 6
+continued...
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+5.
+TANGIBLE FIXED ASSETS
+Fixtures
+Freehold
+and
+Computer
+property
+fittings
+equipment
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 October 2022
+=== page 10 ===
+691,380
+200,449
+109,406
+1,001,235
+Additions
+-
+-
+6,103
+6,103
+At 30 September 2023
+691,380
+200,449
+115,509
+1,007,338
+DEPRECIATION
+At 1 October 2022
+-
+151,216
+77,605
+228,821
+Charge for year 
+-
+11,181
+11,968
+23,149
+At 30 September 2023
+-
+162,397
+89,573
+251,970
+NET BOOK VALUE
+At 30 September 2023
+691,380
+38,052
+25,936
+755,368
+At 30 September 2022
+691,380
+49,233
+31,801
+772,414
+Fixed assets, included in the above, which are held under finance leases are as follows: 
+Fixtures
+and
+fittings
+£   
+COST
+At 1 October 2022
+and 30 September 2023
+100,000
+DEPRECIATION
+At 1 October 2022
+98,333
+Charge for year 
+1,667
+At 30 September 2023
+100,000
+NET BOOK VALUE
+At 30 September 2023
+-
+At 30 September 2022
+1,667
+Page 7
+continued...
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+6.
+FIXED ASSET INVESTMENTS
+Shares in
+=== page 11 ===
+group
+Other
+undertakings
+investments
+Totals
+£   
+£   
+£   
+COST
+At 1 October 2022
+293,606
+1
+293,607
+Additions
+3,149,913
+-
+3,149,913
+Impairments
+(
+1,111,103
+)
+-
+(1,111,103
+)
+Reclassification/transfer
+(
+1,216,471
+)
+-
+(1,216,471
+)
+At 30 September 2023
+1,115,945
+1
+1,115,946
+NET BOOK VALUE
+At 30 September 2023
+1,115,945
+1
+1,115,946
+At 30 September 2022
+293,606
+1
+293,607
+7.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade debtors
+1,123,781
+977,680
+Amounts owed by group undertakings
+1,273
+-
+Other debtors
+710,544
+717,261
+1,835,598
+1,694,941
+8.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Bank loans and overdrafts
+292,714
+292,233
+=== page 12 ===
+Finance leases
+-
+1,869
+Trade creditors
+696,243
+515,863
+Amounts owed to group undertakings
+871,121
+26,523
+Taxation and social security
+959,579
+724,599
+Other creditors
+1,377,609
+599,769
+4,197,266
+2,160,856
+9.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+2023
+2022
+£   
+£   
+Bank loans
+1,175,520
+1,465,448
+Other creditors
+441,141
+28,716
+1,616,661
+1,494,164
+Page 8
+continued...
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+9.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR - continued
+2023
+2022
+£   
+£   
+Amounts falling due in more than five years:
+Repayable by instalments
+Bank loans more 5 yr by instal
+292,774
+407,489
+10.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2023
+2022
+£   
+£   
+Bank loans
+1,468,234
+1,757,681
+Finance leases
+-
+1,869
+Other loan
+572,668
+73,920
+2,040,902
+1,833,470
+The bank loans are secured by a legal mortgage over the freehold property and a personal guarantee 
+from a director.
+The overdraft is secured by a fixed and floating charge on the assets of the company.
+A loan from Gamma Telecom Limited totalling £572,688 at the year end was secured by way of a 
+=== page 13 ===
+personal guarantee from a director.
+The finance lease is secured on the assets that they relate to.
+11.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£   
+£   
+134
+Ordinary
+£1
+134
+134
+Page 9
+continued...
+LILY COMMUNICATIONS LTD. (REGISTERED NUMBER: 07020016)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 30 SEPTEMBER 2023
+12.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to a director subsisted during the years ended 30 September 2023 
+and 30 September 2022: 
+2023
+2022
+£   
+£   
+C J Morrisey
+Balance outstanding at start of year
+149,138
+162,979
+Amounts repaid
+(
+1,156
+)
+(
+13,841
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+147,982
+149,138
+The loan provided to the director is interest free and repayable on demand.
+13.
+RELATED PARTY DISCLOSURES
+At the year end the company owed £36,122 (2022 - £36,122) to its directors.
+During the year Lily Communications transacted with another company of which directors C Goodman 
+and R Gilbert are also directors. Sales for the year amounted to £44,408 and purchases amounted to 
+£45,163. At 30 September 2023 a balance of £141 was owed to this company.
+14.
+FUNDAMENTAL REORGANISATION
+During the period the company recognised the partial transfer of trade and assets of Hicel Limited on 1 
+October 2022, Digiquip group Limited on 12 January 2023 and Intellia Ltd on 28/02/2023 . The goodwill 
+in relation to the acquisition of these investments has been transferred to Goodwill and amortised from 
+the date of acquisition. The investments have been written down to fair value and dividends raised from 
+the subsidiaries to clear their balance sheet positions of transferred assets.
+15.
+PRIOR YEAR ADJUSTMENTS
+Comparative figures have been restated to adjust for agency related income and expenditure which 
+should not have been recognised in the accounts of Lily Communications Ltd.
+The adjustment has had the financial effect of a net reduction in comparative profit before tax of £73,295. 
+=== page 14 ===
+Other creditors have also increased £324,216 and opening reserves reduced by £250,922.
+Another prior year adjustment has been made to the accounts to adjust for £86,271 of payments that 
+had been incorrectly classified as dividend in previous financial periods.
+This adjustment has had the financial effect of increasing net assets and reserves by £86,271.
+Page 10

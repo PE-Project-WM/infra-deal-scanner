@@ -1,0 +1,1638 @@
+=== page 1 ===
+f van
+
+=== page 2 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Company information
+Director MJ Banwell
+N J Parbutt
+K C Innes Ker
+BJ Terry
+PS Andrews
+PJ Dunn
+Registered number 11051348
+Registered office Building 4000
+Lakeside North Harbour
+Western Road
+Portsmouth
+PO6 3EN
+Independent auditor BDO LLP
+Arcadia House
+Maritime Walk
+Ocean Village
+Southampton
+Hampshire
+SO14 3TL
+Banker NatWest
+130 Commercial Road
+Portsmouth
+POI 1EJ
+
+=== page 3 ===
+Toob Limited
+
+Annual report and financial statements
+
+31 December 2024
+
+Contents
+
+Strategic report 1-4
+Directors’ report 5-6
+Statement of directors’ responsibilities in respect of the annual report and the financial statements 7
+Independent auditor’s report to the members of toob limited 9-11
+Statement of Profit and Loss and Other Comprehensive Income 12
+Statement of Financial Position 13-14
+Statement of Changes in Equity 15
+Statement of Cash Flows 16
+Notes to the Financial Statement 17-46
+
+=== page 4 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Strategic report
+Introduction
+The directors present the Company Strategic Report for Toob Limited for the year ended 31 December 2024.
+The Company has successfully invested in rolling out a full fibre broadband to c. 280,000 premises. in the south of
+England.
+2024 has been a year that has seen the Company complete the main phase of its build in its chosen geographies and
+transition its build activities to a consolidated in-house capability allowing the Company to address opportunities to
+infill network gaps as they arise and maintain its existing network. The Company is expanding its full fibre broadband
+services under its ISP agreement with CityFibre to additional towns in new geographies served by the growing
+CityFibre network.
+The Company has continued to execute strongly the commercialisation of the network investment it has made and has
+delivered significant growth in customer connections both on its own network and that of its wholesale partner
+CityFibre.
+The network and customer expansion is funded by the capital that the Company secured from funds managed by ‘Ares .
+Management’s Infrastructure Debt Strategy and further equity from Funds managed by the Amber Infrastructure
+Group.
+During 2025 the Company will leverage the network investment made to date to opportunistically build out areas of
+infill to complement its current network, taking the build to over 300,000 ‘premises. Commercialisation of the
+Company’s network remains a priority as the Company drives towards being EBITDA positive, alongside which it
+will market its services to customers able to connect to the CityFibre network in the areas that the Company chooses
+to address. —_
+: Principal Activities
+Toob Limited designs, builds, owns, sells and operates its own full fibre network and resells a third-party full fibre
+network for the benefit of consumers and as appropriate, small businesses.
+Business Review
+Toob Limited has a clear strategy and business plan to scale the Company as a full fibre network provider.
+It has a very experienced and seasoned management team who have diligently managed the deployment of the Toob
+Limited network in its chosen geographies and who continue to successfully commercialise the network investment
+by acquiring and retaining connected customers.
+The Company is supported by a mixture of equity and debt of up to £395M to deliver their plan to create a sustainable
+business focusing on the south of England and to take advantage of market consolidation if opportunities arise.
+In its sixth full year of operation, 2024 has seen the Company densify and extend its fibre deployment in towns in the
+south of England and extend the successful customer acquisition metrics from its earliest cohorts across its wider
+footprint. The Company has leveraged the success of its brand in the region into its ISP agreement with CityFibre,
+adding incremental customers to its base to deliver additional business synergies and incremental margin and is also
+seeking to extend its reach to areas outside of the immediate region.
+The financial statements reflect the final phase of deployment of significant capital into the network, as the major
+build phase comes to an end, together with the continued investment in sales, marketing, and customer service
+capability to support the growing customer base. These cash outflows are offset by revenues from the growth in
+connected customers.
+The Company is focused on achieving cash breakeven under its existing committed investment and will, seek to
+telease further investment, as required, to deliver its strategy.
+I
+
+=== page 5 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Principal risks and uncertainties
+The directors identify, assess and manage principal risks and uncertainties that might directly affect the Company’s
+. strategy and operations. Risks generally arise from either external factors driven by the market in which the Company
+operates or from internal factors driven by the operational aspects of the business.
+Market
+Changes in government policy can adversely affect the Company. Toob Limited works with industry groups such as
+ISPA and INCA to engage with the government and Ofcom on key topics and consultations to ensure that the interests
+of Toob Limited are properly and clearly represented.
+The Company carefully and diligently reviews all new areas selected for potential build to understand the current and
+possible future competitive landscape to identify circumstances where its economic prospects might be impacted.
+Digital Disruption and Emerging Technology
+Generative AI is a specific subfield of AI that focuses on creating new content and therefore represents both an
+opportunity and a risk for the Company. AI processes large amounts of data which gives rise to both privacy and cyber
+security issues where AI has the potential to drive network attacks that exploit possible vulnerabilities.
+Deepfake content and algorithms have the potential to create bias that influences opinion and decision making.
+Generative AI tools have the potential to pose ethical, legal, and existential conflicts. The application of generative
+Al tools in the workplace is therefore being evaluated by the government and the NCSC to assess its longer-term
+impact.
+The Company has a Use of Artificial Intelligence (Al) policy advising employees on acceptable and prohibited uses
+of AL.
+Data and Cyber Security
+Toob Limited as an infrastructure provider, is exposed to the ever-increasing risk of cyber-attacks. The Company is
+continually enhancing its physical defcnces through application of latest patch updates, regular revicws and testing of
+its perimeter defences through penetration testing supported by continuous network monitoring.
+The Company maintains its Cyber Essentials and Cyber Essentials Plus qualifications together with renewal of its
+18022301 and [8027001 accreditations.
+The Company’s physical defences are supported by logical defences vested in robust business processes and training
+to ensure employees understand and can respond to business continuity, data protection and security breaches and
+phishing attacks.
+Competition
+Toob Limited competes for customers with other ISPs who either own or resell the wholesale networks of BT
+Openreach, Virgin Media and CityFibre or compete as a standalone AltNet. The Company acquires customers from
+competitors who either do not have access to a full fibre product or are unable to provide a suitably differentiated full
+fibre proposition that is able to compete with the Toob Limited proposition. The Toob Limited network has very
+limited overbuild with other AltNets which significantly reduces any competitive tensions in those geographies. The
+Company continually reviews its products and services to ensure its offer meets the needs of its customer and remains
+attractive to customers considering an alternative to their current provider.
+2
+
+=== page 6 ===
+: Toob Limited
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Operations
+Toob Limited maintains a practice of dual sourcing for its key materials and equipment and ensures that minimum
+inventory levels can mitigate potential supply chain risks. Service interruptions are a risk to brand and reputation so
+the Company architects its network to be resilient at appropriate levels of consolidation in its core network and its
+Points of Presence and responds promptly to minimise the effect of outages on its customers.
+Outsourced Construction
+Toob Limited awards NEC (New Engineering Contract) contracts to principal construction partners to build its full
+fibre network and relies on their industry expertise and capability to deliver in line with agreed contractual terms and
+within the UK legal and regulatory framework. The Company has a robust supplier selection process and awards long-
+term contracts to multiple principal contractor partners to reduce the exposure to any one contractor. Contracts are
+designed to ensure the Company only pays for what has been built to the required network standards and has a process
+of ongoing review and monitoring that takes place throughout the contract cycle. Contracts have a built-in mechanism
+for finance retentions to ensure completion to the Company standard and delivery timeline.
+Climate
+Toob Limited recognises and actively manages the risks that climate change presents to the Company, including the
+increased likelihood of extreme weather events such as floods, storms, and heatwaves.
+The Company conducts environmental risk assessments during the construction planning phase for its infrastructure
+placements to ensure resilience against possible future weather-related disruptions.
+Future Developments
+The directors see no material change in the nature of the Company’s activities but expect to enter wholesale
+agreements that will allow third party channels to resell the Toob Limited network under various retail brands.
+Financial Risk Management
+The company is exposed to a variety of financial risks; credit risk, liquidity risk, interest rate risk. The company adopts.
+a risk management approach to manage these risks.
+Liquidity
+Cashflow is managed by ensuring there are sufficient funds available to support continuing operations and plans for
+future growth. Toob Limited maintains a detailed rolling cashflow forecast to ensure there arc adequate funds available
+to meet commitments as they fall due. The Company has put in place appropriate equity and debt facilities that
+underpin its funding requirements.
+Interest
+Recent funding rounds have increased the leverage of Toob Limited which exposes the Company to greater cost risk
+from any increases in interest rates. The Company has put in place an interest rate cap to mitigate the exposure.
+Credit risk
+Exposure to credit risk is monitored on an ongoing basis. As most customers pay in advance on a monthly basis the
+Company has the ability to withdraw services should a customer become overdue.
+3
+
+=== page 7 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Strategic report (continued)
+Disclosure of Controlling party
+In the opinion of the directors the company’s ultimate parent company and ultimate controlling party is National
+Digital Infrastructure Fund I PF LP, a private fund limited parmership registered in England with company number
+LPO18059
+The immediate controlling party is Toob Topco Limited, a company registered in England with company number
+15292311.
+Financial key performance indicators
+Financial performance is measured against a detailed annual budget and forecast. The Company finalises its
+performance metrics on a monthly basis for the senior management and directors to monitor and manage the operations
+of the business.
+Operating loss for 2024 of £23,509k (2023: £19,487) has increased year on year by £4,022k (2023: £5,916k), driven
+by the growth in Company operating infrastructure offset by increasing customer revenues. The increase in staff, and
+marketing to attract and retain the growing customer base are the primary drivers of cost. These are supplemented by
+the increasing cost of managing and maintaining the expanding network.
+Capital expenditure in 2024 of £46,471k (2023: £38,680k) is made up of £44,708k (2023: £36,385k) relating to
+property, plant, and equipment and £947k (2023: £464k) is relating to intangible assets. Also included is interest in
+leases capitalised under IFRS 16 of £816k (2023: £1,831k). This capital expenditure reflects the ongoing investment
+in the network deployment programme across the Company’s selected geographies.
+This report was approved by the board and signed on its behalf.
+MJ Banwell ;
+Director
+Date: 30 April 2025
+4
+
+=== page 8 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Directors’ report ;
+The directors present their report and the financial statements for the year ended 31 December 2024.
+General information
+Toob Limited is a private company, limited by shares, domiciled and incorporated in England and Wales (registered
+number: 11051348). The address of the registered office is Building 4000, Lakeside North Harbour, Western Road,
+Portsmouth, PO6 3EN.
+Results and dividends
+The loss for the year, after taxation, amounted to £52,825k (2023: £36,336k) (Restated)
+The directors do not recommend the payment of a dividend for the year (2023: £Nil)
+Going Concern -
+Notwithstanding the net liabilities of £150,605k as at 31 December 2024 (2023: £97,780k) (restated), a loss for the
+year then ended of £52,825k (2023: £36,336k) (restated) and operating cash outflows for the year of £10,380k (2023:
+£13,792k), the financial statements have been prepared on a going concern basis which the directors consider to be
+appropriate for the following reasons.
+As at 31 December 2024 the business had £4,996k cash available and as at 31 March 2025 £1,387k.
+The directors have prepared cash flow forecasts for a period of 12 months from the date of approval of these financial
+Statements (“base case model’) which indicate that, taking account of reasonably possible downsides, the Company
+will have sufficient funds, through the availability of debt funding from funds managed by Ares Management’s
+Infrastructure Debt Strategy entered into on 16 May 2023 as disclosed in note 13 that sets out the repayment terms on
+the loan and further equity from Funds managed by the Amber Infrastructure Group to supplement its initial
+investment.
+The debt facility is subject to five covenant requirements; total net debt to equity ratio, net debt per premise passed,
+net debt per premise connected, total premises passed and average revenue per customer. Cashflow forecasts under
+the base case model produce debt and revenues to satisfy the covenants for at least the next 12 months.
+Furthermore, the directors have carefully reviewed the prospects of the Company and its future cash flows for potential
+adverse economic impacts. The directors have prepared a severe but plausible downside model (‘downside model’)
+using the following assumptions: reduced customer take up versus base case, and network infrastructure build
+discontinued leaving maintenance of services for existing customer base only.
+This downside model forecasts that the cash available to the business from its debt facility will also satisfy the covenant
+requirements for at least the next 12 months.
+In modelling the above, the Company has not included additional cost saving measures that are in the control of the
+directors which could be taken to further reduce costs or cash outflows such as reduction in capital expenditure and
+payroll costs.
+Consequently, the directors are confident that the Company will have sufficient funds to continue to meet its liabilities
+as they fall due for at least 12 months from the date of approval of the financial statements and therefore have prepared
+the financial statements on a going concern basis. Accordingly, these financial statements do not inchide any
+adjustments to the carrying amount or classification of assets and liabilities that would result if the Company was
+unable to continue as a going concern.
+5
+
+=== page 9 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Directors’ report (continued)
+The directors who served during the year and up to date of signing these financial statements were as follows:
+MJ Banwell
+NJ Parbutt
+BJ Terry
+KC Innes Ker
+PS Andrews
+P J Dunn (appointed 28" February 2024)
+Future Developments
+An indication of likely future developments in the business and particulars of significant events which have occurred
+since the end of the financial year have been included in the Strategic Report on page I.
+Disabled employees
+The Company is committed to providing equal opportunities in employment and is fully compliant with the
+provisions of the Equality Act 2010. Applications for employment by disabled persons are always fully considered,
+bearing in mind the aptitudes and abilities of the applicant. In the event of employees becoming disabled, every
+effort is made to ensure that their employment with the Company continues, and that appropriate adjustments are
+made. It is the policy of the Company that the training, career development and promotion of disabled persons
+should, as far as possible, be identical to that of other employees.
+Qualifying third part indemnity provisions
+The company has granted an indemnity to one or more of its directors against liability in respect of proceedings
+brought by third parties, subject to the conditions set out in the Companies Act 2006. Such qualifying third party
+indemnity provisions remain in force as at the date of approving the Directors’ report
+- Disclosure of information to auditor
+Each of the persons who are directors at the time when this Directors’ Report is approved has confirmed that:
+e so far as the director is aware, there is no relevant audit information of which the Company’s auditor is
+unaware; and:
+e — the director has taken alt the steps that ought to have been taken as a director in order to be aware of any
+relevant audit information and to establish that the Company’s auditors is aware of that information.
+The information is given and should be interpreted in accordance with the provisions of s418 of the Companies Act
+2006.
+Post statement of financial position events
+There have been no significant events affecting the Company since the year end.
+Auditor
+The auditor, BDO LLP, will be proposed for reappointment in accordance with section 485 of the Companies Act
+2006.
+The report was 7 by the board and signed on its behalf.
+M J Banwell :
+Director
+Date: 30 April 2025
+6
+
+=== page 10 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Statement of directors’ responsibilities in respect of the annual report and the
+financial statements
+The directors are responsible for preparing the strategic report, the directors’ report/annual report and the financial
+statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have elected to prepare the financial statements in accordance with UK adopted international accounting
+standards. Under company law the directors must not approve the financial statements unless they are satisfied that
+they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that
+period.
+In preparing these financial statements, the directors are required to:
+e select suitable accounting policies and then apply them consistently;
+e make judgements and accounting estimates that are reasonable and prudent;
+e — state whether they have been prepared in accordance with UK adopted international accounting standards,
+subject to any material departures disclosed and explained in the financial statements.
+© prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible
+for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of
+fraud and other irregularities.
+7
+
+=== page 11 ===
+Toob Limited
+Annual report and financial statements
+: 31 December 2024
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF TOOB
+LIMITED
+Opinion on the financial statements
+In our opinion the financial statements:
+e give a true and fair view of the state of the Company’s affairs as at 31 December 2024 and of its loss for the
+year then ended;
+e have been properly prepared in accordance with UK adopted international accounting standards; and
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements of Toob Limited (“the Company”) for the year ended 31 December 2024
+which comprise Statement of Profit or Loss and Other Comprehensive Income, the Statement of Financial Position,
+the Statement of Changes in Equity, the Statement of Cash Flows and related notes and notes to the financial
+statements, including a summary of significant accounting policies. The financial reporting framework that has been
+applied in their preparation is applicable law and UK adopted international accounting standards.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit of
+the financial statements section of our report. We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our opinion.
+Independence
+We are independent of the Company in accordance with the ethical requirements that are relevant to our audit of the
+financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements.
+Conclusions relating to going concern .
+In auditing the financial statements, we have concluded that the Directors’ use of the going concern basis of accounting
+in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the Company's ability to continue as a going
+concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the Directors with respect to going concer are described in the relevant
+sections of this report.
+Other information
+The Directors are responsible for the other information. The other information comprises the information included in
+the Annual Report, other than the financial statements and our auditor’s report thereon. Our opinion on the financial
+statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we
+do not express any form of assurance conclusion thereon..
+8
+
+=== page 12 ===
+Toob Limited
+Annua! report and financial statements
+31 December 2024
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF TOOB
+LIMITED (continued)
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially
+inconsistent with the financial statements, or our knowledge obtained in the course of the audit or otherwise appears
+to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are
+required to determine whether this gives rise to a material misstatement in the financial statements themselves. If,
+based on the work we have performed, we conclude that there is a material misstatement of this other information, we
+are required to report that fact.
+We have nothing to report in this regard.
+Other Companies Act 2006 reporting
+In our opinion, based on the work undertaken in the course of the audit:
+e the information given in the Strategic report and the Directors’ report for the financial year for which the
+financial statements are prepared is consistent with the financial statements; and.
+e the Strategic report and the Directors’ report have been prepared in accordance with applicable legal
+requirements.
+In the light of the knowledge and understanding of the Company and its environment obtained in the course of the
+audit, we have not identified material misstatements in the Strategic report or the Directors’ report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires
+us to report to you if, in our opinion:
+© adequate accounting records have not been kept, or returns adequate for our audit have not been received
+from branches not visited by us; or :
+e the financial statements are not in agreement with the accounting records and returns; or
+e certain disclosures of Directors’ remuneration specified by law are not made; or
+© we have not received all the information and explanations we require for our audit.
+Responsibilities of Directors
+As explained more fully in the Statement of Directors Responsibilities, the Directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for such intemal
+control as the Directors determine is necessary to enable the preparation of financial statements that are free from
+material misstatement, whether due to fraud or error.
+In preparing the financial statements, the Directors are responsible for assessing the Company’s ability to continue as
+a going concem, disclosing, as applicable, matters related to going concem and using the going concer basis of
+accounting unless the Directors either intend to liquidate the Company or to cease operations, or have no realistic
+alternative but to do so.
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and
+are considered material if, individually or in the aggregate, they could reasonably be expected to influence the
+economic decisions of users taken on the basis of these financial statements.
+9
+
+=== page 13 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF TOOB
+LIMITED (continued)
+Extent to which the audit was capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in
+line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including
+fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+Non-compliance with laws and regulations
+Based on:
+
+e Our understanding of the Company and the industry in which it operates;
+
+e Discussion with management and those charged with governance;
+
+© Obtaining an understanding of the Company’s policies and procedures regarding compliance with laws and
+
+regulations; and
+
+e Evaluation of controls designed to prevent and detect irregularities;
+
+We considered the significant laws and regulations to be the applicable accounting framework, and UK tax legislation.
+The Company is also subject to laws and regulations where the consequence of non-compliance could have a material
+effect on the amount or disclosures in the financial statements, for example through the imposition of fines or
+litigations. We identified such laws and regulations to be the health and safety legislation, anti-bribery and
+employment law.
+
+Our procedures in respect of the above included:
+
+e Review of minutes of meetings of those charged with governance for any instances of non-compliance with
+
+laws and regulations;
+
+e Review of correspondence with tax authorities for any instances of non-compliance with laws and
+
+regulations; and
+
+e Review of financial statement disclosures and agreeing to supporting documentation.
+
+Fraud
+We assessed the susceptibility of the financial statements to material misstatement, including fraud. Our risk
+assessment procedures included:
+
+e Enquiry with management and those charged with governance regarding any known or suspected instances
+
+of fraud;
+
+e Obtaining an understanding of the Company’s policies and procedures relating to:
+
+o Detecting and responding to the risks of fraud; and
+© Internal controls established to mitigate risks related to fraud.
+
+e Review of minutes of meetings of those charged with governance for any known or suspected instances of
+
+fraud;
+
+e Discussion amongst the engagement team as to how and where fraud might occur in the financial statements;
+Based on our risk assessment, we considered the area’s most susceptible to fraud to be management incentive and
+opportunities to manipulate the financial statements through unusual journal entries in order to improve revenue and
+enhance network assets valuation, and through management bias in assessing accounting estimates.
+
+Our procedures in respect of the above included:
+
+‘e = Testing a sample of journal entries throughout the year, which met a defined risk criteria, by agreeing to
+
+supporting documentation;
+
+e Testing all unexpected journals to revenue and network assets; and
+
+e Assessing significant estimates made by management for bias
+
+10
+
+=== page 14 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF TOOB
+LIMITED (continued)
+We also communicated relevant identified laws and regulations and potential fraud risks to all engagement team
+members who were all deemed to have appropriate competence and capabilities and remained alert to any indications
+of fraud or non-compliance with laws and regulations throughout the audit. :
+Our audit procedures were designed to respond to risks of material misstatement in the financial statements,
+recognising that the risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting
+one resulting from error, as fraud may involve deliberate concealment by, for example, forgery, misrepresentations or
+through collusion. There are inherent limitations in the audit procedures performed and the further removed non-
+compliance with laws and regulations is from the events and transactions reflected in the financial statements, the less
+likely we are to become aware of it.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at:
+https://www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+Use of our report
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s members those
+matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted
+by law, we do not accept or assume responsibility to anyone other than the Company and the Company’s members as
+a body, for our audit work, for this report, or for the opinions we have formed.
+by:
+Do Sores
+TBSSBADA.
+Jo Jones (Senior Statutory Auditor)
+For and on behalf of BDO LLP, Statutory Auditor
+Southampton, UK
+30 April 2025
+BDO LLP is a limited liability parmership registered in England and Wales (with registered number OC305127).
+nN
+
+=== page 15 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Statement of Profit and Loss and Other Comprehensive Income
+Sor year ended 31 December 2024
+(restated)*
+Note 2024 2023
+£000 £000
+Revenue 2 14,037 5,503
+Cost of sales (5,517) (1,536)
+Gross profit 8,520 3,967
+Other operating income 1,698 34
+Administrative expenses (33,727) (23,488)
+Operating loss (23,509) (19,487)
+Financial income 6 4 34
+Financial expenses 6 (29,320) (16,883)
+Net financing expense (29,316) (16,849)
+Loss before tax (52,825) (36,336)
+Taxation 7 - -
+Loss for the year from continuing operations (52,825) (36,336)
+There was no other comprehensive income for 2024 (2023: £Nil).
+The notes on pages 17 to 46 form part of these financial statements.
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25).
+12
+
+=== page 16 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Statement of Financial Position
+As at 31 December 2024
+(restated)*
+Note 2024 2023
+: £000 £000
+Non-current assets
+Property, plant and equipment 8 134,546 98,222
+Intangible assets g 1,582 1,330
+Trade and other receivables i + 392 534
+136,520 100,086
+Current assets
+Inventories 10 2,200 3,325
+Trade and other receivables i 5,172 3,909
+Cash and cash equivalents. 12 4,996 7,086
+12,368 14,320
+Total assets 148,888 114,406
+Current liabilities
+Other interest-bearing loans and borrowings 13 (992) (856)
+Trade and other payables 14 (13,716) (10,486)
+(14,708) (11,342)
+Non-current liabilities
+Other interest-bearing loans and borrowings 13 (284,485) (200,544)
+Other payables 14 (300) (300)
+(284,785) (200,844)
+Total liabilities (299,493) (212,186)
+Net liabilities (150,605) (97,780)
+Equity
+Share capital 16 98 98
+Retained losses 16 (150,703) (97,878)
+Total equity (150,605) (97,780)
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25).
+13
+
+=== page 17 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Statement of Financial Position (Continued)
+The financial statements were approved and authorised for issue by the board and were signed on its behalf by:
+Mike Banwell ‘
+Director
+Date: 30 April 2025
+Company registered number: 11051348
+14
+
+=== page 18 ===
+, Toob Limited
+Annual report and financial statements
+31 December 2024
+Statement of Changes in Equity
+for year ended 31 December 2024
+Share Retained Total
+capital losses equity
+£000 £000 £000
+Balance at 1 January 2023 (restated)* 96 (61,542) (61,446)
+Total comprehensive loss for the period
+Loss for the period (restated) - (36,336) (36,336)
+Total comprehensive loss for the period (restated) - (36,336) (36,336)
+Transactions with owners, recorded directly in equity
+Issue of shares 2 2
+Total contributions by and distributions to owners 2 - 2
+Balance at 31 December 2023 (restated) 98 (97,878) (97,780)
+Balance at 1 January 2024 (restated) 98 (97,878) (97,780)
+Total comprehensive income for the period
+Loss for the period - (52,825) (52,825)
+Total comprehensive income for the period - (52,825) (52,825)
+Transactions with owners, recorded directly in equity
+Tssue of shares - - -
+Total contributions by and distributions to owners - - -
+Balance at 31 December 2024 98 (150,703) (150,605)
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25).
+15
+
+=== page 19 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Statement of Cash Flows
+Sor year ended 31 December 2024
+(restated) *
+Note 2024 2023
+£000 £000
+Cash flows from operating activities
+Loss for the year (52,825) (36,336)
+Adjustments for:
+Depreciation, amortisation and impairment 89 9,895 5,895
+Financial income 6 (4) (34)
+Financial expense 6 29,320 16,883
+Gain on sale of property, plant and equipment - 12
+Taxation - -
+39,211 22,756
+Increase in trade and other receivables 1,121) (2,653)
+‘ Decrease/(increase) in inventories 1,125 (732)
+Increase in trade and other payables 3,230 3,173
+3,234 (212)
+Tax paid - -
+Net cash used in operating activities (10,380) (13,792)
+Cash flows from investing activities
+Interest received 6 4 34
+Acquisition of property, plant and equipment 8 (44,708) (36,385)
+Acquisition of other intangible assets 9 (947) (464)
+Net cash from investing activities (45,651) (36,815)
+Cash flows from financing activities
+Proceeds from the issue of share capital 16 - 2
+Proceeds from new loan 13 1,111 61,322
+Interest paid 13 (15,702) (7,560)
+Principal payment of lease liabilities 13 (1,468) (1,494)
+Net cash from financing activities 53,941 52,270
+Net decrease/(increase) in cash and cash equivalents (2,090) 1,663
+Cash and cash equivalents at 1 January 7,086 5,423
+Cash and cash equivalents at 31 December 2024 12 4,996 7,086
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25).
+16
+
+=== page 20 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes
+(forming part of the financial statements)
+1 Accounting policies
+Toob Limited (the “Company”) is a subsidiary of Toob Topco Limited and is part the group Toob Topco Group (the
+“Group”). private company incorporated, domiciled and registered in England in the UK. The registered number is
+11051348 and the registered address is Building 4000, Lakeside North Harbour, Western Road, Portsmouth, PO6
+3EN.
+The Company financial statements have been prepared on a going concer basis and approved by the directors in
+accordance with international accounting standards in accordance with UK-adopted intemational accounting standards
+(“UK-adopted IFRS”). These financial statements form part of the consolidated: financial statements of Toob Topco
+The accounting policies set out below have, unless otherwise stated, been applied consistently to all periods presented
+in these financial statements, Where applicable, the Company follows the Group’s accounting policies as set out in
+the consolidated financial statements of Toob Topco Limited.
+Judgements made by the directors, in the application of these accounting policies that have significant effect on the
+financial statements and estimates with a significant risk of material adjustment in the next year are discussed in note
+24,
+Ld Change in accounting policy
+The Company has adopted the following IFRSs in these financial statements:
+e IFRS S] General Requirements for Disclosure of Sustainability-related Financial Information (1 January 2024).
+The changes outlined have been reviewed and they do not have a material impact on the financial statements.
+e IFRS S2 Climate-related Disclosures (1 January 2024). The changes outlined have been reviewed and they do
+not have a material impact on the financial statements.
+e Lease Liability in a Sale and Leaseback (Amendments to IFRS 16) (1 January 2024). The changes outlined have
+been reviewed and they do not have a material impact on the financial statements.
+e Supplier Finance Arrangements (Amendments to IAS 7 and IFRS 7) (1 January 2024). The changes outlined have
+been reviewed and they do not have a material impact on the financial statements.
+1.2 UK-adopted international accounting standards not yet applied
+The following UK-adopted international accounting standards have been issued but have not been applied in these
+financial statements. Their adoption is not expected to impact the financial statements as they are either not relevant
+to the Company’s activities or require accounting which is consistent with the Company’s current accounting policies
+unless otherwise indicated:
+e Lack of Exchangeability (Amendments to IAS 21) (1 January 2025)
+e Amendments to the Classification and measurement of financial instruments (amendments to IFRS 9 financial
+instruments) (1 January 2026)
+e Contract Referencing Nature-dependent electricity (amendments to IFRS 9 and IFRS 7) (1 January 2026)
+« IFRS 18 Presentation and disclosure in financial statements. (1 January 2027)
+e IFRS 19 Subsidiaries without public accountability: disclosures (1 January 2027)
+17
+
+=== page 21 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+1 Accounting policies (continued)
+1.3 Measurement convention
+The financial statements have been prepared under the historical cost basis.
+14 Going concern
+Notwithstanding the net liabilities of £150,605k as at 31 December 2024 (2023: £97,780k) (restated), a loss for the
+year then ended of £52,825k (2023: £36,336k) (restated) and operating cash outflows for the year of £10,380k (2023:
+£13,792k), the financial statements have been prepared on a going concern basis which the directors consider to be
+appropriate for the following reasons.
+As at 31 December 2024 the business had £4,996k cash available and as at 31 March 2025 £1,387k.
+The directors have prepared cash flow forecasts for a period of 12 months from the date of approval of these financial
+statements (‘base case model’) which indicate that, taking account of reasonably possible downsides, the Company
+will have sufficient funds, through the availability of debt funding from funds managed by Ares Management’s
+Infrastructure Debt Strategy entered into on 16 May 2023 as disclosed in note 13 that sets out the repayment terms on .
+the loan and further equity from Funds managed by the Amber Infrastructure Group to supplement its initial
+investment.
+The debt facility is subject to five covenant requirements; total net debt to equity ratio, net debt per premise passed,
+net debt per premise connected, total premises passed and average revenue per customer. Cashflow forecasts under
+the base case model produce debt and revenues to satisfy the covenants for at least the next 12 months.
+Furthermore, the directors have carefully reviewed the prospects of the Company and its future cash flows for potential
+adverse economic impacts. The directors have prepared a severe but plausible downside model (‘downside model’)
+using the following assumptions: reduced customer take up versus base case, and network infrastructure build
+discontinued leaving maintenance of services for existing customer base only.
+This downside model forecasts that the cash available to the business from its debt facility will also satisfy the covenant
+requirements for at least the next 12 months.
+In modelling the above, the Company has not included additional cost saving measures that are in the control of the
+directors which could be taken to further reduce costs or cash outflows such as reduction in capital expenditure and
+payroll costs.
+Consequently, the directors are confident that the Company will have sufficient funds to continue to meet its liabilities
+as they fall due for at least 12 months from the date of approval of the financial statements and therefore have prepared
+the financial statements on a going concem basis. Accordingly, these financial statements do not include any
+adjustments to the carrying amount or classification of assets and liabilities that would result if the Company was
+unable to continue as a going concern.
+1S Foreign currency
+(a) The financial statements are presented in GBP and rounded to thousands, which is the Company’s functional and
+presentation currency.
+(b) Transactions and balances :
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the
+dates of the transactions or valuation where items are re-measured. Foreign exchange gains and losses resulting from
+the settlement of such transactions and from the translation at year-end exchange rates of monetary assets and
+liabilities denominated in foreign currencies are recognised in administrative expenses. Foreign exchange gains and
+losses that relate to borrowings and cash and cash equivalents are recognised in the Statement of Profit or Loss and
+Other Comprehensive Income.
+18
+
+=== page 22 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+1 Accounting policies (continued)
+16 Leases
+Lease liabilities are measured at the present value of the contractual payments due to the lessor over the lease term,
+with the discount rate determined by reference to the rate implicit in the lease, if this is not readily determinable then
+the Company's incremental rate of borrowing upon commencement of the lease is applied.
+The Company initially recognises a right-of-use asset in the Statement of Financial Position at an amount equal to
+the lease liability. Subsequent to initial measurement, lease liabilities increase as a result of interest accrued and are
+reduced for lease payments made. Right-of-use assets are depreciated on a straight-line basis over the remaining
+term of the lease.
+1.7 Finance costs
+Finance costs are charged to the Statement of Profit or Loss and Other Comprehensive Income over the term of the
+debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue
+costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+18 Pensions
+The Company operates a defined contribution plan for its employees. A defined contribution plan is a pension plan
+under which the Company pays fixed contributions into a separate entity. Once the contributions have been paid the
+Company has no further payment obligations.
+The contributions are recognised as an expense in the Statement of Profit or Loss and Other Comprehensive Income
+when they fall due. Amounts not paid are shown in accruals as a liability in the Statement of Financial Position. The
+assets of the plan are held separately from the Company in independently administered funds.
+Lg Interest income
+Interest income is recognised in the Statement of Profit or Loss and Other Comprehensive Income using the effective
+interest method.
+19
+
+=== page 23 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+1 Accounting policies (continued)
+1.10 Taxation
+The tax expense represents the sum of the tax currently payable and any deferred tax.
+The current tax charge is based on the taxable profit for the year. Taxable profit differs from net profit as reported in
+the Statement of Financial Position because it excludes items of income or expense that are taxable or deductible in
+other years and it further excludes items that are never taxable or deductible. The Company’s liability for current tax
+is calculated using tax rates that have been enacted or substantively enacted by the year end date.
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets
+and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit
+and is accounted for using the liability method. Deferred tax liabilities are generally recognised for all taxable
+temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will
+be available against which deductible temporary differences can be utilised. Such assets and liabilities are not
+recognised if the temporary difference arises from goodwill or from the initial recognition (other than in a business
+combination) of other assets and liabilities in a transaction that affects neither the taxable profit nor the accounting
+profit. .
+Deferred tax liabilities are recognised for taxable temporary differences arising on investments in subsidiaries, except
+where the Company is able to control the reversal of the temporary difference and it is probable that the temporary
+difference will not reverse in the foreseeable future.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled, or the
+asset realised. Deferred tax is charged or credited to the Statement of Profit or Loss and Other Comprehensive Income,
+except when it relates to items charged or credited directly to other comprehensive income, in which case the deferred
+tax is also dealt with in other comprehensive income.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against
+current tax liabilities and when they relate to income taxes levied by the same taxation authority and the Company
+intends to settle on a net basis.
+20
+
+=== page 24 ===
+30
+{ujeug? f0 2616 OND USL pozi2"
+GREY (UX JUPINIC? TU fAPOU IGA LEIIG 19 TUCOBIG $9462 [GAog pr, IIe BUTS EreAAOM SHIPOLIEA bq Ip) Combous
+Depelicd tz s2e0(2 Ou Psplinicg ale OGL peu pee fe 9 SE) suiptecapye URp! 10 eer ny Gruen L914 te2e8? UaSIat
+19K 12 OPO Nespt nun) Ub OLpeL GambicpenedsG mcouss’
+CXCCUE UGE EE LGYEIGe (0 IPGL? CHULKag OL CLAQiCY GUECHD [0 Ont COTUDLAPCURL C TUNOLUG! NS ML. UICH Coes It GaIsUsg
+SeAGl LETPREC’ NGLSLL6G s9Y tz CpluLficy GL CLeql Sy 10 IS BEMGINGUL OL LLOUL GL fur? sq OIpSt Courbigpelatac picoms'
+DCIstiey 182 1 cCEFCATIE BE pe 19x Late (po aLe exbeeceq (o abhyA iy qc beuog peu wpe [apHUa te aerjeq? us (pe
+CUUGLSHGG 7A] MOE LO2.6L2e9 10 IPG [OLS 26G8P]G YATES”
+ALTCLS (86 COWL), 12 Bpis ro CODILO! IS 167 Gii4j] OF tgs etboA qrisioucs suq i te biopapys (pat qe tcosborny
+DoGlebted 18% [Replica aie Locomn2eg LOL avepys (ouuboumaA qiileieues? aula ou WwAGeTUGULZ 1 enpaLpsues 6xcobe
+four :
+COMPING) GL ONE Fer6ce HG POPE? IF PLONZICHOU IPN FT[SCi2 USPS. IGE iN7Epps OLOUT UL INGO soComsT Ne
+LECORUIPEY IE NG ISI ULNCA QULIBLeNcs wR. [LOUS Googe NI OL [Low (We AUNITT LecGAuiiOg (orpet yy 1s F pres
+PS Sr UNIDIE shoal wyicp qeqncnpjs (6WboLslA quSsLeuc|s con po ANfacy Qney geecie wIq FEIPIING? TLE Wor
+teusbra3O GuIstel Ge. ay S]GU.6 [UY U2zGre ULG LECCE Lutesr] (0 ING Gace PT bie PLOpspys tot paupye biepee wAyT
+AUQ Ie SCONE] [UL AZIUG ip Np, UIEWUC DSISUE (9% [Spice WE Revenny weosviesa for Py Hesp]s
+gg pte aIpsIG? Ww WIG pUUCL escent. Wg TPG CULczbou uh (94 payee oc i qe combisano of citys brows
+DO{Glieg fay 12 1G 1x exbecicg (0 pe byATPIE AI Lene CipS GU CTY ELU Ge PCUAGCU ING CEU BLOM? OF 7 aCe
+fe COTCHNIG a1 Joy IsG2 FINE Pers poe CLUCTSY Of 2NPLIUULAGY), CUNGIGY PA ijiG ASL GUG qste
+‘ OMPSL AGTLZ GUC HE AMUEPSL GAO [MGGe ICI? (PIE GLE UCASE TSXsNIG OL qeqncnp]s’ TPs Combeud 2 wapiyNA por cieit 1x
+IP6 QMUSUIGUS OL LANSECI] ,O2INOU possnce tr GACNges UGH OL TICOHS OL C7DAPS Gilat Ale Ioeupye OL qaqueupys Ww
+ps enireut ry cytis te ptenq ou nie naps bingy pot ys eeae paxupye brows quycte (Lows UGt bios 3 eebeued mw
+pe ie ceboues relic tye anus OL ips sax crue? budapyo sb" gu) qepon.en iy"
+VV enon
+1 YCCONUUS DELce? (COMMNEg
+ogGe (commngyy
+21 DECSIESL 5054
+guns] Ube sug neuer cEycaisuye
+Loup paaureg
+
+=== page 25 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+1 Accounting policies (continued)
+4.11 Share-based payments
+Share-based payment transactions in which the Company receives goods or services by incurring a liability to transfer
+cash or other assets that under IFRS 2, equity-settled share-based payment transactions are measured at the fair value
+of the equity instruments granted. The fair value of the equity instruments is determined at the grant date of the share-
+based payment. This fair value is then expensed over the vesting period, which is typically the period over which the
+employees become entitled to the equity instruments (the service period).
+112 Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are
+measured at cost less any accumulated amortisation and any accumulated impairment losses.
+At each reporting date the Company assesses whether there is any indication of impairment. If such indication exists,
+the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in
+use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made,
+the useful life shall not exceed ten years.
+Amortisation is provided on the following bases:
+Software for OTC/perpetual licences - 5 years
+Website - 5 years
+IP Licences - 5 years
+Subscriber Management - 5 years
+1.13 Property, plant and equipment
+Property, plant and equipment under the cost model are stated at historical cost less accumulated depreciation and any
+accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset
+to the location and condition necessary for it to be capable of operating in the manner intended by management.
+At each reporting date the Company assesses whether there is any indication of impairment. If such indication exists,
+the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in
+use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives,
+using the straight-line method.
+Depreciation is provided on the following basis:
+Property lease - Over the term of the lease
+Network lease - Over the term of the lease
+Vehicle lease - Over the term of the lease
+Network assets - 3 years to 25 years
+Fixtures & fittings - 5 years to 12 years
+Plant & machinery - 3 years to 25 years
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if
+appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised
+in the Statement of Profit or Loss and Other Comprehensive Income.
+21
+
+=== page 26 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+1 Accounting policies (continued)
+1.14 Inventories
+Inventories are stated at the lower of cost and net realisable value, being the estimated selling price less costs to
+complete and sell. Cost is based on the cost of purchase on a first in, first out basis.
+At each reporting date, inventories are assessed for impairment. If inventory is impaired, the carrying amount is
+reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in the
+Statement of Profit or Loss and Other Comprehensive Income.
+115 Financial instruments
+Financial assets and financial liabilities are recognised in the Statement of Financial Position when the Company
+becomes a party to the contractual provisions of the instrument.
+Financial assets
+Other receivables are held in order to collect the contractual cash flows and accordingly are measured at initial
+recognition at fair value, which ordinarily equates to cost and are subsequently measured at cost less impairment due
+to their short-term nature. A provision for impairment is established based on 12-month expected credit losses
+unless there has been a significant increase in credit risk when lifetime expected credit losses are recognised. The
+amount of any provision is recognised in the Statement of Profit or Loss and Other Comprehensive Income.
+Cash and cash equivalents comprise cash held by the Company and short-term bank deposits with an original
+maturity of three months or less.
+Financial liabilities and equity
+Financial liabilities and equity instruments issued by the Company are classified in accordance with the substance of
+the contractual arrangement entered into and the definitions of a financial liability and an equity instrument. An
+equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting all of
+its liabilities. Equity instruments issued by the Company are recorded at the proceeds received, net or direct issue
+costs.
+Interest bearing bank loans, overdrafts and other loans are initially recorded at fair value, which is ordinarily equal
+to the proceeds received net of transaction costs. These liabilities are subsequently measured at amortised cost, using
+the effective interest rate method.
+Effective interest rate method
+The effective interest rate method is a method of calculating the amortised cost of a financial asset or liability and
+allocating interest income or expense over the relevant period. The effective interest rate is the rate that exactly
+discounts estimated future cash flows through the expected life of the financial asset or liability, or, where
+appropriate, a shorter period, to the net carrying amount on initial recognition.
+Preference shares
+The Company’s redeemable preference shares are classified as financial liabilities because they bear non-discretionary
+dividends and are redeemable in cash by the holders.
+Fair value hedges
+Where a derivative financial instrument is designated as a hedge of the variability in fair value of a recognised asset
+or liability or an unrecognised firm commitment, all changes in the fair value of the derivative are recognised
+immediately in the income statement. The carrying value of the hedged item is adjusted by the change in fair value
+that is attributable to the risk being hedged (even if it is normally carried at cost or amortised cost) and any gains or
+losses on remeasurement are recognised immediately in the income statement (even if those gains would normally be
+recognised directly in reserves).
+22
+
+=== page 27 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+1 Accounting policies (continued)
+1.16 Capital management
+The Company manages its equity as capital. Equity comprises the share capital and retained earnings as detailed in
+the Statement of Changes in Equity. Further financial details can be found in the Statement of Financial Position.
+The Company adheres to the capital maintenance requirements as set out in the Companies Act.
+1.17 ~~ Revenue
+Rental charges
+The Company enters into broadband agreements with customers which include provision of fibre broadband services,
+connections of the Company’s fibre network to the premises and installation equipment e.g. ONT and routers.
+The provision of broadband and the connection services are accounted for as one transaction with revenue allocated
+based on contractual prices..
+The connection service is accounted for as a combined obligation and includes connection to the network, installation
+of ONT and installation of CPE.
+The Company does not routinely offer trial periods or promotional discounts for fibre broadband services, however
+the Company offers some customers discounts on the connection fees.
+Where discounts are offered, the discount is allocated across the entire transaction of the connection and broadband
+service.
+The Company provides full fibre broadband services to customers providing speeds up to 900mb/s. Customers can
+sign up for different package with different contract length and speed. Revenue is recognised on a monthly basis,
+based on the relevant monthly charge.
+Connection fees
+The Company charges customers for connecting their premises to the Company’s network. Connections are charged
+as a one-off fixed fee which includes the cost of installation but may be offered as a discount.
+Revenue from connections is recognised based on the underlying broadband contract to which it relates. For 18-month
+contracts, revenue is deferred and recognised over the 18-month contract period whereas for rolling customers revenue
+is deferred across the first 2 months of service.
+If a customer disconnects, any deferred revenue remaining is recognised in the month of disconnection.
+23
+
+=== page 28 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+2 Revenue from contracts with customers
+Disaggregation of revenue
+In the following table, revenue is disaggregated by primary geographical market, major products/service lines and
+timing of revenue recognition.
+2024 2023
+£000 £000
+Major products/service lines
+Broadband Service 14,037 5,503
+Total 14,037 5,503
+Primary geographical markets (origin and destination)
+United Kingdom 14,037 5,503
+Total 14,037 5,503
+Timing of transfer of goods or services
+Products and services transferred over time 14,037 5,503
+Total 14,037 5,503
+3 Expenses and auditor’s remuneration .
+Included in Statement of Profit and Loss and Other Comprehensive Income are the following:
+Auditor's remuneration:
+2024 2023
+£000 £000
+Audit of these financial statements 15 95
+Amounts receivable by the company’s auditor and its associates in respect of:
+2024 2023
+£000 £000
+Taxation compliance services 9 10
+Audit related assurance services 9 -
+24
+
+=== page 29 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+4 Staff numbers and costs
+The average number of persons employed by the Company (including directors) during the year was as follows:
+Number of employees
+2024 2023
+Commercial 99 59
+Corporate 33 26
+Customer 56 32
+Technology & Design 97 81
+Operations 30 23
+5 221
+The aggregate payroll costs of these persons were as follows:
+2024 2023
+£000 £000
+Wages and salaries 14,600 11,013
+Social security costs 1,491 1,163
+Contributions to defined contribution plans 480 375
+16,571 12,551
+5 Directors’ remuneration
+. 2024 2023
+£000 £000
+Directors’ remuneration 17 648
+Company contributions to defined contribution pension schemes 5 18
+The aggregate of remuneration and amounts receivable under long term incentive schemes of the highest paid
+director was £369k (2023: £358k), and company pension contributions of £3k (2023: £10k) were made to a defined
+contribution pension scheme.
+Number of directors
+2024 2023
+Retirement benefits are accruing to the following number of directors under: .
+Defined contribution schemes 2 2
+The number of directors who exercised share options was - -
+The number of directors in respect of whose qualifying services shares were received or - -
+receivable under long term incentive schemes was
+25
+
+=== page 30 ===
+Toob Limited
+Annual report and financial statements :
+31 December 2024
+Notes (continued)
+6 Finance income and expense
+Recognised in Statement of Profit and Loss and Other Comprehensive Income
+2024 2023
+£000 £000
+Bank interest receivable 4 34
+Finance income 4 34
+(restated)°
+2024 2023
+£000 £000
+Total interest expense on financial liabilities measured at amortised cost 28,956 16,537
+Interest expense on lease liabilities 364 346
+Finance expense 29,320 16,883
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25
+26
+
+=== page 31 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+7 Taxation
+Recognised in Statement of Profit and Loss and Other Comprehensive Income
+2024 2023
+£000 £000
+Total tax expense - -
+Reconciliation of effective tax rate
+(restated)*
+2024 2023
+£000 £000
+Loss for the year (52,825) (36,336)
+Total tax expense (including tax on discontinued operations) - -
+Loss excluding taxation (52,825) (36,336)
+Tax using the UK corporation tax rate of 25% (2023: 23.52%) (13,206) (8,546)
+Fixed asset difference 154 49
+Difference in tax rate on gain on sale of discontinued operation -
+Reduction in tax rate on deferred tax balances - -
+Non-deductible expenses 6,666 3,752
+Adjustments closing deferred tax to average rate of 25% - -
+Adjustments opening deferred tax to average rate of 25% - -
+Current year losses for which no deferred tax asset was recognised 6,385 4,744
+Other difference 1 1
+Under / (over) provided in prior years - -
+Total tax expense (including tax on discontinued operations) - -
+Factors that may affect future tax charges
+The normal rate of corporation tax is 25% for the financial year beginning 1 April 2023.
+Unrelieved tax losses and other deferred tax assets are only recognised when it is probable that they will be
+recovered against the reversal of deferred tax liabilities or future taxable profits. As at 31 December 2024, the
+Company had unrelieved tax losses carried forward totalling £64,862k (2023: £42,898k).
+The unrecognised deferred tax asset as at 31 December 2024 is £20,162k (2023: £13,824k).
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25).
+27
+
+=== page 32 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+8 Property, plant and equipment
+Property Network Vehicle Network Fixtures & Plant &
+lease lease lease assets fittings machinery Total
+£000 £000 £000 £000 £000 £000 £000
+Cost
+Balance at | January 2023 1,773 1,378 359 61,476 248 5,485 70,719
+Acquisitions 291 1,062 478 32,704 46 3,635 38,216
+Disposal - - - - . (14) (14)
+Balance at 31 December 2023 2,064 2,440 837 94,180 294 9,106 108,921
+Balance at 1 January 2024 2,064 2,440 837 94,180 294 9,106 108,92!
+Acquisitions 18 256 542 41,867 31 2,810 45,524
+Disposal - - - - - -
+Balance at 31 December 2024 2,082 2,696 1,379 136,047 325 11,916 154,445
+Depreciation and impairment
+Balance at 1 January 2023 503 514 180 2,608 72 1,484 5,361
+Depreciation charge for the year 259 255 165 3,389 24 1,248 5,340
+Disposal . . - - - (2) Q)
+Balance at 31 December 2023 762 769 345 5,997 96 2,730 10,699
+Balance at 1 January 2024 762 769 345 5,997 96 2,730 10,699
+Depreciation charge for the year 280 376 306 6,129 34 2,075 9,200
+Disposal - - - - - -
+Balance at 31 December 2024 1,042 1,145 651 12,126 130 4,805 19,899
+Net book value
+At 1 January 2023 1,270 864 179 58,868 176 4,001 65,358
+At 31 December 2023 and 1 1,302 1,671 492 88,183 198 6,376 98,222
+January 2024
+At 31 December 2024 1,040 1,551 78 123,921 195 TALL 134,546
+28
+
+=== page 33 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+8 Property, plant and equipment (continued)
+Included in Network assets are costs related to assets in the course of construction of £12,273k (2023: £11, 599k).
+Included in this amount is raw materials inventory of £404k (2023: £721k).
+Included in Plant & Machinery assets are costs related to assets in the course of construction of £702k (2023:
+£372k).
+Right-of-use asset
+The Company has chosen to present right-of-use assets within the same line item that the underlying assets would be
+presented if they were owned (so within PPE), as allowed under IFRS 16.47(a).
+Property Network
+lease lease Vehicle lease Total
+£000 £000 £000 £000
+At 31 December 2023 1,302 1,671 492 3,465
+At 31 December 2024 1,040 1,551 728 3,319
+Depreciation and impairment charge
+The depreciation and impairment charge is recognised in the following line items in the Statement of Profit and
+Loss and Other Comprehensive Income:
+2024 2023
+£000 £000
+Administrative expenses 9,200 5,340
+9,200 5,340
+29
+
+=== page 34 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+9 Intangible assets
+Software for
+OTC/ perpetual Subscriber
+Website licences TP licences Management Total
+£000 £000 £090 £000 £000
+Cost .
+Balance at 1 January 2023 159 1,929 264 157 2,509
+Acquisitions 20 444 - - 464
+Balance at 31 December 2023 179 2,373 264 157 2,973
+Balance at 1 January 2024 179 2373 264 157 2,973
+Acquisitions 109 838 : - 947
+Balance at 31 December 2024 288 3,211 264 157 3,920
+Amortisation and impairment
+Balance at 1 January 2023 75 832 158 23 1,088
+Amortisation charge for the year 34 436 53 32 555
+Balance at 31 December 2023 109 3,268 211 55 1,643
+Balance at | January 2024 109 1,268 211 55 1,643
+Amortisation charge for the year 43 568 33 31 695
+Balance at 31 December 2024 152 1,836 264 86 2,338
+Net book value
+At I January 2023 84 1,097 106 134 1,421
+At 31 December 2023 and | January 2024 70 1,105 53 102 1,330
+At 31 December 2024 136 1,375 - 1 1,582 ,
+Amortisation and impairment charge
+The amortisation and impairment charge is recognised in the following line items in the Statement of Profit and
+Loss and Other Comprehensive Income:
+2024 2023
+£000 £000
+Administrative expenses 695 555
+695 555
+30
+
+=== page 35 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+10 Inventories
+2024 2023
+£000 £000
+Finished goods 907 915
+Consumables 449 636
+Future build projects 344 1,774
+2,200 3,325
+Any excess future build project inventory is capable of being re-sold at the carrying value on the balance sheet.
+Consumables and changes in finished goods recognised as cost of sales in the year amounted to £1,284k (2023:
+£690k).
+ih Trade and other receivables
+2024 2023
+£000 £000
+Trade receivables 460 381
+VAT recoverable 437 746
+Prepayments and accrued income 4,667 3,316
+5,564 4,443
+Non-current 392 - §34
+Current §,172 3,909
+Included within prepayments and accrued income is £392k (2023: £534k) expected to be recovered in more than 12
+months.
+Trade receivables are recognised initially at the transaction price and subsequently measured at amortised cost less
+an allowance for expected credit losses are £32k (2023: £3k). In accordance with IFRS 9 — Financial Instruments,
+the Company applies the simplified approach to measuring expected credit losses, which uses a lifetime expected
+loss allowance for all trade receivables. The determination of expected credit losses requires significant judgement
+outlined in note 24.
+12 Cash and cash equivalents/ bank overdrafts
+2024 2023
+£000 £000
+Cash and cash equivalents per Statement of Financial Position 4,996 7,086
+Cash and cash equivalents per Statement of Cash Flows 4,996 7,086
+31
+
+=== page 36 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+13 Other interest-bearing loans and borrowings
+This note provides information about the contractual terms of the Company’s interest-bearing loans and borrowings,
+which are measured at amortised cost. For more information about the Company’s exposure to interest rate and
+foreign currency risk, see note 175.
+(restated) ”
+2024 2023
+£000 £000
+Non-current liabilities
+Secured bank loans 154,675 101,492
+Lease liabilities 1,836 2,260
+Preference shares classified as debt 109,378 96,792
+Loan from parent 18,596 -
+284,485 200,544
+Current liabilities
+Current portion of lease liabilities 992 856
+992 856
+On 16 May 2023 the Company agreed secured bank loan facilities for a 7-year term to 15 May 2030. The
+facilities comprise a senior debt facility of £163m and an incremental facility up to £140m at a fixed rate of interest
+of 6.25% plus the SONIA day rate which is paid 6 monthly. The unused facility incurs commitment fees of 2%. As
+at 31 December 2024, £8.9m had yet to be drawn down (2023: £53.9m).
+Al Preference shares classified as debt carry no voting rights, the balance at year end of £25m (2023: £25m). A
+cumulative fixed rate dividend accrues at a rate of 15% per annum of the subscription price of Al preference shares
+from the date of issue until the first of a share sale, business sale, listing, liquidation event, deemed share sale of the
+redemption date.
+A2 Preference shares classified as debt carry no voting rights, the balance at year end of £25m (2023: £25m). A
+cumulative fixed rate dividend accrues at a rate of 12% per annum of the subscription price of A2 preference shares
+from the date of issue until the first of a share sale, business sale, listing, liquidation event, deemed share sale of the
+redemption date. :
+A3 Preference shares classified as debt carry no voting rights, the balance at year end of £15m (2023: £15m). A
+cumulative fixed rate dividend accrues at a rate of 10% per annum of the subscription price of A3 preference shares
+from the date of issue until the first of a share sale, business sale, listing, liquidation event, deemed share sale of the
+redemption date.
+On 18" April 2024 the Company and Toob Topco Limited (the “Parent ”) agreed on an intercompany loan facility
+of £26.4m. The facilities comprise at a fixed rate of interest of 15%. The unused facility incurs commitment fees of
+5%. As at 31 December 2024, £8.5m had yet to be drawn down.
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+Statements previously published (see Note 25).
+32
+
+=== page 37 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+13 Other interest-bearing loans and borrowings (continued)
+Changes in liabilities from financing activities
+Shares
+Loans and Classified Lease
+borrowings ( ted) liabilities
+£000 £000 £000
+Balance at 1 January 2023 (Restated) 42,276 85,709 2,433
+Changes from financing cash flows
+Proceeds from loans and borrowings 118,822 : -
+Repayments of borrowings (57,500)
+Payment of lease liabilities - - (1,494)
+Total changes from financing cash flows 61,322 - (1,494)
+Other changes
+New leases : - 1,831
+Interest expense (Restated) 5,454 11,083 346
+Interest paid (7,560) - -
+Total other changes (Restated) (2,106) 11,083 2,177
+Balance at 31 December 2023 (Restated) 101,493 96,792 3,116
+Balance at 1 January 2024 (Restated) 101,493 96,792 3,116
+Changes from financing cash flows
+Proceeds from loans and borrowings TLALE - -
+Payment of lease liabilities - - (1,468)
+Total changes from financing cash flows 71,111 - (1,468)
+Other changes
+New leases : - 816
+Interest expense 16,369 12,586 364
+Interest paid (15,702) - -
+Total other changes 667 12,586 1,180
+Balance at 31 December 2024 173,271 109,378 2,828
+* The Company has labelled the restated comparative information with the heading ‘(restated)’.
+In our view, this is necessary to highlight for users the fact the comparative financial statements are not the same as the financial
+statements previously published (see Note 25).
+33
+
+=== page 38 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+14 Trade and other payables
+2024 2023
+£000 £000
+Current
+Trade payables 6,192 6,089
+Other payables 2,192 Ll
+Non-trade payables and accrued expenses 5,332 3,286
+13,716 10,486
+Non-current
+Other payables 300 300
+300 300
+Included within trade and other payables is £300k (2023: £300k) expected to be settled in more than 12 months.
+15 Employee benefits
+: Pension plans
+The Company operates a defined contribution pension plan. The assets of the scheme are held separately from those
+of the Company in an independently administered fund.
+The total expense relating to these plans in the current year was £480k (2023: £375k) of which £170k (2023: £108k)
+was capitalised, in relation to pension costs for staff involved with the building the Company’s network. Of these
+balance £79k (2023: £85k) was outstanding at the year end within non-trade payables.
+Share-based payments
+The company issued options for A3 ordinary shares as part of the LTIP scheme. The options have a vesting period
+of 6 years of which 50% available on 3™ anniversary of vesting commencement date and 16.7% each year thereafter.
+Contract life is 10 years.
+Weighted Number of Weighted Number of
+average exercise options average exercise options
+price price
+2024 2024 2023 2023
+Outstanding at beginning of the year £0.10 18,910 £0.10 20,680
+Forfeited during the year £0.10 - £0.10 1,770
+~~ Transferred during the year £0.10 (18,910) £0.10 -
+Exercised during the year - - - -
+Granted during the year £0.10 - £0.10 -
+Lapsed during the year - - - -
+Outstanding at the end of the year £0.10 - £0.10 18,910
+Exercisable at the end of the year - - - -
+The weighted average share price at the date of exercise of share options exercised during the year was £Nil (2023:
+£Nil).
+There is no options outstanding at the year end.
+34
+
+=== page 39 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+16 Capital and reserves
+Share capital
+cumulative redeemable preference
+shares of £0.01 each Ordinary shares
+In thousands of shares 2024 2023 2024 2023
+On issue at | January 650 650 975 955
+Issued for cash . © . 20
+On issue at 31 December — fully paid 650 650 975 975
+2024 2023
+£000 £000
+Allotted, called up and fully paid
+75,000(2023: 75,000) Al Ordinary shares of £ 0.10 each 8 8
+304,000 (2023: 304,000) A2 Ordinary shares of £ 0.10 each 30 30
+501,000 (2023: 501,000) B Ordinary shares of £ 0.10 each 50 50
+75,316 (2023: 75,316) A3 Ordinary shares of £ 0.10 each 8 8
+20,000 (2023: 20,000) A4 Ordinary shares of £ 0.10 each 2 2
+250,000 (2023: 250,000) 15% cumulative redeemable AI preference shares of £0.01 each 3 3
+250,000 (2023: 250,000) 12% cumulative redeemable A2 preference shares of £0.01 each 3 3
+150,000 (2023: 150,000) 10% cumulative redeemable A3 preference shares of £0.01 each 1 1
+105 105
+Shares classified as liabilities 7 7
+Shares classified in shareholders’ funds 98 98
+105 105
+The holders of Al Ordinary shares are entitled to receive dividends as declared from time to time and are entitled to
+one vote per share at meetings of the Company.
+The holders of A2 Ordinary shares are entitled to receive dividends as declared from time to time and are entitled to
+one vote per share at meetings of the Company.
+The holders of A3 Ordinary shares are entitled to receive dividends as declared from time to time and are not
+entitled to vote at meetings of the Company.
+The holders of A4 Ordinary shares are entitled to receive dividends as declared from time to time and are not
+entitled to vote at meetings of the Company.
+The holders of B Ordinary shares are entitled to receive dividends as declared from time to time and are entitled to
+one vote per share at meetings of the Company.
+The preference shares are redeemabte at the option of the Company. The premium on redemption is at fair value.
+The holders of preference shares are entitled to receive non-cumulative dividends detail rights and restrictions and
+are not entitled to vote at meetings of the Company.
+Dividends
+There were no dividends to be recognised during the period.
+Retained Earnings
+The retained earning reserve relates to the cumulative retained earnings less amounts distributed to shareholders.
+35
+
+=== page 40 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+17 Financial instruments
+17 (a) Fair values of financial instruments
+Fair values
+There are no material differences between fair values and the carrying amounts shown in the Statement of Financial
+Position.
+17 () Credit risk
+Financial risk management
+Credit risk is the risk of financial loss to the Company if a customer or counterparty to a financial instrument fails to
+meet its contractual obligations and arises principally from the Company’s receivables from customers and
+investment securities. The Company's financial instruments comprise cash and cash equivalents, bank borrowings
+and items such as trade payables which arise directly from its operations. The main purpose of these financial
+instruments is to provide finance for the Company's operations. The company consider that the carrying amount of
+these assets is a reasonable approximation of their fair value. The credit risk on liquid funds is limited because the
+counterparty is a bank with a high credit rating.
+Exposure to credit risk
+The maximum exposure to credit risk at the Statement of Financial Position for financial instruments was:
+2024 2023
+£000 : £000
+Trade receivables 460 381
+Cash and cash equivalents 4,996 7,086
+5,456 7,467
+The company deems there are no impairments in respect of trade receivables and cash and cash equivalents during the
+year.
+17 (¢) Liquidity risk
+Financial risk management :
+Liquidity risk is. the risk that the Company will not be able to meet its financial obligations as they fall due.
+The Company has secured sufficient funding through its agreement with Ares Management’s Infrastructure Debt
+Strategy that is designed to ensure it has sufficient available funds for operations and planned expansions. The
+Company monitors its levels of working capital to ensure that it can meet its debt repayments as they fall due.
+36
+
+=== page 41 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+17 Financial instruments (continued)
+17 (¢) Liquidity risk (continued)
+The following are the contractual maturities of financial liabilities at the reporting date. The amounts are gross and undiscounted, and include estimated contractual interest
+payments and exclude the effect of netting agreements:
+2024 2023 (restated)
+Contract- Syeai Contract-
+Carrying| ualcash 1 year 1to 2to and |Camying | ualcash —1-year 1to 2 to Syears andl
+7 amount| flows orless <2years <Syears over amount flows  orless  <2years <Syears over
+£000) £000 £000 £000 £000 £000 £000 £000 £000 £000 £000 £000
+Non-derivative financial liabilities
+Secured bank loans 154,675 | 106,490 20,828 21,687 63,975 = | 101,492 | 106,857 14,392 16,737 50,208 25,520
+Lease liabilities 2,828 4,132 1,268 144 886 01,234 3,116} 4,431 1112 988 1,173 1,158
+Loan from parent 18,596 | 18,596 7 = 18,596 5 : 5 - 7. c i.
+Unsecured bank facility - 7 - 7 7 : : 7 . : 7 7
+Shares classified as debt 109,378 | 109,378 - - $109,378 - 96,792 | 96,792 - : + 96,792
+Bank overdrafts - - - - - - - - - i - -
+Trade and other payables 6,192 6,192 6,192 - oa - 6,089} 6,089 6,089 - - -
+291,669 | 244,788 28,288 22,431 192,835 1,234 | 207,489 | 214,169 21,593 17,725 51,381 123,470
+37
+
+=== page 42 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+18 Leases
+18 Leases as a lessee
+Right-of-use assets
+Property Network Vehicle
+Net book values Lease Lease Lease Total
+£000 £000 £000 £000
+Balance at ] January 2023 1,270 864 179 2,313
+Additions to right-of-use assets 291 1,062 478 1,831
+Derecognition of right-of-use assets : - - -
+Depreciation charge for the year (259) (255) (165) (679)
+Balance at 31 December 2023 1,302 1,671 492 3,465
+Balance at 1 January 2024 1,302 1,671 492 3,465
+Additions to right-of-use assets 18 256 342 816
+Derecognition of right-of-use assets - - - -
+Depreciation charge for the year (280) (387) (306) (973)
+Balance at 31 December 2024 1,040 1,540 728 3,308
+Liability
+Property Network Vehicle
+Lease Lease Lease Total
+£000 £000 £000 £000
+Balance at 1 January 2023 1,618 720 95 2,433
+Additions 291 1,062 478 1,831
+Derecognition of right-of-use assets - - - -
+Interest expense 235 95 16 346
+Lease payments (467) (742) (285) (1,494)
+Balance at 31 December 2023 1,677 1,135 304 3,116
+Balance at 1 January 2024 1,677 1,135 304 3,116
+Additions 18 256 542 816
+Derecognition of right-of-use assets - - - :
+Interest expense 201 118 45 364
+Lease payments (489) (644) (335) =. ~— (1,468)
+Balance at 31 December 2024 1,407 865 556 2,828
+The following amounts have been recognised in statement of Statement of Profit and Loss and Other
+Comprehensive Income for which the Company is a lessee:
+2024 2023
+£000 £000
+Depreciation Charge 306 679
+Interest expense on lease liabilities 364 346
+38
+
+=== page 43 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+18 Leases (continued)
+18 Leases as a lessee (continued)
+Amounts recognised in statement of cash flows
+2024 2023
+£000 £000
+Total cash outflow for leases 1,468 1,494
+19 Commitments
+Capital commitments
+During the year ended 31 December 2024, the Company entered into contracts to build Network Assets for £514k
+(2023: £35,998k), These commitments are expected to be settled in the following financial year.
+20 Contingencies
+There were no contingent liabilities at the year-end (2023: £Nil).
+39
+
+=== page 44 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+21 Related parties
+Identity of related parties with which the Company has transacted
+During the year, the Company made purchases from a company owned by a close family member of one of the
+directors totalling £96k (2023: £170k). These purchases are conducted on such terms and conditions as between a
+willing buyer and a willing seller who are unrelated and are acting independently of each other and pursuing their
+own best interests. The details are shown below in other related parties.
+During the year, the Company has purchased director services from Amber Infrastructure Group totalling £50k
+(2023: £50k). The details are shown below in other related parties.
+During the year, the Company has purchased cost on behalf of the Parent totalling £201k (2023: £64k).
+Transactions with key management personnel
+Directors of the Company control 49.9 per cent of the voting shares of the Company.
+Key management personnel costs are considered to be the same as those disclosed in Note 5.
+Other related party transactions
+Sales to Administrative
+expenses
+incurred from
+2024 2023 2024 2023
+£000 £000 £000 £000
+Other related parties - - 146 220
+- - 146 220
+22 Ultimate parent company and controlling party
+In the opinion of the directors the Company’s ultimate parent company and ultimate controlling party is National
+Digital Infrastructure Fund I PF LP, a private fund limited by partnership registered in England with company
+number LP018059.
+The immediate controlling party is Toob Topco Limited, a company registered in England with company number
+15292311.
+23 Subsequent events
+There have been no significant events affecting the Company since the year end.
+40
+
+=== page 45 ===
+Toob Limited
+Annual report and financial statements
+31 December 2024
+Notes (continued)
+24 Accounting estimates and judgements
+The preparation of financial statements in conformity with generally accepted accounting practice requires
+management to make estimates and judgements that affect the reported amounts of assets and liabilities as well as
+the disclosure of contingent assets and liabilities at the year-end date and the reported amount of revenues and
+expenses during the reporting period.
+241 Judgements
+Determination of the lease term
+Rental contracts are typically made for fixed periods but may have extension options. In these cases, significant
+judgement is required to ascertain the correct lease term. When assessing whether the Company is reasonably
+certain to exercise the option to extend the lease, the directors consider all relevant facts and circumstances (both
+_ Monetary and non-monetary) that create an economic incentive for them to exercise or not exercise that option. They
+also include any expected changes in facts and circumstances from the commencement date until the exercise date
+of the option.
+Preference shares
+As disclosed in note 13 to the financial statements, judgement has been applied over the accounting policy for the
+issued preference shares, premium and accrued preference dividends that have been classified as debt within non-
+current liabilities.
+24.2 —_ Estimates and assumptions
+Impairment of fixed assets
+In accordance with [AS 36, the Company has performed its annual review of fixed assets to assess whether there are
+any indicators of impairment, whereby the carrying amount may exceed the recoverable amount.
+The recoverable amount is determined as the higher of:
+e Fair value less costs of disposal, and
+e Value in use.
+For the purposes of this assessment, the Company has determined the recoverable amount based on the fair value
+less costs of disposal. The review concluded that the recoverable amount exceeds the net book value of the assets
+recorded in the accounts.
+As a result, no impairment has been recognised in the financial year.
+Expected credit losses
+As disclosed in note 11 to the financial statements the company assesses the expected credit losses on trade
+receivables by applying both historical loss experience and observable trend data. Historical default rates are
+calculated based on the ageing of receivables and past customer payment behaviour over a relevant period and are:
+adjusted where necessary to reflect current conditions and forward-looking information.
+41
+

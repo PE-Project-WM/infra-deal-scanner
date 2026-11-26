@@ -1,0 +1,2013 @@
+=== page 1 ===
+Cable And Splicing Services Limited - Limited company accounts 25.1
+IRIS Accounts Production
+v25.2.0.378
+04128539
+Board of Directors
+1.1.24
+31.12.24
+31.12.24
+Medium entities
+Telecommunications Engineers
+true
+true
+false
+true
+true
+false
+false
+true
+false
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the medium-sized companies regime.
+Ordinary
+1.00000
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+04128539
+2023-12-31
+04128539
+2024-12-31
+04128539
+2024-01-01
+2024-12-31
+04128539
+2022-12-31
+04128539
+2023-01-01
+2023-12-31
+04128539
+2023-12-31
+04128539
+ns15:EnglandWales
+2024-01-01
+2024-12-31
+04128539
+ns14:PoundSterling
+2024-01-01
+2024-12-31
+04128539
+ns10:Director1
+2024-01-01
+2024-12-31
+04128539
+ns10:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+04128539
+ns10:MediumEntities
+2024-01-01
+2024-12-31
+04128539
+ns10:Audited
+2024-01-01
+2024-12-31
+04128539
+=== page 2 ===
+ns10:Medium-sizedCompaniesRegimeForDirectorsReport
+2024-01-01
+2024-12-31
+04128539
+ns10:Medium-sizedCompaniesRegimeForAccounts
+2024-01-01
+2024-12-31
+04128539
+ns10:FullAccounts
+2024-01-01
+2024-12-31
+04128539
+ns10:OrdinaryShareClass1
+2024-01-01
+2024-12-31
+04128539
+ns10:Director2
+2024-01-01
+2024-12-31
+04128539
+ns10:RegisteredOffice
+2024-01-01
+2024-12-31
+04128539
+ns5:CurrentFinancialInstruments
+2024-12-31
+04128539
+ns5:CurrentFinancialInstruments
+2023-12-31
+04128539
+ns5:Non-currentFinancialInstruments
+2024-12-31
+04128539
+ns5:Non-currentFinancialInstruments
+2023-12-31
+04128539
+ns5:ShareCapital
+2024-12-31
+04128539
+ns5:ShareCapital
+2023-12-31
+04128539
+ns5:CapitalRedemptionReserve
+2024-12-31
+04128539
+ns5:CapitalRedemptionReserve
+2023-12-31
+04128539
+ns5:RetainedEarningsAccumulatedLosses
+2024-12-31
+04128539
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+04128539
+ns5:ShareCapital
+2022-12-31
+04128539
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+04128539
+ns5:CapitalRedemptionReserve
+2022-12-31
+04128539
+ns5:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+04128539
+ns5:CapitalRedemptionReserve
+2023-01-01
+2023-12-31
+=== page 3 ===
+04128539
+ns5:RetainedEarningsAccumulatedLosses
+2024-01-01
+2024-12-31
+04128539
+ns5:CapitalRedemptionReserve
+2024-01-01
+2024-12-31
+04128539
+1
+2024-01-01
+2024-12-31
+04128539
+1
+2023-01-01
+2023-12-31
+04128539
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2024-01-01
+2024-12-31
+04128539
+ns5:PlantMachinery
+2024-01-01
+2024-12-31
+04128539
+ns5:FurnitureFittings
+2024-01-01
+2024-12-31
+04128539
+ns5:MotorVehicles
+2024-01-01
+2024-12-31
+04128539
+ns5:ComputerEquipment
+2024-01-01
+2024-12-31
+04128539
+ns15:UnitedKingdom
+2024-01-01
+2024-12-31
+04128539
+ns15:UnitedKingdom
+2023-01-01
+2023-12-31
+04128539
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2024-01-01
+2024-12-31
+04128539
+ns5:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2023-01-01
+2023-12-31
+04128539
+ns5:HirePurchaseContracts
+2024-01-01
+2024-12-31
+04128539
+ns5:HirePurchaseContracts
+2023-01-01
+2023-12-31
+04128539
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2024-01-01
+2024-12-31
+04128539
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2023-01-01
+2023-12-31
+04128539
+=== page 4 ===
+ns5:OwnedAssets
+2024-01-01
+2024-12-31
+04128539
+ns5:OwnedAssets
+2023-01-01
+2023-12-31
+04128539
+ns10:OrdinaryShareClass1
+2023-01-01
+2023-12-31
+04128539
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2023-12-31
+04128539
+ns5:PlantMachinery
+2023-12-31
+04128539
+ns5:FurnitureFittings
+2023-12-31
+04128539
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2024-12-31
+04128539
+ns5:PlantMachinery
+2024-12-31
+04128539
+ns5:FurnitureFittings
+2024-12-31
+04128539
+ns5:LongLeaseholdAssets
+ns5:LandBuildings
+2023-12-31
+04128539
+ns5:PlantMachinery
+2023-12-31
+04128539
+ns5:FurnitureFittings
+2023-12-31
+04128539
+ns5:MotorVehicles
+2023-12-31
+04128539
+ns5:ComputerEquipment
+2023-12-31
+04128539
+ns5:MotorVehicles
+2024-12-31
+04128539
+ns5:ComputerEquipment
+2024-12-31
+04128539
+ns5:MotorVehicles
+2023-12-31
+04128539
+ns5:ComputerEquipment
+2023-12-31
+04128539
+ns5:LeasedAssetsHeldAsLessee
+2024-01-01
+2024-12-31
+04128539
+ns5:AdditionsToInvestments
+2024-12-31
+04128539
+ns5:CostValuation
+2024-12-31
+04128539
+=== page 5 ===
+ns5:Subsidiary1
+2024-01-01
+2024-12-31
+04128539
+1
+ns5:Subsidiary1
+2024-01-01
+2024-12-31
+04128539
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-12-31
+04128539
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-12-31
+04128539
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+ns5:HirePurchaseContracts
+2024-12-31
+04128539
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+ns5:HirePurchaseContracts
+2023-12-31
+04128539
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2024-12-31
+04128539
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2023-12-31
+04128539
+ns5:HirePurchaseContracts
+2024-12-31
+04128539
+ns5:HirePurchaseContracts
+2023-12-31
+04128539
+ns5:WithinOneYear
+2024-12-31
+04128539
+ns5:WithinOneYear
+2023-12-31
+04128539
+ns5:BetweenOneFiveYears
+2024-12-31
+04128539
+ns5:BetweenOneFiveYears
+2023-12-31
+04128539
+ns5:MoreThanFiveYears
+2024-12-31
+04128539
+ns5:MoreThanFiveYears
+2023-12-31
+04128539
+ns5:AllPeriods
+2024-12-31
+04128539
+ns5:AllPeriods
+2023-12-31
+04128539
+ns5:DeferredTaxation
+2023-12-31
+04128539
+ns5:DeferredTaxation
+2024-12-31
+=== page 6 ===
+04128539
+ns10:OrdinaryShareClass1
+2024-12-31
+04128539
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+04128539
+ns5:CapitalRedemptionReserve
+2023-12-31
+04128539
+1
+ns10:Director1
+2023-12-31
+04128539
+1
+ns10:Director1
+2022-12-31
+04128539
+1
+ns10:Director1
+2024-01-01
+2024-12-31
+04128539
+1
+ns10:Director1
+2023-01-01
+2023-12-31
+04128539
+1
+ns10:Director1
+2024-12-31
+04128539
+1
+ns10:Director1
+2023-12-31
+04128539
+ns5:EntitiesWithJointControlOrSignificantInfluenceOverReportingEntity
+2024-01-01
+2024-12-31
+04128539
+ns5:EntitiesWithJointControlOrSignificantInfluenceOverReportingEntity
+2024-12-31
+04128539
+ns5:EntitiesWithJointControlOrSignificantInfluenceOverReportingEntity
+2023-12-31
+REGISTERED NUMBER: 
+04128539
+(England and Wales) 
+STRATEGIC REPORT, DIRECTORS' REPORT AND
+ FINANCIAL STATEMENTS
+ FOR THE YEAR ENDED 31 DECEMBER 2024
+FOR
+CABLE AND SPLICING SERVICES LIMITED
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+CONTENTS OF THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Page
+Company Information  
+1
+Strategic Report  
+2
+Directors' Report  
+4
+Directors' Responsibilities Statement  
+5
+Independent Auditors' Report  
+6
+Income Statement  
+9
+Other Comprehensive Income  
+=== page 7 ===
+10
+Balance Sheet  
+11
+Statement of Changes in Equity  
+12
+Cash Flow Statement  
+13
+Notes to the Cash Flow Statement  
+14
+Notes to the Financial Statements 
+15
+CABLE AND SPLICING SERVICES LIMITED
+COMPANY INFORMATION
+FOR THE YEAR ENDED 31 DECEMBER 2024
+DIRECTORS:
+M A McKinney
+A M Sargent
+REGISTERED OFFICE:
+Unit 1, Glebe Farm
+Wolverton Road
+Snitterfield
+Warwickshire
+CV37 0HB
+REGISTERED NUMBER:
+04128539
+(England and Wales) 
+INDEPENDENT AUDITORS
+:
+Armstrongs Accountancy Ltd
+Chartered Accountants and Statutory Auditor
+1 & 2 Mercia Village
+Torwood Close
+Westwood Business Park
+Coventry
+West Midlands
+CV4 8HX
+Page 1
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+The directors present their strategic report for the year ended 31 December 2024. 
+PRINCIPAL ACTIVITIES
+The company provides a broad range of field-based telecommunication services to the UK Communication Service 
+Providers (CSP's).  Our daily tasking sees the company's field operatives located across whole of the UK supporting 
+fibre, copper and related light civils works on both legacy fibre and copper networks. We are one of the key suppliers 
+into the UK's new and modern fibre projects.
+FAIR REVIEW OF BUSINESS
+Market Context and Trading Environment
+The telecommunications market in early 2024 continued to change quickly. There was further consolidation among 
+small and medium-sized alternative network providers (AltNets) and acquisitions by larger operators. These structural 
+changes caused many companies to slow or pause their building activities while reevaluating their strategic priorities. 
+This led to lower build volumes across the sector and put pressure on profitability in the first half of the year.
+At the same time, investors in network infrastructure looked for higher returns on their capital. This shift led to a greater 
+focus on customer connection activities instead of just network expansion.
+Group Performance
+In response, CASS took clear steps to protect its financial position. During Q2, it implemented strategic cost-control 
+measures to maintain strong liquidity, reduce profit loss, and ensure operational readiness for a market recovery.
+By June 2024, activity levels started to improve, aided by a new strategic build partnership in the Midlands. This 
+partnership led to a stronger second half, with significant growth in the customer connections market. Building on 
+investments made in 2023, CASS attracted new customers and was completing over 3,000 installations per month by 
+year-end.
+Customer connections are now a key strength of the business, supported by a team of skilled engineers and an 
+experienced back-office function. Continued investment in early 2025, which includes substantial increases in 
+engineering and operational capacity, positions the Group to meet rising demand.
+Strategic Framework - The 3Es
+The Group's strategy is driven by its "3Es" framework:
+Engagement - High colleague engagement, supported by more investment in training, development, and upskilling 
+across all areas.
+Efficiency - Ongoing investment in IT infrastructure and process improvements leads to measurable productivity and 
+service quality gains.
+=== page 8 ===
+Engineers - Improved satisfaction, earnings, retention, and output, with better quality assurance and safety records.
+Diversification and Growth Opportunities
+As part of its strategy to diversify revenue streams, CASS entered the solar farm sector in late 2024 through a 
+partnership with a leading UK operator. In early 2025, it began remedial work on storm-damaged solar sites, with 
+full-scale new-build projects expected to start during the year.
+To support this growth, a specialised solar training facility has been set up within the CASS Training Academy. This 
+facility enables the creation of a top-notch accreditation program for solar engineers. Progress continues in the electric 
+vehicle (EV) infrastructure market, bolstered by a partnership with an established supplier that brings the skills and 
+expertise needed for upcoming EV projects.
+Page 2
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+PRINCIPAL RISKS AND UNCERTAINTIES
+The main risks affecting the business include:
+Market consolidation
+The possibility of further mergers and acquisitions impacting build volumes which may impact the group by reduction in 
+installation volumes, loss of contracts, competitive pricing pressures.
+Economic conditions
+Inflationary pressures on material and labour costs.
+Regulatory change
+Changing telecoms and energy infrastructure regulations.
+Supply chain disruption
+The risk of delays in critical component deliveries.
+Mitigation measures include maintaining a flexible cost base, diversifying sector exposure, securing long-term supplier 
+relationships, and ongoing regulatory monitoring.
+PERFORMANCE IN THE YEAR
+The company performance is monitored by review of key financial indicators, including but not limited to;
+2024
+2023
+£   
+£   
+Turnover
+ 16,273
+ 18,490
+Gross profit
+ 18,490
+ 7,712
+Profit before taxation & exceptional items
+ 1,135
+ 2,954
+ON BEHALF OF THE BOARD:
+M A McKinney
+- Director 
+2 September 2025
+Page 3
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+The directors present their report with the financial statements of the company for the year ended 31 December 2024. 
+DIVIDENDS
+The total distribution of dividends for the year ended 31 December 2024 will be £ 
+160,000
+ . 
+FUTURE DEVELOPMENTS
+These are referred to in the Company strategic report on page 3.
+DIRECTOR
+M A McKinney
+held office during the whole of the period from 1 January 2024 to the date of this report. 
+Other changes in directors holding office are as follows: 
+A M Sargent
+was appointed as a director after 31 December 2024 but prior to the date of this report. 
+The beneficial interest of the director holding office at 31 December 2024 in the shares of the company, according to the 
+register of directors' interests, was as follows: 
+31.12.24
+1.1.24
+Ordinary shares of £1 each 
+-
+76
+He did not hold any non-beneficial interests in the shares of the company. 
+=== page 9 ===
+POLITICAL DONATIONS AND EXPENDITURE
+The company has not made any political donations or incurred any political expenditure during the year.
+FINANCIAL RISK MANAGEMENT
+The company operations are exposed to a variety of financial risks which are referred to in the company strategic report 
+on page 3.
+GOING CONCERN
+The director has made an assessment of the company's ability to continue as a going concern and is satisfied that the 
+company has the resources to continue in business for the foreseeable future. Furthermore, the director is not aware of 
+material uncertainties that may cast significant doubt upon the company's ability to continue as going concern. 
+Therefore, the financial statements are prepared on going concern basis.
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and each director has taken all the steps that he ought to have taken 
+as a director in order to make himself aware of any relevant audit information and to establish that the company's 
+auditors are aware of that information. 
+AUDITORS
+The auditors, Armstrongs Accountancy Ltd, have indicated their willingness to continue in office and a resolution 
+concerning their re-appointment will be proposed at the forthcoming Annual General Meeting.
+ON BEHALF OF THE BOARD:
+M A McKinney
+- Director 
+2 September 2025
+Page 4
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+The director is responsible for preparing the Strategic Report, Directors' Report and the financial statements in 
+accordance with applicable law and regulations.
+Company law requires the director to prepare financial statements for each financial year.  Under that law the director 
+has elected to prepare the financial statements in accordance with United Kingdom Accounting Standards and applicable 
+law (United Kingdom Generally Accepted Accounting Practice ), including FRS102 "The Financial Reporting Standard 
+applicable in the UK and Republic of  Ireland".
+Under company law the director must not approve the financial statements unless they are satisfied that they give a true 
+and fair view of the state of affairs of the company and the profit or loss of the company for that period.
+In preparing these financial statements, the director is required to:
+- select suitable accounting policies and then apply them consistently;
+- make judgements and accounting estimates that are reasonable and prudent;
+- state whether applicable UK Accounting Standards, including FRS102 have been followed, subject to any material 
+departures disclosed and explained in the financial statements;
+- notify its shareholders in writing about the use of disclosure exemptions, if any, of FRS102 used in the preparation of 
+financial statements; and
+- prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business .
+The director is responsible for keeping adequate accounting records that are sufficient to show and explain the 
+company's transactions and disclose with reasonable accuracy at any time the financial position of the company and to 
+enable them to ensure that the financial statements comply with the Companies Act 2006.  They are also responsible for 
+safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud 
+and other irregularities.
+Page 5
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF
+CABLE AND SPLICING SERVICES LIMITED
+Opinion
+We have audited the financial statements of Cable And Splicing Services Limited (the 'company') for the year ended 
+31 December 2024 which comprise the Income Statement, Other Comprehensive Income, Balance Sheet, Statement of 
+Changes in Equity, Cash Flow Statement and Notes to the Cash Flow Statement, Notes to the Financial Statements, 
+including a summary of significant accounting policies. The financial reporting framework that has been applied in their 
+preparation is applicable law and United Kingdom Accounting Standards, including Financial Reporting Standard 102 
+'The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted 
+Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 December 2024 and of its loss for the year then 
+ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the 
+=== page 10 ===
+financial statements section of our report.  We are independent of the company in accordance with the ethical 
+requirements that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, 
+and we have fulfilled our other ethical responsibilities in accordance with these requirements.  We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in 
+the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions 
+that, individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a 
+period of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Report on other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic 
+Report, the Directors' Report and the Directors' Responsibilities Statement, but does not include the financial statements 
+and our Auditors' Report thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise 
+explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing 
+so, consider whether the other information is materially inconsistent with the financial statements or our knowledge 
+obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or 
+apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the 
+financial statements themselves. If, based on the work we have performed, we conclude that there is a material 
+misstatement of this other information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Directors' Report for the financial year for which the financial 
+statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Directors' Report have been prepared in accordance with applicable legal requirements. 
+Page 6
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF
+CABLE AND SPLICING SERVICES LIMITED
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, 
+we have not identified material misstatements in the Strategic Report or the Directors' Report. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you 
+if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from 
+branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of directors
+As explained more fully in the Directors' Responsibilities Statement set out on page five, the directors are responsible 
+for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such 
+internal control as the directors determine necessary to enable the preparation of financial statements that are free from 
+material misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a 
+going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of 
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic 
+alternative but to do so. 
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue an Auditors' Report that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with 
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+- Enquiry with management, those charged with governance around actual and potential litigation and claims;
+- Enquiry of entity staff to identify any instances of non-compliance with laws and regulations;
+- Reviewing financial statement disclosures and testing to supporting documentation to assess compliance with 
+applicable laws and regulations;
+- Performing audit work over the risk of management override of controls, including testing of journal entries and other 
+=== page 11 ===
+adjustments for appropriateness, evaluating the business rationale of significant transactions outside the normal course 
+of business and reviewing accounting estimates for bias;
+- Performing audit work over the risk of understatement of turnover including analytical review and obtaining 
+corroborated explanations from management.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Auditors' Report. 
+Page 7
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF
+CABLE AND SPLICING SERVICES LIMITED
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those 
+matters we are required to state to them in an Auditors' Report and for no other purpose. To the fullest extent permitted 
+by law, we do not accept or assume responsibility to anyone other than the company and the company's members as a 
+body, for our audit work, for this report, or for the opinions we have formed. 
+Muhammed Shabbir FCA, FCCA
+(Senior Statutory Auditor) 
+for and on behalf of 
+Armstrongs Accountancy Ltd
+Chartered Accountants and Statutory Auditor
+1 & 2 Mercia Village
+Torwood Close
+Westwood Business Park
+Coventry
+West Midlands
+CV4 8HX
+2 September 2025
+Page 8
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+INCOME STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2024
+2023
+Notes
+£   
+£   
+TURNOVER
+3
+16,272,960
+18,490,475
+Cost of sales
+10,599,029
+10,778,029
+GROSS PROFIT
+5,673,931
+7,712,446
+Administrative expenses
+6,059,518
+4,863,177
+OPERATING (LOSS)/PROFIT
+(
+385,587
+)
+2,849,269
+Interest receivable and similar income 
+213,878
+110,539
+(171,709
+)
+2,959,808
+Interest payable and similar expenses 
+5
+6,173
+5,871
+(LOSS)/PROFIT BEFORE TAXATION 
+6
+(
+177,882
+)
+2,953,937
+=== page 12 ===
+Tax on (loss)/profit
+7
+285,503
+62,840
+(LOSS)/PROFIT FOR THE FINANCIAL 
+YEAR 
+(
+463,385
+)
+2,891,097
+The notes on pages 15 to 25 form part of these financial statements
+Page 9
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+OTHER COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2024
+2023
+Notes
+£   
+£   
+(LOSS)/PROFIT FOR THE YEAR
+(
+463,385
+)
+2,891,097
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+(
+463,385
+)
+2,891,097
+The notes on pages 15 to 25 form part of these financial statements
+Page 10
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+BALANCE SHEET
+31 DECEMBER 2024
+2024
+2023
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Tangible assets
+9
+1,314,146
+1,248,640
+Investments
+10
+100
+-
+1,314,246
+1,248,640
+CURRENT ASSETS
+Stocks
+11
+681,400
+1,221,855
+Debtors
+12
+10,982,983
+3,953,389
+Cash at bank and in hand
+1,003,175
+8,184,275
+12,667,558
+=== page 13 ===
+13,359,519
+CREDITORS
+Amounts falling due within one year 
+13
+2,617,601
+2,661,031
+NET CURRENT ASSETS
+10,049,957
+10,698,488
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+11,364,203
+11,947,128
+CREDITORS
+Amounts falling due after more than one 
+year 
+14
+(
+72,690
+)
+(
+51,424
+)
+PROVISIONS FOR LIABILITIES
+17
+(
+202,786
+)
+(
+183,592
+)
+NET ASSETS
+11,088,727
+11,712,112
+CAPITAL AND RESERVES
+Called up share capital
+18
+76
+76
+Capital redemption reserve
+19
+24
+24
+Retained earnings
+19
+11,088,627
+11,712,012
+SHAREHOLDERS' FUNDS
+11,088,727
+11,712,112
+The financial statements were approved by the Board of Directors and authorised for issue on 
+2 September 2025
+and 
+were signed on its behalf by: 
+M A McKinney
+- Director 
+The notes on pages 15 to 25 form part of these financial statements
+Page 11
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Called up
+Capital
+share
+Retained
+redemption
+Total
+capital
+earnings
+reserve
+=== page 14 ===
+equity
+£   
+£   
+£   
+£   
+Balance at 1 January 2023
+76
+8,985,915
+24
+8,986,015
+Changes in equity
+Dividends
+-
+(
+165,000
+)
+-
+(
+165,000
+)
+Total comprehensive income
+-
+2,891,097
+-
+2,891,097
+Balance at 31 December 2023
+76
+11,712,012
+24
+11,712,112
+Changes in equity
+Dividends
+-
+(
+160,000
+)
+-
+(
+160,000
+)
+Total comprehensive income
+-
+(
+463,385
+)
+-
+(
+463,385
+)
+Balance at 31 December 2024
+76
+11,088,627
+24
+11,088,727
+The notes on pages 15 to 25 form part of these financial statements
+Page 12
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+CASH FLOW STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2024
+2023
+Notes
+£   
+£   
+Cash flows from operating activities
+Cash generated from operations
+1
+(
+172,313
+)
+=== page 15 ===
+4,339,661
+Interest paid
+(
+159
+)
+(
+135
+)
+Interest element of hire purchase payments 
+paid 
+(
+6,014
+)
+(
+5,736
+)
+Tax paid
+(
+358,241
+)
+115,491
+Net cash from operating activities
+(
+536,727
+)
+4,449,281
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+427,007
+)
+(
+121,714
+)
+Purchase of fixed asset investments
+(100
+)
+-
+Sale of tangible fixed assets
+117,442
+113,103
+Interest received
+213,878
+110,539
+Net cash from investing activities
+(
+95,787
+)
+101,928
+Cash flows from financing activities
+New loans in year
+(
+1,313,004
+)
+-
+Capital repayments in year
+27,318
+(
+8,900
+)
+Amount introduced by director
+160,079
+165,000
+Amount withdrawn by director
+(160,479
+)
+(144,705
+)
+Amounts owed by group undertakings
+(
+=== page 16 ===
+5,102,500
+)
+-
+Equity dividends paid
+(
+160,000
+)
+(
+165,000
+)
+Net cash from financing activities
+(
+6,548,586
+)
+(
+153,605
+)
+(Decrease)/increase in cash and cash equivalents 
+(
+7,181,100
+)
+4,397,604
+Cash and cash equivalents at beginning of 
+year 
+2
+8,184,275
+3,786,671
+Cash and cash equivalents at end of year 
+2
+1,003,175
+8,184,275
+The notes on pages 15 to 25 form part of these financial statements
+Page 13
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE CASH FLOW STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1.
+RECONCILIATION OF (LOSS)/PROFIT BEFORE TAXATION TO CASH GENERATED FROM 
+OPERATIONS 
+2024
+2023
+£   
+£   
+(Loss)/profit before taxation
+(
+177,882
+)
+2,953,937
+Depreciation charges
+246,838
+289,604
+Profit on disposal of fixed assets
+(
+2,780
+)
+(
+40,502
+)
+Loss on revaluation of fixed assets
+1,313,004
+-
+Finance costs
+6,173
+5,871
+Finance income
+(213,878
+)
+(110,539
+)
+1,171,475
+=== page 17 ===
+3,098,371
+Decrease in stocks
+540,455
+391,852
+(Increase)/decrease in trade and other debtors
+(
+1,927,094
+)
+226,534
+Increase in trade and other creditors
+42,851
+622,904
+Cash generated from operations 
+(
+172,313
+)
+4,339,661
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are in respect of these 
+Balance Sheet amounts: 
+Year ended 31 December 2024
+31.12.24
+1.1.24
+£   
+£   
+Cash and cash equivalents
+1,003,175
+8,184,275
+Year ended 31 December 2023
+31.12.23
+1.1.23
+£   
+£   
+Cash and cash equivalents
+8,184,275
+3,786,671
+3.
+ANALYSIS OF CHANGES IN NET FUNDS 
+At 1.1.24
+Cash flow
+At 31.12.24
+£   
+£   
+£   
+Net cash 
+Cash at bank and in hand
+8,184,275
+(7,181,100
+)
+1,003,175
+8,184,275
+(
+7,181,100
+)
+1,003,175
+Debt
+Finance leases
+(56,206
+)
+(27,318
+)
+(83,524
+)
+(56,206
+)
+(27,318
+)
+(83,524
+)
+=== page 18 ===
+Total
+8,128,069
+(7,208,418
+)
+919,651
+The notes on pages 15 to 25 form part of these financial statements
+Page 14
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1.
+STATUTORY INFORMATION
+Cable And Splicing Services Limited is a 
+private company, limited by shares
+, registered in England and Wales. 
+The company's registered number and registered office address can be found on the Company Information page. 
+The presentation currency of the financial statements is the Pound Sterling (£). 
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The financial statements have been prepared in accordance with applicable accounting standards including 
+Financial Reporting Standard 102 The Financial Reporting Standard Applicable in the UK and Republic of 
+Ireland (FRS 102) and the Companies Act 2006.  The financial statements have been prepared on a going 
+concern basis under the historical cost convention, modified to include certain items at fair value.
+The presentation currency of the financial statements is the Pound Sterling (£).
+The significant accounting policies applied in the preparation of these financial statements are set out below. 
+These policies have been consistently applied to all years presented unless otherwise stated.
+Going concern
+The director has made an assessment of the company's ability to continue as a going concern and is satisfied that 
+the company has the resources to continue in business for the foreseeable future. Furthermore, the director is not 
+aware of material uncertainties that may cast significant doubt upon the company's ability to continue as going 
+concern. Therefore, the financial statements are prepared on going concern basis.
+Preparation of consolidated financial statements
+The financial statements contain information about Cable And Splicing Services Limited as an individual 
+company and do not contain consolidated financial information as the parent of a group.  The company is exempt 
+under Section 400 of the Companies Act 2006 from the requirements to prepare consolidated financial 
+statements as it and its subsidiary undertaking are included by full consolidation in the consolidated financial 
+statements of its parent, Cable and Splicing Services Trustees  Ltd, . 
+Turnover
+Rendering of services
+Revenue from contracts to provide services is recognised in the period in which the services are provided in 
+accordance with the stage of completion of the contract when all of the following conditions are satisfied;  the 
+amount of revenue can be measured reliably; it is probable that the company will receive the consideration due 
+under the contract; the stage of completion of the contract at the end of the reporting period can be measured 
+reliably; the costs incurred and cost to complete the contract can be measured reliably.
+Interest income
+Interest income is recognised in the Statement of Comprehensive Income using the effective interest method.
+Page 15
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Long leasehold
+- 
+3% on reducing balance
+Plant and machinery
+-   
+25% on reducing balance and Straight line over 10 years
+Fixtures and fittings
+-   
+25% on reducing balance and 10% on cost
+Motor vehicles
+- 
+25% on reducing balance
+Computer equipment
+- 
+=== page 19 ===
+33% on cost
+At each reporting end date, the company reviews the carrying amounts of its fixed assets to determine whether 
+there is any indication that those assets have suffered an impairment loss. If any such indication exists, the 
+recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any).
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the 
+estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current 
+market assessments of the time value of money and the risks specific to the asset for which the estimates of future 
+cash flows have not been adjusted.
+If an impairment loss subsequently reverses, the carry amount of the asset is increased to the revised estimate of 
+its recoverable amount, but not in excess of the amount that would have been determined had no impairment loss 
+been recognised for the asset in prior years. A reversal of an impairment loss is recognised immediately in profit 
+or loss
+Work in progress
+Stocks and work in progress are valued at the lower of cost and net realisable value, after making due allowance 
+for obsolete and slow moving items. 
+Cost is calculated using the first-in, first-out method and includes all purchase, transport, and handling costs in 
+bringing stocks to their present location and condition. 
+Work in progress comprises work-completed or measured parts thereof not yet invoiced to customers and is 
+stated after making due allowance for irrecoverable amounts. Profit on contracting activities is taken as work 
+progresses, unless a more conservative approach is necessary. The percentage margin on each individual contract 
+is the lower of margin earned to date and that forecast completion, taking into account of agreed claims. Profit 
+for the period includes settlement of claims arising on completed contracts with a provision made for notified 
+claims during the period where further work is required.
+Page 16
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+The Company only enters into basic fìnancial instrument transactions that result in the recognition of financial 
+assets and liabilities like trade and other deb.tors and creditors, loans from banks and other third parties and 
+loans to related parties.
+Debt instruments (other than those wholly repayable or receivable within one yëar), including loans and other 
+accounts receivable and payable, are initially measured at present value of the future cash flows and 
+subsequently at amortised cost using the effective interest method. Debt instruments that are payable or 
+receivable within one year, typically trade debtors and creditors, are measured, initially and subsequently, at the 
+undiscounted amount of the cash or other consideration expected to be paid or received. However, if the 
+arrangements of a short-term instrument constitute a financing transaction, like the payment of a trade debt 
+deferred beyond normal business terms or financed at a rate of interest that is not a market rate or in the case of 
+an out-right short-term loan not at market rate, the financial asset or liability is measured, initially, at the present 
+value of the future cash flow discounted at a market rate of interest for a similar debt instrument and 
+subsequently at amortised cost.
+Financial assets that are measured at cost and amortised cost are assessed at the end of each reporting period for 
+objective evidence of impairment. If objective evidence of impairment is found, an impairment loss is recognised 
+in the Statement of Comprehensive Income.
+For financial assets measured at amortised cost, the impairment loss is measured as the difference between an 
+asset's carrying amount and the present value of estimated cash flows discounted at the asset's original effective 
+interest ra"te. If a financial asset has a variable interest rate, the discount rate for measuring any impairment loss 
+is the current effective interest rate determined under the contract.
+Financial assets and liabilities are offset and the net amount reported in the Balance Sheet when there is an 
+enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise 
+the asset and settle the liability simultaneously.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to 
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they 
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Page 17
+=== page 20 ===
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+ACCOUNTING POLICIES - continued
+Cash and cash equivalents
+Cash at bank and in hand are basic financial assets and include cash in hand, deposits held at call with banks, 
+other short-term liquid investments with original maturities of three months or less, and bank overdrafts. Bank 
+overdrafts are shown within borrowings in current liabilities.
+Debtors
+Short term debtors are measured at transaction price, less any impairment. Loans receivable are measured 
+initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the 
+effective interest method, less any impairment.
+Creditors
+Short term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are 
+measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using 
+the effective interest method.
+Provisions for liabilities
+Provisions are made where an event has taken place that gives the Company a legal or constructive obligation 
+that probably requires settlement by a transfer of economic benefit, and a reliable estimate can be made of the 
+amount of the obligation.
+Provisions are charged as an expense to the Statement of Comprehensive Income in the year that the Company 
+becomes aware if the obligation, and are measured at the best estimate at the Balance Sheet date of 
+the.expenditure required to settle the obligation, taking into 'account relevant risks and uncertainties.
+When payments are eventually made, they are charged to the provision carried in the Balance Sheet.
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised 
+when paid. Final equity dividends are recognised when approved by the shareholders at an annual general 
+meeting.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the 
+lease. 
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the company's pension 
+scheme are charged to profit or loss in the period to which they relate.
+Page 18
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+ACCOUNTING POLICIES - continued
+Judgements and accounting estimates
+In the application of the accounting policies, the Director is required to make judgements, estimates and 
+assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources. 
+The estimates and associated assumptions are based on historical experience and other factors that are 
+considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates 
+are recognised in the period in which the estimate is revised if the revision affects only that period in the period 
+of the revision and future periods if the revision affects both current and future periods.
+The Company makes estimates and assumptions concerning the future. The resulting accounting estimates will, 
+by definition, seldom equal the related actual results. The estimates and assumptions that have a significant risk 
+causing a material adjustment to the carrying amounts of the assets and liabilities are addressed below:
+Useful economic lives of tangible assets
+The annual depreciation charge for tangible assets is sensitive to changes in the estimated useful economic lives 
+and residual values of the assets. The useful economic lives and residual values are re-assessed annually. They 
+are amended when necessary to reflect current estimates, based on technological advancement, future 
+investments, economic utilisation and the physical conditions of the tangible assets.
+Stocks and work in progress
+The stocks require assessment of the cost of recoverability and the associated provisions. When calculating those 
+provisions management considers the nature and condition of the goods as well as applying assumptions around 
+anticipated saleability of the goods.
+Amounts recoverable on contracts
+Amounts recoverable on contracts are valued at the amount expected to be recovered at balance sheet date with 
+detailed post year end analysis understaken to ensure the fair value of this accrued income.
+Impairment of debtors
+The Company makes an estimate of the recoverable value of trade and other debtors. When assessing impairment 
+of trade and other debtors, management considers factors including the current credit rating of the debtor, the 
+ageing profile of debtors and historical experience.
+=== page 21 ===
+3.
+TURNOVER
+The turnover and loss (2023 - profit) before taxation are attributable to the one principal activity of the company.
+An analysis of turnover by geographical market is given below: 
+2024
+2023
+£   
+£   
+United Kingdom
+16,272,960
+18,490,475
+16,272,960
+18,490,475
+4.
+EMPLOYEES AND DIRECTORS
+2024
+2023
+£   
+£   
+Wages and salaries
+3,082,229
+2,964,637
+Social security costs
+293,407
+270,037
+Other pension costs
+57,815
+51,599
+3,433,451
+3,286,273
+Page 19
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+4.
+EMPLOYEES AND DIRECTORS - continued
+The average number of employees during the year was as follows: 
+2024
+2023
+Office & Management
+80
+76
+Directors
+2
+1
+82
+77
+2024
+2023
+£   
+£   
+Director's remuneration
+50,317
+20,000
+Director's excess retirement benefits
+60,000
+140,000
+5.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+2024
+2023
+£   
+£   
+Bank interest
+159
+135
+Hire purchase
+6,014
+5,736
+=== page 22 ===
+6,173
+5,871
+6.
+(LOSS)/PROFIT BEFORE TAXATION
+The loss (2023 - profit) is stated after charging/(crediting): 
+2024
+2023
+£   
+£   
+Hire of plant and machinery
+13,916
+51,801
+Other operating leases
+17,833
+9,867
+Depreciation - owned assets
+246,839
+289,604
+Profit on disposal of fixed assets
+(
+2,780
+)
+(
+40,502
+)
+Auditors' remuneration
+16,250
+22,845
+7.
+TAXATION
+Analysis of the tax charge
+The tax charge on the loss for the year was as follows: 
+2024
+2023
+£   
+£   
+Current tax:
+UK corporation tax
+266,308
+38,513
+Deferred tax
+19,195
+24,327
+Tax on (loss)/profit
+285,503
+62,840
+Page 20
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+7.
+TAXATION - continued
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is higher than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+2024
+2023
+£   
+£   
+(Loss)/profit before tax
+(
+177,882
+)
+2,953,937
+(Loss)/profit multiplied by the standard rate of corporation tax in the UK of 
+25
+% (2023 - 
+23.520
+%)  
+=== page 23 ===
+(
+44,471
+)
+694,766
+Effects of:
+Expenses not deductible for tax purposes
+328,252
+-
+Depreciation in excess of capital allowances
+1,722
+24,274
+Utilisation of tax losses
+-
+(
+360,798
+)
+Research and Development Claims 2021 & 2022  
+-
+(319,728
+)
+Deferred tax   
+-
+24,326
+Total tax charge
+285,503
+62,840
+8.
+DIVIDENDS
+2024
+2023
+£   
+£   
+Interim
+160,000
+165,000
+9.
+TANGIBLE FIXED ASSETS
+Fixtures
+Long
+Plant and
+and
+leasehold
+machinery
+fittings
+£   
+£   
+£   
+COST
+At 1 January 2024
+386,659
+1,464,985
+199,979
+Additions
+-
+219,952
+8,880
+Disposals
+-
+(
+12,480
+)
+-
+At 31 December 2024
+386,659
+1,672,457
+208,859
+DEPRECIATION
+At 1 January 2024
+41,274
+1,095,649
+=== page 24 ===
+153,309
+Charge for year 
+10,682
+110,700
+9,646
+Eliminated on disposal
+-
+(
+6,986
+)
+-
+At 31 December 2024
+51,956
+1,199,363
+162,955
+NET BOOK VALUE
+At 31 December 2024
+334,703
+473,094
+45,904
+At 31 December 2023
+345,385
+369,336
+46,670
+Page 21
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+9.
+TANGIBLE FIXED ASSETS - continued
+Motor
+Computer
+vehicles
+equipment
+Totals
+£   
+£   
+£   
+COST
+At 1 January 2024
+1,857,450
+14,532
+3,923,605
+Additions
+87,708
+110,467
+427,007
+Disposals
+(
+490,556
+)
+-
+(
+503,036
+)
+At 31 December 2024
+1,454,602
+124,999
+3,847,576
+DEPRECIATION
+At 1 January 2024
+1,377,845
+6,888
+2,674,965
+Charge for year 
+109,605
+6,206
+246,839
+Eliminated on disposal
+=== page 25 ===
+(
+381,388
+)
+-
+(
+388,374
+)
+At 31 December 2024
+1,106,062
+13,094
+2,533,430
+NET BOOK VALUE
+At 31 December 2024
+348,540
+111,905
+1,314,146
+At 31 December 2023
+479,605
+7,644
+1,248,640
+Included in motor vehicles is an asset held under a HP agreement, the net book value of the asset at 31st 
+December 2024 is £83,524 (2023: £52,908)
+10.
+FIXED ASSET INVESTMENTS
+Shares in
+group
+undertakings
+£   
+COST
+Additions
+100
+At 31 December 2024
+100
+NET BOOK VALUE
+At 31 December 2024
+100
+The company's investments at the Balance Sheet date in the share capital of companies include the following: 
+VIACASS Connections Ltd
+Registered office: 
+Nature of business: 
+Manufacturing and install of Electrical Eq.
+%
+Class of shares:
+holding
+Ordinary
+100.00
+The company was dormant during the period.
+Page 22
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+11.
+STOCKS
+2024
+2023
+£   
+£   
+Raw materials
+257,809
+288,141
+Work-in-progress
+423,591
+933,714
+681,400
+1,221,855
+12.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2024
+2023
+=== page 26 ===
+£   
+£   
+Trade debtors
+4,680,791
+2,745,474
+Amounts owed by group undertakings
+5,102,500
+-
+Other debtors
+1,028,674
+848,510
+Corporation tax
+-
+149,218
+Prepayments
+171,018
+210,187
+10,982,983
+3,953,389
+13.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2024
+2023
+£   
+£   
+Hire purchase contracts  (see note 15) 
+10,834
+4,782
+Trade creditors
+1,334,618
+1,291,796
+Corporation tax
+266,308
+358,241
+Social security and other taxes 
+240,741
+231,797
+VAT
+724,676
+738,790
+Directors' current accounts
+1,864
+2,264
+Accrued expenses
+38,560
+33,361
+2,617,601
+2,661,031
+14.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+2024
+2023
+£   
+£   
+Hire purchase contracts  (see note 15) 
+72,690
+51,424
+15.
+LEASING AGREEMENTS
+Minimum lease payments fall due as follows: 
+Hire purchase 
+contracts 
+2024
+2023
+£   
+£   
+Net obligations repayable:
+Within one year
+10,834
+=== page 27 ===
+4,782
+Between one and five years
+72,690
+51,424
+83,524
+56,206
+Page 23
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+15.
+LEASING AGREEMENTS - continued
+Non-cancellable 
+operating leases 
+2024
+2023
+£   
+£   
+Within one year
+83,244
+84,449
+Between one and five years
+164,196
+163,036
+In more than five years
+220,400
+232,000
+467,840
+479,485
+16.
+SECURED DEBTS
+Lloyds Bank Plc holds a fixed and floating charge dated 2 December 2019 over the present and future assets of 
+the Company.
+17.
+PROVISIONS FOR LIABILITIES
+2024
+2023
+£   
+£   
+Deferred tax
+202,786
+183,592
+Deferred
+tax
+£   
+Balance at 1 January 2024
+183,592
+Accelerated capital allowances
+19,194
+Balance at 31 December 2024
+202,786
+18.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£   
+£   
+76
+Ordinary
+£1
+76
+76
+19.
+RESERVES
+=== page 28 ===
+Capital
+Retained
+redemption
+earnings
+reserve
+Totals
+£   
+£   
+£   
+At 1 January 2024
+11,712,012
+24
+11,712,036
+Deficit for the year
+(
+463,385
+)
+(
+463,385
+)
+Dividends
+(
+160,000
+)
+(
+160,000
+)
+At 31 December 2024
+11,088,627
+24
+11,088,651
+Page 24
+continued...
+CABLE AND SPLICING SERVICES LIMITED (REGISTERED NUMBER: 04128539)
+NOTES TO THE FINANCIAL STATEMENTS - continued
+FOR THE YEAR ENDED 31 DECEMBER 2024
+20.
+DIRECTOR'S ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to a director subsisted during the years ended 31 December 2024 and 
+31 December 2023: 
+2024
+2023
+£   
+£   
+M A McKinney
+Balance outstanding at start of year
+(
+2,264
+)
+18,031
+Amounts advanced
+160,400
+144,705
+Amounts repaid
+(
+160,000
+)
+(
+165,000
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+(
+1,864
+)
+=== page 29 ===
+(
+2,264
+)
+21.
+RELATED PARTY DISCLOSURES
+Entities with control, joint control or significant influence over the entity
+2024
+2023
+£   
+£   
+Rent payable  
+42,000
+42,000
+Amount due from related party  
+7,269,272
+758,963
+22.
+ULTIMATE CONTROLLING PARTY
+The controlling party is 
+Cable and Splicing Services Trustees Limited. 
+The company is controlled by the trustees of the Cable and Splicing Services Trustees Limited (An Employee 
+Ownership Trust)  which holds 100% of the issued share capital of the company. There is no ultimate single 
+controlling party.
+Page 25
