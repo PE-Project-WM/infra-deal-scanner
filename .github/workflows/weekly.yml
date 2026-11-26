@@ -27,7 +27,7 @@ on:
       - 'config/balance_sheet.csv'
       - 'scripts/history.py'
       - 'scripts/score.py'
-      - 'config/criteria_digital_infra.json'
+      - 'config/thesis/**'
       - 'config/company_notes.csv'
       - 'scripts/site_template.html'
       - 'config/demand_drivers.json'

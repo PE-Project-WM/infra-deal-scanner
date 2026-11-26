@@ -11,6 +11,10 @@ on:
         description: 'Parallel jobs for history mode (1-20)'
         required: false
         default: '16'
+      numbers:
+        description: 'History mode only: comma-separated company numbers for a top-up run (blank = every company going forward)'
+        required: false
+        default: ''
   push:
     branches: [main]
     paths:
@@ -84,6 +88,7 @@ jobs:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}
           SHARD: ${{ matrix.shard }}
           SHARDS: ${{ needs.plan.outputs.shards }}
+          NUMBERS: ${{ inputs.numbers }}
         run: python scripts/history_fetch.py
       - uses: actions/upload-artifact@v4
         if: always()
@@ -113,6 +118,11 @@ jobs:
           import glob, os, pandas as pd
           for kind in ('facts', 'filings'):
               parts = [pd.read_csv(p, dtype={'CompanyNumber': str}) for p in sorted(glob.glob(f'data/history/{kind}_*.csv')) if os.path.getsize(p) > 2]
+              topup = any('_topup' in p for p in glob.glob(f'data/history/{kind}_*.csv'))
+              if topup and os.path.exists(f'data/history/{kind}.csv'):   # a top-up adds to the earlier run instead of replacing it
+                  old = pd.read_csv(f'data/history/{kind}.csv', dtype={'CompanyNumber': str})
+                  new = pd.concat(parts, ignore_index=True) if parts else old.iloc[0:0]
+                  parts = [old[~old['CompanyNumber'].isin(new['CompanyNumber'])], new]
               if parts:
                   pd.concat(parts, ignore_index=True).to_csv(f'data/history/{kind}.csv', index=False)
               for p in glob.glob(f'data/history/{kind}_*.csv'):

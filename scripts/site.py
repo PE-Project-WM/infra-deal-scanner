@@ -4,7 +4,7 @@ import pandas as pd
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 U = json.load(open(f'{ROOT}/data/updates/latest.json'))
-C = json.load(open(f'{ROOT}/config/criteria_digital_infra.json'))
+from settings import C
 fin = pd.read_csv(f'{ROOT}/data/inputs/financials_all.csv', dtype={'CompanyNumber': str})
 import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

@@ -62,6 +62,15 @@ def data_flags(r):
 
 D['data_flags'] = D.apply(data_flags, axis=1)
 D['numbers_ok'] = D['data_flags'] == ''
+# A flag checked against the filing and found to be real (config/flag_checks.csv) no longer counts against the figures
+FC = f'{CFG}/flag_checks.csv'
+if os.path.exists(FC):
+    fc = pd.read_csv(FC, dtype={'CompanyNumber': str})
+    for i, r in D[~D['numbers_ok']].iterrows():
+        done = set(fc.loc[fc['CompanyNumber'] == r['CompanyNumber'], 'flag'])
+        if done and set(r['data_flags'].split('; ')) <= done:
+            D.at[i, 'numbers_ok'] = True
+            D.at[i, 'data_flags'] = 'checked, real: ' + r['data_flags']
 print(f"Companies with a number to check: {(~D['numbers_ok']).sum()}")
 print(D.loc[~D['numbers_ok'], ['CompanyName', 'turnover', 'ebitda', 'ebitda_margin', 'turnover_growth', 'figures_source', 'data_flags']].to_string())
 

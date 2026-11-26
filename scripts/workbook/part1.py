@@ -31,7 +31,7 @@ def title(ws, text, sub):
 
 def load():
     R = pd.read_csv(f'{REPO}/data/outputs/ranking_latest.csv', dtype={'CompanyNumber': str})
-    C = json.load(open(f'{REPO}/config/criteria_digital_infra.json'))
+    C = json.load(open(f'{REPO}/config/thesis/' + os.environ.get('SECTOR', 'digital') + '.json'))
     return R, C
 
 GBP_M = '£#,##0.0,,"m";(£#,##0.0,,"m");-'
@@ -49,7 +49,7 @@ def build_scorecard(wb, R, C):
         ws.cell(row=4, column=col).alignment = Alignment(wrap_text=True, horizontal='center')
         c = ws.cell(row=5, column=col, value=W[k]); c.font = font(BLUE, bold=True); c.fill = PatternFill('solid', fgColor=YELLOW)
         c.alignment = Alignment(horizontal='center')
-        c.comment = Comment(f'Source: config/criteria_digital_infra.json. {C["scoring_notes"][k]}', 'Screener')
+        c.comment = Comment(f'Source: config/thesis/digital.json. {C["scoring_notes"][k]}', 'Screener')
     ws.cell(row=5, column=4 + len(keys), value='=SUM(D5:I5)').font = font(bold=True)
     ws.cell(row=4, column=4 + len(keys), value='Total').font = font(bold=True, size=9)
     ws['A5'] = 'Edit the yellow cells to re-weight'; ws['A5'].font = font(color='595959', italic=True, size=9)

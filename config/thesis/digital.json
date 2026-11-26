@@ -92,7 +92,8 @@
      "https://www.sorainen.com/?p=116246"
     ]
    },
-   "debt_turns": 5.0
+   "debt_turns": 5.0,
+   "hurdle_irr": 0.12
   },
   "recurring_services": {
    "label": "Recurring services",
@@ -112,7 +113,8 @@
     "high": 8.0,
     "why": "Gamma (UK business communications, 89% recurring revenue) traded near 6x before its bid and was taken private at about 7.6x; Crowe puts listed UK services at 7.5x. Our companies are far smaller, so the range sits at or below these."
    },
-   "debt_turns": 3.0
+   "debt_turns": 3.0,
+   "hurdle_irr": 0.2
   },
   "contractor": {
    "label": "Contractor",
@@ -132,7 +134,8 @@
     "high": 7.0,
     "why": "SPIE, a large listed technical services group, trades near 8x; UK private deals under £250m have a median near 6x. Project-by-project revenue and small size put these at a discount to SPIE."
    },
-   "debt_turns": 2.5
+   "debt_turns": 2.5,
+   "hurdle_irr": 0.2
   },
   "project_company": {
    "label": "Project company",
@@ -147,8 +150,10 @@
    "net_debt_comfort_x": 5.0,
    "visibility_default": 0.95,
    "price_range": null,
-   "debt_turns": null
-  }
+   "debt_turns": null,
+   "hurdle_irr": null
+  },
+  "_hurdle": "Network owners are bought by infrastructure funds, which target lower returns (about 10-15% a year for core-plus and value-add funds) than private equity's 20%; the price check uses 12% for them."
  },
  "sector_default_type": {
   "fibre": "network_owner",

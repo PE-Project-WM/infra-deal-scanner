@@ -68,6 +68,9 @@ def already_read(num, filed):
 def main():
     D = pd.read_csv(f'{ROOT}/data/outputs/candidates_clean.csv', dtype={'CompanyNumber': str})
     todo = D[D['goes_forward']].sort_values('CompanyNumber').reset_index(drop=True)
+    only = [n.strip() for n in os.environ.get('NUMBERS', '').split(',') if n.strip()]
+    if only:   # a top-up run for named companies (e.g. ones that started going forward after the last run)
+        todo = D[D['CompanyNumber'].isin(only)].drop_duplicates('CompanyNumber').reset_index(drop=True)
     todo = todo[todo.index % SHARDS == SHARD]
     if LIMIT:
         todo = todo.head(LIMIT)
@@ -138,8 +141,9 @@ def main():
             rec['seconds'] = round(time.time() - t0)
             log.append(rec)
         print(f'{name}: {len(items[:YEARS])} filings', flush=True)
-    pd.DataFrame(facts).to_csv(f'{OUT}/facts_{SHARD}.csv', index=False)
-    pd.DataFrame(log).to_csv(f'{OUT}/filings_{SHARD}.csv', index=False)
+    tag = f'{SHARD}' + ('_topup' if only else '')
+    pd.DataFrame(facts).to_csv(f'{OUT}/facts_{tag}.csv', index=False)
+    pd.DataFrame(log).to_csv(f'{OUT}/filings_{tag}.csv', index=False)
     print(f'Saved {len(log)} filings and {len(facts)} tagged numbers')
 
 

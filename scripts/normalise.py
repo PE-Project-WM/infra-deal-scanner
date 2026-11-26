@@ -34,6 +34,15 @@ latest = T.sort_values('filed').drop_duplicates('CompanyNumber', keep='last').se
 HS_PATH = f'{OUT}/history_summary.csv'
 HS = pd.read_csv(HS_PATH, dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(HS_PATH) else pd.DataFrame()
 H = pd.read_csv(f'{OUT}/history.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{OUT}/history.csv') else pd.DataFrame(columns=['CompanyNumber', 'fy', 'margin'])
+# D&A charged in the year, from the fixed-asset notes of digital accounts (for companies whose P&L tags no D&A)
+TAGGED_DA = {}
+for fp in (f'{ROOT}/data/deep_dive/facts.csv', f'{ROOT}/data/history/facts.csv'):
+    if os.path.exists(fp):
+        fx_ = pd.read_csv(fp, dtype={'CompanyNumber': str})
+        fx_ = fx_[fx_['tag'].isin(['IncreaseFromDepreciationChargeForYearPropertyPlantEquipment', 'IncreaseFromAmortisationChargeForYearIntangibleAssets']) & fx_['has_dimension'].isna()]
+        for num, g in fx_.groupby('CompanyNumber'):
+            last = g[g['period_end'] == g['period_end'].max()].drop_duplicates('tag')
+            TAGGED_DA[num] = (float(last['value'].abs().sum()), str(g['period_end'].max()))
 AD_PATH = f'{CFG}/ebitda_adjustments.csv'
 AD = pd.read_csv(AD_PATH, dtype={'CompanyNumber': str}) if os.path.exists(AD_PATH) else pd.DataFrame(columns=['CompanyNumber', 'item', 'amount_gbp', 'reason', 'source'])
 from fx import to_gbp
@@ -61,6 +70,12 @@ for _, r in D.iterrows():
         norm += val(t, 'da_total') * f
         steps.append(f"R0 D&A of £{val(t, 'da_total') * f / 1e6:.2f}m read from the accounts text added")
         out['basis_normalised'] = 'Operating profit + D&A (D&A read from the text)'
+    tda = TAGGED_DA.get(num)
+    recent = tda is not None and pd.notna(r['accounts_filed']) and pd.to_datetime(tda[1]) >= pd.to_datetime(r['accounts_filed']) - pd.DateOffset(months=15)
+    if norm is not None and str(r['ebitda_basis']).startswith('ESTIMATE') and not steps and recent:   # same year as the accounts used
+        norm += tda[0] * f
+        steps.append(f"R0 D&A of £{tda[0] * f / 1e6:.2f}m from the fixed-asset notes of the tagged accounts added")
+        out['basis_normalised'] = 'Operating profit + D&A (D&A from the fixed-asset notes)'
     hand = AD[AD['CompanyNumber'] == num]
     hand_items = set(hand['item'])
     if norm is not None and t is not None:

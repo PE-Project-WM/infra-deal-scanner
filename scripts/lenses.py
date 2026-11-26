@@ -20,7 +20,8 @@ R = pd.read_csv(f'{OUT}/ranking_latest.csv', dtype={'CompanyNumber': str})
 C = pd.read_csv(f'{OUT}/candidates_clean.csv', dtype={'CompanyNumber': str})
 Wl = C[C['goes_forward'] & (C['status'] == 'Watchlist (loss-making)')].copy()
 R['list'], Wl['list'], Wl['rank'] = 'Ranked', 'Watchlist (loss-making)', pd.NA
-R['visibility'] = R['pts_revenue_visibility'] / json.load(open(f'{CFG}/criteria_digital_infra.json'))['scoring_weights']['revenue_visibility']
+from settings import W as _W
+R['visibility'] = R['pts_revenue_visibility'] / _W['revenue_visibility']
 Wl['visibility'] = pd.NA
 keep = ['rank', 'list', 'CompanyName', 'CompanyNumber', 'score', 'relevance', 'relevance_reason', 'segment',
         'turnover', 'turnover_growth', 'ebitda_margin', 'visibility', 'revenue_visibility_basis', 'data_flags']

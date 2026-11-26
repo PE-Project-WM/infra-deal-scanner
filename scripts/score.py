@@ -66,6 +66,12 @@ def apply_rules(D):
             D.at[i, 'ebitda_adjustments'] = NM.at[num, 'adjustments'] if pd.notna(NM.at[num, 'adjustments']) else ''
             if 'basis_normalised' in NM.columns and pd.notna(NM.at[num, 'basis_normalised']):
                 D.at[i, 'ebitda_basis'] = NM.at[num, 'basis_normalised']
+    for i, r in D.iterrows():   # cash and net assets read from the text of the same accounts where the main reader missed them
+        num = r['CompanyNumber']
+        if num in TXT.index and pd.notna(TXT.at[num, 'turnover']) and pd.notna(r['turnover']) and abs(TXT.at[num, 'turnover'] * to_gbp(num) - r['turnover']) <= 0.02 * r['turnover']:
+            for col in ('cash', 'net_assets'):
+                if pd.isna(r[col]) and col in TXT.columns and pd.notna(TXT.at[num, col]):
+                    D.at[i, col] = float(TXT.at[num, col]) * to_gbp(num)
     D['ebitda_margin'] = D['ebitda'] / D['turnover']
     has = D['ebitda'].notna()
     D.loc[has & (D['ebitda'] > 0), 'status'] = 'Shortlist'
@@ -118,6 +124,8 @@ def growth(r):
         if one is None:
             return 0.4, 'growth not known (treated as flat)'
         v, basis = one, f'sales {one:+.0%} in one year (only two years read)'
+    if v > 3:   # more than quadrupled in a year: a change of perimeter (acquisition or a first short period), not growth
+        return 0.4, 'perimeter changed (acquisition or short first period): growth not measured'
     return clip((v - g['floor']) / (g['full_marks'] - g['floor']), 0, 1), basis
 
 
@@ -214,7 +222,7 @@ def confidence(r):
     if r['relevance'] == 'ADJACENT':
         c += CF['adjacent']
         reasons.append('only adjacent to the thesis')
-    if num not in RM.index:
+    if num not in RM.index or ('strength' in RM.columns and str(RM.at[num, 'strength']) == 'activity'):
         c += CF['revenue_mix_estimated']
         reasons.append('recurring revenue estimated')
     if label(num):

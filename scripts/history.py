@@ -88,7 +88,26 @@ if len(T):
                 pbt = t.get('profit_before_tax' + suffix)
                 readings.append({'CompanyNumber': t['CompanyNumber'], 'fy': int(fy) - lag, 'filed': t['filed'], 'as': 'this year' if lag == 0 else 'comparative',
                                  'sales': s, 'operating_profit': op if pd.notna(op) else None, 'profit_before_tax': pbt if pd.notna(pbt) else None})
+# The main accounts reader's figures for the latest filing count as one more reading (this year and last year)
+CC = f'{OUT}/candidates_clean.csv'
+if os.path.exists(CC):
+    cc = pd.read_csv(CC, dtype={'CompanyNumber': str})
+    fy_of = {}
+    for r in readings:
+        fy_of.setdefault((r['CompanyNumber'], str(r['filed'])), r['fy'] + (1 if r['as'] == 'comparative' else 0))
+    for _, c in cc.iterrows():
+        if pd.isna(c.get('turnover')) or pd.isna(c.get('accounts_filed')):
+            continue
+        filed = str(c['accounts_filed'])[:10]
+        fy = fy_of.get((c['CompanyNumber'], filed)) or made.get((c['CompanyNumber'], filed)) or (pd.to_datetime(filed) - pd.DateOffset(months=9)).year
+        readings.append({'CompanyNumber': c['CompanyNumber'], 'fy': int(fy), 'filed': filed, 'as': 'this year', 'sales': c['turnover'],
+                         'operating_profit': c['operating_profit'] if pd.notna(c['operating_profit']) else None, 'profit_before_tax': None, 'reader': 'main'})
+        if pd.notna(c.get('turnover_prior')):
+            readings.append({'CompanyNumber': c['CompanyNumber'], 'fy': int(fy) - 1, 'filed': filed, 'as': 'comparative', 'sales': c['turnover_prior'],
+                             'operating_profit': None, 'profit_before_tax': None, 'reader': 'main'})
 Rd = pd.DataFrame(readings)
+if len(Rd):
+    Rd['reader'] = Rd.get('reader', pd.Series(index=Rd.index, dtype=object)).fillna('text')
 
 # 3. Merge: tagged first; else the latest text reading; confirmed where two readings of a year agree within 2%
 rows = []
@@ -106,10 +125,11 @@ for num, fy in sorted(keys):
         row.update({c: tr[c] for c in TAGS.values() if c in tr.index and c not in ('capex_total', 'bank_debt_overdraft')})
         row['source'] = 'tagged'
     elif len(rr):
-        best = rr[rr['as'] == 'this year'].tail(1)
-        best = best if len(best) else rr.tail(1)
-        b = best.iloc[0]
-        row.update(sales=b['sales'], operating_profit=b['operating_profit'], profit_before_tax=b['profit_before_tax'])
+        # each figure from the best reading that has it: this year's column first, then the comparative a year later
+        order = pd.concat([rr[rr['as'] == 'this year'].iloc[::-1], rr[rr['as'] != 'this year'].iloc[::-1]])
+        pick = lambda col: next((v for v in order[col] if v is not None and pd.notna(v)), None)
+        op = pick('operating_profit')
+        row.update(sales=pick('sales'), operating_profit=op, profit_before_tax=None if op is not None else pick('profit_before_tax'))
         row['source'] = 'text'
         if tr is not None:   # tagged balance items still useful
             for c in ('interest', 'capex', 'bank_debt', 'finance_leases', 'cash'):
@@ -117,11 +137,12 @@ for num, fy in sorted(keys):
                     row[c] = tr[c]
     else:
         continue
-    vals = [v for v in rr['sales'].tolist()] if len(rr) else []
-    if tr is not None and pd.notna(tr['sales']):
-        vals.append(tr['sales'])
-    row['readings'] = len(vals)
-    row['confirmed'] = len(vals) >= 2 and (max(vals) - min(vals)) <= 0.02 * max(abs(v) for v in vals)
+    # a year is confirmed when two different filings agree on its sales within 2% (two readers of one filing do not count)
+    by_filing = rr.groupby('filed')['sales'].first().tolist() if len(rr) else []
+    if tr is not None and pd.notna(tr['sales']) and not by_filing:
+        by_filing = [tr['sales']]
+    row['readings'] = len(by_filing)
+    row['confirmed'] = len(by_filing) >= 2 and (max(by_filing) - min(by_filing)) <= 0.02 * max(abs(v) for v in by_filing)
     rows.append(row)
 
 H = pd.DataFrame(rows)
