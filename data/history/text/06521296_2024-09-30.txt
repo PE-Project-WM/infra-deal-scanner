@@ -1,0 +1,1894 @@
+=== page 1 ===
+Ridown Capital Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v24.1.9.2
+06521296
+Board of Directors
+31.12.23
+1.1.23
+31.12.23
+31.12.23
+Holding company
+true
+true
+false
+true
+true
+false
+false
+false
+true
+false
+Ordinary 1p
+0.01000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+06521296
+2022-12-31
+06521296
+2023-12-31
+06521296
+2023-01-01
+2023-12-31
+06521296
+2022-06-30
+06521296
+2022-07-01
+2022-12-31
+06521296
+2022-12-31
+06521296
+ns15:EnglandWales
+2023-01-01
+2023-12-31
+06521296
+ns14:PoundSterling
+2023-01-01
+2023-12-31
+06521296
+ns10:Director1
+2023-01-01
+2023-12-31
+06521296
+ns10:Consolidated
+2023-12-31
+06521296
+ns10:ConsolidatedGroupCompanyAccounts
+2023-01-01
+2023-12-31
+06521296
+ns10:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+06521296
+ns10:Consolidated
+ns10:FRS102
+2023-01-01
+=== page 2 ===
+2023-12-31
+06521296
+ns10:Consolidated
+ns10:Audited
+2023-01-01
+2023-12-31
+06521296
+ns10:SmallCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+06521296
+ns10:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+06521296
+ns10:Consolidated
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2023-01-01
+2023-12-31
+06521296
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+ns10:Consolidated
+2023-01-01
+2023-12-31
+06521296
+ns10:FullAccounts
+2023-01-01
+2023-12-31
+06521296
+1
+2023-01-01
+2023-12-31
+06521296
+ns10:OrdinaryShareClass2
+2023-01-01
+2023-12-31
+06521296
+ns10:Consolidated
+2023-01-01
+2023-12-31
+06521296
+ns10:Director2
+2023-01-01
+2023-12-31
+06521296
+ns10:RegisteredOffice
+2023-01-01
+2023-12-31
+06521296
+ns10:Consolidated
+2022-07-01
+2022-12-31
+06521296
+ns5:CurrentFinancialInstruments
+2023-12-31
+06521296
+ns5:CurrentFinancialInstruments
+2022-12-31
+06521296
+ns5:ShareCapital
+2023-12-31
+06521296
+ns5:ShareCapital
+2022-12-31
+06521296
+ns5:RetainedEarningsAccumulatedLosses
+2023-12-31
+06521296
+ns5:RetainedEarningsAccumulatedLosses
+2022-12-31
+=== page 3 ===
+06521296
+ns5:ShareCapital
+2022-06-30
+06521296
+ns5:RetainedEarningsAccumulatedLosses
+2022-06-30
+06521296
+ns5:RetainedEarningsAccumulatedLosses
+2022-07-01
+2022-12-31
+06521296
+ns5:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+06521296
+ns5:NetGoodwill
+2023-01-01
+2023-12-31
+06521296
+ns5:IntangibleAssetsOtherThanGoodwill
+2023-01-01
+2023-12-31
+06521296
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-01-01
+2023-12-31
+06521296
+ns5:PlantMachinery
+2023-01-01
+2023-12-31
+06521296
+ns5:FurnitureFittings
+2023-01-01
+2023-12-31
+06521296
+ns5:ComputerEquipment
+2023-01-01
+2023-12-31
+06521296
+ns5:CostValuation
+2022-12-31
+06521296
+ns5:CostValuation
+2023-12-31
+06521296
+ns5:AdditionsToInvestments
+2023-12-31
+06521296
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-12-31
+06521296
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-12-31
+06521296
+ns10:OrdinaryShareClass2
+2023-12-31
+REGISTERED NUMBER: 06521296 (England and Wales) 
+Group Strategic Report, Report of the Directors and
+ Consolidated Financial Statements for the Year Ended 31 December 2023
+for
+Ridown Capital Limited
+Ridown Capital Limited (Registered number: 06521296)
+Contents of the Consolidated Financial Statements
+for the Year Ended 31 December 2023
+Page
+Company Information  
+1
+Group Strategic Report  
+=== page 4 ===
+2
+Report of the Directors  
+3
+Report of the Independent Auditors  
+4
+Consolidated Income Statement  
+7
+Consolidated Other Comprehensive Income  
+8
+Consolidated Balance Sheet  
+9
+Company Balance Sheet  
+10
+Consolidated Statement of Changes in Equity  
+11
+Company Statement of Changes in Equity  
+12
+Consolidated Cash Flow Statement  
+13
+Notes to the Consolidated Cash Flow Statement 
+14
+Notes to the Consolidated Financial Statements 
+16
+Ridown Capital Limited
+Company Information
+for the Year Ended 31 December 2023
+DIRECTORS:
+D M Ridge
+A M Brown
+REGISTERED OFFICE:
+Ridown Building
+Fulcrum 2
+Solent Way, Whiteley
+Fareham
+Hampshire
+PO15 7FN
+REGISTERED NUMBER:
+06521296
+(England and Wales) 
+SENIOR STATUTORY AUDITOR:
+Kate Wood
+AUDITORS:
+JWR Audit Limited
+Statutory Auditor
+24 Picton House
+Hussar Court
+Waterlooville
+Hampshire
+PO7 7SQ
+Page 1
+Ridown Capital Limited (Registered number: 06521296)
+Group Strategic Report
+for the Year Ended 31 December 2023
+REVIEW OF BUSINESS
+The group has seen in increase in turnover of £20,703,729 (103%) compared with the previous year. Gross profit has 
+increased by 96%, with the gross margin increasing to 23.9% from 21.4%.
+Over the past three years there has been a significant investment in development of systems and hardware to ensure that 
+the broadband services provided are more efficient, robust, and reliable.
+This has helped to bring in more custom, and increase customer retention, which is evident from the increase in fixed 
+line rental income.
+There has also been large investment in the website development for Webuyanyphone which has resulted in higher 
+traffic, bigger reach, and ultimately a large upwards trend in sales of second hand tech.
+The group is continuing to invest heavily in development of their systems and websites to ensure the upward trend 
+continues.
+PRINCIPAL RISKS AND UNCERTAINTIES
+The group trades in various industries so there are a number of risks which have to be monitored and assessed on a very 
+regular basis. There is a large amount of competition within the second hand tech market, and affordable broadband 
+providers in the UK.
+The second hand tech market is growing quickly and there are a huge number of businesses offering second hand and 
+refurbished tech which is easy to order online. The group is continually researching ways to maximise their visibility, 
+=== page 5 ===
+and also making sure that their customers can make purchases quickly, easily, and at the most competitive prices.
+The Directors are continually monitoring for advances in broadband systems which can be implemented to ensure their 
+service is competitive, while also managing any additional costs to make sure decisions are commercially viable.
+FUTURE DEVELOPMENTS
+The directors are constantly having to keep up with their competition in all areas of their trade. However they have 
+made, and continue to make strong investment in systems, hardware, and websites to ensure that they are not only 
+attracting the right audience, but also ensuring that they retain their loyal customer base which, in an ever changing 
+financial climate and numerous comparison sites, is so far proving very successful.
+The directors are planning to invest even further with their development costs, and also increase their workforce to 
+accommodate the increase in turnover and service provision.
+ON BEHALF OF THE BOARD:
+A M Brown
+- Director 
+30 September 2024
+Page 2
+Ridown Capital Limited (Registered number: 06521296)
+Report of the Directors
+for the Year Ended 31 December 2023
+The directors present their report with the financial statements of the company and the group for the year ended 
+31 December 2023. 
+DIVIDENDS
+No dividends will be distributed for the year ended 31 December 2023. 
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 January 2023 to the date of this 
+report. 
+D M Ridge
+A M Brown
+POLITICAL DONATIONS AND EXPENDITURE
+Donations made during the year were all paid to UK registered charities.
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Group Strategic Report, the Report of the Directors and the financial 
+statements in accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors 
+have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting 
+Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not 
+approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the 
+company and the group and of the profit or loss of the group for that period.  In preparing these financial statements, the 
+directors are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the 
+company's and the group's transactions and disclose with reasonable accuracy at any time the financial position of the 
+company and the group and enable them to ensure that the financial statements comply with the Companies Act 2006. 
+They are also responsible for safeguarding the assets of the company and the group and hence for taking reasonable 
+steps for the prevention and detection of fraud and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the group's auditors are unaware, and each director has taken all the steps that he ought to have taken as 
+a director in order to make himself aware of any relevant audit information and to establish that the group's auditors are 
+aware of that information. 
+AUDITORS
+The auditors,  JWR Audit Limited, will be proposed for re-appointment at the forthcoming Annual General Meeting.
+ON BEHALF OF THE BOARD:
+A M Brown
+- Director 
+30 September 2024
+Page 3
+Report of the Independent Auditors to the Members of
+Ridown Capital Limited
+Opinion
+We have audited the financial statements of Ridown Capital Limited (the 'parent company') and its subsidiaries (the 
+'group') for the year ended 31 December 2023 which comprise the Consolidated Income Statement, Consolidated Other 
+Comprehensive Income, Consolidated Balance Sheet, Company Balance Sheet, Consolidated Statement of Changes in 
+Equity, Company Statement of Changes in Equity, Consolidated Cash Flow Statement and Notes to the Consolidated 
+Cash Flow Statement, Notes to the Financial Statements, including a summary of significant accounting policies. The 
+=== page 6 ===
+financial reporting framework that has been applied in their preparation is applicable law and United Kingdom 
+Accounting Standards, including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the 
+UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the group's and of the parent company affairs as at 31 December 2023 and of 
+the group's profit for the year then ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the 
+financial statements section of our report.  We are independent of the group in accordance with the ethical requirements 
+that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have 
+fulfilled our other ethical responsibilities in accordance with these requirements.  We believe that the audit evidence we 
+have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in 
+the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions 
+that, individually or collectively, may cast significant doubt on the group's and the parent company's ability to continue 
+as a going concern for a period of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Group 
+Strategic Report and the Report of the Directors, but does not include the financial statements and our Report of the 
+Auditors thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise 
+explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing 
+so, consider whether the other information is materially inconsistent with the financial statements or our knowledge 
+obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or 
+apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the 
+financial statements themselves. If, based on the work we have performed, we conclude that there is a material 
+misstatement of this other information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Group Strategic Report and the Report of the Directors for the financial year for which 
+the financial statements are prepared is consistent with the financial statements; and 
+-
+the Group Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal 
+requirements. 
+Page 4
+Report of the Independent Auditors to the Members of
+Ridown Capital Limited
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the group and the parent company and its environment obtained in 
+the course of the audit, we have not identified material misstatements in the Group Strategic Report or the Report of the 
+Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you 
+if, in our opinion: 
+-
+adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not 
+been received from branches not visited by us; or 
+-
+the parent company financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page three, the directors are 
+responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and 
+for such internal control as the directors determine necessary to enable the preparation of financial statements that are 
+free from material misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the group's and the parent company's 
+=== page 7 ===
+ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going 
+concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease 
+operations, or have no realistic alternative but to do so. 
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with 
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations.
+We designed audit procedures to respond to the risk, recognising that the risk of not detecting a material misstatement 
+due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate 
+concealment by, for example, forgery, misrepresentations or through collusion.
+Procedures performed by the audit team included:
+- Discussions with management regarding known or suspected instances of non-compliance with laws and regulations;
+- Evaluation of controls designed to prevent and detect irregularities; and
+- Assessing journals entries as part of our planned audit approach.
+There are inherent limitations in the audit procedures described above and the further removed non-compliance with 
+laws and regulations is from the events and transactions reflected in the financial statements, the less likely we would 
+become aware of it.
+As in all of our audits we also addressed the risk of management override of internal controls, including testing journals 
+and evaluating whether there was evidence of bias by the directors that represented a risk of material misstatement due 
+to fraud.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Page 5
+Report of the Independent Auditors to the Members of
+Ridown Capital Limited
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those 
+matters we are required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's 
+members as a body, for our audit work, for this report, or for the opinions we have formed. 
+Kate Wood
+(Senior Statutory Auditor) 
+for and on behalf of 
+JWR Audit Limited
+Statutory Auditor
+24 Picton House
+Hussar Court
+Waterlooville
+Hampshire
+PO7 7SQ
+30 September 2024
+Page 6
+Ridown Capital Limited (Registered number: 06521296)
+Consolidated
+Income Statement
+for the Year Ended 31 December 2023
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+Notes
+£   
+£   
+TURNOVER
+40,740,955
+20,037,226
+Cost of sales
+30,999,446
+15,753,486
+GROSS PROFIT
+9,741,509
+=== page 8 ===
+4,283,740
+Administrative expenses
+9,675,532
+5,880,533
+65,977
+(1,596,793
+)
+Other operating income
+47,794
+379,349
+OPERATING PROFIT/(LOSS)
+4
+113,771
+(1,217,444
+)
+Interest receivable and similar income 
+-
+100
+113,771
+(1,217,344
+)
+Interest payable and similar expenses 
+6
+8,623
+7,758
+PROFIT/(LOSS) BEFORE TAXATION 
+105,148
+(1,225,102
+)
+Tax on profit/(loss)
+7
+21,595
+-
+PROFIT/(LOSS) FOR THE FINANCIAL 
+YEAR 
+83,553
+(
+1,225,102
+)
+Profit/(loss) attributable to:
+Owners of the parent
+83,553
+(1,225,102
+)
+The notes form part of these financial statements
+Page 7
+Ridown Capital Limited (Registered number: 06521296)
+Consolidated
+Other Comprehensive Income
+for the Year Ended 31 December 2023
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+Notes
+£   
+£   
+PROFIT/(LOSS) FOR THE YEAR
+83,553
+(1,225,102
+)
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+83,553
+=== page 9 ===
+(1,225,102
+)
+Note
+Prior year adjustment
+9
+(300,151
+)
+TOTAL COMPREHENSIVE INCOME 
+SINCE LAST ANNUAL REPORT 
+(216,598
+)
+Total comprehensive income attributable to:
+Owners of the parent
+(216,598
+)
+(1,225,102
+)
+The notes form part of these financial statements
+Page 8
+Ridown Capital Limited (Registered number: 06521296)
+Consolidated Balance Sheet
+31 December 2023
+31.12.23
+31.12.22
+as restated
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Intangible assets
+10
+3,250,849
+3,518,956
+Tangible assets
+11
+158,310
+215,995
+Investments
+12
+Interest in joint venture
+Share of gross assets
+50
+-
+50
+-
+Interest in associate
+100,000
+-
+3,509,209
+3,734,951
+CURRENT ASSETS
+Stocks
+13
+610,890
+479,012
+Debtors
+14
+4,432,025
+4,781,238
+Cash at bank
+2,754,423
+1,867,474
+7,797,338
+7,127,724
+CREDITORS
+Amounts falling due within one year 
+15
+12,387,784
+=== page 10 ===
+16,961,538
+NET CURRENT LIABILITIES
+(4,590,446
+)
+(9,833,814
+)
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+(1,081,237
+)
+(6,098,863
+)
+CREDITORS
+Amounts falling due after more than one 
+year 
+16
+(5,443,311
+)
+(530,833
+)
+PROVISIONS FOR LIABILITIES
+18
+(21,595
+)
+-
+NET LIABILITIES
+(6,546,143
+)
+(6,629,696
+)
+CAPITAL AND RESERVES
+Called up share capital
+19
+1
+1
+Retained earnings
+20
+(6,546,154
+)
+(6,629,707
+)
+SHAREHOLDERS' FUNDS
+(6,546,153
+)
+(6,629,706
+)
+NON-CONTROLLING INTERESTS
+21
+10
+10
+TOTAL EQUITY
+(6,546,143
+)
+(6,629,696
+)
+The financial statements were approved by the Board of Directors and authorised for issue on 30 September 2024 and 
+were signed on its behalf by: 
+A M Brown - Director 
+The notes form part of these financial statements
+Page 9
+Ridown Capital Limited (Registered number: 06521296)
+Company Balance Sheet
+31 December 2023
+31.12.23
+31.12.22
+as restated
+Notes
+£   
+£   
+£   
+=== page 11 ===
+£   
+FIXED ASSETS
+Intangible assets
+10
+-
+-
+Tangible assets
+11
+-
+-
+Investments
+12
+101,452
+301
+101,452
+301
+CURRENT ASSETS
+Debtors
+14
+5,908,736
+6,528,051
+Cash at bank
+465,819
+5,167
+6,374,555
+6,533,218
+CREDITORS
+Amounts falling due within one year 
+15
+3,576,055
+3,626,179
+NET CURRENT ASSETS
+2,798,500
+2,907,039
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+2,899,952
+2,907,340
+CAPITAL AND RESERVES
+Called up share capital
+19
+1
+1
+Retained earnings
+2,899,951
+2,907,339
+SHAREHOLDERS' FUNDS
+2,899,952
+2,907,340
+Company's loss for the financial year 
+(7,388
+)
+(840
+)
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small companies regime.
+The financial statements were approved by the Board of Directors and authorised for issue on 
+30 September 2024
+and 
+were signed on its behalf by: 
+A M Brown
+- Director 
+The notes form part of these financial statements
+Page 10
+Ridown Capital Limited (Registered number: 06521296)
+Consolidated Statement of Changes in Equity
+for the Year Ended 31 December 2023
+Called up
+share
+Retained
+Non-controlling
+=== page 12 ===
+Total
+capital
+earnings
+Total
+interests
+equity
+£   
+£   
+£   
+£   
+£   
+Balance at 1 July 2022
+1
+(5,404,605
+)
+(5,404,604
+)
+10
+(5,404,594
+)
+Changes in equity
+Total comprehensive income
+-
+(924,951
+)
+(924,951
+)
+-
+(924,951
+)
+Balance at 31 December 2022
+1
+(6,329,556
+)
+(6,329,555
+)
+10
+(6,329,545
+)
+Prior year adjustment
+-
+(300,151
+)
+(300,151
+)
+-
+(300,151
+)
+As restated
+1
+(6,629,707
+)
+(6,629,706
+)
+10
+(6,629,696
+)
+Changes in equity
+Total comprehensive income
+-
+83,553
+83,553
+-
+83,553
+Balance at 31 December 2023
+1
+(6,546,154
+)
+(6,546,153
+)
+=== page 13 ===
+10
+(6,546,143
+)
+The notes form part of these financial statements
+Page 11
+Ridown Capital Limited (Registered number: 06521296)
+Company Statement of Changes in Equity
+for the Year Ended 31 December 2023
+Called up
+share
+Retained
+Total
+capital
+earnings
+equity
+£   
+£   
+£   
+Balance at 1 July 2022
+1
+2,908,179
+2,908,180
+Changes in equity
+Total comprehensive income
+-
+(
+840
+)
+(
+840
+)
+Balance at 31 December 2022
+1
+2,907,339
+2,907,340
+Changes in equity
+Total comprehensive income
+-
+(
+7,388
+)
+(
+7,388
+)
+Balance at 31 December 2023
+1
+2,899,951
+2,899,952
+The notes form part of these financial statements
+Page 12
+Ridown Capital Limited (Registered number: 06521296)
+Consolidated Cash Flow Statement
+for the Year Ended 31 December 2023
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+Notes
+£   
+£   
+Cash flows from operating activities
+Cash generated from operations
+1
+2,800,671
+1,155,827
+Interest paid
+(8,623
+=== page 14 ===
+)
+(7,758
+)
+Net cash from operating activities
+2,792,048
+1,148,069
+Cash flows from investing activities
+Purchase of intangible fixed assets
+(205,288
+)
+(220,197
+)
+Purchase of tangible fixed assets
+(85,326
+)
+(120,460
+)
+Purchase of fixed asset investments
+(100,050
+)
+-
+Sale of tangible fixed assets
+-
+8,207
+Interest received
+-
+100
+Net cash from investing activities
+(390,664
+)
+(332,350
+)
+Cash flows from financing activities
+New loans in year
+-
+1,000,000
+Loan repayments in year
+(529,188
+)
+(168,334
+)
+Amount introduced by directors
+(1,010
+)
+502,100
+Amount withdrawn by directors
+(288,335
+)
+(91
+)
+Loans to joint ventures during year
+(695,902
+)
+-
+Net cash from financing activities
+(1,514,435
+)
+1,333,675
+Increase in cash and cash equivalents 
+886,949
+2,149,394
+Cash and cash equivalents at beginning of 
+year 
+2
+1,867,474
+(281,920
+)
+Cash and cash equivalents at end of year 
+2
+2,754,423
+=== page 15 ===
+1,867,474
+The notes form part of these financial statements
+Page 13
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Cash Flow Statement
+for the Year Ended 31 December 2023
+1.
+RECONCILIATION OF PROFIT/(LOSS) BEFORE TAXATION TO CASH GENERATED FROM 
+OPERATIONS 
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Profit/(loss) before taxation
+105,148
+(1,225,102
+)
+Depreciation charges
+616,406
+447,641
+Profit on disposal of fixed assets
+-
+(76
+)
+Finance costs
+8,623
+7,758
+Finance income
+-
+(100
+)
+730,177
+(769,879
+)
+Increase in stocks
+(131,878
+)
+(243,421
+)
+Decrease/(increase) in trade and other debtors
+1,045,115
+(168,756
+)
+Increase in trade and other creditors
+1,157,257
+2,337,883
+Cash generated from operations 
+2,800,671
+1,155,827
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are in respect of these 
+Balance Sheet amounts: 
+Year ended 31 December 2023
+31.12.23
+1.1.23
+£   
+£   
+Cash and cash equivalents
+2,754,423
+1,867,474
+Period ended 31 December 2022
+31.12.22
+1.7.22
+as restated
+=== page 16 ===
+£   
+£   
+Cash and cash equivalents
+1,867,474
+51,037
+Bank overdrafts
+-
+(332,957
+)
+1,867,474
+(281,920
+)
+The notes form part of these financial statements
+Page 14
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Cash Flow Statement
+for the Year Ended 31 December 2023
+3.
+ANALYSIS OF CHANGES IN NET FUNDS 
+At 1.1.23
+Cash flow
+At 31.12.23
+£   
+£   
+£   
+Net cash 
+Cash at bank
+1,867,474
+886,949
+2,754,423
+1,867,474
+886,949
+2,754,423
+Debt
+Debts falling due within 1 year
+(529,999
+)
+41,666
+(488,333
+)
+Debts falling due after 1 year
+(530,833
+)
+487,522
+(43,311
+)
+(1,060,832
+)
+529,188
+(531,644
+)
+Total
+806,642
+1,416,137
+2,222,779
+The notes form part of these financial statements
+Page 15
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements
+for the Year Ended 31 December 2023
+1.
+STATUTORY INFORMATION
+Ridown Capital Limited is a 
+private company, limited by shares
+, registered in England and Wales. The 
+company's registered number and registered office address can be found on the General Information page. 
+The presentation currency of the financial statements is the Pound Sterling (£). 
+Accounts are rounded to the nearest pound.
+The accounts represent the company as an individual entity.
+2.
+=== page 17 ===
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Significant judgements and estimates
+The preparation of financial statements requires the use of estimates and assumptions that affect reported
+amounts of assets and liabilities at the date of the financial statements, and revenues and expenses during the 
+reporting period. These estimates and assumptions are based on management's best knowledge of the 
+amount,events or actions. Actual results may differ from those amounts.
+Management do not consider there to be any significant judgements or estimates used in the preparation of these 
+financial statements.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, 
+value added tax and other sales taxes. 
+Goodwill
+Goodwill, being the amount paid in connection with the acquisition of a business in 2021, is being amortised evenly over its estimated useful life of ten years.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost 
+less any accumulated amortisation and any accumulated impairment losses. 
+Development costs are being amortised evenly over their estimated useful life of ten years.
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery
+- 
+33% on cost
+Fixtures and fittings
+-   
+25% on cost and 15% on cost
+Computer equipment
+-         
+33% on cost, 25% on cost, 20% on reducing balance, 20% on cost and Depreciated on cost over 3 years
+Investments in associates
+Investments in associate undertakings are recognised at cost. 
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete and slow 
+moving items. 
+Page 16
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+2.
+ACCOUNTING POLICIES - continued
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Consolidated Income 
+Statement, except to the extent that it relates to items recognised in other comprehensive income or directly in 
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they 
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the 
+lease. 
+Pension costs and other post-retirement benefits
+The group operates a defined contribution pension scheme.  Contributions payable to the group's pension scheme 
+are charged to profit or loss in the period to which they relate.
+3.
+EMPLOYEES AND DIRECTORS
+Period
+1.7.22
+Year Ended
+to
+=== page 18 ===
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Wages and salaries
+3,334,980
+1,850,015
+Social security costs
+319,484
+177,539
+Other pension costs
+61,393
+38,129
+3,715,857
+2,065,683
+The average number of employees during the year was as follows: 
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+Directors
+1
+1
+Staff
+102
+74
+103
+75
+Page 17
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+3.
+EMPLOYEES AND DIRECTORS - continued
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Directors' remuneration
+91,357
+83,917
+4.
+OPERATING PROFIT/(LOSS)
+The operating profit (2022 - operating loss) is stated after charging/(crediting): 
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Hire of plant and machinery
+11,371
+-
+Other operating leases
+171,871
+128,310
+Depreciation - owned assets
+=== page 19 ===
+143,142
+50,440
+Profit on disposal of fixed assets
+-
+(76
+)
+Goodwill amortisation
+294,131
+294,132
+Development costs amortisation
+179,264
+103,070
+Auditors' remuneration
+19,500
+10,000
+Foreign exchange differences
+1,770
+115
+5.
+EXCEPTIONAL ITEMS
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Exceptional items
+-
+(13,969
+)
+6.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Bank interest
+728
+2,010
+Bank loan interest
+7,895
+5,748
+8,623
+7,758
+Page 18
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+7.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+=== page 20 ===
+Deferred tax
+21,595
+-
+Tax on profit/(loss)
+21,595
+-
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+Period
+1.7.22
+Year Ended
+to
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Profit/(loss) before tax
+105,148
+(1,225,102
+)
+Profit/(loss) multiplied by the standard rate of corporation tax in the UK of 
+25 % (2022 - 19 %)  
+26,287
+(232,769
+)
+Effects of:
+Expenses not deductible for tax purposes
+5,389
+18,621
+Income not taxable for tax purposes
+-
+(63,775
+)
+Depreciation in excess of capital allowances
+56,731
+7,148
+Utilisation of tax losses
+(322,050
+)
+(20
+)
+Research and development enhanced deduction  
+-
+(280,206
+)
+Development expenditure capitalised  
+-
+(41,837
+)
+Losses carried forward   
+233,643
+592,838
+Deferred tax movement   
+21,595
+-
+Total tax charge
+21,595
+-
+8.
+INDIVIDUAL INCOME STATEMENT
+As permitted by Section 408 of the Companies Act 2006, the Income Statement of the parent company is not 
+presented as part of these financial statements. 
+9.
+PRIOR YEAR ADJUSTMENT
+In the financial statements for the prior year it has been identified that the recorded accrued income value has 
+been overstated. The overstatement is attributed to a non-physical error, specifically sales not being cleared out 
+of this balance sheet nominal at the year end, resulting in an inaccurate representation of the accrued income 
+value.
+=== page 21 ===
+The issue is entirely of an administrative or documentation nature, where accrued income had been inadvertently 
+recorded twice in the accounts. The accounting discrepancy has resulted in an overstatement of the accrued 
+income's monetary value in the financial records in the prior year.
+Page 19
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+10.
+INTANGIBLE FIXED ASSETS
+Group
+Development
+Goodwill
+costs
+Totals
+£   
+£   
+£   
+COST
+At 1 January 2023
+2,941,314
+1,420,823
+4,362,137
+Additions
+-
+205,288
+205,288
+At 31 December 2023
+2,941,314
+1,626,111
+4,567,425
+AMORTISATION
+At 1 January 2023
+579,994
+263,187
+843,181
+Amortisation for year 
+294,131
+179,264
+473,395
+At 31 December 2023
+874,125
+442,451
+1,316,576
+NET BOOK VALUE
+At 31 December 2023
+2,067,189
+1,183,660
+3,250,849
+At 31 December 2022
+2,361,320
+1,157,636
+3,518,956
+11.
+TANGIBLE FIXED ASSETS
+Group
+Fixtures
+Plant and
+and
+Computer
+machinery
+fittings
+equipment
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 January 2023
+=== page 22 ===
+-
+217,435
+311,031
+528,466
+Additions
+2,057
+20,631
+62,984
+85,672
+Reclassification/transfer
+70,470
+(73,105
+)
+2,287
+(348
+)
+At 31 December 2023
+72,527
+164,961
+376,302
+613,790
+DEPRECIATION
+At 1 January 2023
+-
+93,655
+218,816
+312,471
+Charge for year 
+43,303
+31,992
+67,847
+143,142
+Reclassification/transfer
+19,389
+(20,363
+)
+841
+(133
+)
+At 31 December 2023
+62,692
+105,284
+287,504
+455,480
+NET BOOK VALUE
+At 31 December 2023
+9,835
+59,677
+88,798
+158,310
+At 31 December 2022
+-
+123,780
+92,215
+215,995
+Page 20
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+12.
+FIXED ASSET INVESTMENTS
+Group
+Interest
+Interest
+in joint
+in
+venture
+associate
+Totals
+=== page 23 ===
+£   
+£   
+£   
+COST
+Additions
+50
+100,000
+100,050
+At 31 December 2023
+50
+100,000
+100,050
+NET BOOK VALUE
+At 31 December 2023
+50
+100,000
+100,050
+Company
+Shares in
+Interest
+Interest
+group
+in joint
+in
+undertakings
+venture
+associate
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 January 2023
+301
+-
+-
+301
+Additions
+1,101
+50
+100,000
+101,151
+At 31 December 2023
+1,402
+50
+100,000
+101,452
+NET BOOK VALUE
+At 31 December 2023
+1,402
+50
+100,000
+101,452
+At 31 December 2022
+301
+-
+-
+301
+13.
+STOCKS
+Group
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Stocks
+610,890
+479,012
+=== page 24 ===
+14.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+Group
+Company
+31.12.23
+31.12.22
+31.12.23
+31.12.22
+as restated 
+as restated 
+£   
+£   
+£   
+£   
+Trade debtors
+835,107
+623,534
+-
+-
+Amounts owed by group undertakings
+-
+-
+4,563,099
+4,638,099
+Amounts owed by joint ventures
+695,902
+-
+695,902
+-
+Other debtors
+1,011,732
+741,985
+-
+-
+Other loans
+649,735
+2,889,952
+649,735
+1,889,952
+Other loans - Ridown Property
+-
+(1,000,000
+)
+-
+-
+Prepayments and accrued income
+1,239,549
+1,525,767
+-
+-
+4,432,025
+4,781,238
+5,908,736
+6,528,051
+Page 21
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+15.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+Group
+Company
+31.12.23
+31.12.22
+31.12.23
+31.12.22
+as restated 
+as restated 
+£   
+=== page 25 ===
+£   
+£   
+£   
+Bank loans and overdrafts (see note 17) 
+30,000
+30,000
+-
+-
+Other loans (see note 17) 
+458,333
+499,999
+-
+-
+Trade creditors
+2,627,393
+2,440,507
+-
+-
+Provision for returns
+157,999
+91,107
+-
+-
+Social security and other taxes 
+72,738
+188,885
+-
+-
+VAT
+1,458,980
+463,296
+-
+-
+Other creditors
+953,530
+724,640
+841
+841
+Income in advance
+1,189,652
+1,231,870
+-
+-
+Clawback accrual
+1,143,192
+840,024
+-
+-
+Directors' loan accounts
+3,613,412
+9,302,757
+3,574,422
+3,623,538
+Accruals and deferred income
+682,555
+1,148,453
+792
+1,800
+12,387,784
+16,961,538
+3,576,055
+3,626,179
+16.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+Group
+31.12.23
+31.12.22
+as restated 
+£   
+=== page 26 ===
+£   
+Bank loans (see note 17) 
+43,311
+72,500
+Other loans (see note 17) 
+-
+458,333
+Directors' loan accounts
+5,400,000
+-
+5,443,311
+530,833
+Page 22
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+17.
+LOANS
+An analysis of the maturity of loans is given below:
+Group
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Amounts falling due within one year or on 
+demand: 
+Bank loans
+30,000
+30,000
+Other loans
+458,333
+499,999
+488,333
+529,999
+Amounts falling due between one and two 
+years: 
+Bank loans - 1-2 years
+34,167
+64,166
+Other loans - 1-2 years
+-
+458,333
+34,167
+522,499
+Amounts falling due between two and five 
+years: 
+Bank loans - 2-5 years
+9,144
+8,334
+18.
+PROVISIONS FOR LIABILITIES
+Group
+31.12.23
+31.12.22
+as restated 
+£   
+£   
+Deferred tax
+Accelerated capital allowances
+21,595
+-
+Group
+Deferred
+tax
+£   
+Charge to Income Statement during year 
+21,595
+Balance at 31 December 2023
+=== page 27 ===
+21,595
+19.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+31.12.23
+31.12.22
+value:
+as restated 
+£   
+£   
+100
+Ordinary 1p
+1p
+1
+1
+Page 23
+continued...
+Ridown Capital Limited (Registered number: 06521296)
+Notes to the Consolidated Financial Statements - continued
+for the Year Ended 31 December 2023
+20.
+RESERVES
+Group
+Retained
+earnings
+£   
+At 1 January 2023
+(6,329,556
+)
+Prior year adjustment
+(300,151
+)
+(6,629,707
+)
+Profit for the year 
+83,553
+At 31 December 2023
+(6,546,154
+)
+21.
+NON-CONTROLLING INTERESTS
+MR G McQuaid owns 10 ordinary 'B' shares in Hosted Business Limited, which equates to a 10% stake in the 
+company.
+Page 24

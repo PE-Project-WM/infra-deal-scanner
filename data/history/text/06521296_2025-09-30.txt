@@ -1,0 +1,2371 @@
+=== page 1 ===
+Ridown Capital Limited
+Acorah Software Products - Accounts Production
+16.5.460
+false
+true
+31 December 2023
+1 January 2023
+false
+false
+29 September 2025
+true
+true
+1 January 2024
+31 December 2024
+31 December 2024
+06521296
+Mr Darren Ridge
+Mr Aaron Brown
+31 December 2024
+false
+true
+true
+true
+true
+true
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+06521296
+2023-12-31
+06521296
+2024-12-31
+06521296
+2024-01-01
+2024-12-31
+06521296
+frs-core:CurrentFinancialInstruments
+2024-12-31
+06521296
+frs-core:Non-currentFinancialInstruments
+2024-12-31
+06521296
+frs-core:ShareCapital
+2024-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+2024-12-31
+06521296
+frs-bus:ConsolidatedGroupCompanyAccounts
+2024-01-01
+2024-12-31
+06521296
+frs-core:CostValuation
+2023-12-31
+06521296
+frs-core:AdditionsToInvestments
+2024-12-31
+06521296
+frs-core:CostValuation
+2024-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+2023-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+2024-12-31
+06521296
+=== page 2 ===
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+06521296
+frs-core:UnlistedNon-exchangeTraded
+2023-12-31
+06521296
+frs-core:CostValuation
+frs-core:UnlistedNon-exchangeTraded
+2023-12-31
+06521296
+frs-core:AdditionsToInvestments
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+06521296
+frs-core:CostValuation
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+frs-core:UnlistedNon-exchangeTraded
+2023-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+06521296
+frs-bus:Director1
+2024-01-01
+2024-12-31
+06521296
+1
+2024-01-01
+2024-12-31
+06521296
+2
+2024-01-01
+2024-12-31
+06521296
+frs-core:CurrentFinancialInstruments
+frs-core:WithinOneYear
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:CurrentFinancialInstruments
+frs-core:WithinOneYear
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Non-currentFinancialInstruments
+frs-core:BetweenOneFiveYears
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:CurrentFinancialInstruments
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Non-currentFinancialInstruments
+frs-bus:Consolidated
+2024-12-31
+=== page 3 ===
+06521296
+frs-core:BetweenOneFiveYears
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:ComputerEquipment
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:ComputerEquipment
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:ComputerEquipment
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:DevelopmentCostsCapitalisedDevelopmentExpenditure
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:FurnitureFittings
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:FurnitureFittings
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:FurnitureFittings
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:NetGoodwill
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:NetGoodwill
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:NetGoodwill
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:MotorVehicles
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:MotorVehicles
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:MotorVehicles
+frs-bus:Consolidated
+2023-12-31
+06521296
+=== page 4 ===
+frs-core:PlantMachinery
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:PlantMachinery
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:PlantMachinery
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:WithinOneYear
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:ShareCapital
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+frs-core:PreviouslyStatedAmount
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-bus:PrivateLimitedCompanyLtd
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:FullAccounts
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:MediumEntities
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:Audited
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:Medium-sizedCompaniesRegimeForAccounts
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:Medium-sizedCompaniesRegimeForDirectorsReport
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:OrdinaryShareClass1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:OrdinaryShareClass1
+=== page 5 ===
+frs-bus:Consolidated
+2024-12-31
+06521296
+1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:DeferredTaxation
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:DeferredTaxation
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:DeferredTaxation
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Non-controllingInterests
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:CostValuation
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:AdditionsToInvestments
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:CostValuation
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:UnlistedNon-exchangeTraded
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:UnlistedNon-exchangeTraded
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:CostValuation
+frs-core:UnlistedNon-exchangeTraded
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:AdditionsToInvestments
+frs-core:UnlistedNon-exchangeTraded
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:CostValuation
+frs-core:UnlistedNon-exchangeTraded
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+frs-core:UnlistedNon-exchangeTraded
+=== page 6 ===
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:ProvisionsForImpairmentInvestments
+frs-core:UnlistedNon-exchangeTraded
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-bus:Director1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-bus:Director2
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+2
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-countries:EnglandWales
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:JointVenture1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:JointVenture1
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:JointVenture1
+1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:JointVenture2
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:JointVenture2
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:JointVenture2
+2
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary1
+frs-bus:Consolidated
+=== page 7 ===
+2024-12-31
+06521296
+frs-core:Subsidiary1
+1
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary2
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary2
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Subsidiary2
+2
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary3
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary3
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Subsidiary3
+3
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary4
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary4
+4
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary5
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary5
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Subsidiary5
+5
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary6
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary6
+=== page 8 ===
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Subsidiary6
+6
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary7
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+frs-core:Subsidiary7
+frs-bus:Consolidated
+2024-12-31
+06521296
+frs-core:Subsidiary7
+7
+frs-bus:Consolidated
+2024-01-01
+2024-12-31
+06521296
+2022-12-31
+06521296
+2023-12-31
+06521296
+2023-01-01
+2023-12-31
+06521296
+frs-core:CurrentFinancialInstruments
+2023-12-31
+06521296
+frs-core:Non-currentFinancialInstruments
+2023-12-31
+06521296
+frs-core:ShareCapital
+2023-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+2023-12-31
+06521296
+1
+2023-01-01
+2023-12-31
+06521296
+2
+2023-01-01
+2023-12-31
+06521296
+frs-core:CurrentFinancialInstruments
+frs-core:WithinOneYear
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:Non-currentFinancialInstruments
+frs-core:BetweenOneFiveYears
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-bus:Consolidated
+2022-12-31
+06521296
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-bus:Consolidated
+2023-01-01
+2023-12-31
+=== page 9 ===
+06521296
+frs-core:CurrentFinancialInstruments
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:Non-currentFinancialInstruments
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:BetweenOneFiveYears
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:WithinOneYear
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:ShareCapital
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+frs-core:PreviouslyStatedAmount
+frs-bus:Consolidated
+2022-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-core:RetainedEarningsAccumulatedLosses
+frs-bus:Consolidated
+2023-12-31
+06521296
+frs-bus:OrdinaryShareClass1
+frs-bus:Consolidated
+2023-01-01
+2023-12-31
+06521296
+frs-core:Non-controllingInterests
+frs-bus:Consolidated
+2023-12-31
+06521296
+1
+frs-bus:Consolidated
+2023-01-01
+2023-12-31
+06521296
+2
+frs-bus:Consolidated
+2023-01-01
+2023-12-31
+Registered number: 06521296
+Ridown Capital Limited
+Strategic Report, Directors' Report and
+Financial Statements
+For The Year Ended 31 December 2024
+Ridown Capital Limited
+Contents
+Contents
+Page
+Strategic Report
+1—2
+Directors' Report
+3
+Independent Auditor's Report
+4—5
+Consolidated Statement of Income and Retained Earnings
+6
+Consolidated Balance Sheet
+=== page 10 ===
+7—8
+Company Balance Sheet
+9
+Consolidated Statement of Cash Flows
+10
+Notes to the Consolidated Statement of Cash Flows
+11
+Notes to the Financial Statements
+12—22
+Page 1
+Ridown Capital Limited
+Strategic Report
+For The Year Ended 31 December 2024
+Strategic Report
+The directors present their strategic report for the year ended 31 December 2024.
+Principal Activity
+Ridown Capital Limited is a Group of technology companies providing broadband, mobile, VOIP, Cyber security products and services to both businesses and consumers in the UK.
+Review of the Business
+The group has seen in increase in turnover of £16,649,617 (41.2%) when compared with the previous year. Gross profit has increased by 54%, with the gross margin increasing to 25.7% from 23.5%.
+Key performance indicators
+2024
+2023
+£
+£
+Turnover
+57,296,965
+406,47,348
+Cost of sales
+42,594,885
+31,112,959
+Gross Profit
+14,702,080
+9,534,389
+Operating Profit
+1,202,018
+112,258
+Over the past three years there has been a significant investment in development of go to market and Backoffice systems to ensure that the broadband services and options for used devices are more efficient, robust, and dependable. This has helped to bring in new customers, improved customer retention, and resulted in higher traffic, bigger reach, and ultimately a substantial increase in sales.
+Long Term Decisions
+The Group’s directors take a long-term view in all their decision making, either collectively or individually aiming to always uphold the highest standard of conduct. Similarly, our Board acknowledges that the business can only grow and prosper over the long-term if it understands and respects the view and needs of the company’s shareholders, customers, employees, suppliers, and other stakeholders to whom we are accountable, as well as the environment we operate within.
+Through working collaboratively with management and listening to feedback from the group’s many stakeholders, the board believes that the group is well placed for success in the long term.
+Culture and Values
+The Directors recognise that they have a significant role in ensuring that the desired culture is reflected in the values, attitudes and behaviours demonstrated throughout the Group.
+The Group is focused on people, with both customers and employees being at the heart of its business. The Group embraces diversity, flexibility, sustainability, and continuous improvement throughout the organisation.
+The Group’s culture is characterised by clear responsibility, mutual respect, and trust. Lawful conduct is integral to business activities and an important condition for maintaining a reputation for exacting standards and securing long term success.
+Delegation of Authorities
+Typically, in Groups such as Ridown Capital Ltd, the Directors fulfil their duties partly through a governance framework that delegates day to day decision making to the employees of the company. The Board recognises that such delegation needs to be part of a robust governance structure, which covers our values, how we engage with our stakeholders and how the Board assures itself that the governance structure and systems of controls to be robust.
+Consideration
+Engagement
+Workforce/Employees
+Our colleagues are the primary reason for the ongoing success of our business.
+The company’s long-term success is predicated on the commitment of our workforce.
+To maintain our competitive advantage and meet the growing demands of the environment we operate, we need a workforce which adaptive and whose skill base constantly evolves.
+We engage with our workforce to ensure we are fostering an environment that employees are happy to work-in and that best supports their well-being and have dedicated team to drive this.
+We aim to have the right staffing resource in place to ensure we are best placed to support our customer needs whilst also growing in a competitive market.
+...CONTINUED
+Page 1
+Page 2
+Ridown Capital Limited
+Strategic Report (continued)
+For The Year Ended 31 December 2024
+Review of the Business - continued
+Customers
+Customers are at the core of what we do, customer satisfaction creates brand loyalty.
+Continues positive customer engagement is vital to growing our business, with many transactions being of a one time nature keeping forefront in customer, and potential customers, is key to our success.
+Suppliers
+We work closely with our suppliers to ensure we have the highest standard of product at all times.
+We ensure we build close relationships with our suppliers where quality and speed of transaction are carefully monitored to ensure we have the best products available in timely manner for our customers.
+Regulators/Government
+We are initiative-taking with our engagement with regulators and government bodies to ensure we abiding to guidelines an aim for best-in-class.
+We engage through regular communications with relevant company representatives. We adhere to the OFCOM code of practice which exists to represent our customer interests.
+=== page 11 ===
+Community/Environment
+WeBuyAnyPhone is proud to be part of the circular economy of pre-used mobile phones.
+We aim to responsibly recycle any product that cannot be sold in order to limit the impact on the environment of disposing of devices.
+Onestream Ltd have supported schemes to allow employees the time and resource to help in their local community, for example a charity bike ride.
+Principal Risks and Uncertainties
+G
+eneral economic activity 
+Companies in the group primarily operate in the Business to Consumer market, both buying from and selling to the public through established proprietary and third-party sales platforms. Reliance on external channels are mitigated by maintaining own channels to buy and sell devices and offer broadband services. Group Companies have also invested in improving the customer journey through its own sites in the year.
+The Directors are continually monitoring for advances in broadband systems which can be implemented to ensure their service is competitive, while also managing any additional costs to make sure decisions are commercially viable and improve customer service and value.
+The second-hand tech market continues to grow and there are a large number of businesses offering second hand and refurbished tech online. The group continues to increase brand awareness whilst making sure their customers continue to have choices for their used and refurbished devices, at competitive prices.
+Changes in technology
+The Directors closely monitor technological advancements and customer needs. The mobile market is a fast-paced environment, and the Group minimizes this risk by undertaking regular trend analysis to identify market pricing and slow-moving stock. Changes in customer needs frequently present an opportunity to develop additional services, creating cross-sell opportunities with the existing customer base.
+Regulatory changes and price risk
+The Group has devised and implemented strategies and policies to adopt the introduction of the regulatory change to One Touch Switch for Broadband services and minimise the impact of any commercial pressures or compliance requirements. The ongoing switch over for landline services from analogue to digital for consumers and small businesses continues to drive demand for the services offered by the Group.
+Credit Risk
+Group policies are in place to minimise losses stemming from credit risk by reviewing the credit worthiness of customers and investing in credit control processes to reduce credit risk.
+Future Developments
+The directors have made, and will continue to make strong investment in systems, websites and customer service centres and self-help tools to ensure that they are not only increasing the services offered but improving customer satisfaction and value.
+On behalf of the board
+Mr Aaron Brown
+Director
+29 September 2025
+Page 2
+Page 3
+Ridown Capital Limited
+Company No. 06521296
+Directors' Report 
+For The Year Ended 31 December 2024
+Directors' Report
+The directors present their report and the financial statements for the year ended 31 December 2024.
+Directors
+The directors who held office during the year were as follows: 
+Mr Darren Ridge
+Mr Aaron Brown
+Matters covered in the Strategic Report
+Disclosures required under s416(4) of the Companies Act 2006 are commented upon in the Strategic Report as the directors consider them to be of strategic importance to the business.
+Statement of Directors' Responsibilities
+The directors are responsible for preparing the Strategic Report, the Directors' Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards, comprising FRS102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland', and applicable law). Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and the group and of the profit or loss of the group for that period. In preparing the financial statements the directors are required to:
+select suitable accounting policies and then apply them consistently;
+make judgments and accounting estimates that are reasonable and prudent;
+state whether applicable United Kingdom Accounting Standards, comprising FRS102, have been followed subject to any material departures disclosed and explained in the financial statements;
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company and group's transactions and disclose with reasonable accuracy at any time the financial position of the company and the group and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the company and the group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+ The directors are responsible for the maintenance and integrity of the corporate and financial information included on the company's website. Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+Statement of Disclosure of Information to Auditors
+In the case of each director in office at the date the Directors' Report is approved: 
+so far as the director is aware, there is no relevant audit information of which the company and group's auditors are unaware; and
+they have taken all the steps that they ought to have taken as directors in order to make themselves aware of any relevant audit information and to establish that the company and group's auditors are aware of that information.
+Independent Auditors
+The auditors, JWR Audit Limited, have indicated their willingness to continue in office and a resolution concerning their re-appointment will be proposed at the Annual General Meeting.
+On behalf of the board
+Mr Aaron Brown
+Director
+29 September 2025
+Page 3
+Page 4
+Independent Auditor's Report 
+ to the Members of
+Ridown Capital Limited
+Independent Auditor's Report
+Opinion
+We have audited the financial statements of 
+Ridown Capital Limited
+ (the "parent company") and its subsidiaries (the "group") for the year ended 31 December 2024 which comprise the Consolidated Profit and Loss Account, Consolidated Statement of Comprehensive Income, Consolidated Balance Sheet, Company Balance Sheet, Consolidated Cash Flow Statement and the related notes, including a summary of significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland".
+ In our opinion the financial statements:
+give a true and fair view of the state of the group's and of the parent company's affairs as at 31 December 2024 and of the group's profit/(loss) for the year then ended;
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for Opinion
+=== page 12 ===
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the Auditor's responsibilities for the audit of the financial statements section of our report. We are independent of the group and parent company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions Relating to Going Concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the group and parent company's ability to continue as a going concern for a period of at least 12 months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Other Information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor's report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on Other Matters Prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+the information given in the Strategic Report and Directors' Report for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+the Strategic Report and Directors' Report have been prepared in accordance with applicable legal requirements.
+Matters on Which We Are Required to Report by Exception
+In the light of the knowledge and understanding of the group and parent company and their environment obtained in the course of the audit, we have not identified material misstatements in the Strategic Report or the Directors' Report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion:
+adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received from branches not visited by us; or
+the parent company financial statements are not in agreement with the accounting records or returns; or
+certain disclosures of directors' remuneration specified by law are not made; or
+we have not received all the information and explanations we require for our audit.
+Page 4
+Page 5
+Independent Auditor's Report (continued) 
+ to the Members of
+Ridown Capital Limited
+Responsibilities of Directors
+As explained more fully in the Directors' Responsibilities Statement set out on page 
+3
+, the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the group and parent company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations, or have no realistic alternative but to do so.
+Auditor's Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations.
+We designed audit procedures to respond to the risk, recognising that the risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery, misrepresentations or through collusion.
+Procedures performed by the audit team included:
+- Discussions with management regarding known or suspected instances of non-compliance with laws and regulations;
+- Evaluation of controls designed to prevent and detect irregularities; and
+- Assessing journals entries as part of our planned audit approach.
+There are inherent limitations in the audit procedures described above and the further removed non-compliance with laws and regulations is from the events and transactions reflected in the financial statements, the less likely we would become aware of it.
+As in all of our audits we also addressed the risk of management override of internal controls, including testing journals and evaluating whether there was evidence of bias by the directors that represented a risk of material misstatement due to fraud.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's website www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Use Of Our Report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters that we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+Katie Wood FCA FCCA
+ (Senior Statutory Auditor)
+ for and on behalf of 
+JWR Audit Limited
+, Statutory Auditor
+29 September 2025
+Page 5
+Page 6
+Ridown Capital Limited
+Consolidated Statement of Income and Retained Earnings
+For The Year Ended 31 December 2024
+Consolidated Statement of Income and Retained Earnings
+2024
+2023
+Notes
+£
+£
+TURNOVER
+57,296,965
+40,647,348
+Cost of sales
+(
+42,594,885
+)
+(
+31,112,959
+=== page 13 ===
+)
+GROSS PROFIT
+14,702,080
+9,534,389
+Administrative expenses
+(
+13,657,274
+)
+(
+9,675,532
+)
+Other operating income
+157,212
+254,915
+OPERATING PROFIT
+4
+1,202,018
+113,772
+Profit on disposal of fixed assets
+1,069
+-
+Other interest receivable and similar income
+9
+200
+-
+Interest payable and similar charges
+10
+(
+11,489
+)
+(
+8,623
+)
+PROFIT BEFORE TAXATION
+1,191,798
+105,149
+Tax on Profit
+11
+(
+21,690
+)
+(
+21,595
+)
+PROFIT AFTER TAXATION BEING PROFIT FOR THE FINANCIAL YEAR ATTRIBUTABLE TO THE OWNERS OF THE PARENT
+1,170,108
+83,554
+OTHER COMPREHENSIVE INCOME FOR THE YEAR
+-
+-
+Prior year adjustment
+-
+(300,151
+)
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR ATTRIBUTABLE TO THE OWNERS OF THE PARENT
+1,170,108
+(
+216,597
+)
+RETAINED EARNINGS
+As at 1 January 2024
+(
+6,546,153
+)
+(
+6,329,556
+)
+Prior year adjustment
+-
+(300,151
+=== page 14 ===
+)
+As at 31 December 2024
+(
+5,376,045
+)
+(
+6,546,153
+)
+The notes on 
+pages 11 to 22
+ form part of these financial statements.
+Page 6
+Page 7
+Ridown Capital Limited
+Consolidated Balance Sheet
+As At 
+31 December 2024
+Consolidated Balance Sheet
+Registered number: 
+06521296
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Intangible Assets
+12
+2,882,969
+3,250,851
+Tangible Assets
+13
+199,392
+158,312
+Investments
+14
+100,052
+100,050
+3,182,413
+3,509,213
+CURRENT ASSETS
+Stocks
+15
+634,759
+610,890
+Debtors
+16
+8,219,189
+4,133,201
+Cash at bank and in hand
+3,630,673
+2,754,423
+12,484,621
+7,498,514
+Creditors: Amounts Falling Due Within One Year
+17
+(
+13,681,794
+)
+(
+12,088,964
+)
+NET CURRENT ASSETS (LIABILITIES)
+(
+1,197,173
+)
+(
+4,590,450
+=== page 15 ===
+)
+TOTAL ASSETS LESS CURRENT LIABILITIES
+1,985,240
+(
+1,081,237
+)
+Creditors: Amounts Falling Due After More Than One Year
+18
+(
+7,317,999
+)
+(
+5,443,310
+)
+PROVISIONS FOR LIABILITIES
+Deferred Taxation
+21
+(
+43,285
+)
+(
+21,595
+)
+NET LIABILITIES
+(
+5,376,044
+)
+(
+6,546,142
+)
+CAPITAL AND RESERVES
+Called up share capital
+23
+1
+1
+Profit and Loss Account
+(
+5,376,045
+)
+(
+6,546,153
+)
+Equity attributable to owners of the parent
+(5,376,044
+)
+(6,546,152
+)
+Non-controlling interest
+-
+10
+TOTAL EQUITY
+(5,376,044
+)
+(6,546,142
+)
+Page 7
+Page 8
+Ridown Capital Limited
+Consolidated Balance Sheet (continued)
+As At 
+31 December 2024
+On behalf of the board
+Mr Aaron Brown
+Director
+29 September 2025
+The notes on 
+pages 11 to 22
+ form part of these financial statements.
+Page 8
+Page 9
+=== page 16 ===
+Ridown Capital Limited
+Company Balance Sheet
+As At 
+31 December 2024
+Company Balance Sheet
+Registered number: 
+06521296
+2024
+2023
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Investments
+14
+101,466
+101,452
+101,466
+101,452
+CURRENT ASSETS
+Debtors
+16
+4,209,847
+5,908,736
+Cash at bank and in hand
+258,872
+465,819
+4,468,719
+6,374,555
+Creditors: Amounts Falling Due Within One Year
+17
+(
+1,697,337
+)
+(
+3,576,055
+)
+NET CURRENT ASSETS (LIABILITIES)
+2,771,382
+2,798,500
+TOTAL ASSETS LESS CURRENT LIABILITIES
+2,872,848
+2,899,952
+NET ASSETS
+2,872,848
+2,899,952
+CAPITAL AND RESERVES
+Called up share capital
+23
+1
+1
+Profit and Loss Account
+2,872,847
+2,899,951
+SHAREHOLDERS' FUNDS
+2,872,848
+2,899,952
+In accordance with section 408(3) of the Companies Act 2006, the company has not presented its own profit and loss account and the related notes. The company's loss for the year was £
+(
+27,104
+)
+ (2023: £
+(
+7,388
+)
+ loss).
+On behalf of the board
+Mr Aaron Brown
+=== page 17 ===
+Director
+29 September 2025
+The notes on 
+pages 11 to 22
+ form part of these financial statements.
+Page 9
+Page 10
+Ridown Capital Limited
+Consolidated Statement of Cash Flows
+For The Year Ended 31 December 2024
+Consolidated Statement of Cash Flows
+2024
+2023
+Notes
+£
+£
+Cash flows from operating activities
+Net cash generated from operations
+1
+2,176,575
+2,800,673
+Interest paid
+(
+11,489
+)
+(
+8,623
+)
+Net cash generated from operating activities
+2,165,086
+2,792,050
+Cash flows from investing activities
+Purchase of intangible assets
+(
+13,214
+)
+(
+205,288
+)
+Purchase of tangible assets
+(
+145,756
+)
+(
+85,326
+)
+Proceeds from disposal of tangible assets
+9,000
+-
+Purchase of investment in subsidiary undertaking
+7,506
+-
+Purchase of investment in associated undertakings and joint ventures
+(
+2
+)
+(
+50
+)
+Purchase of other fixed asset investments
+-
+(
+100,000
+)
+Net cash used in investing activities
+(
+142,466
+)
+(
+390,664
+=== page 18 ===
+)
+Cash flows from financing activities
+Repayment of bank borrowings
+(
+30,833
+)
+(
+29,190
+)
+Proceeds from new other loans
+1,500,000
+-
+Repayment of other loans
+(458,333
+)
+(499,999
+)
+Repayment of finance leases
+(
+7,817
+)
+-
+Proceeds from new loans from related parties
+175,000
+-
+Advance of new loans to joint ventures
+(
+2,224,430
+)
+(
+695,902
+)
+Advance of new loans to other participating interests
+(276,899
+)
+-
+Amount introduced by directors
+1,500,000
+-
+Amount withdrawn by directors
+(1,323,058
+)
+(289,346
+)
+Net cash used in financing activities
+(
+1,146,370
+)
+(
+1,514,437
+)
+Increase in cash and cash equivalents
+876,250
+886,949
+Cash and cash equivalents at beginning of year
+2
+2,754,423
+1,867,474
+Cash and cash equivalents at end of year
+2
+3,630,673
+2,754,423
+Page 10
+Page 11
+Ridown Capital Limited
+Notes to the Consolidated Statement of Cash Flows
+For The Year Ended 31 December 2024
+Notes to the Consolidated Statement of Cash Flows
+1.
+Reconciliation of profit for the financial year to cash generated from operations
+=== page 19 ===
+2024
+2023
+£
+£
+Profit for the financial year
+1,170,108
+83,554
+Adjustments for:
+Tax on profit
+21,690
+21,595
+Interest expense
+11,489
+8,623
+Interest income
+(
+200
+)
+-
+Amortisation of intangible assets
+451,415
+473,395
+Depreciation of tangible assets
+131,541
+143,008
+Profit on disposal of tangible assets
+(1,069
+)
+-
+Movements in working capital:
+Increase in stocks
+(
+23,869
+)
+(
+131,878
+)
+(Increase)/decrease in trade and other debtors
+(
+1,286,965
+)
+1,045,115
+Increase in trade and other creditors
+1,702,435
+1,157,261
+Net cash generated from operations
+2,176,575
+2,800,673
+2.
+Cash and cash equivalents
+Cash and cash equivalents, as stated in the Statement of Cash Flows, relates to the following items in the Balance Sheet:
+2024
+2023
+£
+£
+Cash at bank and in hand
+3,630,673
+2,754,423
+3.
+Analysis of changes in net funds
+As at 1 January 2024
+Cash flows
+Acquisition and disposal of subsidiaries
+New finance leases
+As at 31 December 2024
+£
+£
+£
+£
+£
+=== page 20 ===
+Cash at bank and in hand
+2,754,423
+868,734
+7,516
+-
+3,630,673
+Finance leases
+-
+7,817
+-
+(34,112
+)
+(26,295
+)
+Debts falling due within one year
+(
+488,333
+)
+(807,381
+)
+(5,000
+)
+-
+(
+1,300,714
+)
+Debts falling due after more than one year
+(43,310
+)
+(688,453
+)
+(50,000
+)
+-
+(781,763
+)
+2,222,780
+(619,283
+)
+(47,484
+)
+(34,112
+)
+1,521,901
+Page 11
+Page 12
+Ridown Capital Limited
+Notes to the Financial Statements
+For The Year Ended 31 December 2024
+Notes to the Financial Statements
+1.
+General Information
+Ridown Capital Limited
+ is a private company, limited by shares, incorporated in England & Wales, registered number 
+06521296
+. The registered office is Ridown Building, Fulcrum 2, Solent Way, Whiteley, Fareham, Hampshire, PO15 7FN.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland'' and the Companies Act 2006.
+2.2.
+Basis Of Consolidation
+The group consolidated financial statements include the financial statements of the company and all of its subsidiary undertakings together with the group’s share of the results of associates made up to 31 December 2024.
+A subsidiary is an entity controlled by the group. Control is the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities. Where the group owns less than 50% of the voting powers of an entity but controls the entity by virtue of an agreement with other investors which give it control of the financial and operating policies of the entity, it accounts for that entity as a subsidiary.
+Where a subsidiary has different accounting policies to the group, adjustments are made to those subsidiary financial statements to apply the group’s accounting policies when preparing the consolidated financial statements.
+An associate is an entity, being neither a subsidiary nor a joint venture, in which the group holds a long-term interest and where the group has significant influence. The group considers that it has significant influence where it has the power to participate in the financial and operating decisions of the associate. The results of associates are accounted for using the equity method of accounting.
+Any subsidiary undertakings or associates sold or acquired during the year are included up to, or from, the dates of change of control or change of significant influence respectively.
+Where control of a subsidiary is lost, the gain or loss is recognised in the consolidated income statement. The cumulative amounts of any exchange differences on translation, recognised in equity, are not included in the gain or loss on disposal and are transferred to retained earnings. The gain or loss also includes amounts included in other comprehensive income that are required to be reclassified to profit or loss but excludes those amounts that are not required to be reclassified.
+Where control of a subsidiary is achieved in stages, the initial acquisition that gave the group control is accounted for as a business combination. Thereafter where the group increases its controlling interest in the subsidiary the transaction is treated as a transaction between equity holders. Any difference between the fair value of the consideration paid and the carrying amount of the non-controlling interest acquired is recognised directly in equity. No changes are made to the carrying value of assets, liabilities or provisions for contingent liabilities.
+=== page 21 ===
+2.3.
+Business Combinations
+Business combinations are accounted for by applying the purchase method.
+The cost of a business combination is the fair value of the consideration given, liabilities incurred or assumed and of equity instruments issued plus the costs directly attributable to the business combination. Where control is achieved in stages the cost is the consideration at the date of each transaction.
+Contingent consideration is initially recognised at estimated amount where the consideration is probable and can be measured reliably. Where (i) the contingent consideration is not considered probable or cannot be reliably measured but subsequently becomes probable and measurable or (ii) contingent consideration previously measured is adjusted, the amounts are recognised as an adjustment to the cost of the business combination.
+On acquisition of a business, fair values are attributed to the identifiable assets, liabilities and contingent liabilities unless the fair value cannot be measured reliably, in which case the value is incorporated in goodwill. Intangible assets are only recognised separately from goodwill where they are separable and arise from contractual or other legal rights. Where the fair value of contingent liabilities cannot be reliably measured they are disclosed on the same basis as other contingent liabilities.
+2.4.
+Financial Reporting Standard 102 - Reduced Disclosure Exemptions
+The parent company has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+the requirements of Section 7 Statement of Cash Flows and Section 3 Financial Statement Presentation paragraph 3.17 (d);
+the requirements of Section 11 Financial Instruments paragraphs 11.42, 11.44, 11.45, 11.47, 11.48 (a) (iii), 11.48 (a) (iv), 11.48 (b) and 11.48 (c);
+the requirements of Section 12 Other Financial Instruments Issues paragraphs 12.27, 12.29 (a), 12.29 (b), 12.29A and 12.30;
+the requirements of Section 26 Share-based Payment paragraphs 26.18 (b), 26.19 to 26.21 and 26.23;
+the requirements of Section 33 Related Party Disclosures paragraph 33.7.
+Page 12
+Page 13
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+2.5.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts and value added taxes. Turnover includes revenue earned from the sale of goods and from the rendering of services. Turnover is reduced for estimated customer returns, rebates and other similar allowances.
+Sale of goods
+Turnover from the sale of goods is recognised when the significant risks and rewards of ownership of the goods has transferred to the buyer. This is usually at the point that the customer has signed for the delivery of the goods.
+Rendering of services
+Turnover from the rendering of services is recognised by reference to the stage of completion of the contract. The stage of completion of a contract is measured by comparing the costs incurred for work performed to date to the total estimated contract costs. Turnover is only recognised to the extent of recoverable expenses when the outcome of a contract cannot be estimated reliably.
+2.6.
+Intangible Fixed Assets and Amortisation - Goodwill
+Goodwill represents the excess of the cost of a business combination over the fair value of the group’s share of the identifiable net assets, liabilities and contingent liabilities acquired.
+Goodwill arising on the acquisition of subsidiaries is included in Intangible Assets. Goodwill arising on the acquisition of associates and joint ventures is included in the related equity accounted investment value.
+Goodwill is amortised over its expected useful life which is estimated to be 10 years.
+Goodwill is assessed for impairment when there are indicators of impairment and any impairment is charged to the profit and loss account. No reversals of impairment are recognised.
+2.7.
+Intangible Fixed Assets and Amortisation - Other Intangible
+Intangible assets are initially measured at cost. After intial recognition, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+Development costs are being amortised evenly over their estimated useful life of ten years
+Other investments, such as domains and trademarks are amortised to profit and loss account over its estimated economic life of 10 years.
+2.8.
+Research and Development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research is recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised to ... on a straight line basis over their expected useful economic lives, which range from ... to ... years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project the expenditure is treated as if it were all incurred in the research phase only.
+2.9.
+Tangible Fixed Assets and Depreciation 
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Plant & Machinery
+33% on cost
+Motor Vehicles
+25% on cost
+Fixtures & Fittings
+15% & 25% on cost
+Computer Equipment
+33%, 25%, 20% on cost and 20% reducing balance
+2.10.
+Investments
+Company
+Investments in subsidiaries
+Investment in a subsidiary companies are held at cost less accumulated impairment losses.
+Investments in joint ventures
+Investment in a subsidiary companies are held at cost less accumulated impairment losses.
+Page 13
+Page 14
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+2.11.
+Leasing and Hire Purchase Contracts
+Assets obtained under finance leases are capitalised as tangible fixed assets. Assets acquired under finance leases are depreciated over the shorter of the lease term and their useful lives. Assets acquired under hire purchase contracts are depreciated over their useful lives.  Finance leases are those where substantially all of the benefits and risks of ownership are assumed by the group.  Obligations under such agreements are included in the creditors net of the finance charge allocated to future periods. The finance element of the rental payment is charged to the profit and loss account so as to produce a constant periodic rate of charge on the net obligation outstanding in each period.
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor are charged to the profit and loss account as incurred.
+2.12.
+Stocks and Work in Progress
+=== page 22 ===
+Stocks and work in progress are valued at the lower of cost and net realisable value after making due allowance for obsolete and slow-moving stocks.
+Cost is determined using the first-in, first-out method. Cost includes all direct costs and an appropriate proportion of fixed and variable overheads.
+Work in progress is reflected in the accounts on a contract by contract basis by recording turnover and related costs as contract activity progresses.
+At the end of each reporting period stocks are assessed for impairment. If an item of stock is impaired, the identified stock is reduced to its selling price less costs to complete and sell and an impairment charge is recognised in the profit and loss account. Where a reversal of the impairment is required the impairment charge is reversed, up to the original impairment loss, and is recognised as a credit in the profit and loss account.
+2.13.
+Cash and Cash Equivalents
+Cash and cash equivalents are basic financial assets and include cash in hand and deposits held at call with banks, other short-term highly liquid investments that mature in no more than three months from the date of acquisition and are readily convertible to a known amount of cash with insignificant risk of change in value, and bank overdrafts.
+2.14.
+Foreign Currencies
+Monetary assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at the balance sheet date.  Transactions in foreign currencies are translated into sterling at the rate ruling on the date of the transaction.  Exchange differences are taken into account in arriving at the operating profit.
+2.15.
+Taxation
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit as reported in the statement of comprehensive income because of items of income or expense that are taxable or deductible in other years and items that are never taxable or deductible. The group's liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the end of the reporting period.
+Deferred tax is recognised on timing differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit. Deferred tax liabilities are generally recognised for all taxable timing differences. Deferred tax assets are generally recognised for all deductible temporary differences to the extent that it is probable that taxable profits will be available against which those deductible timing differences can be utilised. The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period in which the liability is settled or the asset realised, based on tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period. Deferred tax liabilities are presented within provisions for liabilities and deferred tax assets within debtors. The measurement of deferred tax liabilities and assets reflect the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+Current and deferred tax are recognised in profit or loss for the year, except when they relate to items that are recognised in other comprehensive income or directly in equity, in which case current and deferred tax are recognised in other comprehensive income or directly in equity respectively.
+Page 14
+Page 15
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+3.
+Other Operating Income
+2024
+2023
+£
+£
+Other operating income
+157,212
+254,915
+157,212
+254,915
+4.
+Operating Profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Bad debts
+602,752
+312,012
+Depreciation of tangible fixed assets
+131,541
+143,008
+Amortisation of intangible fixed assets
+451,415
+473,395
+5.
+Auditor's Remuneration
+Remuneration received by the group's auditors and their associates during the year was as follows:
+2024
+2023
+£
+£
+Audit Services
+Audit of the group and company's financial statements
+17,500
+18,600
+6.
+Staff Costs
+Staff costs, including directors' remuneration, were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+3,729,688
+3,333,659
+=== page 23 ===
+Social security costs
+351,853
+319,484
+Other pension costs
+72,603
+62,714
+4,154,144
+3,715,857
+7.
+Average Number of Employees
+Average number of employees, including directors, during the year was as follows:
+Group
+Company
+2024
+2023
+2024
+2023
+Directors
+1
+1
+-
+-
+Staff
+95
+102
+-
+-
+96
+103
+-
+-
+8.
+Directors' remuneration
+2024
+2023
+£
+£
+Emoluments
+74,006
+91,357
+Company contributions to money purchase pension schemes
+991
+1,321
+74,997
+92,678
+Page 15
+Page 16
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+9.
+Interest Receivable and Similar Income
+2024
+2023
+£
+£
+Other interest receivable type A
+200
+-
+10.
+Interest Payable and Similar Charges
+2024
+2023
+£
+£
+Bank loans and overdrafts
+8,432
+8,623
+Finance charges payable under finance leases and hire purchase contracts
+1,881
+=== page 24 ===
+-
+Late payment tax charges
+1,176
+-
+11,489
+8,623
+11.
+Tax on Profit
+The tax charge on the profit for the year was as follows:
+Tax Rate
+2024
+2023
+2024
+2023
+£
+£
+Current tax
+UK Corporation Tax
+25.0%
+25.0%
+-
+-
+Deferred Tax
+Deferred taxation
+21,690
+21,595
+Total tax charge for the period
+21,690
+21,595
+The actual charge for the year can be reconciled to the expected charge for the year based on the profit and the standard rate of corporation tax as follows:
+2024
+2023
+£
+£
+Profit before tax
+1,191,798
+105,149
+Tax on profit at 25% (UK standard rate)
+297,949
+26,287
+Goodwill/depreciation not allowed for tax
+145,472
+80,568
+Expenses not deductible for tax purposes
+1,672
+5,389
+Tax losses utilised
+(
+541,342
+)
+(
+322,050
+)
+Capital allowances
+(
+48,661
+)
+(
+23,837
+)
+Short term timing differences
+21,690
+21,595
+Tax losses unutilised carried forward
+149,644
+233,643
+Current tax from unrecognised tax loss or credit
+(
+4,734
+)
+=== page 25 ===
+-
+Total tax charge for the period
+21,690
+21,595
+Page 16
+Page 17
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+12.
+Intangible Assets
+Group
+Goodwill
+Development Costs
+Total
+£
+£
+£
+Cost
+As at 1 January 2024
+2,941,314
+1,626,112
+4,567,426
+Additions
+70,319
+13,214
+83,533
+As at 31 December 2024
+3,011,633
+1,639,326
+4,650,959
+Amortisation
+As at 1 January 2024
+874,124
+442,451
+1,316,575
+Provided during the period
+294,131
+157,284
+451,415
+As at 31 December 2024
+1,168,255
+599,735
+1,767,990
+Net Book Value
+As at 31 December 2024
+1,843,378
+1,039,591
+2,882,969
+As at 1 January 2024
+2,067,190
+1,183,661
+3,250,851
+Company
+The company had no intangible fixed assets as at 31 December 2024 or 31 December 2023.
+13.
+Tangible Assets
+Group
+Plant & Machinery
+Motor Vehicles
+Fixtures & Fittings
+Computer Equipment
+Total
+£
+£
+£
+£
+£
+Cost
+As at 1 January 2024
+=== page 26 ===
+72,528
+-
+164,961
+376,303
+613,792
+Additions
+-
+46,640
+50,069
+83,159
+179,868
+Disposals
+-
+-
+(
+23,964
+)
+-
+(
+23,964
+)
+Other
+-
+-
+-
+684
+684
+As at 31 December 2024
+72,528
+46,640
+191,066
+460,146
+770,380
+Depreciation
+As at 1 January 2024
+62,693
+-
+105,283
+287,504
+455,480
+Provided during the period
+9,835
+11,660
+54,514
+55,532
+131,541
+Disposals
+-
+-
+(
+16,033
+)
+-
+(
+16,033
+)
+As at 31 December 2024
+72,528
+11,660
+143,764
+343,036
+570,988
+Net Book Value
+As at 31 December 2024
+-
+34,980
+47,302
+117,110
+199,392
+As at 1 January 2024
+=== page 27 ===
+9,835
+-
+59,678
+88,799
+158,312
+Company
+The company had no tangible fixed assets as at 31 December 2024 or 31 December 2023.
+Page 17
+Page 18
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+14.
+Investments
+Group
+Joint Ventures
+Unlisted
+Total
+£
+£
+£
+Cost
+As at 1 January 2024
+50
+100,000
+100,050
+Additions
+2
+-
+2
+As at 31 December 2024
+52
+100,000
+100,052
+Provision
+As at 1 January 2024
+-
+-
+-
+As at 31 December 2024
+-
+-
+-
+Net Book Value
+As at 31 December 2024
+52
+100,000
+100,052
+As at 1 January 2024
+50
+100,000
+100,050
+Company
+Subsidiaries
+Joint Ventures
+Unlisted
+Total
+£
+£
+£
+£
+Cost
+As at 1 January 2024
+1,402
+50
+100,000
+101,452
+Additions
+12
+2
+=== page 28 ===
+-
+14
+As at 31 December 2024
+1,414
+52
+100,000
+101,466
+Provision
+As at 1 January 2024
+-
+-
+-
+-
+As at 31 December 2024
+-
+-
+-
+-
+Net Book Value
+As at 31 December 2024
+1,414
+52
+100,000
+101,466
+As at 1 January 2024
+1,402
+50
+100,000
+101,452
+Investments in subsidiary and associate undertakings are recognised at cost.
+Subsidiaries
+Details of the group's subsidiaries as at 31 December 2024 are as follows:
+Name of undertaking
+Registered Office
+Class of shares held
+Direct holding
+Indirect holding
+CyberSentry Limited
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+100.00
+%
+-
+Evolve Business Limited
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+100.00
+%
+-
+Hosted Business Limitred
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+100.00
+%
+-
+MyScore Limited
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+100.00
+%
+-
+...CONTINUED
+Page 18
+Page 19
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+Onestream Limited
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+=== page 29 ===
+100.00
+%
+-
+Phones4u.com Mobile Limited
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+100.00
+%
+-
+Webuyanyphone Limited
+Ridown Building Fulcrum, 2 Solent Way, Whilteley, Fareham, Hampshire, PO15 7FN
+Ordinary
+100.00
+%
+-
+The aggregate capital and reserves and the result for the year of the subsidiaries listed above was as follows:
+Capital and Reserves
+Profit/(loss)
+£
+£
+CyberSentry Limited
+(
+518,882
+)
+(
+87,023
+)
+Evolve Business Limited
+(
+247,986
+)
+(
+4,478
+)
+Hosted Business Limitred
+(
+958,023
+)
+(
+437,411
+)
+Onestream Limited
+(
+6,126,292
+)
+68,654
+Phones4u.com Mobile Limited
+(
+87,489
+)
+(
+35,421
+)
+Webuyanyphone Limited
+(
+386,139
+)
+1,674,640
+Under section 479C of the Companies Act 2006, 
+Ridown Capital Limited
+, registration number 
+06521296
+, being the parent undertaking has guaranteed the liabilities of the following subsidiaries in order that they qualify for the exemption from audit under section 479A of the Companies Act 2006 in respect of the year ended 31 December 2024:
+Name of undertaking
+Registered Number
+CyberSentry Limited
+10048405
+Evolve Business Limited
+10962685
+Hosted Business Limitred
+=== page 30 ===
+10681571
+Phones4u.com Mobile Limited
+12342910
+Joint Ventures
+Details of the group's joint ventures as at 31 December 2024 are as follows:
+Name of undertaking
+Registered Office
+Class of shares held
+Direct holding
+Indirect holding
+Onehive Limited
+Ridown Building, Fulcrum 2 Solent Way, Whiteley, Hampshire, United Kingdom, PO15 7FN
+Ordinary
+50.00
+%
+-
+Southern Air Charter Limited
+Larch House, Parklands Business Park, Denmead, Hampshire, United Kingdom, PO7 6XP
+Ordinary
+50.00
+%
+-
+15.
+Stocks
+2024
+2023
+£
+£
+Stock
+634,759
+610,890
+Page 19
+Page 20
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+16.
+Debtors
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Due within one year
+Trade debtors
+1,135,205
+835,083
+-
+-
+Amounts owed by group undertakings
+-
+-
+264,725
+775,979
+Amounts owed by participating interests
+3,197,231
+695,902
+3,197,231
+695,902
+Other debtors
+3,886,753
+2,902,216
+747,891
+649,735
+8,219,189
+=== page 31 ===
+4,433,201
+4,209,847
+2,121,616
+Due after more than one year
+Amounts owed by group undertakings
+-
+(300,000
+)
+-
+-
+Other debtors
+-
+-
+-
+3,787,120
+-
+(
+300,000
+)
+-
+3,787,120
+8,219,189
+4,133,201
+4,209,847
+5,908,736
+17.
+Creditors: Amounts Falling Due Within One Year
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Net obligations under finance lease and hire purchase contracts
+7,179
+-
+-
+-
+Trade creditors
+3,851,642
+2,627,373
+21,420
+-
+Bank loans and overdrafts
+40,000
+30,000
+-
+-
+Other loans
+785,714
+458,333
+-
+-
+Amounts owed to group undertakings
+-
+-
+400,000
+-
+Amounts owed to participating interests
+475,000
+-
+-
+-
+Other creditors
+4,838,452
+5,639,154
+=== page 32 ===
+1,275,085
+3,575,263
+Corporation tax
+(
+200
+)
+-
+-
+-
+Taxation and social security
+1,611,435
+1,531,718
+-
+-
+Accruals and deferred income
+2,072,572
+1,802,386
+832
+792
+13,681,794
+12,088,964
+1,697,337
+3,576,055
+18.
+Creditors: Amounts Falling Due After More Than One Year
+Group
+2024
+2023
+£
+£
+Net obligations under finance lease and hire purchase contracts
+19,116
+-
+Bank loans
+17,477
+43,310
+Other loans
+764,286
+-
+Other creditors
+6,517,120
+5,400,000
+7,317,999
+5,443,310
+Page 20
+Page 21
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+19.
+Loans
+An analysis of the maturity of loans is given below:
+Group
+2024
+2023
+£
+£
+Amounts falling due within one year or on demand:
+Bank loans
+40,000
+30,000
+Other loans
+785,714
+458,333
+1,300,714
+488,333
+Group
+2024
+2023
+£
+=== page 33 ===
+£
+Amounts falling due between one and five years:
+Bank loans
+17,477
+43,310
+Other loans
+764,286
+-
+781,763
+43,310
+20.
+Obligations Under Finance Leases and Hire Purchase
+Group
+2024
+2023
+£
+£
+The future minimum finance lease payments are as follows:
+Not later than one year
+10,580
+-
+Later than one year and not later than five years
+22,041
+-
+32,621
+-
+Less: Finance charges allocated to future periods
+6,326
+-
+26,295
+-
+21.
+Deferred Taxation
+The provision for deferred tax is made up as follows:
+2024
+2023
+£
+£
+Other timing differences
+43,285
+21,595
+22.
+Provisions for Liabilities
+Group
+Deferred Tax
+Total
+£
+£
+As at 1 January 2024
+21,595
+21,595
+Deferred taxation
+21,690
+21,690
+Balance at 31 December 2024
+43,285
+43,285
+Page 21
+Page 22
+Ridown Capital Limited
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2024
+23.
+Share Capital
+2024
+2023
+Allotted, called up and fully paid
+£
+£
+2
+=== page 34 ===
+Ordinary Shares
+ of £
+0.50
+ each
+1
+1
+24.
+Pension Commitments
+The group operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the group in an independently administered fund.
+During the year the charge to the profit and loss account in respect of defined contribution schemes was £72,603 (2023: £62,714).
+At the balance sheet date contributions of £3,396 (2023 - £163) were due to the fund and are included in creditors.
+25.
+Reserves
+Group
+The groups capital and reserves are as follows:
+Share Capital
+Called up share capital represents the nominal value of the shares issued.
+Profit and Loss account
+Includes all current and prior period retained profit and losses. 
+26.
+Related Party Disclosures
+The group has taken advantage of exemption, under 33.1A of the Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland", not to disclose transactions with wholly owned subsidiaries within the group.
+During the year companies in the group paid consultancy and management charges of £1,289,562 (2023 - £945,011) to Ridown Group Limited a company controlled by Mr Ridge and Mr Brown. At the year end the balances owed to group Companies by Ridown Group Limited totalled £162,214 (2023 - £508,594). 
+27.
+Controlling Parties
+The company has no controlling party
+Page 22

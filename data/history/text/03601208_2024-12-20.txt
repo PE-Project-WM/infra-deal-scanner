@@ -1,0 +1,1723 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2024-05-31
+2024-05-31
+0
+0
+true
+false
+564
+true
+true
+true
+true
+true
+2023-06-01
+false
+true
+660
+03601208
+2023-06-01
+2024-05-31
+03601208
+2022-06-01
+2023-05-31
+03601208
+2024-05-31
+03601208
+2023-05-31
+03601208
+2022-06-01
+03601208
+c:Director1
+2023-06-01
+2024-05-31
+03601208
+c:Director2
+2023-06-01
+2024-05-31
+03601208
+c:Director3
+2023-06-01
+2024-05-31
+03601208
+c:Director4
+2023-06-01
+2024-05-31
+03601208
+c:Director5
+2023-06-01
+2024-05-31
+03601208
+c:RegisteredOffice
+2023-06-01
+2024-05-31
+03601208
+c:Agent1
+2023-06-01
+2024-05-31
+03601208
+d:FurnitureFittings
+2023-06-01
+2024-05-31
+03601208
+d:FurnitureFittings
+2024-05-31
+03601208
+d:FurnitureFittings
+2023-05-31
+03601208
+=== page 2 ===
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03601208
+d:PatentsTrademarksLicencesConcessionsSimilar
+2023-06-01
+2024-05-31
+03601208
+d:PatentsTrademarksLicencesConcessionsSimilar
+2024-05-31
+03601208
+d:PatentsTrademarksLicencesConcessionsSimilar
+2023-05-31
+03601208
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-06-01
+2024-05-31
+03601208
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-05-31
+03601208
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-05-31
+03601208
+d:Goodwill
+2023-06-01
+2024-05-31
+03601208
+d:Goodwill
+2024-05-31
+03601208
+d:Goodwill
+2023-05-31
+03601208
+d:CurrentFinancialInstruments
+2024-05-31
+03601208
+d:CurrentFinancialInstruments
+2023-05-31
+03601208
+d:CurrentFinancialInstruments
+3
+2024-05-31
+03601208
+d:CurrentFinancialInstruments
+3
+2023-05-31
+03601208
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-05-31
+03601208
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-05-31
+03601208
+d:ReportableOperatingSegment1
+2023-06-01
+2024-05-31
+03601208
+d:ReportableOperatingSegment1
+2022-06-01
+2023-05-31
+03601208
+d:UKTax
+2023-06-01
+2024-05-31
+03601208
+d:UKTax
+=== page 3 ===
+2022-06-01
+2023-05-31
+03601208
+d:ShareCapital
+2024-05-31
+03601208
+d:ShareCapital
+2023-05-31
+03601208
+d:ShareCapital
+2022-06-01
+03601208
+d:CapitalRedemptionReserve
+2023-06-01
+2024-05-31
+03601208
+d:OtherMiscellaneousReserve
+2024-05-31
+03601208
+d:OtherMiscellaneousReserve
+2023-05-31
+03601208
+d:OtherMiscellaneousReserve
+2022-06-01
+03601208
+d:RetainedEarningsAccumulatedLosses
+2023-06-01
+2024-05-31
+03601208
+d:RetainedEarningsAccumulatedLosses
+2024-05-31
+03601208
+d:RetainedEarningsAccumulatedLosses
+2022-06-01
+2023-05-31
+03601208
+d:RetainedEarningsAccumulatedLosses
+2023-05-31
+03601208
+d:RetainedEarningsAccumulatedLosses
+2022-06-01
+03601208
+d:AcceleratedTaxDepreciationDeferredTax
+2024-05-31
+03601208
+d:AcceleratedTaxDepreciationDeferredTax
+2023-05-31
+03601208
+c:OrdinaryShareClass1
+2023-06-01
+2024-05-31
+03601208
+c:OrdinaryShareClass1
+2024-05-31
+03601208
+c:FRS102
+2023-06-01
+2024-05-31
+03601208
+c:Audited
+2023-06-01
+2024-05-31
+03601208
+c:FullAccounts
+2023-06-01
+2024-05-31
+03601208
+c:PrivateLimitedCompanyLtd
+2023-06-01
+2024-05-31
+=== page 4 ===
+03601208
+d:WithinOneYear
+2024-05-31
+03601208
+d:WithinOneYear
+2023-05-31
+03601208
+d:BetweenOneFiveYears
+2024-05-31
+03601208
+d:BetweenOneFiveYears
+2023-05-31
+03601208
+d:MoreThanFiveYears
+2024-05-31
+03601208
+d:MoreThanFiveYears
+2023-05-31
+03601208
+d:PatentsTrademarksLicencesConcessionsSimilar
+d:ExternallyAcquiredIntangibleAssets
+2023-06-01
+2024-05-31
+03601208
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:ExternallyAcquiredIntangibleAssets
+2023-06-01
+2024-05-31
+03601208
+d:Goodwill
+d:ExternallyAcquiredIntangibleAssets
+2023-06-01
+2024-05-31
+03601208
+2
+2023-06-01
+2024-05-31
+03601208
+d:ExternallyAcquiredIntangibleAssets
+2023-06-01
+2024-05-31
+03601208
+d:Goodwill
+d:OwnedIntangibleAssets
+2023-06-01
+2024-05-31
+03601208
+d:PatentsTrademarksLicencesConcessionsSimilar
+d:OwnedIntangibleAssets
+2023-06-01
+2024-05-31
+03601208
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:OwnedIntangibleAssets
+2023-06-01
+2024-05-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+03601208
+WHP TELECOMS LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 MAY 2024
+WHP TELECOMS LIMITED
+COMPANY INFORMATION
+Directors
+M J Cheyne
+P N Hullah
+=== page 5 ===
+D C Humphreys
+R M E Potter
+C Tracey
+Registered number
+03601208
+Registered office
+401 Faraday Street
+Birchwood
+Warrington
+WA3 6GA
+Independent auditor
+CLA Evelyn Partners Limited
+Chartered Accountants
+ & 
+Statutory Auditor
+14th Floor
+103 Colmore Row
+Birmingham
+B3 3AG
+Bankers
+HSBC UK
+2-4 St Anns Square
+Manchester
+M2 7HD
+Solicitors
+Addleshaw Goddard
+1 St Peter's Square
+Manchester
+M2 3DE
+WHP TELECOMS LIMITED
+CONTENTS
+Page
+Strategic Report
+1 - 3
+Directors' Report
+4 - 5
+Directors' Responsibilities Statement
+6
+Independent Auditor's Report
+7 - 10
+Statement of Comprehensive Income
+11
+Balance Sheet
+12
+Statement of Changes in Equity
+13
+Notes to the Financial Statements
+14 - 31
+WHP TELECOMS LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 MAY 2024
+Introduction
+The directors present the strategic report for the year ended 31 May 2024.
+The Company provides high quality end to end services within the mobile and fixed line telecommunications network and infrastructure sector including acquisition, design, deployment and maintenance of sites. The service offering is unique in this market space and allows the company to trade with all the mobile network operators, as well as key equipment vendors, tower companies, infrastructure owners and managed service providers.
+Promoting the success of the company
+The Parent Group comprises five main trading companies in addition to several intermediate holding companies.
+The Board of Directors, in line with their duties under s172 of the Companies Act 2006, act in a way they consider, in good faith, would be most likely to promote the success of the Company for the benefit of its members as a whole, and in doing so have regard to a range of matters when making decisions for the long term. Key decisions and matters that are of strategic importance to the Company are appropriately informed by s172 factors.
+Details of the Company’s key stakeholders and how we engage with them are set out below.
+Shareholders
+Maximising the long-term value for our shareholders, comprising both private equity investment and management, is very important. We have monthly meetings with our main investor which cover not only financial performance but also operational outputs and strategic options available to the wider Group. The Company is the largest trading entity within the wider Group and as such the management of its operations and regulator engagement with the Group's main investor plays a key role in the maximisation of shareholder value.
+Colleagues
+Our people are crucial to our success as a company and, with that in mind, we have continued to engage closely with them and invest in appropriate training and development. We ensure that all appropriate policies and procedures are in place to promote employee wellbeing and that employees have access to support where needed, be that via health schemes or confidential whistleblowing lines. The wider group has obtained Investors In People status and also introduced a group-wide staff incentive scheme linked to both the Group’s financial performance and individual appraisals, which in turn are based on agreed objectives and group-wide values and behaviours.
+Customers
+We strive to ensure that our customers receive class-leading service across their networks, built on our longstanding and deeply embedded relationships. We use our knowledge of their networks to ensure that our service proposition and programme management best serves their needs and that our detailed customer account plans are aligned with their requirements.
+Suppliers
+We engage closely with our suppliers to ensure that our relationships are mutually beneficial and long lasting. We onboard suppliers in a controlled manner to ensure they have appropriate insurances, risk assessments and qualifications that will allow them to be best placed to help us deliver our customers’ requirements across their networks.
+Page 1
+WHP TELECOMS LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+=== page 6 ===
+Communities 
+We aim to work closely with the communities in which we operate and have ensured that where possible we support charitable work carried out by our employees. We also ensure that all staff are aware of the Modern Slavery Act 2015 policy and statement.
+In terms of supporting the environment, the Company is ESOS (Energy Savings Opportunity Scheme) compliant and ensures that where practicable, its office energy requirements are sourced from carbon-free suppliers.
+Government and regulators 
+A key area of focus for the business is ensuring compliance with all applicable laws and regulations. To that end we have a dedicated Safety, Health, Environment and Quality (SHEQ) department which ensures compliance and that the wider group also retains all applicable ISO accreditations including 9001, 14001, 27001 and 45001. The company is also Safe Contractor and Achilles registered.
+The board is kept fully abreast of any legal and regulatory developments as and when they arise.
+Business review
+The company reported another year of record growth with revenues of £183.3m up £26m (16.5%) vs prior year. The increase reflected the increase in 5G rollout together with work on the Single Rural Network which saw the company deliver more than 50% of the sites.
+Investment within resources to help deliver the above and future growth, resulted in average headcount increasing by 96 to 665. Coupled with changes in project and client mix and a reduction in works on the Scottish government towers project, operating profit of £9.7m was up £1.5m as a result of the increased turnover.
+Principal risks and uncertainties
+Principal risks and uncertainties include competition and loss of customers, loss of key employees, cost inflation, working capital management, public and employer liability, health and safety, I.T. failure and loss of reputation.
+Competitors are monitored for new products and services. Great attention is paid to customer service, with regular and frequent visits to customers by company representatives (both sales and technical).
+The Company sets out to attract capable employees, and to retain and motivate them once they are employed. It does so by a combination of offering market rates of pay and benefits in kind, and training, together with involvement in some of the decision making process, and consultation about major changes.
+The Company's cost base is regularly and rigorously reviewed by management to ensure an efficient cost environment.
+Working capital is managed through regular review of the Company's cash position, its cashflow requirements to meet future obligations and management of the debtors cycle, including credit control policies.
+Product, public and employee liability are covered by the company's insurances, which are arranged by
+independent brokers with reputable underwriters, and the cover is reviewed annually.
+Page 2
+WHP TELECOMS LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+The Company has a Health & Safety policy, which is reviewed annually by the Board. The directors are responsible for its implementation. Health & Safety is of paramount importance to the business.
+I.T. failure is covered by the use of standard hardware and software, which are regularly monitored and maintained by reliable outside professionals and by staff training. Computer equipment is written off very fast and renewed or updated at least every 4 years. Critical data and records are backed up daily, and stored securely off site.
+Reputational risk is managed by careful design and quality assurance processes, and compliance with industry standards. The company responds rapidly to any problems which may arise, and continuously pays close attention to customer needs, and also to UK industry codes of practice.
+The Board, having reviewed the above risk management policies and procedures, confirm that the procedures comply with the policies, and that no significant failures or weaknesses have been identified during the past year.
+Financial key performance indicators
+Management use a range of performance measures to monitor and manage the business. Key financial and non financial indicators are:
+Financial indicators: 
+∙
+Revenue per FTE £275,642 (
+2023 - £276,500
+) 
+∙
+Operating profit £9,666,325 (
+2023 - £8,170,977)
+Working Capital measurement: 
+∙
+Debtor days (ratio of trade debtors and amounts recoverable on projects to revenue): 132 days (
+2023 - 129 days
+) 
+∙
+Creditor days (ratio of trade creditors, accruals and deferred income to cost of sales): 147 days (
+2023 - 86 days
+)
+Non financial indicators: 
+∙
+Conformance against client Health & Safety requirements 
+∙
+Measurement of compliance with Health & Safety regulations and quality assurance by subcontractors 
+∙
+Output of key delivery milestones including but not limited to site access levels, quantity of design outputs (general arrangement drawings, detailed designs), site build completes, handover packs and final accounts
+This report was approved by the board
+ and signed on its behalf
+.
+D C Humphreys
+Director
+Date: 
+29 November 2024
+Page 3
+WHP TELECOMS LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 MAY 2024
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+=== page 7 ===
+ ended 
+31 May 2024
+.
+Principal activity
+The principal activity of the Company during the year was supplying professional services, project management and engineering services to the UK telecommunications and broadband industry.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+M J Cheyne
+P N Hullah
+D C Humphreys
+R M E Potter
+C Tracey
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+7,013,524
+ (2023 -
+£
+6,468,489
+)
+.
+Interim dividends were paid amounting to £Nil 
+(2023 - £41,800,000).
+Financial risk management objectives and policies
+The Company's operations expose it to a variety of financial risks that principally include the effects of changes in price risk, credit risk and liquidity risk.
+Price risk
+The Company operates under a series of framework contracts with its end clients and to agreed schedules of rates which minimise the company exposure to any significant price risk.
+Credit risk
+The Company has policies that require appropriate credit checks on customers to be made before trading commences. The nature of the company's customers are such that any credit risks are deemed low.
+Liquidity risk
+The Company's policy throughout the period has been that, to ensure continuity of funding, the repayment profiles for its borrowings is such that repayments can be adequately satisfied from forecast future cash surpluses generated from operations.
+The Company has access to a group revolving credit facility that is designed to ensure sufficient funds are available for operations and planned expansion.
+Employee involvement
+It is the Company's policy to promote the health, safety and welfare of its employees, to provide equal opportunity in recruitment, and to maximise the opportunities for the employment, retention and development of its employees. The company has continued to place a high priority on the training and development of its employees and considerable emphasis has been placed on reviewing and improving health and safety procedures.
+Page 4
+WHP TELECOMS LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+The board recognises the need for effective communication with, and the involvement of, employees to ensure good relations and the improvement of the company's performance and continue to hold briefings, training sessions, and presentations to ensure that employees are actively engaged in and effectively contribute to the principal decisions taken by the business.
+Disabled persons
+Applications for employment by disabled persons are always fully considered, bearing in mind the aptitudes of the applicant concerned. In the event of members of staff becoming disabled, every effort is made to ensure that their employment within the company continues and that the appropriate training is arranged. It is the policy of the company that the training, career development and promotion of disabled persons should, as far as possible, be identical to that of other employees.
+Future developments
+The group of which the company is part remains a key player in the delivery and roll out of new and existing telecommunications infrastructure. Whilst there are ongoing macro-economic challenges and ongoing merger discussions involving two of the main mobile network operators, the outlook continues to remain positive, despite an expected decrease in revenues over the next financial year.
+The group retains work with all key customers and since 31 May 2024, has been successful in securing a significant new long-term framework with Vodafone, as well as two new maintenance workstreams, which supports the group’s growth plans over the next three years.
+Disclosure of information to auditor
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor 
+is
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+=== page 8 ===
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor 
+is
+ aware of that information.
+Auditor
+The auditor, 
+CLA Evelyn Partners Limited
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+D C Humphreys
+Director
+Date: 
+29 November 2024
+Page 5
+WHP TELECOMS LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 MAY 2024
+The 
+directors
+are
+ responsible for preparing the
+ Strategic Report, the Directors' Report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements; and
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+=== page 9 ===
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 6
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+WHP TELECOMS LIMITED
+Opinion
+We have audited the financial statements of 
+WHP Telecoms Limited
+(the 'Company')
+ for the 
+year
+ ended 
+31 May 2024
+ which comprise the 
+Statement of Comprehensive Income, the Balance Sheet, the Statement of Changes in Equity
+ and the notes to the financial statements, including significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and 
+United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom Generally Accepted Accounting Practice)
+.
+In our opinion, the financial statements:
+∙
+give a true and fair view of the state of 
+the Company's 
+affairs as at 
+31 May 2024
+ and of 
+its 
+profit
+ for the year then ended;  
+∙
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with 
+the requirements of the Companies Act 2006
+.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit of the financial statements section of our report. We are independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the 
+directors
+’ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company
+’s ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 7
+WHP TELECOMS LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+WHP TELECOMS LIMITED
+ (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report and Financial Statements
+=== page 10 ===
+, other than the financial statements and our auditor’s report thereon. The 
+directors
+ are responsible for the other information contained within the 
+Annual Report and Financial Statements
+. Our opinion on the financial statements does not cover the other information 
+and, except to the extent otherwise explicitly stated in our report, 
+we do not express any form of assurance conclusion thereon. Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the course of the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. 
+We have nothing to report in this regard. 
+Opinions on other matters prescribed by the 
+Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic Report and the Directors’ Report
+ for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+∙
+the 
+Strategic Report and the Directors’ Report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and 
+its 
+environment obtained in the course of the audit, we have not identified material misstatements in the 
+Strategic Report or the Directors’ Report
+.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 
+2006
+ requires us to report to you if, in our opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for our audit have not been received from branches not visited by us; or
+∙
+the
+ financial statements are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+’ remuneration specified by law are not made; or
+∙
+we have not received all the information and explanations we require for our audit.
+Responsibilities of 
+directors
+As explained more fully in the Directors’ Responsibilities Statement set out on page 6, the 
+directors
+ are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+ determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the 
+directors
+ are responsible for assessing the 
+Company
+’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either intend to liquidate the 
+Company
+ or to cease operations, or have no realistic alternative but to do so. 
+Page 8
+WHP TELECOMS LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+WHP TELECOMS LIMITED
+ (CONTINUED)
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements. 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+We obtained a general understanding of the Company's legal and regulatory framework through enquiry of management concerning their understanding of relevant laws and regulations, the entity's policies and procedures regarding compliance, and how they identify, evaluate and account for litigation claims. We also drew on our existing understanding of the Company's industry and regulation.
+We understand that the Company complies with the framework through:
+=== page 11 ===
+∙
+The directors’ close involvement in the day-to-day running of the business, meaning that any litigation or claims would come to their attention directly.
+∙
+Outsourcing statutory accounts preparation and tax compliance to external experts.
+In the context of the audit, we considered those laws and regulations which determine the form and content of the financial statements; which are central to the Company's ability to conduct its business; and/or where there is a risk that failure to comply could result in material penalties. We identified the following laws and regulations as being of significance in the context of the Company:
+∙
+The Companies Act 2006 and FRS 102 in respect of the preparation and presentation of the financial statements.
+∙
+The Health and Safety at Work Act 1974.
+We performed the following specific procedures to gain evidence about compliance with the significant laws and regulations identified above:
+∙
+Making enquiries of management and reviewing board meeting minutes.
+∙
+Inspecting any correspondence with the Health and Safety Executive regarding the outcome of any inspections or enquiries.
+The senior statutory auditor led a discussion with senior members of the engagement team regarding the susceptibility of the entity’s financial statements to material misstatement, including how fraud might occur. The areas identified in this discussion were: 
+∙
+The risk that revenue may be overstated by the manipulation of accrued revenue calculations or assessments regarding the stage of completion of projects; and 
+∙
+Manipulation of the financial statements to increase revenue and/or profits via fraudulent journal entries.
+These areas were communicated to the other members of the engagement team not present at the discussion.
+Page 9
+WHP TELECOMS LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+WHP TELECOMS LIMITED
+ (CONTINUED)
+The procedures we carried out to gain evidence in the above areas included:
+∙
+Challenging management regarding the assumptions used in the estimates identified above, and comparison to post-year-end data as appropriate.
+∙
+Substantive testing of amounts recognised as recoverable on projects at year-end to underlying documentation and evidence of recoverability, to ensure recording of revenue in the correct period and appropriate valuation of amounts reported as recoverable on projects.
+∙
+Testing of manual journal entries, selected based on specific risk characteristics, to ensure they had a proper business purpose.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+Use of our report
+This report is made solely to the 
+Company
+'s members, as a body, in accordance with 
+Chapter 3 of Part 16 of the Companies Act 2006
+. Our audit work has been undertaken so that we might state to the 
+Company
+’s members those matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Benjamin Stapleton
+Senior Statutory Auditor
+for and on behalf of
+CLA Evelyn Partners Limited
+Chartered Accountants
+Statutory Auditor
+14th Floor
+103 Colmore Row
+Birmingham
+B3 3AG
+29 November 2024
+Page 10
+WHP TELECOMS LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 MAY 2024
+2024
+2023
+Note
+£
+£
+Turnover
+4
+183,301,648
+157,328,606
+=== page 12 ===
+Cost of sales
+(
+162,584,787
+)
+(
+137,700,646
+)
+Gross profit
+20,716,861
+19,627,960
+Administrative expenses
+(
+11,749,491
+)
+(
+11,456,983
+)
+Other operating income
+5
+698,955
+-
+Operating profit
+6
+9,666,325
+8,170,977
+Interest receivable and similar income
+9
+5,962
+16,395
+Interest payable and similar expenses
+10
+(
+1,980,285
+)
+(
+2,110,534
+)
+Profit before tax
+7,692,002
+6,076,838
+Tax on profit
+12
+(
+678,478
+)
+391,651
+Profit for the financial year
+7,013,524
+6,468,489
+There was no other comprehensive income for 
+2024
+(
+2023
+ - £Nil)
+.
+The notes on pages 14 to 31 form part of these 
+financial statements
+.
+Page 11
+WHP TELECOMS LIMITED
+REGISTERED NUMBER:
+03601208
+BALANCE SHEET
+AS AT 
+31 MAY 2024
+2024
+2023
+Note
+£
+£
+=== page 13 ===
+Fixed assets
+Intangible assets
+14
+1,542,363
+1,382,936
+Tangible assets
+15
+671,666
+540,233
+2,214,029
+1,923,169
+Current assets
+Stocks
+16
+316,466
+255,797
+Debtors: amounts falling due within one year
+17
+134,988,064
+112,175,751
+Bank and cash balances
+7,591,734
+3,744,602
+142,896,264
+116,176,150
+Creditors: amounts falling due within one year
+18
+(
+135,016,260
+)
+(
+115,018,810
+)
+Net current assets
+7,880,004
+1,157,340
+Net assets
+10,094,033
+3,080,509
+Capital and reserves
+Called up share capital 
+20
+18
+18
+Capital redemption reserve
+21
+83
+83
+Profit and loss account
+21
+10,093,932
+3,080,408
+Shareholders' funds
+10,094,033
+3,080,509
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+D C Humphreys
+Director
+Date: 
+29 November 2024
+The notes on pages 14 to 31 form part of these financial statements.
+Page 12
+=== page 14 ===
+WHP TELECOMS LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 MAY 2024
+Called up share capital
+Capital redemption reserve
+Profit and loss account
+Total equity
+£
+£
+£
+£
+At 1 June 2022
+18
+83
+38,411,919
+38,412,020
+Comprehensive income for the year
+Profit for the year
+-
+-
+6,468,489
+6,468,489
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+(
+41,800,000
+)
+(
+41,800,000
+)
+At 1 June 2023
+18
+83
+3,080,408
+3,080,509
+Comprehensive income for the year
+Profit for the year
+-
+-
+7,013,524
+7,013,524
+At 31 May 2024
+18
+83
+10,093,932
+10,094,033
+Page 13
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+1.
+General information
+WHP Telecoms Limited is a private company, limited by shares, domiciled and incorporated in England and Wales (Registered number: 03601208). The registered office address is Faraday Court, 401 Faraday Street, Birchwood, Warrington, WA3 6GA.
+The Company's functional and presentational currency is GBP.
+The principal activities of the Company are disclosed in the Directors' Report.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+=== page 15 ===
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 4 Statement of Financial Position;
+∙
+the requirements of Section 7 Statement of Cash Flows:
+∙
+the requirements of Section 11 Financial Instruments paragraphs 11.42, 11.44 to 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c)
+;
+∙
+the requirements of Section 26 Share-based Payment paragraphs 26.18(b), 26.19 to 26.21 and 26.23
+;
+ and
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+Whistler Topco Limited
+ as at 
+31 May 2024
+ and these financial statements may be obtained from 
+Companies House
+.
+Page 14
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.3
+Going concern
+The financial statements of the company have been prepared on a going concern basis, which assumes the company will have sufficient funds to continue to pay its debts as they fall due, and thus continue to trade for a period of not less than 12 months from the date of signing these financial statements. The directors have a reasonable expectation that the company has adequate resources to continue in operational existence for the foreseeable future based on its forecasts and projections. In making their assessment the directors have reviewed and considered the expected performance across the company's key projects using their understanding of expected volumes and pricing. They have also taken into consideration the timing of key debts when they fall due and the impact these have upon expected cash flows. This has been modelled for a period covering 12 months from the date of signing these financial statements.
+The group of which the company is part, refinanced a £15,000,000 shareholder loan during the year and now has £62,500,000 of senior debt with HSBC due for repayment 22 June 2029. The group also has an undrawn revolving credit facility of £12,500,000, which is in place until 22 June 2028.
+Having due consideration to each of the above factors, the directors have a reasonable expectation that the company has adequate resources to continue in operational existence for the foreseeable future and so the accounts are prepared on a going concern basis.
+2.4
+Turnover
+Turnover is recognised over the course of projects as activity progresses. Turnover is based on estimated total turnover (project value) and the degree of estimated stage of completion (measured as total costs incurred compared to total costs forecast to the end of the project) for each individual project. Where calculated revenue exceeds the value that has been invoiced this is disclosed as amounts recoverable on projects in debtors, where turnover is below amounts invoiced this is disclosed as payments on account in creditors.
+Profit on projects is taken as the work is carried out if the final outcome can be assessed with reasonable certainty. The profit included is calculated to reflect the proportion of the work carried out at the year end date. Full provision is made for losses on all projects in the year in which they are first foreseen.
+2.5
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.6
+Research and development expenditure
+Research expenditure is written off against profits in the year in which it is incurred. Identifiable development expenditure is capitalised to the extent that the technical, commercial and financial feasibility can be demonstrated.
+Page 15
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.7
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8
+=== page 16 ===
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer's interest in the fair value of its identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight line basis to the Statement of Comprehensive Income over its useful economic life of 20 years.
+Other intangible assets
+Intangible assets acquired separately from a business are recognised at cost and are subsequently measured at cost less accumulated amortisation and accumulated impairment losses.
+Intangible assets acquired on business combinations are recognised separately from goodwill at the acquisition date where it is probable that the expected future economic benefits that are attributable to the asset will flow to the entity and the fair value of the asset can be measured reliably; the intangible asset arises from contractual or other legal rights; and the intangible asset is separable from the entity.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+Amortisation is recognised so as to write off the cost or valuation of assets less their residual values over their useful lives on the following bases:
+Software
+-
+25% straight-line
+Development costs
+-
+25% straight-line
+2.9
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Page 16
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.9
+Tangible fixed assets (continued)
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Fixtures and fittings
+-
+25% straight-line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.10
+Impairment of fixed assets and goodwill
+At each reporting period end date, the company reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the company estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit) in prior years. A reversal of an impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+Page 17
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.11
+Stocks
+Stock is valued at the lower of cost and net realisable value after making due allowance for obsolete and slow-moving items. Work in progress includes all materials and direct costs for projects which have not substantially started. Provision is made for any irrecoverable amounts where appropriate.
+2.12
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance Sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.13
+Provisions
+Provisions are recognised when the company has a legal or constructive present obligation as a result of a past event, it is probable that the company will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+The amount recognised as a provision is the best estimate of the consideration required to settle the present obligation at the reporting end date, taking into account the risks and uncertainties surrounding the obligation. Where the effect of the time value of money is material, the amount expected to be required to settle the obligation is recognised at present value. When a provision is measured at present value, the unwinding of the discount is recognised as a finance cost in profit or loss in the period in which it arises.
+2.14
+Employee benefits
+=== page 17 ===
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are required to be recognised as part of the cost of stock or fixed assets.
+The cost of any unused holiday entitlement is recognised in the period in which the employee’s services are received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to terminate the employment of an employee or to provide termination benefits.
+Page 18
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.15
+Financial instruments
+Financial assets and financial liabilities are recognised in the Balance Sheet when the Company becomes a party to the contractual provisions of the instrument.
+Trade and other debtors and creditors are classified as basic financial instruments and measured at initial recognition at transaction price. Debtors and creditors are subsequently measured at amortised cost using the effective interest rate method. A provision is established when there is objective evidence that the Company will not be able to collect all amounts due. Where the Company has arrangements for early settlement of trade debtors via invoice discounting and this is without recourse, trade debtor balances are presented net of advances received.
+Cash and cash equivalents are classified as basic financial instruments and comprise cash in hand and at bank, short-term bank deposits with an original maturity of three months or less and bank overdrafts which are an integral part of the Company’s cash management.
+Financial liabilities and equity instruments issued by the Company are classified in accordance with the substance of the contractual arrangements entered into and the definitions of a financial liability and an equity instrument. An equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting all of its liabilities. Equity instruments issued by the Company are recorded at the proceeds received, net of direct issue costs.
+Interest bearing bank loans, overdrafts and other loans which meet the criteria to be classified as basic financial instruments are initially recorded at the present value of cash payable to the bank, which is ordinarily equal to the proceeds received net of direct issue costs. These liabilities are subsequently measured at amortised cost, using the effective interest rate method.
+Page 19
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.16
+Current and deferred taxation
+The tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the profit and loss account because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The company’s liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+The carrying amount of deferred tax assets is reviewed at each reporting end date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered. Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised. Deferred tax is charged or credited in the profit and loss account, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets and liabilities are offset when the company has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority.
+2.17
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+Page 20
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+In the application of the company’s accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods.
+Key sources of estimation uncertainty
+The estimates and assumptions which have a significant risk of causing a material adjustment to the carrying amount of assets and liabilities are as follows.
+Valuation of amounts recoverable on projects
+Amounts recoverable on projects are based on a stage of completion determined by the company on the basis of expected total revenue and expected total costs on projects. The recoverability of such amounts are subject to negotiation with customers which may cause adjustments up and down in determining final accounts.
+Estimating value in use
+Where an indication of impairment exists, the directors will carry out an impairment review to determine the recoverable amount, being the higher of fair value less cost to sell and value in use. The value in use calculation requires the directors to estimate the future cash flows expected to arise from the asset or the cash generating unit and a suitable discount rate in order to calculate present value.
+Recoverability of receivables
+The Company establishes a provision for receivables that are estimated not to be recoverable. When assessing recoverability the directors consider factors such as the ageing of the receivables, past experience of recoverability and the credit profile of individual or groups of customers.
+Determining and reassessing residual values and useful economic lives of tangible and intangible assets 
+The Company depreciates tangible assets, and amortises intangible assets, over their estimated useful lives. In determining appropriate useful lives of assets, the directors have considered historic performance as well as future expectations for factors such as expected usage of the asset, physical wear and tear, technical and commercial obsolescence and legal limitations of the usage of the asset, such as lease terms. The actual lives of these assets can vary depending on a variety of factors, including technological innovation, product life cycles and maintenance programmes.
+Judgement is applied to determine the residual values for tangible assets. When determining the residual values, the directors have assessed the amount that the company would currently obtain for the disposal of the asset, if it were already of the condition expected at the end of its useful economic life. At each reporting date, the directors have also assessed whether there have been any indicators, such as a change in how the asset is used, significant unexpected wear and tear and changes in market prices, which suggest previous estimates may differ from current expectations. Where this is the case, the residual value and/or useful life is amended and accounted for on a prospective basis.
+Page 21
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+4.
+Turnover
+The whole of turnover is attributable to the one principal activity of the company.
+2024
+2023
+£
+£
+Turnover analysed by geographical market
+United Kingdom
+183,301,648
+157,328,606
+5.
+Other operating income
+2024
+=== page 18 ===
+2023
+£
+£
+Gain on remeasurement of deferred consideration receivable
+698,955
+-
+698,955
+-
+6.
+Operating profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Depreciation of owned tangible fixed assets
+317,108
+576,960
+Impairment of owned tangible fixed assets
+-
+1,099,208
+Amortisation of intangible assets
+674,389
+564,391
+Operating lease charges
+994,965
+653,219
+7.
+Auditor's remuneration
+2024
+2023
+£
+£
+Fees payable to the Company's auditor and its associates in respect of:
+Audit of the financial statements of the company
+46,025
+43,750
+Audit of the financial statements of other group entities
+53,600
+50,950
+The Company settles auditor's fees for the entire Whistler Topco Limited group without management recharge. The charges to the Income Statement in respect of the auditor's fees for the other group entities are £53,600 
+(2023 - £50,950).
+Page 22
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+8.
+Employees
+Staff costs were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+29,958,840
+23,048,134
+Social security costs
+3,243,866
+2,585,436
+Cost of defined contribution scheme
+856,302
+822,690
+34,059,008
+26,456,260
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+=== page 19 ===
+ was as follows:
+2024
+2023
+No.
+No.
+Direct staff
+604
+515
+Administrative staff
+56
+49
+660
+564
+Directors are remunerated through a fellow subsidiary undertaking of the group headed by Whistler Topco Limited.
+9.
+Interest receivable and similar income
+2024
+2023
+£
+£
+Other interest receivable
+5,962
+16,395
+10.
+Interest payable and similar expenses
+2024
+2023
+£
+£
+Interest on invoice finance arrangements
+1,980,285
+2,110,534
+Page 23
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+11.
+Impairments
+Impairment tests have been carried out where appropriate and the following impairment losses have been recognised in profit or loss:
+2024
+2023
+£
+£
+Property, plant and equipment
+15
+-
+1,099,208
+Impairments in respect of property, plant and equipment are recognised in administrative expenses £Nil (
+2023 - £1,099,208
+)
+12.
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Current tax on profits for the year
+680,457
+-
+Adjustments in respect of previous periods
+-
+(
+391,651
+)
+Total current tax
+680,457
+(
+391,651
+)
+=== page 20 ===
+Deferred tax
+Origination and reversal of timing differences
+(
+1,979
+)
+-
+Tax on profit
+678,478
+(
+391,651
+)
+Page 24
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+12.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2023 - lower than) 
+the standard rate of corporation tax
+ in the UK of
+ 25%
+ (2023 -
+ 20
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+7,692,002
+6,076,838
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (
+2023 - 20%
+)
+1,923,001
+1,231,181
+Effects of:
+Non-tax deductible amortisation of goodwill and impairment
+168,597
+224,842
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+59,186
+366,809
+Capital allowances for year in excess of depreciation
+(
+78,440
+)
+(
+56,545
+)
+Adjustments to tax charge in respect of prior periods
+(
+249,863
+)
+(
+391,651
+)
+Effect of differences in tax rates
+-
+10,051
+Utilisation of group relief
+(
+1,144,003
+)
+=== page 21 ===
+(
+1,776,338
+)
+Total tax charge for the year
+678,478
+(
+391,651
+)
+Factors that may affect future tax charges
+There are no factors which may affect future tax charges.
+13.
+Dividends
+2024
+2023
+£
+£
+Dividends declared £Nil 
+(2023: £2,322,222 per Ordinary B share)
+-
+41,800,000
+Page 25
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+14.
+Intangible assets
+Software
+Software development costs
+Goodwill
+Total
+£
+£
+£
+£
+Cost
+At 1 June 2023
+185,520
+2,898,787
+500,000
+3,584,307
+Additions
+15,000
+818,816
+-
+833,816
+At 31 May 2024
+200,520
+3,717,603
+500,000
+4,418,123
+Amortisation
+At 1 June 2023
+185,519
+1,540,852
+475,000
+2,201,371
+Charge for the year
+1,825
+647,564
+25,000
+674,389
+At 31 May 2024
+187,344
+2,188,416
+500,000
+2,875,760
+Net book value
+At 31 May 2024
+13,176
+1,529,187
+=== page 22 ===
+-
+1,542,363
+At 31 May 2023
+1
+1,357,935
+25,000
+1,382,936
+Page 26
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+15.
+Tangible fixed assets
+Fixtures and fittings
+£
+Cost
+At 1 June 2023
+2,031,798
+Additions
+448,541
+At 31 May 2024
+2,480,339
+Depreciation
+At 1 June 2023
+1,491,565
+Charge for the year
+317,108
+At 31 May 2024
+1,808,673
+Net book value
+At 31 May 2024
+671,666
+At 31 May 2023
+540,233
+16.
+Stocks
+2024
+2023
+£
+£
+Raw materials and consumables
+316,466
+249,848
+Work in progress
+-
+5,949
+316,466
+255,797
+Page 27
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+17.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+16,072,565
+9,940,362
+Amounts owed by group undertakings
+59,678,552
+33,543,728
+Other debtors
+36,085
+36,537
+Prepayments and accrued income
+2,241,422
+1,115,252
+=== page 23 ===
+Deferred consideration receivable
+6,459,325
+21,581,761
+Amounts recoverable on long-term contracts
+50,437,312
+45,850,735
+Tax recoverable
+-
+46,552
+Deferred taxation
+62,803
+60,824
+134,988,064
+112,175,751
+Amounts owed by group undertakings are unsecured, interest free, and repayable on demand.
+The £6.46m of deferred consideration relates to future proceeds from the sale of WHP Estates on 1 June 2023.
+18.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+4,070,807
+7,962,804
+Amounts owed to group undertakings
+63,501,773
+63,176,124
+Corporation tax
+633,902
+-
+Other taxation and social security
+5,407,304
+3,671,560
+Other creditors
+202,637
+160,151
+Accruals and deferred income
+61,199,837
+40,048,171
+135,016,260
+115,018,810
+Amounts owed to group undertakings are unsecured, interest free, and repayable on demand.
+Page 28
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+19.
+Deferred taxation
+2024
+2023
+£
+£
+At beginning of year
+60,824
+60,824
+Charged to profit or loss
+1,979
+-
+Asset/(liability) at end of year
+62,803
+60,824
+The 
+deferred tax asset
+ is made up as follows:
+2024
+2023
+£
+£
+Accelerated capital allowances
+=== page 24 ===
+62,803
+60,824
+20.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+18
+B Ordinary Shares
+of
+£
+1.00
+ each
+18
+18
+The Ordinary B shares are entitled to vote, the shares are entitled to dividend payments or any other distribution, the shares are entitled  to participate in a distribution arising from a winding up and the ordinary shares are not redeemable.
+21.
+Reserves
+Capital redemption reserve
+This reserve records the nominal value of shares repurchased by the company.
+Profit and loss account
+The profit and loss reserve includes all current and prior period retained profits and losses.
+Page 29
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+22.
+Pension commitments
+The Company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the Company in an independently administered fund. The pension cost charge represents contributions payable by the Company  to the fund and amounted to £
+856,302
+ (
+2023 - £
+822,690
+). Contributions totalling £
+93,809
+ (
+2023 - £
+160,151
+) were payable to the fund at the balance sheet date and are included in creditors.
+23.
+Commitments under operating leases
+At 
+31 May
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+892,242
+842,321
+Later than 1 year and not later than 5 years
+1,477,481
+2,391,674
+Later than 5 years
+334,395
+562,020
+2,704,118
+3,796,015
+24.
+Financial commitments, guarantees and contingent liabilities
+WHP Telecoms Limited has given a debenture to Glas Trust Corporation Limited (the security agent for the "Lenders": Permira Credit Solutions and The Royal Bank of Scotland Plc) to secure a cross guarantee given under an intercreditor deed in respect of loan borrowings owed to the Lenders due from Whistler Topco Limited, Whistler Midco Limited, Whistler Bidco Limited, Cooper Topco Limited, Cooper Bidco Limited, WHP (Holdings) Limited, Paragon Telecoms Limited, Sitec Infrastructure Services Limited, Redhall Network Solutions Holdings Limited, Redhall Network Solutions Limited, Blue Clarity Design Services Ltd, and Intelligent Communications Solutions Limited.
+25.
+Related party transactions
+The Company has taken advantage of the exemption in FRS 102 Section 33.1A to not disclose transactions with wholly owned group entities.
+During the year ended 31 May 2024, the company made purchases of £55,950 (2023 - £63,787) from a consultancy business controlled by a close family member of a director of the company, C Tracey. At the balance sheet date, an amount of £Nil (2023 - £10,200) was payable by the Company to this related party.
+=== page 25 ===
+Page 30
+WHP TELECOMS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+26.
+Controlling party
+The immediate parent company is 
+WHP (Holdings) Limited
+, a company registered in England and Wales, company number 08444904. The registered address is the same as WHP Telecoms Limited.
+The ultimate parent company is 
+Whistler Topco Limited
+, a company registered in England and Wales with company registration number 11198084. The registered office address for Whistler Topco Limited is 401 Faraday Street, Birchwood, Warrington, WA3 6GA. 
+Whistler Topco Limited
+ is the largest group of companies into which the Company's results are consolidated where the financial statements are available to the public. Copies of the consolidated financial statements of Whistler Topco Limited can be obtained from Companies House.
+The ultimate controlling party of Whistler Topco Limited is 
+Equistone LLP
+, a limited liability partnership registered in England and Wales with registration number OC360196. The registered office address is One New Ludgate, 60 Ludgate Hill, London, EC4M 7AW.
+Page 31

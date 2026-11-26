@@ -1,0 +1,1837 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2022.0.179
+ 2022.0.179
+2022-12-31
+2022-12-31
+No description of principal activity
+true
+false
+true
+true
+false
+56
+true
+2022-01-01
+68
+true
+03823061
+2022-01-01
+2022-12-31
+03823061
+2021-01-01
+2021-12-31
+03823061
+2022-12-31
+03823061
+2021-12-31
+03823061
+2021-01-01
+03823061
+1
+2022-01-01
+2022-12-31
+03823061
+1
+2021-01-01
+2021-12-31
+03823061
+2
+2022-01-01
+2022-12-31
+03823061
+2
+2021-01-01
+2021-12-31
+03823061
+d:CompanySecretary1
+2022-01-01
+2022-12-31
+03823061
+d:Director1
+2022-01-01
+2022-12-31
+03823061
+d:Director2
+2022-01-01
+2022-12-31
+03823061
+d:Director3
+2022-01-01
+2022-12-31
+03823061
+d:Director3
+2022-12-31
+03823061
+d:RegisteredOffice
+2022-01-01
+2022-12-31
+03823061
+e:Buildings
+e:ShortLeaseholdAssets
+=== page 2 ===
+2022-01-01
+2022-12-31
+03823061
+e:Buildings
+e:ShortLeaseholdAssets
+2022-12-31
+03823061
+e:Buildings
+e:ShortLeaseholdAssets
+2021-12-31
+03823061
+e:PlantMachinery
+2022-01-01
+2022-12-31
+03823061
+e:PlantMachinery
+2022-12-31
+03823061
+e:PlantMachinery
+2021-12-31
+03823061
+e:PlantMachinery
+e:OwnedOrFreeholdAssets
+2022-01-01
+2022-12-31
+03823061
+e:OwnedOrFreeholdAssets
+2022-01-01
+2022-12-31
+03823061
+e:ComputerSoftware
+2022-12-31
+03823061
+e:ComputerSoftware
+2021-12-31
+03823061
+e:OtherResidualIntangibleAssets
+2022-01-01
+2022-12-31
+03823061
+e:CurrentFinancialInstruments
+2022-12-31
+03823061
+e:CurrentFinancialInstruments
+2021-12-31
+03823061
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2022-12-31
+03823061
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2021-12-31
+03823061
+e:ReportableOperatingSegment1
+2022-01-01
+2022-12-31
+03823061
+e:ReportableOperatingSegment1
+2021-01-01
+2021-12-31
+03823061
+f:UnitedKingdom
+2022-01-01
+2022-12-31
+03823061
+f:UnitedKingdom
+2021-01-01
+2021-12-31
+03823061
+=== page 3 ===
+e:UKTax
+2022-01-01
+2022-12-31
+03823061
+e:UKTax
+2021-01-01
+2021-12-31
+03823061
+e:ShareCapital
+2022-12-31
+03823061
+e:ShareCapital
+2021-12-31
+03823061
+e:ShareCapital
+2021-01-01
+03823061
+e:SharePremium
+2022-01-01
+2022-12-31
+03823061
+e:SharePremium
+2022-12-31
+03823061
+e:SharePremium
+2
+2022-01-01
+2022-12-31
+03823061
+e:SharePremium
+2021-12-31
+03823061
+e:SharePremium
+2021-01-01
+03823061
+e:SharePremium
+2
+2021-01-01
+2021-12-31
+03823061
+e:CapitalRedemptionReserve
+2022-01-01
+2022-12-31
+03823061
+e:CapitalRedemptionReserve
+2022-12-31
+03823061
+e:CapitalRedemptionReserve
+2
+2022-01-01
+2022-12-31
+03823061
+e:CapitalRedemptionReserve
+2021-12-31
+03823061
+e:CapitalRedemptionReserve
+2021-01-01
+03823061
+e:CapitalRedemptionReserve
+2
+2021-01-01
+2021-12-31
+03823061
+e:OtherMiscellaneousReserve
+2022-01-01
+2022-12-31
+03823061
+e:OtherMiscellaneousReserve
+2022-12-31
+03823061
+=== page 4 ===
+e:OtherMiscellaneousReserve
+2
+2022-01-01
+2022-12-31
+03823061
+e:OtherMiscellaneousReserve
+2021-12-31
+03823061
+e:OtherMiscellaneousReserve
+2021-01-01
+03823061
+e:OtherMiscellaneousReserve
+2
+2021-01-01
+2021-12-31
+03823061
+e:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-31
+03823061
+e:RetainedEarningsAccumulatedLosses
+2022-12-31
+03823061
+e:RetainedEarningsAccumulatedLosses
+2
+2022-01-01
+2022-12-31
+03823061
+e:RetainedEarningsAccumulatedLosses
+2021-01-01
+2021-12-31
+03823061
+e:RetainedEarningsAccumulatedLosses
+2021-12-31
+03823061
+e:RetainedEarningsAccumulatedLosses
+2021-01-01
+03823061
+e:RetainedEarningsAccumulatedLosses
+2
+2021-01-01
+2021-12-31
+03823061
+e:AcceleratedTaxDepreciationDeferredTax
+2022-12-31
+03823061
+e:AcceleratedTaxDepreciationDeferredTax
+2021-12-31
+03823061
+e:TaxLossesCarry-forwardsDeferredTax
+2022-12-31
+03823061
+e:TaxLossesCarry-forwardsDeferredTax
+2021-12-31
+03823061
+d:OrdinaryShareClass1
+2022-01-01
+2022-12-31
+03823061
+d:OrdinaryShareClass1
+2022-12-31
+03823061
+d:OrdinaryShareClass2
+2022-01-01
+2022-12-31
+03823061
+d:OrdinaryShareClass2
+2022-12-31
+03823061
+d:OrdinaryShareClass3
+=== page 5 ===
+2022-01-01
+2022-12-31
+03823061
+d:OrdinaryShareClass3
+2022-12-31
+03823061
+d:FRS102
+2022-01-01
+2022-12-31
+03823061
+d:Audited
+2022-01-01
+2022-12-31
+03823061
+d:FullAccounts
+2022-01-01
+2022-12-31
+03823061
+d:PrivateLimitedCompanyLtd
+2022-01-01
+2022-12-31
+03823061
+e:Subsidiary1
+2022-01-01
+2022-12-31
+03823061
+e:Subsidiary1
+1
+2022-01-01
+2022-12-31
+03823061
+e:Subsidiary2
+2022-01-01
+2022-12-31
+03823061
+e:Subsidiary2
+1
+2022-01-01
+2022-12-31
+03823061
+e:Subsidiary3
+2022-01-01
+2022-12-31
+03823061
+e:Subsidiary3
+1
+2022-01-01
+2022-12-31
+03823061
+e:WithinOneYear
+2022-12-31
+03823061
+e:WithinOneYear
+2021-12-31
+03823061
+e:BetweenOneFiveYears
+2022-12-31
+03823061
+e:BetweenOneFiveYears
+2021-12-31
+03823061
+e:ComputerSoftware
+e:ExternallyAcquiredIntangibleAssets
+2022-01-01
+2022-12-31
+03823061
+6
+2022-01-01
+2022-12-31
+03823061
+=== page 6 ===
+e:ComputerSoftware
+e:OwnedIntangibleAssets
+2022-01-01
+2022-12-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+03823061
+AA ACCESS PARTNERSHIP LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 DECEMBER 2022
+AA ACCESS PARTNERSHIP LIMITED
+COMPANY INFORMATION
+Directors
+E P Byrne
+G Francis
+Company secretary
+G Francis
+Registered number
+03823061
+Registered office
+4th Floor
+The Tower
+65 Buckingham Gate
+London
+SW1E 6AS
+Independent auditor
+CLA Evelyn Partners Limited
+Chartered Accountants
+ & 
+Statutory Auditor
+14th Floor
+103 Colmore Row
+Birmingham
+B3 3AG
+AA ACCESS PARTNERSHIP LIMITED
+CONTENTS
+Page
+Strategic Report
+1 - 2
+Directors' Report
+3 - 4
+Directors' Responsibilities Statement
+5
+Independent Auditor's Report
+6 - 9
+Statement of Comprehensive Income
+10
+Balance Sheet
+11 - 12
+Statement of Changes in Equity
+13
+Notes to the Financial Statements
+14 - 28
+AA ACCESS PARTNERSHIP LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2022
+Introduction
+The directors present their Strategic Report for the year ended 31 December 2022.
+Principal activity
+The Company’s principal activity is as a public policy consulting organisation, dedicated to opening markets for technology on fair terms. We have experts around the globe who help our clients find routes to market for their products through creating, changing and influencing regulatory policy around the world.
+Business review
+The Company has had a successful year in 2022. With the aftermath of the global pandemic being faced early in the trading period, the Company continued to be adaptable to the conditions, proving its ability to grow the existing revenue base and signing up strategic new clients. Staff levels have grown to support the increased delivery and employees have successfully continued to both work remotely and alongside clients for large parts of the year.
+The Company’s revenue was ahead of expectations in the year, the Company has performed well in a constantly changing market and the growth will continue through 2023. The Company finished the year with cash of £2,531,095 
+(2021 - £2,276,662)
+. For 2022, the Company recorded revenue of £17,392,806 
+(2021 - £12,009,301)
+ for the year and a profit after tax of £5,393,014 
+=== page 7 ===
+(2021 - £2,029,066)
+.
+Principal risks and uncertainties
+The Company’s balance sheet remains strong and we expect to be able to meet all of our present and future commitments. As of the current date, our revenue pipeline remains solid and we have no reason to believe this will change.
+Following the change in ownership in July 2022, the business holds a loan with external parties which incurs interest linked to SONIA. There is a risk that in the event of a material increase in interest rate, the level of cost to service the debt will increase. The group has taken out an interest cap instrument to mitigate the risk of interest rate increases in future periods. Currently we do not foresee issues in servicing this debt or repaying it when it becomes due in future years.
+Financial key performance indicators
+The final position of the Company is in-line with Director’s expectations with the following metrics for the period.
+2022
+2021
+£
+£
+Revenue
+17,392,806
+12,009,301
+Gross Profit
+11,579,191
+6,828,981
+EBITDA
+5,720,116
+2,588,622
+Profit after tax
+5,393,014
+2,029,066
+Period-end cash
+2,531,095
+2,276,662
+Page 1
+AA ACCESS PARTNERSHIP LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2022
+Other key performance indicators
+The Company has been able to maintain a base of highly qualified, knowledgeable, and experienced subject matter experts with which we can advise our clients. The Company considers management and its employees to be key to its success and we actively manage both our staffing levels and the needs of our staff to ensure that we can successfully deliver the levels of service required by our clients. 
+Pipeline growth remains solid, with the current expected outturn for 2023 indicating that business will achieve growth expectations. 
+This report was approved by the board
+ and signed on its behalf
+.
+E P Byrne
+Director
+Date: 
+23 June 2023
+Page 2
+AA ACCESS PARTNERSHIP LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2022
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 December 2022
+.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+5,393,014
+ (2021 - 
+£
+2,029,066
+)
+.
+During the year, dividends of £6,271,000 
+(2021 - £Nil)
+=== page 8 ===
+ were paid.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+E P Byrne
+G Francis
+C Thomson
+(resigned 
+7 July 2022
+)
+Going concern
+At the time of approving the financial statements, the directors have a reasonable expectation that the Company has adequate resources to continue in operational existence for the foreseeable future.
+The directors have reviewed cash flow forecasts for at least the 12 month period from the date of signing and assessed the impact of a potential rise in interest rates to ensure the Group (all companies within the Alpha Midco 1 Limited group) can maintain its day to day services, fulfil its statutory obligations and meet future obligations to funders and other stakeholders.
+At 31 December 2022, the Group had sufficient cash balances to maintain a positive cash position and meet the Company’s liabilities as they fall due for at least 12 months from the balance sheet date, based upon current expectations.
+To the date of signing, group revenue has been materially in line with forecast, positive cash flow has been maintained and deliveries of services have not been impacted.
+The directors have stress tested their forecasts and sales demand would need to fall by a significant amount before cash flow becomes an issue that they do not believe this to be probable outcome.
+The directors believe the Company will continue to be a going concern.
+Disclosure of information to auditor
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor 
+is
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor 
+is
+ aware of that information.
+Post balance sheet events
+There have been no significant events affecting the 
+Company
+ since the year end.
+Page 3
+AA ACCESS PARTNERSHIP LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2022
+Auditor
+The auditor, 
+CLA Evelyn Partners Limited
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+E P Byrne
+Director
+Date: 
+23 June 2023
+Page 4
+AA ACCESS PARTNERSHIP LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 DECEMBER 2022
+=== page 9 ===
+The 
+directors
+are
+ responsible for preparing the
+ Strategic Report, the Directors' Report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent; and
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 5
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+AA ACCESS PARTNERSHIP LIMITED
+Opinion
+We have audited the financial statements of 
+AA Access Partnership Limited
+(the 'Company')
+ for the 
+year
+ ended  
+31 December 2022
+ which comprise the 
+=== page 10 ===
+Statement of Comprehensive Income, the Balance Sheet, the Statement of Changes in Equity
+ and the notes to the financial statements, including significant accounting policies.  The financial reporting framework that has been applied in their preparation is applicable law and 
+United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom Generally Accepted Accounting Practice)
+.
+In our opinion, the financial statements:
+∙
+give a true and fair view of the state of 
+the Company's 
+affairs as at 
+31 December 2022
+ and of 
+its 
+profit
+ for the year then ended;  
+∙
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with 
+the requirements of the Companies Act 2006
+.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit of the financial statements section of our report.  We are independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the 
+directors
+’ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company
+’s ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 6
+AA ACCESS PARTNERSHIP LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+AA ACCESS PARTNERSHIP LIMITED
+ (CONTINUED)
+(CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report and Financial Statements
+, other than the financial statements and our auditor’s report thereon.  The 
+directors
+ are responsible for the other information contained within the 
+Annual Report and Financial Statements
+. Our opinion on the financial statements does not cover the other information 
+and, except to the extent otherwise explicitly stated in our report, 
+we do not express any form of assurance conclusion thereon.  Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the course of the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves.  If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. 
+We have nothing to report in this regard. 
+Opinions on other matters prescribed by the 
+Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic Report and the Directors’ Report
+ for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+∙
+the 
+Strategic Report and the Directors’ Report
+has
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and 
+its 
+environment obtained in the course of the audit, we have not identified material misstatements in the 
+Strategic Report or the Directors’ Report
+=== page 11 ===
+.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 
+2006
+ requires us to report to you if, in our opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for our audit have not been received from branches not visited by us; or
+∙
+the
+ financial statements are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+’ remuneration specified by law are not made; or
+∙
+we have not received all the information and explanations we require for our audit.
+Responsibilities of 
+directors
+As explained more fully in the Directors’ Responsibilities Statement set out on page 5, the 
+directors
+ are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+ determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the 
+directors
+ are responsible for assessing the 
+Company
+’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either intend to liquidate the 
+Company
+ or to cease operations, or have no realistic alternative but to do so. 
+Page 7
+AA ACCESS PARTNERSHIP LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+AA ACCESS PARTNERSHIP LIMITED
+ (CONTINUED)
+(CONTINUED)
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.  Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements. 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations.  We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud.  The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+We obtained an understanding of the Company’s legal and regulatory framework through enquiry of management of their understanding of the relevant laws and regulations, the company’s policies and procedures regarding compliance and how they identify, evaluate and rectify any instances of non-compliance. We also drew on our existing understanding of the company’s industry and regulation.
+We understand the Company complies with requirements of the framework through:
+∙
+The Directors’ close involvement in the day-to-day running of the business, meaning that any litigation or claims would come to their attention directly; and
+∙
+The engagement of external experts to ensure ongoing tax compliance and to assist with the preparation of the statutory accounts.
+In the context of the audit, we have considered those laws and regulations which determine the form and content of the financial statements, which are central to the company’s ability to conduct business and where failure to comply could result in material penalties.
+We have identified the following laws and regulations as being of significance in the context of the
+Company:
+∙
+The Companies Act 2006 and FRS 102 in respect of the preparation and presentation of the financial statements.
+The senior statutory auditor led a discussion with senior members of the engagement team regarding the susceptibility of the entity’s financial statements to material misstatement, including how fraud might occur. The key areas identified as part of the discussion were with regard to the manipulation of the financial statements through manual journals and incorrect recognition of revenue. This was communicated to the other members of the engagement team who were not present at the discussion.
+The procedures carried out to gain evidence in the above areas included:
+∙
+Testing of revenue transactions to underlying documentation; and
+∙
+Testing of manual journal entries, selected based on specific risk assessments applied based on the client processes and controls surrounding manual journals.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+Page 8
+AA ACCESS PARTNERSHIP LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+AA ACCESS PARTNERSHIP LIMITED
+ (CONTINUED)
+(CONTINUED)
+Use of our report
+This report is made solely to the 
+Company
+'s members, as a body, in accordance with 
+=== page 12 ===
+Chapter 3 of Part 16 of the Companies Act 2006
+.  Our audit work has been undertaken so that we might state to the 
+Company
+’s members those matters we are required to state to them in an auditor’s report and for no other purpose.  To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Stephen Drew
+ (Senior Statutory Auditor)
+for and on behalf of
+CLA Evelyn Partners Limited
+Chartered Accountants
+Statutory Auditor
+14th Floor
+103 Colmore Row
+Birmingham
+B3 3AG
+23 June 2023
+Page 9
+AA ACCESS PARTNERSHIP LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 DECEMBER 2022
+As restated
+2022
+2021
+Note
+£
+£
+Turnover
+4
+17,392,806
+12,009,301
+Cost of sales
+(
+5,813,615
+)
+(
+5,180,320
+)
+Gross profit
+11,579,191
+6,828,981
+Administrative expenses
+(
+6,501,755
+)
+(
+4,266,817
+)
+Other operating income
+5
+527,355
+(
+52,039
+)
+Operating profit
+6
+5,604,791
+2,510,125
+Tax on profit
+10
+(
+211,777
+)
+(
+481,059
+)
+Profit for the financial year
+=== page 13 ===
+5,393,014
+2,029,066
+There was no other comprehensive income for 
+2022
+(2021 - £Nil).
+The notes on pages 14 to 28 form part of these 
+financial statements
+.
+Page 10
+AA ACCESS PARTNERSHIP LIMITED
+REGISTERED NUMBER:
+03823061
+BALANCE SHEET
+AS AT 
+31 DECEMBER 2022
+2022
+2021
+Note
+£
+£
+Fixed assets
+Intangible assets
+11
+208,326
+117,334
+Tangible assets
+12
+197,840
+55,688
+Investments
+13
+5,541
+39,287
+411,707
+212,309
+Current assets
+Debtors
+14
+10,619,922
+8,195,389
+Cash at bank and in hand
+2,531,095
+2,276,662
+13,151,017
+10,472,051
+Creditors: amounts falling due within one year
+15
+(
+7,035,264
+)
+(
+3,316,123
+)
+Net current assets
+6,115,753
+7,155,928
+Total assets less current liabilities
+6,527,460
+7,368,237
+Provisions for liabilities
+Deferred tax
+(
+79,376
+)
+(
+31,859
+)
+Net assets
+6,448,084
+7,336,378
+=== page 14 ===
+Capital and reserves
+Called up share capital 
+59
+59
+Share premium account
+18
+213,835
+213,835
+Capital redemption reserve
+18
+51
+51
+Capital contribution reserve
+18
+-
+10,308
+Retained earnings
+18
+6,234,139
+7,112,125
+Shareholders' funds
+6,448,084
+7,336,378
+Page 11
+AA ACCESS PARTNERSHIP LIMITED
+REGISTERED NUMBER:
+03823061
+BALANCE SHEET
+ (CONTINUED)
+AS AT 
+31 DECEMBER 2022
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+E P Byrne
+Director
+Date: 
+23 June 2023
+The notes on pages 14 to 28 form part of these financial statements.
+Page 12
+AA ACCESS PARTNERSHIP LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 DECEMBER 2022
+Called up share capital
+Share premium account
+Capital redemption reserve
+Capital contribution reserve
+Retained earnings
+Total equity
+£
+£
+£
+£
+£
+£
+At 1 January 2021
+59
+213,835
+51
+-
+5,083,059
+5,297,004
+Comprehensive income for the year
+=== page 15 ===
+Profit for the year
+-
+-
+-
+-
+2,029,066
+2,029,066
+Capital contribution movement
+-
+-
+-
+10,308
+-
+10,308
+At 1 January 2022
+59
+213,835
+51
+10,308
+7,112,125
+7,336,378
+Comprehensive income for the year
+Profit for the year
+-
+-
+-
+-
+5,393,014
+5,393,014
+Dividends: Equity capital
+-
+-
+-
+-
+(
+6,271,000
+)
+(
+6,271,000
+)
+Share options exercised
+-
+-
+-
+(
+77,310
+)
+-
+(
+77,310
+)
+Capital contribution movement
+-
+-
+-
+67,002
+-
+67,002
+At 31 December 2022
+59
+213,835
+51
+-
+6,234,139
+6,448,084
+Page 13
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+1.
+=== page 16 ===
+General information
+AA Access Partnership Limited is a private company, limited by shares, domiciled and incorporated in England and Wales (registered number: 03823061). The registered office address is 4th Floor, The Tower, 65 Buckingham Gate, London, SW1E 6AS
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+Alpha Midco 1 Limited
+ as at 
+31 December 2022
+ and these financial statements may be obtained from 
+Companies House
+.
+2.3
+Exemption from preparing consolidated financial statements
+The Company is a parent company that is also a subsidiary included in the consolidated financial statements of a larger group by a parent undertaking established under the law of any part of the United Kingdom and is therefore exempt from the requirement to prepare consolidated financial statements under section 400 of the Companies Act 2006.
+Page 14
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+2.
+Accounting policies (continued)
+2.4
+Going concern
+At the time of approving the financial statements, the directors have a reasonable expectation that the Company has adequate resources to continue in operational existence for the foreseeable future.
+The directors have reviewed cash flow forecasts for at least the 12 month period from the date of signing and assessed the impact of a potential rise in interest rates to ensure the Group (all companies within the Alpha Midco 1 Limited group) can maintain its day to day services, fulfil its statutory obligations and meet future obligations to funders and other stakeholders.
+At 31 December 2022, the Group had sufficient cash balances to maintain a positive cash position and meet the Company’s liabilities as they fall due for at least 12 months from the balance sheet date, based upon current expectations.
+To the date of signing, group revenue has been materially in line with forecast, positive cash flow has been maintained and deliveries of services have not been impacted.
+The directors have stress tested their forecasts and sales demand would need to fall by a significant amount before cash flow becomes an issue that they do not believe this to be probable outcome.
+The directors believe the Company will continue to be a going concern.
+2.5
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+=== page 17 ===
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss.
+Page 15
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+2.
+Accounting policies (continued)
+2.6
+Turnover
+Turnover is recognised when the services are rendered. Time based fees are billed to clients in arrears. Where services are provided in stages, turnover is recognised using the percentage-of-completion method based on actual service provided as a proportion of the total services to be performed. Turnover is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before turnover is recognised:
+Rendering of services
+Turnover
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+turnover
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.7
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.8
+Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+ The estimated useful lives range as follows:
+Software
+-
+3
+years
+Page 16
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+2.
+Accounting policies (continued)
+2.9
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Leasehold improvements
+-
+33.33%
+Plant and machinery
+-
+33.33%
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.10
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.11
+Provisions for liabilities
+=== page 18 ===
+Provisions are made where an event has taken place that gives the 
+Company
+ a legal or constructive obligation that probably requires settlement by a transfer of economic benefit, and a reliable estimate can be made of the amount of the obligation.
+Provisions are charged as an expense to profit or loss in the year that the 
+Company
+ becomes aware of the obligation, and are measured at the best estimate at the 
+balance sheet date
+ of the expenditure required to settle the obligation, taking into account relevant risks and uncertainties.
+When payments are eventually made, they are charged to the provision carried in the 
+Balance Sheet
+.
+2.12
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance Sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+Page 17
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+2.
+Accounting policies (continued)
+2.13
+Financial instruments
+Financial assets and financial liabilities are recognised in the Balance Sheet when the Company becomes a party to the contractual provisions of the instrument.
+Trade and other debtors and creditors are classified as basic financial instruments and measured at initial recognition at transaction price. Debtors and creditors are subsequently measured at amortised cost using the effective interest rate method. A provision is established when there is objective evidence that the Company will not be able to collect all amounts due.
+Cash and cash equivalents are classified as basic financial instruments and comprise cash in hand and at bank, short-term bank deposits with an original maturity of three months or less and bank overdrafts which are an integral part of the Company’s cash management.
+Financial liabilities and equity instruments issued by the Company are classified in accordance with the substance of the contractual arrangements entered into and the definitions of a financial liability and an equity instrument. An equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting all of its liabilities. Equity instruments issued by the Company are recorded at the proceeds received, net of direct issue costs.
+2.14
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+Page 18
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+2.
+Accounting policies (continued)
+2.15
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+=== page 19 ===
+In the application of the Company’s accounting policies, management are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates. 
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+The following critical judgements have been made by management in applying the Company’s
+accounting policies that have the most significant impact on the amounts recognised in the financial
+statements.
+Financial instruments classification
+The classification of financial instruments as "basic" or "other" requires judgement as to whether all the applicable conditions for classification as basic are met. This includes consideration of the form of the instrument and its return.
+Debtors
+At each reporting date and throughout the year, the Company’s debtor balance is reviewed to identify any impairment required, and specific provisions are made against this balance. 
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2022
+2021
+£
+£
+Rendering of services
+17,392,806
+12,009,301
+Analysis of turnover by country of destination:
+2022
+2021
+£
+£
+United Kingdom
+17,392,806
+12,009,301
+Page 19
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+5.
+Other operating income
+2022
+2021
+£
+£
+Insurance claim received
+527,355
+-
+Foreign exchange difference
+-
+(
+52,039
+)
+527,355
+(
+52,039
+)
+6.
+Operating profit
+The operating profit is stated after charging:
+2022
+2021
+£
+£
+Exchange differences
+(735,018
+)
+78,146
+Other operating lease rentals
+457,659
+360,113
+7.
+Auditor's remuneration
+2022
+2021
+£
+£
+Fees payable to the Company's auditor and its associates for the audit of the Company's annual financial statements
+=== page 20 ===
+36,300
+27,500
+The 
+Company
+ has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the group accounts of Alpha Midco Limited.
+Page 20
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+8.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2022
+2021
+£
+£
+Wages and salaries
+7,288,068
+5,260,441
+Social security costs
+1,041,789
+529,669
+Cost of defined contribution scheme
+257,218
+206,683
+8,587,075
+5,996,793
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2022
+2021
+No.
+No.
+68
+56
+9.
+Directors' remuneration
+2022
+2021
+£
+£
+Directors' emoluments
+1,075,579
+586,000
+Company contributions to defined contribution pension schemes
+17,000
+14,913
+1,092,579
+600,913
+During the 
+year
+ retirement benefits were accruing to 
+2
+directors
+ (2021 - 
+2
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+671,400
+=== page 21 ===
+ (2021 - £
+204,000
+)
+.
+The value of the 
+Company
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+10,000
+ (2021 - £
+9,180
+)
+.
+Page 21
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+10.
+Taxation
+2022
+2021
+£
+£
+Corporation tax
+Current tax on profits for the year
+203,153
+456,717
+Adjustments in respect of previous periods
+(
+38,893
+)
+-
+Total current tax
+164,260
+456,717
+Deferred tax
+Origination and reversal of timing differences
+34,385
+21,968
+Effect of tax rate change on opening balance
+10,858
+2,374
+Adjustments in respect of prior periods
+2,274
+-
+Total deferred tax
+47,517
+24,342
+Taxation on profit on ordinary activities
+211,777
+481,059
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2021 -higher than) 
+the standard rate of corporation tax
+ in the UK of
+19
+%
+ (2021 -
+19
+%)
+. The differences are explained below:
+2022
+2021
+£
+=== page 22 ===
+£
+Profit on ordinary activities before tax
+5,604,791
+2,510,125
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 19% 
+(2021 - 19%)
+1,064,910
+476,924
+Effects of:
+Fixed asset differences
+363
+(
+1,137
+)
+Expenses not deductible for tax purposes
+10,344
+6,003
+Adjustments to brought forward values
+366
+366
+Other permanent differences
+(
+416,990
+)
+-
+Group relief surrendered/(claimed)
+(
+421,456
+)
+2,458
+Adjustments to tax charge in respect of previous periods
+(
+38,892
+)
+(
+3,555
+)
+Adjustments to tax charge in respect of previous periods - deferred tax
+2,274
+-
+Remeasurement of deferred tax for changes in tax rates
+10,858
+-
+Total tax charge for the year
+211,777
+481,059
+Page 22
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+10.
+Taxation (continued)
+Factors that may affect future tax charges
+Finance Act 2021 includes legislation to increase the main rate of corporation tax from 19% to 25% from 1 April 2023. The full anticipated effect of these changes is reflected in the above deferred tax balances.
+11.
+Intangible assets
+Computer software
+£
+Cost
+At 1 January 2022
+227,886
+Additions
+158,830
+At 31 December 2022
+386,716
+Amortisation
+At 1 January 2022
+110,552
+Charge for the year
+67,838
+=== page 23 ===
+At 31 December 2022
+178,390
+Net book value
+At 31 December 2022
+208,326
+At 31 December 2021
+117,334
+Page 23
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+12.
+Tangible fixed assets
+Leasehold improvements
+Plant and machinery
+Total
+£
+£
+£
+Cost
+At 1 January 2022
+117,030
+158,790
+275,820
+Additions
+44,026
+145,613
+189,639
+At 31 December 2022
+161,056
+304,403
+465,459
+Depreciation
+At 1 January 2022
+103,227
+116,905
+220,132
+Charge for the year
+11,304
+36,183
+47,487
+At 31 December 2022
+114,531
+153,088
+267,619
+Net book value
+At 31 December 2022
+46,525
+151,315
+197,840
+At 31 December 2021
+13,803
+41,885
+55,688
+13.
+Fixed asset investments
+Investments in subsidiary companies
+£
+Cost
+At 1 January 2022
+39,287
+Disposals
+(33,746
+)
+At 31 December 2022
+5,541
+Page 24
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+=== page 24 ===
+Subsidiary undertakings
+The following 
+were subsidiary undertakings of the Company:
+Name
+Registered office
+Class of shares
+Holding
+Access Partnership Belgium B.V. *
+4th Floor, Square de Meeûs 37 B-1000 Brussels Belgium
+Ordinary
+100
+%
+AA Access Partnership PTE Ltd*
+12 Marina View #11-01 Asia Square Tower 2 Singapore 018961
+Ordinary
+100
+%
+Access Partnership Pty Limited*
+PO Box 10512  Centurion  0046, South Africa
+Ordinary
+100
+%
+*Direct subsidiary undertaking 
+During the year, the Company incorporated Access Partnership Belgium B.V. on 26 October 2022.
+14.
+Debtors
+2022
+2021
+£
+£
+Trade debtors
+3,021,090
+2,788,712
+Amounts owed by group undertakings
+5,595,294
+3,144,660
+Other debtors
+1,009,464
+593,444
+Prepayments and accrued income
+994,074
+1,668,573
+10,619,922
+8,195,389
+On 30 September 2022 the Company converted £6,271,000 of inter-company balances to loan notes. The loan notes are unsecured, repayable on 30 September 2027 and carry interest at 6% per annum. On 30 September 2022 the Company distributed these loan notes to its parent undertaking Project Donna Bidco Limited via a dividend in specie.
+The amounts due from group undertakings are unsecured, interest free and repayable on demand.
+Page 25
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+15.
+Creditors: Amounts falling due within one year
+2022
+2021
+£
+£
+Trade creditors
+1,284,310
+380,711
+Amounts owed to group undertakings
+3,027,314
+373,671
+Corporation tax
+201,153
+297,108
+Other taxation and social security
+73,477
+155,000
+Accruals and deferred income
+2,449,010
+=== page 25 ===
+2,109,633
+7,035,264
+3,316,123
+The amounts due to group undertakings are unsecured, interest free and repayable on demand.
+16.
+Deferred taxation
+2022
+2021
+£
+£
+At beginning of year
+31,859
+7,517
+Charged to profit or loss
+47,517
+24,342
+At end of year
+79,376
+31,859
+The 
+provision for deferred taxation
+ is made up as follows:
+2022
+2021
+£
+£
+Fixed asset timing differences
+80,926
+42,333
+Short-term timing differences
+(
+1,550
+)
+(
+10,474
+)
+79,376
+31,859
+Page 26
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+17.
+Share capital
+2022
+2021
+£
+£
+Allotted, called up and fully paid
+2,722
+A1
+shares of
+£
+0.01
+ each
+27
+27
+2,722
+A2
+shares of
+£
+0.01
+ each
+27
+27
+460
+D Ordinary
+shares of
+£
+0.01
+=== page 26 ===
+ each
+5
+5
+59
+59
+The A1 shares are not entitled to receive any profits distributed, Entitled to share of any distribution of capital on a winding up basis, or an a reduction of capital involving the return of capital.
+The A2 shares are not entitled to receive any profits distributed, Entitled to share of any distribution of capital on a winding up basis, or an a reduction of capital involving the return of capital.
+The ordinary D shares are not entitled to vote and not entitled to receive any profits distributed.
+18.
+Reserves
+Share premium account
+The share premium account is used to record the aggregate amount or value of premiums paid when the Company's shares are issued at an amount in excess of nominal value.
+Capital redemption reserve
+This reserve relates to the nominal value of shares that the Company has bought back.
+Capital contribution reserve
+This reserve relates to the cumulative employee share options charged.
+Retained earnings
+This reserve relates to the cumulative retained earnings less amounts distributed to shareholders.
+19.
+Prior year adjustment
+There has been a correction to the allocations in the Statement of Comprehensive Income in the wages & salaries from administrative expenses to cost of sales in 2021 but with no impact on reserves.
+Page 27
+AA ACCESS PARTNERSHIP LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2022
+20.
+Commitments under operating leases
+At 
+31 December
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2022
+2021
+£
+£
+Not later than 1 year
+504,127
+309,110
+Later than 1 year and not later than 5 years
+1,176,296
+-
+1,680,423
+309,110
+21.
+Related party transactions
+The Company has taken advantage of the exemption in FRS 102 Section 33.1A to not disclose transactions with wholly owned group entities.
+22.
+Controlling party
+The immediate parent undertaking is 
+Project Donna Bidco Limited
+, a company registered in England and Wales.
+The ultimate parent undertaking is 
+Alpha Topco Limited
+, a company registered in Guernsey. The group is managed and advised by Mayfair Equity Partners.
+The largest and smallest group of undertakings for which group accounts for the year ending 31 December 2022 have been drawn up, is that headed by 
+Alpha Midco 1 Limited
+. The registered office address of Alpha Midco 1 Limited is 10 Norwich Street, London, EC4A 1BD. Copies of the group accounts are available from Companies House.
+The directors do not consider there to be an ultimate controlling party
+.
+Page 28

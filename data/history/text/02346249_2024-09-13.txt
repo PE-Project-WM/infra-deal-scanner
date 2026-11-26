@@ -1,0 +1,1141 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2023-01-01
+false
+70
+63
+true
+true
+false
+02346249
+2023-01-01
+2023-12-31
+02346249
+2022-01-01
+2022-12-31
+02346249
+2023-12-31
+02346249
+2022-12-31
+02346249
+c:Director2
+2023-01-01
+2023-12-31
+02346249
+c:Director3
+2023-01-01
+2023-12-31
+02346249
+c:Director4
+2023-01-01
+2023-12-31
+02346249
+d:PlantMachinery
+2023-01-01
+2023-12-31
+02346249
+d:PlantMachinery
+2023-12-31
+02346249
+d:PlantMachinery
+2022-12-31
+02346249
+d:PlantMachinery
+d:OwnedOrFreeholdAssets
+2023-01-01
+2023-12-31
+02346249
+d:FurnitureFittings
+2023-01-01
+2023-12-31
+02346249
+d:FurnitureFittings
+2023-12-31
+02346249
+d:FurnitureFittings
+2022-12-31
+02346249
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-01-01
+2023-12-31
+02346249
+d:OwnedOrFreeholdAssets
+2023-01-01
+2023-12-31
+02346249
+d:PatentsTrademarksLicencesConcessionsSimilar
+2023-01-01
+2023-12-31
+=== page 2 ===
+02346249
+d:PatentsTrademarksLicencesConcessionsSimilar
+2023-12-31
+02346249
+d:PatentsTrademarksLicencesConcessionsSimilar
+2022-12-31
+02346249
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-01-01
+2023-12-31
+02346249
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-12-31
+02346249
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-31
+02346249
+d:Goodwill
+2023-01-01
+2023-12-31
+02346249
+d:Goodwill
+2023-12-31
+02346249
+d:Goodwill
+2022-12-31
+02346249
+d:CurrentFinancialInstruments
+2023-12-31
+02346249
+d:CurrentFinancialInstruments
+2022-12-31
+02346249
+d:Non-currentFinancialInstruments
+2023-12-31
+02346249
+d:Non-currentFinancialInstruments
+2022-12-31
+02346249
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-12-31
+02346249
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2022-12-31
+02346249
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2023-12-31
+02346249
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2022-12-31
+02346249
+d:ShareCapital
+2023-12-31
+02346249
+d:ShareCapital
+2022-12-31
+02346249
+d:RetainedEarningsAccumulatedLosses
+2023-12-31
+02346249
+d:RetainedEarningsAccumulatedLosses
+2022-12-31
+02346249
+c:OrdinaryShareClass1
+2023-01-01
+2023-12-31
+=== page 3 ===
+02346249
+c:OrdinaryShareClass1
+2023-12-31
+02346249
+c:OrdinaryShareClass1
+2022-12-31
+02346249
+c:FRS102
+2023-01-01
+2023-12-31
+02346249
+c:Audited
+2023-01-01
+2023-12-31
+02346249
+c:FullAccounts
+2023-01-01
+2023-12-31
+02346249
+c:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+02346249
+c:SmallCompaniesRegimeForAccounts
+2023-01-01
+2023-12-31
+02346249
+d:PatentsTrademarksLicencesConcessionsSimilar
+d:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+d:Goodwill
+d:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+2
+2023-01-01
+2023-12-31
+02346249
+d:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+d:Goodwill
+d:OwnedIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+d:PatentsTrademarksLicencesConcessionsSimilar
+d:OwnedIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:OwnedIntangibleAssets
+2023-01-01
+2023-12-31
+02346249
+e:PoundSterling
+2023-01-01
+2023-12-31
+xbrli:shares
+iso4217:GBP
+=== page 4 ===
+xbrli:pure
+Registered number: 
+02346249
+Sota Solutions Limited
+Annual report and financial statements
+Information for filing with the registrar
+For the year ended
+31 December 2023
+Sota Solutions Limited
+Strategic report
+For the year ended 31 December 2023
+The directors present the Strategic Report of Sota Solutions Limited (the ‘Company’) for the year ended 31 December 2023.
+The Company’s principal activity is the provision of managed services for IT support, cloud, cyber resilience, connectivity, unified communications and consultancy.
+Key financial and other performance indicators as used by management in reviewing the performance of the business are as follows:
+ 2023    2022*          2021           2020       2019                                                     
+Turnover (£000)                                       9,749        8,354        7,152        6,759        6,168 
+ARR (£000)                                                 7,688        6,640        5,483        5,007        4,471 
+Operating profit (£000)                             1,261        1,158           816           928           606 
+EBITDA (before adjustments)                  1,777        1,704        1,330        1,377        1,120 
+Gross margin (%)                                        60.5         62.1              61.6             61.7             61.6
+ARR (%)                                                   78.9         79.5          76.7         74.1            72.5
+Number of active customers                           423       408           386             328         309
+Average number of employees                        70        63         58        54        53
+Cash at bank and in hand                             1,820         2,789         1,812           900        1,158 
+*exceptional item excluded – sale of fibre asset (£470k) in February 2022
+The directors are pleased with the continued growth of the business as supported by the key performance metrics.  The budget for the year was exceeded and growth was seen in both turnover and profit (excluding 2022 exceptional item).  Underlying adjusted EBITDA of £1,904k (£1,762k - 2022) importantly showed growth, this is expected to reach £2.3m in 2024 and continue to build thereafter, all delivered organically through expansion of services and new customer acquisition. 
+We acknowledge that such a sustained period of growth is only possible by having a first-class offering delivered by a first-class team.  Our employees are the cornerstone of our success, ensuring the growth and continuous improvement of the business.
+We are dedicated to continually enhance human capital, focusing on upskilling and expanding our team through strategic talent acquisition, whilst reducing attrition rates through a broad range of initiatives.  Our people strategy will be a crucial driver of our future growth.
+The directors would also like to extend their gratitude to all of the Company’s customers, suppliers and advisors.  We eagerly anticipate another successful year in 2024.
+This report was approved by the board
+ and signed on its behalf
+.
+B Smoker
+Director
+Date: 
+11 September 2024
+Page 1
+Sota Solutions Limited
+Directors' report
+For the year ended 31 December 2023
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 December 2023
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ the
+ strategic report, the directors' report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+=== page 5 ===
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Principal activity
+The principal activity of the company is the provision of voice, data and internet services, combined with information technology and communication systems integration and support.
+Directors
+The 
+directors
+ who served during the 
+year
+and to the date of this report are:
+P M Cowham
+A J Symons
+B Smoker
+S J Lynn - appointed 01.04.2024
+Going Concern
+Whilst the impact of the Covid-19 pandemic has been assessed by the Directors and is currently deemed to be reasonable for the Company, due to its unprecedented impact on the wider economy, it is difficult at this time to evaluate the potential outcome on the Company as a whole. However, the Company has continued to trade sufficiently through this period and is in a strong position to recover from any negative impacts from this pandemic. As such, it is deemed reasonable to continue to adopt the going concern basis in preparing the financial statements.
+Dividend
+The directors have declared a dividend of £814,381 for the year-ending 31 December 2023 (2022: £638,516).
+Page 2
+Sota Solutions Limited
+Directors' report (continued)
+For the year ended 31 December 2023
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+directors' report
+ is approved has confirmed that:
+=== page 6 ===
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+ aware of that information.
+Auditors
+The auditor
+s
+, Clive Owen LLP, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+Small companies note
+In preparing this report, the 
+directors
+have
+ taken advantage of the small companies exemptions provided by Part 15 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+B Smoker
+Director
+Date: 
+11 September 2024
+Page 3
+Sota Solutions Limited
+Statement of income and retained earnings
+For the year ended
+31 December 2023
+2023
+2022
+£
+£
+Turnover
+9,749,346
+8,823,569
+Cost of sales
+(3,849,476
+)
+(3,166,903
+)
+Gross profit
+5,899,870
+5,656,666
+Administrative expenses
+(4,639,158
+)
+(4,028,829
+)
+Operating profit
+1,260,712
+1,627,837
+Interest receivable and similar income
+-
+5,974
+=== page 7 ===
+Interest payable and similar expenses
+(15,632
+)
+(22,468
+)
+Profit before tax
+1,245,080
+1,611,343
+Tax on profit
+(314,861
+)
+(287,272
+)
+Profit after tax
+930,219
+1,324,071
+Retained earnings at the beginning of the year
+2,199,054
+1,513,499
+2,199,054
+1,513,499
+Profit for the year
+930,219
+1,324,071
+Dividends declared and paid
+(814,381
+)
+(638,516
+)
+Retained earnings at the end of the year
+2,314,892
+2,199,054
+The notes on pages 7 to 17 form part of these 
+financial statements
+.
+Page 4
+Sota Solutions Limited
+Registered number: 
+02346249
+Balance sheet
+As at 
+31 December 2023
+2023
+2022
+Note
+£
+£
+Fixed assets
+Intangible assets
+5
+118,754
+197,716
+Tangible assets
+6
+1,156,308
+914,804
+1,275,062
+1,112,520
+Current assets
+Stocks
+27,909
+32,151
+Debtors: amounts falling due within one year
+7
+746,033
+737,114
+Cash at bank and in hand
+1,820,277
+2,788,625
+2,594,219
+=== page 8 ===
+3,557,890
+Creditors: amounts falling due within one year
+8
+(
+1,339,716
+)
+(
+1,668,380
+)
+Net current assets
+1,254,503
+1,889,510
+Total assets less current liabilities
+2,529,565
+3,002,030
+Creditors: amounts falling due after more than one year
+9
+-
+(
+666,667
+)
+Provisions for liabilities
+Deferred tax
+(
+214,473
+)
+(
+136,109
+)
+(
+214,473
+)
+(
+136,109
+)
+Net assets
+2,315,092
+2,199,254
+Capital and reserves
+Called up share capital 
+10
+200
+200
+Profit and loss account
+2,314,892
+2,199,054
+2,315,092
+2,199,254
+Page 5
+Sota Solutions Limited
+Registered number: 
+02346249
+Balance sheet
+ (continued)
+As at 
+31 December 2023
+The
+financial statements
+ have been prepared in accordance with the provisions applicable to companies subject to the small companies regime, within the Companies Act 2006, Part 15, and in accordance with the provisions of FRS 102 Section 1A - small entities.
+The 
+financial statements
+ have been delivered in accordance with the provisions applicable to companies subject to the small companies regime.
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+=== page 9 ===
+:
+B Smoker
+Director
+Date: 
+11 September 2024
+The notes on pages 7 to 17 form part of these financial statements.
+Page 6
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+1.
+General information
+Sota Solutions Limited ("the company") is a private company limited by shares and incorporated in England with the registration number 02346249. The address of the registered office is Building 300, Cornforth Drive, Kent Science Park, Sittingbourne, Kent, ME9 8PX.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with FRS 102 'The Financial Reporting Standard applicable in the UK and the Republic of Ireland' and the requirements of the 
+Companies Act 2006
+. The disclosure requirements of Section 1A of FRS 102 have been applied other than where additional disclosure is required to show a true and fair view.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The company's financial statements are rounded to the nearest pound (£).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Sale of goods
+Revenue
+ from the sale of goods is recognised when all of the following conditions are satisfied:
+∙
+the 
+Company
+ has transferred the significant risks and rewards of ownership to the buyer;
+∙
+the 
+Company
+ retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold;
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the transaction; and
+∙
+the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+=== page 10 ===
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+Page 7
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+2.
+Accounting policies (continued)
+2.3
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of its identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, Goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight line basis to the statement of income and retained earnings over its useful economic life.
+Other intangible assets
+Intangible assets are initially measured at cost. After recognition, under the cost model, customer lists and development costs are  measured at cost less accumulated amortisation and accumulated impairment losses. These costs are amortised on a straight line basis to the statement of income and retained earnings over its useful economic life.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+2.4
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, .
+Depreciation is provided on the following basis:
+Plant and machinery
+-
+Straight line over 3 years, 5 years and 10 years
+Fixtures and fittings
+-
+Straight line over 3 years, 5 years and 10 years, 10% and 25% reducing balance
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.5
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+Page 8
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+2.
+Accounting policies (continued)
+2.6
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.7
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.8
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+balance sheet
+ when the 
+=== page 11 ===
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at each reporting date. 
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instruments any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other payables, bank loans
+ and
+ other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future receipts
+Page 9
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+2.
+Accounting policies (continued)
+2.8
+Financial instruments (continued)
+discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+2.9
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.10
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Page 10
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+2.
+Accounting policies (continued)
+2.11
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+2.12
+Share-based payments
+Where share options are awarded to employees, the fair value of the options at the date of grant is charged to profit or loss over the vesting period. Non-market vesting conditions are taken into account by adjusting the number of equity instruments expected to vest at each 
+balance sheet date
+ so that, ultimately, the cumulative amount recognised over the vesting period is based on the number of options that eventually vest. Market vesting conditions are factored into the fair value of the options granted. The cumulative expense is not adjusted for failure to achieve a market vesting condition.
+The fair value of the award also takes into account non-vesting conditions. These are either factors beyond the control of either party (such as a target based on an index) or factors which are within the control of one or other of the parties (such as the 
+=== page 12 ===
+Company
+ keeping the scheme open or the employee maintaining any contributions required by the scheme).
+Where the terms and conditions of options are modified before they vest, the increase in the fair value of the options, measured immediately before and after the modification, is also charged to profit or loss over the remaining vesting period.
+Where equity instruments are granted to persons other than employees, profit or loss is charged with fair value of goods and services received.
+2.13
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+The 
+Company
+ has taken advantage of the optional exemption available on transition to FRS 102 which allows lease incentives on leases entered into before the date of transition to the standard 
+01 January 2022
+ to continue to be charged over the period to the first market rent review rather than the term of the lease.
+2.14
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+balance sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.15
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+Page 11
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+2.
+Accounting policies (continued)
+2.16
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.17
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+2.18
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which range from 3 to 6 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.19
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+=== page 13 ===
+Page 12
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+3.
+Judgements in applying accounting policies and sources of estimation uncertainty
+The preparation of the financial statements requires the directors to make judgements, estimates and assumptions that can affect the amounts reported for assets and liabilities, and the results for the year.  The nature of estimation is such though that actual outcomes could differ from those estimates.
+The following judgements have had the most significant impact on amounts recognised in the financial statements, although are not considered to give rise to key estimate uncertainty:
+Lease commitments
+The company has entered into a range of lease commitments in respect of property, plant and equipment.  The classification of these leases as either financial or operating leases requires the directors to consider whether the terms and conditions of each lease are such that the company has acquired the risks and rewards associated with the ownership of the underlying assets.
+The following are the company’s sources of estimation uncertainty, although are not considered to give rise to significant uncertainty or key accounting estimates:
+I
+ntangible assets
+The company has recognised other intangible assets arising from business combinations with a carrying value of £76,350 (2022 - £128,537) at the reporting date (see note 5).  
+Goodwill
+On acquisition the company determines a reliable estimate of the useful life of goodwill and intangible assets based upon factors such as the expected use of the acquired business, forecasts of expected future results and cash flows, and any legal, regulatory or contractual provisions that can limit useful life.  At each subsequent reporting date the directors consider whether there are any factors such as technological advancements or changes in market conditions that indicate a need to reconsider the useful life of goodwill and intangible assets.
+Website
+The company has recognised costs relating to the development of its website which is then amortised over its expected useful life.
+Tangible fixed assets
+The company has recognised tangible fixed assets with a carrying value of £1,156,308 (2022 - £914,804) at the reporting date (see note 6).  These assets are stated at their cost less provision for depreciation and impairment.  The company’s accounting policy sets out the approach to calculating depreciation. Where there are indicators that the carrying value of tangible assets may be impaired the company undertakes tests to determine the recoverable amount of assets.  These tests require estimates of the fair value of assets less cost to sell and of their value in use.  Wherever possible the estimate of the fair value of assets is based upon observable market prices less incremental cost for disposing of the asset.  The value in use calculation is based upon a discounted cash flow model, based upon the company’s forecasts for the foreseeable future which do not include any restructuring activities that the company is not yet committed to or significant future investments that will enhance the asset’s performance.  The recoverable amount is most sensitive to the discount rate used for the discounted cash flow model as well expected future cash flows and the growth rate used for extrapolation purposes.
+Taxation
+Provision has been made in the financial statements for deferred tax amounting to £214,473 (2022 - £136,109) at the reporting date. This provision is based upon estimates of the availability of future taxable profits, the timing of the reversal of timing differences upon which the provision is based and the tax rates that will be in force at that time together with an assessment of the impact of future tax planning strategies. 
+Page 13
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+3.
+Judgements in applying accounting policies (continued)
+Share-based payments
+The company measures the cost of equity-settled transactions with employees by reference to the fair value of the equity instruments at the date at which they are granted. The estimation of fair value at the time of the grant of the options has been calculated by an external valuer. See note 12 for further details.
+4.
+Employees
+The average monthly number of employees, including directors, during the 
+year
+ was 
+70
+ (2022 - 
+63
+)
+.
+5.
+Intangible assets
+Customer list
+Develop- 
+ment costs
+Goodwill
+Total
+£
+£
+£
+£
+Cost
+At 1 January 2023
+208,164
+129,348
+334,900
+672,412
+Additions
+-
+569
+-
+569
+Disposals
+-
+(
+1,700
+)
+-
+(
+1,700
+=== page 14 ===
+)
+Impairment
+(
+14,012
+)
+-
+-
+(
+14,012
+)
+At 31 December 2023
+194,152
+128,217
+334,900
+657,269
+Amortisation
+At 1 January 2023
+79,627
+60,169
+334,900
+474,696
+Charge for the year on owned assets
+38,175
+25,644
+-
+63,819
+At 31 December 2023
+117,802
+85,813
+334,900
+538,515
+Net book value
+At 31 December 2023
+76,350
+42,404
+-
+118,754
+At 31 December 2022
+128,537
+69,179
+-
+197,716
+Page 14
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+6.
+Tangible fixed assets
+Plant and machinery
+Fixtures and fittings
+Total
+£
+£
+£
+Cost or valuation
+At 1 January 2023
+5,172,079
+1,823,868
+6,995,947
+Additions
+518,112
+194,710
+712,822
+Disposals
+(
+660
+)
+(
+18,784
+)
+=== page 15 ===
+(
+19,444
+)
+At 31 December 2023
+5,689,531
+1,999,794
+7,689,325
+Depreciation
+At 1 January 2023
+4,536,814
+1,544,329
+6,081,143
+Charge for the year on owned assets
+267,965
+183,909
+451,874
+At 31 December 2023
+4,804,779
+1,728,238
+6,533,017
+Net book value
+At 31 December 2023
+884,752
+271,556
+1,156,308
+At 31 December 2022
+635,265
+279,539
+914,804
+7.
+Debtors
+2023
+2022
+£
+£
+Trade debtors
+367,913
+273,392
+Other debtors
+3,880
+121,557
+Prepayments and accrued income
+374,240
+342,165
+746,033
+737,114
+Page 15
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+8.
+Creditors: Amounts falling due within one year
+2023
+2022
+£
+£
+Bank loans
+-
+200,000
+Trade creditors
+312,232
+392,644
+Corporation tax
+233,677
+309,702
+Other taxation and social security
+167,850
+160,479
+Other creditors
+84,470
+=== page 16 ===
+137,222
+Accruals and deferred income
+541,487
+468,333
+1,339,716
+1,668,380
+There is a fixed and floating charge in favour of Lloyds Bank PLC regarding the bank loan. The charge has been satisfied following the year-end.
+9.
+Creditors: Amounts falling due after more than one year
+2023
+2022
+£
+£
+Bank loans
+-
+666,667
+-
+666,667
+10.
+Share capital
+2023
+2022
+£
+£
+Allotted, called up and fully paid
+200
+ (2022 - 
+200
+)
+Ordinary
+shares of
+£
+1.00
+ each
+200
+200
+11.
+Pension commitments
+The company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the company  in an independently administered fund. The pension cost charge represents contributions payable by the company  to the fund and amounted to £67,003 (2022 - £55,574). Contributions totalling £31,116 (2022 - £29,004) were payable to the fund at the balance sheet date and are included in creditors.
+Page 16
+Sota Solutions Limited
+Notes to the financial statements
+For the year ended 31 December 2023
+12.
+Share based payments
+During the year ended 31 December 2020 the company introduced an Enterprise Management Incentive Scheme (EMI scheme) and granted a total of 1,000 share options to two of the directors. Under the terms of the EMI scheme the options will only vest on exit or 6 months before the 10th anniversary of the grant date.  The share options expire 10 years after their date of issue or if the director leaves employment. The share options will be settled by way of equity. 
+No share options vested during the year and there were no share options exercisable as at 31 December 2023. No share options were forfeited or expired during the year. All share options in issue have an exercise price of £200.00 and must be exercised by 23 April 2030.  At 31 December 2023 all 1,000 share options were outstanding. 
+13.
+Related party transactions
+All director's remuneration paid by the company during the year was done so under normal market conditions.
+During the year the company provided a loan totalling £10,000 to P Cowham, a shareholder and director of the company. No interest was charged on the loan. The loan was fully repaid in the year and the liability at the year end was nil.
+14.
+Controlling party
+The ultimate controlling party is Mr P Cowham, a Director, by virtue of his majority shareholding.
+15.
+Auditors' information
+The 
+auditors'
+ report on the financial statements for the 
+year
+ ended 
+31 December 2023
+ was 
+unqualified
+.
+The audit report was signed on 
+11 September 2024
+ by 
+Phillipa Symington ACA CA(SA)
+ (senior statutory auditor)
+=== page 17 ===
+ on behalf of 
+Clive Owen LLP
+.
+Page 17

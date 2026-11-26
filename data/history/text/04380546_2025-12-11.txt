@@ -1,0 +1,2193 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+false
+true
+true
+false
+No description of principal activity
+100
+2024-04-01
+113
+true
+false
+04380546
+2024-04-01
+2025-03-31
+04380546
+2023-04-01
+2024-03-31
+04380546
+2025-03-31
+04380546
+2024-03-31
+04380546
+2023-04-01
+04380546
+c:Exceptional
+2024-04-01
+2025-03-31
+04380546
+c:Exceptional
+2023-04-01
+2024-03-31
+04380546
+d:Director1
+2024-04-01
+2025-03-31
+04380546
+d:Director3
+2024-04-01
+2025-03-31
+04380546
+d:Director4
+2024-04-01
+2025-03-31
+04380546
+d:RegisteredOffice
+2024-04-01
+2025-03-31
+04380546
+c:Buildings
+c:LongLeaseholdAssets
+2024-04-01
+2025-03-31
+04380546
+c:Buildings
+c:LongLeaseholdAssets
+2025-03-31
+04380546
+c:Buildings
+c:LongLeaseholdAssets
+2024-03-31
+04380546
+c:PlantMachinery
+2024-04-01
+2025-03-31
+04380546
+c:PlantMachinery
+2025-03-31
+04380546
+=== page 2 ===
+c:PlantMachinery
+2024-03-31
+04380546
+c:PlantMachinery
+c:OwnedOrFreeholdAssets
+2024-04-01
+2025-03-31
+04380546
+c:OfficeEquipment
+2024-04-01
+2025-03-31
+04380546
+c:OfficeEquipment
+2025-03-31
+04380546
+c:OfficeEquipment
+2024-03-31
+04380546
+c:OfficeEquipment
+c:OwnedOrFreeholdAssets
+2024-04-01
+2025-03-31
+04380546
+c:ComputerEquipment
+2024-04-01
+2025-03-31
+04380546
+c:ComputerEquipment
+2025-03-31
+04380546
+c:ComputerEquipment
+2024-03-31
+04380546
+c:ComputerEquipment
+c:OwnedOrFreeholdAssets
+2024-04-01
+2025-03-31
+04380546
+c:OwnedOrFreeholdAssets
+2024-04-01
+2025-03-31
+04380546
+c:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2025-03-31
+04380546
+c:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-03-31
+04380546
+c:CurrentFinancialInstruments
+2025-03-31
+04380546
+c:CurrentFinancialInstruments
+2024-03-31
+04380546
+c:Non-currentFinancialInstruments
+2025-03-31
+04380546
+c:Non-currentFinancialInstruments
+2024-03-31
+04380546
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2025-03-31
+04380546
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2024-03-31
+04380546
+c:Non-currentFinancialInstruments
+c:AfterOneYear
+=== page 3 ===
+2025-03-31
+04380546
+c:Non-currentFinancialInstruments
+c:AfterOneYear
+2024-03-31
+04380546
+c:ReportableOperatingSegment1
+2024-04-01
+2025-03-31
+04380546
+c:ReportableOperatingSegment1
+2023-04-01
+2024-03-31
+04380546
+c:ReportableOperatingSegment2
+2024-04-01
+2025-03-31
+04380546
+c:ReportableOperatingSegment2
+2023-04-01
+2024-03-31
+04380546
+c:ReportableOperatingSegment3
+2024-04-01
+2025-03-31
+04380546
+c:ReportableOperatingSegment3
+2023-04-01
+2024-03-31
+04380546
+c:ReportableOperatingSegment5
+2024-04-01
+2025-03-31
+04380546
+c:ReportableOperatingSegment5
+2023-04-01
+2024-03-31
+04380546
+e:UnitedKingdom
+2024-04-01
+2025-03-31
+04380546
+e:UnitedKingdom
+2023-04-01
+2024-03-31
+04380546
+e:RestEuropeOutsideUK
+2024-04-01
+2025-03-31
+04380546
+e:RestEuropeOutsideUK
+2023-04-01
+2024-03-31
+04380546
+e:RestWorldOutsideUK
+2024-04-01
+2025-03-31
+04380546
+e:RestWorldOutsideUK
+2023-04-01
+2024-03-31
+04380546
+c:UKTax
+2024-04-01
+2025-03-31
+04380546
+c:UKTax
+2023-04-01
+2024-03-31
+04380546
+=== page 4 ===
+c:ShareCapital
+2025-03-31
+04380546
+c:ShareCapital
+2024-03-31
+04380546
+c:ShareCapital
+2023-04-01
+04380546
+c:SharePremium
+2025-03-31
+04380546
+c:SharePremium
+2024-03-31
+04380546
+c:SharePremium
+2023-04-01
+04380546
+c:RetainedEarningsAccumulatedLosses
+2024-04-01
+2025-03-31
+04380546
+c:RetainedEarningsAccumulatedLosses
+2025-03-31
+04380546
+c:RetainedEarningsAccumulatedLosses
+2023-04-01
+2024-03-31
+04380546
+c:RetainedEarningsAccumulatedLosses
+2024-03-31
+04380546
+c:RetainedEarningsAccumulatedLosses
+2023-04-01
+04380546
+c:OtherDeferredTax
+2025-03-31
+04380546
+c:OtherDeferredTax
+2024-03-31
+04380546
+d:OrdinaryShareClass1
+2024-04-01
+2025-03-31
+04380546
+d:OrdinaryShareClass1
+2025-03-31
+04380546
+d:OrdinaryShareClass1
+2024-03-31
+04380546
+d:FRS102
+2024-04-01
+2025-03-31
+04380546
+d:Audited
+2024-04-01
+2025-03-31
+04380546
+d:FullAccounts
+2024-04-01
+2025-03-31
+04380546
+d:PrivateLimitedCompanyLtd
+2024-04-01
+2025-03-31
+04380546
+c:WithinOneYear
+2025-03-31
+04380546
+=== page 5 ===
+c:WithinOneYear
+2024-03-31
+04380546
+c:BetweenOneFiveYears
+2025-03-31
+04380546
+c:BetweenOneFiveYears
+2024-03-31
+04380546
+c:HirePurchaseContracts
+c:WithinOneYear
+2025-03-31
+04380546
+c:HirePurchaseContracts
+c:WithinOneYear
+2024-03-31
+04380546
+c:HirePurchaseContracts
+c:BetweenOneFiveYears
+2025-03-31
+04380546
+c:HirePurchaseContracts
+c:BetweenOneFiveYears
+2024-03-31
+04380546
+c:DevelopmentCostsCapitalisedDevelopmentExpenditure
+c:InternallyGeneratedIntangibleAssets
+2024-04-01
+2025-03-31
+04380546
+2
+2024-04-01
+2025-03-31
+04380546
+4
+2024-04-01
+2025-03-31
+04380546
+c:OtherPropertyPlantEquipment
+c:LeasedAssetsHeldAsLessee
+2025-03-31
+04380546
+c:OtherPropertyPlantEquipment
+c:LeasedAssetsHeldAsLessee
+2024-03-31
+04380546
+c:DevelopmentCostsCapitalisedDevelopmentExpenditure
+c:OwnedIntangibleAssets
+2024-04-01
+2025-03-31
+04380546
+f:PoundSterling
+2024-04-01
+2025-03-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 
+04380546
+VCG Technology Services Limited
+Annual Report and Financial Statements
+For the Year Ended
+31 March 2025
+VCG Technology Services Limited
+Company Information
+Directors
+R Reynolds
+D Preston
+R S Moss
+Registered number
+=== page 6 ===
+04380546
+Registered office
+Signal Point Bredbury Park Way
+Bredbury
+Stockport
+SK6 2SN
+Independent auditors
+Hurst Accountants Limited
+Chartered Accountants & Statutory Auditors
+3 Stockport Exchange
+Stockport
+Cheshire
+SK1 3GG
+VCG Technology Services Limited
+Contents
+Page
+Strategic Report
+1 - 2
+Directors' Report
+3 - 4
+Independent Auditors' Report
+5 - 8
+Statement of Comprehensive Income
+9
+Balance Sheet
+10
+Statement of Changes in Equity
+11
+Notes to the Financial Statements
+12 - 29
+VCG Technology Services Limited
+Strategic Report
+For the Year Ended 31 March 2025
+Introduction
+The Directors present the Strategic Report for the year ended 31 March 2025.
+The Company’s principal activity was the provision of business-critical connectivity, managed networks, ICT solutions and related services. 
+Business review
+The Board identified the importance of ESG to it’s stakeholders. As such, an ESG policy has been created with specific targets set, that will be incorporated into key future decisions and business strategy. This will also enable the Company to trade with certain customers and suppliers who require such frameworks as part of their policies.
+In a change to the Senior Leadership Team, the Sales Director has left the business, and this had led to a full review of the Sales function and go-to market strategy. The Company have now appointed a Chief Revenue Officer with clear objectives to achieve current revenue forecasts and deliver future growth.
+The Board reinforced the importance of diversification in the customer base and partner offerings. New go to market strategies began to be launched and materials were created, to drive margin rich, contracted re-occurring revenue streams for the Company. This has been split into multiple workstreams which will continue to be rolled out into the start of the next Financial Year. The Board are focused on continuing the growth of recurring revenue, delivering a predictable cash flow to the business, and supporting a wider number of customers with an improved managed service offering.
+The Board continue to ensure large customer contracts are resigned, enabling the business to continue its partnerships for the coming years.
+Whilst revenue is important to the Company, there is also a focus on its expenditure. A number of exercises have been completed and started with suppliers to ensure that the best purchase prices are being obtained and discounts sought, and rebates maximised during its operations which will maximise the margin retained by the Company.
+Recruitment has been strategically evaluated during the year. A number of roles have not been directly replaced following attrition, rather evaluating where best to deploy headcount to maximise the benefit to the Company and its customers. As a Managed Service Provider, a lot of value is derived from our Team within the business and the skills they possess.
+The Company has evaluated many of its systems during the year and continued to invest and make improvements to the way it operates. AI solutions have been sought to drive value and support the Company in staying at the front of modern technology and emerging technologies with solutions set to go live at the start of the next Financial Year.
+For the year ended 31 March 2025 turnover was £20.98m (
+2024: £29.38m
+) which represents a decrease of 29% during the year. After depreciation, amortisation, and exceptional items, the Company made a pre-tax profit of £604k (
+2024: £722k
+), with EBITDAE of £1,070k (
+2024: £1,060k
+)
+Page 1
+VCG Technology Services Limited
+Strategic Report (continued)
+For the Year Ended 31 March 2025
+Principal risks and uncertainties
+Macro-economic factors
+With most of the activity within the Company UK based, the Company is dependent on the country's economic performance however the Company is constantly developing new business opportunities in different sectors to better hedge the Company's performance in the future. 
+Changing industry
+The Company continues to assess new and innovative solutions to partner with customers in providing solutions to support the changing ways they work and do business. 
+Supply chain
+The Board continues to work closely with our distributors and customers to manage the supply chain.  A Vendor Relationship Manager was appointed and there was a review and recruitment of Account Managers during the year to strengthen these relationships.
+Financial key performance indicators
+The company's key performance indicators are revenue and EBITDAE, both of which are analysed in the Business Review.
+This report was approved by the board
+ and signed on its behalf
+.
+................................................
+D Preston
+Director
+=== page 7 ===
+Date: 
+11 December 2025
+Page 2
+VCG Technology Services Limited
+Directors' Report
+For the Year Ended 31 March 2025
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 March 2025
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Strategic Report, the Directors' Report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+=== page 8 ===
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+606,718
+ (2024 - 
+£
+734,542
+)
+.
+Dividends of £280,000 (
+2024: £Nil
+) were paid during the year. 
+The directors do not recommend the payment of a final dividend (
+2024: £Nil
+).
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+R Reynolds
+D Preston
+R S Moss
+Future developments
+The Company continues to monitor changes in its operating sector and regularly assess which products and services it can to the portfolio to support the growth and future success of the Company.
+Page 3
+VCG Technology Services Limited
+Directors' Report (continued)
+For the Year Ended 31 March 2025
+Financial instruments
+Cash flow management and associated liquidity risk is a key factor for the business. 
+The company's ultimate parent entity holds a loan with an investor which attracts a fixed rate of interest. Management ensure that sufficient cash is generated by the company (as the active trading entity) to service this loan within its terms. 
+The company also has finance agreements in respect of some purchases, these are displayed as other loans and amounts due under hire purchase and finance agreements.
+Management closely monitor cash flows and ensure that sufficient working capital is available to allow the business to operate effectively. Customers are required to adhere to credit terms and in normal conditions there are limited bad debts.
+Qualifying third party indemnity provisions
+Insurance policies are in place that indemnify the directors against liability when acting for VCG Technology Services Limited.
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+=== page 9 ===
+are
+ aware of that information.
+Post balance sheet events
+There have been no significant events affecting the 
+Company
+ since the year end.
+Auditors
+The auditor
+s
+, 
+Hurst Accountants Limited
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+................................................
+D Preston
+Director
+Date: 
+11 December 2025
+Page 4
+VCG Technology Services Limited
+Independent Auditors' Report to the Members of VCG Technology Services Limited
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+VCG Technology Services Limited (the 'Company')
+ for the 
+year
+ ended 
+31 March 2025
+, which comprise 
+the Statement of Comprehensive Income, the Balance Sheet, the Statement of Changes in Equity
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 March 2025
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+=== page 10 ===
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' Report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+=== page 11 ===
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Page 5
+VCG Technology Services Limited
+Independent Auditors' Report to the Members of VCG Technology Services Limited (continued)
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic Report and the Directors' Report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic Report and the Directors' Report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic Report or the Directors' Report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+=== page 12 ===
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+Directors' Responsibilities Statement
+ set out on page 3, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or have no realistic alternative but to do so.
+Page 6
+VCG Technology Services Limited
+Independent Auditors' Report to the Members of VCG Technology Services Limited (continued)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' Report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+Identifying and assessing potential risks related to irregularities
+In identifying and assessing the risks of material misstatement in respect of irregularities, including fraud and non-compliance with laws and regulations, we considered the following:
+- The nature of the industry and sector in which the company operates; the control environment and business     performance including key drivers for directors' remuneration, bonus levels and performance targets.
+- The outcome of enquiries of company management, including whether management was aware of any instances of    non-compliance with laws and regulations, and whether management had knowledge of any actual, susepcted, or    alleged fraud. 
+- Supporting documentation relating to the Company's policies and procedures for:
+ - Identifying, evaluating, and complying with laws and regulations
+ - Detecting and responding to the risks of fraud
+- The internal controls established to mitigate risks related to fraud or non-compliance with laws and regulations.
+- The outcome of discussions amongst the engagement team regarding how and where fraud might occur in the    financial statements and any potential indicators of fraud.
+- The legal and regulatory framework in which the Company operates, particularly those laws and regulations which    have a direct effect on the financial statements, such as the Companies Act 2006, pensions and tax legislation, or    which had a fundamental effect on the operations of the Company, including General Data Protection requirements,   and Anti-bribery and Corruption.
+Audit response to risks identified
+Our procedures to respond to the risks identified included the following:
+- Reviewing the financial statements disclosures and testing to supporting documentation to assess compliance with    the provisions of those relevant laws and regulations which have a direct effect on the financial statements.
+- Discussions with management, including consideration of known or suspected instances of non-compliance with laws  and regulations and fraud.
+- Evaluation of the operating effectiveness of management’s controls designed to prevent and detect irregularities.
+- Enquiring of management about any actual and potential litigation and claims.
+- Performing analytical procedures to identify any unusual or unexpected relationships which may indicate risks of    material misstatement due to fraud.
+=== page 13 ===
+Page 7
+VCG Technology Services Limited
+Independent Auditors' Report to the Members of VCG Technology Services Limited (continued)
+We have also considered the risk of fraud through management override of controls by:
+- Testing the appropriateness of journal entries and other adjustments. We have used data analytics software to    identify accounting transactions which may pose a heightened risk of material misstatement, whether due to fraud or   error.
+- Challenging assumptions made by management in their significant accounting estimates, and assessing whether the    judgements made in making accounting estimates are indicative of a potential bias; and
+- Evaluating the business rationale of any significant transactions that are unusual or outside the normal course of    business.
+We also communicated relevant identified laws and regulations and potential fraud risks to all engagement team members and remained alert to any indications of fraud or non-compliance with laws and regulations throughout the audit.
+There are inherent limitations in the audit procedures described above, and the further removed non-compliance with laws and regulations are from the events and transactions reflected in the financial statements, the less likely we would become aware of them.  Also, the risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations, or through collusion.
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditors' Report
+.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' Report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+John Glover
+ (Senior Statutory Auditor)
+for and on behalf of
+Hurst Accountants Limited
+Chartered Accountants & Statutory Auditors
+3 Stockport Exchange
+Stockport
+Cheshire
+SK1 3GG
+11 December 2025
+Page 8
+VCG Technology Services Limited
+Statement of Comprehensive Income
+For the Year Ended
+31 March 2025
+2025
+2024
+Note
+£
+=== page 14 ===
+£
+Turnover
+4
+20,980,894
+29,380,521
+Cost of sales
+(
+14,448,496
+)
+(
+21,953,970
+)
+Gross profit
+6,532,398
+7,426,551
+Administrative expenses
+(
+5,685,192
+)
+(
+6,628,627
+)
+Exceptional administrative expenses
+13
+(
+288,494
+)
+(
+143,465
+)
+Operating profit
+5
+558,712
+654,459
+Interest receivable and similar income
+9
+76,100
+79,163
+Interest payable and similar expenses
+10
+(
+30,853
+)
+(
+11,276
+)
+Profit before tax
+603,959
+722,346
+Tax on profit
+11
+2,759
+12,196
+Profit for the financial year
+606,718
+734,542
+There were no recognised gains and losses for 
+2025
+ or 
+2024
+ other than those included in the 
+statement of comprehensive income
+.
+There was no other comprehensive income for 
+2025
+ (
+2024
+:
+£
+NIL
+=== page 15 ===
+).
+The notes on pages 12 to 29 form part of these 
+financial statements
+.
+Page 9
+VCG Technology Services Limited
+Registered number: 
+04380546
+Balance Sheet
+As at 
+31 March 2025
+2025
+2024
+Note
+£
+£
+Fixed assets
+Intangible assets
+14
+187,983
+-
+Tangible assets
+15
+445,313
+337,699
+633,296
+337,699
+Current assets
+Stocks
+16
+342,413
+559,509
+Debtors: amounts falling due within one year
+17
+5,904,475
+6,450,237
+Cash at bank and in hand
+18
+677,591
+2,167,270
+6,924,479
+9,177,016
+Creditors: amounts falling due within one year
+19
+(
+4,707,257
+)
+(
+7,143,656
+)
+Net current assets
+2,217,222
+2,033,360
+Total assets less current liabilities
+2,850,518
+2,371,059
+Creditors: amounts falling due after more than one year
+20
+(
+297,359
+)
+(
+144,618
+)
+Net assets
+2,553,159
+2,226,441
+Capital and reserves
+Called up share capital 
+24
+=== page 16 ===
+55,531
+55,531
+Share premium account
+25
+32,261
+32,261
+Profit and loss account
+25
+2,465,367
+2,138,649
+2,553,159
+2,226,441
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+................................................
+D Preston
+Director
+Date: 
+11 December 2025
+The notes on pages 12 to 29 form part of these financial statements.
+Page 10
+VCG Technology Services Limited
+Statement of Changes in Equity
+For the Year Ended 
+31 March 2025
+Called up share capital
+Share premium account
+Profit and loss account
+Total equity
+£
+£
+£
+£
+At 1 April 2023
+55,531
+32,261
+1,404,107
+1,491,899
+Comprehensive income for the year
+Profit for the year
+-
+-
+734,542
+734,542
+At 1 April 2024
+55,531
+32,261
+2,138,649
+2,226,441
+Comprehensive income for the year
+Profit for the year
+-
+-
+606,718
+606,718
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+(
+280,000
+)
+(
+=== page 17 ===
+280,000
+)
+At 31 March 2025
+55,531
+32,261
+2,465,367
+2,553,159
+Page 11
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+1.
+General information
+VCG Technology Services Limited is a private company limited by shares and incorporated in England and Wales. Its registered head office is located at Signal Point, Bredbury Park Way, Bredbury, Stockport, England, SK6 2SN. The company's registered number is 04380546.
+The Company’s principal activity was the provision of business-critical connectivity, managed networks, ICT solutions and related services. 
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+Vodat Communications Group (VCG) Holding Limited
+ as at 
+31 March 2025
+ and these financial statements may be obtained from 
+the Registrar
+.
+Page 12
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+2.
+Accounting policies (continued)
+2.3
+Foreign currency translation
+Functional and presentation currency
+The 
+=== page 18 ===
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+2.4
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+More detail is provided below regarding specific revenue streams:
+Support contracts and professional services
+Revenue is typically billed upfront to a customer and initially deferred in full. It is then recognised based on usually either one of the two criteria:
+-  Where the contract relates to amounts billed in advance of the time the service is to be provided,     revenue is released on a straight line basis over the period of the contract;
+-  Where the customer has purchased a set amount of time for a support contract, revenue is recognised    based on the number of hours consumed at a point in time.
+Page 13
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+2.
+Accounting policies (continued)
+2.4
+Revenue (continued)
+Licences
+Revenue generated from licences is typically a re-selling of a licence from a supplier. Therefore the entire value of the contract relates entirely to the licence itself, and revenue is therefore recognised in full upon the transfer of the licence to the customer.
+New installations
+Revenue generated from new installations is recognised based upon the completion of agreed stages, as set out in contracts with the customer.
+Often for such projects, equipment must be purchased as part of installation. This equipment is configured for each customer such that it cannot be repurposed for resale elsewhere, and once purchased the customer is obliged to pay the company.
+On occasion, the customer requests that the installation of the equipment be delayed, and therefore it is held by the company at its premises. It is the view of management that even though the equipment has not been installed, that the criteria to recognise a sale under the provisions of UK Accounting Standards have been met, and therefore the equipment is not recognised as stock in the company's balance sheet, but instead a sale and associated cost are recognised in the Statement of Comprehensive Income. 
+2.5
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.6
+Research and development
+In the research phase of an internal project it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which range from 3 to 6 years.
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+2.7
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+=== page 19 ===
+Page 14
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+2.
+Accounting policies (continued)
+2.9
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the 
+year
+ in which they are incurred.
+2.10
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance Sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.11
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+2.12
+Exceptional items
+Exceptional items are transactions that fall within the ordinary activities of the 
+Company
+ but are presented separately due to their size or incidence.
+Page 15
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+2.
+Accounting policies (continued)
+2.13
+Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+2.14
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Long-term leasehold property
+=== page 20 ===
+-
+Straight-line over the term of the lease
+Plant and machinery
+-
+20-50% straight-line
+Office equipment
+-
+33% straight-line
+Computer equipment
+-
+33-50% straight-line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.15
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.16
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+Page 16
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+2.
+Accounting policies (continued)
+2.17
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.18
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.19
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+2.20
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+Balance Sheet
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Company's
+ cash and cash equivalents, trade and most other debtors due with the operating cycle fall into this category of financial instruments.
+Impairment of financial assets
+At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss. 
+Page 17
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+2.
+Accounting policies (continued)
+2.20
+Financial instruments (continued)
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+=== page 21 ===
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other creditors, bank loans
+ and
+ other loans are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade creditors are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade creditors are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+2.21
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+Page 18
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+In the application of the Company's accounting policies, which are described in note 2, the directors are required to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+Judgements - revenue recognition
+As part of installation projects, the company purchases equipment such as routers to be installed at customer premises. This equipment is configured for each customer such that it cannot be repurposed for resale elsewhere, and once purchased the customer is obliged to pay the company.
+On occasion, the customer requests that the installation of the equipment be delayed, and therefore it is held by the company at its premises. It is the view of management that even though the equipment has not been installed, that the criteria to recognise a sale under the provisions of UK Accounting Standards have been met, and therefore the equipment is not recognised as stock in the company's balance sheet, but instead a sale and associated cost are recognised in the Statement of Comprehensive Income. 
+Judgements - bad debt provision
+Management closely monitor debtors and make appropriate provision where the recovery of debts is considered doubtful. At the year end, a bad debt provision of £21,659 (
+2024: £21,357
+) was recognised in the Balance sheet.  
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2025
+2024
+£
+£
+Support Contracts
+11,266,154
+10,683,388
+Licences
+5,517,803
+10,312,194
+Installations and other sales
+3,483,904
+6,991,526
+Professional Services
+713,033
+1,393,413
+20,980,894
+29,380,521
+Analysis of turnover by country of destination:
+2025
+2024
+£
+£
+United Kingdom
+20,203,962
+27,619,698
+Rest of Europe
+744,752
+1,702,364
+Rest of the world
+=== page 22 ===
+32,180
+58,459
+20,980,894
+29,380,521
+Page 19
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+5.
+Operating profit
+The operating profit/(loss) is stated after charging/(crediting):
+2025
+2024
+£
+£
+Exchange differences
+18,871
+48,109
+Other operating lease rentals
+279,859
+110,283
+6.
+Auditors' remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditors
+:
+2025
+2024
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+48,400
+46,650
+The 
+Company
+ has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the consolidated accounts of the parent 
+Company
+.
+7.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2025
+2024
+£
+£
+Wages and salaries
+5,089,716
+5,820,662
+Social security costs
+606,576
+670,068
+Cost of defined contribution scheme
+147,271
+151,659
+5,843,563
+6,642,389
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+=== page 23 ===
+ was as follows:
+2025
+2024
+No.
+No.
+Employees
+100
+113
+Page 20
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+8.
+Directors' remuneration
+2025
+2024
+£
+£
+Directors' emoluments
+491,264
+654,219
+Company contributions to defined contribution pension schemes
+13,621
+12,595
+Compensation for loss of office
+-
+70,650
+504,885
+737,464
+During the 
+year
+ retirement benefits were accruing to 
+3
+directors
+ (2024 - 
+4
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+246,225
+ (2024 - £
+266,139
+)
+.
+The value of the 
+Company
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+4,867
+ (2024 - £
+3,023
+)
+.
+During the year, no directors (
+2024: none
+) received share options under the active share option scheme operated by the parent company. No directors (
+2024: none
+) exercised share options during the year. Neither of the above relate to the highest paid director.
+9.
+Interest receivable
+2025
+2024
+£
+£
+Other interest receivable
+=== page 24 ===
+76,100
+79,163
+10.
+Interest payable and similar expenses
+2025
+2024
+£
+£
+Finance leases and hire purchase contracts
+30,853
+11,276
+Page 21
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+11.
+Taxation
+2025
+2024
+£
+£
+Corporation tax
+Adjustments in respect of previous periods
+-
+(
+3,131
+)
+Total current tax
+-
+(
+3,131
+)
+Deferred tax
+Origination and reversal of timing differences
+(
+2,759
+)
+(
+9,065
+)
+Total deferred tax
+(
+2,759
+)
+(
+9,065
+)
+Taxation on profit on ordinary activities
+(
+2,759
+)
+(
+12,196
+)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+the same as
+ (2024 - the same as) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2024 - 
+25
+%)
+ as set out below:
+2025
+2024
+=== page 25 ===
+£
+£
+Profit on ordinary activities before tax
+603,959
+722,346
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2024 - 25%)
+150,990
+180,587
+Effects of:
+Expenses not deductible for tax purposes
+27,178
+93,685
+Adjustments to tax charge in respect of prior periods
+-
+(
+3,131
+)
+Group relief
+(
+178,168
+)
+-
+Utilisation of losses previously not recognised in deferred tax
+-
+(
+296,045
+)
+Fixed asset differences
+-
+99
+Adjustments to tax charge in respect of prior periods - deferred tax
+(2,759
+)
+12,609
+Total tax charge for the year
+(
+2,759
+)
+(
+12,196
+)
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+Page 22
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+12.
+Dividends
+2025
+2024
+£
+£
+Dividends paid to Parent
+280,000
+-
+13.
+Exceptional items
+2025
+2024
+£
+£
+Exceptional items
+288,494
+143,465
+In the current and prior year, exceptional costs relate to professional fees relating to team reorganisation costs and redundancy.
+14.
+Intangible assets
+Development expenditure
+£
+=== page 26 ===
+Cost
+Additions - internal
+217,143
+At 31 March 2025
+217,143
+Amortisation
+Charge for the year on owned assets
+29,160
+At 31 March 2025
+29,160
+Net book value
+At 31 March 2025
+187,983
+At 31 March 2024
+-
+Capitalised intangible additions in the year comprise internally developed software and systems, including CRM and intranet platforms, e-signature and billing solutions, and a marketable ESG go-to-market proposition, all of which meet the recognition criteria under FRS 102.
+Page 23
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+15.
+Tangible fixed assets
+Short-term leasehold property
+Plant and machinery
+Office equipment
+Computer equipment
+Total
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 April 2024
+170,179
+44,487
+679,021
+1,444,173
+2,337,860
+Additions
+6,318
+-
+13,347
+281,389
+301,054
+Disposals
+(
+472
+)
+(
+30,719
+)
+(
+53,569
+)
+(
+481,959
+)
+(
+566,719
+)
+At 31 March 2025
+176,025
+13,768
+638,799
+1,243,603
+2,072,195
+Depreciation
+At 1 April 2024
+153,219
+=== page 27 ===
+44,487
+646,285
+1,156,170
+2,000,161
+Charge for the year on owned assets
+4,922
+-
+17,807
+170,608
+193,337
+Disposals
+(
+472
+)
+(
+30,719
+)
+(
+53,541
+)
+(
+481,884
+)
+(
+566,616
+)
+At 31 March 2025
+157,669
+13,768
+610,551
+844,894
+1,626,882
+Net book value
+At 31 March 2025
+18,356
+-
+28,248
+398,709
+445,313
+At 31 March 2024
+16,960
+-
+32,736
+288,003
+337,699
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+2025
+2024
+£
+£
+Computer equipment
+330,579
+188,262
+16.
+Stocks
+2025
+2024
+£
+£
+Finished goods and goods for resale
+342,413
+559,509
+Page 24
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+17.
+Debtors
+2025
+2024
+=== page 28 ===
+£
+£
+Trade debtors
+2,426,962
+3,320,309
+Amounts owed by group undertakings
+2,299,839
+1,927,609
+Other debtors
+37,739
+22,676
+Prepayments and accrued income
+1,132,652
+1,175,119
+Deferred taxation
+23
+7,283
+4,524
+5,904,475
+6,450,237
+Amounts due from group undertakings are unsecured, interest free, have no fixed date of repayment and are repayable on demand.
+18.
+Cash and cash equivalents
+2025
+2024
+£
+£
+Cash at bank and in hand
+677,591
+2,167,270
+19.
+Creditors: Amounts falling due within one year
+2025
+2024
+£
+£
+Other loans
+21
+-
+118,101
+Trade creditors
+1,490,843
+1,170,076
+Other taxation and social security
+389,502
+626,955
+Obligations under finance lease and hire purchase contracts
+22
+97,826
+43,644
+Other creditors
+44,962
+45,333
+Accruals and deferred income
+2,684,124
+5,139,547
+4,707,257
+7,143,656
+Finance lease obligations are secured against the assets to which they relate.
+Amounts due to group undertakings are unsecured, interest free, have no fixed date of repayment and are repayable on demand.
+Page 25
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+20.
+Creditors: Amounts falling due after more than one year
+2025
+2024
+£
+£
+=== page 29 ===
+Net obligations under finance leases and hire purchase contracts
+22
+297,359
+144,618
+Finance lease obligations are secured against the assets to which they relate.
+21.
+Loans
+Analysis of the maturity of loans is given below:
+2025
+2024
+£
+£
+Amounts falling due within one year
+Other loans
+-
+118,101
+-
+118,101
+The company obtained a loan from an external financier during the period ending 31 March 2023 repayable in three equal instalments over three years. The final repayment was made during the year. The loan was interest free.
+The loan was unsecured.
+22.
+Hire purchase and finance leases
+Minimum lease payments under hire purchase fall due as follows:
+2025
+2024
+£
+£
+Within one year
+122,896
+55,763
+Between 1-5 years
+346,490
+167,290
+469,386
+223,053
+Page 26
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+23.
+Deferred taxation
+2025
+2024
+£
+£
+At beginning of year
+4,524
+(
+4,541
+)
+Charged to profit or loss
+2,759
+9,065
+At end of year
+7,283
+4,524
+The 
+deferred tax asset
+ is made up as follows:
+2025
+2024
+£
+£
+Fixed asset timing differences
+4,125
+1,436
+Short term timing differences
+3,158
+3,088
+7,283
+=== page 30 ===
+4,524
+24.
+Share capital
+2025
+2024
+£
+£
+Allotted, called up and fully paid
+55,531
+ (2024 - 
+55,531
+)
+Ordinary
+shares of
+£
+1.00
+ each
+55,531
+55,531
+There is a single class of ordinary shares. There are no restrictions on dividends and the repayment of capital.
+25.
+Reserves
+Share premium account
+Includes any premiums received on issue of share capital. Any transaction costs associated with the issuing of shares are deducted from share premium.
+Profit and loss account
+Includes all current and prior period retained profits and losses.
+Page 27
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+26.
+Share-based payments
+The company has granted a number of share options to employees of the company. The options are in the parent entity, Vodat Communications Group (VCG) Holding Limited. 
+The movement in options is described below. The share based payment charge is deemed to be immaterial and is therefore not included in these financial statements.
+Share options exercised are made out of treasury shares which are held by the parent company.
+Weighted average exercise price (pence)
+2025
+Number
+2025
+Weighted average exercise price
+(pence)
+2024
+Number
+2024
+Outstanding at the beginning of the year
+0.99
+11,753,720
+1.12
+14,590,366
+Granted during the year
+1.00
+6,918,323
+-
+-
+Forfeited during the year
+-
+-
+1.70
+(2,836,646
+)
+Exercised during the year
+-
+-
+-
+-
+Outstanding at the end of the year
+0.99
+18,672,043
+0.99
+11,753,720
+=== page 31 ===
+2025
+2024
+Option pricing model used
+Black Scholes
+Black Scholes
+Weighted average share price (pence)
+1.00
+0.99
+Expected volatility
+50%
+50%
+Risk-free interest rate
+4.2%
+1.9%
+Of the total number of options outstanding at 31 March 2025, none had vested and none were exercisable. Options lapse at the latest on the 10th anniversary of the date of grant, but lapse earlier after certain specified dates (such as the sale of the Company or cessation of employment).
+None of the options had been exercised at the balance sheet date. Exercise prices range from 0.32 pence to 1.7 pence per share. The fair value of the options has been assessed and no equity-settled share-based payment expense has been accounted for on the basis that the expense would be immaterial.
+27.
+Pension commitments
+The company operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the company in an independently administered fund. The pension cost charge represents contributions payable by the company to the fund and amounted to £147,271 (
+2024: £151,659
+). Contributions totalling £39,022 (
+2024: £39,200
+) were payable to the fund at the balance sheet date and are included in creditors.
+Page 28
+VCG Technology Services Limited
+Notes to the Financial Statements
+For the Year Ended 31 March 2025
+28.
+Commitments under operating leases
+At 
+31 March 2025
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2025
+2024
+£
+£
+Not later than 1 year
+316,000
+136,000
+Later than 1 year and not later than 5 years
+531,000
+442,000
+847,000
+578,000
+29.
+Related party transactions
+The directors have chosen not to disclose transactions entered into with other companies wholly owned within the group as permitted under FRS 102 paragraph 33.1A.
+Included within exceptional costs is £55k relating to the salary of the chairman appointed by the private equity fund shareholder.
+30.
+Controlling party
+The ultimate parent undertaking is 
+Vodat Communications Group (VCG) Holding Limited
+ (Company number 07962206), a company incorporated in England and Wales.
+The parent company address is 
+Signal Point, Bredbury Park Way, Bredbury, Stockport, England, SK6 2SN
+.
+The consolidated financial statements of 
+Vodat Communications Group (VCG) Holding Limited
+ are available to the public and may be obtained from Companies House.
+Page 29

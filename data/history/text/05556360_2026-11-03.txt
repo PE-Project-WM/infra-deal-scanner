@@ -1,0 +1,1848 @@
+=== page 1 ===
+Taylor Plant Ltd
+Acorah Software Products - Accounts Production
+19.4.300
+false
+true
+true
+31 December 2024
+1 January 2024
+false
+23 October 2026
+true
+1 January 2025
+31 December 2025
+31 December 2025
+05556360
+Mrs J Branch
+Mr S Branch
+Mr A Thompson
+Mrs J Thompson
+Mr A Thompson
+false
+iso4217:GBP
+iso4217:EUR
+iso4217:USD
+xbrli:shares
+xbrli:pure
+xbrli:pure
+05556360
+2024-12-31
+05556360
+2025-12-31
+05556360
+2025-01-01
+2025-12-31
+05556360
+frs-core:CurrentFinancialInstruments
+2025-12-31
+05556360
+frs-core:Non-currentFinancialInstruments
+2025-12-31
+05556360
+frs-core:BetweenOneFiveYears
+2025-12-31
+05556360
+frs-core:FurnitureFittings
+2025-12-31
+05556360
+frs-core:FurnitureFittings
+2025-01-01
+2025-12-31
+05556360
+frs-core:FurnitureFittings
+2024-12-31
+05556360
+frs-core:LandBuildings
+frs-core:OwnedOrFreeholdAssets
+2025-12-31
+05556360
+frs-core:LandBuildings
+frs-core:OwnedOrFreeholdAssets
+2025-01-01
+2025-12-31
+05556360
+frs-core:LandBuildings
+frs-core:OwnedOrFreeholdAssets
+2024-12-31
+05556360
+frs-core:MotorVehicles
+2025-12-31
+05556360
+=== page 2 ===
+frs-core:MotorVehicles
+2025-01-01
+2025-12-31
+05556360
+frs-core:MotorVehicles
+2024-12-31
+05556360
+frs-core:PlantMachinery
+2025-12-31
+05556360
+frs-core:PlantMachinery
+2025-01-01
+2025-12-31
+05556360
+frs-core:PlantMachinery
+2024-12-31
+05556360
+frs-core:WithinOneYear
+2025-12-31
+05556360
+frs-core:ShareCapital
+2025-12-31
+05556360
+frs-core:RetainedEarningsAccumulatedLosses
+2025-01-01
+2025-12-31
+05556360
+frs-core:RetainedEarningsAccumulatedLosses
+2025-12-31
+05556360
+frs-countries:UnitedKingdom
+2025-01-01
+2025-12-31
+05556360
+frs-bus:HighestPaidDirector
+2025-01-01
+2025-12-31
+05556360
+frs-bus:PrivateLimitedCompanyLtd
+2025-01-01
+2025-12-31
+05556360
+frs-bus:FullAccounts
+2025-01-01
+2025-12-31
+05556360
+frs-bus:MediumEntities
+2025-01-01
+2025-12-31
+05556360
+frs-bus:Audited
+2025-01-01
+2025-12-31
+05556360
+frs-bus:Medium-sizedCompaniesRegimeForAccounts
+2025-01-01
+2025-12-31
+05556360
+frs-bus:Medium-sizedCompaniesRegimeForDirectorsReport
+2025-01-01
+2025-12-31
+05556360
+frs-bus:OrdinaryShareClass2
+2025-01-01
+2025-12-31
+05556360
+frs-bus:OrdinaryShareClass2
+2025-12-31
+05556360
+frs-bus:OrdinaryShareClass3
+=== page 3 ===
+2025-01-01
+2025-12-31
+05556360
+frs-bus:OrdinaryShareClass3
+2025-12-31
+05556360
+1
+2025-01-01
+2025-12-31
+05556360
+frs-core:DeferredTaxation
+2025-01-01
+2025-12-31
+05556360
+frs-core:DeferredTaxation
+2024-12-31
+05556360
+frs-core:DeferredTaxation
+2025-12-31
+05556360
+frs-core:AcceleratedTaxDepreciationDeferredTax
+2025-12-31
+05556360
+frs-core:CostValuation
+2024-12-31
+05556360
+frs-core:AdditionsToInvestments
+2025-12-31
+05556360
+frs-core:RevaluationsIncreaseDecreaseInInvestments
+2025-12-31
+05556360
+frs-core:TransfersIntoOrOutInvestmentsIncreaseDecreaseInInvestments
+2025-12-31
+05556360
+frs-core:CostValuation
+2025-12-31
+05556360
+frs-core:ProvisionsForImpairmentInvestments
+2024-12-31
+05556360
+frs-core:ProvisionsForImpairmentInvestments
+2025-12-31
+05556360
+frs-core:UnlistedNon-exchangeTraded
+2025-12-31
+05556360
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+05556360
+frs-core:CostValuation
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+05556360
+frs-core:AdditionsToInvestments
+frs-core:UnlistedNon-exchangeTraded
+2025-12-31
+05556360
+frs-core:RevaluationsIncreaseDecreaseInInvestments
+frs-core:UnlistedNon-exchangeTraded
+2025-12-31
+05556360
+frs-core:TransfersIntoOrOutInvestmentsIncreaseDecreaseInInvestments
+frs-core:UnlistedNon-exchangeTraded
+2025-12-31
+05556360
+frs-core:CostValuation
+frs-core:UnlistedNon-exchangeTraded
+2025-12-31
+05556360
+=== page 4 ===
+frs-core:ProvisionsForImpairmentInvestments
+frs-core:UnlistedNon-exchangeTraded
+2024-12-31
+05556360
+frs-core:ProvisionsForImpairmentInvestments
+frs-core:UnlistedNon-exchangeTraded
+2025-12-31
+05556360
+frs-bus:Director1
+2025-01-01
+2025-12-31
+05556360
+frs-bus:Director2
+2025-01-01
+2025-12-31
+05556360
+frs-bus:Director3
+2025-01-01
+2025-12-31
+05556360
+frs-bus:Director4
+2025-01-01
+2025-12-31
+05556360
+frs-bus:CompanySecretary1
+2025-01-01
+2025-12-31
+05556360
+1
+2025-01-01
+2025-12-31
+05556360
+2
+2025-01-01
+2025-12-31
+05556360
+3
+2025-01-01
+2025-12-31
+05556360
+1
+2025-01-01
+2025-12-31
+05556360
+frs-countries:EnglandWales
+2025-01-01
+2025-12-31
+05556360
+frs-core:ProductService1
+2025-01-01
+2025-12-31
+05556360
+frs-core:ProductService2
+2025-01-01
+2025-12-31
+05556360
+frs-core:ProductService3
+2025-01-01
+2025-12-31
+05556360
+frs-core:ProductService4
+2025-01-01
+2025-12-31
+05556360
+2023-12-31
+05556360
+2024-12-31
+05556360
+2024-01-01
+2024-12-31
+=== page 5 ===
+05556360
+frs-core:CurrentFinancialInstruments
+2024-12-31
+05556360
+frs-core:Non-currentFinancialInstruments
+2024-12-31
+05556360
+frs-core:BetweenOneFiveYears
+2024-12-31
+05556360
+frs-core:MotorVehicles
+2024-01-01
+2024-12-31
+05556360
+frs-core:PlantMachinery
+2024-01-01
+2024-12-31
+05556360
+frs-core:WithinOneYear
+2024-12-31
+05556360
+frs-core:ShareCapital
+2023-12-31
+05556360
+frs-core:ShareCapital
+2024-12-31
+05556360
+frs-core:RetainedEarningsAccumulatedLosses
+2024-01-01
+2024-12-31
+05556360
+frs-core:RetainedEarningsAccumulatedLosses
+frs-core:PreviouslyStatedAmount
+2023-12-31
+05556360
+frs-core:RetainedEarningsAccumulatedLosses
+2024-12-31
+05556360
+frs-countries:UnitedKingdom
+2024-01-01
+2024-12-31
+05556360
+frs-bus:HighestPaidDirector
+2024-01-01
+2024-12-31
+05556360
+frs-bus:OrdinaryShareClass2
+2024-01-01
+2024-12-31
+05556360
+frs-bus:OrdinaryShareClass3
+2024-01-01
+2024-12-31
+05556360
+frs-core:AcceleratedTaxDepreciationDeferredTax
+2024-12-31
+05556360
+1
+2024-01-01
+2024-12-31
+05556360
+2
+2024-01-01
+2024-12-31
+05556360
+3
+2024-01-01
+2024-12-31
+05556360
+frs-core:ProductService1
+=== page 6 ===
+2024-01-01
+2024-12-31
+05556360
+frs-core:ProductService2
+2024-01-01
+2024-12-31
+05556360
+frs-core:ProductService3
+2024-01-01
+2024-12-31
+05556360
+frs-core:ProductService4
+2024-01-01
+2024-12-31
+Registered number: 05556360
+Taylor Plant Ltd
+Strategic Report, Directors' Report and
+Financial Statements
+For The Year Ended 31 December 2025
+Taylor Plant Ltd
+Contents
+Contents
+Page
+Strategic Report
+1—2
+Directors' Report
+3—5
+Independent Auditor's Report
+6—10
+Statement of Comprehensive Income
+11
+Balance Sheet
+12—13
+Statement of Changes in Equity
+14
+Statement of Cash Flows
+15
+Notes to the Statement of Cash Flows
+16
+Notes to the Financial Statements
+17—32
+Page 1
+Taylor Plant Ltd
+Strategic Report
+For The Year Ended 31 December 2025
+Strategic Report
+The directors present their strategic report for the year ended 31 December 2025.
+Principal Activity
+The principal activity of the company continued to be that of civil engineering and contracting.
+Review of the Business
+In the Directors' opinion, the performance of the Company during the year ended 31 December 2025 was very strong, with the Company once again performing well in financial milestones in terms of turnover, gross profit and EBITDA.
+The Company achieved a £13.5m turnover - an increase of 30.0% on the previous year - with EBITDA at £2.9m and Profit before tax ('PBT') £2.7m.  These impressive results are testament to the management team's tenacity and commitment in pursuing and successfully delivering the aims of the directors. This performance was driven by capitalising on opportunities provided by customers dealing with the swiftly moving construction market over the course of the year.
+The company's key financial and other performance indicators during the year were as follows:
+2025
+2024
+Turnover
+£13,528,100
+£10,406,994
+Gross Profit
+£4,095,755
+£3,015,979
+EBITDA
+£2,875,919
+£2,207,568
+Financial Key Performance Indicators 
+The directors have implemented a range of key performance indicators across the business which are aligned to the strategic objectives of the Company and have been identified in the business review above.
+Principal Risks and Uncertainties
+The success of the Company strategy and expected growth of the Company are subject to a number of identified key risks and uncertainties which are monitored on a regular basis by the management team, of which the key risk is as follows
+Construction sectors markets are predicting an upswing in market conditions throughout 2026, but this is tempered by the uncertainty surrounding the global economy following tariff changes and the impacts this will bring.  It is recognised that actual events may be influenced by this and other uncertainties and the directors remain cognisant of and responsive towards external market forces.
+All risks are monitored on a regular basis, with remedial action swiftly implemented where required.
+=== page 7 ===
+Page 1
+Page 2
+Taylor Plant Ltd
+Strategic Report (continued)
+For The Year Ended 31 December 2025
+Future Developments
+The directors have reviewed the company’s financial position and future forecasts and believes the company will continue to trade as a going concern well into the future.
+The changes in structure carried out over the last eighteen months have resulted in growth in both turnover and profit. The management team now works closely together, which has improved the quality and quantity of work secured by the company and has had a positive impact on profitability and growth.
+The company continues to invest in machinery, vehicles and staff training to support future operations and growth. During the previous financial year, over £800k was invested in machinery, and over £200k has already been invested during the current year.
+The company will continue to operate mainly within the utility services industry, alongside civil engineering and building projects as opportunities arise. The directors have reviewed current and expected workloads and are satisfied there is sufficient ongoing work to support the business over the assessment period.
+The first quarter results for the current year have been strong, with positive profit and loss figures and healthy trading performance. Management expects the company to generate sufficient income and cash flow to meet its liabilities as they fall due. 
+Based on the above, management believes the company is in a strong position for the foreseeable future.
+On behalf of the board
+Mr A Thompson
+Director
+23/10/2026
+Page 2
+Page 3
+Taylor Plant Ltd
+Company No. 05556360
+Directors' Report 
+For The Year Ended 31 December 2025
+Directors' Report
+The directors present their report and the financial statements for the year ended 31 December 2025.
+Dividends
+The value of dividends paid amounted to 
+£
+718,400
+ (2024: £515,000)
+The directors recommended a final dividend of 
+£
+NIL
+.
+Results
+The profit for the year, after taxation, amounted to £2,015,965 (2024: £1,460,742).
+Financial Instruments
+The company has procedures to identify risk and protect and manage the company from events that may hinder its financial performance objectives.
+The objectives aim to limit counterparty exposure, ensure sufficient working capital exists and monitor and manage risk. 
+The company does not consider it necessary to employ derivatives such as forward currency contracts to manage risk based on the current activities of the company.
+Objectives and policies
+The company currently utilises external providers to fund its purchase of plant and machinery needed to carry out its activities. 
+The cash position is actively monitored to ensure that the repayment terms will continue to be met.
+Price risk, credit risk, liquidity risk and cash flow risk
+Price risk - the company is exposed to price risk as a result of its operations. However, sales prices are constantly reviewed and agreed by management to ensure they reflect any fluctuations within the market place.
+Credit risk - the company is exposed to price risk as a result of its operations.  However, trade debtors are constantly reviewed and agreed by management to ensure where this risk increases, further work is not undertaken.
+Liquidity and cash flow risk - the company has minimal exposure to liquidity risk and tightly monitors and controls its cash flow.
+Directors
+The directors who held office during the year were as follows: 
+Mrs J Branch
+Mr S Branch
+Mr A Thompson
+Mrs J Thompson
+Post Balance Sheet Events
+There have been no significant events affecting the Company since the year-end.
+Page 3
+Page 4
+Taylor Plant Ltd
+Directors' Report (continued)
+For The Year Ended 31 December 2025
+Matters covered in the Strategic Report
+Disclosures required under s416(4) of the Companies Act 2006 are commented upon in the Strategic Report as the directors consider them to be of strategic importance to the business.
+Statement of Directors' Responsibilities
+The directors are responsible for preparing the Strategic Report, the Directors' Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards, comprising FRS102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland', and applicable law). Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that period. In preparing the financial statements the directors are required to:
+select suitable accounting policies and then apply them consistently;
+make judgments and accounting estimates that are reasonable and prudent;
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+ The directors are responsible for the maintenance and integrity of the corporate and financial information included on the company's website. Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+Statement of Disclosure of Information to Auditors
+=== page 8 ===
+In the case of each director in office at the date the Directors' Report is approved: 
+so far as the director is aware, there is no relevant audit information of which the company's auditors are unaware; and
+they have taken all the steps that they ought to have taken as directors in order to make themselves aware of any relevant audit information and to establish that the company's auditors are aware of that information.
+Page 4
+Page 5
+Taylor Plant Ltd
+Directors' Report (continued)
+For The Year Ended 31 December 2025
+Independent Auditors
+The auditors, ML Audit LLP, will be proposed for reappointment in accordance with section 485 of the Companies Act 2006.
+On behalf of the board
+Mr A Thompson
+Director
+23/10/2026
+Page 5
+Page 6
+Independent Auditor's Report 
+ to the Members of
+Taylor Plant Ltd
+Independent Auditor's Report
+Opinion
+We have audited the financial statements of 
+Taylor Plant Ltd
+ (the 'company') for the year ended 31 December 2025 which comprise the Statement of Comprehensive Income, Balance Sheet, Statement of Changes of Equity, Cash Flow Statement and the related notes, including significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland".
+In our opinion the financial statements:
+give a true and fair view of the state of the company's affairs as at 31 December 2025 and of its profit for the year then ended;
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for Opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the Auditor's responsibilities for the audit of the financial statements section of our report. We are independent of the company in accordance with the ethical requirements that are relevant  to  our  audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions Relating to Going Concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the entity's ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Page 6
+Page 7
+Independent Auditor's Report (continued) 
+ to the Members of
+Taylor Plant Ltd
+Other Information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor's report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on Other Matters Prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+the information given in the Strategic Report and Directors' Report for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+the Strategic Report and Directors' Report have been prepared in accordance with applicable legal requirements.
+Matters on Which We Are Required to Report by Exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have not identified material misstatements in the Strategic Report or the Directors' Report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion:
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches not visited by us; or
+the financial statements are not in agreement with the accounting records or returns; or
+certain disclosures of directors' remuneration specified by law are not made; or
+we have not received all the information and explanations we require for our audit.
+Responsibilities of Directors
+As explained more fully in the Directors' Responsibilities Statement set out on pages 
+3—5
+, the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic alternative but to do so.
+Page 7
+Page 8
+Independent Auditor's Report (continued) 
+ to the Members of
+Taylor Plant Ltd
+Auditor's Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+In planning and designing our audit tests, we identify and assess the risks of material mis-statements, whether due to fraud or error. Our assessment of these risks includes the following: 
+the nature of the industry and sector, control environment and business performance including the key drivers for directors' remuneration, bonus levels and performance targets;
+results of our enquiries of management about their own identification and assessment of the risks of irregularities;
+=== page 9 ===
+any matters we identified having made enquiries of management about their policies and procedures relating to:
+           - identifying, evaluating and complying with laws and regulations and whether they were                    aware of any instances of non-compliance;
+           - detecting and responding to the risks of fraud and whether they have knowledge of any                    actual, suspected or alleged fraud;
+           - the internal controls established to mitigate risks of fraud or non-compliance with laws                    and regulations;
+the matters discussed among the audit engagement team regarding how and where fraud might occur in the financial statements and any potential indicators of fraud.
+As a result of these procedures, we considered the opportunities and incentives that may exist within the organisation for fraud. In common with all audits under ISAs (UK), we are also required to perform specific procedures to respond to the risk of management override.
+We have also obtained an understanding of the legal and regulatory frameworks that the company operates in, focusing on provisions of those laws and regulations that had a direct effect on the determination of material amounts and disclosures in the financial statements. The key laws and regulations we considered in this context includes the UK Companies Act, FRS 102 and UK tax legislation. In addition, we considered provisions of other laws and regulations that do not have a direct impact on the financial statements but compliance with which may be fundamental to the company's ability to operate or avoid material penalty. These include data protection, anti-bribery, employment law, environmental and health and safety legislation.
+...CONTINUED
+Page 8
+Page 9
+Independent Auditor's Report (continued) 
+ to the Members of
+Taylor Plant Ltd
+Auditor's Responsibilities for the Audit of the Financial Statements - continued
+As a result of performing the above, our procedures to respond to the risks identified included the following:
+reviewing the financial statement disclosures and testing to supporting documentation to assess compliance with provisions of relevant laws and regulations described as having a direct effect on the financial statements;
+enquiring of management concerning actual and potential litigation and claims;
+reading minutes of meetings of those charged with governance;
+reviewing correspondence with HMRC;
+performing analytical procedures to identify any unusual or unexpected relationships that may indicate risks of material misstatement due to fraud:
+obtained an understanding of provisions and held discussions with management to understand the basis of recognition or non-recognition of tax provisions; and
+in addressing the risk of fraud through management override of controls, testing the appropriateness of journal entries and other adjustments; assessing whether the judgements made in making accounting estimates are indicative of a potential bias; and evaluating the business rationale of any significant transactions that are unusual or outside the normal course of business.
+We also communicated relevant identified laws and regulations and potential fraud risks to all engagement team members and remained alert to any indications of fraud or noncompliance with laws and regulations throughout the audit.
+There are inherent limitations in our audit procedures described above. The more removed that laws and regulations are from financial transactions, the less likely it is that we would become aware of non-compliance. Auditing standards also limit the audit procedures required to identify non-compliance with laws and regulations to enquiry of the directors and other management and the inspection of regulatory and legal correspondence, if any. Material misstatements that arise due to fraud can be harder to detect than those that arise from error as they may involved deliberate concealment, collusion, forgery, ommissions or misrepresentation.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's website www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Use Of Our Report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters that we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+Page 9
+Page 10
+Independent Auditor's Report (continued) 
+ to the Members of
+Taylor Plant Ltd
+Mr Guy Armitage-Norton
+ (Senior Statutory Auditor)
+ for and on behalf of 
+ML Audit LLP
+, Statutory Auditor
+23/10/2026
+ML Audit LLP
+Statutory Auditors
+Freshford House
+Redcliffe Way
+Bristol
+BS1 6NL
+Page 10
+Page 11
+Taylor Plant Ltd
+Statement of Comprehensive Income
+For The Year Ended 31 December 2025
+Statement of Comprehensive Income
+2025
+2024
+Notes
+£
+£
+TURNOVER
+3
+13,528,101
+10,406,993
+Cost of sales
+(
+9,432,346
+)
+(
+7,391,014
+)
+GROSS PROFIT
+4,095,755
+3,015,979
+Administrative expenses
+=== page 10 ===
+(
+1,550,664
+)
+(
+1,094,830
+)
+Other operating income
+15,844
+13,860
+OPERATING PROFIT
+2,560,935
+1,935,009
+Fair value gains on investments
+58,582
+-
+Income from other current asset investments
+39,459
+5,162
+Profit/(loss) on disposal of fixed assets
+14,159
+(
+15,066
+)
+Other interest receivable and similar income
+9
+20,665
+59,393
+Interest payable and similar charges
+10
+(
+16,813
+)
+(
+31,767
+)
+PROFIT BEFORE TAXATION
+2,676,987
+1,952,731
+Tax on Profit
+11
+(
+661,022
+)
+(
+491,989
+)
+PROFIT AFTER TAXATION BEING PROFIT FOR THE FINANCIAL YEAR
+2,015,965
+1,460,742
+OTHER COMPREHENSIVE INCOME FOR THE YEAR
+-
+-
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+2,015,965
+1,460,742
+The statement of comprehensive income has been prepared on the basis that all operations are continuing operations.
+The company has no recognised gains or losses for the year other than the results above. Accordingly, a separate Statement of Other Comprehensive Income has not been presented.
+The notes on 
+pages 16 to 32
+ form part of these financial statements.
+Page 11
+Page 12
+Taylor Plant Ltd
+Balance Sheet
+As At 
+31 December 2025
+Balance Sheet
+Registered number: 
+05556360
+2025
+=== page 11 ===
+2024
+Notes
+£
+£
+£
+£
+FIXED ASSETS
+Tangible Assets
+12
+3,758,574
+3,219,981
+Investments
+13
+2,103,203
+1,505,162
+5,861,777
+4,725,143
+CURRENT ASSETS
+Debtors: amounts falling due within one year
+14
+2,052,466
+2,016,997
+Cash at bank and in hand
+1,979,440
+1,182,985
+4,031,906
+3,199,982
+Creditors: Amounts Falling Due Within One Year
+15
+(
+1,356,701
+)
+(
+1,144,434
+)
+NET CURRENT ASSETS (LIABILITIES)
+2,675,205
+2,055,548
+TOTAL ASSETS LESS CURRENT LIABILITIES
+8,536,982
+6,780,691
+Creditors: Amounts Falling Due After More Than One Year
+16
+(
+495,782
+)
+(
+171,936
+)
+PROVISIONS FOR LIABILITIES
+Deferred Taxation
+18
+(
+469,323
+)
+(
+334,443
+)
+NET ASSETS
+7,571,877
+6,274,312
+CAPITAL AND RESERVES
+Called up share capital
+20
+200
+200
+Profit and Loss Account
+7,571,677
+6,274,112
+SHAREHOLDERS' FUNDS
+=== page 12 ===
+7,571,877
+6,274,312
+Page 12
+Page 13
+Taylor Plant Ltd
+Balance Sheet (continued)
+As At 
+31 December 2025
+On behalf of the board
+Mr A Thompson
+Director
+23/10/2026
+The notes on 
+pages 16 to 32
+ form part of these financial statements.
+Page 13
+Page 14
+Taylor Plant Ltd
+Statement of Changes in Equity
+For The Year Ended 31 December 2025
+Statement of Changes in Equity
+Share Capital
+Profit and Loss Account
+Total
+£
+£
+£
+As at 1 January 2024
+200
+5,328,370
+5,328,570
+Profit for the year and total comprehensive income
+-
+1,460,742
+1,460,742
+Dividends paid
+-
+(515,000
+)
+(515,000
+)
+As at 31 December 2024 and 1 January 2025
+200
+6,274,112
+6,274,312
+Profit for the year and total comprehensive income
+-
+2,015,965
+2,015,965
+Dividends paid
+-
+(718,400
+)
+(718,400
+)
+As at 31 December 2025
+200
+7,571,677
+7,571,877
+Page 14
+Page 15
+Taylor Plant Ltd
+Statement of Cash Flows
+For The Year Ended 31 December 2025
+Statement of Cash Flows
+2025
+2024
+Notes
+£
+£
+=== page 13 ===
+Cash flows from operating activities
+Net cash generated from operations
+1
+3,000,766
+2,596,932
+Interest paid
+(
+16,812
+)
+(
+31,767
+)
+Tax paid
+(
+562,625
+)
+(
+727,724
+)
+Net cash generated from operating activities
+2,421,329
+1,837,441
+Cash flows from investing activities
+Purchase of tangible assets
+(
+299,094
+)
+(
+2,200,328
+)
+Proceeds from disposal of tangible assets
+22,746
+29,500
+Purchase of other fixed asset investments
+(
+500,000
+)
+(
+1,500,000
+)
+Proceeds from disposal of other fixed asset investments
+-
+(
+5,162
+)
+Grants received
+6,320
+2,700
+Interest received
+20,664
+64,555
+Net cash used in investing activities
+(
+749,364
+)
+(
+3,608,735
+)
+Cash flows from financing activities
+Equity dividends paid
+(
+718,400
+)
+(
+515,000
+)
+Repayment of finance leases
+(
+189,354
+)
+=== page 14 ===
+(
+37,820
+)
+Amount introduced by directors
+32,244
+-
+Amount withdrawn by directors
+-
+(31,213
+)
+Net cash used in financing activities
+(
+875,510
+)
+(
+584,033
+)
+Increase/(decrease) in cash and cash equivalents
+796,455
+(
+2,355,327
+)
+Cash and cash equivalents at beginning of year
+2
+1,182,985
+3,538,312
+Cash and cash equivalents at end of year
+2
+1,979,440
+1,182,985
+Page 15
+Page 16
+Taylor Plant Ltd
+Notes to the Statement of Cash Flows
+For The Year Ended 31 December 2025
+Notes to the Statement of Cash Flows
+1.
+Reconciliation of profit for the financial year to cash generated from operations
+2025
+2024
+£
+£
+Profit for the financial year
+2,015,965
+1,460,742
+Adjustments for:
+Tax on profit
+661,022
+491,989
+Interest expense
+16,813
+31,767
+Interest income
+(
+20,665
+)
+(
+59,393
+)
+Income from investments
+(39,459
+)
+(5,162
+)
+Depreciation of tangible assets
+314,984
+287,625
+(Profit)/loss on disposal of tangible assets
+(14,159
+)
+=== page 15 ===
+15,066
+Net fair value gains recognised in profit or loss
+(58,582
+)
+-
+Grant income
+(6,320
+)
+(2,700
+)
+Movements in working capital:
+(Increase)/decrease in trade and other debtors
+(
+66,682
+)
+332,509
+Increase in trade and other creditors
+197,849
+44,489
+Net cash generated from operations
+3,000,766
+2,596,932
+2.
+Cash and cash equivalents
+Cash and cash equivalents, as stated in the Statement of Cash Flows, relates to the following items in the Balance Sheet:
+2025
+2024
+£
+£
+Cash at bank and in hand
+1,979,440
+1,182,985
+3.
+Analysis of changes in net funds
+As at 1 January 2025
+Cash flows
+New finance leases
+As at 31 December 2025
+£
+£
+£
+£
+Cash at bank and in hand
+1,182,985
+796,455
+-
+1,979,440
+Finance leases
+(307,045
+)
+189,354
+(563,070
+)
+(680,761
+)
+875,940
+985,809
+(563,070
+)
+1,298,679
+Page 16
+Page 17
+Taylor Plant Ltd
+Notes to the Financial Statements
+For The Year Ended 31 December 2025
+Notes to the Financial Statements
+1.
+General Information
+Taylor Plant Ltd
+ is a private company, limited by shares, incorporated in England & Wales, registered number 
+=== page 16 ===
+05556360
+. The registered office is Warren Lane, Bath Road, Langford, Bristol, BS40 5EB.
+2.
+Accounting Policies
+2.1.
+Basis of Preparation of Financial Statements
+The financial statements have been prepared under the historical cost convention and in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland and the Companies Act 2006.
+The preparation of financial statements in compliance with FRS 102 requires the use of certain critical accounting estimates. It also requires management to exercise judgement in applying the Company's accounting policies (see note 2.3).
+The financial statements are prepared in sterling, which is the functional currency of the company. Monetary amounts in these financial statements are rounded to the nearest £.
+The financial statements have been prepared under the historical cost convention, except for fixed asset investments which are held at fair value. The principal accounting policies adopted are set out below.
+2.2.
+Going Concern Disclosure
+The directors have reviewed the company's supply chains, key customers and capital resources and are satisfied that the company is well placed for the foreseeable future. Based on the above information available to the directors at the date of approval, the directors consider it appropriate to continue to adopt the going concern basis in preparing these financial statements and that the company has adequate resources to continue to trade for the foreseeable future being 12 months from approval of these financial statements.
+2.3.
+Significant judgements and estimations
+In the application of the company's accounting policies, the directors are required to make judgements, estimates and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised where the revision affects only that period, or in the period of the revision and future periods where the revision affects both current and future periods. During the year, an estimate of depreciation of £314,984 (2024: £287,625) has been recognised.
+The directors consider the requirement for any provisions for retentions to have a significant risk of carrying a material adjustment. No provision for retentions has been made for the year ended 31 December 2025 (2024: £Nil). This estimation is based on the ageing of the debts and the likelihood of their recoverability. The carrying amount of ‘older’ trade debtors which we have taken to be retentions, after the provision for retentions is £143,906 (2024: £145,643).
+Page 17
+Page 18
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2.4.
+Turnover
+Turnover is recognised to the extent that it is probable that the economic benefits will flow to the company and the revenue can be reliably measured. Turnover is measured as the fair value of consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before revenue is recognised.
+Rendering of services
+Turnover from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+- the amount can be reliably measured;
+- it is probable that the company will receive the consideration due under the contract;
+- the stage of completion of the contract at the end of the reporting period can be measured reliably. This is normally measured by surveys of work performed to date; and
+- the costs incurred and the costs to complete the contract can be measured reliably.
+2.5.
+Tangible Fixed Assets and Depreciation 
+Tangible fixed assets are measured at cost less accumulated depreciation and any accumulated impairment losses. The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation. Depreciation is provided at rates calculated to write off the cost of the fixed assets, less their estimated residual value, over their expected useful lives on the following bases:
+Freehold
+Buildings 50 years straight line
+Plant & Machinery
+20% reducing balance
+Motor Vehicles
+20% reducing balance
+Fixtures & Fittings
+20% reducing balance
+The gain or loss arising on the disposal of an asset is determined as the difference between the sale proceeds and the carrying value of the asset, and is credited or charged to profit or loss.
+2.6.
+Investments
+Investments are included at market value at the balance sheet date. Realised gains and losses on investments are calculated as the difference between sales proceeds and their market value at the start of the year, or their subsequent cost, and are charged or credited to the Statement of Comprehensive Income in the period of disposal.
+Unrealised gains and losses represent the movement in market values during the period and are credited or charged to the Statement of Comprehensive Income based on the market value at the period end.
+Interest income on debt securities, where applicable, is recognised in income using the effective interest method.
+Dividends on equity securities are recognised in income when receivable.
+Page 18
+Page 19
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2.7.
+Leasing and Hire Purchase Contracts
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessees. All other leases are classified as operating leases.
+Assets held under finance leases are recognised as assets at the lower of the assets fair value at the date of inception and the present value of the minimum lease payments. The related liability is included in the balance sheet as a finance lease obligation. Lease payments are treated as consisting of capital and interest elements. The interest is charged to profit or loss so as to produce a constant periodic rate of interest on the remaining balance of the liability.
+Operating leases are charged to profit or loss on a straight-line basis over the term of the lease, unless another systematic basis is more representative of the pattern of benefit derived from the leased asset. Any lease incentives received are recognised as an integral part of the total lease expense over the lease term.
+Assets held under operating leases are not recognised in the balance sheet of the lessee, and lease payments are recognised as an expense in the period to which they relate.
+2.8.
+Cash and Cash Equivalents
+Cash and cash equivalents are basic financial assets and include cash in hand and deposits held at call with banks, other short-term highly liquid investments that mature in no more than three months from the date of acquisition and are readily convertible to a known amount of cash with insignificant risk of change in value, and bank overdrafts.
+2.9.
+Financial Instruments
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the contractual provisions of the instrument in accordance with Section 11.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include debtors and cash and bank balances, are initially measured at transaction price. Debtors do not carry interest and are stated at their nominal value. Appropriate allowances for estimated irrecoverable amounts are recognised in the profit and loss account when there is objective evidence that an asset is impaired.
+=== page 17 ===
+Other financial assets
+Other financial assets, including investments in equity instruments which are not subsidiaries, associates or joint ventures, are initially measured at fair value, which is normally the transaction price. Such assets are subsequently carried at fair value and the changes in fair value are recognised in profit or loss, except that investments in equity instruments that are not publicly traded and whose fair values cannot be measured reliably are measured at cost less impairment.
+...CONTINUED
+Page 19
+Page 20
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2.9.
+Financial Instruments - continued
+Impairment of financial assets
+Financial assets, other than those held at fair value through profit and loss, are assessed for indicators of impairment at each reporting end date.
+Financial assets are impaired where there is objective evidence that, as a result of one or more events that occurred after the initial recognition of the financial asset, the estimated future cash flows have been affected. If an asset is impaired, the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss.
+If there is a decrease in the impairment loss arising from an event occurring after the impairment was recognised, the impairment is reversed. The reversal is such that the current carrying amount does not exceed what the carrying amount would have been, had the impairment not previously been recognised. The impairment reversal is recognised in profit or loss.
+Derecognition of financial assets
+Financial assets are derecognised only when the contractual rights to the cash flows from the asset expire or are settled, or when the company transfers the financial asset and substantially all the risks and rewards of ownership to another entity, or if some significant risks and rewards of ownership are retained but control of the asset has transferred to another party that is able to sell the asset in its entirety to an unrelated third party.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including creditors, bank loans, loans from fellow group companies and preference shares that are classified as debt, are initially recognised at transaction price unless the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value of the future payments discounted at a market rate of interest. Financial liabilities classified as payable within one year are not amortised.
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Amounts payable are classified as current liabilities if payment is due within one year or less. If not, they are presented as non-current liabilities. Trade creditors are recognised initially at transaction price and subsequently measured at amortised cost using the effective interest method.
+...CONTINUED
+Page 20
+Page 21
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2.9.
+Financial Instruments - continued
+Other financial liabilities
+Derivatives, including interest rate swaps and forward foreign exchange contracts, are not basic financial instruments.  Derivatives are initially recognised at fair value on the date a derivative contract is entered into and are subsequently re-measured at their fair value. Changes in the fair value of derivatives are recognised in profit or loss in finance costs or finance income as appropriate, unless hedge accounting is applied and the hedge is a cash flow hedge.
+Debt instruments that do not meet the conditions in FRS 102 paragraph 11.9 are subsequently measured at fair value through profit or loss. Debt instruments may be designated as being measured at fair value through profit or loss to eliminate or reduce an accounting mismatch or if the instruments are measured and their performance evaluated on a fair value basis in accordance with a documented risk management or investment strategy.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the company’s contractual obligations expire or are discharged or cancelled.
+Equity instruments
+Equity instruments issued by the company are recorded at the proceeds received, net of transaction costs. Dividends payable on equity instruments are recognised as liabilities once they are no longer at the discretion of the company.
+2.10.
+Interest Receivable
+Interest income is recognised in the profit or loss using the effective interest rate method.
+2.11.
+Interest Payable
+Finance costs comprise interest payable on bank loans, overdrafts and other borrowings.
+Finance costs are recognised in the profit and loss account using the effective interest method and are charged to the period to which they relate.
+Borrowing costs are recognised as an expense in the period in which they are incurred.
+2.12.
+Taxation
+Tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the profit and loss account because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The company’s liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting end date.
+Deferred tax
+Deferred tax liabilities are generally recognised for all timing differences and deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Such assets and liabilities are not recognised if the timing difference arises from goodwill or from the initial recognition of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+Page 21
+Page 22
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2.13.
+Pensions
+The company operates a defined pension contribution scheme. A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the company has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+2.14.
+Government Grant
+Government grants are recognised at the fair value of the asset received or receivable when there is reasonable assurance that the grant conditions will be met and the grants will be received.
+A grant that specifies performance conditions is recognised in income when the performance conditions are met.  Where a grant does not specify performance conditions it is recognised in income when the proceeds are received or receivable. A grant received before the recognition criteria are satisfied is recognised as a liability.
+2.15.
+Impairment of fixed assets
+At each reporting period end date, the company reviews the carrying amounts of its tangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of an individual asset, the company estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is treated as a revaluation decrease.
+Recognised impairment losses are reversed if, and only if, the reasons for the impairment loss have ceased to apply. Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit) in prior years. A reversal of an impairment loss is recognised immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the reversal of the impairment loss is treated as a revaluation increase.
+=== page 18 ===
+Page 22
+Page 23
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2.16.
+Dividends
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the reporting period in which the dividends are declared.   
+2.17.
+Other operating income
+Other operating income represents income arising from the ordinary activities of the business that is not included within turnover.
+Income is recognised when earned and when the amount can be measured reliably.
+3.
+Turnover
+Analysis of turnover by class of business is as follows:
+2025
+2024
+£
+£
+Groundworks
+11,830,951
+9,212,713
+Machine hire
+1,628,573
+876,799
+Machine repairs
+67,592
+116,873
+Other
+985
+200,608
+13,528,101
+10,406,993
+Analysis of turnover by geographical market is as follows:
+2025
+2024
+£
+£
+United Kingdom
+13,528,101
+10,406,993
+13,528,101
+10,406,993
+4.
+Other Operating Income
+2025
+2024
+£
+£
+Grant income
+6,320
+2,700
+Other operating income
+9,524
+11,160
+15,844
+13,860
+Page 23
+Page 24
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+5.
+Auditor's Remuneration
+Remuneration received by the company's auditors and their associates during the year was as follows:
+2025
+2024
+£
+£
+Audit Services
+=== page 19 ===
+Audit of the company's financial statements
+10,500
+10,000
+6.
+Staff Costs
+Staff costs, including directors' remuneration, were as follows:
+2025
+2024
+£
+£
+Wages and salaries
+1,850,444
+1,742,631
+Social security costs
+232,738
+187,642
+Other pension costs
+366,669
+163,821
+2,449,851
+2,094,094
+7.
+Average Number of Employees
+Average number of employees, including directors, during the year was as follows:
+2025
+2024
+Direct labour
+27
+31
+Administrative
+12
+10
+39
+41
+8.
+Directors' remuneration
+2025
+2024
+£
+£
+Emoluments
+54,400
+54,400
+Company contributions to money purchase pension schemes
+358,235
+158,289
+412,635
+212,689
+The number of directors to whom retirement benefits were accruing was as follows:
+2025
+2024
+Money purchase pension schemes
+4
+4
+Information regarding the highest paid director was as follows:
+Page 24
+Page 25
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+2025
+2024
+£
+£
+Emoluments
+20,000
+7,200
+Company contributions to money purchase pension schemes
+120,413
+60,400
+=== page 20 ===
+140,413
+67,600
+9.
+Interest Receivable and Similar Income
+2025
+2024
+£
+£
+Bank interest receivable
+20,620
+59,393
+Other interest receivable
+45
+-
+Interest from other current asset investments - listed
+-
+5,162
+Dividends from other current asset investments - unlisted
+11,793
+-
+Interest from other current asset investments - unlisted
+27,666
+-
+60,124
+64,555
+Total interest income on financial assets not measured at fair value through profit or loss:
+20,620
+59,393
+10.
+Interest Payable and Similar Charges
+2025
+2024
+£
+£
+Finance charges payable under finance leases and hire purchase contracts
+12,898
+14,844
+Late payment tax charges
+3,915
+16,923
+16,813
+31,767
+Page 25
+Page 26
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+11.
+Tax on Profit
+The tax charge on the profit for the year was as follows:
+Tax Rate
+2025
+2024
+2025
+2024
+£
+£
+Current tax
+UK Corporation Tax
+25.0%
+25.0%
+526,142
+475,316
+Prior period adjustment
+-
+(
+86
+)
+526,142
+475,230
+=== page 21 ===
+Deferred Tax
+Deferred taxation
+134,880
+16,759
+Total tax charge for the period
+661,022
+491,989
+The actual charge for the year can be reconciled to the expected charge for the year based on the profit and the standard rate of corporation tax as follows:
+2025
+2024
+£
+£
+Profit before tax
+2,676,987
+1,952,731
+Tax on profit at 25% (UK standard rate)
+669,247
+488,183
+Expenses not deductible for tax purposes
+(
+7,288
+)
+7,980
+Capital allowances
+(
+131,120
+)
+(
+25,761
+)
+Prior period adjustment
+-
+(
+86
+)
+Deferred tax from unrecognised tax loss or credit
+134,880
+16,759
+Revenue exempt from taxation
+(
+4,697
+)
+4,914
+Total tax charge for the period
+661,022
+491,989
+12.
+Tangible Assets
+Land & Property
+Freehold
+Plant & Machinery
+Motor Vehicles
+Fixtures & Fittings
+Total
+£
+£
+£
+£
+£
+Cost
+As at 1 January 2025
+1,890,599
+1,718,252
+941,119
+47,451
+4,597,421
+Additions
+-
+600,362
+261,802
+=== page 22 ===
+-
+862,164
+Disposals
+-
+(
+29,200
+)
+(
+64,800
+)
+-
+(
+94,000
+)
+As at 31 December 2025
+1,890,599
+2,289,414
+1,138,121
+47,451
+5,365,585
+...CONTINUED
+Page 26
+Page 27
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+Depreciation
+As at 1 January 2025
+8,390
+933,707
+392,254
+43,089
+1,377,440
+Provided during the period
+1,634
+193,140
+119,338
+872
+314,984
+Disposals
+-
+(
+21,972
+)
+(
+63,441
+)
+-
+(
+85,413
+)
+As at 31 December 2025
+10,024
+1,104,875
+448,151
+43,961
+1,607,011
+Net Book Value
+As at 31 December 2025
+1,880,575
+1,184,539
+689,970
+3,490
+3,758,574
+As at 1 January 2025
+1,882,209
+784,545
+548,865
+4,362
+3,219,981
+=== page 23 ===
+Included above are assets held under finance leases or hire purchase contracts with a net book value as follows:
+2025
+2024
+£
+£
+Plant & Machinery
+863,754
+467,821
+Motor Vehicles
+386,163
+255,264
+1,249,917
+723,085
+13.
+Investments
+Unlisted
+Other
+Total
+£
+£
+£
+Cost or Valuation
+As at 1 January 2025
+-
+1,505,162
+1,505,162
+Additions
+539,459
+-
+539,459
+Revaluations
+58,582
+-
+58,582
+Transfers
+950,376
+(
+950,376
+)
+-
+As at 31 December 2025
+1,548,417
+554,786
+2,103,203
+Provision
+As at 1 January 2025
+-
+-
+-
+As at 31 December 2025
+-
+-
+-
+Net Book Value
+As at 31 December 2025
+1,548,417
+554,786
+2,103,203
+As at 1 January 2025
+-
+1,505,162
+1,505,162
+Page 27
+Page 28
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+14.
+Debtors: amounts falling due within one year
+2025
+=== page 24 ===
+2024
+£
+£
+Due within one year
+Trade debtors
+1,905,737
+1,790,417
+Prepayments and accrued income
+20,950
+25,709
+Other debtors
+11,310
+2,530
+VAT
+114,469
+110,137
+Directors' loan accounts
+-
+31,213
+Amounts owed by related parties
+-
+56,991
+2,052,466
+2,016,997
+There is no provision for impairment for the current or preceding year in respect of trade debtors.
+Due to a change in the software used to prepare the financial statements, some debtor balances have been reclassed as separate lines in the above note.  As a result, the previously filed 2024 financial statements show Other debtors of £143,880, and the comparative figures in these 2025 financial statements show Other debtors of £2,530, with Directors' loan acccounts of £31,213, and VAT recoverable of £110,137.
+15.
+Creditors: Amounts Falling Due Within One Year
+2025
+2024
+£
+£
+Net obligations under finance lease and hire purchase contracts
+184,979
+135,109
+Trade creditors
+505,926
+454,368
+Amounts owed to participating interests
+27,009
+-
+Other creditors
+67,223
+74,266
+Corporation tax
+228,833
+265,316
+Taxation and social security
+73,063
+78,382
+Accruals and deferred income
+269,668
+136,993
+1,356,701
+1,144,434
+16.
+Creditors: Amounts Falling Due After More Than One Year
+2025
+2024
+£
+£
+Net obligations under finance lease and hire purchase contracts
+495,782
+171,936
+Page 28
+Page 29
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+17.
+=== page 25 ===
+Obligations Under Finance Leases and Hire Purchase
+2025
+2024
+£
+£
+The future minimum finance lease payments are as follows:
+Not later than one year
+184,979
+135,109
+Later than one year and not later than five years
+495,782
+171,936
+680,761
+307,045
+680,761
+307,045
+Finance lease payments represent rentals payable by the company for certain items of plant and machinery and motor vehicles. Leases include purchase options at the end of the lease period, and no restrictions are placed on the use of the assets. The average lease term is 3 years. All leases are on a fixed repayment basis and no arrangements have been entered into for contingent rental payments. Amounts due under finance leases are secured on the assets to which they relate.
+18.
+Deferred Taxation
+Deferred tax assets and liabilities are offset where the company has a legally enforceable right to do so. The following is the analysis of the deferred tax balances (after offset) for financial reporting purposes:
+2025
+2024
+£
+£
+Accelerated capital allowances
+469,323
+334,443
+19.
+Provisions for Liabilities
+Deferred Tax
+Total
+£
+£
+As at 1 January 2025
+334,443
+334,443
+Additions
+134,880
+134,880
+Balance at 31 December 2025
+469,323
+469,323
+Page 29
+Page 30
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+20.
+Share Capital
+2025
+2024
+Allotted, called up and fully paid
+£
+£
+100
+Ordinary A shares
+ of £
+1
+ each
+100
+100
+100
+Ordinary B shares
+ of £
+1
+ each
+100
+100
+200
+200
+=== page 26 ===
+Ordinary A shares of £1 each are non-redeemable and rank pari passu for voting rights. The shares are eligible to participate in all approved dividend distributions and carry the right to participate in any capital distribution on winding up.
+Ordinary B shares of £1 each are non-redeemable and are not entitled to receive notice of, attend or vote at any general meeting of the Company. The shares are eligible to participate in all approved dividend distributions and carry the right to participate in any capital distribution on winding up.
+21.
+Financial Instruments
+The company has the following financial instruments:
+2025
+2024
+£
+£
+Financial assets
+Financial assets measured at fair value through profit and loss
+2,103,204
+1,505,162
+Financial liabilities
+There are no financial liabilities held at fair value.
+22.
+Other Commitments
+The total of future minimum lease payments under non-cancellable operating leases are as following:
+2025
+2024
+£
+£
+Not later than one year
+40,000
+-
+Later than one year and not later than five years
+66,667
+-
+106,667
+-
+The expense in the year in relation to non cancellable lease commitments totals £23,333.
+Page 30
+Page 31
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+23.
+Pension Commitments
+The company operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the company in an independently administered fund.
+During the year the charge to the profit and loss account in respect of defined contribution schemes was £366,669 (2024: £163,821).
+At the balance sheet date contributions of  £927 (2024: £4,588) were due to the fund and are included in creditors.
+24.
+Directors Advances, Credits and Guarantees
+During the year a director loaned £21,223 (2024: £2,500) to the company. During the year, the company made repayments to a director amounting to £5,485 (2024: £17,443). The total owed to the director at the year-end was £919 (2024: £14,818 owed by the director), and is included within other creditors. The loan is repayable on demand.
+During the year a director loaned £17,000 (2024: £2,500) to the company. During the year, the company made repayments to a director amounting to £494 (2024: £19,169).The total owed to the director at the year-end was £112 (2024: £16,394 owed by the director), and is included within other creditors. The loan is repayable on demand.
+25.
+Dividends
+2025
+2024
+£
+£
+On equity shares:
+Interim dividend paid
+718,400
+515,000
+26.
+Related Party Disclosures
+During the year the company entered into the following transactions with related parties:
+During the year the company traded under normal commercial terms with Landed Property Solutions Limited, a company in which the directors have significant influence by virtue of holding a total of 47.5% of the issued share capital in addition to being key management personnel.
+Sales to Landed Property Solutions Limited amounted to £18,264 (2024: £3,072). Additionally the company incurred recharged expenses of £Nil (2024: £2,500), and loan repayments of £84,000 (2024: £84,000). At 31 December 2025 the amount owed to Landed Property Solutions Limited was £27,009 (2024: £56,991 owed by Landed Property Solutions Limited). The balance is interest free, unsecured, and repayable on demand.  At 31 December 2025 a balance of £1,740 (2024: £Nil) is held within trade debtors.
+During the year the company traded under normal commercial terms with Taylor Plant Drilling Ltd, a company in which the directors control by virtue of holding a total of 66.7% of the issued share capital in addition to being key management personnel.
+Sales to Taylor Plant Drilling Ltd amounted to £98,740 (2024: £67,082). Additionally the company incurred recharged expenses of £67,872 (2024: £64,772), and loan repayments of £67,872 (2024: £76,187). At 31 December 2025 the amount owed to Taylor Plant Drilling Ltd was £Nil (2024: £Nil). The balance is interest free, unsecured, and repayable on demand. At 31 December 2025 a balance of £11,122 (2024: £41,762) is held within trade debtors.  At 31 December 2025 a balance of £9,800 (2024: £25,500) is held within trade creditors.
+Page 31
+Page 32
+Taylor Plant Ltd
+Notes to the Financial Statements (continued)
+For The Year Ended 31 December 2025
+27.
+Controlling Parties
+No individual shareholder holds a majority of voting rights. Therefore, there is no parent entity or ultimate controlling party by virtue of shareholdings.
+=== page 27 ===
+Page 32

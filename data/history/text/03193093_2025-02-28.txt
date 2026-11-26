@@ -1,0 +1,2516 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2024-05-31
+2024-05-31
+153776
+158
+true
+true
+true
+true
+true
+false
+false
+false
+2023-06-01
+No description of principal activity
+122
+true
+03193093
+2023-06-01
+2024-05-31
+03193093
+2022-06-01
+2023-05-31
+03193093
+2024-05-31
+03193093
+2023-05-31
+03193093
+2022-06-01
+03193093
+1
+2023-06-01
+2024-05-31
+03193093
+1
+2022-06-01
+2023-05-31
+03193093
+d:ContinuingOperations
+2023-06-01
+2024-05-31
+03193093
+d:ContinuingOperations
+2022-06-01
+2023-05-31
+03193093
+d:DiscontinuedOperations
+2023-06-01
+2024-05-31
+03193093
+d:DiscontinuedOperations
+2022-06-01
+2023-05-31
+03193093
+e:CompanySecretary1
+2023-06-01
+2024-05-31
+03193093
+e:Director1
+2023-06-01
+2024-05-31
+03193093
+e:Director2
+2023-06-01
+2024-05-31
+03193093
+e:Director3
+2023-06-01
+=== page 2 ===
+2024-05-31
+03193093
+e:Director3
+2024-05-31
+03193093
+e:Director4
+2023-06-01
+2024-05-31
+03193093
+e:Director4
+2024-05-31
+03193093
+e:RegisteredOffice
+2023-06-01
+2024-05-31
+03193093
+e:Agent1
+2023-06-01
+2024-05-31
+03193093
+d:Buildings
+2023-06-01
+2024-05-31
+03193093
+d:Buildings
+2024-05-31
+03193093
+d:Buildings
+2023-05-31
+03193093
+d:Buildings
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:Buildings
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:Buildings
+d:LongLeaseholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:Buildings
+d:LongLeaseholdAssets
+2024-05-31
+03193093
+d:Buildings
+d:LongLeaseholdAssets
+2023-05-31
+03193093
+d:Buildings
+d:ShortLeaseholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:PlantMachinery
+2023-06-01
+2024-05-31
+03193093
+d:PlantMachinery
+2024-05-31
+03193093
+d:PlantMachinery
+2023-05-31
+03193093
+d:PlantMachinery
+d:OwnedOrFreeholdAssets
+=== page 3 ===
+2023-06-01
+2024-05-31
+03193093
+d:PlantMachinery
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:MotorVehicles
+2023-06-01
+2024-05-31
+03193093
+d:MotorVehicles
+2024-05-31
+03193093
+d:MotorVehicles
+2023-05-31
+03193093
+d:MotorVehicles
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:FurnitureFittings
+2023-06-01
+2024-05-31
+03193093
+d:FurnitureFittings
+2024-05-31
+03193093
+d:FurnitureFittings
+2023-05-31
+03193093
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:FurnitureFittings
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:OfficeEquipment
+2023-06-01
+2024-05-31
+03193093
+d:OfficeEquipment
+2024-05-31
+03193093
+d:OfficeEquipment
+2023-05-31
+03193093
+d:OfficeEquipment
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:OfficeEquipment
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:ComputerEquipment
+2023-06-01
+=== page 4 ===
+2024-05-31
+03193093
+d:ComputerEquipment
+2024-05-31
+03193093
+d:ComputerEquipment
+2023-05-31
+03193093
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:ComputerEquipment
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+03193093
+d:LeasedAssetsHeldAsLessee
+2023-06-01
+2024-05-31
+03193093
+d:FreeholdInvestmentProperty
+2024-05-31
+03193093
+d:FreeholdInvestmentProperty
+2023-05-31
+03193093
+d:CurrentFinancialInstruments
+2024-05-31
+03193093
+d:CurrentFinancialInstruments
+2023-05-31
+03193093
+d:Non-currentFinancialInstruments
+2024-05-31
+03193093
+d:Non-currentFinancialInstruments
+2023-05-31
+03193093
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-05-31
+03193093
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2023-05-31
+03193093
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2024-05-31
+03193093
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2023-05-31
+03193093
+d:Non-currentFinancialInstruments
+d:BetweenOneTwoYears
+2024-05-31
+03193093
+d:Non-currentFinancialInstruments
+d:BetweenOneTwoYears
+2023-05-31
+03193093
+d:Non-currentFinancialInstruments
+d:BetweenTwoFiveYears
+=== page 5 ===
+2024-05-31
+03193093
+d:Non-currentFinancialInstruments
+d:BetweenTwoFiveYears
+2023-05-31
+03193093
+d:UKTax
+2023-06-01
+2024-05-31
+03193093
+d:UKTax
+2022-06-01
+2023-05-31
+03193093
+d:ShareCapital
+2024-05-31
+03193093
+d:ShareCapital
+2023-05-31
+03193093
+d:ShareCapital
+2022-06-01
+03193093
+d:RevaluationReserve
+2023-06-01
+2024-05-31
+03193093
+d:RevaluationReserve
+2024-05-31
+03193093
+d:RevaluationReserve
+2023-05-31
+03193093
+d:RevaluationReserve
+2022-06-01
+03193093
+d:RetainedEarningsAccumulatedLosses
+2023-06-01
+2024-05-31
+03193093
+d:RetainedEarningsAccumulatedLosses
+2024-05-31
+03193093
+d:RetainedEarningsAccumulatedLosses
+2022-06-01
+2023-05-31
+03193093
+d:RetainedEarningsAccumulatedLosses
+2023-05-31
+03193093
+d:RetainedEarningsAccumulatedLosses
+2022-06-01
+03193093
+d:AcceleratedTaxDepreciationDeferredTax
+2024-05-31
+03193093
+d:AcceleratedTaxDepreciationDeferredTax
+2023-05-31
+03193093
+d:TaxLossesCarry-forwardsDeferredTax
+2024-05-31
+03193093
+d:TaxLossesCarry-forwardsDeferredTax
+2023-05-31
+03193093
+d:RetirementBenefitObligationsDeferredTax
+2024-05-31
+03193093
+d:RetirementBenefitObligationsDeferredTax
+2023-05-31
+=== page 6 ===
+03193093
+d:OtherDeferredTax
+2024-05-31
+03193093
+d:OtherDeferredTax
+2023-05-31
+03193093
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-06-01
+2024-05-31
+03193093
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2024-05-31
+03193093
+d:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-05-31
+03193093
+e:OrdinaryShareClass1
+2023-06-01
+2024-05-31
+03193093
+e:OrdinaryShareClass1
+2024-05-31
+03193093
+e:OrdinaryShareClass1
+2023-05-31
+03193093
+e:FRS102
+2023-06-01
+2024-05-31
+03193093
+e:Audited
+2023-06-01
+2024-05-31
+03193093
+e:FullAccounts
+2023-06-01
+2024-05-31
+03193093
+e:PrivateLimitedCompanyLtd
+2023-06-01
+2024-05-31
+03193093
+d:WithinOneYear
+2024-05-31
+03193093
+d:WithinOneYear
+2023-05-31
+03193093
+d:BetweenOneFiveYears
+2024-05-31
+03193093
+d:BetweenOneFiveYears
+2023-05-31
+03193093
+d:HirePurchaseContracts
+d:WithinOneYear
+2024-05-31
+03193093
+d:HirePurchaseContracts
+d:WithinOneYear
+2023-05-31
+03193093
+d:HirePurchaseContracts
+d:BetweenOneFiveYears
+2024-05-31
+03193093
+d:HirePurchaseContracts
+d:BetweenOneFiveYears
+2023-05-31
+=== page 7 ===
+03193093
+2
+2023-06-01
+2024-05-31
+03193093
+6
+2023-06-01
+2024-05-31
+03193093
+d:PlantMachinery
+d:LeasedAssetsHeldAsLessee
+2024-05-31
+03193093
+d:PlantMachinery
+d:LeasedAssetsHeldAsLessee
+2023-05-31
+03193093
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2024-05-31
+03193093
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2023-05-31
+03193093
+d:LeasedAssetsHeldAsLessee
+2024-05-31
+03193093
+d:LeasedAssetsHeldAsLessee
+2023-05-31
+03193093
+f:PoundSterling
+2023-06-01
+2024-05-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+03193093
+FERNS SURFACING LIMITED
+DIRECTORS' REPORT AND AUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 MAY 2024
+FERNS SURFACING LIMITED
+COMPANY INFORMATION
+Directors
+I. D. Fern
+D. Hamblin
+A. W. F. Butcher
+(appointed 
+16 August 2023
+)
+H. Fern
+(appointed 
+26 April 2024
+)
+Company secretary
+D. Hamblin
+Registered number
+03193093
+Registered office
+Tutsham Farm
+West Farleigh
+Maidstone
+Kent
+ME15 0NE
+Independent auditors
+CLA Evelyn Partners Limited
+Brockbourne House
+77 Mount Ephraim
+Tunbridge Wells
+=== page 8 ===
+Kent
+TN4 8BS
+Solicitors
+Thomson Snell & Passmore
+3 Lonsdale Gardens
+Tunbridge Wells
+Kent
+TN1 1NX
+FERNS SURFACING LIMITED
+CONTENTS
+Page
+Strategic report
+1 - 4
+Directors' report
+5 - 6
+Independent auditors' report
+7 - 10
+Statement of comprehensive income
+11
+Balance sheet
+12
+Statement of changes in equity
+13
+Notes to the financial statements
+14 - 33
+FERNS SURFACING LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 MAY 2024
+Introduction
+The Principal activity of the company continued to be that of a civil engineering contractor, the core business being backfilling and reinstatement of roads and pathways following utilities repair and or replacement.
+The Company is the leading independent utility solutions company which serves the gas, water, telecoms      and local authority sectors within London and the South of England.
+Business review
+In a competitive market the Company has performed well, achieving turnover of £75.9 million compared to £61.2 million in the previous year, an increase of some 24%, driven principally by growth in the telecoms and gas workstreams, together with work for Kent County Council supporting the Pot-Hole Blitz programme. Gross profit margin remains strong at 14.3% (previous year 14.3%), but is under pressure due to limited ability to fully recover inflation in its fixed price contracts.
+Profit before tax (PBT) of £1.48 million was in line with expectations.
+Net assets increased 4.0% from £16.9 million in 2023 to £17.5 million in 2024.
+The current ratio decreased slightly from 1.50 in 2023 to 1.39 in 2024.
+The Company is in a good position to maintain and develop its position within the industry.
+Principal risks and uncertainties
+Financial risks
+The Company has robust accounting procedures, good internal controls and efficient IT systems which aims     to manage any risks and uncertainties. 
+The Company maintains strong commercial relationships with customers and provides a high quality, one     stop solution, which minimizes the risk of losing customers. 
+The Company maintains secure medium to long term contracts and is confident of further controlled growth     in the future. 
+Credit risk
+The Company works mainly with major blue-chip companies, and whilst there is always some credit risk the Directors believe this risk to be minimal. Other clients are monitored closely against agreed credit terms to ensure that credit risk is kept as low as possible. 
+Liquidity
+The Company monitors cashflow closely and produces weekly cashflow forecasts. Debtors are monitored to ensure that payments are made within agreed terms. Creditors are paid primarily within agreed mutual      terms and the Company maintains very close relationships with its key suppliers.
+Page 
+1
+FERNS SURFACING LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Principal risks and uncertainties (Cont'd)
+Health and safety
+The Company prioritises its legal responsibilities under the Health and Safety at Work Act, etc. 1974 and associated legislation and Codes of Practice. The Company gives its full commitment to doing everything reasonably practicable to protect the safety, health and the welfare of all its employees and any other     persons whose health and safety may be affected by the Company's business. The promotion of health and safety measures is a mutual objective for the Company and for its employees at all levels.
+Economic uncertainties
+We live in times of high economic uncertainty. Russia’s invasion of Ukraine and the Israeli – Gaza crisis  continue to send geopolitical shockwaves around the globe and exacerbate the economic damage caused by  the Covid-19 pandemic and the departure of the UK from the European Union. Whilst inflation seems to be back under control, economic growth overall remains negligible and current high interest rates remain a burden to businesses and individuals alike. Recently announced national insurance rises likewise represent an increasing burden on business. Whilst it is difficult to rule out significant impacts on the international and UK economy that could have an adverse impact on the results of 2025 and beyond, given that the Company focuses on providing support to critical infrastructure in the Utilities Sector, the management assess these macro-economic uncertainties pose limited risk to the Company at present, moreover, regulatory pressures in certain sectors presently are not assessed as a risk to the business.
+Environmental
+Ferns Surfacing operates the business in a manner which reflects good environmental management. The Company is aware of the environmental impacts of its operations and will balance its business aims with the need to protect the local and global environment. 
+The Company demonstrates a commitment to identify all activities that have the potential to cause an environmental impact, as well as providing adequate resources to help minimise or prevent any negative  impact.
+Financial key performance indicators
+The Company uses a number of performance indicators to ensure that activities are monitored and      controlled effectively, including Health and Safety and Environmental, training and development and financial   performance. 
+These are reported to the management, staff and the board at frequent and regular intervals. 
+These include but are not limited to:
+2024
+2023
+Turnover                         £75.8m             £61.2m 
+Gross profit %                 14.3%             14.3% 
+Operating Profit %                 2.7%                3.9% 
+The Directors and Managers of the company closely monitor performance through regular board and  operational meetings. 
+Weekly and monthly performance figures are produced and discussed to ensure that the business is running    at an optimal level. 
+=== page 9 ===
+Page 
+2
+FERNS SURFACING LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Corporate and social responsibility
+The Company has a separate Environmental Policy Statement clarifying its commitment to negating its      impact on the environment. 
+The Company carries out regular risk assessments to guarantee the well-being of staff and visitors, in accordance with Health and Safety legislation. 
+The Company commits to having a fully trained workforce and has its own in-house training centre which ensures that all employees are fully trained to the Company standards and are also competent to carry out  their duties safely. 
+The Company actively manages its reputation, and drives best practice, through the application of Ethical    Sales and Purchasing. 
+Due to the nature of our business having to use fossil fuels and oil based materials the company actively promotes, maximizes and measures the reuse of excavated recycled backfill in all their operations. 
+The Company is an Equal Opportunities Employer which promotes diversity and does not differentiate on grounds of gender, ethnicity, religion, sexual orientation or physical ability. 
+The Company commits to being open and transparent in the interests of promoting best practice. 
+The Company is proud to have been awarded Gold for Considerate Contractor from the City of London.
+The Company operates a modern fleet of vehicles, and has installed the most advanced driving management systems to allow the monitoring and improvement of driving behaviours and ensure vehicles are being   operated safely and legally. This system also allows the minimisation of vehicle movements thereby reducing fuel consumption. In doing this the Company can be confident that its drivers are not endangering     themselves or the community in which they operate. The Company continues to review options to expand the use of electric and hybrid fueled vehicles within its' operations.
+As the Company has expanded geographically it has invested in video conferring facilities to reduce the need  for vehicle movements and carbon emissions. The Company has tried to establish a depot network which   closely matches the geographical footprint of its work to minimise unnecessary mileage and environmental impact
+Page 
+3
+FERNS SURFACING LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Directors' statement of compliance with duty to promote the success of the Company
+The directors, in line with their duties under Section 172 of the Companies Act 2006, act individually and collectively in the way they consider, in good faith, would be most likely to promote the success of the  Company for the benefit of its members as a whole, and in doing so have regard to the stakeholders and amongst other matters, the:
+∙
+likely consequences of any decisions in the long-term;
+∙
+interests of the Company's employees;
+∙
+need to foster the Company's business relationships with suppliers, customers and others;
+∙
+impact of the Company's operations on the community and environment;
+∙
+desirability of the Company maintaining a reputation for high standards of business conduct; and
+∙
+need to act fairly between members of the Company.
+The Company's business strategy is focussed on achieving success for the Company in the long-term. This strategy takes into account the impact of relevant factors and stakeholder interests. The directors promote a culture of upholding the highest standards of conduct and ensures its core values are communicated to its employees and are embedded in the Company's policies and procedures.
+The directors recognise that bulding strong long-term relationships with its stakeholders will help deliver its strategy. The directors consider the core stakeholders to be its employees, customers, suppliers and the local communities in which it operates.
+Protecting the health, safety and wellbeing of its employees and everyone who comes into contact with the business is the main priority. Furthermore, the directors are committed to a diverse and inclusive working environment and ensuring all employees have the necessary skills and training required to carry out their roles and to develop.
+The Company aims to develop long-term mutually beneficial relationships with its customers. The Company engages with its customers on a continuous basis which allows it to better understand their needs, thus ensuring the long-term success of the Company.
+The suppliers and subcontractors are integral to its operations and the Company aims to be fair in their dealings with them and to make payment within agreed terms.
+As the nature of the Company's business means that it continually comes into contact with members of the local community, the safety of the public is paramount in how the Company operates. 
+This report was approved by the board
+ and signed on its behalf
+.
+I. D. Fern
+Director
+Date: 
+27 February 2025
+Page 
+4
+FERNS SURFACING LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 MAY 2024
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 May 2024
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Strategic report, the Directors' report and the 
+=== page 10 ===
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+770,220
+ (2023 - 
+£
+1,870,538
+)
+.
+=== page 11 ===
+The directors approved the payment of a dividend of £98,593 during the year (2023 - NIL)
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+I. D. Fern
+D. Hamblin
+A. W. F. Butcher
+(appointed 
+16 August 2023
+)
+H. Fern
+(appointed 
+26 April 2024
+)
+Page 
+5
+FERNS SURFACING LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Engagement with employees
+The Company recognises that its employees are key to the long-term success of the business. It has various ways in which it communicates with the employees due to the numbers employed and the fact that they are spread over numerous locations. New employees attend a formal induction at which they are made aware       of the Company's values, health and safety and other relevant policies and procedures.
+The Company also runs various workshops, Business development, personal development, customer care      and customer management programmes where deemed appropriate. All employees receive necessary     training to ensure they have the relevant qualifications and certifications to carry out their roles.
+Greenhouse gas emissions, energy consumption and energy efficiency action
+In accordance with disclosure requirements, the table below shows the Company's greenhouse gas emissions during the financial year: 
+2024
+2023
+Emissions from combustion of Gas and fuel for transport (Scope 1) (Tonnes of CO2 Equivalent)
+8,308
+7,290
+Emissions from purchased electricity (Scope 2) (Tonnes of CO2 equivalent)
+49
+54
+Total gross emissions in metric tonnes CO2e
+8,357
+7,344
+The Company's intensity ratio, measured as tonnes of CO2 equivalent per £1 million of sales, was 109.84   (2023: 119.98)
+The Company has followed the 2019 HM Government reporting guidelines. We have also used the GHG Reporting Protocol - Corporate standard and have used the 2024 UK Government's conversion factors for company reporting.
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+ aware of that information.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+=== page 12 ===
+I. D. Fern
+Director
+Date: 
+27 February 2025
+Page 
+6
+FERNS SURFACING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF FERNS SURFACING LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Ferns Surfacing Limited (the 'Company')
+ for the 
+year
+ ended 
+31 May 2024
+, which comprise 
+the Statement of comprehensive income, the Balance sheet, the Statement of changes in equity
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 May 2024
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+=== page 13 ===
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 
+7
+FERNS SURFACING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF FERNS SURFACING LIMITED (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+=== page 14 ===
+∙
+the information given in the 
+Strategic report and the Directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic report and the Directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic report or the Directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+Directors' responsibilities statement
+ set out on page 5, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+=== page 15 ===
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or have no realistic alternative but to do so.
+Page 
+8
+FERNS SURFACING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF FERNS SURFACING LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+We obtained a general understanding of the Company’s legal and regulatory framework through enquiry of management concerning their understanding of relevant laws and regulations, the entity’s policies and procedures regarding compliance, and how they identify, evaluate and account for litigation claims. We also drew on our existing understanding of the Company’s industry and regulation. 
+We understand that the Company complies with the framework through: 
+∙
+Obtaining external Health and Safety monitoring audits from independent consultants, updating procedures, manuals and internal controls as legal and regulatory requirements change.
+∙
+Subscribing to relevant updates from external experts, and making changes to internal procedures and controls as necessary.
+∙
+Outsourcing tax compliance to external experts.
+In the context of the audit, we considered those laws and regulations which determine the form and content of the financial statements, which are central to the Company’s ability to conduct its business, and/or where there is a risk that failure to comply could result in material penalties. We identified the following laws and regulations as being of significance in the context of the Company: 
+∙
+The Companies Act 2006 and FRS 102 in respect of the preparation and presentation of the financial statements.
+∙
+Health and Safety at Work, etc Act 1974 in respect of the day-to-day activity carried out by the Company.
+∙
+Management of Heath and Safety at Work Regulations 1999. 
+We performed the following specific procedures to gain evidence about compliance with the significant laws and regulations identified above: 
+∙
+We reviewed the policies in place at the Company and reviewed for any instances of non-compliance with these regulations.
+∙
+We obtained copies of certificates held by the Company and results of inspections which took place during the period.
+The senior statutory auditor led a discussion with senior members of the engagement team regarding the susceptibility of the entity’s financial statements to material misstatement, including how fraud might occur. The areas identified in this discussion were: 
+∙
+Recognition of accrued income, as there are elements of management estimation in arriving at these calculations. 
+∙
+With bonuses and share incentives linked to the performance of the business, there is an incentive to report the most favourable financial position and performance.
+∙
+Trade debtors, related party and group balances included not being recoverable.
+These areas were communicated to the other members of the engagement team not present at the discussion. 
+Page 
+9
+FERNS SURFACING LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF FERNS SURFACING LIMITED (CONTINUED)
+The procedures we carried out to gain evidence in the above areas included: 
+∙
+=== page 16 ===
+Challenging management estimations used in calculating accrued income, and vouching to post-year-end information where appropriate.
+∙
+Occurrence testing on revenue to verify that sales were valid; completeness testing on creditors to ensure that all purchases in the year were correctly recorded; and testing journal entries, particularly those which were posted outside of normal times or to unexpected accounts.
+∙
+Vouching to post year end receipt and the bad debt provision included, and assessing the recoverability of those which have not been recovered at the date of our testing.
+Overall, the senior statutory auditor was satisfied that the engagement team collectively had the appropriate competence and capabilities to identify or recognise irregularities. 
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditors' report
+.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Matthew Neill BA (Hons) MA FCA
+ (Senior statutory auditor)
+for and on behalf of
+CLA Evelyn Partners Limited
+Statutory Auditors
+Brockbourne House
+77 Mount Ephraim
+Tunbridge Wells
+Kent
+TN4 8BS
+Date: 
+28 February 2025
+Page 
+10
+FERNS SURFACING LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 MAY 2024
+Continuing operations
+Discontinued operations
+Total
+Continuing operations
+=== page 17 ===
+Discontinued operations
+Total
+2024
+2024
+2024
+2023
+2023
+2023
+Note
+£
+£
+£
+£
+£
+£
+Turnover
+4
+75,331,740
+540,065
+75,871,805
+60,745,711
+464,883
+61,210,594
+Cost of sales
+(
+64,877,610
+)
+(
+160,483
+)
+(
+65,038,093
+)
+(
+52,307,256
+)
+(
+167,728
+)
+(
+52,474,984
+)
+Gross profit
+10,454,130
+379,582
+10,833,712
+8,438,455
+297,155
+8,735,610
+Administrative expenses
+(
+8,523,009
+)
+(
+365,017
+)
+(
+8,888,026
+)
+(
+6,081,459
+)
+(
+323,764
+)
+(
+6,405,223
+)
+Other operating income
+5
+=== page 18 ===
+83,675
+-
+83,675
+83,943
+-
+83,943
+Operating profit
+6
+2,014,796
+14,565
+2,029,361
+2,440,939
+(26,609
+)
+2,414,330
+Interest receivable and similar income
+40,272
+-
+40,272
+42,156
+-
+42,156
+Interest payable and similar expenses
+9
+(
+588,712
+)
+-
+(
+588,712
+)
+(
+298,949
+)
+-
+(
+298,949
+)
+Profit before tax
+1,466,356
+14,565
+1,480,921
+2,184,146
+(26,609
+)
+2,157,537
+Tax on profit
+10
+(
+710,701
+)
+-
+(
+710,701
+)
+(
+286,999
+)
+-
+(
+286,999
+)
+Profit for the financial year
+755,655
+14,565
+770,220
+1,897,147
+(26,609
+)
+1,870,538
+=== page 19 ===
+There was no other comprehensive income for 
+2024
+ (
+2023
+:
+£
+NIL
+).
+The notes on pages 14 to 33 form part of these 
+financial statements
+.
+Page 
+11
+FERNS SURFACING LIMITED
+REGISTERED NUMBER:
+03193093
+BALANCE SHEET
+AS AT 
+31 MAY 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+11
+17,503,973
+15,263,307
+Investments
+12
+66,728
+46,878
+Investment property
+13
+1,533,500
+1,533,500
+19,104,201
+16,843,685
+Current assets
+Stocks
+14
+155,241
+107,249
+Debtors: amounts falling due within one year
+15
+20,561,859
+20,611,604
+Cash at bank and in hand
+16
+1,702,567
+-
+22,419,667
+20,718,853
+Creditors: amounts falling due within one year
+17
+(
+16,158,379
+)
+(
+13,817,885
+)
+Net current assets
+6,261,288
+6,900,968
+Total assets less current liabilities
+25,365,489
+23,744,653
+Creditors: amounts falling due after more than one year
+18
+=== page 20 ===
+(
+6,643,760
+)
+(
+5,994,104
+)
+Provisions for liabilities
+Deferred tax
+21
+(
+1,043,248
+)
+(
+538,907
+)
+Other provisions
+22
+(
+137,520
+)
+(
+342,308
+)
+Net assets
+17,540,961
+16,869,334
+Capital and reserves
+Called up share capital 
+23
+25,000
+25,000
+Fair value reserve
+24
+646,030
+646,030
+Profit and loss account
+24
+16,869,931
+16,198,304
+17,540,961
+16,869,334
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+I. D. Fern
+Director
+Date: 
+27 February 2025
+The notes on pages 14 to 33 form part of these financial statements.
+Page 
+12
+FERNS SURFACING LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 MAY 2024
+Called up share capital
+Fair value reserve
+Profit and loss account
+Total equity
+£
+£
+£
+£
+At 1 June 2022
+=== page 21 ===
+25,000
+646,030
+14,327,766
+14,998,796
+Comprehensive income for the year
+Profit for the year
+-
+-
+1,870,538
+1,870,538
+At 1 June 2023
+25,000
+646,030
+16,198,304
+16,869,334
+Comprehensive income for the year
+Profit for the year
+-
+-
+770,220
+770,220
+Contributions by and distributions to owners
+Dividends
+-
+-
+(
+98,593
+)
+(
+98,593
+)
+At 31 May 2024
+25,000
+646,030
+16,869,931
+17,540,961
+The notes on pages 14 to 33 form part of these 
+financial statements
+.
+Page 
+13
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+1.
+General information
+Ferns Surfacing Limited (the Company) is a private company limited by shares and incorporated and domiciled in England and Wales.
+The address of its registered office and principal place of business is Tutsham Farm, West Farleigh,   Kent, ME15 0NE.
+The principal activity of the Company is the surfacing and repair of roads.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+Monetary amounts in these financial statements are stated in pounds Sterling and are rounded to the nearest whole £1, except where otherwise stated.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+=== page 22 ===
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 11 Financial Instruments paragraphs 11.42, 11.44 to 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c)
+;
+∙
+the requirements of Section 12 Other Financial Instruments paragraphs 12.26 to 12.27, 12.29(a), 12.29(b) and 12.29A
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+Ferns Group Limited
+ as at 
+31 May 2024
+ and these financial statements may be obtained from 
+Companies House
+.
+2.3
+Going concern
+The Company reported a profit before tax of £1.48m for the year and held net assets of £17.5m at 31 May 2024. Cash held at the balance sheet date was positive £1.7m (2023: negative £205k). The business continues to focus on capital investment to support growth and the directors regularly monitor cash and cash flow forecasts.
+The directors have made their assessment that the Company is a going concern using all available information including management accounts and cash flow forecasts which covered a period of more than 12 months from the date of approval of these financial statements.
+Page 
+14
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.4
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and the revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes.
+Revenue is recognised in the period the work is carried out and the Company has a reasonable expectation of receiving payment. Due to the nature of the contracts the Company is issued with subcontract payment certificates or self bill invoices by the customer, therefore any sales that     have been recognised in the financial statements for which payment has not been received and     an invoice was not raised by the balance sheet date are recorded as accrued income.
+Revenue from the rendering of services and long term contracts is recognised by reference to the stage of completion at the end of the reporting period. This is measured by the proportion of the costs incurred for work performed to date compared to the estimated total costs of the contract.
+Where a counterparty agrees to be invoiced on a cost plus basis, revenue is calculated by applying an agreed margin to the allowable costs incurred on that particular contract. Revenue is recognised in line with the contract criteria above.
+2.5
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+At each reporting date the 
+Company
+ assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+Page 
+15
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.5
+Tangible fixed assets (continued)
+Land is not depreciated. 
+Depreciation
+ on other assets
+ is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+=== page 23 ===
+Freehold property
+-
+2
+%
+straight line or 10% straight line
+Leasehold improvements
+-
+25
+%
+straight line
+Plant, machinery & commercial vehicles
+-
+25
+%
+straight line or 10% straight line
+Motor vehicles
+-
+25
+%
+straight line
+Fixtures and fittings
+-
+20
+%
+straight line
+Office equipment
+-
+20
+%
+straight line
+Computer equipment
+-
+33
+%
+straight line
+Plant, machinery & commercial vehicles includes a helicopter which is depreciated straight line over 10 years after including a residual value.
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.6
+Investment property
+Investment property is carried at fair value determined annually by the directors or an    independent valuer and derived from the current market rents and investment property yields for comparable real estate, adjusted if necessary for any difference in the nature, location or     condition of the specific asset. No depreciation is provided for. Changes in fair value are    recognised in the Statement of comprehensive income.
+2.7
+Operating leases: the Company as lessor
+Rental income from operating leases is credited to profit or loss on a straight-line basis over the lease term.
+Amounts paid and payable as an incentive to sign an operating lease are recognised as a reduction to income over the lease term on a straight-line basis, unless another systematic basis is representative of the time pattern over which the lessor's benefit from the leased asset is diminished.
+2.8
+Valuation of investments
+Other investments held as fixed assets are shown at cost less provision for impairment.
+2.9
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+Page 
+16
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.10
+ Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours.
+2.11
+ Financial instruments
+The Company only enters into basic financial instrument transactions that result in the recognition of financial assets and liabilities like trade and other debtors and creditors, loans from banks and other third parties and loans to related parties.
+2.12
+ Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.13
+ Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+=== page 24 ===
+2.14
+ Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+2.15
+ Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.16
+ Leased assets: the Company as lessee
+Assets obtained under hire purchase contracts and finance leases are capitalised as tangible fixed assets. Assets acquired by finance lease are depreciated over the shorter of the lease term and their useful lives. Assets acquired by hire purchase are depreciated over their useful lives. Finance leases are those where substantially all of the benefits and risks of ownership are assumed by the company. Obligations under such agreements are included in creditors net of the finance charge allocated to future periods. The finance element of the rental payment is charged to profit or loss so as to produce a constant periodic rate of charge on the net obligation outstanding in each period.
+Page 
+17
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.17
+ Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.18
+ Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.19
+ Borrowing costs
+All borrowing costs are recognised in profit or loss in the 
+year
+ in which they are incurred.
+2.20
+ Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+Page 
+18
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.21
+ Stocks
+=== page 25 ===
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.22
+ Provisions for liabilities
+Provisions are made where an event has taken place that gives the Company a legal or constructive obligation that probably requires settlement by a transfer of economic benefit, and a reliable estimate can be made of the amount of the obligation.
+Provisions are charged as an expense to profit or loss in the year that the Company becomes aware of the obligation, and are measured at the best estimate at the balance sheet date of the expenditure required to settle the obligation, taking into account relevant risks and uncertainties.
+When payments are eventually made, they are charged to the provision carried in the Balance sheet.
+Page 
+19
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+Estimates and judgements are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances. 
+Accrued income and stage of completion estimate
+One key area of estimation and judgement is that of the measurement and recognition of accrued income. The Company has control and review procedures in place to monitor and evaluate the estimates being made to ensure they are consistent and appropriate. This includes reviewing work completed before the year-end which is not invoiced until after the year-end.
+The Company also estimates stage of completion on long term contracts by reference to the costs incurred to the year-end as a proportion of the total costs expected to be incurred. The Company has control and review procedures in place to monitor and evaluate the estimates being made to ensure that they are consistent and appropriate.
+The carrying value of the accrued income at the year end is £4,559,604 (2023: £2,420,959).
+Provisions
+In assessing the provision to be made for potential costs against future s74 penalties, management will consider the likelihood of fines occurring in the future in relation to past work. These penalities arise from the late re-opening of roads and pathways where work has been carried out by the Company. The provision is calculated on a risk basis, taking into account historic s74 penalties incurred and knowledge of the contractor. The carrying value of the provision is £137,520 (2023: £342,308).
+Investment property valuation
+Investment properties are stated at fair value. The fair value of investment properties is estimated based on the price that would be received when selling an asset in an orderly transaction between marketplace participants at the measurement date. Multiple valuation techniques may be considered when measuring the fair value of the investment property. The carrying value of investment property is £1,533,500 (2023: £1,533,500).
+Bad debt provision
+Management consider the potentially bad debts and provide for the amounts which are not expected to be received, based on their knowledge and communication with the customer. The amount provided for bad debts totals £1,720,907 (2023: £1,734,819)
+4.
+Turnover
+The whole of the turnover is attributable to its principal activity, the surfacing and repair of roads.
+All turnover arose 
+within the United Kingdom
+.
+5.
+Other operating income
+2024
+2023
+£
+£
+Rents receivable
+83,675
+83,943
+Page 
+20
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+6.
+Operating profit
+The operating profit is stated after charging/ (crediting):
+2024
+2023
+£
+£
+Depreciation of tangible fixed assets owned by the Company
+1,457,035
+1,251,538
+Depreciation of tangible fixed assets held under hire purchase
+2,173,263
+1,117,226
+(Profit) on disposal of tangible assets
+(1,243,032
+)
+(752,414
+)
+Fees payable to the Company's auditor for the audit of the Company's annual financial statements
+43,475
+37,500
+=== page 26 ===
+Fees payable to the Company's auditor in respect of all other services
+11,125
+9,700
+Other operating lease rentals
+395,554
+965,541
+Defined contribution pension cost
+115,053
+99,781
+7.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+6,351,740
+6,018,813
+Social security costs
+792,392
+664,130
+Cost of defined contribution scheme
+115,053
+99,781
+7,259,185
+6,782,724
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2024
+2023
+No.
+No.
+Workmen
+64
+55
+Office staff and administration
+94
+67
+158
+122
+8.
+Directors' remuneration
+2024
+2023
+£
+£
+Directors' emoluments
+504,224
+440,530
+The highest paid 
+director
+ received remuneration of 
+£
+291,623
+ (2023 - £
+243,310
+)
+.
+Page 
+21
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+=== page 27 ===
+FOR THE YEAR ENDED 31 MAY 2024
+9.
+Interest payable and similar expenses
+2024
+2023 as restated 
+£
+£
+Bank interest payable
+230,163
+139,290
+Finance leases and hire purchase contracts
+358,549
+159,659
+588,712
+298,949
+10.
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Adjustments in respect of previous periods
+206,360
+-
+Deferred tax
+Origination and reversal of timing differences
+504,341
+286,999
+Taxation on profit on ordinary activities
+710,701
+286,999
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+higher than
+ (2023 - lower than) 
+the average rate of corporation tax
+ in the UK of
+25
+%
+ (2023 - 
+20
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+1,480,921
+2,157,537
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 20%)
+370,230
+431,566
+Effects of:
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+128,491
+35,926
+Non-taxable income
+-
+3,089
+Capital gains
+34,625
+-
+Unrelieved tax losses carried forward
+415,506
+57,368
+Other differences leading to an increase (decrease) in the tax charge
+=== page 28 ===
+(
+238,151
+)
+(
+240,950
+)
+Total tax charge for the year
+710,701
+286,999
+Factors that may affect future tax charges
+Page 
+22
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+10.
+Taxation (continued)
+The Company has tax losses carried forward of £5,592,079 (2023: £3,930,056) available to offset against future trading profits. A deferred tax asset has been recognised for these tax losses, as detailed in note 21.
+Page 
+23
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+11.
+Tangible fixed assets
+Freehold property
+Long-term leasehold property
+Plant, machinery & commercial vehicles
+Motor vehicles
+Fixtures and fittings
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 June 2023
+4,977,342
+726,787
+19,342,593
+433,818
+622,241
+Additions
+-
+54,000
+7,847,614
+186,299
+-
+Disposals
+-
+-
+(
+2,973,737
+)
+(
+80,581
+)
+-
+At 31 May 2024
+4,977,342
+780,787
+24,216,470
+539,536
+622,241
+Depreciation
+At 1 June 2023
+-
+427,176
+9,711,033
+299,234
+=== page 29 ===
+410,630
+Charge for the year on owned assets
+27,035
+153,776
+1,196,072
+38,342
+38,071
+Charge for the year on financed assets
+-
+-
+2,120,678
+52,585
+-
+Disposals
+-
+-
+(
+762,531
+)
+(
+58,757
+)
+-
+At 31 May 2024
+27,035
+580,952
+12,265,252
+331,404
+448,701
+Net book value
+At 31 May 2024
+4,950,307
+199,835
+11,951,218
+208,132
+173,540
+At 31 May 2023
+4,977,342
+299,611
+9,631,560
+134,584
+211,611
+Page 
+24
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+11.
+Tangible fixed assets (continued)
+Office equipment
+Computer equipment
+Total
+£
+£
+£
+Cost or valuation
+At 1 June 2023
+147,331
+131,090
+26,381,202
+Additions
+16,080
+-
+8,103,993
+Disposals
+-
+-
+(
+3,054,318
+)
+=== page 30 ===
+At 31 May 2024
+163,411
+131,090
+31,430,877
+Depreciation
+At 1 June 2023
+138,731
+131,090
+11,117,894
+Charge for the year on owned assets
+3,739
+-
+1,457,035
+Charge for the year on financed assets
+-
+-
+2,173,263
+Disposals
+-
+-
+(
+821,288
+)
+At 31 May 2024
+142,470
+131,090
+13,926,904
+Net book value
+At 31 May 2024
+20,941
+-
+17,503,973
+At 31 May 2023
+8,600
+-
+15,263,308
+Included within freehold property there are both land and buildings. The land has a carrying amount of £3,570,730 (2023: £3,570,730) and is not depreciated.
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+2024
+2023
+£
+£
+Plant and machinery
+10,481,726
+5,806,509
+Motor vehicles
+189,885
+338,794
+10,671,611
+6,145,303
+Page 
+25
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+12.
+Fixed asset investments
+Unlisted investments
+£
+Cost or valuation
+At 1 June 2023
+46,878
+Additions
+19,850
+At 31 May 2024
+66,728
+13.
+Investment property
+Freehold investment property
+£
+=== page 31 ===
+Valuation
+At 1 June 2023
+1,533,500
+At 31 May 2024
+1,533,500
+Comprising
+Cost
+772,250
+Surplus on previous revaluations
+761,250
+At 31 May 2024
+1,533,500
+The 
+2024
+ valuations were made by 
+the directors, supported by an independent valuation
+ carried out in October 2024, on an open market value for existing use basis.
+Page 
+26
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+14.
+Stocks
+2024
+2023
+£
+£
+Finished goods
+155,241
+107,249
+15.
+Debtors
+2024
+2023
+£
+£
+Trade debtors
+6,928,657
+7,183,045
+Provision for bad debts
+(
+1,720,907
+)
+(
+1,734,819
+)
+Amounts owed by group undertakings
+1,664,755
+3,336,414
+Amounts owed by companies under common control
+4,044,486
+5,320,352
+Other debtors
+1,451,628
+357,608
+Director's loan account
+1,643,326
+1,976,678
+Prepayments
+1,506,062
+1,037,520
+Accrued income
+4,559,604
+2,420,959
+Tax recoverable
+484,248
+713,847
+20,561,859
+20,611,604
+=== page 32 ===
+16.
+Cash and cash equivalents
+2024
+2023
+£
+£
+Cash at bank and in hand
+1,702,567
+-
+Less: bank overdrafts
+-
+(
+204,707
+)
+1,702,567
+(
+204,707
+)
+Page 
+27
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+17.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Bank overdrafts
+-
+204,707
+Bank loans
+384,000
+384,000
+Trade creditors
+7,881,950
+6,456,372
+Amounts owed to group undertakings
+172,591
+627
+Amounts owed to companies under common control
+1,895,296
+1,627,291
+Other taxation and social security
+756,571
+573,049
+Obligations under finance lease and hire purchase contracts
+3,866,086
+2,733,782
+Other creditors
+371,603
+168,264
+Accruals and deferred income
+830,282
+1,669,793
+16,158,379
+13,817,885
+The hire purchase and finance leases are secured by way of a charge over the asset to which the     lease relates, being items of plant, machinery and commercial vehicles, as shown in note 11.
+The bank loans are secured over the freehold property of the Company and there is also a personal guarantee given to Handelsbanken by a director, for a limited liability of £500,000.
+18.
+Creditors: Amounts falling due after more than one year
+2024
+2023
+£
+£
+Bank loans
+2,242,667
+2,626,667
+Net obligations under finance leases and hire purchase contracts
+=== page 33 ===
+4,401,093
+3,354,170
+Other creditors
+-
+13,267
+6,643,760
+5,994,104
+The hire purchase and finance leases are secured by way of a charge over the asset to which the     lease relates, being items of plant, machinery and commercial vehicles, as shown in note 11.
+The bank loans are secured over the freehold property of the Company and there is also a personal guarantee given to Handelsbanken by a director, for a limited liability of £500,000.
+Page 
+28
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+19.
+Loans
+The bank loans are repayable in instalments and are secured over the freehold property of the Company   and there is also a personal guarantee given to Handelsbanken by a director, for a limited liability of £500,000.
+The ageing profile of the company's bank loans is shown below.
+2024
+2023
+£
+£
+Amounts falling due within one year
+384,000
+384,000
+Amounts falling due 1-2 years
+402,667
+626,667
+Amount falling due 2-5 years
+1,840,000
+2,000,000
+2,626,667
+3,010,667
+20.
+Hire purchase and finance leases
+Minimum lease payments under hire purchase fall due as follows:
+2024
+2023
+£
+£
+Within one year
+3,866,086
+2,733,782
+Between 1-5 years
+4,401,093
+3,354,170
+8,267,179
+6,087,952
+The hire purchase and finance leases are secured by way of a charge over the asset to which the     lease relates, being items of plant, machinery and commercial vehicles, as shown in note 11.
+21.
+Deferred taxation
+2024
+£
+At beginning of year
+538,907
+Charged to profit or loss
+(
+504,341
+)
+At end of year
+1,043,248
+Page 
+29
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+21.
+Deferred taxation (continued)
+The 
+provision for deferred taxation
+=== page 34 ===
+ is made up as follows:
+2024
+2023
+£
+£
+Accelerated capital allowances
+2,330,302
+1,362,612
+Tax losses carried forward
+(
+1,398,020
+)
+(
+935,709
+)
+Pension surplus
+(
+4,255
+)
+(
+3,216
+)
+Unrealised capital gains
+115,221
+115,220
+1,043,248
+538,907
+22.
+Provisions
+Section 74 Provision
+£
+At 1 June 2023
+342,308
+Charged to profit or loss
+(
+204,788
+)
+At 31 May 2024
+137,520
+Section 74 charges arise due to the late re-opening of a road or pathway, and are chargeable to the Company when they are seen to be at fault for the late closure. As these arrive late and are uncertain in timing, this gives rise to the provision at the year end. 
+23.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+25,000
+ (2023 - 
+25,000
+)
+Ordinary
+shares of
+£
+1.00
+ each
+25,000
+25,000
+The Company's ordinary shares, which carry no right to fixed income, each carry the right to one vote at the general meetings of the Company.
+Page 
+30
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+24.
+Reserves
+The Company's reserves are represented by the following:
+Fair value reserve
+The cumulative revaluation gains and losses in respect of the valuation of the investment property.
+Profit and loss account
+=== page 35 ===
+The cumulative profit and loss, net of distribution to owners.
+25.
+Capital commitments
+The Company had capital commitments at the year-end of £1,318,829 (2023: £Nil).
+26.
+Commitments under operating leases as lessee
+At 
+31 May 2024
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+2,151,339
+2,234,838
+Later than 1 year and not later than 5 years
+3,093,862
+1,751,278
+5,245,201
+3,986,116
+27.
+Commitments under operating leases as lessor
+At 31 May 2024 the Company had future minimum lease payments due as lessor under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+36,250
+82,500
+Later than 1 year and not later than 5 years
+71,679
+107,823
+Later than 5 years
+-
+-
+107,929
+190,323
+28.
+Discontinued operations
+In January 2023, the Company began providing traffic management services, and continued to do so up until September 2023, when this trade was transferred at no gain, no loss to Ferns TM Limited, a related company. Ferns TM Limited became a fellow group company on 30 September 2024.
+Page 
+31
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+29.
+Transactions with directors
+In the current year, included within debtors, is a loan due from a director of the Company. The loan is repayable on demand. Interest has been charged in accordance with HMRC official rates (currently 2.25%, with the average official rate for 2023-24 being 2%). The movements during the year were as follows:
+2024
+2023
+£
+£
+Balance brought forward at 1 June
+1,976,680
+2,281,069
+Amounts advanced
+30,563
+752,473
+Amounts repaid
+(404,187
+)
+(1,099,018
+)
+Interest charged
+40,272
+42,156
+=== page 36 ===
+1,643,328
+1,976,680
+The director has given a personal guarantee for the bank loans and overdraft facilities of the Company in favour of Handelsbanken. The amount of the guarantee totals £500,000 (2023: £500,000).
+30.
+Related party transactions
+Included within debtors is an aggregate balance due from connected companies of £4,044,486 (2023: £5,320,352).
+Included within creditors is an aggregate balance due to connected companies of £1,895,296 (2023: £1,627,291).
+During the year, sales to connected companies totalled £1,059,075 (2023: £415,506).
+During the year, purchases from connected companies totalled £5,576,844 (2023: £4,115,636).
+Duriung the year, management charges of £935,417 (2023: £552,000) have been received from connected companies.
+Rent totalling £Nil (2023: £96,000) has been paid to a director of the Company. At the year end, the director's loan account was a debtor balance of £1,643,328 (2023: £1,976,678) - see note 30.
+During the previous year IDF Investments Limited entered into a loan arrangement with its bank, with the Company acting as a guarantor on behalf of IDF Investments Limited, for an amount up to £1,500,000.
+Key management personnel
+The remuneration of key management personnel, including directors, is £795,439 (2023: £657,637).   The key management personnel are considered to be the senior management team.
+Page 
+32
+FERNS SURFACING LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+31.
+Controlling party
+The Company's immediate and ultimate parent is Ferns Group Limited, a company incorporated in England and Wales with the following registered address:
+Tutsham Farm
+West Farleigh
+Maidstone
+Kent
+ME15 0NE
+The ultimate controlling party is I.D. Fern, by virtue of his shareholding in the ultimate parent company.
+Page 
+33
