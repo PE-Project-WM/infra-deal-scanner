@@ -27,6 +27,9 @@ on:
       - 'config/balance_sheet.csv'
       - 'scripts/history.py'
       - 'scripts/score.py'
+      - 'scripts/history_parse.py'
+      - 'scripts/normalise.py'
+      - 'scripts/settings.py'
       - 'config/thesis/**'
       - 'config/company_notes.csv'
       - 'scripts/site_template.html'
@@ -65,7 +68,10 @@ jobs:
         run: |
           set -o pipefail
           python scripts/clean.py 2>&1 | tee data/outputs/clean_log.txt
+          python scripts/sectors.py
+          python scripts/history_parse.py 2>&1 | tee data/outputs/history_parse_log.txt
           python scripts/history.py 2>&1 | tee data/outputs/history_log.txt
+          python scripts/normalise.py 2>&1 | tee data/outputs/normalise_log.txt
           python scripts/score.py 2>&1 | tee data/outputs/score_log.txt
           python scripts/compare.py 2>&1 | tee data/monitor/compare_log.txt
           python scripts/lenses.py 2>&1 | tee data/outputs/lenses_log.txt

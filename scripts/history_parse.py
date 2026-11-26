@@ -28,6 +28,7 @@ EXTRA = {   # label at the start of a line -> what it is
     'rou_depreciation': r'depreciation (of|on) right[- ]of[- ]use|right[- ]of[- ]use assets? depreciation',
     'bank_loans': r'bank (loans?|borrowings?)( and overdrafts?)?\b',
     'finance_leases': r'(obligations under )?(finance leases?|hire purchase)( (and|&) hire purchase)?( contracts?| liabilities| obligations)?\b|lease liabilities\b',
+    'other_borrowings': r'(loans and borrowings|interest[- ]bearing (loans|borrowings)|other loans|invoice (discounting|finance)( facility)?|loan notes)\b',
     'cash_from_operations': r'(net )?cash (generated|inflow)? ?from operat(ions|ing activities)\b|cash generated from operations\b',
     'depreciation': r'depreciation\b',
     'amortisation': r'amorti[sz]ation\b',

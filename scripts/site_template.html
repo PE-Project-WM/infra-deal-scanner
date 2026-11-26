@@ -571,13 +571,14 @@ body{background:var(--surface)}
 <div class="block">  <h2>Limits of this screen</h2>
   <p class="sub text">The screen points to where to look and gives a first view on price. It is not a valuation and not advice.</p>
   <ul class="limits">
-    <li><b>Price check is a first pass</b>Ranges come from listed peers and deal averages, not from deals in each company's niche. Debt and cash are read from each top-ten company's latest accounts, which can be up to two years old, and debt held by owners' holding companies is not visible.</li>
-    <li><b>Deal size is an estimate</b>EBITDA times a multiple range, or a public deal value where one exists. Network owners are priced on a higher range because infrastructure funds pay more for them.</li>
-    <li><b>Repeat revenue is partly read, partly estimated</b>For the leading companies it is read from the accounts (sales split, income paid in advance, contracts described), which rarely give renewal rates. For the rest it is judged from the type of business.</li>
-    <li><b>Balance sheet, not debt capacity</b>Net assets, cash, margin and interest cover where known. True debt capacity needs net debt, capital spending and cash conversion.</li>
-    <li id="lim-scanned"><b>Some scanned accounts not read</b></li>
-    <li id="lim-sector"><b>Sector check pending</b></li>
+    <li><b>Price check is a first pass</b>Each business type has its own price range (services 6–8x EBITDA, contractors 5–7x, network owners 12–18x with a 12% return target, project companies on the cash left in their contract), taken from listed peers and deal averages rather than deals in each company's niche. Debt held by owners' holding companies is not visible.</li>
+    <li><b>Deal size is an estimate</b>EBITDA times the range for the business type, or a public deal value where one exists.</li>
+    <li id="lim-mix"><b>Repeat revenue: renewal rates are not public</b>The share of repeat sales is read from the accounts for most ranked companies, but accounts rarely give renewal or churn rates, and for the rest it is judged from the type of business.</li>
+    <li><b>Net debt is checked by hand only for the leading companies</b>For the rest it is read automatically from the accounts, which can miss borrowings, so it is only used to mark companies down, never up.</li>
+    <li id="lim-scanned"><b>Some accounts have no profit and loss account</b></li>
+    <li id="lim-sector"><b>A few companies cannot be confirmed</b></li>
     <li><b>Demand splits are estimates</b>For the top ten, each company's sales are split across what they depend on, estimated from the accounts and public contracts; filings rarely give the split directly. Further down the list, a company with two named sources is assumed 70/30.</li>
+    <li><b>Public information only</b>Everything comes from accounts filed at Companies House and public sources. Accounts can be up to two years old, and none of this is investment advice.</li>
   </ul>
 </div>
 </section>
@@ -597,13 +598,14 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const fmtDate = d => new Date(d + 'T12:00:00').toLocaleDateString('en-GB', {day:'numeric', month:'long', year:'numeric'});
 const money = v => '£' + (v/1e6).toFixed(1) + 'm';
 const pct = v => Math.round(v*100) + '%';
-const CCOL = {revenue_visibility:'#2463c7', strategy_fit:'#e2742a', size_fit:'#2e9a57', margin_quality:'#86563a', balance_sheet:'#7a4fd0'};
+const CCOL = {revenue_visibility:'#2463c7', growth:'#0f8a8a', strategy_fit:'#e2742a', size_fit:'#2e9a57', margin_quality:'#86563a', balance_sheet:'#7a4fd0'};
 const CRIT = {
-  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur. Read from the accounts for the leading companies; estimated from the type of business for the rest.'],
+  revenue_visibility: ['Repeat revenue', 'How much of the sales are likely to recur. Read from the accounts (sales split, recurring share, contracts described) for most ranked companies; estimated from the type of business for the rest.'],
+  growth: ['Sales growth', 'Yearly sales growth over three or more years of accounts where read (one year where only two are read). Added in method v4 after a back-test showed growth was what set bought companies apart. For a project company, the years left on its contract.'],
   strategy_fit: ['Fits the case', 'How closely the business matches the investment case. Only companies confirmed to trade in the sector are ranked.'],
-  size_fit: ['Right size', 'EBITDA (profit before interest, tax and depreciation) in the £2–15m range most mid-market buyers target.'],
-  margin_quality: ['Profit margin', 'How high the EBITDA margin is and, where three or more years of accounts have been read, how steady it has been.'],
-  balance_sheet: ['Balance sheet', 'Net assets, cash and margin headroom, reduced where interest cover is thin. A first check, not a full measure of how much a buyer could borrow.']
+  size_fit: ['Right size', 'EBITDA (profit before interest, tax and depreciation) against the range buyers target for the business type: £2–15m for services firms and contractors, £3–20m for network owners.'],
+  margin_quality: ['Profit margin', 'How high the EBITDA margin is against what is normal for the business type, and how steady it has been over three or more years of accounts.'],
+  balance_sheet: ['Balance sheet', 'Net assets, cash and margin headroom, reduced where interest cover is thin or net debt is above what the business type can comfortably carry (1x EBITDA for services and contractors, 5x for network owners).']
 };
 const TYPE = {'Steady compounder':['t-steady','Steady compounder'], 'High-growth':['t-growth','High-growth'], 'Fixable dip':['t-dip','Fixable dip'], 'Under pressure':['t-pressure','Under pressure'], 'Growth infrastructure':['t-infra','Growth infrastructure'],
               'Between buckets':['t-between','Between types'], 'Numbers to check':['t-between','Numbers to check']};
@@ -809,8 +811,8 @@ if ((D.growth_infra || []).length) {
 }
 
 // Limits
-document.getElementById('lim-scanned').insertAdjacentText('beforeend', `${D.scanned_ocr ? `Figures for ${D.scanned_ocr.toLocaleString('en-GB')} companies that file scanned accounts were read by text recognition (OCR) and are labelled "OCR, check". ` : ''}${D.scanned.toLocaleString('en-GB')} of the ${D.universe.toLocaleString('en-GB')} companies (${Math.round(D.scanned/D.universe*100)}%) still have scanned accounts that could not be read, so good companies may be missing.`);
-document.getElementById('lim-sector').insertAdjacentText('beforeend', `${D.sector_check} profitable companies are waiting for a check that they really trade in the sector. An industry code alone is not enough to be ranked.`);
+document.getElementById('lim-scanned').insertAdjacentText('beforeend', `All scanned accounts have been read. ${D.scanned.toLocaleString('en-GB')} of the ${D.universe.toLocaleString('en-GB')} companies file accounts without a profit and loss account (small companies may) or one the reader could not find, so their sales and profit are not public and they cannot be ranked.`);
+document.getElementById('lim-sector').insertAdjacentText('beforeend', `${D.sector_check} profitable companies are not ranked because their trading business cannot be confirmed from public information (for example, accounts overdue or no description of the business). An industry code alone is not enough to be ranked.`);
 
 // Separate bets
 if (C) {

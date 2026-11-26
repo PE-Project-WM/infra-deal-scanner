@@ -1,237 +1,408 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "checked_since": "2026-08-27",
  "previous_scored_on": "2026-11-25",
- "headline": "0 new in the top 10, 0 dropped out, 0 moved within it",
- "method_changed": false,
- "method_version": "v3.1",
+ "headline": "Scoring method updated (v4): 3 new in the top 10, 3 dropped out, 12 moved within it",
+ "method_changed": true,
+ "method_version": "v4",
  "events_count": 34,
  "companies_checked": 82,
  "top10": [
   {
    "rank": 1,
-   "company": "Wifinity",
-   "score": 93.4,
+   "company": "The Wireless Infrastructure Company",
+   "score": 92.9,
    "fit": "IN",
-   "segment": "Fibre and wired telecoms networks",
-   "turnover": 39805588.0,
-   "margin": 0.395,
-   "access": "Low",
-   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 38943912.0,
+   "margin": 0.587225905810387,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
    "town": "London",
-   "confidence": "Low",
+   "confidence": "High",
    "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
-    "size_fit": 14.7,
-    "margin_quality": 21.2,
+    "revenue_visibility": 16.0,
+    "growth": 12.8,
+    "strategy_fit": 15.0,
+    "size_fit": 14.1,
+    "margin_quality": 20.0,
     "balance_sheet": 15.0
    }
   },
   {
    "rank": 2,
-   "company": "VEA Group",
-   "score": 84.3,
+   "company": "Wifinity",
+   "score": 89.7,
    "fit": "IN",
-   "segment": "Building and maintaining telecoms and utility networks",
-   "turnover": 32560948.0,
-   "margin": 0.306,
-   "access": "Low-Medium",
-   "access_note": "UK arm of an overseas founder group, carve-out needed",
-   "town": "Bracknell",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 39805588.0,
+   "margin": 0.4160038284072075,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "London",
    "confidence": "High",
    "pts": {
     "revenue_visibility": 15.0,
-    "strategy_fit": 20.0,
+    "growth": 13.9,
+    "strategy_fit": 15.0,
     "size_fit": 15.0,
-    "margin_quality": 19.3,
+    "margin_quality": 15.8,
     "balance_sheet": 15.0
    }
   },
   {
    "rank": 3,
-   "company": "Open Fibre Networks",
-   "score": 83.2,
+   "company": "VEA Group",
+   "score": 87.4,
    "fit": "IN",
-   "segment": "Fibre and wired telecoms networks",
-   "turnover": 27759695.0,
-   "margin": 0.509,
-   "access": "Medium",
-   "access_note": "owned via a UK holding company",
-   "town": "Bury St. Edmunds",
-   "confidence": "Low",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 32560948.0,
+   "margin": 0.233414624402449,
+   "access": "Low-Medium",
+   "access_note": "UK arm of an overseas founder group, carve-out needed",
+   "town": "Bracknell",
+   "confidence": "High",
    "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
+    "revenue_visibility": 12.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
     "size_fit": 15.0,
-    "margin_quality": 21.2,
-    "balance_sheet": 4.5
-   }
-  },
-  {
-   "rank": 4,
-   "company": "The Wireless Infrastructure Company",
-   "score": 83.1,
-   "fit": "IN",
-   "segment": "Wireless networks, towers and fixed wireless",
-   "turnover": 38943912.0,
-   "margin": 0.587,
-   "access": "Medium",
-   "access_note": "sponsor-owned, sale timing depends on hold year",
-   "town": "London",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 15.0,
-    "strategy_fit": 20.0,
-    "size_fit": 11.9,
-    "margin_quality": 21.2,
+    "margin_quality": 15.4,
     "balance_sheet": 15.0
    }
   },
   {
-   "rank": 5,
-   "company": "Kcom Group",
-   "score": 81.7,
+   "rank": 4,
+   "company": "The Networking People (TNP)",
+   "score": 82.1,
    "fit": "IN",
    "segment": "Other telecoms networks",
-   "turnover": 96210000.0,
-   "margin": 0.458,
-   "access": "Medium",
-   "access_note": "sponsor-owned, sale timing depends on hold year",
-   "town": "East Yorkshire",
-   "confidence": "Low",
+   "turnover": 18099102.0,
+   "margin": 0.1273420637112272,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "Lancaster",
+   "confidence": "High",
    "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
-    "size_fit": 9.0,
-    "margin_quality": 21.2,
-    "balance_sheet": 9.0
+    "revenue_visibility": 14.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 9.6,
+    "balance_sheet": 13.5
+   }
+  },
+  {
+   "rank": 5,
+   "company": "Redwood Technologies Group",
+   "score": 81.8,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 80319834.0,
+   "margin": 0.161082915086702,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Bracknell",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 18.0,
+    "growth": 13.4,
+    "strategy_fit": 9.0,
+    "size_fit": 15.0,
+    "margin_quality": 11.4,
+    "balance_sheet": 15.0
    }
   },
   {
    "rank": 6,
-   "company": "Alert Communications",
-   "score": 80.3,
-   "fit": "ADJACENT",
-   "segment": "Other telecoms networks",
-   "turnover": 10761040.0,
-   "margin": 0.502,
+   "company": "Open Fibre Networks",
+   "score": 81.5,
+   "fit": "IN",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 27759695.0,
+   "margin": 0.5089354548023672,
    "access": "Medium",
-   "access_note": "sponsor-owned, sale timing depends on hold year",
-   "town": "London",
-   "confidence": "Low",
+   "access_note": "owned via a UK holding company",
+   "town": "Bury St. Edmunds",
+   "confidence": "Medium",
    "pts": {
-    "revenue_visibility": 23.8,
-    "strategy_fit": 12.0,
+    "revenue_visibility": 18.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
     "size_fit": 15.0,
-    "margin_quality": 21.2,
-    "balance_sheet": 8.3
+    "margin_quality": 14.0,
+    "balance_sheet": 4.5
    }
   },
   {
    "rank": 7,
-   "company": "National Grid Telecoms",
-   "score": 79.7,
-   "fit": "IN",
-   "segment": "Fibre and wired telecoms networks",
-   "turnover": 24089000.0,
-   "margin": 0.137,
-   "access": "Medium",
-   "access_note": "owned via a UK holding company",
-   "town": "Bristol",
-   "confidence": "Low",
-   "pts": {
-    "revenue_visibility": 22.5,
-    "strategy_fit": 20.0,
-    "size_fit": 15.0,
-    "margin_quality": 11.7,
-    "balance_sheet": 10.5
-   }
-  },
-  {
-   "rank": 8,
    "company": "Clarus Networks",
-   "score": 79.6,
+   "score": 81.4,
    "fit": "IN",
    "segment": "Wireless networks, towers and fixed wireless",
    "turnover": 26680567.0,
-   "margin": 0.161,
+   "margin": 0.1150890458962135,
    "access": "High",
    "access_note": "founder-owned, proprietary approach possible",
    "town": "Bathgate",
-   "confidence": "Medium",
+   "confidence": "High",
    "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 20.0,
+    "revenue_visibility": 14.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
     "size_fit": 15.0,
-    "margin_quality": 13.1,
+    "margin_quality": 8.4,
     "balance_sheet": 14.0
    }
   },
   {
-   "rank": 9,
-   "company": "Beacon Communication Services",
-   "score": 78.8,
-   "fit": "IN",
-   "segment": "Wireless networks, towers and fixed wireless",
-   "turnover": 31765539.0,
-   "margin": 0.195,
-   "access": "High",
-   "access_note": "founder-owned, proprietary approach possible",
-   "town": "Tavistock",
-   "confidence": "Low",
+   "rank": 8,
+   "company": "Communicate Technology",
+   "score": 79.5,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 13755104.0,
+   "margin": 0.1612189918738528,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "Billingham",
+   "confidence": "Medium",
    "pts": {
     "revenue_visibility": 15.0,
-    "strategy_fit": 20.0,
+    "growth": 15.0,
+    "strategy_fit": 9.0,
     "size_fit": 15.0,
-    "margin_quality": 15.1,
-    "balance_sheet": 13.7
+    "margin_quality": 10.5,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 9,
+   "company": "Rapid Response Telecoms",
+   "score": 79.2,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 33104076.0,
+   "margin": 0.1634559442166578,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Barnsley",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 8.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 15.5,
+    "balance_sheet": 10.7
    }
   },
   {
    "rank": 10,
-   "company": "The Networking People (TNP)",
-   "score": 77.2,
-   "fit": "IN",
+   "company": "Alert Communications",
+   "score": 79.1,
+   "fit": "ADJACENT",
    "segment": "Other telecoms networks",
-   "turnover": 18099102.0,
-   "margin": 0.127,
-   "access": "Low",
-   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
-   "town": "Lancaster",
-   "confidence": "Medium",
+   "turnover": 10761040.0,
+   "margin": 0.5022290596447927,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "London",
+   "confidence": "High",
    "pts": {
-    "revenue_visibility": 17.5,
-    "strategy_fit": 20.0,
+    "revenue_visibility": 19.0,
+    "growth": 7.0,
+    "strategy_fit": 9.0,
     "size_fit": 15.0,
-    "margin_quality": 11.2,
-    "balance_sheet": 13.5
+    "margin_quality": 17.5,
+    "balance_sheet": 11.6
    }
   }
  ],
  "top10_moves": [
   {
+   "company": "The Wireless Infrastructure Company",
+   "number": "03307001",
+   "kind": "up",
+   "from": 4,
+   "to": 1,
+   "score_from": 83.1,
+   "score_to": 92.9,
+   "reasons": [
+    "margin 59% \u2192 59%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Wifinity",
+   "number": "03921568",
+   "kind": "down",
+   "from": 1,
+   "to": 2,
+   "score_from": 93.4,
+   "score_to": 89.7,
+   "reasons": [
+    "margin 40% \u2192 42%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VEA Group",
+   "number": "13433533",
+   "kind": "down",
+   "from": 2,
+   "to": 3,
+   "score_from": 84.3,
+   "score_to": 87.4,
+   "reasons": [
+    "margin 31% \u2192 23%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Networking People (TNP)",
+   "number": "07667393",
+   "kind": "up",
+   "from": 10,
+   "to": 4,
+   "score_from": 77.2,
+   "score_to": 82.1,
+   "reasons": [
+    "margin 13% \u2192 13%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Redwood Technologies Group",
+   "number": "09228224",
+   "kind": "up",
+   "from": 15,
+   "to": 5,
+   "score_from": 75.4,
+   "score_to": 81.8,
+   "reasons": [
+    "margin 12% \u2192 16%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Open Fibre Networks",
+   "number": "05412813",
+   "kind": "down",
+   "from": 3,
+   "to": 6,
+   "score_from": 83.2,
+   "score_to": 81.5,
+   "reasons": [
+    "margin 51% \u2192 51%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Clarus Networks",
+   "number": "SC492820",
+   "kind": "up",
+   "from": 8,
+   "to": 7,
+   "score_from": 79.6,
+   "score_to": 81.4,
+   "reasons": [
+    "margin 16% \u2192 12%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Communicate Technology",
+   "number": "07867043",
+   "kind": "new",
+   "from": null,
+   "to": 8,
+   "score_from": null,
+   "score_to": 79.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "up",
+   "from": 33,
+   "to": 9,
+   "score_from": 69.0,
+   "score_to": 79.2,
+   "reasons": [
+    "margin 16% \u2192 16%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
+  },
+  {
    "company": "Alert Communications",
    "number": "03912906",
-   "kind": "same",
+   "kind": "down",
    "from": 6,
-   "to": 6,
+   "to": 10,
    "score_from": 80.3,
-   "score_to": 80.3,
-   "reasons": [],
+   "score_to": 79.1,
+   "reasons": [
+    "margin 50% \u2192 50%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Director appointed (2026-11-04): Britton, Cara Marie appointed"
    ]
   },
   {
+   "company": "Beacon Communication Services",
+   "number": "04186486",
+   "kind": "down",
+   "from": 9,
+   "to": 14,
+   "score_from": 78.8,
+   "score_to": 76.0,
+   "reasons": [
+    "margin 20% \u2192 19%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Kcom Group",
+   "number": "02150618",
+   "kind": "down",
+   "from": 5,
+   "to": 30,
+   "score_from": 81.7,
+   "score_to": 71.1,
+   "reasons": [
+    "margin 46% \u2192 45%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "National Grid Telecoms",
    "number": "02386327",
-   "kind": "same",
+   "kind": "down",
    "from": 7,
-   "to": 7,
+   "to": 31,
    "score_from": 79.7,
-   "score_to": 79.7,
-   "reasons": [],
+   "score_to": 71.0,
+   "reasons": [
+    "margin 14% \u2192 14%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged)",
     "Director resigned (2026-10-01): Sharma, Tanya Joy resigned"
@@ -240,42 +411,204 @@
  ],
  "all_moves": [
   {
+   "company": "Fourway Communication",
+   "number": "00714431",
+   "kind": "down",
+   "from": 77,
+   "to": 79,
+   "score_from": 38.8,
+   "score_to": 40.9,
+   "reasons": [
+    "margin 1% \u2192 1%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avoira",
+   "number": "01763970",
+   "kind": "up",
+   "from": 68,
+   "to": 67,
+   "score_from": 47.9,
+   "score_to": 50.7,
+   "reasons": [
+    "margin 5% \u2192 5%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Intercity Technology",
+   "number": "01938625",
+   "kind": "up",
+   "from": 74,
+   "to": 68,
+   "score_from": 41.1,
+   "score_to": 50.4,
+   "reasons": [
+    "margin 2% \u2192 2%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Kcom Group",
+   "number": "02150618",
+   "kind": "down",
+   "from": 5,
+   "to": 30,
+   "score_from": 81.7,
+   "score_to": 71.1,
+   "reasons": [
+    "margin 46% \u2192 45%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Vanco UK",
+   "number": "02296733",
+   "kind": "down",
+   "from": 56,
+   "to": 69,
+   "score_from": 57.2,
+   "score_to": 50.3,
+   "reasons": [
+    "margin 11% \u2192 11%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "National Grid Telecoms",
    "number": "02386327",
-   "kind": "same",
+   "kind": "down",
    "from": 7,
-   "to": 7,
+   "to": 31,
    "score_from": 79.7,
-   "score_to": 79.7,
-   "reasons": [],
+   "score_to": 71.0,
+   "reasons": [
+    "margin 14% \u2192 14%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged)",
     "Director resigned (2026-10-01): Sharma, Tanya Joy resigned"
    ]
   },
   {
+   "company": "Connect Managed Services (UK)",
+   "number": "02557464",
+   "kind": "down",
+   "from": 20,
+   "to": 47,
+   "score_from": 72.3,
+   "score_to": 68.3,
+   "reasons": [
+    "margin 12% \u2192 12%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "X-On Health",
    "number": "02578478",
-   "kind": "same",
+   "kind": "out",
    "from": 18,
-   "to": 18,
+   "to": null,
    "score_from": 73.9,
-   "score_to": 73.9,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "Duplicate of SAINT TOPCO LIMITED"
+   ],
    "events": [
     "Director appointed (2026-10-05): Pile, Daryl James appointed",
     "Director appointed (2026-10-05): Overd, Matthew John appointed"
    ]
   },
   {
+   "company": "BDR Voice & Data Solutions",
+   "number": "02652955",
+   "kind": "same",
+   "from": 64,
+   "to": 64,
+   "score_from": 50.0,
+   "score_to": 54.4,
+   "reasons": [
+    "margin 2% \u2192 2%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Maintel Europe",
+   "number": "02665837",
+   "kind": "up",
+   "from": 58,
+   "to": 56,
+   "score_from": 56.0,
+   "score_to": 62.2,
+   "reasons": [
+    "margin 6% \u2192 5%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ERH Communications",
+   "number": "02697046",
+   "kind": "up",
+   "from": 82,
+   "to": 74,
+   "score_from": 28.2,
+   "score_to": 45.8,
+   "reasons": [
+    "margin 0% \u2192 0%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "John Henry Group",
+   "number": "02763306",
+   "kind": "down",
+   "from": 41,
+   "to": 54,
+   "score_from": 63.0,
+   "score_to": 63.8,
+   "reasons": [
+    "margin 9% \u2192 6%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Chess",
+   "number": "02797895",
+   "kind": "down",
+   "from": 39,
+   "to": 62,
+   "score_from": 65.3,
+   "score_to": 54.7,
+   "reasons": [
+    "margin 12% \u2192 12%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "Charterhouse Voice & Data",
    "number": "02804354",
-   "kind": "same",
+   "kind": "up",
    "from": 60,
-   "to": 60,
+   "to": 58,
    "score_from": 54.6,
-   "score_to": 54.6,
-   "reasons": [],
+   "score_to": 56.1,
+   "reasons": [
+    "margin 6% \u2192 6%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Director resigned (2026-11-11): Stevenson, Kelly Louise resigned",
     "Director resigned (2026-11-11): Crawford, Amy Elizabeth resigned",
@@ -286,27 +619,393 @@
    ]
   },
   {
+   "company": "MAP Group (UK)",
+   "number": "02853596",
+   "kind": "down",
+   "from": 14,
+   "to": 50,
+   "score_from": 75.5,
+   "score_to": 66.8,
+   "reasons": [
+    "margin 24% \u2192 24%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Teligent",
+   "number": "02893478",
+   "kind": "up",
+   "from": 79,
+   "to": 78,
+   "score_from": 36.5,
+   "score_to": 41.6,
+   "reasons": [
+    "margin 2% \u2192 2%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Corporate Direct (Europe)",
+   "number": "02946493",
+   "kind": "down",
+   "from": 72,
+   "to": 83,
+   "score_from": 43.5,
+   "score_to": 35.0,
+   "reasons": [
+    "margin 2% \u2192 2%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ZEN Internet",
+   "number": "03101568",
+   "kind": "up",
+   "from": 54,
+   "to": 53,
+   "score_from": 58.6,
+   "score_to": 63.9,
+   "reasons": [
+    "margin 6% \u2192 5%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Glide Student & Residential",
+   "number": "03188615",
+   "kind": "new",
+   "from": null,
+   "to": 34,
+   "score_from": null,
+   "score_to": 70.5,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ferns Surfacing",
+   "number": "03193093",
+   "kind": "up",
+   "from": 62,
+   "to": 23,
+   "score_from": 52.2,
+   "score_to": 72.4,
+   "reasons": [
+    "margin 8% \u2192 8%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Elitetele.Com",
+   "number": "03228824",
+   "kind": "out",
+   "from": 17,
+   "to": null,
+   "score_from": 74.7,
+   "score_to": null,
+   "reasons": [
+    "Duplicate of NEW TECHNOLOGY GROUP HOLDINGS PLC"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Wireless Infrastructure Company",
+   "number": "03307001",
+   "kind": "up",
+   "from": 4,
+   "to": 1,
+   "score_from": 83.1,
+   "score_to": 92.9,
+   "reasons": [
+    "margin 59% \u2192 59%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Wingnut Utilities",
+   "number": "03368473",
+   "kind": "down",
+   "from": 16,
+   "to": 40,
+   "score_from": 75.1,
+   "score_to": 69.6,
+   "reasons": [
+    "margin 11% \u2192 11%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "5G Communications",
+   "number": "03513467",
+   "kind": "up",
+   "from": 28,
+   "to": 25,
+   "score_from": 69.9,
+   "score_to": 72.1,
+   "reasons": [
+    "margin 18% \u2192 18%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Global 4 Communications",
+   "number": "03526932",
+   "kind": "new",
+   "from": null,
+   "to": 72,
+   "score_from": null,
+   "score_to": 48.6,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Telecommunications Management",
+   "number": "03592271",
+   "kind": "up",
+   "from": 25,
+   "to": 17,
+   "score_from": 70.6,
+   "score_to": 74.7,
+   "reasons": [
+    "margin 27% \u2192 20%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Windsor Telecom",
+   "number": "03752620",
+   "kind": "up",
+   "from": 23,
+   "to": 16,
+   "score_from": 70.8,
+   "score_to": 75.5,
+   "reasons": [
+    "margin 18% \u2192 18%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Medhurst Communications",
+   "number": "03868503",
+   "kind": "down",
+   "from": 67,
+   "to": 80,
+   "score_from": 48.4,
+   "score_to": 40.4,
+   "reasons": [
+    "margin 5% \u2192 5%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "Alert Communications",
    "number": "03912906",
-   "kind": "same",
+   "kind": "down",
    "from": 6,
-   "to": 6,
+   "to": 10,
    "score_from": 80.3,
-   "score_to": 80.3,
-   "reasons": [],
+   "score_to": 79.1,
+   "reasons": [
+    "margin 50% \u2192 50%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Director appointed (2026-11-04): Britton, Cara Marie appointed"
    ]
   },
   {
+   "company": "Wifinity",
+   "number": "03921568",
+   "kind": "down",
+   "from": 1,
+   "to": 2,
+   "score_from": 93.4,
+   "score_to": 89.7,
+   "reasons": [
+    "margin 40% \u2192 42%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avanti Broadband",
+   "number": "03958887",
+   "kind": "out",
+   "from": 70,
+   "to": null,
+   "score_from": 45.8,
+   "score_to": null,
+   "reasons": [
+    "Part of a much larger group (not buyable on its own): Avanti Communications group (group rule: One of several Avanti subsidiaries under Avanti Communications Infrastructure (register); the satellite operator is run as one group and is not sold in parts)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Onecom",
+   "number": "04031272",
+   "kind": "up",
+   "from": 48,
+   "to": 28,
+   "score_from": 60.6,
+   "score_to": 71.5,
+   "reasons": [
+    "margin 14% \u2192 14%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "FLR Spectron",
+   "number": "04085164",
+   "kind": "up",
+   "from": 46,
+   "to": 45,
+   "score_from": 60.8,
+   "score_to": 68.9,
+   "reasons": [
+    "margin 9% \u2192 9%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Beacon Communication Services",
+   "number": "04186486",
+   "kind": "down",
+   "from": 9,
+   "to": 14,
+   "score_from": 78.8,
+   "score_to": 76.0,
+   "reasons": [
+    "margin 20% \u2192 19%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "I.P. Integration",
+   "number": "04210561",
+   "kind": "up",
+   "from": 53,
+   "to": 37,
+   "score_from": 59.3,
+   "score_to": 69.9,
+   "reasons": [
+    "margin 8% \u2192 8%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Babble Cloud",
+   "number": "04213760",
+   "kind": "down",
+   "from": 34,
+   "to": 46,
+   "score_from": 69.0,
+   "score_to": 68.9,
+   "reasons": [
+    "margin 9% \u2192 9%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VCG Technology Services",
+   "number": "04380546",
+   "kind": "down",
+   "from": 65,
+   "to": 76,
+   "score_from": 49.8,
+   "score_to": 43.0,
+   "reasons": [
+    "margin 3% \u2192 3%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "NEW Technology Group Holdings PLC",
+   "number": "04503928",
+   "kind": "up",
+   "from": 81,
+   "to": 75,
+   "score_from": 31.9,
+   "score_to": 44.3,
+   "reasons": [
+    "margin 6% \u2192 6%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Radiocoms Systems",
+   "number": "04544886",
+   "kind": "up",
+   "from": 42,
+   "to": 41,
+   "score_from": 62.3,
+   "score_to": 69.5,
+   "reasons": [
+    "margin 13% \u2192 13%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Pageone Communications",
+   "number": "04560277",
+   "kind": "same",
+   "from": 59,
+   "to": 59,
+   "score_from": 55.4,
+   "score_to": 55.7,
+   "reasons": [
+    "margin 11% \u2192 11%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Telappliant",
+   "number": "04632756",
+   "kind": "down",
+   "from": 51,
+   "to": 70,
+   "score_from": 59.5,
+   "score_to": 50.0,
+   "reasons": [
+    "margin 13% \u2192 13%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "Satcom Global",
    "number": "05208041",
-   "kind": "same",
+   "kind": "down",
    "from": 12,
-   "to": 12,
+   "to": 20,
    "score_from": 76.0,
-   "score_to": 76.0,
-   "reasons": [],
+   "score_to": 73.5,
+   "reasons": [
+    "margin 17% \u2192 17%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Director resigned (2026-09-02): Leydon, Chris resigned"
    ]
@@ -318,8 +1017,11 @@
    "from": 52,
    "to": 52,
    "score_from": 59.4,
-   "score_to": 59.4,
-   "reasons": [],
+   "score_to": 64.4,
+   "reasons": [
+    "margin 6% \u2192 6%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Director appointed (2026-10-28): Mauguy, Philippe Robert Francis appointed"
    ]
@@ -327,25 +1029,71 @@
   {
    "company": "Intelligent Communications Solutions",
    "number": "05238375",
-   "kind": "same",
+   "kind": "out",
    "from": 66,
-   "to": 66,
+   "to": null,
    "score_from": 48.8,
-   "score_to": 48.8,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "Part of a much larger group (not buyable on its own): Whistler Bidco group (WHP Telecoms) (group rule: Sister company of WHP Telecoms (about \u00a3145m turnover) and Sitec under Whistler Bidco; the group is the sale perimeter and its accounts are not in the universe)"
+   ],
    "events": [
     "Director resigned (2026-08-31): Welch, Alexander Thomas resigned"
    ]
   },
   {
+   "company": "Ground Control Technologies UK",
+   "number": "05240202",
+   "kind": "down",
+   "from": 43,
+   "to": 57,
+   "score_from": 62.0,
+   "score_to": 61.1,
+   "reasons": [
+    "margin 6% \u2192 6%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avanti Space",
+   "number": "05316540",
+   "kind": "out",
+   "from": 73,
+   "to": null,
+   "score_from": 41.4,
+   "score_to": null,
+   "reasons": [
+    "Part of a much larger group (not buyable on its own): Avanti Communications group (group rule: One of several Avanti subsidiaries under Avanti Communications Infrastructure (register))"
+   ],
+   "events": []
+  },
+  {
+   "company": "Open Fibre Networks",
+   "number": "05412813",
+   "kind": "down",
+   "from": 3,
+   "to": 6,
+   "score_from": 83.2,
+   "score_to": 81.5,
+   "reasons": [
+    "margin 51% \u2192 51%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "4Net Technologies",
    "number": "05448638",
-   "kind": "same",
+   "kind": "up",
    "from": 45,
-   "to": 45,
+   "to": 24,
    "score_from": 61.0,
-   "score_to": 61.0,
-   "reasons": [],
+   "score_to": 72.2,
+   "reasons": [
+    "margin 10% \u2192 10%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "New charge (2026-10-23): Security registered in favour of Alter Domus Trustees (UK) Limited, as Security Agent (possible new borrowing)",
     "Charge satisfied (2026-09-23): Security for Alter Domus Trustees (UK) Limited as Security Agent released (debt repaid or refinanced)",
@@ -354,14 +1102,85 @@
    ]
   },
   {
+   "company": "Taylor Plant",
+   "number": "05556360",
+   "kind": "new",
+   "from": null,
+   "to": 13,
+   "score_from": null,
+   "score_to": 76.1,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, check accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "York Telecom",
+   "number": "05942331",
+   "kind": "up",
+   "from": 80,
+   "to": 77,
+   "score_from": 34.6,
+   "score_to": 42.7,
+   "reasons": [
+    "margin 3% \u2192 3%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Natilik",
+   "number": "05954905",
+   "kind": "up",
+   "from": 50,
+   "to": 39,
+   "score_from": 60.3,
+   "score_to": 69.8,
+   "reasons": [
+    "margin 7% \u2192 7%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "C.A. Telecom UK",
+   "number": "06011062",
+   "kind": "down",
+   "from": 26,
+   "to": 48,
+   "score_from": 70.4,
+   "score_to": 67.9,
+   "reasons": [
+    "margin 14% \u2192 13%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Centercomms",
+   "number": "06391276",
+   "kind": "down",
+   "from": 21,
+   "to": 36,
+   "score_from": 72.1,
+   "score_to": 69.9,
+   "reasons": [
+    "margin 16% \u2192 16%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "4Com Network Services",
    "number": "06472696",
-   "kind": "same",
+   "kind": "out",
    "from": 44,
-   "to": 44,
+   "to": null,
    "score_from": 61.6,
-   "score_to": 61.6,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "Part of a much larger group (not buyable on its own): O2 Daisy (Virgin Media O2) (group rule: Owned via 4com Group > Daisy Midco > O2 Business Holdings (register): part of O2 Daisy, about \u00a31.4bn revenue)"
+   ],
    "events": [
     "Director appointed (2026-10-07): Smith, Nigel Paul appointed",
     "Director appointed (2026-10-07): Milton, Paul Stephen appointed",
@@ -371,14 +1190,154 @@
    ]
   },
   {
+   "company": "Ridown Capital",
+   "number": "06521296",
+   "kind": "up",
+   "from": 71,
+   "to": 60,
+   "score_from": 44.8,
+   "score_to": 55.4,
+   "reasons": [
+    "margin 2% \u2192 2%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Bistech Group PLC",
+   "number": "06797181",
+   "kind": "up",
+   "from": 40,
+   "to": 32,
+   "score_from": 65.2,
+   "score_to": 70.7,
+   "reasons": [
+    "margin 14% \u2192 14%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Natterbox",
+   "number": "06968249",
+   "kind": "down",
+   "from": 30,
+   "to": 44,
+   "score_from": 69.7,
+   "score_to": 69.3,
+   "reasons": [
+    "margin 15% \u2192 15%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Lily Communications",
+   "number": "07020016",
+   "kind": "down",
+   "from": 61,
+   "to": 63,
+   "score_from": 52.6,
+   "score_to": 54.6,
+   "reasons": [
+    "margin 9% \u2192 9%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Community Fibre",
+   "number": "07413288",
+   "kind": "down",
+   "from": 11,
+   "to": 19,
+   "score_from": 76.9,
+   "score_to": 74.0,
+   "reasons": [
+    "margin 24% \u2192 24%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Networking People (TNP)",
+   "number": "07667393",
+   "kind": "up",
+   "from": 10,
+   "to": 4,
+   "score_from": 77.2,
+   "score_to": 82.1,
+   "reasons": [
+    "margin 13% \u2192 13%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Kntc",
+   "number": "07800863",
+   "kind": "new",
+   "from": null,
+   "to": 12,
+   "score_from": null,
+   "score_to": 78.6,
+   "reasons": [
+    "entered the ranking (IN fit, low accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Communicate Technology",
+   "number": "07867043",
+   "kind": "new",
+   "from": null,
+   "to": 8,
+   "score_from": null,
+   "score_to": 79.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Tela Technology",
+   "number": "07974624",
+   "kind": "down",
+   "from": 22,
+   "to": 29,
+   "score_from": 71.7,
+   "score_to": 71.4,
+   "reasons": [
+    "margin 10% \u2192 10%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Aerial Direct",
+   "number": "08043921",
+   "kind": "down",
+   "from": 31,
+   "to": 51,
+   "score_from": 69.5,
+   "score_to": 66.1,
+   "reasons": [
+    "margin 18% \u2192 18%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "Datalec Power Installations",
    "number": "08235914",
-   "kind": "same",
+   "kind": "out",
    "from": 49,
-   "to": 49,
+   "to": null,
    "score_from": 60.5,
-   "score_to": 60.5,
-   "reasons": [],
+   "score_to": null,
+   "reasons": [
+    "Part of a much larger group (not buyable on its own): Merged with 3C in October 2026 to form 3C Datalec, expecting more than $400m of revenue in 2026"
+   ],
    "events": [
     "Director appointed (2026-10-27): Walton, Steven William appointed",
     "Director appointed (2026-10-27): Nagarajan, Balasubramanian appointed",
@@ -390,12 +1349,15 @@
   {
    "company": "Redcentric Solutions",
    "number": "08322856",
-   "kind": "same",
+   "kind": "down",
    "from": 24,
-   "to": 24,
+   "to": 33,
    "score_from": 70.7,
-   "score_to": 70.7,
-   "reasons": [],
+   "score_to": 70.6,
+   "reasons": [
+    "margin 12% \u2192 10%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
     "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
@@ -403,31 +1365,342 @@
    ]
   },
   {
+   "company": "Network Planning Solutions",
+   "number": "08709631",
+   "kind": "down",
+   "from": 19,
+   "to": 35,
+   "score_from": 73.7,
+   "score_to": 70.2,
+   "reasons": [
+    "margin 26% \u2192 26%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "ICE Telecommunications",
+   "number": "09180490",
+   "kind": "down",
+   "from": 76,
+   "to": 81,
+   "score_from": 39.0,
+   "score_to": 38.5,
+   "reasons": [
+    "margin 2% \u2192 5%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Redwood Technologies Group",
+   "number": "09228224",
+   "kind": "up",
+   "from": 15,
+   "to": 5,
+   "score_from": 75.4,
+   "score_to": 81.8,
+   "reasons": [
+    "margin 12% \u2192 16%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Croft Communications",
+   "number": "09585068",
+   "kind": "down",
+   "from": 36,
+   "to": 42,
+   "score_from": 67.5,
+   "score_to": 69.4,
+   "reasons": [
+    "margin 7% \u2192 7%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "Heneghan Holdings",
    "number": "09956206",
-   "kind": "same",
+   "kind": "up",
    "from": 37,
-   "to": 37,
+   "to": 27,
    "score_from": 67.3,
-   "score_to": 67.3,
-   "reasons": [],
+   "score_to": 71.6,
+   "reasons": [
+    "margin 43% \u2192 43%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
     "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
    ]
   },
   {
+   "company": "Glenelly Infrastructure Solutions",
+   "number": "10021562",
+   "kind": "up",
+   "from": 55,
+   "to": 21,
+   "score_from": 58.5,
+   "score_to": 72.9,
+   "reasons": [
+    "margin 14% \u2192 14%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Nano Fibre UK",
+   "number": "10174559",
+   "kind": "down",
+   "from": 32,
+   "to": 43,
+   "score_from": 69.3,
+   "score_to": 69.4,
+   "reasons": [
+    "margin 10% \u2192 10%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Abzorb Group",
+   "number": "10779280",
+   "kind": "up",
+   "from": 27,
+   "to": 22,
+   "score_from": 70.2,
+   "score_to": 72.6,
+   "reasons": [
+    "margin 11% \u2192 11%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "The Badger Group",
+   "number": "10902222",
+   "kind": "up",
+   "from": 13,
+   "to": 11,
+   "score_from": 75.7,
+   "score_to": 78.7,
+   "reasons": [
+    "margin 33% \u2192 33%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
    "company": "Rapid Response Telecoms",
    "number": "11480193",
-   "kind": "same",
+   "kind": "up",
    "from": 33,
-   "to": 33,
+   "to": 9,
    "score_from": 69.0,
-   "score_to": 69.0,
-   "reasons": [],
+   "score_to": 79.2,
+   "reasons": [
+    "margin 16% \u2192 16%",
+    "scoring method changed (v3.1 to v4)"
+   ],
    "events": [
     "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
    ]
+  },
+  {
+   "company": "Spitfire Technology Holdings",
+   "number": "11641366",
+   "kind": "new",
+   "from": null,
+   "to": 61,
+   "score_from": null,
+   "score_to": 55.4,
+   "reasons": [
+    "entered the ranking (IN fit, high accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Nets International",
+   "number": "12421328",
+   "kind": "same",
+   "from": 38,
+   "to": 38,
+   "score_from": 66.8,
+   "score_to": 69.8,
+   "reasons": [
+    "margin 8% \u2192 8%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Opus Tech",
+   "number": "12520403",
+   "kind": "up",
+   "from": 57,
+   "to": 26,
+   "score_from": 57.2,
+   "score_to": 71.7,
+   "reasons": [
+    "margin 8% \u2192 8%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "VEA Group",
+   "number": "13433533",
+   "kind": "down",
+   "from": 2,
+   "to": 3,
+   "score_from": 84.3,
+   "score_to": 87.4,
+   "reasons": [
+    "margin 31% \u2192 23%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Saint Topco",
+   "number": "13567332",
+   "kind": "new",
+   "from": null,
+   "to": 55,
+   "score_from": null,
+   "score_to": 63.5,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, low accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Talk Straight Holdings",
+   "number": "14354114",
+   "kind": "up",
+   "from": 75,
+   "to": 71,
+   "score_from": 40.5,
+   "score_to": 48.9,
+   "reasons": [
+    "margin 6% \u2192 6%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "TFP Telecoms",
+   "number": "14972810",
+   "kind": "new",
+   "from": null,
+   "to": 73,
+   "score_from": null,
+   "score_to": 46.8,
+   "reasons": [
+    "entered the ranking (ADJACENT fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "OCU Nettworx",
+   "number": "NI612801",
+   "kind": "up",
+   "from": 47,
+   "to": 15,
+   "score_from": 60.7,
+   "score_to": 75.7,
+   "reasons": [
+    "margin 13% \u2192 13%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "M & M Contractors (Europe)",
+   "number": "NI614374",
+   "kind": "up",
+   "from": 78,
+   "to": 66,
+   "score_from": 38.3,
+   "score_to": 51.6,
+   "reasons": [
+    "margin 4% \u2192 4%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "GCU (UK)",
+   "number": "NI620995",
+   "kind": "down",
+   "from": 35,
+   "to": 49,
+   "score_from": 67.9,
+   "score_to": 67.7,
+   "reasons": [
+    "margin 14% \u2192 14%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Barclay Digital Services",
+   "number": "NI624500",
+   "kind": "up",
+   "from": 29,
+   "to": 18,
+   "score_from": 69.9,
+   "score_to": 74.6,
+   "reasons": [
+    "margin 22% \u2192 22%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Pelion IOT",
+   "number": "SC211701",
+   "kind": "down",
+   "from": 63,
+   "to": 82,
+   "score_from": 50.7,
+   "score_to": 38.4,
+   "reasons": [
+    "margin 3% \u2192 2%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Clarus Networks",
+   "number": "SC492820",
+   "kind": "up",
+   "from": 8,
+   "to": 7,
+   "score_from": 79.6,
+   "score_to": 81.4,
+   "reasons": [
+    "margin 16% \u2192 12%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Highlands Bidco",
+   "number": "SC646446",
+   "kind": "up",
+   "from": 69,
+   "to": 65,
+   "score_from": 47.2,
+   "score_to": 53.2,
+   "reasons": [
+    "margin 3% \u2192 3%",
+    "scoring method changed (v3.1 to v4)"
+   ],
+   "events": []
   }
  ],
  "events": [
@@ -670,5 +1943,5 @@
    "detail": "Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)"
   }
  ],
- "ranked": 82
+ "ranked": 83
 }

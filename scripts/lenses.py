@@ -18,7 +18,7 @@ pct = lambda x: f'{x * 100:.0f}%'
 
 R = pd.read_csv(f'{OUT}/ranking_latest.csv', dtype={'CompanyNumber': str})
 C = pd.read_csv(f'{OUT}/candidates_clean.csv', dtype={'CompanyNumber': str})
-Wl = C[C['goes_forward'] & (C['status'] == 'Watchlist (loss-making)')].copy()
+Wl = C[C['goes_forward'] & (C['status'] == 'Watchlist (loss-making)') & ~C['CompanyNumber'].isin(R['CompanyNumber'])].copy()   # EBITDA rules can lift a company into the ranking
 R['list'], Wl['list'], Wl['rank'] = 'Ranked', 'Watchlist (loss-making)', pd.NA
 from settings import W as _W
 R['visibility'] = R['pts_revenue_visibility'] / _W['revenue_visibility']

@@ -80,16 +80,24 @@ def apply_rules(D):
     return D
 
 
-def net_debt(num):
-    """Net debt in pounds and where it came from: the hand-checked file first, else what the accounts text shows."""
+def net_debt(num, cash=None):
+    """Net debt in pounds and where it came from, in order of trust:
+    hand-checked file; tagged borrowings in digital accounts; borrowings read from the accounts text;
+    otherwise, where cash is known and no borrowings were found, minus the cash (marked for a check)."""
     if num in BS.index:
         b = BS.loc[num].fillna(0)
         return float(b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans'] - b['cash']) * rate(b['currency']), 'checked by hand'
+    bank = hist(num, 'bank_debt_latest')
+    if bank is not None and cash is not None and pd.notna(cash):
+        return float(bank) - float(cash), 'tagged in the digital accounts'
     if num in TXT.index:
         t = TXT.loc[num]
-        debt = [t.get(c) for c in ('bank_loans', 'finance_leases')]
-        if any(pd.notna(x) for x in debt) and pd.notna(t.get('cash')):
-            return (sum(float(x) for x in debt if pd.notna(x)) - float(t['cash'])) * to_gbp(num), 'read from the accounts text'
+        debt = [t.get(c) for c in ('bank_loans', 'finance_leases', 'other_borrowings')]
+        c0 = t.get('cash') if pd.notna(t.get('cash')) else None
+        if any(pd.notna(x) for x in debt) and c0 is not None:
+            return (sum(float(x) for x in debt if pd.notna(x)) - float(c0)) * to_gbp(num), 'read from the accounts text'
+    if cash is not None and pd.notna(cash):
+        return -float(cash), 'no borrowings found in the accounts (check)'
     return None, None
 
 
@@ -175,7 +183,7 @@ def balance(r):
     cover = hist(r['CompanyNumber'], 'interest_cover')
     if cover is not None and cover < 3:
         s -= 0.3 * (3 - cover) / 3
-    nd, _ = net_debt(r['CompanyNumber'])
+    nd, _ = net_debt(r['CompanyNumber'], r['cash'])
     if nd is not None and r['ebitda'] > 0 and nd / r['ebitda'] > t['net_debt_comfort_x']:
         s -= 0.4 * clip((nd / r['ebitda'] - t['net_debt_comfort_x']) / 3.0, 0, 1)
     return clip(s, 0, 1)
@@ -274,7 +282,7 @@ def main():
     S['confidence'] = [c[0] for c in cf]
     S['confidence_reasons'] = [c[1] for c in cf]
     S['confidence_points'] = [c[2] for c in cf]
-    nd = S['CompanyNumber'].map(lambda n: net_debt(n))
+    nd = [net_debt(n, c) for n, c in zip(S['CompanyNumber'], S['cash'])]
     S['net_debt'] = [x[0] for x in nd]
     S['net_debt_source'] = [x[1] for x in nd]
     S['years_read'] = S['CompanyNumber'].map(lambda n: hist(n, 'years_of_sales'))

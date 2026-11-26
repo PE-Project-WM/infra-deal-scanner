@@ -1,0 +1,174 @@
+{
+ "sample": 202,
+ "deals": 15,
+ "pe_deals": 7,
+ "weights": {
+  "v3.1 (previous: no growth)": {
+   "weights": {
+    "revenue_visibility": 25,
+    "growth": 0,
+    "strategy_fit": 20,
+    "size_fit": 15,
+    "margin_quality": 25,
+    "balance_sheet": 15
+   },
+   "auc_all": 0.50873440285205,
+   "auc_pe": 0.5787545787545788,
+   "auc_pe_90": [
+    0.38095238095238093,
+    0.7611721611721611
+   ]
+  },
+  "v4 (adopted)": {
+   "weights": {
+    "revenue_visibility": 20,
+    "growth": 15,
+    "strategy_fit": 15,
+    "size_fit": 15,
+    "margin_quality": 20,
+    "balance_sheet": 15
+   },
+   "auc_all": 0.593939393939394,
+   "auc_pe": 0.7135531135531136,
+   "auc_pe_90": [
+    0.5201465201465202,
+    0.8732967032967033
+   ]
+  },
+  "growth-heavy (test)": {
+   "weights": {
+    "revenue_visibility": 15,
+    "growth": 25,
+    "strategy_fit": 15,
+    "size_fit": 15,
+    "margin_quality": 15,
+    "balance_sheet": 15
+   },
+   "auc_all": 0.6385026737967915,
+   "auc_pe": 0.7692307692307693,
+   "auc_pe_90": [
+    0.5933333333333334,
+    0.9113919413919414
+   ]
+  },
+  "equal (test)": {
+   "weights": {
+    "revenue_visibility": 16.666666666666668,
+    "growth": 16.666666666666668,
+    "strategy_fit": 16.666666666666668,
+    "size_fit": 16.666666666666668,
+    "margin_quality": 16.666666666666668,
+    "balance_sheet": 16.666666666666668
+   },
+   "auc_all": 0.6053475935828877,
+   "auc_pe": 0.726007326007326,
+   "auc_pe_90": [
+    0.5376556776556777,
+    0.8835531135531135
+   ]
+  }
+ },
+ "criteria": {
+  "revenue_visibility": {
+   "auc_all": 0.39857397504456327,
+   "auc_pe": 0.4380952380952381
+  },
+  "growth": {
+   "auc_all": 0.7197860962566844,
+   "auc_pe": 0.8641025641025641
+  },
+  "strategy_fit": {
+   "auc_all": 0.5397504456327986,
+   "auc_pe": 0.547985347985348
+  },
+  "size_fit": {
+   "auc_all": 0.4696969696969697,
+   "auc_pe": 0.5190476190476191
+  },
+  "margin_quality": {
+   "auc_all": 0.5775401069518716,
+   "auc_pe": 0.6234432234432234
+  },
+  "balance_sheet": {
+   "auc_all": 0.5926916221033868,
+   "auc_pe": 0.6025641025641025
+  }
+ },
+ "companies": [
+  {
+   "CompanyName": "WIFINITY LIMITED",
+   "buyer_type": "sponsor",
+   "pct": 1.0
+  },
+  {
+   "CompanyName": "THE NETWORKING PEOPLE (TNP) LIMITED",
+   "buyer_type": "sponsor",
+   "pct": 0.96
+  },
+  {
+   "CompanyName": "OCU NETTWORX LIMITED",
+   "buyer_type": "sponsor platform",
+   "pct": 0.83
+  },
+  {
+   "CompanyName": "GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED",
+   "buyer_type": "sponsor platform",
+   "pct": 0.79
+  },
+  {
+   "CompanyName": "SAINT TOPCO LIMITED",
+   "buyer_type": "sponsor",
+   "pct": 0.69
+  },
+  {
+   "CompanyName": "A-2-SEA SOLUTIONS LIMITED",
+   "buyer_type": "trade",
+   "pct": 0.69
+  },
+  {
+   "CompanyName": "DAISY COMMUNICATIONS LTD.",
+   "buyer_type": "merger",
+   "pct": 0.68
+  },
+  {
+   "CompanyName": "GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED",
+   "buyer_type": "trade",
+   "pct": 0.61
+  },
+  {
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "buyer_type": "merger",
+   "pct": 0.61
+  },
+  {
+   "CompanyName": "NORTH PB LIMITED",
+   "buyer_type": "sponsor",
+   "pct": 0.59
+  },
+  {
+   "CompanyName": "ARROW BUSINESS COMMUNICATIONS LIMITED",
+   "buyer_type": "merger",
+   "pct": 0.47
+  },
+  {
+   "CompanyName": "NOVO TECHNOLOGIES LTD",
+   "buyer_type": "trade",
+   "pct": 0.4
+  },
+  {
+   "CompanyName": "PURE IP LIMITED",
+   "buyer_type": "trade",
+   "pct": 0.24
+  },
+  {
+   "CompanyName": "QXTEL LIMITED",
+   "buyer_type": "trade",
+   "pct": 0.17
+  },
+  {
+   "CompanyName": "YORK TELECOM LIMITED",
+   "buyer_type": "sponsor platform",
+   "pct": 0.1
+  }
+ ]
+}
