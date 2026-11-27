@@ -15,6 +15,8 @@ on:
         description: 'History mode only: comma-separated company numbers for a top-up run (blank = every company going forward)'
         required: false
         default: ''
+  schedule:
+    - cron: '17 2 1 * *'   # 1st of each month, 02:17 UTC: read filings of companies that are new or have filed again
   push:
     branches: [main]
     paths:
@@ -26,7 +28,7 @@ permissions:
 
 jobs:
   deep-dive:
-    if: ${{ (inputs.mode || 'top10') == 'top10' }}
+    if: ${{ github.event_name != 'schedule' && (inputs.mode || 'top10') == 'top10' }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -54,7 +56,7 @@ jobs:
           git push
 
   plan:
-    if: ${{ inputs.mode == 'history' || inputs.mode == 'universe' }}
+    if: ${{ inputs.mode == 'history' || inputs.mode == 'universe' || github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     outputs:
       shards: ${{ steps.p.outputs.shards }}
@@ -62,13 +64,13 @@ jobs:
     steps:
       - id: p
         run: |
-          N=${{ inputs.shards || '16' }}
+          N=${{ inputs.shards || '4' }}
           echo "shards=$N" >> $GITHUB_OUTPUT
           echo "list=[$(seq -s, 0 $((N-1)))]" >> $GITHUB_OUTPUT
 
   history:
     needs: plan
-    if: ${{ inputs.mode == 'history' }}
+    if: ${{ inputs.mode == 'history' || github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     timeout-minutes: 340
     strategy:
@@ -89,7 +91,7 @@ jobs:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}
           SHARD: ${{ matrix.shard }}
           SHARDS: ${{ needs.plan.outputs.shards }}
-          NUMBERS: ${{ inputs.numbers }}
+          NUMBERS: ${{ github.event_name == 'schedule' && 'NEW' || inputs.numbers }}
         run: python scripts/history_fetch.py
       - uses: actions/upload-artifact@v4
         if: always()
@@ -100,7 +102,7 @@ jobs:
 
   save-history:
     needs: history
-    if: ${{ always() && needs.history.result != 'skipped' && inputs.mode == 'history' }}
+    if: ${{ always() && needs.history.result != 'skipped' && (inputs.mode == 'history' || github.event_name == 'schedule') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
