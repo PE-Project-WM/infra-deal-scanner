@@ -6,7 +6,7 @@ Settings: `config/thesis/digital.json`. General method: [METHOD.md](METHOD.md).
 
 - Industry codes: 61100 fibre and wired networks, 61200 wireless and towers, 61300 satellite, 61900 other telecoms, 63110 data centres and hosting, 42220 network build.
 - 48,467 register records, 1,209 active private companies filing full accounts and three or more years old, 620 with sales of £10–250m.
-- After ownership, group and sector checks: 145 companies go forward, 82 are ranked, 10 network owners are still building, 3 are not ranked because their trading business cannot be confirmed (Egnaro, Trust Group Ventures, Solid Telecommunications).
+- After ownership, group and sector checks (updated 27 Nov 2026): 83 are ranked, 8 network owners are still building, and 1 is not ranked because its trading business cannot be confirmed (Egnaro: £22m of UK turnover described only as "wireless telecommunications activities").
 
 ## Sub-sectors and default business types
 
@@ -60,9 +60,13 @@ Sales growth on its own separates bought companies best (0.76 for private equity
 
 What moved it: three years read for almost every company; figures checked against the filing now count for nearly as much as tagged figures (they are checked line by line); revenue mix read from the accounts for 64 companies; cash, net assets and D&A filled from the same accounts where the first reader missed them; three number flags checked and found real. What keeps 27 at Medium: 58 ranked companies are only adjacent to the thesis, and 9 have only two years of accounts.
 
+## Checks closed on 27 November 2026
+
+- 110 sector calls made from public knowledge were checked against the principal activity in the companies' filed accounts. Ten changed: Purdicom, TXO Systems, MDA Satconn, Radio Design and Resilient to OUT (equipment or software); (AQ) and Transaction Network Services to IN (TNS is US-owned, so excluded); NexGen Cloud, Brightsolid and Electricityworx to ADJACENT. Connexin sold its fibre network, so it is now a services firm and off the still-building list. 145 calls on companies that do not reach the ranking (mostly obvious OUTs such as software firms) still rest on public knowledge.
+- Ridown Capital does not own Onecom: it sold its web-hosting subsidiary to Onecom, which belongs to Solo Topco (LDC). No double count.
+- Net debt checked by hand: Community Fibre £760m (term loan and accordion drawn £765m, cash £7m); Saint Topco £472.6m as reported for March 2025 (before the Providence deal); Glide owes £109m to its parent group (the acquisition debt sits above it).
+- Trust Group Ventures (phone-system distribution) and SOLiD Telecommunications (hardware sales) are OUT. Egnaro stays unconfirmed.
+
 ## Open checks
 
-- Sector calls marked "from public knowledge: check".
-- Ridown Capital: the note says the group also owns Onecom, which is ranked separately; confirm.
-- Net debt for Community Fibre and Saint Topco is not checked by hand (both carry acquisition or network debt the text reader may miss).
-- Companies registered under IT or engineering codes (for example Excalibur, Ammcom, OryxAlign) are outside the universe.
+- Companies registered under IT or engineering codes: being added (method v4.1, universe extension).
