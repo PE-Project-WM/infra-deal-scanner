@@ -35,31 +35,37 @@ NETWORK = re.compile(r'telecom|network|fibre|fiber|broadband|connectivity|data c
 
 
 def list_companies():
-    page = ''
     H = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
-    try:
-        page = requests.get('https://download.companieshouse.gov.uk/en_output.html', timeout=60, headers=H).text
-    except requests.RequestException as e:
-        print('Index page not reachable:', e)
-    found = re.findall(r'BasicCompanyDataAsOneFile-(\d{4}-\d{2}-\d{2})\.zip', page)
+    import time
+    raw, page = None, ''
     today = datetime.date.today()
-    tries = sorted(set(found), reverse=True) + [today.replace(day=1).isoformat(),
-                                                (today.replace(day=1) - datetime.timedelta(days=1)).replace(day=1).isoformat()]
-    raw = None
-    for snapshot in tries:
-        url = f'https://download.companieshouse.gov.uk/BasicCompanyDataAsOneFile-{snapshot}.zip'
-        print('Trying', url, flush=True)
-        for attempt in range(4):   # the download site sometimes answers 'Service Unavailable' for a while
-            r = requests.get(url, timeout=1800, headers=H)
-            if r.status_code == 200 and r.content[:2] == b'PK':
-                raw = r.content
+    dates = [today.replace(day=1).isoformat(), (today.replace(day=1) - datetime.timedelta(days=1)).replace(day=1).isoformat()]
+    for attempt in range(10):   # the download site has answered 'Service Unavailable' to cloud runners: keep trying for ~50 minutes
+        for base in ('https://download.companieshouse.gov.uk', 'http://download.companieshouse.gov.uk'):
+            try:
+                page = requests.get(f'{base}/en_output.html', timeout=60, headers=H).text
+            except requests.RequestException as e:
+                page = f'error {e}'
+            found = re.findall(r'BasicCompanyDataAsOneFile-(\d{4}-\d{2}-\d{2})\.zip', page)
+            for snapshot in sorted(set(found), reverse=True) + dates:
+                url = f'{base}/BasicCompanyDataAsOneFile-{snapshot}.zip'
+                try:
+                    r = requests.get(url, timeout=1800, headers=H)
+                except requests.RequestException as e:
+                    print('  ', url, e, flush=True)
+                    continue
+                print('  ', url, r.status_code, flush=True)
+                if r.status_code == 200 and r.content[:2] == b'PK':
+                    raw = r.content
+                    break
+            if raw is not None:
                 break
-            print('  status', r.status_code, '- waiting 60s', flush=True)
-            import time; time.sleep(60)
         if raw is not None:
             break
+        print(f'Attempt {attempt + 1} failed; index page starts: {page[:120]!r}; waiting 5 minutes', flush=True)
+        time.sleep(300)
     if raw is None:
-        print('Could not download the free company data product. Index page starts:', page[:500])
+        print('Could not download the free company data product.')
         raise SystemExit(1)
     z = zipfile.ZipFile(io.BytesIO(raw))
     name = z.namelist()[0]
