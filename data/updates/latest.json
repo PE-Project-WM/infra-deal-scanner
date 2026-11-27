@@ -1,11 +1,11 @@
 {
- "date": "2026-11-26",
- "checked_since": "2026-08-27",
+ "date": "2026-11-27",
+ "checked_since": "2026-08-29",
  "previous_scored_on": "2026-11-25",
  "headline": "Scoring method updated (v4): 3 new in the top 10, 3 dropped out, 12 moved within it",
  "method_changed": true,
  "method_version": "v4",
- "events_count": 34,
+ "events_count": 25,
  "companies_checked": 82,
  "top10": [
   {
@@ -36,7 +36,7 @@
    "fit": "IN",
    "segment": "Fibre and wired telecoms networks",
    "turnover": 39805588.0,
-   "margin": 0.4160038284072075,
+   "margin": 0.41600382840720757,
    "access": "Low",
    "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
    "town": "London",
@@ -57,7 +57,7 @@
    "fit": "IN",
    "segment": "Building and maintaining telecoms and utility networks",
    "turnover": 32560948.0,
-   "margin": 0.233414624402449,
+   "margin": 0.2334146244024491,
    "access": "Low-Medium",
    "access_note": "UK arm of an overseas founder group, carve-out needed",
    "town": "Bracknell",
@@ -78,7 +78,7 @@
    "fit": "IN",
    "segment": "Other telecoms networks",
    "turnover": 18099102.0,
-   "margin": 0.1273420637112272,
+   "margin": 0.12734206371122722,
    "access": "Low",
    "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
    "town": "Lancaster",
@@ -141,7 +141,7 @@
    "fit": "IN",
    "segment": "Wireless networks, towers and fixed wireless",
    "turnover": 26680567.0,
-   "margin": 0.1150890458962135,
+   "margin": 0.11508904589621352,
    "access": "High",
    "access_note": "founder-owned, proprietary approach possible",
    "town": "Bathgate",
@@ -522,10 +522,7 @@
    "reasons": [
     "Duplicate of SAINT TOPCO LIMITED"
    ],
-   "events": [
-    "Director appointed (2026-10-05): Pile, Daryl James appointed",
-    "Director appointed (2026-10-05): Overd, Matthew John appointed"
-   ]
+   "events": []
   },
   {
    "company": "BDR Voice & Data Solutions",
@@ -922,7 +919,9 @@
     "margin 9% \u2192 9%",
     "scoring method changed (v3.1 to v4)"
    ],
-   "events": []
+   "events": [
+    "Director resigned (2026-11-19): Clark, Alexander Ross resigned"
+   ]
   },
   {
    "company": "VCG Technology Services",
@@ -1007,6 +1006,7 @@
     "scoring method changed (v3.1 to v4)"
    ],
    "events": [
+    "New accounts (2026-11-26): New accounts filed, but figures could not be read (PDF or untagged)",
     "Director resigned (2026-09-02): Leydon, Chris resigned"
    ]
   },
@@ -1023,7 +1023,8 @@
     "scoring method changed (v3.1 to v4)"
    ],
    "events": [
-    "Director appointed (2026-10-28): Mauguy, Philippe Robert Francis appointed"
+    "Director appointed (2026-10-28): Mauguy, Philippe Robert Francis appointed",
+    "Director resigned (2026-10-28): Crawford, David William resigned"
    ]
   },
   {
@@ -1037,9 +1038,7 @@
    "reasons": [
     "Part of a much larger group (not buyable on its own): Whistler Bidco group (WHP Telecoms) (group rule: Sister company of WHP Telecoms (about \u00a3145m turnover) and Sitec under Whistler Bidco; the group is the sale perimeter and its accounts are not in the universe)"
    ],
-   "events": [
-    "Director resigned (2026-08-31): Welch, Alexander Thomas resigned"
-   ]
+   "events": []
   },
   {
    "company": "Ground Control Technologies UK",
@@ -1181,13 +1180,7 @@
    "reasons": [
     "Part of a much larger group (not buyable on its own): O2 Daisy (Virgin Media O2) (group rule: Owned via 4com Group > Daisy Midco > O2 Business Holdings (register): part of O2 Daisy, about \u00a31.4bn revenue)"
    ],
-   "events": [
-    "Director appointed (2026-10-07): Smith, Nigel Paul appointed",
-    "Director appointed (2026-10-07): Milton, Paul Stephen appointed",
-    "Director appointed (2026-10-07): Morten, Stuart Norman appointed",
-    "Director resigned (2026-10-07): Scutt, Gary resigned",
-    "Director appointed (2026-10-07): Ullah, Karen appointed"
-   ]
+   "events": []
   },
   {
    "company": "Ridown Capital",
@@ -1338,13 +1331,7 @@
    "reasons": [
     "Part of a much larger group (not buyable on its own): Merged with 3C in October 2026 to form 3C Datalec, expecting more than $400m of revenue in 2026"
    ],
-   "events": [
-    "Director appointed (2026-10-27): Walton, Steven William appointed",
-    "Director appointed (2026-10-27): Nagarajan, Balasubramanian appointed",
-    "Director appointed (2026-10-27): Brady, Christopher Douglas appointed",
-    "Owner left (2026-10-27): Mr Daniel John Keeper ceased to be a person with significant control",
-    "Owner left (2026-10-27): Mr Stuart Alan Richmond ceased to be a person with significant control"
-   ]
+   "events": []
   },
   {
    "company": "Redcentric Solutions",
@@ -1360,8 +1347,7 @@
    ],
    "events": [
     "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
-    "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
-    "New charge (2026-08-28): Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)"
+    "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
    ]
   },
   {
@@ -1575,7 +1561,10 @@
    "reasons": [
     "entered the ranking (ADJACENT fit, low accessibility)"
    ],
-   "events": []
+   "events": [
+    "Director appointed (2026-10-05): Overd, Matthew John appointed",
+    "Director appointed (2026-10-05): Pile, Daryl James appointed"
+   ]
   },
   {
    "company": "Talk Straight Holdings",
@@ -1692,11 +1681,25 @@
  ],
  "events": [
   {
+   "CompanyNumber": "05208041",
+   "CompanyName": "SATCOM GLOBAL LIMITED",
+   "event": "New accounts",
+   "date": "2026-11-26",
+   "detail": "New accounts filed, but figures could not be read (PDF or untagged)"
+  },
+  {
    "CompanyNumber": "02386327",
    "CompanyName": "NATIONAL GRID TELECOMS LIMITED",
    "event": "New accounts",
    "date": "2026-11-24",
    "detail": "New accounts filed, but figures could not be read (PDF or untagged)"
+  },
+  {
+   "CompanyNumber": "04213760",
+   "CompanyName": "BABBLE CLOUD LIMITED",
+   "event": "Director resigned",
+   "date": "2026-11-19",
+   "detail": "Clark, Alexander Ross resigned"
   },
   {
    "CompanyNumber": "02804354",
@@ -1755,39 +1758,11 @@
    "detail": "Mauguy, Philippe Robert Francis appointed"
   },
   {
-   "CompanyNumber": "08235914",
-   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-27",
-   "detail": "Walton, Steven William appointed"
-  },
-  {
-   "CompanyNumber": "08235914",
-   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-27",
-   "detail": "Nagarajan, Balasubramanian appointed"
-  },
-  {
-   "CompanyNumber": "08235914",
-   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-27",
-   "detail": "Brady, Christopher Douglas appointed"
-  },
-  {
-   "CompanyNumber": "08235914",
-   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
-   "event": "Owner left",
-   "date": "2026-10-27",
-   "detail": "Mr Daniel John Keeper ceased to be a person with significant control"
-  },
-  {
-   "CompanyNumber": "08235914",
-   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
-   "event": "Owner left",
-   "date": "2026-10-27",
-   "detail": "Mr Stuart Alan Richmond ceased to be a person with significant control"
+   "CompanyNumber": "05217343",
+   "CompanyName": "NORTH PB LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-28",
+   "detail": "Crawford, David William resigned"
   },
   {
    "CompanyNumber": "09956206",
@@ -1818,53 +1793,18 @@
    "detail": "Security registered in favour of Barclays Bank PLC (possible new borrowing)"
   },
   {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-07",
-   "detail": "Smith, Nigel Paul appointed"
-  },
-  {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-07",
-   "detail": "Milton, Paul Stephen appointed"
-  },
-  {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-07",
-   "detail": "Morten, Stuart Norman appointed"
-  },
-  {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director resigned",
-   "date": "2026-10-07",
-   "detail": "Scutt, Gary resigned"
-  },
-  {
-   "CompanyNumber": "06472696",
-   "CompanyName": "4COM NETWORK SERVICES LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-07",
-   "detail": "Ullah, Karen appointed"
-  },
-  {
-   "CompanyNumber": "02578478",
-   "CompanyName": "X-ON HEALTH LIMITED",
-   "event": "Director appointed",
-   "date": "2026-10-05",
-   "detail": "Pile, Daryl James appointed"
-  },
-  {
-   "CompanyNumber": "02578478",
-   "CompanyName": "X-ON HEALTH LIMITED",
+   "CompanyNumber": "13567332",
+   "CompanyName": "SAINT TOPCO LIMITED",
    "event": "Director appointed",
    "date": "2026-10-05",
    "detail": "Overd, Matthew John appointed"
+  },
+  {
+   "CompanyNumber": "13567332",
+   "CompanyName": "SAINT TOPCO LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-05",
+   "detail": "Pile, Daryl James appointed"
   },
   {
    "CompanyNumber": "02386327",
@@ -1914,20 +1854,6 @@
    "event": "Charge satisfied",
    "date": "2026-09-01",
    "detail": "Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
-  },
-  {
-   "CompanyNumber": "05238375",
-   "CompanyName": "INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED",
-   "event": "Director resigned",
-   "date": "2026-08-31",
-   "detail": "Welch, Alexander Thomas resigned"
-  },
-  {
-   "CompanyNumber": "08322856",
-   "CompanyName": "REDCENTRIC SOLUTIONS LIMITED",
-   "event": "New charge",
-   "date": "2026-08-28",
-   "detail": "Security registered in favour of National Westminster Bank PLC (As Security Agent) (possible new borrowing)"
   }
  ],
  "ranked": 82

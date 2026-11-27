@@ -1,30 +1,30 @@
-# Weekly update: 2026-11-25
+# Weekly update: 2026-11-27
 
-**0 new in the top 10, 0 dropped out, 0 moved within it.** Checked 82 ranked companies for changes since 2026-08-27; 34 Companies House events found.
+**Scoring method updated (v4): 3 new in the top 10, 3 dropped out, 12 moved within it.** Checked 82 ranked companies for changes since 2026-08-29; 25 Companies House events found.
 
 ## Top 10 changes
 
-- **Alert Communications** (stays 6):  Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
-- **National Grid Telecoms** (stays 7):  Events: New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged) | Director resigned (2026-10-01): Sharma, Tanya Joy resigned
+- **The Wireless Infrastructure Company** (4 → 1): margin 59% → 59%; scoring method changed (v3.1 to v4)
+- **Wifinity** (1 → 2): margin 40% → 42%; scoring method changed (v3.1 to v4)
+- **VEA Group** (2 → 3): margin 31% → 23%; scoring method changed (v3.1 to v4)
+- **The Networking People (TNP)** (10 → 4): margin 13% → 13%; scoring method changed (v3.1 to v4)
+- **Redwood Technologies Group** (15 → 5): margin 12% → 16%; scoring method changed (v3.1 to v4)
+- **Open Fibre Networks** (3 → 6): margin 51% → 51%; scoring method changed (v3.1 to v4)
+- **Clarus Networks** (8 → 7): margin 16% → 12%; scoring method changed (v3.1 to v4)
+- **Communicate Technology** (new at 8): entered the ranking (ADJACENT fit, medium accessibility)
+- **Rapid Response Telecoms** (33 → 9): margin 16% → 16%; scoring method changed (v3.1 to v4) Events: New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)
+- **Alert Communications** (6 → 10): margin 50% → 50%; scoring method changed (v3.1 to v4) Events: Director appointed (2026-11-04): Britton, Cara Marie appointed
+- **Beacon Communication Services** (9 → 14): margin 20% → 19%; scoring method changed (v3.1 to v4)
+- **Kcom Group** (5 → 30): margin 46% → 45%; scoring method changed (v3.1 to v4)
+- **National Grid Telecoms** (7 → 31): margin 14% → 14%; scoring method changed (v3.1 to v4) Events: New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged) | Director resigned (2026-10-01): Sharma, Tanya Joy resigned
 
 ## Current top 10
 
 | Rank | Company | Score | Fit | Accessibility |
 | --- | --- | --- | --- | --- |
-| 1 | Wifinity | 93.4 | IN | Low |
-| 2 | VEA Group | 84.3 | IN | Low-Medium |
-| 3 | Open Fibre Networks | 83.2 | IN | Medium |
-| 4 | The Wireless Infrastructure Company | 83.1 | IN | Medium |
-| 5 | Kcom Group | 81.7 | IN | Medium |
-| 6 | Alert Communications | 80.3 | ADJACENT | Medium |
-| 7 | National Grid Telecoms | 79.7 | IN | Medium |
-| 8 | Clarus Networks | 79.6 | IN | High |
-| 9 | Beacon Communication Services | 78.8 | IN | High |
-| 10 | The Networking People (TNP) | 77.2 | IN | Low |
-
-## Companies House events
-
-- 2026-11-24 · National Grid Telecoms · New accounts: New accounts filed, but figures could not be read (PDF or untagged)
-- 2026-11-11 · Charterhouse Voice & Data · Director resigned: Stevenson, Kelly Louise resigned
-- 2026-11-11 · Charterhouse Voice & Data · Director resigned: Crawford, Amy Elizabeth resigned
-- 2026-11-11 · Charterhouse Voice & Data · Director appointed: Skiba, Giles Tomasz Christopher appointed
+| 1 | The Wireless Infrastructure Company | 92.9 | IN | Medium |
+| 2 | Wifinity | 89.7 | IN | Low |
+| 3 | VEA Group | 87.4 | IN | Low-Medium |
+| 4 | The Networking People (TNP) | 82.1 | IN | Low |
+| 5 | Redwood Technologies Group | 81.8 | ADJACENT | High |
+| 6 | Open Fibre Networks | 81.5 | IN | Medium |

@@ -1,0 +1,34 @@
+EBITDA rules applied to 140 companies; changed for 32:
+CompanyNumber  ebitda_reported  ebitda_normalised                                                                                                                                          adjustments
+     08322856       14670000.0       1.316800e+07                                                                                            R2 IFRS 16: £1.50m of leased-asset depreciation taken off
+     03101568        7051000.0       6.730000e+06                                                                                                                R1 R&D tax credit of £0.32m taken out
+     02150618       44061000.0       4.353800e+07                                                                                            R2 IFRS 16: £0.52m of leased-asset depreciation taken off
+     09228224        9771203.0       1.293815e+07                                                                                                   R0 D&A of £3.17m read from the accounts text added
+     02763306        4116610.0       2.898066e+06                                                                                            R2 IFRS 16: £1.22m of leased-asset depreciation taken off
+     03921568       15709277.0       1.655928e+07 exceptional: +£0.85m, exceptional costs charged in operating profit added back (checked: Wifinity accounts FY Dec 2025 (checked against the filing))
+     13433533        9954432.0       7.600201e+06                                                             R3 margin jumped from about 17% to 31% in one year: priced on the two-year average (23%)
+     SC492820        4293641.0       3.070641e+06            rdec: −£1.22m, R&D expenditure credit booked in other operating income (2024: £0.04m) (checked: Clarus Networks Ltd accounts FY Dec 2025)
+     09180490         412273.0       8.684270e+05                                                                             R0 D&A of £0.46m from the fixed-asset notes of the tagged accounts added
+     12027048         148519.0       6.801680e+05                                                                                                   R0 D&A of £0.53m read from the accounts text added
+     SC211701         470855.0       2.410150e+05                                                                                                                R1 R&D tax credit of £0.23m taken out
+     13576894         224974.0       2.630680e+05                                                                                                   R0 D&A of £0.04m read from the accounts text added
+     03592271        2839758.0       2.109980e+06                                                             R3 margin jumped from about 11% to 27% in one year: priced on the two-year average (20%)
+     07222543      -55831000.0      -7.261600e+07                                                                                           R2 IFRS 16: £16.79m of leased-asset depreciation taken off
+     07476617      -69258000.0      -7.229200e+07                                        R0 D&A of £0.04m read from the accounts text added; R2 IFRS 16: £3.08m of leased-asset depreciation taken off
+     12556681      -11141474.0      -1.421974e+06                                                                                                   R0 D&A of £9.72m read from the accounts text added
+     NI655901      -17351071.0      -1.572580e+07                                                                                                   R0 D&A of £1.63m read from the accounts text added
+     03188615       -7706000.0       1.090100e+07                                                           R0 D&A of £18.70m read from the accounts text added; R1 R&D tax credit of £0.09m taken out
+     14219520      -10101161.0      -6.463441e+06                                                                                                   R0 D&A of £3.64m read from the accounts text added
+     11641366       -1188421.0       4.459480e+05                                                                                                   R0 D&A of £1.63m read from the accounts text added
+     13930218       -1141964.0      -6.829710e+05                                                                                                   R0 D&A of £0.46m read from the accounts text added
+     09966402      -14523159.0      -1.441087e+07                                                                                                   R0 D&A of £0.11m read from the accounts text added
+     07412021       -1082441.0      -1.925960e+05                                                                                                   R0 D&A of £0.89m read from the accounts text added
+     09931232      -21429976.0      -2.074920e+07                                                                                                   R0 D&A of £0.68m read from the accounts text added
+     SC328828       -2846806.0      -1.696361e+06                                                            R0 D&A of £1.34m read from the accounts text added; R1 R&D tax credit of £0.19m taken out
+     04047798       -1347761.0      -1.238041e+06                                                                             R0 D&A of £0.11m from the fixed-asset notes of the tagged accounts added
+     07867043        -892033.0       2.217584e+06                                                                                                   R0 D&A of £3.11m read from the accounts text added
+     06306526       -1528209.0      -1.351826e+06                                                                                                   R0 D&A of £0.18m read from the accounts text added
+     09187893      -10342841.0      -4.307676e+06                                                                                                   R0 D&A of £6.04m read from the accounts text added
+     SC161678       -1402532.0      -1.917720e+05                                                                                                   R0 D&A of £1.21m read from the accounts text added
+     02346249        -138704.0      -8.463200e+04                                                                             R0 D&A of £0.05m from the fixed-asset notes of the tagged accounts added
+     01375726        -585184.0      -2.494760e+05                                                                                                   R0 D&A of £0.34m read from the accounts text added

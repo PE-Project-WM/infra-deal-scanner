@@ -1,7 +1,7 @@
 rank,CompanyNumber,CompanyName,ebitda,ev_low,ev_high,mult_low,mult_high,size_kind,reported_ev,reported_basis,reported_source,size_flag,size_basis
 1,03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,22868874.0,274426488.0,411639732.0,12.0,18.0,Network owner: towers,575000000.0,Enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019),https://capacityglobal.com/news/3i-infrastructure-sells-its-stake-in-wig-for-575m/,Probably above £250m,£575m: enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019). From EBITDA: £274m–£412m at 12–18x EBITDA of £23m (network owner: towers)
 2,03921568,WIFINITY LIMITED,16559277.0,198711324.0,298066986.0,12.0,18.0,Network owner: owned wifi networks,,,,Could be above £250m,£199m–£298m at 12–18x EBITDA of £17m (network owner: owned wifi networks)
-3,13433533,VEA GROUP LIMITED,7600201.447607675,38001007.0,53201410.0,5.0,7.0,Contractor,,,,Within £10–250m,£38m–£53m at 5–7x EBITDA of £8m (contractor)
+3,13433533,VEA GROUP LIMITED,7600201.447607676,38001007.0,53201410.0,5.0,7.0,Contractor,,,,Within £10–250m,£38m–£53m at 5–7x EBITDA of £8m (contractor)
 4,07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2304777.0,12676274.0,17285828.0,5.5,7.5,Recurring services,,,,Within £10–250m,£13m–£17m at 5.5–7.5x EBITDA of £2m (recurring services)
 5,09228224,REDWOOD TECHNOLOGIES GROUP LTD,12938153.0,77628918.0,103505224.0,6.0,8.0,Recurring services,,,,Within £10–250m,£78m–£104m at 6–8x EBITDA of £13m (recurring services)
 6,05412813,OPEN FIBRE NETWORKS LIMITED,14127893.0,169534716.0,254302074.0,12.0,18.0,Network owner: fibre network,,,,Could be above £250m,£170m–£254m at 12–18x EBITDA of £14m (network owner: fibre network)
@@ -15,7 +15,7 @@ rank,CompanyNumber,CompanyName,ebitda,ev_low,ev_high,mult_low,mult_high,size_kin
 14,04186486,BEACON COMMUNICATION SERVICES LIMITED,6187997.0,30939985.0,43315979.0,5.0,7.0,Contractor,,,,Within £10–250m,£31m–£43m at 5–7x EBITDA of £6m (contractor)
 15,NI612801,OCU NETTWORX LIMITED,3607125.0,18035625.0,25249875.0,5.0,7.0,Contractor,,,,Within £10–250m,£18m–£25m at 5–7x EBITDA of £4m (contractor)
 16,03752620,WINDSOR TELECOM LIMITED,2727403.0,15000716.0,20455522.0,5.5,7.5,Recurring services,,,,Within £10–250m,£15m–£20m at 5.5–7.5x EBITDA of £3m (recurring services)
-17,03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2109980.476026248,11604893.0,15824854.0,5.5,7.5,Recurring services,,,,Within £10–250m,£12m–£16m at 5.5–7.5x EBITDA of £2m (recurring services)
+17,03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2109980.4760262487,11604893.0,15824854.0,5.5,7.5,Recurring services,,,,Within £10–250m,£12m–£16m at 5.5–7.5x EBITDA of £2m (recurring services)
 18,NI624500,BARCLAY DIGITAL SERVICES LTD,3895937.0,23375622.0,31167496.0,6.0,8.0,Recurring services,,,,Within £10–250m,£23m–£31m at 6–8x EBITDA of £4m (recurring services)
 19,07413288,COMMUNITY FIBRE LIMITED,27179000.0,326148000.0,489222000.0,12.0,18.0,Network owner: fibre network,2000000000.0,Estimated enterprise value as Warburg Pincus sounds out buyers (New Street estimate reported 2026),https://capacityglobal.com/news/private-equity-moves-to-exit-uk-fibre/,Probably above £250m,£2.0bn: estimated enterprise value as Warburg Pincus sounds out buyers (New Street estimate reported 2026). From EBITDA: £326m–£489m at 12–18x EBITDA of £27m (network owner: fibre network)
 20,05208041,SATCOM GLOBAL LIMITED,4751883.8736000005,28511303.0,38015071.0,6.0,8.0,Recurring services,,,,Within £10–250m,£29m–£38m at 6–8x EBITDA of £5m (recurring services)

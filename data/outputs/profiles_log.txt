@@ -1,29 +1,62 @@
-WIFINITY LIMITED {
+THE WIRELESS INFRASTRUCTURE COMPANY LIMITED {
  "rank": 1,
- "confidence": "Low",
- "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+ "confidence": "High",
+ "confidence_reasons": "figures checked against the filing",
  "why": [
   "Squarely inside the investment case",
-  "High margin (40% EBITDA)",
-  "Sales up 20% last year",
-  "Cash of \u00a36.8m and net assets of \u00a327.1m"
+  "High margin (59% EBITDA)",
+  "Sales up 11% a year over 4 years",
+  "Cash of \u00a38.7m and net assets of \u00a37.0m"
+ ],
+ "checks": [
+  "Probably owned by a private equity fund: check when it bought in",
+  "Figures were read by OCR and checked against the filing: Turnover, EBITDA (\u00a322.9m) and operating profit match the filing exactly",
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+ ],
+ "history": [
+  {
+   "year": 2022,
+   "sales": 28177376.0,
+   "margin": 0.46970853496081394,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2023,
+   "sales": 30248679.0,
+   "margin": 0.4390261802837737,
+   "basis": "Operating profit"
+  },
+  {
+   "year": 2024,
+   "sales": 3486
+WIFINITY LIMITED {
+ "rank": 2,
+ "confidence": "High",
+ "confidence_reasons": "figures checked against the filing",
+ "why": [
+  "Squarely inside the investment case",
+  "High margin (42% EBITDA)",
+  "EBITDA of \u00a316.6m, in the \u00a32\u201315m range most mid-market buyers target",
+  "Sales up 13% a year over 4 years"
  ],
  "checks": [
   "Bought by a private equity fund in 2021: unlikely to be sold for a few years",
   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; operating profit is after \u00a30.85m exceptional costs, so EBITDA here (\u00a315.7m) is below the company's own \u00a316.7m",
   "Bought by Arcus Infrastructure Partners in early 2026, so unlikely to be sold again for several years",
-  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
  ],
- "history": [],
- "ebitda": 
+ "history": [
+  {
+   "year": 2022,
+   "sa
 VEA GROUP LIMITED {
- "rank": 2,
+ "rank": 3,
  "confidence": "High",
  "confidence_reasons": "",
  "why": [
   "Squarely inside the investment case",
-  "High margin (31% EBITDA)",
-  "EBITDA of \u00a310.0m, in the \u00a32\u201315m range most mid-market buyers target",
+  "High margin (23% EBITDA)",
+  "EBITDA of \u00a37.6m, in the \u00a32\u201315m range most mid-market buyers target",
   "Sales up 65% a year over 3 years"
  ],
  "checks": [
@@ -37,26 +70,5 @@ VEA GROUP LIMITED {
   {
    "year": 2024,
    "sales": 11906487.0,
-   "margin": 0.17386891700297494
-OPEN FIBRE NETWORKS LIMITED {
- "rank": 3,
- "confidence": "Low",
- "confidence_reasons": "OCR figures checked against the filing; missing cash, net assets; fewer than 3 years read; recurring revenue estimated",
- "why": [
-  "Squarely inside the investment case",
-  "High margin (51% EBITDA)",
-  "EBITDA of \u00a314.1m, in the \u00a32\u201315m range most mid-market buyers target",
-  "Sales up 16% last year"
- ],
- "checks": [
-  "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (\u00a314.8m) match",
-  "Part of the BUUK multi-utility group (which bought Persimmon's FibreNest for about \u00a3100m in 2025): buying it would be a carve-out",
-  "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
- ],
- "history": [],
- "ebitda": 14127893.0,
- "interest_cover": null,
- "revenue_mix": null,
- "revenue_mix_source": null,
- 
+   "margin": 0.17386891700297494,
 Saved profiles.json for 82 ranked companies

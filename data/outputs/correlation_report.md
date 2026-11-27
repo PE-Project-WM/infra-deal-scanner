@@ -1,4 +1,4 @@
-## Deal types and correlation (2026-11-26)
+## Deal types and correlation (2026-11-27)
 
 **The top 10 is about 5 independent bets, not 10.**
 

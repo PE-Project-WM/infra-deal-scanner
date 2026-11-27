@@ -18,7 +18,7 @@
    {
     "year": 2022,
     "sales": 28177376.0,
-    "margin": 0.4697085349608139,
+    "margin": 0.46970853496081394,
     "basis": "Operating profit"
    },
    {
@@ -66,7 +66,7 @@
    {
     "year": 2022,
     "sales": 27408614.0,
-    "margin": 0.1803307529523382,
+    "margin": 0.18033075295233827,
     "basis": "Operating profit"
    },
    {
@@ -115,13 +115,13 @@
    {
     "year": 2024,
     "sales": 11906487.0,
-    "margin": 0.1738689170029749,
+    "margin": 0.17386891700297494,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 21059192.0,
-    "margin": 0.1564401901079585,
+    "margin": 0.15644019010795857,
     "basis": "Operating profit"
    },
    {
@@ -131,11 +131,11 @@
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 7600201.447607675,
+  "ebitda": 7600201.447607676,
   "interest_cover": null,
   "revenue_mix": "Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
   "revenue_mix_source": "VEA accounts FY Feb 2026 (business review, principal risks); VEA Telecoms job adverts on maintenance contracts",
-  "capex_share": 0.0097713585694069
+  "capex_share": 0.00977135856940696
  },
  "07667393": {
   "rank": 4,
@@ -157,33 +157,33 @@
    {
     "year": 2023,
     "sales": 11631850.0,
-    "margin": 0.0287912928725869,
+    "margin": 0.028791292872586905,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 13107972.0,
-    "margin": 0.0446529028289044,
+    "margin": 0.044652902828904426,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 15518554.0,
-    "margin": 0.0633666641879133,
+    "margin": 0.06336666418791338,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 18099102.0,
-    "margin": 0.1177872250236503,
+    "margin": 0.11778722502365034,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 2304777.0,
-  "interest_cover": 241.4044842033745,
+  "interest_cover": 241.40448420337447,
   "revenue_mix": "Accounts split sales: connectivity \u00a37.5m (41%), labour and support \u00a33.2m (18%), materials \u00a37.4m (41%). \u00a34.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
   "revenue_mix_source": "TNP accounts FY Mar 2026 (turnover note, creditors note, strategic report)",
-  "capex_share": 0.029020427844778
+  "capex_share": 0.02902042784477803
  },
  "09228224": {
   "rank": 5,
@@ -204,25 +204,25 @@
    {
     "year": 2022,
     "sales": 56745940.0,
-    "margin": 0.0744908974985699,
+    "margin": 0.07449089749856994,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 62173860.0,
-    "margin": 0.0587075661700914,
+    "margin": 0.058707566170091416,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 68560160.0,
-    "margin": 0.039895618680003,
+    "margin": 0.03989561868000308,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 80319834.0,
-    "margin": 0.1216536752304542,
+    "margin": 0.12165367523045428,
     "basis": "Operating profit"
    }
   ],
@@ -252,13 +252,13 @@
    {
     "year": 2022,
     "sales": 16958981.0,
-    "margin": -0.1541204038143565,
+    "margin": -0.15412040381435654,
     "basis": "Profit before tax"
    },
    {
     "year": 2023,
     "sales": 20106888.0,
-    "margin": -0.1567023201203488,
+    "margin": -0.15670232012034882,
     "basis": "Operating profit"
    },
    {
@@ -270,7 +270,7 @@
    {
     "year": 2025,
     "sales": 27759695.0,
-    "margin": -0.0251217097306004,
+    "margin": -0.025121709730600426,
     "basis": "Operating profit"
    }
   ],
@@ -306,7 +306,7 @@
    {
     "year": 2025,
     "sales": 26680567.0,
-    "margin": 0.1518947479639394,
+    "margin": 0.15189474796393945,
     "basis": "Operating profit"
    }
   ],
@@ -314,7 +314,7 @@
   "interest_cover": 111.46175637393767,
   "revenue_mix": "Equipment sales and installation alongside recurring connectivity subscriptions and managed support; the accounts say recurring service revenue grew. No split given. Resells Starlink, OneWeb and Amazon Leo; 12-month CalMac fleet contract.",
   "revenue_mix_source": "Clarus accounts FY Dec 2025 (strategic report); ISPreview; Edinburgh Chamber",
-  "capex_share": 0.0116990935784952
+  "capex_share": 0.011699093578495277
  },
  "07867043": {
   "rank": 8,
@@ -336,13 +336,13 @@
    {
     "year": 2024,
     "sales": 6696870.0,
-    "margin": -0.1045291307730327,
+    "margin": -0.10452913077303277,
     "basis": "Profit before tax"
    },
    {
     "year": 2025,
     "sales": 13755104.0,
-    "margin": -0.0648510545612741,
+    "margin": -0.06485105456127413,
     "basis": "Operating profit"
    }
   ],
@@ -350,7 +350,7 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: managed IT, network and cloud services to SMEs and business-park tenants on long-term recurring contracts",
   "revenue_mix_source": "Communicate Technology Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0278527156174173
+  "capex_share": 0.02785271561741736
  },
  "11480193": {
   "rank": 9,
@@ -385,7 +385,7 @@
    {
     "year": 2025,
     "sales": 33104076.0,
-    "margin": 0.1414752068597232,
+    "margin": 0.14147520685972326,
     "basis": "Operating profit"
    }
   ],
@@ -393,7 +393,7 @@
   "interest_cover": 39.49574970484061,
   "revenue_mix": "Fibre build and installation services; sales up 56% to \u00a333.1m. Work is priced under fixed framework contracts, so it is repeat work but project by project.",
   "revenue_mix_source": "Rapid Response Telecoms accounts FY Jul 2025 (strategic report)",
-  "capex_share": 0.070732269151538
+  "capex_share": 0.07073226915153802
  },
  "03912906": {
   "rank": 10,
@@ -419,13 +419,13 @@
    {
     "year": 2024,
     "sales": 10735493.0,
-    "margin": 0.2414263602053487,
+    "margin": 0.24142636020534874,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 10607981.0,
-    "margin": 0.3345660215643297,
+    "margin": 0.33456602156432974,
     "basis": "Operating profit"
    },
    {
@@ -436,7 +436,7 @@
    }
   ],
   "ebitda": 5404507.0,
-  "interest_cover": 1.9762954166046935,
+  "interest_cover": 1.9762954166046938,
   "revenue_mix": "A single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22 and ending in 2033: fully contracted, but only about seven years left.",
   "revenue_mix_source": "Alert Communications accounts FY Mar 2026 (principal activity, turnover note)",
   "capex_share": null
@@ -461,7 +461,7 @@
    {
     "year": 2023,
     "sales": 11363501.0,
-    "margin": 0.2453074101018691,
+    "margin": 0.24530741010186913,
     "basis": "Operating profit"
    },
    {
@@ -473,7 +473,7 @@
    {
     "year": 2025,
     "sales": 13560131.0,
-    "margin": 0.1827135740797784,
+    "margin": 0.18271357407977842,
     "basis": "Operating profit"
    }
   ],
@@ -502,19 +502,19 @@
    {
     "year": 2024,
     "sales": 17881988.0,
-    "margin": 0.1491399054735972,
+    "margin": 0.14913990547359723,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 19934790.0,
-    "margin": 0.1076311313036154,
+    "margin": 0.10763113130361544,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 21476205.0,
-    "margin": 0.1365115484788862,
+    "margin": 0.13651154847888627,
     "basis": "Operating profit"
    }
   ],
@@ -522,7 +522,7 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0056075979919011
+  "capex_share": 0.005607597991901124
  },
  "05556360": {
   "rank": 13,
@@ -544,13 +544,13 @@
    {
     "year": 2023,
     "sales": 11519523.0,
-    "margin": 0.2352068744513119,
+    "margin": 0.23520687445131191,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 10406993.0,
-    "margin": 0.1859335352680644,
+    "margin": 0.18593353526806447,
     "basis": "Operating profit"
    },
    {
@@ -564,7 +564,7 @@
   "interest_cover": 152.3187414500684,
   "revenue_mix": "Turnover note: groundworks \u00a311.8m of \u00a313.5m (project work); machine hire \u00a31.6m",
   "revenue_mix_source": "Taylor Plant Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.1080302382489293
+  "capex_share": 0.10803023824892931
  },
  "04186486": {
   "rank": 14,
@@ -586,7 +586,7 @@
    {
     "year": 2022,
     "sales": 27537660.0,
-    "margin": 0.1236812060283989,
+    "margin": 0.12368120602839892,
     "basis": "Operating profit"
    },
    {
@@ -598,7 +598,7 @@
    {
     "year": 2024,
     "sales": 26068678.0,
-    "margin": 0.1934857993182469,
+    "margin": 0.19348579931824697,
     "basis": "Operating profit"
    },
    {
@@ -635,13 +635,13 @@
    {
     "year": 2024,
     "sales": 12683287.0,
-    "margin": 0.1876961390213751,
+    "margin": 0.18769613902137514,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 27892075.0,
-    "margin": 0.1240664238856377,
+    "margin": 0.12406642388563777,
     "basis": "Operating profit"
    }
   ],
@@ -649,7 +649,7 @@
   "interest_cover": null,
   "revenue_mix": "Turnover note: provision of services; strategic report describes project-by-project work with price risk on projects",
   "revenue_mix_source": "Ocu Nettworx Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0112041145170017
+  "capex_share": 0.011204114517001783
  },
  "03752620": {
   "rank": 16,
@@ -671,19 +671,19 @@
    {
     "year": 2022,
     "sales": 7692328.0,
-    "margin": 0.1994332534962107,
+    "margin": 0.19943325349621077,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 10087310.0,
-    "margin": 0.218860132185885,
+    "margin": 0.21886013218588504,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 13359591.0,
-    "margin": 0.1537053791541971,
+    "margin": 0.15370537915419716,
     "basis": "Operating profit"
    },
    {
@@ -697,7 +697,7 @@
   "interest_cover": 2.5624209040213293,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0039556732331689
+  "capex_share": 0.00395567323316896
  },
  "03592271": {
   "rank": 17,
@@ -718,19 +718,19 @@
    {
     "year": 2022,
     "sales": 5343176.0,
-    "margin": 0.1245085320041862,
+    "margin": 0.12450853200418627,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 6510837.0,
-    "margin": 0.0827360598952177,
+    "margin": 0.08273605989521778,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 8270754.0,
-    "margin": 0.1270608459639834,
+    "margin": 0.12706084596398345,
     "basis": "Operating profit"
    },
    {
@@ -740,7 +740,7 @@
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 2109980.476026248,
+  "ebitda": 2109980.4760262487,
   "interest_cover": null,
   "revenue_mix": "Strategic report: fixed and mobile telecoms services billed as line rental and call charges",
   "revenue_mix_source": "Telecommunications Management Limited accounts, latest filing (read 26 Nov 2026)",
@@ -764,7 +764,7 @@
    {
     "year": 2024,
     "sales": 15534018.0,
-    "margin": 0.1408655506901047,
+    "margin": 0.14086555069010478,
     "basis": "Operating profit"
    },
    {
@@ -800,7 +800,7 @@
    {
     "year": 2022,
     "sales": 20003000.0,
-    "margin": -2.520321951707244,
+    "margin": -2.5203219517072437,
     "basis": "Profit before tax"
    },
    {
@@ -812,7 +812,7 @@
    {
     "year": 2024,
     "sales": 76011000.0,
-    "margin": -0.9343910749759904,
+    "margin": -0.9343910749759903,
     "basis": "Operating profit"
    },
    {
@@ -851,26 +851,26 @@
   "history": [
    {
     "year": 2021,
-    "sales": 22992117.5424,
-    "margin": 0.0735220483142827,
+    "sales": 22992117.542400002,
+    "margin": 0.07352204831428272,
     "basis": "Operating profit"
    },
    {
     "year": 2022,
-    "sales": 25796767.1368,
-    "margin": 0.0559207354762727,
+    "sales": 25796767.136800002,
+    "margin": 0.05592073547627279,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 26319386.8904,
-    "margin": 0.0249531101744452,
+    "margin": 0.02495311017444521,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 27504819.520000003,
-    "margin": 0.1376243898945605,
+    "margin": 0.13762438989456055,
     "basis": "Operating profit"
    }
   ],
@@ -905,7 +905,7 @@
    {
     "year": 2025,
     "sales": 24753097.0,
-    "margin": 0.1394859802795585,
+    "margin": 0.13948598027955855,
     "basis": "Operating profit"
    }
   ],
@@ -913,7 +913,7 @@
   "interest_cover": 13.911839958095776,
   "revenue_mix": "Strategic report: power distribution, civils, fibre connections and EV charging delivered as projects",
   "revenue_mix_source": "Glenelly Infrastructure Solutions Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.004504248701624
+  "capex_share": 0.00450424870162401
  },
  "10779280": {
   "rank": 22,
@@ -933,19 +933,19 @@
    {
     "year": 2023,
     "sales": 20304137.0,
-    "margin": 0.0588138269555608,
+    "margin": 0.05881382695556083,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 19800299.0,
-    "margin": 0.0543577144971396,
+    "margin": 0.054357714497139664,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 22289707.0,
-    "margin": 0.044081153691253,
+    "margin": 0.044081153691253094,
     "basis": "Operating profit"
    }
   ],
@@ -953,7 +953,7 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0013200222689642
+  "capex_share": 0.0013200222689642457
  },
  "03193093": {
   "rank": 23,
@@ -973,13 +973,13 @@
    {
     "year": 2022,
     "sales": 50577987.0,
-    "margin": 0.0337097243510304,
+    "margin": 0.033709724351030416,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 61210594.0,
-    "margin": 0.0394430088360194,
+    "margin": 0.039443008836019464,
     "basis": "Operating profit"
    },
    {
@@ -991,7 +991,7 @@
    {
     "year": 2025,
     "sales": 76708577.0,
-    "margin": 0.0256232624416954,
+    "margin": 0.025623262441695407,
     "basis": "Operating profit"
    }
   ],
@@ -999,7 +999,7 @@
   "interest_cover": 2.706729352403458,
   "revenue_mix": "Strategic report: secure medium to long-term contracts; revenue on long-term contracts by stage of completion",
   "revenue_mix_source": "Ferns Surfacing Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.105679358406239
+  "capex_share": 0.10567935840623906
  },
  "05448638": {
   "rank": 24,
@@ -1018,7 +1018,7 @@
    {
     "year": 2022,
     "sales": 36909674.0,
-    "margin": 0.0995666339399258,
+    "margin": 0.09956663393992589,
     "basis": "Operating profit"
    },
    {
@@ -1030,7 +1030,7 @@
    {
     "year": 2024,
     "sales": 43821416.0,
-    "margin": 0.0707586217661245,
+    "margin": 0.07075862176612459,
     "basis": "Operating profit"
    },
    {
@@ -1065,25 +1065,25 @@
    {
     "year": 2022,
     "sales": 18949788.0,
-    "margin": 0.1007393855804613,
+    "margin": 0.10073938558046137,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 20186412.0,
-    "margin": 0.1141620908163372,
+    "margin": 0.11416209081633724,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 20851436.0,
-    "margin": 0.1171279522427136,
+    "margin": 0.11712795224271365,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 20867520.0,
-    "margin": 0.1189918591188603,
+    "margin": 0.11899185911886032,
     "basis": "Operating profit"
    }
   ],
@@ -1091,7 +1091,7 @@
   "interest_cover": null,
   "revenue_mix": "Business phone systems and fixed lines (typically contracts and line rental), plus fibre cabling and installation through subsidiaries; no split given. Bought subsidiaries for \u00a31.6m last year.",
   "revenue_mix_source": "5G Communications accounts FY Sep 2025 (principal activities, cash flow)",
-  "capex_share": 0.0279697827053717
+  "capex_share": 0.027969782705371794
  },
  "12520403": {
   "rank": 26,
@@ -1119,13 +1119,13 @@
    {
     "year": 2024,
     "sales": 27627000.0,
-    "margin": 0.0001447858978535,
+    "margin": 0.00014478589785354905,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 37385000.0,
-    "margin": 0.0678895011368195,
+    "margin": 0.06788950113681957,
     "basis": "Operating profit"
    }
   ],
@@ -1160,7 +1160,7 @@
    {
     "year": 2024,
     "sales": 53880365.0,
-    "margin": 0.3460783534038791,
+    "margin": 0.34607835340387916,
     "basis": "Operating profit"
    },
    {
@@ -1171,10 +1171,10 @@
    }
   ],
   "ebitda": 17939797.0,
-  "interest_cover": 1245.712396096856,
+  "interest_cover": 1245.7123960968559,
   "revenue_mix": "Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
   "revenue_mix_source": "Heneghan Holdings accounts FY Apr 2025 (strategic report, principal risks)",
-  "capex_share": 0.0336479288451478
+  "capex_share": 0.03364792884514789
  },
  "04031272": {
   "rank": 28,
@@ -1193,25 +1193,25 @@
    {
     "year": 2022,
     "sales": 141535640.0,
-    "margin": 0.1328124492177376,
+    "margin": 0.13281244921773766,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 164887876.0,
-    "margin": 0.184835257384236,
+    "margin": 0.18483525738423606,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 164034450.0,
-    "margin": 0.1392119155457893,
+    "margin": 0.13921191554578932,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 178654455.0,
-    "margin": 0.1140399773406154,
+    "margin": 0.11403997734061544,
     "basis": "Operating profit"
    }
   ],
@@ -1239,7 +1239,7 @@
    {
     "year": 2022,
     "sales": 22046137.0,
-    "margin": 0.0441043253972339,
+    "margin": 0.04410432539723399,
     "basis": "Operating profit"
    },
    {
@@ -1251,13 +1251,13 @@
    {
     "year": 2024,
     "sales": 21695668.0,
-    "margin": 0.1005640849592646,
+    "margin": 0.10056408495926468,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 23458630.0,
-    "margin": 0.0433825845754845,
+    "margin": 0.043382584575484585,
     "basis": "Operating profit"
    }
   ],
@@ -1265,7 +1265,7 @@
   "interest_cover": 553.0956521739131,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0018836479245534
+  "capex_share": 0.0018836479245534178
  },
  "02150618": {
   "rank": 30,
@@ -1301,7 +1301,7 @@
    {
     "year": 2024,
     "sales": 101889000.0,
-    "margin": 0.1024644466036569,
+    "margin": 0.10246444660365692,
     "basis": "Operating profit"
    },
    {
@@ -1335,25 +1335,25 @@
    {
     "year": 2023,
     "sales": 22325000.0,
-    "margin": 0.0462262038073908,
+    "margin": 0.046226203807390814,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 22797000.0,
-    "margin": 0.0114488748519542,
+    "margin": 0.011448874851954205,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 24089000.0,
-    "margin": 0.0439619743451367,
+    "margin": 0.04396197434513678,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 27592000.0,
-    "margin": 0.126884604233111,
+    "margin": 0.12688460423311104,
     "basis": "Operating profit"
    }
   ],
@@ -1380,7 +1380,7 @@
    {
     "year": 2023,
     "sales": 22664860.0,
-    "margin": 0.1891263391876234,
+    "margin": 0.18912633918762348,
     "basis": "Operating profit"
    },
    {
@@ -1392,7 +1392,7 @@
    {
     "year": 2025,
     "sales": 23160860.0,
-    "margin": 0.134629802174876,
+    "margin": 0.13462980217487605,
     "basis": "Operating profit"
    }
   ],
@@ -1423,25 +1423,25 @@
    {
     "year": 2022,
     "sales": 88814000.0,
-    "margin": 0.1286171099151034,
+    "margin": 0.12861710991510347,
     "basis": "Profit before tax"
    },
    {
     "year": 2023,
     "sales": 135619000.0,
-    "margin": -0.0217078727906856,
+    "margin": -0.02170787279068567,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 162567000.0,
-    "margin": 0.0296431625114568,
+    "margin": 0.029643162511456815,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 126965000.0,
-    "margin": 0.0761705981963533,
+    "margin": 0.07617059819635333,
     "basis": "Operating profit"
    }
   ],
@@ -1475,19 +1475,19 @@
    {
     "year": 2024,
     "sales": 27975000.0,
-    "margin": -0.1859159964253798,
+    "margin": -0.18591599642537981,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 29096000.0,
-    "margin": -0.2556708825955457,
+    "margin": -0.25567088259554577,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 29216000.0,
-    "margin": -0.2637595837897042,
+    "margin": -0.26375958378970427,
     "basis": "Operating profit"
    }
   ],
@@ -1517,19 +1517,19 @@
    {
     "year": 2023,
     "sales": 18563415.0,
-    "margin": 0.3058448566710381,
+    "margin": 0.30584485667103817,
     "basis": "Profit before tax"
    },
    {
     "year": 2024,
     "sales": 10936516.0,
-    "margin": -0.0136611147462317,
+    "margin": -0.013661114746231799,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 18724104.0,
-    "margin": 0.2159351924129453,
+    "margin": 0.21593519241294537,
     "basis": "Operating profit"
    }
   ],
@@ -1559,25 +1559,25 @@
    {
     "year": 2022,
     "sales": 24409959.0,
-    "margin": 0.3319466861865683,
+    "margin": 0.33194668618656836,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 31510900.0,
-    "margin": 0.3450174384102009,
+    "margin": 0.34501743841020094,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 24452598.0,
-    "margin": 0.3176526273404568,
+    "margin": 0.31765262734045685,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 20831918.0,
-    "margin": 0.1551805743474988,
+    "margin": 0.15518057434749888,
     "basis": "Operating profit"
    }
   ],
@@ -1607,7 +1607,7 @@
    {
     "year": 2022,
     "sales": 27172341.0,
-    "margin": 0.0132659530513031,
+    "margin": 0.013265953051303162,
     "basis": "Profit before tax"
    },
    {
@@ -1619,13 +1619,13 @@
    {
     "year": 2024,
     "sales": 36442070.0,
-    "margin": 0.0861666200630205,
+    "margin": 0.08616662006302057,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 39743266.0,
-    "margin": 0.0616855192524942,
+    "margin": 0.06168551925249425,
     "basis": "Operating profit"
    }
   ],
@@ -1633,7 +1633,7 @@
   "interest_cover": 872.139452152259,
   "revenue_mix": "Strategic report: recurring revenue \u00a334.8m, 88% of \u00a339.7m turnover",
   "revenue_mix_source": "I.P. Integration Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0027713877364784
+  "capex_share": 0.002771387736478426
  },
  "05954905": {
   "rank": 38,
@@ -1652,13 +1652,13 @@
    {
     "year": 2022,
     "sales": 77900000.0,
-    "margin": 0.0812836970474967,
+    "margin": 0.08128369704749679,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 81716000.0,
-    "margin": 0.0310343139654412,
+    "margin": 0.031034313965441283,
     "basis": "Operating profit"
    },
    {
@@ -1670,7 +1670,7 @@
    {
     "year": 2025,
     "sales": 87543000.0,
-    "margin": 0.0601647190523514,
+    "margin": 0.06016471905235141,
     "basis": "Operating profit"
    }
   ],
@@ -1697,13 +1697,13 @@
    {
     "year": 2023,
     "sales": 4403562.0,
-    "margin": 0.0999702059378294,
+    "margin": 0.09997020593782942,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 15778372.0,
-    "margin": 0.12323831634848,
+    "margin": 0.12323831634848006,
     "basis": "Operating profit"
    },
    {
@@ -1737,13 +1737,13 @@
    {
     "year": 2024,
     "sales": 20382630.0,
-    "margin": 0.1765472365440573,
+    "margin": 0.17654723654405738,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 16254696.0,
-    "margin": 0.0903212216334282,
+    "margin": 0.09032122163342828,
     "basis": "Operating profit"
    }
   ],
@@ -1751,7 +1751,7 @@
   "interest_cover": 38.29274908711528,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0228945044833821
+  "capex_share": 0.022894504483382143
  },
  "04544886": {
   "rank": 41,
@@ -1772,19 +1772,19 @@
    {
     "year": 2023,
     "sales": 21261622.0,
-    "margin": 0.058942774920935,
+    "margin": 0.058942774920935005,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 23009860.0,
-    "margin": 0.1392044106309208,
+    "margin": 0.13920441063092084,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 38625956.0,
-    "margin": 0.1198770847251003,
+    "margin": 0.11987708472510039,
     "basis": "Operating profit"
    }
   ],
@@ -1792,7 +1792,7 @@
   "interest_cover": 90.30281223184336,
   "revenue_mix": "Strategic report: large projects won through long-term framework agreements",
   "revenue_mix_source": "Radiocoms Systems Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0241307954741418
+  "capex_share": 0.024130795474141858
  },
  "10174559": {
   "rank": 42,
@@ -1812,19 +1812,19 @@
    {
     "year": 2024,
     "sales": 9909006.0,
-    "margin": -0.0061535940133652,
+    "margin": -0.006153594013365215,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 21934414.0,
-    "margin": 0.0175341360840549,
+    "margin": 0.017534136084054946,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 24124352.0,
-    "margin": 0.0822723031068357,
+    "margin": 0.08227230310683578,
     "basis": "Operating profit"
    }
   ],
@@ -1832,7 +1832,7 @@
   "interest_cover": 5.688720102036429,
   "revenue_mix": "Turnover note: installations \u00a321.7m and civils and remediation \u00a32.5m: all project work",
   "revenue_mix_source": "Nano Fibre Uk Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0117694958743236
+  "capex_share": 0.011769495874323662
  },
  "09585068": {
   "rank": 43,
@@ -1853,13 +1853,13 @@
    {
     "year": 2024,
     "sales": 20880594.0,
-    "margin": 0.1382104359674825,
+    "margin": 0.13821043596748253,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 32022932.0,
-    "margin": 0.0662493365691811,
+    "margin": 0.06624933656918111,
     "basis": "Operating profit"
    }
   ],
@@ -1867,7 +1867,7 @@
   "interest_cover": 282.5273671594087,
   "revenue_mix": "Strategic report: mission-critical services that generate recurring revenue; mix shifting towards hardware and cloud resale after acquisitions",
   "revenue_mix_source": "Croft Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0045135467682329
+  "capex_share": 0.004513546768232957
  },
  "06968249": {
   "rank": 44,
@@ -1888,19 +1888,19 @@
    {
     "year": 2022,
     "sales": 15443111.0,
-    "margin": 0.0577197172253699,
+    "margin": 0.05771971722536994,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 17576627.0,
-    "margin": 0.1006287497595528,
+    "margin": 0.10062874975955284,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 18963518.0,
-    "margin": 0.0525176288492462,
+    "margin": 0.05251762884924622,
     "basis": "Operating profit"
    },
    {
@@ -1932,25 +1932,25 @@
    {
     "year": 2022,
     "sales": 10992138.0,
-    "margin": 0.0243156517867588,
+    "margin": 0.024315651786758864,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 13450778.0,
-    "margin": 0.0163801677494045,
+    "margin": 0.016380167749404533,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 14422719.0,
-    "margin": 0.0264536804745346,
+    "margin": 0.026453680474534655,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 18004724.0,
-    "margin": 0.0860319769411627,
+    "margin": 0.08603197694116277,
     "basis": "Operating profit"
    }
   ],
@@ -1958,7 +1958,7 @@
   "interest_cover": 142.42203015814638,
   "revenue_mix": "Strategic report: growing recurring service models; project work moved into a separate company (FLR Projects)",
   "revenue_mix_source": "Flr Spectron Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0192274725426987
+  "capex_share": 0.01922747254269876
  },
  "04213760": {
   "rank": 46,
@@ -1986,19 +1986,19 @@
    {
     "year": 2023,
     "sales": 58000000.0,
-    "margin": -0.0677413793103448,
+    "margin": -0.06774137931034482,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 92375000.0,
-    "margin": 0.0921569688768606,
+    "margin": 0.09215696887686062,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 85284000.0,
-    "margin": 0.0834036865062614,
+    "margin": 0.08340368650626143,
     "basis": "Operating profit"
    }
   ],
@@ -2006,7 +2006,7 @@
   "interest_cover": 11.148902821316614,
   "revenue_mix": "Strategic report: contracted and usage-based recurring revenue; after the year end O2 Business said it would end its contracted volumes",
   "revenue_mix_source": "Babble Cloud Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0078326532526616
+  "capex_share": 0.007832653252661696
  },
  "02557464": {
   "rank": 47,
@@ -2026,25 +2026,25 @@
    {
     "year": 2022,
     "sales": 47016000.0,
-    "margin": 0.008911859792411,
+    "margin": 0.008911859792411094,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 52940000.0,
-    "margin": 0.0611446921042689,
+    "margin": 0.06114469210426898,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 52811000.0,
-    "margin": 0.082123042547954,
+    "margin": 0.08212304254795402,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 50149000.0,
-    "margin": 0.0494127500049851,
+    "margin": 0.04941275000498514,
     "basis": "Operating profit"
    }
   ],
@@ -2077,13 +2077,13 @@
    {
     "year": 2023,
     "sales": 17175614.0,
-    "margin": -0.0067560321278761,
+    "margin": -0.006756032127876186,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 18385935.0,
-    "margin": 0.1079474065365726,
+    "margin": 0.10794740653657266,
     "basis": "Operating profit"
    }
   ],
@@ -2091,7 +2091,7 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: project-manages installation, repair and relocation of cabling for main contractors and councils",
   "revenue_mix_source": "C.A. Telecom Uk Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0364016160977236
+  "capex_share": 0.036401616097723674
  },
  "NI620995": {
   "rank": 49,
@@ -2110,13 +2110,13 @@
    {
     "year": 2023,
     "sales": 64336583.0,
-    "margin": 0.0821795431690862,
+    "margin": 0.08217954316908624,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 42366827.0,
-    "margin": 0.0999974343134075,
+    "margin": 0.09999743431340752,
     "basis": "Operating profit"
    },
    {
@@ -2130,7 +2130,7 @@
   "interest_cover": null,
   "revenue_mix": "Principal activity: delivery, supply and installation of civil engineering and telecoms projects",
   "revenue_mix_source": "Gcu (Uk) Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0096366263598607
+  "capex_share": 0.00963662635986079
  },
  "02853596": {
   "rank": 50,
@@ -2150,7 +2150,7 @@
    {
     "year": 2023,
     "sales": 104273509.0,
-    "margin": 0.1119284668937342,
+    "margin": 0.11192846689373424,
     "basis": "Operating profit"
    },
    {
@@ -2162,7 +2162,7 @@
    {
     "year": 2025,
     "sales": 75597498.0,
-    "margin": 0.2343891592814354,
+    "margin": 0.23438915928143547,
     "basis": "Operating profit"
    }
   ],
@@ -2170,7 +2170,7 @@
   "interest_cover": 264.5886006958443,
   "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at \u00a375.6m. No split between ongoing maintenance and one-off build work.",
   "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
-  "capex_share": 0.0067532044652468
+  "capex_share": 0.006753204465246891
  },
  "08043921": {
   "rank": 51,
@@ -2188,7 +2188,7 @@
    {
     "year": 2022,
     "sales": 37707153.0,
-    "margin": 0.2489694461949964,
+    "margin": 0.24896944619499647,
     "basis": "Operating profit"
    },
    {
@@ -2200,7 +2200,7 @@
    {
     "year": 2024,
     "sales": 39634934.0,
-    "margin": 0.2028920749558962,
+    "margin": 0.20289207495589623,
     "basis": "Operating profit"
    },
    {
@@ -2236,25 +2236,25 @@
    {
     "year": 2022,
     "sales": 10313933.0,
-    "margin": -0.1227970939892667,
+    "margin": -0.12279709398926675,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 21787453.0,
-    "margin": 0.0039381381568556,
+    "margin": 0.0039381381568556915,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 25037550.0,
-    "margin": 0.0445405001687465,
+    "margin": 0.04454050016874654,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 30431973.0,
-    "margin": 0.0630501019437681,
+    "margin": 0.06305010194376816,
     "basis": "Operating profit"
    }
   ],
@@ -2283,25 +2283,25 @@
    {
     "year": 2022,
     "sales": 100458000.0,
-    "margin": 0.2054291345636982,
+    "margin": 0.20542913456369827,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 109986000.0,
-    "margin": 0.0037277471678213,
+    "margin": 0.0037277471678213592,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 120661000.0,
-    "margin": 0.0157134451065381,
+    "margin": 0.015713445106538153,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 126668000.0,
-    "margin": 0.0246234250165787,
+    "margin": 0.024623425016578774,
     "basis": "Operating profit"
    }
   ],
@@ -2329,25 +2329,25 @@
    {
     "year": 2023,
     "sales": 73115523.0,
-    "margin": 0.0810259129241269,
+    "margin": 0.08102591292412693,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 67761995.0,
-    "margin": 0.0762395646704321,
+    "margin": 0.07623956467043215,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 50952182.0,
-    "margin": 0.0426873377081279,
+    "margin": 0.042687337708127986,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 45307587.0,
-    "margin": 0.0855434653803125,
+    "margin": 0.08554346538031257,
     "basis": "Operating profit"
    }
   ],
@@ -2378,19 +2378,19 @@
    {
     "year": 2023,
     "sales": 162149751.0,
-    "margin": -0.0876650128189219,
+    "margin": -0.08766501281892193,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 143696937.0,
-    "margin": -0.0767070351680495,
+    "margin": -0.07670703516804954,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 168064390.0,
-    "margin": -0.1251340036994154,
+    "margin": -0.12513400369941544,
     "basis": "Operating profit"
    }
   ],
@@ -2417,25 +2417,25 @@
    {
     "year": 2022,
     "sales": 90011000.0,
-    "margin": -0.0086656075368566,
+    "margin": -0.008665607536856607,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 100903000.0,
-    "margin": -0.0171253580171055,
+    "margin": -0.017125358017105536,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 97862000.0,
-    "margin": 0.0386769123868304,
+    "margin": 0.038676912386830437,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 92229000.0,
-    "margin": 0.0125448611608062,
+    "margin": 0.012544861160806255,
     "basis": "Operating profit"
    }
   ],
@@ -2463,25 +2463,25 @@
    {
     "year": 2022,
     "sales": 14302000.0,
-    "margin": -0.0786603272269612,
+    "margin": -0.07866032722696126,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 24892000.0,
-    "margin": 0.0157078579463281,
+    "margin": 0.015707857946328136,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 26514000.0,
-    "margin": 0.1152598627140378,
+    "margin": 0.11525986271403786,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 29561000.0,
-    "margin": 0.0520618382328067,
+    "margin": 0.05206183823280674,
     "basis": "Operating profit"
    }
   ],
@@ -2507,19 +2507,19 @@
    {
     "year": 2023,
     "sales": 22278504.0,
-    "margin": 0.0203992153153551,
+    "margin": 0.020399215315355105,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 27482323.0,
-    "margin": 0.0373001947470015,
+    "margin": 0.03730019474700155,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 29124437.0,
-    "margin": 0.0370345013021195,
+    "margin": 0.03703450130211959,
     "basis": "Operating profit"
    }
   ],
@@ -2546,25 +2546,25 @@
    {
     "year": 2022,
     "sales": 63591000.0,
-    "margin": -0.0389048764762309,
+    "margin": -0.038904876476230914,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 69216000.0,
-    "margin": -0.0475323624595469,
+    "margin": -0.04753236245954692,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 73258000.0,
-    "margin": -0.014947173004996,
+    "margin": -0.014947173004996041,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 66370000.0,
-    "margin": -0.0049570589121591,
+    "margin": -0.004957058912159108,
     "basis": "Operating profit"
    }
   ],
@@ -2596,7 +2596,7 @@
    {
     "year": 2023,
     "sales": 12262000.0,
-    "margin": 0.1725656499755341,
+    "margin": 0.17256564997553417,
     "basis": "Operating profit"
    },
    {
@@ -2608,7 +2608,7 @@
    {
     "year": 2025,
     "sales": 12218000.0,
-    "margin": 0.101162219675888,
+    "margin": 0.10116221967588804,
     "basis": "Operating profit"
    }
   ],
@@ -2635,19 +2635,19 @@
    {
     "year": 2023,
     "sales": 40740955.0,
-    "margin": 0.0027925462228364,
+    "margin": 0.0027925462228364554,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 57296965.0,
-    "margin": 0.0209787377045189,
+    "margin": 0.020978737704518906,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 65233379.0,
-    "margin": 0.0089829165525826,
+    "margin": 0.008982916552582688,
     "basis": "Operating profit"
    }
   ],
@@ -2674,19 +2674,19 @@
    {
     "year": 2024,
     "sales": 21984399.0,
-    "margin": -0.067661071835532,
+    "margin": -0.06766107183553209,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 22151482.0,
-    "margin": -0.0534827421479068,
+    "margin": -0.05348274214790685,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 22378763.0,
-    "margin": -0.0531048565999827,
+    "margin": -0.053104856599982764,
     "basis": "Operating profit"
    }
   ],
@@ -2714,7 +2714,7 @@
    {
     "year": 2023,
     "sales": 64261000.0,
-    "margin": 0.0237624686824045,
+    "margin": 0.02376246868240457,
     "basis": "Operating profit"
    },
    {
@@ -2726,7 +2726,7 @@
    {
     "year": 2025,
     "sales": 46018000.0,
-    "margin": 0.068277630492416,
+    "margin": 0.06827763049241602,
     "basis": "Operating profit"
    }
   ],
@@ -2752,19 +2752,19 @@
    {
     "year": 2023,
     "sales": 11558390.0,
-    "margin": 0.0644412413839643,
+    "margin": 0.06444124138396437,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 12261150.0,
-    "margin": 0.0303700713228367,
+    "margin": 0.030370071322836766,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 12133693.0,
-    "margin": 0.0588756448675601,
+    "margin": 0.058875644867560105,
     "basis": "Operating profit"
    }
   ],
@@ -2772,7 +2772,7 @@
   "interest_cover": 3.7762865072023257,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0008344025371953
+  "capex_share": 0.0008344025371953365
  },
  "02652955": {
   "rank": 65,
@@ -2791,27 +2791,27 @@
    {
     "year": 2023,
     "sales": 14757921.0,
-    "margin": 0.084661857181645,
+    "margin": 0.08466185718164503,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 25602482.0,
-    "margin": 0.0065407721017048,
+    "margin": 0.006540772101704827,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 19398232.0,
-    "margin": 0.0064017174348672,
+    "margin": 0.00640171743486726,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 377399.0,
-  "interest_cover": 14.171174255391987,
+  "interest_cover": 14.171174255391989,
   "revenue_mix": "Strategic report: focus on high-margin recurring revenue streams; acquired a managed service provider with a strong recurring base",
   "revenue_mix_source": "Bdr Voice & Data Solutions Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0054546846215569
+  "capex_share": 0.005454684621556929
  },
  "SC646446": {
   "rank": 66,
@@ -2830,25 +2830,25 @@
    {
     "year": 2022,
     "sales": 24962134.0,
-    "margin": -0.0505985986614766,
+    "margin": -0.05059859866147662,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 36291351.0,
-    "margin": -0.0284711638318452,
+    "margin": -0.028471163831845225,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 36911203.0,
-    "margin": -0.0014987861544366,
+    "margin": -0.0014987861544366354,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 36944202.0,
-    "margin": -0.0370268384738693,
+    "margin": -0.037026838473869325,
     "basis": "Operating profit"
    }
   ],
@@ -2880,21 +2880,21 @@
    {
     "year": 2023,
     "sales": 15181248.0,
-    "margin": 0.0384297127614277,
+    "margin": 0.03842971276142778,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 20274554.0,
-    "margin": 0.0386314786505291,
+    "margin": 0.038631478650529134,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 891948.0,
-  "interest_cover": 24.35965539763008,
+  "interest_cover": 24.359655397630082,
   "revenue_mix": "Principal activity: construction of utility projects for electricity and telecoms",
   "revenue_mix_source": "M & M Contractors (Europe) Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0101269689760807
+  "capex_share": 0.010126968976080725
  },
  "01763970": {
   "rank": 68,
@@ -2912,25 +2912,25 @@
    {
     "year": 2022,
     "sales": 24274518.0,
-    "margin": 0.0171773544586961,
+    "margin": 0.017177354458696153,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 26655839.0,
-    "margin": 0.0175174752518575,
+    "margin": 0.017517475251857578,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 25724056.0,
-    "margin": 0.0052134857737831,
+    "margin": 0.005213485773783108,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 26309539.0,
-    "margin": 0.018218525227675,
+    "margin": 0.018218525227675027,
     "basis": "Operating profit"
    }
   ],
@@ -2938,7 +2938,7 @@
   "interest_cover": 59.32924866938978,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0132885925504182
+  "capex_share": 0.01328859255041827
  },
  "01938625": {
   "rank": 69,
@@ -2957,19 +2957,19 @@
    {
     "year": 2022,
     "sales": 35306000.0,
-    "margin": 0.0669574576559225,
+    "margin": 0.06695745765592251,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 39284000.0,
-    "margin": 0.0796252927400468,
+    "margin": 0.07962529274004684,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 50374000.0,
-    "margin": -0.0072855044268868,
+    "margin": -0.007285504426886886,
     "basis": "Operating profit"
    },
    {
@@ -3009,19 +3009,19 @@
    {
     "year": 2023,
     "sales": 29934768.0,
-    "margin": 0.1812740289151397,
+    "margin": 0.18127402891513975,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 19140522.0,
-    "margin": 0.1182828242615326,
+    "margin": 0.11828282426153268,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 18313423.0,
-    "margin": 0.1062890864258418,
+    "margin": 0.10628908642584185,
     "basis": "Operating profit"
    }
   ],
@@ -3048,19 +3048,19 @@
    {
     "year": 2023,
     "sales": 12425367.0,
-    "margin": 0.0420640291751543,
+    "margin": 0.042064029175154345,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 11643084.0,
-    "margin": 0.0610072039332534,
+    "margin": 0.06100720393325342,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 11919703.0,
-    "margin": 0.0580424696823402,
+    "margin": 0.05804246968234024,
     "basis": "Operating profit"
    }
   ],
@@ -3068,7 +3068,7 @@
   "interest_cover": 1.3951606398167342,
   "revenue_mix": "Strategic report: resilient recurring revenue base; elevated customer churn in the sector",
   "revenue_mix_source": "Telappliant Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0074422229150455
+  "capex_share": 0.007442222915045587
  },
  "14354114": {
   "rank": 72,
@@ -3095,7 +3095,7 @@
    {
     "year": 2025,
     "sales": 11203973.0,
-    "margin": 0.0012414346232358,
+    "margin": 0.0012414346232358824,
     "basis": "Operating profit"
    }
   ],
@@ -3121,13 +3121,13 @@
    {
     "year": 2024,
     "sales": 11969630.0,
-    "margin": 0.1054843800518478,
+    "margin": 0.10548438005184789,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 14464285.0,
-    "margin": 0.0033143705340429,
+    "margin": 0.003314370534042989,
     "basis": "Operating profit"
    }
   ],
@@ -3135,7 +3135,7 @@
   "interest_cover": null,
   "revenue_mix": "Principal activity: civil and fibre-optic engineering, installation and associated maintenance",
   "revenue_mix_source": "Erh Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0008797264410011
+  "capex_share": 0.0008797264410011003
  },
  "04503928": {
   "rank": 74,
@@ -3155,19 +3155,19 @@
    {
     "year": 2023,
     "sales": 33645523.0,
-    "margin": -0.0085811416871124,
+    "margin": -0.008581141687112428,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 31644508.0,
-    "margin": -0.0971092993450869,
+    "margin": -0.09710929934508698,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 27191000.0,
-    "margin": 0.003210326946416,
+    "margin": 0.0032103269464160934,
     "basis": "Operating profit"
    }
   ],
@@ -3175,7 +3175,7 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: moving to recurring cloud and managed services; cloud communications recurring revenue \u00a33.78m",
   "revenue_mix_source": "New Technology Group Holdings Plc accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.000587804788349
+  "capex_share": 0.0005878047883490861
  },
  "04380546": {
   "rank": 75,
@@ -3193,33 +3193,33 @@
    {
     "year": 2022,
     "sales": 24369933.0,
-    "margin": -0.0123489875823622,
+    "margin": -0.01234898758236225,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 24417062.0,
-    "margin": 0.0058043838361879,
+    "margin": 0.00580438383618799,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 29380521.0,
-    "margin": 0.0222752687060927,
+    "margin": 0.02227526870609272,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 20980894.0,
-    "margin": 0.0266295611616931,
+    "margin": 0.02662956116169311,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 558712.0,
-  "interest_cover": 18.10883868667553,
+  "interest_cover": 18.108838686675526,
   "revenue_mix": "Strategic report: building contracted recurring revenue as a managed service provider",
   "revenue_mix_source": "Vcg Technology Services Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0119451010654305
+  "capex_share": 0.011945101065430529
  },
  "05942331": {
   "rank": 76,
@@ -3238,25 +3238,25 @@
    {
     "year": 2022,
     "sales": 12135332.0,
-    "margin": -0.0420209352327567,
+    "margin": -0.04202093523275671,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 15671124.0,
-    "margin": 0.0387725219965077,
+    "margin": 0.038772521996507714,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 16597743.0,
-    "margin": 0.0225012521280754,
+    "margin": 0.022501252128075487,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 22061311.0,
-    "margin": 0.0262122681648429,
+    "margin": 0.02621226816484297,
     "basis": "Operating profit"
    }
   ],
@@ -3285,33 +3285,33 @@
    {
     "year": 2022,
     "sales": 10965420.0,
-    "margin": -0.2385676973613413,
+    "margin": -0.23856769736134137,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 18212080.0,
-    "margin": 0.0306757932097816,
+    "margin": 0.03067579320978164,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 25142876.0,
-    "margin": 0.0198473714781077,
+    "margin": 0.019847371478107754,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 17478481.0,
-    "margin": 0.0141729707518633,
+    "margin": 0.014172970751863391,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 291531.0,
-  "interest_cover": 1.6485346181489071,
+  "interest_cover": 1.6485346181489073,
   "revenue_mix": "Strategic report: mast build programmes for mobile operators",
   "revenue_mix_source": "Teligent Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0081168289143403
+  "capex_share": 0.008116828914340372
  },
  "00714431": {
   "rank": 78,
@@ -3326,19 +3326,19 @@
    {
     "year": 2022,
     "sales": 28113730.0,
-    "margin": -0.0490411624498065,
+    "margin": -0.04904116244980655,
     "basis": "Operating profit"
    },
    {
     "year": 2023,
     "sales": 28804127.0,
-    "margin": 0.0138679432985419,
+    "margin": 0.013867943298541907,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 26005566.0,
-    "margin": 0.0016076558379848,
+    "margin": 0.0016076558379848375,
     "basis": "Operating profit"
    },
    {
@@ -3352,7 +3352,7 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: survey, design and installation projects; order book of contracts",
   "revenue_mix_source": "Fourway Communication Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0033011568754206
+  "capex_share": 0.0033011568754206322
  },
  "03868503": {
   "rank": 79,
@@ -3372,13 +3372,13 @@
    {
     "year": 2023,
     "sales": 23828765.0,
-    "margin": 0.1657598285097863,
+    "margin": 0.16575982850978638,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 19026062.0,
-    "margin": 0.0840212230991363,
+    "margin": 0.08402122309913633,
     "basis": "Operating profit"
    },
    {
@@ -3392,7 +3392,7 @@
   "interest_cover": 24.53584639774529,
   "revenue_mix": "Strategic report: IT consultancy, maintenance and hardware; growing 3-7 year hardware-as-a-service contracts",
   "revenue_mix_source": "Medhurst Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0209477883681017
+  "capex_share": 0.020947788368101794
  },
  "09180490": {
   "rank": 80,
@@ -3408,7 +3408,7 @@
    {
     "year": 2021,
     "sales": 18381930.0,
-    "margin": 0.0555191429844417,
+    "margin": 0.055519142984441786,
     "basis": "Operating profit"
    },
    {
@@ -3420,13 +3420,13 @@
    {
     "year": 2023,
     "sales": 17003298.0,
-    "margin": 0.0134576833270816,
+    "margin": 0.013457683327081605,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 19246654.0,
-    "margin": 0.0214205024935762,
+    "margin": 0.021420502493576285,
     "basis": "Operating profit"
    }
   ],
@@ -3434,7 +3434,7 @@
   "interest_cover": 8.628749032001506,
   "revenue_mix": "Strategic report: over 67,000 mobile connections and landline, VoIP and hosted services to over 4,000 businesses",
   "revenue_mix_source": "Ice Telecommunications Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0008199275148044
+  "capex_share": 0.000819927514804435
  },
  "SC211701": {
   "rank": 81,
@@ -3455,7 +3455,7 @@
    {
     "year": 2022,
     "sales": 24243290.0,
-    "margin": 0.0585576875085848,
+    "margin": 0.05855768750858485,
     "basis": "Operating profit"
    },
    {
@@ -3473,7 +3473,7 @@
    {
     "year": 2025,
     "sales": 14764341.0,
-    "margin": 0.0073922703356688,
+    "margin": 0.007392270335668893,
     "basis": "Operating profit"
    }
   ],
@@ -3498,19 +3498,19 @@
    {
     "year": 2023,
     "sales": 22431545.0,
-    "margin": 0.0301541423027259,
+    "margin": 0.030154142302725916,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 17055774.0,
-    "margin": 0.010675387701549,
+    "margin": 0.010675387701549048,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 13457775.0,
-    "margin": 0.0155096217613981,
+    "margin": 0.01550962176139815,
     "basis": "Operating profit"
    }
   ],
@@ -3518,6 +3518,6 @@
   "interest_cover": 3.5031553153637005,
   "revenue_mix": "Strategic report: distribution rights and product sales to an existing customer base",
   "revenue_mix_source": "Corporate Direct (Europe) Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.004385069016495
+  "capex_share": 0.0043850690164950095
  }
 }
