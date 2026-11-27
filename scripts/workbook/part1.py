@@ -50,7 +50,9 @@ def build_scorecard(wb, R, C):
         c = ws.cell(row=5, column=col, value=W[k]); c.font = font(BLUE, bold=True); c.fill = PatternFill('solid', fgColor=YELLOW)
         c.alignment = Alignment(horizontal='center')
         c.comment = Comment(f'Source: config/thesis/digital.json. {C["scoring_notes"][k]}', 'Screener')
-    ws.cell(row=5, column=4 + len(keys), value='=SUM(D5:I5)').font = font(bold=True)
+    n = len(keys); L = get_column_letter
+    SC, RK, AC, RB = 4 + n, 5 + n, 6 + n, 7 + n   # score, rank, accessibility, revenue basis columns
+    ws.cell(row=5, column=4 + n, value=f'=SUM(D5:{L(3 + n)}5)').font = font(bold=True)
     ws.cell(row=4, column=4 + len(keys), value='Total').font = font(bold=True, size=9)
     ws['A5'] = 'Edit the yellow cells to re-weight'; ws['A5'].font = font(color='595959', italic=True, size=9)
     hdr = ['Company', 'Company no.', 'Fit'] + [f'{k.replace("_", " ").capitalize()} (0-1)' for k in keys] + ['Score /100', 'Rank', 'Accessibility', 'Revenue visibility basis']
@@ -101,9 +103,10 @@ def build_shortlist(wb, R, first, last):
         row = 4 + k
         ws.cell(row=row, column=1, value=k)
         # find company number with rank k on Scorecard
-        m = f'MATCH({k},Scorecard!$J${first}:$J${last},0)'   # rank column: criteria D-H, score I, rank J, accessibility K
+        nk = len([c for c in R.columns if c.startswith('pts_')]); SCL, RKL, ACL = get_column_letter(4 + nk), get_column_letter(5 + nk), get_column_letter(6 + nk)
+        m = f'MATCH({k},Scorecard!${RKL}${first}:${RKL}${last},0)'   # score, rank and accessibility columns follow the criteria
         ws.cell(row=row, column=2, value=f'=INDEX(Scorecard!$A${first}:$A${last},{m})').font = font(GREEN)
-        ws.cell(row=row, column=3, value=f'=INDEX(Scorecard!$I${first}:$I${last},{m})').font = font(GREEN)
+        ws.cell(row=row, column=3, value=f'=INDEX(Scorecard!${SCL}${first}:${SCL}${last},{m})').font = font(GREEN)
         ws.cell(row=row, column=3).number_format = '0.0'
         ws.cell(row=row, column=4, value=f'=INDEX(Scorecard!$C${first}:$C${last},{m})').font = font(GREEN)
         key = f'INDEX(Scorecard!$B${first}:$B${last},{m})'
@@ -112,7 +115,7 @@ def build_shortlist(wb, R, first, last):
         for col, dcol, fmt in spec:
             c = ws.cell(row=row, column=col, value=lk(dcol)); c.font = font(GREEN)
             if fmt: c.number_format = fmt
-        ws.cell(row=row, column=12, value=f'=INDEX(Scorecard!$K${first}:$K${last},{m})').font = font(GREEN)
+        ws.cell(row=row, column=12, value=f'=INDEX(Scorecard!${ACL}${first}:${ACL}${last},{m})').font = font(GREEN)
         ws.cell(row=row, column=13, value=lk('J')).font = font(GREEN)
         ws.cell(row=row, column=14, value=lk('K')).font = font(GREEN)
         for col in range(1, 15):

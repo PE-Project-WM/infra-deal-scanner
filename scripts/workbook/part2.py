@@ -2,20 +2,53 @@
 from part1 import *
 
 # Valuation companies: inputs from the deep dive (data/deep_dive), £ unless stated. Sources in comments.
-COS = [
-    dict(name='VEA Group', rev=32.561, rev_prior=21.059, ebitda=9.954, qoe=round(0.22*32.561-9.954,3), da=0.152, capex=0.064, cash=12.689, debt=0.003,
-         growth=0.06, margin=0.22, capex_pct=0.010, da_pct=0.005, nwc=0.05, fx=1.0, fy='FY Feb 2026', mult=(6.0, 7.0, 8.0), lev=3.0,
-         src='VEA Group Ltd accounts FY Feb 2026 (filed 30 Jun 2026): turnover £32.56m, operating profit £9.80m, depreciation £0.15m, capex £0.06m, cash £12.69m, finance leases £0.003m.',
-         note='Margin jumped from 16% to 31% in one year. The quality-of-earnings adjustment normalises EBITDA to a 22% margin (about the average of the last two years), so the deal is priced on £7.2m, not £10.0m. Set it to 0 to price on the reported figure, as the website price check does.'),
-    dict(name='Clarus Networks', rev=26.681, rev_prior=18.308, ebitda=4.294, qoe=-1.223, da=0.241, capex=0.157, cash=3.151, debt=0.211,
-         growth=0.06, margin=0.115, capex_pct=0.006, da_pct=0.009, nwc=0.05, fx=1.0, fy='FY Dec 2025', mult=(6.0, 7.0, 8.0), lev=3.0,
-         src='Clarus Networks Ltd accounts FY Dec 2025 (filed 30 Sep 2026): turnover £26.68m, operating profit £4.05m incl. other operating income £1.22m (R&D tax credit; 2024: £0.04m), D&A £0.24m, capex £0.16m, cash £3.15m, bank loans £0.18m, leases £0.04m.',
-         note='£1.22m of R&D tax credit income (RDEC) is removed as not part of trading EBITDA.'),
-    dict(name='Beacon Communication Services', rev=31.766, rev_prior=26.069, ebitda=6.188, qoe=0.0, da=0.339, capex=0.464, cash=3.427, debt=2.387,
-         growth=0.06, margin=0.195, capex_pct=0.015, da_pct=0.011, nwc=0.05, fx=1.0, fy='FY Apr 2025', mult=(6.0, 7.0, 8.0), lev=3.0,
-         src='Beacon Communication Services Ltd accounts FY Apr 2025 (filed 27 Dec 2025, read by OCR and checked): turnover £31.77m, operating profit £5.85m, depreciation £0.34m, capex £0.46m, cash £3.43m, finance leases £2.39m.',
-         note='Holds £21.3m of other investments and property outside the trading business (bought £9.6m in the year) and owes the director £3.5m on current account: a buyer would carve these out, so they are left out of the price.'),
+# The three companies are built from the pipeline's own outputs, so the workbook always matches the live ranking:
+# turnover, reported and rule-based EBITDA (data/outputs/ranking_latest.csv, normalise.py), business type, its price
+# range and debt (config/thesis/<sector>.json), and cash, debt, D&A and capex from config/balance_sheet.csv where checked.
+import os as _os, sys as _sys, json as _json
+import pandas as _pd
+_REPO = _os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
+_sys.path.insert(0, _os.path.join(_REPO, 'scripts'))
+from settings import TYPES as _TYPES
+_R = _pd.read_csv(f'{_REPO}/data/outputs/ranking_latest.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
+_BS = _pd.read_csv(f'{_REPO}/config/balance_sheet.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
+_H = _pd.read_csv(f'{_REPO}/data/outputs/history.csv', dtype={'CompanyNumber': str})
+
+PICK = [   # company number, short name, financial year, extra note on the accounts
+    ('13433533', 'VEA Group', 'FY Feb 2026', 'VEA Group Ltd accounts FY Feb 2026 (filed 30 Jun 2026).',
+     'Margin jumped from about 17% to 31% in one year. Rule R3 prices the deal on the two-year average margin (23%) until a second year shows it holds, so the quality-of-earnings line takes EBITDA from £9.95m to £7.60m. Set it to 0 to price on the reported figure.'),
+    ('SC492820', 'Clarus Networks', 'FY Dec 2025', 'Clarus Networks Ltd accounts FY Dec 2025 (filed 30 Sep 2026); bank loans £0.18m, leases £0.04m.',
+     'Rule R1: £1.22m of R&D expenditure credit (RDEC) in other operating income is taken out as not trading EBITDA (2024: £0.04m).'),
+    ('04186486', 'Beacon Communication Services', 'FY Apr 2025', 'Beacon Communication Services Ltd accounts FY Apr 2025 (filed 27 Dec 2025, read by OCR and checked).',
+     'Holds £21.3m of other investments and property outside the trading business (bought £9.6m in the year) and owes the director £3.5m on current account: a buyer would carve these out, so they are left out of the price.'),
 ]
+BEACON_BS = dict(cash=3.427, debt=2.387, da=0.339, capex=0.464)   # from the accounts (not yet in config/balance_sheet.csv)
+
+
+def _company(num, name, fy, src, note):
+    r = _R.loc[num]
+    t = _TYPES[r['business_type']]
+    rev, e_rep, e_norm = r['turnover'] / 1e6, r['ebitda_reported'] / 1e6, r['ebitda'] / 1e6
+    h = _H[_H['CompanyNumber'] == num].sort_values('fy')
+    rev_prior = h['sales'].iloc[-2] / 1e6 if len(h) >= 2 else rev
+    if num in _BS.index:
+        b = _BS.loc[num].fillna(0)
+        cash, debt = b['cash'] / 1e6, (b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans']) / 1e6
+        capex = b['capex'] / 1e6
+    else:
+        cash, debt, capex = BEACON_BS['cash'], BEACON_BS['debt'], BEACON_BS['capex']
+    da = {'13433533': 0.152, 'SC492820': 0.241, '04186486': BEACON_BS['da']}[num]   # depreciation in the same accounts
+    lo, mid, hi = t['price_range']['low'], t['price_range']['mid'], t['price_range']['high']
+    return dict(name=name, rev=round(rev, 3), rev_prior=round(rev_prior, 3), ebitda=round(e_rep, 3), qoe=round(e_norm - e_rep, 3),
+                da=da, capex=round(capex, 3), cash=round(cash, 3), debt=round(debt, 3),
+                growth=0.06, margin=round(e_norm / rev, 3), capex_pct=round(max(capex / rev, 0.002), 3), da_pct=round(da / rev, 3),
+                nwc=0.05, fx=1.0, fy=fy, mult=(lo, mid, hi), lev=t['debt_turns'], kind=t['label'],
+                src=f"{src} Turnover £{rev:.2f}m, reported EBITDA £{e_rep:.2f}m, cash £{cash:.2f}m, borrowings and leases £{debt:.2f}m. "
+                    f"Live rank {int(r['rank'])} of the ranking; business type {t['label'].lower()} (price range {lo:.0f}-{hi:.0f}x, debt {t['debt_turns']:.1f}x).",
+                note=note)
+
+
+COS = [_company(*p) for p in PICK]
 YEARS = 5
 
 def build_assumptions(wb):
@@ -176,9 +209,10 @@ def build_models(wb):
         line('Debt, closing (cash sweep)', 'dclose', f"={cell['d0']}", lambda y: f"=MAX(0,{col(y)}{rows['dopen']}-MAX(0,{col(y)}{rows['avail']}))")
         line('Leverage (closing debt / EBITDA)', 'levx', f"=IFERROR(C{r}/C{rows['ebitda']},0)".replace(f'C{r}/', f"C{r-1}/"), lambda y: f"=IFERROR({col(y)}{rows['dclose']}/{col(y)}{rows['ebitda']},0)", fmt='0.0"x"')
         line('Interest cover ((EBITDA - capex - tax) / interest)', 'cov', None, lambda y: f"=IFERROR(({col(y)}{rows['ebitda']}+{col(y)}{rows['cx']}+{col(y)}{rows['tax']})/{col(y)}{rows['int']},99)", fmt='0.0"x"')
+        line('Cash built up once debt is repaid', 'cash', '=0', lambda y: f"={col(y-1)}{r}+MAX(0,{col(y)}{rows['avail']}-{col(y)}{rows['dopen']})")
         r += 1
         kv('Exit EV (middle multiple x Year 5 EBITDA)', f"={Y}{rows['ebitda']}*{cell['mm']}", '#,##0.00', 'ev5')
-        kv('Exit equity (EV - debt + 0 cash)', f"={cell['ev5']}-{Y}{rows['dclose']}", '#,##0.00', 'eq5')
+        kv('Exit equity (EV - debt + cash built up, as in the website price check)', f"={cell['ev5']}-{Y}{rows['dclose']}+{Y}{rows['cash']}", '#,##0.00', 'eq5')
         kv('MOIC', f"=IFERROR({cell['eq5']}/{cell['eq0']},0)", '0.00"x"', 'moic', bold=True)
         kv('IRR (5-year hold, no interim dividends)', f"=IFERROR({cell['moic']}^(1/5)-1,0)", PCT, 'irr', bold=True)
         kv('Lowest interest cover over the hold', f"=MIN(D{rows['cov']}:{Y}{rows['cov']})", '0.0"x"', 'mincov')
@@ -210,9 +244,9 @@ def build_valuation(wb, out):
             cl.border = BOX
         ws.cell(row=r, column=15, value=f'=IF(AND(K{r}>={A["hurdle"]},M{r}>={A["mincov"]}),"Clears hurdle at base price",IF(K{r}>={A["hurdle"]},"Returns OK, debt too heavy","Below hurdle at base price"))').border = BOX
     ws['A10'] = 'How to read this'; ws['A10'].font = font(bold=True, color=TEAL)
-    notes = ['EV = enterprise value (price for the whole business, before debt). Low / middle / high use each company\'s price range on the Models sheet (6-8x for repeat-revenue services, as on the website).',
+    notes = ['EV = enterprise value (price for the whole business, before debt). Low / middle / high use each company\'s price range on the Models sheet, set by its business type as on the website: contractors 5-7x (VEA, Beacon), recurring services 6-8x (Clarus).',
              'DCF EV values five years of cash flow plus an exit value at the middle multiple (held flat, as the thesis requires).',
-             'Buyout IRR and MOIC: buy at the middle multiple with senior debt (3.0x EBITDA), repay debt from cash flow, sell after 5 years at the same multiple.',
+             'Buyout IRR and MOIC: buy at the middle multiple with senior debt (2.5x EBITDA for contractors, 3.0x for services), repay debt from cash flow, sell after 5 years at the same multiple.',
              'Max entry multiple for hurdle: the highest price (EV / EBITDA) at which the buyout still earns the target IRR. Compare it with the price range.',
              'Illustrative only: projections are simple percentage assumptions, not management forecasts. Public data only; not investment advice.']
     for i, t in enumerate(notes, 11):
