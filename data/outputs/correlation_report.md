@@ -13,7 +13,7 @@ Correlation flag for the top 10: **GREEN** (amber when 30% of the top 10, weight
 | 5 | Redwood Technologies Group | Steady compounder | Core and core-plus infrastructure funds | Hosting and cloud (SME) 100% | SME IT and telecoms spending |
 | 6 | Open Fibre Networks | Between buckets | Depends on the reason given | Consumer broadband 70%; Utility and civil construction 30% | Altnet funding and interest rates |
 | 7 | Clarus Networks | High-growth | Growth and mid-market PE | Offshore energy and maritime 50%; Public sector budgets 25%; Utility and civil construction 25% | Offshore oil, gas, wind and shipping activity |
-| 8 | Communicate Technology | High-growth | Growth and mid-market PE | Business telecoms (SME) 100% | SME IT and telecoms spending |
+| 8 | Communicate Technology | High-growth | Growth and mid-market PE | Hosting and cloud (SME) 100% | SME IT and telecoms spending |
 | 9 | Rapid Response Telecoms | High-growth | Growth and mid-market PE | Altnet and operator network build 80%; Utility and civil construction 20% | Altnet funding and interest rates |
 | 10 | Alert Communications | Steady compounder | Core and core-plus infrastructure funds | Public sector budgets 100% | Government spending |
 
@@ -28,7 +28,7 @@ Correlation flag for the top 10: **GREEN** (amber when 30% of the top 10, weight
 
 Top 20: about 5 independent bets (flag green).
 
-Deal types across all ranked companies: Between buckets 23, Under pressure 22, High-growth 19, Steady compounder 15, Numbers to check 3.
-Watchlist (30 loss-making companies): Under pressure 16, Growth infrastructure 13, Numbers to check 1.
+Deal types across all ranked companies: Between buckets 23, Under pressure 22, High-growth 20, Steady compounder 15, Numbers to check 3.
+Watchlist (27 loss-making companies): Under pressure 15, Growth infrastructure 11, Numbers to check 1.
 
 _Splits for the top 10 are estimated from the accounts and web checks (config/demand_driver_split.csv); companies with two named drivers are assumed 70/30; the rest come from judgement or rules and should be confirmed._
