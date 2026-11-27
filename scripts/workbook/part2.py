@@ -2,28 +2,53 @@
 from part1 import *
 
 # Valuation companies: inputs from the deep dive (data/deep_dive), £ unless stated. Sources in comments.
-COS = [
-    dict(name='VEA Group', rev=32.561, rev_prior=21.059, ebitda=9.954, qoe=round(0.22*32.561-9.954,3), da=0.152, capex=0.064, cash=12.689, debt=0.003,
-         growth=0.10, margin=0.22, capex_pct=0.010, da_pct=0.005, nwc=0.05, fx=1.0, fy='FY Feb 2026',
-         src='VEA Group Ltd accounts FY Feb 2026 (filed 30 Jun 2026): turnover £32.56m, operating profit £9.80m, depreciation £0.15m, capex £0.06m, cash £12.69m.',
-         note='Margin jumped from 16% to 31% in one year. Adjustment normalises EBITDA to a 22% margin (average of the last two years); the deal is priced on that.'),
-    dict(name='The Networking People', rev=18.099, rev_prior=15.519, ebitda=2.305, qoe=0.0, da=0.173, capex=0.875, cash=1.781, debt=0.055,
-         growth=0.10, margin=0.127, capex_pct=0.025, da_pct=0.010, nwc=0.05, fx=1.0, fy='FY Mar 2026',
-         src='TNP Ltd accounts FY Mar 2026 (filed 16 Oct 2026): turnover £18.10m, operating profit £2.13m, D&A £0.17m, capex £0.88m, cash £1.78m, finance leases £0.06m.',
-         note='Bought by YFM Equity Partners in 2025; growth 10-17% a year over three years.'),
-    dict(name='Satcom Global', rev=36.305, rev_prior=34.740, ebitda=6.272, qoe=0.0, da=1.276, capex=2.359, cash=1.056, debt=21.231,
-         growth=0.03, margin=0.17, capex_pct=0.050, da_pct=0.035, nwc=0.05, fx=1.26, fy='FY Jun 2024',
-         src='Satcom Global Ltd accounts FY Jun 2024 (filed 13 Mar 2025), in US$: turnover $36.31m, operating profit $5.00m, depreciation $0.27m, amortisation $1.00m, additions $2.36m, cash $1.06m, bank borrowings $21.23m. Converted at $1.26/£ (FY average, assumption).',
-         note='Reports in US dollars; prior year restated (sales credit notes); latest accounts are for June 2024.'),
-    dict(name='Clarus Networks', rev=26.681, rev_prior=18.308, ebitda=4.294, qoe=-1.223, da=0.241, capex=0.157, cash=3.151, debt=0.206,
-         growth=0.08, margin=0.115, capex_pct=0.008, da_pct=0.009, nwc=0.05, fx=1.0, fy='FY Dec 2025',
-         src='Clarus Networks Ltd accounts FY Dec 2025 (filed 30 Sep 2026): turnover £26.68m, operating profit £4.05m incl. other operating income £1.22m (2024: £0.04m), D&A £0.24m, capex £0.16m, cash £3.15m, borrowings £0.21m.',
-         note='Other operating income of £1.22m treated as one-off and removed (quality-of-earnings adjustment).'),
-    dict(name='MAP Group (UK)', rev=75.597, rev_prior=74.397, ebitda=18.110, qoe=round(0.20*75.597-18.110,3), da=0.391, capex=0.242, cash=5.469, debt=0.0,
-         growth=0.02, margin=0.20, capex_pct=0.004, da_pct=0.005, nwc=0.05, fx=1.0, fy='FY Sep 2025',
-         src='MAP Group (UK) Ltd accounts FY Sep 2025 (filed 26 Jun 2026): turnover £75.60m, operating profit £17.72m, depreciation £0.39m, capex £0.24m, cash £5.47m, no bank debt.',
-         note='Margin rose from 16.9% to 23.4% in one year. Adjustment normalises EBITDA to a 20% margin. Employee-owned (EOT); net assets fell from £28.3m to £10.6m as the EOT purchase was funded.'),
+# The three companies are built from the pipeline's own outputs, so the workbook always matches the live ranking:
+# turnover, reported and rule-based EBITDA (data/outputs/ranking_latest.csv, normalise.py), business type, its price
+# range and debt (config/thesis/<sector>.json), and cash, debt, D&A and capex from config/balance_sheet.csv where checked.
+import os as _os, sys as _sys, json as _json
+import pandas as _pd
+_REPO = _os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
+_sys.path.insert(0, _os.path.join(_REPO, 'scripts'))
+from settings import TYPES as _TYPES
+_R = _pd.read_csv(f'{_REPO}/data/outputs/ranking_latest.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
+_BS = _pd.read_csv(f'{_REPO}/config/balance_sheet.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
+_H = _pd.read_csv(f'{_REPO}/data/outputs/history.csv', dtype={'CompanyNumber': str})
+
+PICK = [   # company number, short name, financial year, extra note on the accounts
+    ('13433533', 'VEA Group', 'FY Feb 2026', 'VEA Group Ltd accounts FY Feb 2026 (filed 30 Jun 2026).',
+     'Margin jumped from about 17% to 31% in one year. Rule R3 prices the deal on the two-year average margin (23%) until a second year shows it holds, so the quality-of-earnings line takes EBITDA from £9.95m to £7.60m. Set it to 0 to price on the reported figure.'),
+    ('SC492820', 'Clarus Networks', 'FY Dec 2025', 'Clarus Networks Ltd accounts FY Dec 2025 (filed 30 Sep 2026); bank loans £0.18m, leases £0.04m.',
+     'Rule R1: £1.22m of R&D expenditure credit (RDEC) in other operating income is taken out as not trading EBITDA (2024: £0.04m).'),
+    ('04186486', 'Beacon Communication Services', 'FY Apr 2025', 'Beacon Communication Services Ltd accounts FY Apr 2025 (filed 27 Dec 2025, read by OCR and checked).',
+     'Holds £21.3m of other investments and property outside the trading business (bought £9.6m in the year) and owes the director £3.5m on current account: a buyer would carve these out, so they are left out of the price.'),
 ]
+BEACON_BS = dict(cash=3.427, debt=2.387, da=0.339, capex=0.464)   # from the accounts (not yet in config/balance_sheet.csv)
+
+
+def _company(num, name, fy, src, note):
+    r = _R.loc[num]
+    t = _TYPES[r['business_type']]
+    rev, e_rep, e_norm = r['turnover'] / 1e6, r['ebitda_reported'] / 1e6, r['ebitda'] / 1e6
+    h = _H[_H['CompanyNumber'] == num].sort_values('fy')
+    rev_prior = h['sales'].iloc[-2] / 1e6 if len(h) >= 2 else rev
+    if num in _BS.index:
+        b = _BS.loc[num].fillna(0)
+        cash, debt = b['cash'] / 1e6, (b['bank_debt'] + b['leases_hp'] + b['shareholder_or_group_loans']) / 1e6
+        capex = b['capex'] / 1e6
+    else:
+        cash, debt, capex = BEACON_BS['cash'], BEACON_BS['debt'], BEACON_BS['capex']
+    da = {'13433533': 0.152, 'SC492820': 0.241, '04186486': BEACON_BS['da']}[num]   # depreciation in the same accounts
+    lo, mid, hi = t['price_range']['low'], t['price_range']['mid'], t['price_range']['high']
+    return dict(name=name, rev=round(rev, 3), rev_prior=round(rev_prior, 3), ebitda=round(e_rep, 3), qoe=round(e_norm - e_rep, 3),
+                da=da, capex=round(capex, 3), cash=round(cash, 3), debt=round(debt, 3),
+                growth=0.06, margin=round(e_norm / rev, 3), capex_pct=round(max(capex / rev, 0.002), 3), da_pct=round(da / rev, 3),
+                nwc=0.05, fx=1.0, fy=fy, mult=(lo, mid, hi), lev=t['debt_turns'], kind=t['label'],
+                src=f"{src} Turnover £{rev:.2f}m, reported EBITDA £{e_rep:.2f}m, cash £{cash:.2f}m, borrowings and leases £{debt:.2f}m. "
+                    f"Live rank {int(r['rank'])} of the ranking; business type {t['label'].lower()} (price range {lo:.0f}-{hi:.0f}x, debt {t['debt_turns']:.1f}x).",
+                note=note)
+
+
+COS = [_company(*p) for p in PICK]
 YEARS = 5
 
 def build_assumptions(wb):
@@ -31,9 +56,9 @@ def build_assumptions(wb):
     title(ws, 'Valuation assumptions (blue = input, yellow = key lever)', 'Change any blue cell and the Valuation sheet recalculates. Every figure has a source or a stated reason.')
     rows = [
         ('Price range (EV / EBITDA)', None, None, None),
-        ('Entry multiple: low', 6.5, '0.0"x"', 'Listed telecom services trade at about 6.5x (Damodaran, Jan 2026). Illustrative floor.'),
-        ('Entry multiple: base', 8.0, '0.0"x"', 'Below the 8.9x median for UK deals under £100m in TMT, LTM to Sep 2026 (MarktoMarket via Alinea, Autumn 2026).'),
-        ('Walk-away multiple', 9.0, '0.0"x"', 'Thesis price discipline: above ~9x a bolt-on costs platform money and the buy-and-build arbitrage disappears.'),
+        ('Default price range: low', 6.0, '0.0"x"', 'Repeat-revenue services: Gamma traded at about 6x before its bid; UK private deals under £250m median 6.2x (H1 2025). Each company has its own range on the Models sheet.'),
+        ('Default price range: middle', 7.0, '0.0"x"', 'Between Gamma before its bid (about 6x) and the Epiris take-private (about 7.6x, Sept 2026).'),
+        ('Default price range: high', 8.0, '0.0"x"', 'SPIE trades at about 8x; above this the buy-and-build arbitrage disappears.'),
         ('Discount rate (WACC build)', None, None, None),
         ('Risk-free rate', 0.045, PCT, 'UK 10-year gilt, approximate (assumption; check current yield).'),
         ('Equity risk premium', 0.055, PCT, 'Assumption: common UK range 5-6%.'),
@@ -47,8 +72,8 @@ def build_assumptions(wb):
         ('Terminal growth (Gordon cross-check)', 0.02, PCT, 'Assumption: long-run UK nominal growth, conservative.'),
         ('Exit multiple (held flat to base entry)', '=C6', '0.0"x"', 'Thesis rule: exit held flat to entry; any expansion is upside.'),
         ('Buyout (LBO) structure', None, None, None),
-        ('Senior debt at entry (x EBITDA)', 3.5, '0.0"x"', 'Assumption: typical for contracted UK lower mid-market; test against the debt cover check.'),
-        ('Interest rate on debt', 0.09, PCT, 'Assumption: SONIA plus margin for small private credit.'),
+        ('Default senior debt at entry (x EBITDA)', 3.0, '0.0"x"', 'As in the website price check (2.5x for project contractors); each company has its own on the Models sheet.'),
+        ('Interest rate on debt', 0.085, PCT, 'As in the website price check: SONIA plus a margin for small private credit.'),
         ('Transaction fees (% of EV)', 0.03, PCT, 'Assumption.'),
         ('Hold period (years)', 5, '0', 'Fixed at 5 years in this model.'),
         ('Target IRR (hurdle)', 0.20, PCT, 'Assumption: typical lower mid-market buyout hurdle.'),
@@ -61,8 +86,8 @@ def build_assumptions(wb):
         a.font = font()
         c = ws.cell(row=i, column=3, value=val)
         is_input = not (isinstance(val, str) and val.startswith('='))
-        c.font = font(BLUE if is_input else BLACK, bold=lab in ('Entry multiple: base', 'Walk-away multiple', 'WACC'))
-        if lab in ('Entry multiple: base', 'Walk-away multiple', 'Senior debt at entry (x EBITDA)', 'Target IRR (hurdle)'):
+        c.font = font(BLUE if is_input else BLACK, bold=lab in ('WACC',))
+        if lab in ('Target IRR (hurdle)',):
             c.fill = PatternFill('solid', fgColor=YELLOW)
         c.number_format = fmt
         ws.cell(row=i, column=4, value=why).font = font(size=9, color='595959', italic=True)
@@ -96,12 +121,18 @@ def build_models(wb):
             ('D&A, % of turnover', co['da_pct'], 'da'),
             ('Capex, % of turnover', co['capex_pct'], 'cx'),
             ('Working capital, % of turnover', co['nwc'], 'nwc'),
+            ('Price range: low (x EBITDA)', co['mult'][0], 'ml'),
+            ('Price range: middle, used to buy and to sell (x EBITDA)', co['mult'][1], 'mm'),
+            ('Price range: high (x EBITDA)', co['mult'][2], 'mh'),
+            ('Senior debt at entry (x EBITDA)', co['lev'], 'lev'),
         ]
         cell = {}
         for lab, val, key in inputs:
             ws.cell(row=r, column=2, value=lab).font = font()
             c = ws.cell(row=r, column=3, value=round(val, 4)); c.font = font(BLUE)
-            c.number_format = PCT if key in ('g', 'm', 'da', 'cx', 'nwc') else '#,##0.00;(#,##0.00);-'
+            c.number_format = PCT if key in ('g', 'm', 'da', 'cx', 'nwc') else '0.0"x"' if key in ('ml', 'mm', 'mh', 'lev') else '#,##0.00;(#,##0.00);-'
+            if key in ('mm', 'lev'):
+                c.fill = PatternFill('solid', fgColor=YELLOW)
             if key == 'rev':
                 c.comment = Comment(co['src'], 'Screener')
             if key == 'qoe' and co['qoe']:
@@ -155,7 +186,7 @@ def build_models(wb):
             cell[key] = f'$C${r}'; r += 1
         Y = col(YEARS)
         kv('Sum of PV of free cash flow', f"=SUM(D{rows['pv']}:{Y}{rows['pv']})", '#,##0.00', 'sumpv')
-        kv('Terminal value (exit multiple)', f"={Y}{rows['ebitda']}*{A['exitm']}", '#,##0.00', 'tv')
+        kv('Terminal value (exit at the middle multiple, held flat)', f"={Y}{rows['ebitda']}*{cell['mm']}", '#,##0.00', 'tv')
         kv('PV of terminal value', f"={cell['tv']}*{Y}{rows['df']}", '#,##0.00', 'pvtv')
         kv('DCF enterprise value', f"={cell['sumpv']}+{cell['pvtv']}", '#,##0.00', 'dcf', bold=True)
         kv('Implied EV / EBITDA', f"=IFERROR({cell['dcf']}/{cell['adj']},0)", '0.0"x"', 'dcfm')
@@ -163,9 +194,9 @@ def build_models(wb):
         kv('Gordon cross-check EV', f"={cell['sumpv']}+{Y}{rows['fcf']}*(1+{A['g']})/({A['wacc']}-{A['g']})*{Y}{rows['df']}", '#,##0.00', 'gordon')
         r += 1
         # LBO
-        ws.cell(row=r, column=2, value='Buyout check at base entry multiple').font = font(bold=True, color=TEAL); r += 1
-        kv('Entry EV (base multiple x adjusted EBITDA)', f"={cell['adj']}*{A['base']}", '#,##0.00', 'ev0')
-        kv('Senior debt raised', f"={cell['adj']}*{A['lev']}", '#,##0.00', 'd0')
+        ws.cell(row=r, column=2, value='Buyout check: buy at the middle multiple, sell at the same multiple after 5 years').font = font(bold=True, color=TEAL); r += 1
+        kv('Entry EV (middle multiple x adjusted EBITDA)', f"={cell['adj']}*{cell['mm']}", '#,##0.00', 'ev0')
+        kv('Senior debt raised', f"={cell['adj']}*{cell['lev']}", '#,##0.00', 'd0')
         kv('Sponsor equity (EV + fees - debt; cash-free, debt-free)', f"={cell['ev0']}*(1+{A['fees']})-{cell['d0']}", '#,##0.00', 'eq0')
         lbo_hdr = r
         for y in range(YEARS + 1):
@@ -178,9 +209,10 @@ def build_models(wb):
         line('Debt, closing (cash sweep)', 'dclose', f"={cell['d0']}", lambda y: f"=MAX(0,{col(y)}{rows['dopen']}-MAX(0,{col(y)}{rows['avail']}))")
         line('Leverage (closing debt / EBITDA)', 'levx', f"=IFERROR(C{r}/C{rows['ebitda']},0)".replace(f'C{r}/', f"C{r-1}/"), lambda y: f"=IFERROR({col(y)}{rows['dclose']}/{col(y)}{rows['ebitda']},0)", fmt='0.0"x"')
         line('Interest cover ((EBITDA - capex - tax) / interest)', 'cov', None, lambda y: f"=IFERROR(({col(y)}{rows['ebitda']}+{col(y)}{rows['cx']}+{col(y)}{rows['tax']})/{col(y)}{rows['int']},99)", fmt='0.0"x"')
+        line('Cash built up once debt is repaid', 'cash', '=0', lambda y: f"={col(y-1)}{r}+MAX(0,{col(y)}{rows['avail']}-{col(y)}{rows['dopen']})")
         r += 1
-        kv('Exit EV (exit multiple x Year 5 EBITDA)', f"={Y}{rows['ebitda']}*{A['exitm']}", '#,##0.00', 'ev5')
-        kv('Exit equity (EV - debt + 0 cash)', f"={cell['ev5']}-{Y}{rows['dclose']}", '#,##0.00', 'eq5')
+        kv('Exit EV (middle multiple x Year 5 EBITDA)', f"={Y}{rows['ebitda']}*{cell['mm']}", '#,##0.00', 'ev5')
+        kv('Exit equity (EV - debt + cash built up, as in the website price check)', f"={cell['ev5']}-{Y}{rows['dclose']}+{Y}{rows['cash']}", '#,##0.00', 'eq5')
         kv('MOIC', f"=IFERROR({cell['eq5']}/{cell['eq0']},0)", '0.00"x"', 'moic', bold=True)
         kv('IRR (5-year hold, no interim dividends)', f"=IFERROR({cell['moic']}^(1/5)-1,0)", PCT, 'irr', bold=True)
         kv('Lowest interest cover over the hold', f"=MIN(D{rows['cov']}:{Y}{rows['cov']})", '0.0"x"', 'mincov')
@@ -196,14 +228,14 @@ def build_models(wb):
 
 def build_valuation(wb, out):
     ws = wb.create_sheet('Valuation', 1)
-    title(ws, 'Valuation check: top 5 (illustrative)', 'Price range, DCF and a buyout (LBO) check for each company. All values in £m. Links to Models and Assumptions; nothing is typed in here.')
-    hdr = ['Company', 'Turnover (£m)', 'Adj. EBITDA (£m)', 'Adj. margin', 'Net debt (£m)', 'EV at low (£m)', 'EV at base (£m)', 'EV at walk-away (£m)',
+    title(ws, 'Valuation check: the three realistic mid-market targets (illustrative)', 'VEA, Clarus and Beacon: the top-ten companies a mid-market buyer could approach today. Price range, DCF and a buyout (LBO) check, in £m. Links to Models and Assumptions; nothing is typed in here.')
+    hdr = ['Company', 'Turnover (£m)', 'Adj. EBITDA (£m)', 'Adj. margin', 'Net debt (£m)', 'EV at low (£m)', 'EV at middle (£m)', 'EV at high (£m)',
            'DCF EV (£m)', 'DCF EV / EBITDA', 'Buyout IRR', 'Buyout MOIC', 'Lowest interest cover', 'Max entry multiple for hurdle', 'Verdict']
     header_row(ws, 4, hdr)
     for i, co in enumerate(COS):
         r = 5 + i; c = out[co['name']]; M = lambda k: f"=Models!{c[k]}"
         vals = [co['name'], M('rev'), M('adj'), f"=Models!{c['adj']}/Models!{c['rev']}", M('nd'),
-                f"=Models!{c['adj']}*{A['low']}", f"=Models!{c['adj']}*{A['base']}", f"=Models!{c['adj']}*{A['walk']}",
+                f"=Models!{c['adj']}*Models!{c['ml']}", f"=Models!{c['adj']}*Models!{c['mm']}", f"=Models!{c['adj']}*Models!{c['mh']}",
                 M('dcf'), M('dcfm'), M('irr'), M('moic'), M('mincov'), M('maxm')]
         fmts = [None, '#,##0.0', '#,##0.0', PCT, '#,##0.0;(#,##0.0);-', '#,##0.0', '#,##0.0', '#,##0.0', '#,##0.0', '0.0"x"', PCT, '0.00"x"', '0.0"x"', '0.0"x"']
         for j, (v, fmt) in enumerate(zip(vals, fmts), 1):
@@ -211,13 +243,13 @@ def build_valuation(wb, out):
             if fmt: cl.number_format = fmt
             cl.border = BOX
         ws.cell(row=r, column=15, value=f'=IF(AND(K{r}>={A["hurdle"]},M{r}>={A["mincov"]}),"Clears hurdle at base price",IF(K{r}>={A["hurdle"]},"Returns OK, debt too heavy","Below hurdle at base price"))').border = BOX
-    ws['A11'] = 'How to read this'; ws['A11'].font = font(bold=True, color=TEAL)
-    notes = ['EV = enterprise value (price for the whole business, before debt). Low / base / walk-away use the multiples on the Assumptions sheet.',
-             'DCF EV values five years of cash flow plus an exit value at the base multiple (held flat, as the thesis requires).',
-             'Buyout IRR and MOIC: buy at the base multiple with senior debt, repay debt from cash flow, sell after 5 years at the same multiple.',
-             'Max entry multiple for hurdle: the highest price (EV / EBITDA) at which the buyout still earns the target IRR. Compare it with the walk-away multiple.',
+    ws['A10'] = 'How to read this'; ws['A10'].font = font(bold=True, color=TEAL)
+    notes = ['EV = enterprise value (price for the whole business, before debt). Low / middle / high use each company\'s price range on the Models sheet, set by its business type as on the website: contractors 5-7x (VEA, Beacon), recurring services 6-8x (Clarus).',
+             'DCF EV values five years of cash flow plus an exit value at the middle multiple (held flat, as the thesis requires).',
+             'Buyout IRR and MOIC: buy at the middle multiple with senior debt (2.5x EBITDA for contractors, 3.0x for services), repay debt from cash flow, sell after 5 years at the same multiple.',
+             'Max entry multiple for hurdle: the highest price (EV / EBITDA) at which the buyout still earns the target IRR. Compare it with the price range.',
              'Illustrative only: projections are simple percentage assumptions, not management forecasts. Public data only; not investment advice.']
-    for i, t in enumerate(notes, 12):
+    for i, t in enumerate(notes, 11):
         ws.cell(row=i, column=1, value=t).font = font(size=9, color='595959')
     for i, w in enumerate([24, 11, 11, 10, 11, 11, 11, 13, 11, 11, 10, 10, 12, 14, 28], 1):
         ws.column_dimensions[get_column_letter(i)].width = w

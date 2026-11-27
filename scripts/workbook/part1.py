@@ -50,7 +50,9 @@ def build_scorecard(wb, R, C):
         c = ws.cell(row=5, column=col, value=W[k]); c.font = font(BLUE, bold=True); c.fill = PatternFill('solid', fgColor=YELLOW)
         c.alignment = Alignment(horizontal='center')
         c.comment = Comment(f'Source: config/thesis/digital.json. {C["scoring_notes"][k]}', 'Screener')
-    ws.cell(row=5, column=4 + len(keys), value='=SUM(D5:I5)').font = font(bold=True)
+    n = len(keys); L = get_column_letter
+    SC, RK, AC, RB = 4 + n, 5 + n, 6 + n, 7 + n   # score, rank, accessibility, revenue basis columns
+    ws.cell(row=5, column=4 + n, value=f'=SUM(D5:{L(3 + n)}5)').font = font(bold=True)
     ws.cell(row=4, column=4 + len(keys), value='Total').font = font(bold=True, size=9)
     ws['A5'] = 'Edit the yellow cells to re-weight'; ws['A5'].font = font(color='595959', italic=True, size=9)
     hdr = ['Company', 'Company no.', 'Fit'] + [f'{k.replace("_", " ").capitalize()} (0-1)' for k in keys] + ['Score /100', 'Rank', 'Accessibility', 'Revenue visibility basis']
@@ -64,16 +66,16 @@ def build_scorecard(wb, R, C):
         for j, k in enumerate(keys):
             c = ws.cell(row=row, column=4 + j, value=round(float(r[f'pts_{k}']) / W[k], 3) if W[k] else 0)
             c.font = font(BLUE); c.number_format = '0.00'
-        ws.cell(row=row, column=10, value=f'=SUMPRODUCT(D{row}:I{row},$D$5:$I$5)').number_format = '0.0'
-        ws.cell(row=row, column=11, value=f'=RANK(J{row},$J${first}:$J${first + len(R) - 1})')
-        ws.cell(row=row, column=12, value=r['accessibility'])
-        ws.cell(row=row, column=13, value=r['revenue_visibility_basis'])
-        for col in range(1, 14):
+        ws.cell(row=row, column=SC, value=f'=SUMPRODUCT(D{row}:{L(3 + n)}{row},$D$5:${L(3 + n)}$5)').number_format = '0.0'
+        ws.cell(row=row, column=RK, value=f'=RANK({L(SC)}{row},${L(SC)}${first}:${L(SC)}${first + len(R) - 1})')
+        ws.cell(row=row, column=AC, value=r['accessibility'])
+        ws.cell(row=row, column=RB, value=r['revenue_visibility_basis'])
+        for col in range(1, RB + 1):
             ws.cell(row=row, column=col).border = BOX
             if ws.cell(row=row, column=col).font.color is None or ws.cell(row=row, column=col).font.color.rgb in (None, 'FF000000'):
-                ws.cell(row=row, column=col).font = font(BLUE if 4 <= col <= 9 else BLACK)
+                ws.cell(row=row, column=col).font = font(BLUE if 4 <= col <= 3 + n else BLACK)
     last = first + len(R) - 1
-    widths = [34, 11, 10, 11, 11, 11, 11, 11, 11, 10, 7, 46, 30]
+    widths = [34, 11, 10] + [11] * n + [10, 7, 46, 30]
     for i, w in enumerate(widths, 1):
         ws.column_dimensions[get_column_letter(i)].width = w
     ws.freeze_panes = 'B8'
@@ -101,9 +103,10 @@ def build_shortlist(wb, R, first, last):
         row = 4 + k
         ws.cell(row=row, column=1, value=k)
         # find company number with rank k on Scorecard
-        m = f'MATCH({k},Scorecard!$K${first}:$K${last},0)'
+        nk = len([c for c in R.columns if c.startswith('pts_')]); SCL, RKL, ACL = get_column_letter(4 + nk), get_column_letter(5 + nk), get_column_letter(6 + nk)
+        m = f'MATCH({k},Scorecard!${RKL}${first}:${RKL}${last},0)'   # score, rank and accessibility columns follow the criteria
         ws.cell(row=row, column=2, value=f'=INDEX(Scorecard!$A${first}:$A${last},{m})').font = font(GREEN)
-        ws.cell(row=row, column=3, value=f'=INDEX(Scorecard!$J${first}:$J${last},{m})').font = font(GREEN)
+        ws.cell(row=row, column=3, value=f'=INDEX(Scorecard!${SCL}${first}:${SCL}${last},{m})').font = font(GREEN)
         ws.cell(row=row, column=3).number_format = '0.0'
         ws.cell(row=row, column=4, value=f'=INDEX(Scorecard!$C${first}:$C${last},{m})').font = font(GREEN)
         key = f'INDEX(Scorecard!$B${first}:$B${last},{m})'
@@ -112,7 +115,7 @@ def build_shortlist(wb, R, first, last):
         for col, dcol, fmt in spec:
             c = ws.cell(row=row, column=col, value=lk(dcol)); c.font = font(GREEN)
             if fmt: c.number_format = fmt
-        ws.cell(row=row, column=12, value=f'=INDEX(Scorecard!$L${first}:$L${last},{m})').font = font(GREEN)
+        ws.cell(row=row, column=12, value=f'=INDEX(Scorecard!${ACL}${first}:${ACL}${last},{m})').font = font(GREEN)
         ws.cell(row=row, column=13, value=lk('J')).font = font(GREEN)
         ws.cell(row=row, column=14, value=lk('K')).font = font(GREEN)
         for col in range(1, 15):
