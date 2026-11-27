@@ -35,11 +35,26 @@ NETWORK = re.compile(r'telecom|network|fibre|fiber|broadband|connectivity|data c
 
 
 def list_companies():
-    page = requests.get('https://download.companieshouse.gov.uk/en_output.html', timeout=60).text
-    link = re.search(r'href="(BasicCompanyDataAsOneFile-[\d-]+\.zip)"', page).group(1)
-    snapshot = re.search(r'(\d{4}-\d{2}-\d{2})', link).group(1)
-    print('Downloading', link, flush=True)
-    raw = requests.get('https://download.companieshouse.gov.uk/' + link, timeout=1800).content
+    page = ''
+    try:
+        page = requests.get('https://download.companieshouse.gov.uk/en_output.html', timeout=60).text
+    except requests.RequestException as e:
+        print('Index page not reachable:', e)
+    found = re.findall(r'BasicCompanyDataAsOneFile-(\d{4}-\d{2}-\d{2})\.zip', page)
+    today = datetime.date.today()
+    tries = sorted(set(found), reverse=True) + [today.replace(day=1).isoformat(),
+                                                (today.replace(day=1) - datetime.timedelta(days=1)).replace(day=1).isoformat()]
+    raw = None
+    for snapshot in tries:
+        url = f'https://download.companieshouse.gov.uk/BasicCompanyDataAsOneFile-{snapshot}.zip'
+        print('Trying', url, flush=True)
+        r = requests.get(url, timeout=1800)
+        if r.status_code == 200 and r.content[:2] == b'PK':
+            raw = r.content
+            break
+    if raw is None:
+        print('Could not download the free company data product. Index page starts:', page[:500])
+        raise SystemExit(1)
     z = zipfile.ZipFile(io.BytesIO(raw))
     name = z.namelist()[0]
     codes = {c: seg for seg, cs in EXTRA.items() for c in cs}
