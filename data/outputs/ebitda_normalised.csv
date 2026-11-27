@@ -8,9 +8,7 @@ CompanyNumber,ebitda_reported,basis_reported,ebitda_normalised,adjustments,not_a
 05306504,,Not available,,,,False,
 08772997,,Not available,,,,False,
 04686010,,Not available,,,,False,
-05361794,,Not available,,,,False,
 08203105,,Not available,,,,False,
-05479601,,Not available,,,,False,
 03208975,,Not available,,,,False,
 SC145376,,Not available,,,,False,
 11816413,,Not available,,,,False,
@@ -82,6 +80,7 @@ NI614374,891948.0,Operating profit + D&A,891948.0,,R4 exceptional item of about 
 02652955,377399.0,Operating profit + D&A (checked against the filing),377399.0,,R4 exceptional item of about £0.33m in the accounts: not applied until checked,False,
 09180490,412273.0,ESTIMATE: operating profit only (no D&A tagged),868427.0,R0 D&A of £0.46m from the fixed-asset notes of the tagged accounts added,,False,Operating profit + D&A (D&A from the fixed-asset notes)
 06968249,2762319.0,"ESTIMATE: operating profit only (OCR, no D&A found)",2762319.0,,,False,
+NI624452,832717.0,Operating profit + D&A (OCR),832717.0,,,False,
 08709631,4908675.0,Operating profit + D&A (OCR),4908675.0,,,False,
 06011062,2473621.0,Operating profit + D&A,2473621.0,,,False,
 02296733,2044387.0,Operating profit + D&A (OCR),2044387.0,,,False,
@@ -93,13 +92,11 @@ NI624500,3895937.0,Operating profit + D&A,3895937.0,,,False,
 03368473,1784248.0,Operating profit + D&A,1784248.0,,,False,
 12421328,1339695.0,Operating profit + D&A (OCR),1339695.0,,,False,
 03752620,2727403.0,Operating profit + D&A (checked against the filing),2727403.0,,,False,
-12027048,148519.0,ESTIMATE: operating profit only (no D&A tagged),680168.0,R0 D&A of £0.53m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 SC211701,470855.0,Operating profit + D&A (OCR),241015.0,R1 R&D tax credit of £0.23m taken out,R4 exceptional item of about £0.89m in the accounts: not applied until checked,True,
 02697046,58186.0,Operating profit + D&A (OCR),58186.0,,,False,
 10902222,4501268.0,Operating profit + D&A (OCR),4501268.0,,,False,
 05556360,2875919.0,Operating profit + D&A,2875919.0,,,False,
 02946493,276198.0,Operating profit + D&A,276198.0,,,False,
-13576894,224974.0,ESTIMATE: operating profit only (no D&A tagged),263068.0,R0 D&A of £0.04m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 04560277,1382000.0,Operating profit + D&A (OCR),1382000.0,,R4 exceptional item of about £0.40m in the accounts: not applied until checked,False,
 07020016,1124277.0,Operating profit + D&A (checked against the filing),1124277.0,,,False,
 04632756,1520142.0,Operating profit + D&A (checked against the filing),1520142.0,,,False,
@@ -119,13 +116,11 @@ NI655901,-17351071.0,"ESTIMATE: operating profit only (OCR, no D&A found)",-1572
 14219520,-10101161.0,ESTIMATE: operating profit only (no D&A tagged),-6463441.0,R0 D&A of £3.64m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 11641366,-1188421.0,ESTIMATE: operating profit only (no D&A tagged),445948.0,R0 D&A of £1.63m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 13930218,-1141964.0,ESTIMATE: operating profit only (no D&A tagged),-682971.0,R0 D&A of £0.46m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
-09966402,-14523159.0,ESTIMATE: operating profit only (no D&A tagged),-14410874.0,R0 D&A of £0.11m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 07412021,-1082441.0,ESTIMATE: operating profit only (no D&A tagged),-192596.0,R0 D&A of £0.89m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 05823408,-10224242.0,Operating profit + D&A (OCR),-10224242.0,,R4 exceptional item of about £3.56m in the accounts: not applied until checked,False,
 04128539,-138749.0,Operating profit + D&A,-138749.0,,,False,
 09931232,-21429976.0,ESTIMATE: operating profit only (no D&A tagged),-20749202.0,R0 D&A of £0.68m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 09980752,-7386000.0,Operating profit + D&A (OCR),-7386000.0,,,False,
-SC328828,-2846806.0,ESTIMATE: operating profit only (no D&A tagged),-1696361.0,R0 D&A of £1.34m read from the accounts text added; R1 R&D tax credit of £0.19m taken out,,True,Operating profit + D&A (D&A read from the text)
 04047798,-1347761.0,ESTIMATE: operating profit only (no D&A tagged),-1238041.0,R0 D&A of £0.11m from the fixed-asset notes of the tagged accounts added,,False,Operating profit + D&A (D&A from the fixed-asset notes)
 07867043,-892033.0,ESTIMATE: operating profit only (no D&A tagged),2217584.0,R0 D&A of £3.11m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 10285348,-9551000.0,ESTIMATE: operating profit only (no D&A tagged),-9551000.0,,,False,
@@ -136,6 +131,5 @@ SC196409,-27967.0,ESTIMATE: operating profit only (no D&A tagged),-27967.0,,,Fal
 SC161678,-1402532.0,ESTIMATE: operating profit only (no D&A tagged),-191772.0,R0 D&A of £1.21m read from the accounts text added,,False,Operating profit + D&A (D&A read from the text)
 06345316,-404553.0,Operating profit + D&A (OCR),-404553.0,,,False,
 02346249,-138704.0,ESTIMATE: operating profit only (no D&A tagged),-84632.0,R0 D&A of £0.05m from the fixed-asset notes of the tagged accounts added,,False,Operating profit + D&A (D&A from the fixed-asset notes)
-01403177,-1826096.0,Operating profit + D&A,-1826096.0,,,False,
 02097097,-444858.0,Operating profit + D&A (OCR),-444858.0,,,False,
 01375726,-585184.0,ESTIMATE: operating profit only (no D&A tagged),-249476.0,R0 D&A of £0.34m read from the accounts text added,R4 exceptional item of about £0.07m in the accounts: not applied until checked,False,Operating profit + D&A (D&A read from the text)
