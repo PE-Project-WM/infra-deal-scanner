@@ -1,0 +1,1526 @@
+=== page 1 ===
+GCU (UK) Limited - Limited company accounts 25.1
+IRIS Accounts Production
+v25.1.4.42
+NI620995
+director
+1.11.23
+31.10.24
+31.10.24
+true
+false
+true
+true
+false
+false
+true
+false
+Ordinary Shares
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+NI620995
+2023-10-31
+NI620995
+2024-10-31
+NI620995
+2023-11-01
+2024-10-31
+NI620995
+2022-10-31
+NI620995
+2022-11-01
+2023-10-31
+NI620995
+2023-10-31
+NI620995
+ns15:NorthernIreland
+2023-11-01
+2024-10-31
+NI620995
+ns14:PoundSterling
+2023-11-01
+2024-10-31
+NI620995
+ns10:Director1
+2023-11-01
+2024-10-31
+NI620995
+ns10:PrivateLimitedCompanyLtd
+2023-11-01
+2024-10-31
+NI620995
+ns10:FRS102
+2023-11-01
+2024-10-31
+NI620995
+ns10:Audited
+2023-11-01
+2024-10-31
+NI620995
+ns10:LargeCompaniesRegimeForDirectorsReport
+2023-11-01
+2024-10-31
+NI620995
+ns10:LargeCompaniesRegimeForAccounts
+2023-11-01
+=== page 2 ===
+2024-10-31
+NI620995
+ns10:FullAccounts
+2023-11-01
+2024-10-31
+NI620995
+ns10:OrdinaryShareClass1
+2023-11-01
+2024-10-31
+NI620995
+ns10:RegisteredOffice
+2023-11-01
+2024-10-31
+NI620995
+ns5:CurrentFinancialInstruments
+2024-10-31
+NI620995
+ns5:CurrentFinancialInstruments
+2023-10-31
+NI620995
+ns5:Non-currentFinancialInstruments
+2024-10-31
+NI620995
+ns5:Non-currentFinancialInstruments
+2023-10-31
+NI620995
+ns5:ShareCapital
+2024-10-31
+NI620995
+ns5:ShareCapital
+2023-10-31
+NI620995
+ns5:RetainedEarningsAccumulatedLosses
+2024-10-31
+NI620995
+ns5:RetainedEarningsAccumulatedLosses
+2023-10-31
+NI620995
+ns5:ShareCapital
+2022-10-31
+NI620995
+ns5:RetainedEarningsAccumulatedLosses
+2022-10-31
+NI620995
+ns5:RetainedEarningsAccumulatedLosses
+2022-11-01
+2023-10-31
+NI620995
+ns5:RetainedEarningsAccumulatedLosses
+2023-11-01
+2024-10-31
+NI620995
+1
+2023-11-01
+2024-10-31
+NI620995
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2023-11-01
+2024-10-31
+NI620995
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2022-11-01
+2023-10-31
+NI620995
+ns5:OwnedAssets
+2023-11-01
+2024-10-31
+NI620995
+ns5:OwnedAssets
+2022-11-01
+=== page 3 ===
+2023-10-31
+NI620995
+1
+2023-11-01
+2024-10-31
+NI620995
+1
+2022-11-01
+2023-10-31
+NI620995
+3
+2023-11-01
+2024-10-31
+NI620995
+3
+2022-11-01
+2023-10-31
+NI620995
+ns5:HirePurchaseContracts
+2023-11-01
+2024-10-31
+NI620995
+ns5:HirePurchaseContracts
+2022-11-01
+2023-10-31
+NI620995
+ns10:OrdinaryShareClass1
+2022-11-01
+2023-10-31
+NI620995
+ns5:PlantMachinery
+2023-10-31
+NI620995
+ns5:FurnitureFittings
+2023-10-31
+NI620995
+ns5:PlantMachinery
+2023-11-01
+2024-10-31
+NI620995
+ns5:FurnitureFittings
+2023-11-01
+2024-10-31
+NI620995
+ns5:PlantMachinery
+2024-10-31
+NI620995
+ns5:FurnitureFittings
+2024-10-31
+NI620995
+ns5:PlantMachinery
+2023-10-31
+NI620995
+ns5:FurnitureFittings
+2023-10-31
+NI620995
+ns5:UnlistedNon-exchangeTraded
+ns5:CostValuation
+2023-10-31
+NI620995
+ns5:AdditionsToInvestments
+ns5:UnlistedNon-exchangeTraded
+2024-10-31
+NI620995
+ns5:UnlistedNon-exchangeTraded
+ns5:RevaluationsIncreaseDecreaseInInvestments
+2024-10-31
+NI620995
+ns5:UnlistedNon-exchangeTraded
+ns5:CostValuation
+=== page 4 ===
+2024-10-31
+NI620995
+ns5:UnlistedNon-exchangeTraded
+2024-10-31
+NI620995
+ns5:UnlistedNon-exchangeTraded
+2023-10-31
+NI620995
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-10-31
+NI620995
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2023-10-31
+NI620995
+ns5:CurrentFinancialInstruments
+2023-11-01
+2024-10-31
+NI620995
+ns5:DeferredTaxation
+2023-10-31
+NI620995
+ns5:OtherProvisionsContingentLiabilities
+2023-10-31
+NI620995
+ns5:DeferredTaxation
+2023-11-01
+2024-10-31
+NI620995
+ns5:OtherProvisionsContingentLiabilities
+2023-11-01
+2024-10-31
+NI620995
+ns5:DeferredTaxation
+2024-10-31
+NI620995
+ns5:OtherProvisionsContingentLiabilities
+2024-10-31
+NI620995
+ns10:OrdinaryShareClass1
+2024-10-31
+REGISTERED NUMBER: 
+NI620995
+(Northern Ireland) 
+GCU (UK) LIMITED
+Strategic Report, Director's Report and
+ Financial Statements for the Year Ended 31 October 2024
+CavanaghKelly
+Chartered Accountants and Statutory Auditors
+36-38 Northland Row
+Dungannon
+Co. Tyrone
+BT71 6AP
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Contents of the Financial Statements
+FOR THE YEAR ENDED 31 OCTOBER 2024
+Page
+Company Information  
+1
+Strategic Report  
+2
+Director's Report  
+4
+Independent Auditors' Report  
+6
+Income Statement  
+10
+Statement of Financial Position  
+11
+=== page 5 ===
+Statement of Changes in Equity  
+12
+Notes to the Financial Statements 
+13
+GCU (UK) LIMITED
+Company Information
+FOR THE YEAR ENDED 31 OCTOBER 2024
+DIRECTOR:
+John Gallagher
+REGISTERED OFFICE:
+Unit 6 Pennyburn Industrial Estate
+Derry
+BT48 0LU
+REGISTERED NUMBER:
+NI620995
+(Northern Ireland) 
+INDEPENDENT AUDITORS
+:
+CavanaghKelly
+Chartered Accountants and Statutory Auditors
+36-38 Northland Row
+Dungannon
+Co. Tyrone
+BT71 6AP
+BANKERS:
+Santander UK Plc
+Ground Floor
+Welfare Block B
+Bridle Road
+Bootle
+Merseyside
+L30 4YD
+1
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Strategic Report
+FOR THE YEAR ENDED 31 OCTOBER 2024
+The director presents his strategic report for the year ended 31 October 2024. 
+PRINCIPAL ACTIVITIES
+The company's principal activities during the year were that of the delivery, supply and installation of civil 
+and telecommunication projects.
+REVIEW OF BUSINESS AND FUTURE DEVELOPMENTS
+The Director is satisfied with the trading performance for the year ended 31 October 2024 and the 
+company remains in a sound financial position at the year end.
+The Director considers that the key performance indicators are those that communicate the financial 
+performance and strengths as a whole, being revenue, gross profit margin and operating profit as 
+provided below.
+Revenue for the year has decreased by 34.15% to £42,366,827 (2023: £64,336,583). The gross profit 
+has decreased from £16,158,440 to £12,930,146, with gross profit margin increasing from 25.11% to 
+30.52%. Operating profit has decreased from £5,287,151 in 2023 to £4,236,274. The director is satisfied 
+with the results in the year.
+PRINCIPAL RISKS AND UNCERTAINTIES
+The management of the business and the execution of the company's strategy are subject to a number of 
+risks. The key business risks and uncertainties affecting the company relate to competition within the 
+industry, controlling costs and maintaining sales levels.
+The company's management endeavours to mitigate these risks by implementing regular strategic and 
+operational reviews.
+SECTION 172(1) STATEMENT
+The director has acted in a way that they considered, in good faith, to be most likely to promote the 
+success of the company for the benefit of its members as a whole, and in doing so had regard, amongst 
+other matters, to:
+a) the likely consequences of any decision in the long term;
+b) the interests of the company's employees;
+c) the need to foster the company's business relationships with suppliers, customers and others;
+d) the impact of the company's operations on the community and the environment;
+e) the desirability of the company maintaining a reputation for high standards of business conduct; and
+f) the need to act fairly as between members of the company.
+The director has had regard to the matters set out in sections 172(1)(a)-(f) when discharging their 
+section 172 duties.
+Refer to the Principal risks and uncertainties section in the Strategic Report for further information 
+concerning company initiatives relating to the performance of the director S172 duties.
+=== page 6 ===
+2
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Strategic Report
+FOR THE YEAR ENDED 31 OCTOBER 2024
+KEY PERFORMANCE INDICATORS
+The Key Performance Indicators during the year were as follows:
+2024
+2023
+£
+£
+Revenue
+£42,366,827
+£64,336,583
+Gross Profit
+£12,930,146
+£16,158,440
+Gross profit percentage
+30.52%
+25.1%
+Average number of employees
+78
+116
+ENVIRONMENT
+The company recognises its corporate responsibility to carry out its operations whilst minimising 
+environmental impacts. The directors' continued aim is to comply with all applicable environmental 
+legislation, prevent pollution and reduce waste wherever possible.
+EMPLOYEES NOTE
+The company is dependent upon the skills and commitment of its employees in order to achieve its 
+objectives. Company staff at every level are encouraged to make their fullest possible contribution to the 
+Company's success. The company's selection, training, development and promotion policies ensure equal 
+opportunities for all employees, regardless of gender, marital status, race, age or disability. All decisions 
+are based on merit.
+HEALTH & SAFETY
+The company is committed to achieving the highest practicable standards in health & safety management 
+and strives to make all sites and offices safe environments for employees and customers alike.
+HUMAN RESOURCES
+Employees are kept as fully informed as practicable about developments within the business.
+The company depends on the skills and commitment of its employees in order to achieve its objectives. 
+Staff at every level are encouraged to make their fullest possible contribution.
+Employees are kept as fully informed as practicable about developments within the business. It is the 
+policy of the company to offer opportunities to all employees having regard to their aptitudes and abilities 
+in relation to jobs available.
+FUTURE DEVELOPMENTS
+The company plans to continue its present activities and current trading levels.
+ON BEHALF OF THE BOARD:
+John Gallagher
+- Director 
+23 July 2025
+3
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Director's Report
+FOR THE YEAR ENDED 31 OCTOBER 2024
+The director presents his report with the financial statements of the Company for the year ended 31 October 2024.  
+PRINCIPAL ACTIVITY
+The company's principal activities during the year were that of the delivery, supply and installation of civil 
+and telecommunication projects.
+DIVIDENDS
+No interim dividend was paid during the year.
+The total distribution of dividends for the year ended 31 October 2024 will be £100,000.
+DIRECTOR
+John Gallagher
+held office during the whole of the period from 1 November 2023 to the date of this 
+report. 
+FINANCIAL RISK MANAGEMENT
+The company's operations expose it to a variety of financial risks that include the effects of changes in 
+price risk, foreign exchange risk and interest rate cash flow risk.
+Given the size of the company, the director has not delegated the responsibility of monitoring financial 
+risk management to a sub-committee of the board. The policies set by the director are implemented by 
+the company's finance department.
+LIQUIDITY RISK
+=== page 7 ===
+The liquidity risk is managed through a tightly controlled cash management process. Daily balances are 
+reviewed through an e-banking facility. Regular reviews of facilities are carried out to ensure sufficient 
+liquidity and the director believes they have sufficient bank facilities to reduce liquidity risk to a 
+reasonable level. The company continues to invest for the future in the business and is confident of 
+servicing all external debt within agreed terms.
+CREDIT RISK
+The company is exposed to the usual credit and cash flow risks associated with selling on credit and 
+manages these through credit control procedures. Where possible a credit check is carried out prior to 
+engagement.
+STREAMLINED ENERGY AND CARBON REPORTING
+The board and management of GCU (UK) Limited recognizes the importance of Corporate Social 
+Responsibility (CSR) initiatives and is committed to improving our working practices, protecting our 
+natural environment, reducing our carbon footprint, behaving fairly and responsibly, supporting the local 
+community and local business, and ensuring that our operations are managed and delivered as 
+sustainably as possible.
+Due to the nature of the industry in which the company operates, compounded by the commercial 
+sensitivity of these disclosures, the management team and Director consider the implications of 
+disclosing on energy and carbon information to be seriously prejudicial to the interests of the organisation 
+and as such have chosen to omit them.
+4
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Director's Report
+FOR THE YEAR ENDED 31 OCTOBER 2024
+DIRECTOR'S RESPONSIBILITIES STATEMENT
+The director is responsible for preparing the Strategic Report, the Director's Report and the financial 
+statements in accordance with applicable law and regulations. 
+Company law requires the director to prepare financial statements for each financial year.  Under that law 
+the director has elected to prepare the financial statements in accordance with United Kingdom Generally 
+Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law), including 
+Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the UK and Republic of 
+Ireland'. Under company law the director must not approve the financial statements unless he is satisfied 
+that they give a true and fair view of the state of affairs of the Company and of the profit or loss of the 
+Company for that period.  In preparing these financial statements, the director is required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+state whether applicable accounting standards have been followed, subject to any material departures 
+disclosed and explained in the financial statements; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that 
+the Company will continue in business. 
+The director is responsible for keeping adequate accounting records that are sufficient to show and 
+explain the Company's transactions and disclose with reasonable accuracy at any time the financial 
+position of the Company and enable him to ensure that the financial statements comply with the 
+Companies Act 2006. He is also responsible for safeguarding the assets of the Company and hence for 
+taking reasonable steps for the prevention and detection of fraud and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the director is aware, there is no relevant audit information (as defined by Section 418 of the 
+Companies Act 2006) of which the Company's auditors are unaware, and he has taken all the steps that 
+he ought to have taken as a director in order to make himself aware of any relevant audit information 
+and to establish that the Company's auditors are aware of that information. 
+AUDITORS
+The auditors,  CavanaghKelly, have indicated their willingness to continue in office in accordance with the 
+provision of Section 485 of the Companies Act 2006.
+ON BEHALF OF THE BOARD:
+John Gallagher
+- Director 
+23 July 2025
+5
+Independent Auditors' Report to the Members of
+GCU (UK) Limited
+Opinion
+We have audited the financial statements of GCU (UK) Limited (the 'Company') for the year ended 
+31 October 2024 which comprise the Income Statement, Statement of Financial Position, Statement of 
+Changes in Equity and Notes to the Financial Statements, including a summary of significant accounting 
+policies. The financial reporting framework that has been applied in their preparation is applicable law 
+and United Kingdom Accounting Standards, including Financial Reporting Standard 102 'The Financial 
+Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted 
+=== page 8 ===
+Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the Company's affairs as at 31 October 2024 and of its profit 
+for the year then ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting 
+Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and 
+applicable law. Our responsibilities under those standards are further described in the Auditors' 
+responsibilities for the audit of the financial statements section of our report.  We are independent of the 
+Company in accordance with the ethical requirements that are relevant to our audit of the financial 
+statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements.  We believe that the audit evidence we have 
+obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the director's use of the going concern basis 
+of accounting in the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to 
+events or conditions that, individually or collectively, may cast significant doubt on the Company's ability 
+to continue as a going concern for a period of at least twelve months from when the financial statements 
+are authorised for issue. 
+Our responsibilities and the responsibilities of the director with respect to going concern are described in 
+the relevant sections of this report. 
+Other information
+The director is responsible for the other information. The other information comprises the information in 
+the Strategic Report and the Director's Report, but does not include the financial statements and our 
+Auditors' Report thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent 
+otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information 
+and, in doing so, consider whether the other information is materially inconsistent with the financial 
+statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we 
+identify such material inconsistencies or apparent material misstatements, we are required to determine 
+whether this gives rise to a material misstatement in the financial statements themselves. If, based on 
+the work we have performed, we conclude that there is a material misstatement of this other information, 
+we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Director's Report for the financial year for which 
+the financial statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Director's Report have been prepared in accordance with applicable legal 
+requirements. 
+6
+Independent Auditors' Report to the Members of
+GCU (UK) Limited
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the Company and its environment obtained in the 
+course of the audit, we have not identified material misstatements in the Strategic Report or the 
+Director's Report. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us 
+to report to you if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been 
+received from branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of director's remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of director
+As explained more fully in the Director's Responsibilities Statement set out on page five, the director is 
+responsible for the preparation of the financial statements and for being satisfied that they give a true 
+and fair view, and for such internal control as the director determines necessary to enable the 
+=== page 9 ===
+preparation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+In preparing the financial statements, the director is responsible for assessing the Company's ability to 
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the 
+going concern basis of accounting unless the director either intends to liquidate the Company or to cease 
+operations, or has no realistic alternative but to do so. 
+7
+Independent Auditors' Report to the Members of
+GCU (UK) Limited
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are 
+free from material misstatement, whether due to fraud or error, and to issue an Auditors' Report that 
+includes our opinion.  Reasonable assurance is a high level of assurance, but is not a guarantee that an 
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in the 
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the 
+basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed 
+below: 
+Explanation as to what extent the audit was considered capable of detecting irregularities, 
+including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. The objectives 
+of our audit in respect of fraud are to assess the risk of material misstatement due to fraud, design and 
+implement appropriate responses to those assessed risks and to respond appropriately to instances of 
+fraud or suspected fraud identified during the course of our audit. However, the primary responsibility for 
+the prevention and detection of fraud rests with management and those charged with governance of the 
+company.
+In identifying and assessing risks of material misstatement in respect of irregularities, including fraud and 
+non-compliance with laws and regulations, our procedures included the following:
+-
+We obtained understanding of the legal and regulatory requirements applicable to the company’s 
+financial statements and considered the most significant are the Companies Act 2006, Financial 
+Reporting Standards (FRS102) and UK taxation legislation;
+-
+We have assessed the risk of material misstatement of the financial statements, including risk of 
+material misstatement due to fraud and how it might occur by holding discussions with 
+management and those charged with governance;
+-
+We enquired of management and those charged with governance as to any known instances of 
+non-compliance or suspected non-compliance with laws and regulations;
+-
+Understanding the internal controls established to mitigate risks related to fraud or 
+non-compliance with laws and regulations; and 
+-
+Discussions amongst the audit engagement team regarding how fraud might occur in the financial 
+statements and any potential indicators of fraud. As part of this discussion we identified the 
+following potential areas where fraud may occur: timing of revenue recognition and management 
+override.
+The audit response to risks identified included:
+-
+Reviewing the financial statements disclosures and testing to supporting documentation to assess 
+compliance with the relevant laws and regulations above;
+-
+Performing analytical procedures to identify any unusual or unexpected relationships that may 
+indicate risk of material misstatement due to fraud;
+.
+In addressing the risk of fraud through management override of controls, testing the appropriateness of 
+journal entries and other adjustments, assessing whether the judgements made in making accounting 
+estimates are reasonable and evaluating the business rationale of any significant transactions that are 
+unusual or outside the normal course of business.
+A further description of our responsibilities for the audit of the financial statements is located on the 
+Financial Reporting Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms 
+part of our Auditors' Report. 
+8
+Independent Auditors' Report to the Members of
+GCU (UK) Limited
+Use of our report
+This report is made solely to the Company's members, as a body, in accordance with Chapter 3 of Part 16 
+of the Companies Act 2006. Our audit work has been undertaken so that we might state to the 
+Company's members those matters we are required to state to them in an Auditors' Report and for no 
+=== page 10 ===
+other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to 
+anyone other than the Company and the Company's members as a body, for our audit work, for this 
+report, or for the opinions we have formed. 
+Mr. Ryan Falls (F.C.A.)
+(Senior Statutory Auditor) 
+for and on behalf of 
+CavanaghKelly
+Chartered Accountants and Statutory Auditors
+36-38 Northland Row
+Dungannon
+Co. Tyrone
+BT71 6AP
+23 July 2025
+9
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Income Statement
+FOR THE YEAR ENDED 31 OCTOBER 2024
+2024
+2023
+Notes
+£
+£
+TURNOVER
+42,366,827
+64,336,583
+Cost of sales
+(
+29,436,681
+)
+(
+48,178,143
+)
+GROSS PROFIT
+12,930,146
+16,158,440
+Administrative expenses
+(
+8,693,572
+)
+(
+10,899,539
+)
+4,236,574
+5,258,901
+Other operating income
+-
+28,250
+OPERATING PROFIT
+7
+4,236,574
+5,287,151
+Income from fixed asset investments 
+518,706
+-
+Finance income
+37,049
+6,915
+4,792,329
+5,294,066
+Finance costs
+8
+6,348
+(
+25,107
+)
+PROFIT BEFORE TAXATION 
+4,798,677
+5,268,959
+Tax on profit
+9
+=== page 11 ===
+(
+882,776
+)
+(
+893,760
+)
+PROFIT FOR THE FINANCIAL YEAR 
+3,915,901
+4,375,199
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+3,915,901
+4,375,199
+The notes form part of these financial statements
+10
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Statement of Financial Position
+31 OCTOBER 2024
+2024
+2023
+Notes
+£
+£
+NON-CURRENT ASSETS
+Tangible assets
+11
+914,953
+1,427,415
+Investments
+12
+13,805,544
+6,641,263
+14,720,497
+8,068,678
+CURRENT ASSETS
+Stocks
+13
+1,563,896
+1,986,024
+Receivables: amounts falling due within 
+one year 
+14
+7,272,872
+7,551,004
+Debtors: amounts falling due after 
+more than one year 
+14
+477,670
+235,109
+Cash at bank
+2,048,317
+4,604,378
+11,362,755
+14,376,515
+PAYABLES
+Amounts falling due within one year 
+15
+(
+5,209,111
+)
+(
+6,047,822
+)
+NET CURRENT ASSETS
+6,153,644
+8,328,693
+TOTAL ASSETS LESS CURRENT 
+=== page 12 ===
+LIABILITIES 
+20,874,141
+16,397,371
+PROVISIONS FOR LIABILITIES
+16
+(
+807,840
+)
+(
+146,971
+)
+NET ASSETS
+20,066,301
+16,250,400
+CAPITAL AND RESERVES
+Called up share capital
+17
+100
+100
+Retained earnings
+20,066,201
+16,250,300
+SHAREHOLDERS' FUNDS
+20,066,301
+16,250,400
+The financial statements were approved by the director and authorised for issue on 
+23 July 2025
+and 
+were signed by: 
+John Gallagher
+- Director 
+The notes form part of these financial statements
+11
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Statement of Changes in Equity
+FOR THE YEAR ENDED 31 OCTOBER 2024
+Called up
+share
+Retained
+Total
+capital
+earnings
+equity
+£
+£
+£
+Balance at 1 November 2022
+100
+12,028,351
+12,028,451
+Changes in equity
+Dividends
+-
+(
+153,250
+)
+(
+153,250
+)
+Total comprehensive income
+-
+4,375,199
+4,375,199
+Balance at 31 October 2023
+100
+16,250,300
+16,250,400
+Changes in equity
+Dividends
+-
+=== page 13 ===
+(
+100,000
+)
+(
+100,000
+)
+Total comprehensive income
+-
+3,915,901
+3,915,901
+Balance at 31 October 2024
+100
+20,066,201
+20,066,301
+The notes form part of these financial statements
+12
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements
+FOR THE YEAR ENDED 31 OCTOBER 2024
+1.
+STATUTORY INFORMATION
+GCU (UK) Limited is a private company, limited by shares, incorporated, domiciled and within the 
+United Kingdom, registered in Northern Ireland, the company's registered number and registered 
+office address can be found on the Company Information page.
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared on a going concern basis under the historical cost 
+convention in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard 
+applicable in the UK and Republic of Ireland" and the Companies Act 2006. The accounting policies 
+outlined below have been applied consistently throughout the year.
+3.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The preparation of financial statements in compliance with FRS 102 requires the use of certain 
+critical accounting estimates. It also requires management to exercise judgement in applying the 
+company's accounting policies (see note 4).
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The Company has taken advantage of the following disclosure exemption in preparing these 
+financial statements, as permitted by FRS 102 "The Financial Reporting Standard applicable in the 
+UK and Republic of Ireland": 
+•
+the requirements of Section 7 Statement of Cash Flows. 
+Related party exemption
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 
+102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland', not to disclose 
+related party transactions with wholly owned subsidiaries within the group.
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the 
+company and the revenue can be reliably measured. Revenue is measured as the fair value of the 
+consideration received or receivable, excluding discounts, rebates, value added tax and other sales 
+taxes.The following criteria must also be met before revenue is recognised:
+Rendering of services and contracting:
+Revenue from a contract to provide services is recognised in the period in which the services are 
+provided in accordance with the stage of completion of the contract when all of the following 
+conditions are satisfied:
+-
+the amount of revenue can be measured reliably;
+-
+it is probable that the company will receive the consideration due under the contract;
+-
+the stage of completion of the contract at the end of the reporting period can be measured 
+reliably, and;
+-
+the costs incurred and the costs to complete the contract can be measured reliably.
+Tangible assets
+Tangible assets are stated at historical cost less accumulated depreciation. Historical cost includes 
+expenditure that is directly attributable. The charge to depreciation is calculated to write off the 
+original cost of property, plant and equipment, less their estimated residual value, over their 
+expected useful lives.
+Plant and machinery
+=== page 14 ===
+-
+25% Straight Line
+Fixtures and fittings
+-
+25% Straight Line
+The carrying values of tangible assets are reviewed annually for impairment in periods if events or 
+changes in circumstances indicate the carrying value may not be recoverable.
+13
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+3.
+ACCOUNTING POLICIES - continued
+Inventories
+Stocks are valued at the lower of cost and net realisable value. Cost comprises expenditure 
+incurred in the normal course of business in bringing stocks to their present location and condition. 
+Full provision is made for obsolete and slow moving items. Net realisable value comprises actual or 
+estimated selling price (net of trade discounts) less all further costs to completion or to be incurred 
+in marketing and selling.
+Financial instruments
+The company has chosen to adopt Sections 11 and 12 of FRS 102 in respect of financial 
+instruments.
+(i) Financial assets
+Basic financial assets, including trade and other receivables, cash and bank balances and amounts 
+owed by related companies are initially recognised at transaction price, unless the arrangement 
+constitutes a financing transaction, where the transaction is measured at the present value of the 
+future receipts discounted at a market rate of interest. Such assets are subsequently carried at 
+amortised cost using the effective interest method.
+At the end of each reporting period financial assets measured at amortised cost are assessed for 
+objective evidence of impairment. If an asset is impaired, the impairment loss is the difference 
+between the carrying amount and the present value of the estimated cash flows discounted at the 
+asset's original effective interest rate. The impairment loss is recognised in profit or loss.
+If there is a decrease in the impairment loss arising from an event occurring after the impairment 
+was recognised, the impairment is reversed. The reversal is such that the current carrying amount 
+does not exceed what the carrying amount would have been had the impairment not previously 
+been recognised. The impairment reversal is recognised in the Income Statement.
+(ii) Financial liabilities
+Basic financial liabilities, including trade and other payables, and hire purchase contracts are 
+initially recognised at transaction price, unless the arrangement constitutes a financing transaction, 
+where the debt instrument is measured at the present value of the future receipts discounted at a 
+market rate of interest. Debt instruments are subsequently carried at amortised cost, using the 
+effective interest rate method.
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary 
+course of business from suppliers. Accounts payable are classified as current liabilities if payment 
+is due within one year or less. If not, they are presented as non-current liabilities. Trade payables 
+are recognised initially at transaction price and subsequently measured at amortised cost using the 
+effective interest method.
+Financial liabilities are derecognised when the liability is extinguished, that is when the contractual 
+obligation is discharged, cancelled or expires.
+(iii) Offsetting
+Financial assets and liabilities are offset and the net amounts presented in the financial statements 
+when there is a legally enforceable right to set off the recognised amounts and there is an 
+intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income 
+Statement, except to the extent that it relates to items recognised in other comprehensive income 
+or directly in equity.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been 
+enacted or substantively enacted by the statement of financial position date.
+14
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+3.
+ACCOUNTING POLICIES - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed 
+at the statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods 
+different from those in which they are recognised in financial statements. Deferred tax is measured 
+=== page 15 ===
+using tax rates and laws that have been enacted or substantively enacted by the year end and that 
+are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is 
+probable that they will be recovered against the reversal of deferred tax liabilities or other future 
+taxable profits.
+Foreign currencies
+Monetary assets and liabilities denominated in foreign currencies are translated at the rates of 
+exchange ruling at the Statement of Financial Position date. Non-monetary items that are 
+measured in terms of historical cost in a foreign currency are translated at the rates of exchange 
+ruling at the date of the transaction. Non-monetary items that are measured at fair value in a 
+foreign currency are translated using the exchange rates at the date when the fair value was 
+determined. The resulting exchange differences are dealt with in the Income Statement.
+Operating leases
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the 
+period of the lease. 
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the 
+company's pension scheme are charged to profit or loss in the period to which they relate.
+Finance costs
+Finance costs are charged to the Income Statement over the term of the debt.
+Share capital
+Ordinary shares are classified as equity. Incremental costs directly attributable to the issue of new
+ordinary shares or options are shown in equity as a deduction, net of tax, from the proceeds.
+Cash and cash equivalents
+Cash and cash equivalents includes cash in hand, deposits held at call with banks, other short-term 
+highly liquid investments with original maturities of three months or less and bank overdrafts. 
+Bank overdrafts are shown within borrowings in current liabilities.
+15
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+4.
+CRITICAL ACCOUNTING JUDGEMENTS AND KEY SOURCES OF ESTIMATION UNCERTAINTY
+The preparation of the financial statements requires management to make judgements, estimates 
+and assumptions that affect the amounts reported in the financial statements and accompanying 
+notes. The judgements, estimates and assumptions used in the financial statements are based 
+upon management's evaluation of the relevant facts and circumstances as of the date of the 
+financial statements. Actual results could differ from these estimates, and the effect of any change 
+in estimates will be adjusted in the financial statements when they become reasonably 
+determinable.
+Judgements, estimates and assumptions are continually evaluated and are based on historical 
+experience and other factors, including expectations of future events that are believed to be 
+reasonable under these circumstances.
+Judgements
+In the course of preparing the company's financial statements, no judgements have been made in 
+the process of applying the company's accounting policies, other than those involving estimates as 
+below.
+Estimates and assumptions
+Amounts recoverable under contract:
+Contract revenue and costs are recognised when the outcome of a construction contract can be 
+reliably estimated. The percentage of completion method is used to value revenue and costs at 
+year end, these are included in the profit or loss account. At year end, the company reviews the 
+recoverability of amounts already recognised as contract revenue. If, on the review of market 
+conditions and conversations with the client, the debtor is not considered to be recoverable, the 
+unrecoverable amount will be expensed in the year. When, on review of production schedules, it is 
+deemed probable that total contract costs will exceed total contract revenue the expected loss is 
+recognised as an expense immediately, with a corresponding provision for an onerous contract.
+5.
+EMPLOYEES AND DIRECTORS
+2024
+2023
+£
+£
+Wages and salaries
+4,210,090
+5,351,991
+Other pension costs
+82,716
+155,251
+4,292,806
+=== page 16 ===
+5,507,242
+The average number of employees during the year was as follows: 
+2024
+2023
+78
+116
+6.
+DIRECTORS EMOLUMENTS
+2024
+2023
+£   
+£   
+Directors' emoluments
+15,811
+28,000
+Company contributions to defined pension schemes
+60,000
+100,000
+75,811
+128,000
+During the year retirement benefits were accruing to one director (2023: 1) in respect of defined 
+contribution pension schemes.
+16
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+7.
+OPERATING PROFIT
+The operating profit is stated after charging/(crediting):
+2024
+2023
+£
+£
+Hire of plant and machinery
+1,987,843
+3,940,651
+Depreciation - owned assets
+841,776
+774,494
+Loss/(profit) on disposal of fixed assets
+23,239
+(
+44,129
+)
+Auditors' remuneration
+14,175
+12,850
+Foreign exchange differences
+-
+13,222
+8.
+FINANCE COSTS
+2024
+2023
+£
+£
+Bank interest
+(
+6,609
+)
+(
+22,453
+)
+Bank charges
+-
+5,507
+Interest on tax
+261
+30,464
+Hire purchase interest
+=== page 17 ===
+-
+11,589
+(
+6,348
+)
+25,107
+9.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+2024
+2023
+£
+£
+Current tax:
+UK corporation tax
+1,289,120
+926,218
+Underprovision in prior year
+(317,212
+)
+61,598
+Total current tax
+971,908
+987,816
+Deferred tax
+(
+89,132
+)
+(
+94,056
+)
+Tax on profit
+882,776
+893,760
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The 
+difference is explained below: 
+2024
+2023
+£
+£
+Profit before tax
+4,798,677
+5,268,959
+Profit multiplied by the standard rate of corporation tax in the UK 
+of 
+25
+% (2023 - 
+22.518
+%)  
+1,199,669
+1,186,464
+Effects of:
+Expenses not deductible for tax purposes
+319
+1,576
+Adjustments to tax charge in respect of previous periods 
+(
+317,212
+)
+(
+284,475
+)
+Impact of rate change   
+-
+(9,349
+)
+Impact of super-deduction   
+-
+=== page 18 ===
+(456
+)
+Total tax charge
+882,776
+893,760
+17
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+10.
+DIVIDENDS
+2024
+2023
+£
+£
+Ordinary Shares shares of £1 each 
+Final
+100,000
+153,250
+11.
+TANGIBLE ASSETS
+Fixtures
+Plant and
+and
+machinery
+fittings
+Totals
+£
+£
+£
+COST
+At 1 November 2023
+5,368,393
+271,817
+5,640,210
+Additions
+344,053
+67,473
+411,526
+Disposals
+(
+1,587,577
+)
+-
+(
+1,587,577
+)
+At 31 October 2024
+4,124,869
+339,290
+4,464,159
+DEPRECIATION
+At 1 November 2023
+4,083,222
+129,573
+4,212,795
+Charge for year 
+770,101
+71,675
+841,776
+Eliminated on disposal
+(
+1,505,365
+)
+-
+(
+1,505,365
+)
+At 31 October 2024
+3,347,958
+=== page 19 ===
+201,248
+3,549,206
+NET BOOK VALUE
+At 31 October 2024
+776,911
+138,042
+914,953
+At 31 October 2023
+1,285,171
+142,244
+1,427,415
+12.
+FIXED ASSET INVESTMENTS
+Unlisted
+investments
+£
+COST OR VALUATION
+At 1 November 2023
+6,641,263
+Additions
+6,645,575
+Revaluations
+518,706
+At 31 October 2024
+13,805,544
+NET BOOK VALUE
+At 31 October 2024
+13,805,544
+At 31 October 2023
+6,641,263
+Cost or valuation at 31 October 2024 is represented by:
+Unlisted
+investments
+£
+Valuation in 
+2024 
+13,805,544
+18
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+13.
+STOCKS
+2024
+2023
+£
+£
+Inventories
+1,563,896
+1,986,024
+There is no material difference between replacement cost of inventories and their balance sheet 
+values.
+14.
+RECEIVABLES
+2024
+2023
+£
+£
+Amounts falling due within one year:
+Trade receivables
+2,923,177
+5,160,173
+Other receivables
+18,333
+13,680
+Amounts owed by related parties
+202,723
+258,501
+Amounts recoverable on contract 
+3,065,400
+=== page 20 ===
+1,049,708
+Directors' current accounts
+1,063,239
+1,068,942
+7,272,872
+7,551,004
+Amounts falling due after more than one year:
+Other debtors
+126,695
+138,732
+Other taxes
+350,975
+96,377
+477,670
+235,109
+Aggregate amounts
+7,750,542
+7,786,113
+The amounts owed by related undertakings are and payable on demand.
+15.
+PAYABLES: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2024
+2023
+£
+£
+Trade payables
+2,234,831
+2,631,956
+Amounts owed to related parties
+1,691,113
+2,001,140
+Tax
+309,211
+21,088
+Social security and other taxes 
+148,081
+309,036
+VAT
+452,350
+486,080
+Accruals and deferred income
+373,525
+598,522
+5,209,111
+6,047,822
+The amounts owed to related undertakings are interest free and payable on demand.
+16.
+PROVISIONS FOR LIABILITIES
+2024
+2023
+£
+£
+Deferred tax
+57,840
+146,971
+Other provisions
+750,000
+-
+807,840
+146,971
+19
+GCU (UK) LIMITED (REGISTERED NUMBER: NI620995)
+Notes to the Financial Statements - continued
+FOR THE YEAR ENDED 31 OCTOBER 2024
+16.
+PROVISIONS FOR LIABILITIES - continued
+Deferred
+Defect
+tax
+Provision
+=== page 21 ===
+£
+£
+Balance at 1 November 2023
+146,971
+-
+Provided during year
+-
+750,000
+Credit to Income Statement during year 
+(
+89,131
+)
+-
+Balance at 31 October 2024
+57,840
+750,000
+17.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2024
+2023
+value:
+£
+£
+100
+Ordinary Shares
+£1
+100
+100
+18.
+CAPITAL COMMITMENTS
+The company had no capital commitments at the financial year end (2023: £Nil).
+19.
+OTHER FINANCIAL COMMITMENTS
+GCU (UK) Limited are committed to the sum of £343,562 (2023: £91,373) for rent in a future 
+period.
+20.
+RELATED PARTY DISCLOSURES
+The following entities are regarded as related parties due to common directors and shareholders.
+-
+Gallagher Civil Engineering Ltd
+-
+Shoreline Utilities Ltd
+-
+Fibreplan Ltd
+The following transactions in respect of the entities outlined is detailed below. All transactions were 
+carried out under normal commercial terms
+2024
+2024
+2023
+2023
+Sales
+Purchases
+Sales
+Purchases
+£   
+£   
+£   
+£   
+Gallagher Civil Engineering Ltd
+-
+64,598
+-
+355.474
+Shoreline Utilities Ltd
+-
+4,893,270
+=== page 22 ===
+-
+6,024,158
+Fibreplan Ltd 
+-
+5.729.850 
+-
+4,613.729
+Amounts owed to/by GCU (UK) Ltd at year end:
+2024
+2023
+Net amounts owed to
+Net amounts owed to
+/ (by GCU (UK Ltd
+)
+/ (by GCU (UK Ltd
+)
+£   
+£   
+Gallagher Civil Engineering Ltd
+202,723
+255,501
+Shoreline Utilities Ltd
+(1,062.476)
+(1,701,289
+)
+Fibreplan Ltd
+(628,637
+)
+(299,851
+)
+21.
+ULTIMATE CONTROLLING PARTY
+The company is under the control of its sole director, John Gallagher.
+20

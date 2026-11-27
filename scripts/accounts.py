@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings('ignore', category=XMLParsedAsHTMLWarning)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-C = json.load(open(f'{ROOT}/config/criteria_digital_infra.json'))
+from settings import C   # the sector's thesis settings (config/thesis/<sector>.json)
 KEY = os.environ.get('CH_API_KEY', '').strip()
 
 API = 'https://api.company-information.service.gov.uk'

@@ -10,7 +10,7 @@ from fx import rate
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT, CFG = f'{ROOT}/data/outputs', f'{ROOT}/config'
-W = json.load(open(f'{CFG}/criteria_digital_infra.json'))['scoring_weights']
+from settings import W
 R = pd.read_csv(f'{OUT}/ranking_latest.csv', dtype={'CompanyNumber': str})
 L = pd.read_csv(f'{OUT}/lenses_latest.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
 H = pd.read_csv(f'{OUT}/history.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{OUT}/history.csv') else pd.DataFrame(columns=['CompanyNumber'])

@@ -10,7 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT, UPD = f'{ROOT}/data/outputs', f'{ROOT}/data/updates'
 os.makedirs(UPD, exist_ok=True)
 today = datetime.date.today().isoformat()
-C = json.load(open(f'{ROOT}/config/criteria_digital_infra.json'))
+from settings import C
 KEYS = list(C['scoring_weights'])
 LABEL = {k: k.replace('_', ' ') for k in KEYS}
 

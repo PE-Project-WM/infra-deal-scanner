@@ -2,7 +2,7 @@
 
 For each company: an indicative price range (enterprise value) from listed-peer and deal multiples, and a
 sponsor returns check: the IRR at the middle of the range, and the walk-away multiple, i.e. the highest entry
-multiple at which a buyer still makes the 20% hurdle with debt fixed in pounds and the exit flat to entry.
+multiple at which a buyer still makes its hurdle (20% for private equity, 12% for infrastructure funds buying network owners) with debt fixed in pounds and the exit flat to entry.
 Net debt and cash conversion come from config/balance_sheet.csv (figures transcribed from each company's latest
 filed accounts, read from data/deep_dive/text), which turns the price of the business (enterprise value) into a
 price for the shares (equity value). Accounts in other currencies are converted to pounds.
@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT, CFG = f'{ROOT}/data/outputs', f'{ROOT}/config'
 V = json.load(open(f'{CFG}/valuation.json'))
 M, SP = V['multiple_ranges'], V['sponsor_case']
-W = json.load(open(f'{CFG}/criteria_digital_infra.json'))['scoring_weights']
+from settings import W, TYPES
 R = pd.read_csv(f'{OUT}/ranking_latest.csv', dtype={'CompanyNumber': str})
 HS = pd.read_csv(f'{OUT}/history_summary.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{OUT}/history_summary.csv') else pd.DataFrame()
 TOP_N = int(os.environ.get('VALUATION_TOP_N', '10'))
@@ -50,14 +50,28 @@ def returns(entry_mult, e0, sales0, debt, g, capex_pct, exit_mult=None, ebitda_s
     moic = equity_exit / equity0
     return {'irr': moic ** (1 / SP['hold_years']) - 1 if moic > 0 else -1.0, 'moic': moic, 'equity0': equity0}
 
-def walk_away(e0, sales0, debt, g, capex_pct, wc=None):
+def walk_away(e0, sales0, debt, g, capex_pct, wc=None, hurdle=None):
+    hurdle = SP['hurdle_irr'] if hurdle is None else hurdle
     lo, hi = 2.0, 20.0
-    if (returns(hi, e0, sales0, debt, g, capex_pct, wc=wc) or {'irr': -1})['irr'] >= SP['hurdle_irr']:
+    if (returns(hi, e0, sales0, debt, g, capex_pct, wc=wc) or {'irr': -1})['irr'] >= hurdle:
         return hi
     for _ in range(60):
         mid = (lo + hi) / 2
         r = returns(mid, e0, sales0, debt, g, capex_pct, wc=wc)
-        if r is not None and r['irr'] >= SP['hurdle_irr']:
+        if r is not None and r['irr'] >= hurdle:
+            lo = mid
+        else:
+            hi = mid
+    return lo
+
+def irr_of(price, cash, years):
+    """Yearly return from paying price for a flat cash flow over a number of years (bisection)."""
+    if not years or price <= 0:
+        return None
+    lo, hi = -0.5, 1.0
+    for _ in range(80):
+        mid = (lo + hi) / 2
+        if sum(cash / (1 + mid) ** t for t in range(1, years + 1)) > price:
             lo = mid
         else:
             hi = mid
@@ -82,14 +96,34 @@ for _, r in R.head(TOP_N).iterrows():
         debt_parts = {k: float(b[k] or 0) * fx for k in ('bank_debt', 'leases_hp', 'shareholder_or_group_loans')}
         net_debt = sum(debt_parts.values()) - float(b['cash'] or 0) * fx
         other_group = float(b['other_owed_to_group'] or 0) * fx
-    vis = r['pts_revenue_visibility'] / W['revenue_visibility']
-    kind = 'recurring_services' if vis >= 0.6 else 'project_contractors'
-    band = dict(M[kind])
-    small = e0 < M['small_ebitda_threshold_gbp']
+    kind = r['business_type'] if 'business_type' in r and pd.notna(r['business_type']) else 'recurring_services'
+    T = TYPES[kind]
+    if kind == 'project_company':   # one contract that ends: value the cash left in it, not a multiple
+        left = max(0, int(r['growth_basis'].split(' ')[0])) if str(r.get('growth_basis', '')).split(' ')[0].isdigit() else 0
+        cash = e0 * (1 - SP['tax_rate'])
+        pv = lambda rate: sum(cash / (1 + rate) ** t for t in range(1, left + 1))
+        rows.append({'rank': int(r['rank']), 'CompanyName': r['CompanyName'], 'CompanyNumber': num, 'ebitda': e0, 'sales': sales0,
+                     'basis': T['label'], 'business_type': kind, 'hurdle_irr': hurdle, 'mult_low': pv(0.10) / e0, 'mult_mid': pv(0.09) / e0, 'mult_high': pv(0.08) / e0,
+                     'ev_low': pv(0.10), 'ev_mid': pv(0.09), 'ev_high': pv(0.08), 'verdict': f'Valued on the cash left in the contract ({left} years at 8-10%), not a multiple',
+                     'hurdle_irr': 0.09, 'walk_away_mult': pv(0.10) / e0 if left else 0.0, 'walk_away_ev': pv(0.10),
+                     'irr_mid': 0.09, 'moic_mid': (cash * left / pv(0.09)) if left else 0.0,
+                     'irr_exit_plus1': 0.09, 'irr_exit_minus1': 0.09,
+                     'irr_ebitda_plus10': irr_of(pv(0.09), cash * 1.1, left), 'irr_ebitda_minus10': irr_of(pv(0.09), cash * 0.9, left),
+                     'net_debt': net_debt, 'debt_parts': debt_parts, 'currency': cur, 'fx_to_gbp': fx,
+                     'net_debt_to_ebitda': None if net_debt is None else net_debt / e0, 'accounts_year_end': None if b is None else b['year_end'],
+                     'cash_gbp': None if b is None else float(b['cash'] or 0) * fx, 'cash_conversion': conv, 'fcf_conversion': fcf_conv,
+                     'walk_away_equity': None if net_debt is None else pv(0.10) - net_debt, 'small_discount': False, 'debt_assumed': 0.0,
+                     'growth_assumed': 0.0, 'capex_pct': 0.0,
+                     'equity_low': None if net_debt is None else pv(0.10) - net_debt, 'equity_high': None if net_debt is None else pv(0.08) - net_debt,
+                     'balance_note': None if b is None else b['note'],
+                     'notes': '; '.join(n['note'] for n in V.get('market_notes', []) if num in n['companies'])})
+        continue
+    band = dict(T['price_range'])
+    small = kind != 'network_owner' and e0 < V['multiple_ranges']['small_ebitda_threshold_gbp']
     if small:
         for k in ('low', 'mid', 'high'):
-            band[k] -= M['small_ebitda_discount']
-    debt = (SP['debt_turns_recurring'] if kind == 'recurring_services' else SP['debt_turns_contractor']) * e0
+            band[k] -= V['multiple_ranges']['small_ebitda_discount']
+    debt = T['debt_turns'] * e0
     cagr = hs(num, 'sales_cagr')
     hist_g = cagr if cagr is not None else (float(r['turnover_growth']) if pd.notna(r['turnover_growth']) else 0.0)
     g = max(0.0, min(SP['growth_cap'], hist_g * SP['growth_haircut']))
@@ -98,18 +132,20 @@ for _, r in R.head(TOP_N).iterrows():
         capex_pct = max(float(b['capex']) * fx / sales0, 0.0)   # actual capex from the latest accounts
     wc = None if conv is None else max(0.0, min(SP.get('max_working_capital_drag_pct_ebitda', 0.3), 1 - conv))
     base = returns(band['mid'], e0, sales0, debt, g, capex_pct, wc=wc)
-    wa = walk_away(e0, sales0, debt, g, capex_pct, wc=wc)
+    hurdle = T.get('hurdle_irr') or SP['hurdle_irr']
+    wa = walk_away(e0, sales0, debt, g, capex_pct, wc=wc, hurdle=hurdle)
     up = returns(band['mid'], e0, sales0, debt, g, capex_pct, exit_mult=band['mid'] + 1, wc=wc)
     down = returns(band['mid'], e0, sales0, debt, g, capex_pct, exit_mult=band['mid'] - 1, wc=wc)
     eb_up = returns(band['mid'], e0, sales0, debt, g, capex_pct, ebitda_shift=1.1, wc=wc)
     eb_down = returns(band['mid'], e0, sales0, debt, g, capex_pct, ebitda_shift=0.9, wc=wc)
-    verdict = ('Clears 20% at a typical price' if wa >= band['mid'] else
-               'Clears 20% only at the low end of the range' if wa >= band['low'] else
-               'Does not clear 20% within the range')
+    h = f'{hurdle:.0%}'
+    verdict = (f'Clears {h} at a typical price' if wa >= band['mid'] else
+               f'Clears {h} only at the low end of the range' if wa >= band['low'] else
+               f'Does not clear {h} within the range')
     rows.append({
         'rank': int(r['rank']), 'CompanyName': r['CompanyName'], 'CompanyNumber': num,
         'ebitda': e0, 'sales': sales0,
-        'basis': 'Recurring services' if kind == 'recurring_services' else 'Project contractor',
+        'basis': T['label'], 'business_type': kind, 'hurdle_irr': hurdle,
         'small_discount': small, 'mult_low': band['low'], 'mult_mid': band['mid'], 'mult_high': band['high'],
         'ev_low': band['low'] * e0, 'ev_mid': band['mid'] * e0, 'ev_high': band['high'] * e0,
         'debt_assumed': debt, 'growth_assumed': g, 'capex_pct': capex_pct,

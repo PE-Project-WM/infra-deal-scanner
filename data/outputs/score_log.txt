@@ -1,25 +1,26 @@
 SATCOM GLOBAL LIMITED: converted from USD at 1.32 per £
-Companies to score: 82 (13 more need a sector check first)
- rank                                 CompanyName  score confidence relevance turnover ebitda_margin                                                     accessibility
-    1                            WIFINITY LIMITED   93.4        Low        IN    39.8m         40.0%    Low: sponsor bought in the last 2 years, unlikely to sell soon
-    2                           VEA GROUP LIMITED   84.3       High        IN    32.6m         31.0% Low-Medium: UK arm of an overseas founder group, carve-out needed
-    3                 OPEN FIBRE NETWORKS LIMITED   83.2        Low        IN    27.8m         51.0%                            Medium: owned via a UK holding company
-    4 THE WIRELESS INFRASTRUCTURE COMPANY LIMITED   83.1        Low        IN    38.9m         59.0%           Medium: sponsor-owned, sale timing depends on hold year
-    5                          KCOM GROUP LIMITED   81.7        Low        IN    96.2m         46.0%           Medium: sponsor-owned, sale timing depends on hold year
-    6                ALERT COMMUNICATIONS LIMITED   80.3        Low  ADJACENT    10.8m         50.0%           Medium: sponsor-owned, sale timing depends on hold year
-    7              NATIONAL GRID TELECOMS LIMITED   79.7        Low        IN    24.1m         14.0%                            Medium: owned via a UK holding company
-    8                     CLARUS NETWORKS LIMITED   79.6     Medium        IN    26.7m         16.0%                High: founder-owned, proprietary approach possible
-    9       BEACON COMMUNICATION SERVICES LIMITED   78.8        Low        IN    31.8m         20.0%                High: founder-owned, proprietary approach possible
-   10         THE NETWORKING PEOPLE (TNP) LIMITED   77.2     Medium        IN    18.1m         13.0%    Low: sponsor bought in the last 2 years, unlikely to sell soon
-   11                     COMMUNITY FIBRE LIMITED   76.9        Low        IN   112.5m         24.0%           Medium: sponsor-owned, sale timing depends on hold year
-   12                       SATCOM GLOBAL LIMITED   76.0        Low        IN    27.5m         17.0%                High: founder-owned, proprietary approach possible
-   13                    THE BADGER GROUP LIMITED   75.7        Low  ADJACENT    13.6m         33.0%                High: founder-owned, proprietary approach possible
-   14                      MAP GROUP (UK) LIMITED   75.5     Medium        IN    75.6m         24.0%                              Low: employee-owned, rarely for sale
-   15              REDWOOD TECHNOLOGIES GROUP LTD   75.4        Low  ADJACENT    80.3m         12.0%                High: founder-owned, proprietary approach possible
-   16                   WINGNUT UTILITIES LIMITED   75.1     Medium        IN    16.3m         11.0%                High: founder-owned, proprietary approach possible
-   17                       ELITETELE.COM LIMITED   74.7        Low  ADJACENT    16.9m         16.0%                High: founder-owned, proprietary approach possible
-   18                         X-ON HEALTH LIMITED   73.9        Low  ADJACENT    30.4m         38.0%           Medium: sponsor-owned, sale timing depends on hold year
-   19             NETWORK PLANNING SOLUTIONS LTD.   73.7        Low        IN    18.7m         26.0%                                        Check: ownership not found
-   20       CONNECT MANAGED SERVICES (UK) LIMITED   72.3        Low  ADJACENT    50.1m         12.0%           Medium: sponsor-owned, sale timing depends on hold year
+Companies to score: 82 (3 more need a sector check first); network owners still building: 10
+ rank                                 CompanyName  score      business_type confidence relevance turnover ebitda_margin
+    1 THE WIRELESS INFRASTRUCTURE COMPANY LIMITED   92.9      network_owner       High        IN    38.9m         59.0%
+    2                            WIFINITY LIMITED   89.7      network_owner       High        IN    39.8m         42.0%
+    3                           VEA GROUP LIMITED   87.4         contractor       High        IN    32.6m         23.0%
+    4         THE NETWORKING PEOPLE (TNP) LIMITED   82.1 recurring_services       High        IN    18.1m         13.0%
+    5              REDWOOD TECHNOLOGIES GROUP LTD   81.8 recurring_services       High  ADJACENT    80.3m         16.0%
+    6                 OPEN FIBRE NETWORKS LIMITED   81.5      network_owner     Medium        IN    27.8m         51.0%
+    7                     CLARUS NETWORKS LIMITED   81.4 recurring_services       High        IN    26.7m         12.0%
+    8              COMMUNICATE TECHNOLOGY LIMITED   79.5 recurring_services     Medium  ADJACENT    13.8m         16.0%
+    9                 RAPID RESPONSE TELECOMS LTD   79.2         contractor       High        IN    33.1m         16.0%
+   10                ALERT COMMUNICATIONS LIMITED   79.1    project_company       High  ADJACENT    10.8m         50.0%
+   11                    THE BADGER GROUP LIMITED   78.7 recurring_services       High  ADJACENT    13.6m         33.0%
+   12                                KNTC LIMITED   78.6         contractor       High        IN    21.5m         14.0%
+   13                            TAYLOR PLANT LTD   76.1         contractor       High  ADJACENT    13.5m         21.0%
+   14       BEACON COMMUNICATION SERVICES LIMITED   76.0         contractor       High        IN    31.8m         19.0%
+   15                        OCU NETTWORX LIMITED   75.7         contractor     Medium  ADJACENT    27.9m         13.0%
+   16                     WINDSOR TELECOM LIMITED   75.5 recurring_services     Medium  ADJACENT    15.4m         18.0%
+   17       TELECOMMUNICATIONS MANAGEMENT LIMITED   74.7 recurring_services     Medium  ADJACENT    10.6m         20.0%
+   18                BARCLAY DIGITAL SERVICES LTD   74.6 recurring_services     Medium  ADJACENT    17.5m         22.0%
+   19                     COMMUNITY FIBRE LIMITED   74.0      network_owner       High        IN   112.5m         24.0%
+   20                       SATCOM GLOBAL LIMITED   73.5 recurring_services       High        IN    27.5m         17.0%
+Confidence: {'High': 55, 'Medium': 27}
 
-Saved ranking_latest.csv, a dated copy in data/outputs/rankings/ and sector_check.csv
+Saved ranking_latest.csv, building_latest.csv, a dated copy in data/outputs/rankings/ and sector_check.csv

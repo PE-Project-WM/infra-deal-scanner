@@ -1,0 +1,2146 @@
+=== page 1 ===
+The Networking People (TNP) Limited - Limited company accounts 25.1
+IRIS Accounts Production
+v25.1.4.42
+07667393
+Board of Directors
+1.4.24
+31.3.25
+31.3.25
+Medium entities
+true
+false
+true
+true
+false
+false
+true
+true
+true
+false
+These accounts have been prepared in accordance with the provisions applicable to companies subject to the medium-sized companies regime.
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+07667393
+2024-03-31
+07667393
+2025-03-31
+07667393
+2024-04-01
+2025-03-31
+07667393
+2023-03-31
+07667393
+2023-04-01
+2024-03-31
+07667393
+2024-03-31
+07667393
+ns15:EnglandWales
+2024-04-01
+2025-03-31
+07667393
+ns14:PoundSterling
+2024-04-01
+2025-03-31
+07667393
+ns10:Director1
+2024-04-01
+2025-03-31
+07667393
+ns10:PrivateLimitedCompanyLtd
+2024-04-01
+2025-03-31
+07667393
+ns10:MediumEntities
+2024-04-01
+2025-03-31
+07667393
+ns10:Audited
+2024-04-01
+2025-03-31
+07667393
+ns10:Medium-sizedCompaniesRegimeForDirectorsReport
+2024-04-01
+2025-03-31
+07667393
+=== page 2 ===
+ns10:Medium-sizedCompaniesRegimeForAccounts
+2024-04-01
+2025-03-31
+07667393
+ns10:FullAccounts
+2024-04-01
+2025-03-31
+07667393
+ns10:Director2
+2024-04-01
+2025-03-31
+07667393
+ns10:RegisteredOffice
+2024-04-01
+2025-03-31
+07667393
+ns10:Director3
+2024-04-01
+2025-03-31
+07667393
+1
+2024-04-01
+2025-03-31
+07667393
+1
+2023-04-01
+2024-03-31
+07667393
+ns5:CurrentFinancialInstruments
+2025-03-31
+07667393
+ns5:CurrentFinancialInstruments
+2024-03-31
+07667393
+ns5:Non-currentFinancialInstruments
+2025-03-31
+07667393
+ns5:Non-currentFinancialInstruments
+2024-03-31
+07667393
+ns5:ShareCapital
+2025-03-31
+07667393
+ns5:ShareCapital
+2024-03-31
+07667393
+ns5:SharePremium
+2025-03-31
+07667393
+ns5:SharePremium
+2024-03-31
+07667393
+ns5:CapitalRedemptionReserve
+2025-03-31
+07667393
+ns5:CapitalRedemptionReserve
+2024-03-31
+07667393
+ns5:RetainedEarningsAccumulatedLosses
+2025-03-31
+07667393
+ns5:RetainedEarningsAccumulatedLosses
+2024-03-31
+07667393
+ns5:ShareCapital
+2023-03-31
+07667393
+ns5:RetainedEarningsAccumulatedLosses
+2023-03-31
+07667393
+=== page 3 ===
+ns5:SharePremium
+2023-03-31
+07667393
+ns5:CapitalRedemptionReserve
+2023-03-31
+07667393
+ns5:RetainedEarningsAccumulatedLosses
+2023-04-01
+2024-03-31
+07667393
+ns5:CapitalRedemptionReserve
+2023-04-01
+2024-03-31
+07667393
+ns5:RetainedEarningsAccumulatedLosses
+2024-04-01
+2025-03-31
+07667393
+ns5:CapitalRedemptionReserve
+2024-04-01
+2025-03-31
+07667393
+4
+2024-04-01
+2025-03-31
+07667393
+4
+2023-04-01
+2024-03-31
+07667393
+ns10:HighestPaidDirector
+2024-04-01
+2025-03-31
+07667393
+ns10:HighestPaidDirector
+2023-04-01
+2024-03-31
+07667393
+ns5:OwnedAssets
+2024-04-01
+2025-03-31
+07667393
+ns5:OwnedAssets
+2023-04-01
+2024-03-31
+07667393
+ns5:LeasedAssets
+2024-04-01
+2025-03-31
+07667393
+ns5:LeasedAssets
+2023-04-01
+2024-03-31
+07667393
+ns5:HirePurchaseContracts
+2024-04-01
+2025-03-31
+07667393
+ns5:HirePurchaseContracts
+2023-04-01
+2024-03-31
+07667393
+ns5:LandBuildings
+2024-03-31
+07667393
+ns5:PlantMachinery
+2024-03-31
+07667393
+ns5:FurnitureFittings
+2024-03-31
+=== page 4 ===
+07667393
+ns5:MotorVehicles
+2024-03-31
+07667393
+ns5:LandBuildings
+2024-04-01
+2025-03-31
+07667393
+ns5:PlantMachinery
+2024-04-01
+2025-03-31
+07667393
+ns5:FurnitureFittings
+2024-04-01
+2025-03-31
+07667393
+ns5:MotorVehicles
+2024-04-01
+2025-03-31
+07667393
+ns5:LandBuildings
+2025-03-31
+07667393
+ns5:PlantMachinery
+2025-03-31
+07667393
+ns5:FurnitureFittings
+2025-03-31
+07667393
+ns5:MotorVehicles
+2025-03-31
+07667393
+ns5:LandBuildings
+2024-03-31
+07667393
+ns5:PlantMachinery
+2024-03-31
+07667393
+ns5:FurnitureFittings
+2024-03-31
+07667393
+ns5:MotorVehicles
+2024-03-31
+07667393
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2024-04-01
+2025-03-31
+07667393
+ns5:MotorVehicles
+ns5:LeasedAssetsHeldAsLessee
+2024-04-01
+2025-03-31
+07667393
+ns5:LeasedAssetsHeldAsLessee
+2024-04-01
+2025-03-31
+07667393
+ns5:PlantMachinery
+ns5:LeasedAssetsHeldAsLessee
+2025-03-31
+07667393
+ns5:MotorVehicles
+ns5:LeasedAssetsHeldAsLessee
+2025-03-31
+07667393
+ns5:LeasedAssetsHeldAsLessee
+2025-03-31
+07667393
+ns5:WithinOneYear
+=== page 5 ===
+ns5:CurrentFinancialInstruments
+2025-03-31
+07667393
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+2024-03-31
+07667393
+ns5:Non-currentFinancialInstruments
+2024-04-01
+2025-03-31
+07667393
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2025-03-31
+07667393
+ns5:BetweenOneTwoYears
+ns5:Non-currentFinancialInstruments
+2024-03-31
+07667393
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2025-03-31
+07667393
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2024-03-31
+07667393
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+ns5:HirePurchaseContracts
+2025-03-31
+07667393
+ns5:WithinOneYear
+ns5:CurrentFinancialInstruments
+ns5:HirePurchaseContracts
+2024-03-31
+07667393
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2025-03-31
+07667393
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2024-03-31
+07667393
+ns5:HirePurchaseContracts
+2025-03-31
+07667393
+ns5:HirePurchaseContracts
+2024-03-31
+07667393
+ns5:WithinOneYear
+2025-03-31
+07667393
+ns5:WithinOneYear
+2024-03-31
+07667393
+ns5:BetweenOneFiveYears
+2025-03-31
+07667393
+ns5:BetweenOneFiveYears
+2024-03-31
+07667393
+ns5:MoreThanFiveYears
+2025-03-31
+07667393
+ns5:MoreThanFiveYears
+2024-03-31
+07667393
+ns5:AllPeriods
+=== page 6 ===
+2025-03-31
+07667393
+ns5:AllPeriods
+2024-03-31
+07667393
+ns5:Secured
+2025-03-31
+07667393
+ns5:Secured
+2024-03-31
+07667393
+ns5:AcceleratedTaxDepreciationDeferredTax
+2025-03-31
+07667393
+ns5:AcceleratedTaxDepreciationDeferredTax
+2024-03-31
+07667393
+ns5:DeferredTaxation
+2024-03-31
+07667393
+ns5:DeferredTaxation
+2024-04-01
+2025-03-31
+07667393
+ns5:DeferredTaxation
+2025-03-31
+REGISTERED NUMBER: 
+07667393
+(England and Wales) 
+Strategic Report, Report of the Directors and
+ Financial Statements
+ for the Year Ended 31 March 2025
+for
+The Networking People (TNP) Limited
+The Networking People (TNP) Limited (Registered number: 07667393)
+Contents of the Financial Statements
+for the Year Ended 31 March 2025
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Directors  
+4
+Report of the Independent Auditors  
+6
+Profit and Loss Account  
+10
+Other Comprehensive Income  
+11
+Balance Sheet  
+12
+Statement of Changes in Equity  
+13
+Cash Flow Statement  
+14
+Notes to the Cash Flow Statement  
+15
+Notes to the Financial Statements 
+17
+The Networking People (TNP) Limited
+Company Information 
+for the Year Ended 31 March 2025
+DIRECTORS:
+Mr Scott Thomas Daniels
+Mr Robin Charles Williams
+REGISTERED OFFICE:
+Network House
+Caton Road
+Lancaster
+=== page 7 ===
+England
+LA1 3PE
+REGISTERED NUMBER:
+07667393
+(England and Wales) 
+AUDITORS:
+Thompson Wright (Audit) Limited
+Ebenezer House
+Ryecroft
+Newcastle under Lyme
+Staffordshire
+ST5 2BE
+Page 1
+The Networking People (TNP) Limited (Registered number: 07667393)
+Strategic Report 
+for the Year Ended 31 March 2025
+The directors present their report with the financial statements of the company for the year ended 31 March 2025.
+REVIEW OF BUSINESS
+The turnover of the company is generated through the supply, design, implementation and support of ICT networks, including the 
+provision of security solutions and services for them. Underpinning this, TNP operates its own carrier network providing high speed 
+internet, cloud and wide area network connectivity across the UK.
+The company targets organisations that are major consumers of the internet and networking technologies, with a heavy emphasis 
+on the public sector. Over 90% of TNP's business is in local government, health, blue light and education. This level of public sector 
+experience ensures TNP are on key procurement frameworks, and that all relevant compliance and technical requirements are fully 
+understood and can be leveraged when tendering for public sector contracts.
+The company continues to develop its supply chain relationships by working with carefully selected leading vendors such as 
+Fortinet, Juniper, Cisco and HPE Aruba. As a
+ Fortinet Expert 
+partner, the company continues to demonstrate its ability to deliver the 
+full spectrum of Fortinet solutions at the highest partner level with highly trained staff who are able to manage the most complex 
+customer deployments.  The company is continuing to develop its 
+Juniper Select 
+level partnership, investing in technical skills, 
+training and development to extend the portfolio from WAN connectivity solutions to include the Juniper MIST stack of LAN/WiFi 
+technologies.  
+Cisco Premier Integrator
+ partnership is combined with both 
+Advanced Enterprise Networks & Security Architecture 
+Specialisations
+, further demonstrating TNP's technical capabilities. TNP also continues to develop its relationship with 
+HPE Aruba 
+and 
+Palo Alto Networks
+, thus extending the potential for customer engagement.
+The company has had consistent growth in turnover and has achieved an 18.4% increase on the prior year, despite the ongoing 
+challenging UK economic backdrop.  Strategic improvements to commercial models and operating efficiencies have seen 
+profitability begin to recover, demonstrated by a 68% increase in operating profit on the prior year.  The company continues to 
+have a very healthy pipeline and confirmed order book.
+In March 2025, the company secured an investment from YFM Equity Partners LLP (YFM), primarily to support a management 
+buyout led by Scott Daniels (Managing Director) and Robin Williams (Technical Director) to facilitate the exit of Christopher Wade, 
+who had moved into a non-executive position approximately 2 years prior.  The investment by YFM will support the company's 
+expansion plans, enhance its service offering and continue delivering mission-critical network solutions to its growing client base.
+The company will continue to invest in capacity for further growth and are expecting revenue growth to be in the region of 15% for 
+the forthcoming year.
+FINANCIAL INSTRUMENT RISKS
+The financial instrument risks affecting the company relate to cashflow risk, credit risk, liquidity risk and foreign currency risk.
+Cashflow risk
+Cashflow risk is the risk that sufficient levels of cash do not flow into the business to allow working capital requirements to be met 
+in a timely manner. The management of the timing of cash inflows and cash outflows is achieved with the close involvement of 
+management with customer and supplier relationships. Management also reviews financial information on a regular basis to 
+determine whether further measures are needed to ensure sufficient cash inflows to the business.
+Credit risk
+Credit risk is the risk that the company will not receive full settlement on amounts due from customers. This risk is managed 
+through continually monitored credit procedures including having regular dialogue with customers during the conduct of the 
+business. This risk is reduced dramatically for the company due to the nature of its customer base (over 90% public sector) who are 
+mandated by law to pay all relevant invoices within 30 days of receipt.
+Liquidity risk
+Liquidity risk is the risk that the company will not have sufficient funds to carry out its short and longer- term objectives. 
+Historically, the company has managed its funding requirements through the retention of cash arising from its operating activities 
+without the need to raise cash through debt finance. The company has also secured additional liquidity by taking out loans in the 
+=== page 8 ===
+UK.
+Foreign currency risk
+Foreign currency risk is the risk that on settlement of contractual balances the company will incur losses because of a fall in the 
+value of the company's functional currency against that of the counterparty. This risk is not relevant to the company as its does not 
+transact with its customers using foreign currency. Should this occur in the future the company will raise invoices in the customer's 
+functional currency to offset some of this risk.
+Page 2
+The Networking People (TNP) Limited (Registered number: 07667393)
+Strategic Report 
+for the Year Ended 31 March 2025
+FINANCIAL KEY PERFORMANCE INDICATORS
+The key financial performance indicators of the business are as follows:
+31.03.25
+31.03.24
+£   
+£   
+Turnover
+15,519
+13,108
+Gross Profit
+4,797
+3,930
+Operating Profit
+983
+585
+NON-FINANCIAL KEY PERFORMANCE INDICATORS
+The key non-financial performance indicators of the business are as follows:
+31.03.25
+31.03.24
+Average number of employees
+54
+52
+Debtors Days
+50 Days
+31 Days
+Creditors Days
+44 Days
+32 Days
+FUTURE DEVELOPMENTS
+The trading outlook for 2025/26 financial year is healthy with trading levels and operating margins being maintained and improved. 
+The company has seen an increase in the number of projects and the value of the contracts in the past 12 months which will 
+continue in the future.  The pipeline for the business is secured for the next four years with funding and delivery alongside the 
+company's key partners.
+ON BEHALF OF THE BOARD:
+Mr Scott Thomas Daniels
+- Director 
+24 July 2025
+Page 3
+The Networking People (TNP) Limited (Registered number: 07667393)
+Report of the Directors 
+for the Year Ended 31 March 2025
+The directors present their report with the financial statements of the company for the year ended 31 March 2025. 
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was that of the provision of Internet and Cloud Connectivity, WAN & 
+SDWAN, network security, networking, networking related professional services and consultancy and associated services to the 
+public and private sectors. 
+DIVIDENDS
+The total distribution of dividends for the year ended 31 March 2025 will be £450,362.
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 April 2024 to the date of this report. 
+Mr Scott Thomas Daniels
+Mr Robin Charles Williams
+Other changes in directors holding office are as follows: 
+Christopher Alan Wade
+- resigned 27 March 2025 
+DONATIONS
+During the financial year, the company made donations to the sum of £5,193 towards charitable causes.
+GOING CONCERN
+The directors have a reasonable expectation that the company has adequate resources to continue in operational existence for the 
+foreseeable future. Thus they continue to adopt the going concern basis of the accounting in preparing the annual financial 
+=== page 9 ===
+statements.
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements in 
+accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors have 
+elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United 
+Kingdom Accounting Standards and applicable law), including Financial Reporting Standard 102 'The Financial Reporting Standard 
+applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless 
+they are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of the company 
+for that period.  In preparing these financial statements, the directors are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue 
+in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's 
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure 
+that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the 
+company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 2006) of 
+which the company's auditors are unaware, and each director has taken all the steps that he ought to have taken as a director in 
+order to make himself aware of any relevant audit information and to establish that the company's auditors are aware of that 
+information. 
+Page 4
+The Networking People (TNP) Limited (Registered number: 07667393)
+Report of the Directors 
+for the Year Ended 31 March 2025
+AUDITORS
+The auditors,  Thompson Wright (Audit) Limited, will be proposed for re-appointment at the forthcoming Annual General Meeting.
+ON BEHALF OF THE BOARD:
+Mr Scott Thomas Daniels
+- Director 
+24 July 2025
+Page 5
+Report of the Independent Auditors to the Members of 
+The Networking People (TNP) Limited
+Opinion
+We have audited the financial statements of The Networking People (TNP) Limited (the 'company') for the year ended 
+31 March 2025 which comprise the Profit and Loss Account, Other Comprehensive Income, Balance Sheet, Statement of Changes in 
+Equity, Cash Flow Statement and Notes to the Cash Flow Statement, Notes to the Financial Statements, including a summary of 
+significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and 
+United Kingdom Accounting Standards, including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in 
+the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 March 2025 and of its profit for the year then ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our 
+responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the financial statements 
+section of our report.  We are independent of the company in accordance with the ethical requirements that are relevant to our 
+audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements.  We believe that the audit evidence we have obtained is sufficient and 
+appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the 
+preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, 
+individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a period of at 
+least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of 
+this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic Report 
+=== page 10 ===
+and the Report of the Directors, but does not include the financial statements and our Report of the Auditors thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated 
+in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, 
+consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the 
+audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material 
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements 
+themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, 
+we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for which the financial 
+statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal requirements. 
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have 
+not identified material misstatements in the Strategic Report or the Report of the Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if, in our 
+opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches not 
+visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Page 6
+Report of the Independent Auditors to the Members of 
+The Networking People (TNP) Limited
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page four, the directors are responsible for the 
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as 
+the directors determine necessary to enable the preparation of financial statements that are free from material misstatement, 
+whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a going 
+concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors either intend to liquidate the company or to cease operations, or have no realistic alternative but to do so. 
+Page 7
+Report of the Independent Auditors to the Members of 
+The Networking People (TNP) Limited
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion.  Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always 
+detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, 
+individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis 
+of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+The extent to which the audit was considered capable of detecting irregularities including fraud
+Our approach to identifying and assessing the risks of material misstatement in respect of irregularities, including fraud and 
+non-compliance with laws and regulations, was as follows:
+- the Senior Statutory Auditor ensured that the audit team collectively had the appropriate competence, capabilities and skills to 
+identify or recognise non-compliance with applicable laws and regulations;
+- we identified the laws and regulations applicable to the company through discussions with directors and other management, and 
+from our commercial knowledge and experience of the sector in which the company operates;
+- we focused on specific laws and regulations which we considered may have a direct material effect on the financial statements or 
+the operations of the company, including the Companies Act 2006, taxation legislation and data protection, anti-bribery and 
+corruption legislation, anti slavery and employment legislation, environmental, (including Waste Electrical and Electronic 
+Equipment recycling (WEEE) Regulations 2013), other industry specific accreditations and health and safety legislation within the 
+industry;
+- we assessed the extent of compliance with the laws and regulations identified above through making enquiries of management 
+and inspecting legal correspondence; and
+- identified laws and regulations were communicated within the audit team regularly and the team remained alert to instances of 
+non-compliance throughout the audit.
+We assessed the susceptibility of the company's financial statements to material misstatement, including obtaining an 
+understanding of how fraud might occur, by:
+=== page 11 ===
+- making enquiries of management as to where they considered there was susceptibility to fraud, their knowledge of actual, 
+suspected and alleged fraud; and
+-considering the internal controls in place to mitigate risks of fraud and non-compliance with laws and regulations.
+To address the risk of fraud through management bias and override of controls, we:
+- performed analytical procedures to identify any unusual or unexpected relationships;
+- tested journal entries to identify unusual transactions;
+-assessed whether judgements and assumptions made in determining the accounting estimates were indicative of potential bias; 
+and
+-investigated the rationale behind significant or unusual transactions.
+In response to the risk of irregularities and non-compliance with laws and regulations, we designed procedures which included, but 
+were not limited to:
+-agreeing financial statement disclosures to underlying supporting documentation;
+-reading the minutes of meetings of those charged with governance;
+-enquiring of management as to actual and potential litigation and claims; and
+- reviewing correspondence with HMRC, relevant regulators including the Health and Safety Executive, and the company's legal 
+advisors.
+Page 8
+Report of the Independent Auditors to the Members of 
+The Networking People (TNP) Limited
+There are inherent limitations in our audit procedures described above. The more removed that laws and regulations are from 
+financial transactions, the less likely it is that we would become aware of non-compliance. Auditing standards also limit the audit 
+procedures required to identify non-compliance with laws and regulations to enquiry of the directors and other management and 
+the inspection of regulatory and legal correspondence, if any.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's 
+website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 
+2006. Our audit work has been undertaken so that we might state to the company's members those matters we are required to 
+state to them in a Report of the Auditors and for no other purpose. To the fullest extent permitted by law, we do not accept or 
+assume responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, 
+or for the opinions we have formed. 
+Jeremy Bostock BA BFP FCA
+(Senior Statutory Auditor) 
+for and on behalf of 
+Thompson Wright (Audit) Limited
+Ebenezer House
+Ryecroft
+Newcastle under Lyme
+Staffordshire
+ST5 2BE
+24 July 2025
+Page 9
+The Networking People (TNP) Limited (Registered number: 07667393)
+Profit and Loss Account 
+for the Year Ended 31 March 2025
+2025
+2024
+Notes
+£   
+£   
+TURNOVER
+3
+15,518,554
+13,107,972
+Cost of sales
+10,721,153
+9,177,867
+GROSS PROFIT
+4,797,401
+3,930,105
+Administrative expenses
+3,814,395
+3,349,854
+983,006
+580,251
+Other operating income
+353
+5,058
+OPERATING PROFIT
+5
+=== page 12 ===
+983,359
+585,309
+Interest receivable and similar income 
+40,654
+17,237
+1,024,013
+602,546
+Interest payable and similar expenses 
+6
+26,920
+24,558
+PROFIT BEFORE TAXATION 
+997,093
+577,988
+Tax on profit
+7
+240,239
+143,411
+PROFIT FOR THE FINANCIAL YEAR 
+756,854
+434,577
+The notes form part of these financial statements
+Page 10
+The Networking People (TNP) Limited (Registered number: 07667393)
+Other Comprehensive Income 
+for the Year Ended 31 March 2025
+2025
+2024
+Notes
+£   
+£   
+PROFIT FOR THE YEAR
+756,854
+434,577
+OTHER COMPREHENSIVE INCOME  
+Purchase of own shares
+(
+594
+)
+(
+752
+)
+Income tax relating to other comprehensive 
+income 
+-
+-
+OTHER COMPREHENSIVE INCOME FOR THE YEAR, 
+NET OF INCOME TAX 
+(
+594
+)
+(
+752
+)
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR 
+756,260
+433,825
+The notes form part of these financial statements
+Page 11
+The Networking People (TNP) Limited (Registered number: 07667393)
+Balance Sheet 
+31 March 2025
+2025
+2024
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+=== page 13 ===
+Tangible assets
+9
+834,017
+1,489,626
+CURRENT ASSETS
+Stocks
+10
+200,977
+123,751
+Debtors
+11
+4,156,865
+1,566,142
+Investments
+12
+-
+7,491
+Cash at bank and in hand
+1,102,763
+1,306,629
+5,460,605
+3,004,013
+CREDITORS
+Amounts falling due within one year 
+13
+4,620,596
+2,998,975
+NET CURRENT ASSETS
+840,009
+5,038
+TOTAL ASSETS LESS CURRENT LIABILITIES 
+1,674,026
+1,494,664
+CREDITORS
+Amounts falling due after more than one year 
+14
+(
+107,385
+)
+(
+297,003
+)
+PROVISIONS FOR LIABILITIES
+18
+(
+202,444
+)
+(
+147,220
+)
+NET ASSETS
+1,364,197
+1,050,441
+CAPITAL AND RESERVES
+Called up share capital
+19
+36,353
+36,313
+Share premium
+20
+58,936
+51,712
+Capital redemption reserve
+20
+4,186
+4,183
+Retained earnings
+20
+1,264,722
+958,233
+=== page 14 ===
+SHAREHOLDERS' FUNDS
+1,364,197
+1,050,441
+The financial statements were approved by the Board of Directors and authorised for issue on 
+24 July 2025
+and were signed on its 
+behalf by: 
+Mr Scott Thomas Daniels
+- Director 
+The notes form part of these financial statements
+Page 12
+The Networking People (TNP) Limited (Registered number: 07667393)
+Statement of Changes in Equity 
+for the Year Ended 31 March 2025
+Called up
+Capital
+share
+Retained
+Share
+redemption
+Total
+capital
+earnings
+premium
+reserve
+equity
+£   
+£   
+£   
+£   
+£   
+Balance at 1 April 2023
+36,278
+973,661
+45,099
+4,178
+1,059,216
+Changes in equity
+Reduction in share capital
+(5
+)
+-
+-
+5
+-
+Increase in share capital
+40
+-
+-
+-
+40
+Share capital redemption
+-
+747
+(747
+)
+-
+-
+Issue of share capital
+-
+-
+7,360
+-
+7,360
+Dividends
+-
+(
+450,000
+)
+-
+=== page 15 ===
+-
+(
+450,000
+)
+Total comprehensive income
+-
+433,825
+-
+-
+433,825
+Balance at 31 March 2024
+36,313
+958,233
+51,712
+4,183
+1,050,441
+Changes in equity
+Reduction in share capital
+(3
+)
+-
+-
+3
+-
+Increase in share capital
+43
+-
+-
+-
+43
+Share capital redemption
+-
+591
+(591
+)
+-
+-
+Issue of share capital
+-
+-
+7,815
+-
+7,815
+Dividends
+-
+(
+450,362
+)
+-
+-
+(
+450,362
+)
+Total comprehensive income
+-
+756,260
+-
+-
+756,260
+Balance at 31 March 2025
+36,353
+1,264,722
+58,936
+4,186
+1,364,197
+The notes form part of these financial statements
+Page 13
+The Networking People (TNP) Limited (Registered number: 07667393)
+Cash Flow Statement 
+for the Year Ended 31 March 2025
+=== page 16 ===
+2025
+2024
+Notes
+£   
+£   
+Cash flows from operating activities
+Cash generated from operations
+1
+1,468,170
+524,927
+Interest paid
+(
+22,329
+)
+(
+24,558
+)
+Interest element of hire purchase payments paid 
+(
+4,591
+)
+-
+Tax paid
+(
+155,688
+)
+(
+56,592
+)
+Tax refund
+-
+1,393
+Net cash from operating activities
+1,285,562
+445,170
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+286,986
+)
+(
+85,598
+)
+Sale of fixed asset investments
+7,844
+-
+Return on investments
+(
+353
+)
+(
+357
+)
+Interest received
+40,654
+17,237
+Net cash from investing activities
+(
+238,841
+)
+(
+68,718
+)
+Cash flows from financing activities
+Loan repayments in year
+(
+269,893
+)
+(
+67,871
+=== page 17 ===
+)
+Amounts due to/from related parties
+(519,655
+)
+-
+Capital repayments in year
+(
+17,941
+)
+-
+Share issue
+7,858
+7,401
+Share buyback
+(
+594
+)
+(
+752
+)
+Equity dividends paid
+(
+450,362
+)
+(
+450,000
+)
+Net cash from financing activities
+(
+1,250,587
+)
+(
+511,222
+)
+Decrease in cash and cash equivalents 
+(
+203,866
+)
+(
+134,770
+)
+Cash and cash equivalents at beginning of year 
+2
+1,306,629
+1,441,399
+Cash and cash equivalents at end of year 
+2
+1,102,763
+1,306,629
+The notes form part of these financial statements
+Page 14
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Cash Flow Statement 
+for the Year Ended 31 March 2025
+1.
+RECONCILIATION OF PROFIT BEFORE TAXATION TO CASH GENERATED FROM OPERATIONS 
+2025
+2024
+£   
+£   
+Profit before taxation
+997,093
+577,988
+Depreciation charges
+150,317
+130,763
+Loss on disposal of fixed assets
+45,166
+-
+Finance costs
+=== page 18 ===
+26,920
+24,558
+Finance income
+(40,654
+)
+(17,237
+)
+1,178,842
+716,072
+Increase in stocks
+(
+77,226
+)
+(
+8,086
+)
+(Increase)/decrease in trade and other debtors
+(
+1,181,068
+)
+563,295
+Increase/(decrease) in trade and other creditors
+1,547,622
+(
+746,354
+)
+Cash generated from operations 
+1,468,170
+524,927
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are in respect of these Balance 
+Sheet amounts: 
+Year ended 31 March 2025
+31.3.25
+1.4.24
+£   
+£   
+Cash and cash equivalents
+1,102,763
+1,306,629
+Year ended 31 March 2024
+31.3.24
+1.4.23
+£   
+£   
+Cash and cash equivalents
+1,306,629
+1,441,399
+The notes form part of these financial statements
+Page 15
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Cash Flow Statement 
+for the Year Ended 31 March 2025
+3.
+ANALYSIS OF CHANGES IN NET FUNDS 
+Other
+non-cash
+At 1.4.24
+Cash flow
+changes
+At 31.3.25
+£   
+£   
+£   
+£   
+Net cash 
+Cash at bank
+and in hand
+1,306,629
+=== page 19 ===
+(203,866
+)
+1,102,763
+1,306,629
+(
+203,866
+)
+1,102,763
+Liquid resources 
+Current asset
+investments
+7,491
+(7,491
+)
+-
+-
+7,491
+(7,491
+)
+-
+-
+Debt
+Finance leases
+-
+17,941
+(142,888
+)
+(124,947
+)
+Debts falling due
+within 1 year
+(28,355
+)
+28,355
+-
+-
+Debts falling due
+after 1 year
+(241,538
+)
+241,538
+-
+-
+(269,893
+)
+287,834
+(142,888
+)
+(124,947
+)
+Total
+1,044,227
+76,477
+(142,888
+)
+977,816
+The notes form part of these financial statements
+Page 16
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements 
+for the Year Ended 31 March 2025
+1.
+STATUTORY INFORMATION
+The Networking People (TNP) Limited is a 
+private company, limited by shares
+, registered in England and Wales. The 
+company's registered number and registered office address can be found on the Company Information page. 
+The presentation currency of the financial statements is the Pound Sterling (£). 
+2.
+ACCOUNTING POLICIES
+=== page 20 ===
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+Going Concern
+After making enquiries, the directors have a reasonable expectation that the company has adequate resources to continue 
+in operational existence for the foreseeable future, being the 12 month period from the date of these accounts being 
+approved, therefore the financial statements have been prepared on a going concern basis.
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemptions in preparing these financial statements, as 
+permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland": 
+•
+the requirement of paragraph 3.17(d); 
+•
+the requirements of paragraphs 11.42, 11.44, 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c); 
+•
+the requirements of paragraphs 12.26, 12.27, 12.29(a), 12.29(b) and 12.29A; 
+•
+the requirement of paragraph 33.7. 
+Critical judgements in applying the company's accounting policies
+There were no critical judgements made in applying the company's accounting policies.
+Critical accounting estimates and assumptions
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, value 
+added tax and other sales taxes.
+Turnover in respect of contracts for on-going services is recognised by reference to the stage of completion.
+Where the substance of a contract is that the contractual obligations are performed gradually over time, revenue is 
+recognised as contract activity progresses to reflect the partial performance of our contractual obligations. The amount of 
+revenue included reflects the accrual of the right to consideration as contract activity progresses by reference to value of 
+the work performed.
+Useful economic lives of tangible assets
+The annual depreciation charge for tangible assets is sensitive to changes in the estimates of useful economic lives and 
+residual value of the assets. The useful economic lives and residual values are re-assessed annually. They are amended 
+when necessary to reflect current estimates, of economic utilisation of the assets.
+Impairment of debtors
+Management perform ongoing reviews of the recoverability of debtor balances, An allowance for doubtful debts is 
+maintained for potential credit losses based on management's assessment  of the expected collectability of amounts 
+receivable. The allowance for bad debts is reviewed periodically to assess the adequacy of the allowance
+Related party exemption
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 102 'The Financial 
+Reporting Standard applicable in the UK and Republic of Ireland', not to disclose related party transactions with wholly 
+owned subsidiaries within the group.
+Page 17
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+2.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Tangible assets are stated at cost less accumulated depreciation and accumulated impairment losses. Cost includes the 
+original purchase price and costs directly attributable to bringing the asset to its working condition for its intended use.
+Depreciation is provided at the following annual rates in order to write off the cost less estimated residual value of each 
+asset over its estimated useful life or, if held under a finance lease, over the lease term, whichever is the shorter.
+Plant and machinery 
+-
+  20% on reducing balance
+Fixtures and fittings  
+-
+  20% on reducing balance
+Motor vehicles       
+-
+  20% on reducing balance
+Repairs and maintenance costs are expensed as incurred.
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete and slow moving 
+items. 
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Profit and Loss Account, except to the 
+extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or substantively 
+=== page 21 ===
+enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet 
+date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in 
+which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that have been 
+enacted or substantively enacted by the year end and that are expected to apply to the reversal of the timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be 
+recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet.  Those held under hire 
+purchase contracts are depreciated over their estimated useful lives.  Those held under finance leases are depreciated over 
+their estimated useful lives or the lease term, whichever is the shorter. 
+The interest element of these obligations is charged to profit or loss over the relevant period. The capital element of the 
+future payments is treated as a liability. 
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the company's pension scheme 
+are charged to profit or loss in the period to which they relate.
+Page 18
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+The company has chosen to adopt the Sections 11 and 12 of FRS 102 in respect of financial instruments.
+(i) Financial assets
+Basic financial assets, including trade and other receivables, and cash and bank balances are initially recognised at 
+transaction price, unless the arrangement constitutes a financing transaction, where the transaction is measured at the 
+present value of the future receipts discounted at a market rate of interest. Such assets are subsequently carried at 
+amortised cost using the effective interest method.
+At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of 
+impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present 
+value of the estimated cash flows discounted at the asset's original effective interest rate. The impairment loss is 
+recognised in profit or loss.
+Financial assets are derecognised when (a) the contractual rights to the cash flows from the asset expires or are settled, or 
+(b) substantially all risks and rewards of the ownership of the asset are transferred to another party or (c) despite having 
+retained some significant risks and rewards of ownership, control of the asset has been transferred to another party who 
+has the practical ability to unilaterally sell the asset to an unrelated third party without imposing additional restrictions.
+(ii) Financial liabilities
+Basic financial liabilities, including trade and other payables and loans, are initially recognised at transaction price, unless 
+the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value of the 
+future receipts discounted at a market rate of interest. Debt instruments are subsequently carried at amortised cost, using 
+the effective interest rate method.
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary course of business from 
+suppliers. Accounts payable are classified as current liabilities if payment is due within one year or less. If not, they are 
+presented as non-current liabilities. Trade payables are recognised initially at transaction price and subsequently measured 
+at amortised cost using the effective interest method.
+Financial liabilities are derecognised when the liability is extinguished, that is when the contractual obligation is discharged, 
+cancelled or expires.
+The preparation of financial statements in conformity with generally accepted principles requires the directors to make 
+estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements 
+and the reported amounts of revenues and expenses during the period. Some of these estimates and judgements are 
+inherently uncertain and subject to change. The impact of any change in accounting estimates is reflected in the period in 
+which the estimate is revised, if the revision only affects the period, or in the period of the revision and future periods if the 
+revision affects both current and future periods. In this respect the directors believe that the critical accounting policies 
+where judgements or estimations are necessarily applied are as follows.
+3.
+TURNOVER
+The turnover and profit before taxation are attributable to the one principal activity of the company. 
+An analysis of turnover by class of business is given below:
+2025
+2024
+£
+£
+Connectivity revenue
+6,179,001
+5,415,058
+=== page 22 ===
+Labour and support revenue
+3,368,280
+2,116,577
+Materials revenue
+5,967,530
+5,574,868
+Reclaimed expenses
+3,743
+1,469
+15,518,554
+13,107,972
+Page 19
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+4.
+EMPLOYEES AND DIRECTORS
+2025
+2024
+£   
+£   
+Wages and salaries
+2,671,666
+2,356,417
+Social security costs
+296,305
+253,861
+Other pension costs
+66,304
+58,612
+3,034,275
+2,668,890
+The average number of employees during the year was as follows: 
+2025
+2024
+54
+52
+2025
+2024
+£   
+£   
+Directors' remuneration
+262,017
+252,017
+The number of directors to whom retirement benefits were accruing was as follows: 
+Money purchase schemes
+3
+3
+Information regarding the highest paid director is as follows:
+2025
+2024
+£   
+£   
+Emoluments etc
+94,006
+89,006
+5.
+OPERATING PROFIT
+The operating profit is stated after charging:
+2025
+2024
+£   
+£   
+Depreciation - owned assets
+132,795
+130,763
+Depreciation - assets on hire purchase contracts
+17,522
+-
+=== page 23 ===
+Loss on disposal of fixed assets
+45,166
+-
+Auditors' remuneration
+19,000
+17,750
+Foreign exchange differences
+700
+868
+6.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+2025
+2024
+£   
+£   
+Bank loan interest
+22,329
+24,558
+Hire purchase interest
+4,591
+-
+26,920
+24,558
+Page 20
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+7.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+2025
+2024
+£   
+£   
+Current tax:
+UK corporation tax
+185,015
+155,669
+Over provision in earlier year
+-
+(1,393
+)
+Total current tax
+185,015
+154,276
+Deferred tax
+55,224
+(
+10,865
+)
+Tax on profit
+240,239
+143,411
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The difference is explained 
+below: 
+2025
+2024
+£   
+£   
+Profit before tax
+997,093
+577,988
+Profit multiplied by the standard rate of corporation tax in the UK of 
+25
+% (2024 - 
+25
+%)  
+=== page 24 ===
+249,273
+144,497
+Effects of:
+Expenses not deductible for tax purposes
+401
+307
+Capital allowances in excess of depreciation
+(
+3,772
+)
+-
+Adjustments to tax charge in respect of previous periods 
+-
+(
+1,393
+)
+Group relief   
+(5,663
+)
+-
+Total tax charge
+240,239
+143,411
+Tax effects relating to effects of other comprehensive income 
+2025
+Gross
+Tax
+Net
+£   
+£   
+£   
+Purchase of own shares
+(
+594
+)
+-
+(594
+)
+2024
+Gross
+Tax
+Net
+£   
+£   
+£   
+Purchase of own shares
+(
+752
+)
+-
+(752
+)
+8.
+DIVIDENDS
+2025
+2024
+£   
+£   
+A Ordinary shares of 1p each 
+Interim
+450,362
+450,000
+Page 21
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+9.
+TANGIBLE FIXED ASSETS
+Fixtures
+=== page 25 ===
+Freehold
+Plant and
+and
+Motor
+property
+machinery
+fittings
+vehicles
+Totals
+£   
+£   
+£   
+£   
+£   
+COST
+At 1 April 2024 
+874,911
+1,123,343
+279,680
+75,384
+2,353,318
+Additions
+-
+409,505
+2,344
+18,025
+429,874
+Disposals
+(
+874,911
+)
+(
+129,545
+)
+(
+220,597
+)
+-
+(
+1,225,053
+)
+At 31 March 2025 
+-
+1,403,303
+61,427
+93,409
+1,558,139
+DEPRECIATION
+At 1 April 2024 
+-
+622,581
+183,142
+57,969
+863,692
+Charge for year 
+-
+124,798
+19,404
+6,115
+150,317
+Eliminated on disposal
+-
+(
+129,545
+)
+(
+160,342
+)
+-
+(
+=== page 26 ===
+289,887
+)
+At 31 March 2025 
+-
+617,834
+42,204
+64,084
+724,122
+NET BOOK VALUE
+At 31 March 2025 
+-
+785,469
+19,223
+29,325
+834,017
+At 31 March 2024 
+874,911
+500,762
+96,538
+17,415
+1,489,626
+Fixed assets, included in the above, which are held under hire purchase contracts are as follows: 
+Plant and
+Motor
+machinery
+vehicles
+Totals
+£   
+£   
+£   
+COST
+Additions
+124,863
+18,025
+142,888
+At 31 March 2025
+124,863
+18,025
+142,888
+DEPRECIATION
+Charge for year 
+16,322
+1,200
+17,522
+At 31 March 2025
+16,322
+1,200
+17,522
+NET BOOK VALUE
+At 31 March 2025
+108,541
+16,825
+125,366
+10.
+STOCKS
+2025
+2024
+£   
+£   
+Stocks
+200,977
+123,751
+11.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2025
+2024
+£   
+£   
+Trade debtors
+2,133,161
+=== page 27 ===
+1,124,960
+Amounts owed by group undertakings
+1,409,655
+-
+Other debtors
+185,039
+70,215
+Prepayments and accrued income
+429,010
+370,967
+4,156,865
+1,566,142
+Page 22
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+12.
+CURRENT ASSET INVESTMENTS
+2025
+2024
+£   
+£   
+Unlisted investments
+-
+7,491
+13.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2025
+2024
+£   
+£   
+Bank loans and overdrafts (see note 15) 
+-
+28,355
+Hire purchase contracts  (see note 16) 
+31,570
+-
+Trade creditors
+1,328,121
+803,389
+Taxation
+184,996
+155,669
+Social security and other taxes 
+109,562
+94,051
+Value added tax
+472,224
+116,343
+Other creditors
+29,263
+18,160
+Deferred income
+2,334,952
+1,684,190
+Accrued expenses
+129,908
+98,818
+4,620,596
+2,998,975
+14.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR 
+2025
+2024
+£   
+£   
+Bank loans (see note 15) 
+-
+241,538
+=== page 28 ===
+Hire purchase contracts  (see note 16) 
+93,377
+-
+Deferred income
+14,008
+55,465
+107,385
+297,003
+Deferred income of £14,008 (2024 : £55,465) has been classified as receivable after more than twelve months.
+15.
+LOANS
+An analysis of the maturity of loans is given below:
+2025
+2024
+£   
+£   
+Amounts falling due within one year or on demand:
+Bank loans
+-
+28,355
+Amounts falling due between one and two years:
+Bank loans - 1-2 years
+-
+29,622
+Amounts falling due between two and five years:
+Bank loans - 2-5 years
+-
+97,052
+Amounts falling due in more than five years:
+Repayable by instalments
+Bank loans more 5 yr by instal
+-
+114,864
+Page 23
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+16.
+LEASING AGREEMENTS
+Minimum lease payments fall due as follows: 
+Hire purchase contracts 
+2025
+2024
+£   
+£   
+Net obligations repayable:
+Within one year
+31,570
+-
+Between one and five years
+93,377
+-
+124,947
+-
+Non-cancellable operating 
+leases 
+2025
+2024
+£   
+£   
+Within one year
+82,499
+25,038
+Between one and five years
+328,000
+8,834
+In more than five years
+410,000
+-
+=== page 29 ===
+820,499
+33,872
+17.
+SECURED DEBTS
+The following secured debts are included within creditors:
+2025
+2024
+£   
+£   
+Bank loans
+-
+269,893
+Hire Purchase
+124,947
+-
+124,947
+269,893
+The hire purchase liability is secured on the assets financed.
+18.
+PROVISIONS FOR LIABILITIES
+2025
+2024
+£   
+£   
+Deferred tax
+Accelerated capital allowances
+202,444
+147,220
+Deferred
+tax
+£   
+Balance at 1 April 2024
+147,220
+Provided during year
+55,224
+Balance at 31 March 2025
+202,444
+Page 24
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+19.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:       
+Nominal 
+2025
+2024
+Value:
+£   
+£   
+3,600,000
+A Ordinary
+1p
+36,000
+36,000
+5,170
+B Ordinary
+1p
+52
+30,110
+C Ordinary
+1p
+301
+313
+36,353
+36,313
+During the year company allotted and issued 4,294 C Ordinary shares of 1p each as fully paid at a premium of 182p per 
+=== page 30 ===
+share. Following the allotment, C class share capital was increased by £43 and share premium by £7,815.
+The company also purchased 333 C Ordinary own shares of 1p each out of distributable capital reserves which were held by 
+employees for a total consideration of £594. This resulted in decrease in C class share capital by £3. A transfer of £3 was 
+made from share capital to capital redemption reserve account in respect of purchase of own shares.
+On 28 June 2024, 5,170 C Ordinary shares were converted to 5,170 B Ordinary shares.
+The net effect of the above transactions was a decrease in C class share capital by £12.
+20.
+RESERVES
+Capital
+Retained
+Share
+redemption
+earnings
+premium
+reserve
+Totals
+£   
+£   
+£   
+£   
+At 1 April 2024
+958,233
+51,712
+4,183
+1,014,128
+Profit for the year
+754,899
+- 
+- 
+754,899
+Dividends
+(450,362
+)
+- 
+- 
+(450,362
+)
+Purchase of own shares
+- 
+- 
+3
+3
+Reduction in share premium
+591
+(591
+)
+- 
+- 
+Issue and allotment of shares
+- 
+7,815
+- 
+7,815
+At 31 March 2025
+1,263,361
+58,936
+4,186
+1,326,483
+21.
+OTHER FINANCIAL COMMITMENTS
+The company has entered into a multilateral guarantee with Yfm Private Equity Limited as follows:
+- A guarantee and debentures consisting of fixed and floating charges over all the assets and undertaking of the entity, The 
+Networking People Topco Ltd and The Networking People Bidco Ltd.
+- A general pledge over documents and goods from the reporting entity.
+22.
+RELATED PARTY DISCLOSURES
+Network House Lancaster Ltd
+A company with common directors with this company.
+During the year, tangible fixed assets with a net book value of £935,166 were sold to Network House Lancaster Ltd for 
+consideration of £890,000 (2024 £nil).
+=== page 31 ===
+Page 25
+continued...
+The Networking People (TNP) Limited (Registered number: 07667393)
+Notes to the Financial Statements - continued 
+for the Year Ended 31 March 2025
+23.
+ULTIMATE CONTROLLING PARTY
+The parent company is The Networking People Bidco Ltd.
+The ultimate parent company is The Networking People Topco Ltd.
+The ultimate parent company is registered in England and Wales and the registered office is Network House, Caton Road, 
+Lancaster, LA1 3PE.
+Consolidated financial statements of The Networking People Topco Ltd are available from the registered office.
+The ultimate controlling party is YFM Equity Partners Buyout III (GP) LLP by virtue of their majority shareholding in the 
+ultimate parent.
+Page 26

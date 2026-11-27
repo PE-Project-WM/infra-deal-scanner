@@ -1,0 +1,2420 @@
+=== page 1 ===
+Sumando Ltd Group accounts (Group and Company)
+21
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+true
+false
+false
+true
+true
+true
+No description of principal activity
+2023-05-01
+Sage Accounts Production Advanced 2023 - FRS102_2023
+13,672,204
+2,559,434
+10
+10
+25
+2,198,547
+82,295
+219,855
+302,150
+1,896,397
+2,116,252
+3,835,637
+3,835,637
+3,835,637
+24,166
+7,242
+1
+100
+100
+xbrli:pure
+xbrli:shares
+iso4217:GBP
+14377755
+2023-05-01
+2024-04-30
+14377755
+2024-04-30
+14377755
+2023-04-30
+14377755
+2022-09-26
+2023-04-30
+14377755
+2023-04-30
+14377755
+2022-09-25
+14377755
+bus:Consolidated
+2023-05-01
+2024-04-30
+14377755
+core:NetGoodwill
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:NetGoodwill
+2023-05-01
+=== page 2 ===
+2024-04-30
+14377755
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-05-01
+2024-04-30
+14377755
+core:FurnitureFittings
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:FurnitureFittings
+2023-05-01
+2024-04-30
+14377755
+bus:RegisteredOffice
+2023-05-01
+2024-04-30
+14377755
+bus:OrdinaryShareClass1
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+bus:OrdinaryShareClass1
+2023-05-01
+2024-04-30
+14377755
+bus:LeadAgentIfApplicable
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+bus:LeadAgentIfApplicable
+2023-05-01
+2024-04-30
+14377755
+bus:Director1
+2023-05-01
+2024-04-30
+14377755
+bus:Director2
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+2024-04-30
+14377755
+bus:Consolidated
+core:WithinOneYear
+2024-04-30
+14377755
+bus:Consolidated
+core:WithinOneYear
+2023-04-30
+14377755
+core:WithinOneYear
+2024-04-30
+14377755
+core:WithinOneYear
+2023-04-30
+14377755
+bus:Consolidated
+=== page 3 ===
+2023-04-30
+14377755
+bus:Consolidated
+core:NetGoodwill
+2023-04-30
+14377755
+bus:Consolidated
+core:NetGoodwill
+2024-04-30
+14377755
+bus:Consolidated
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-04-30
+14377755
+bus:Consolidated
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2024-04-30
+14377755
+bus:Consolidated
+core:FurnitureFittings
+2024-04-30
+14377755
+bus:Consolidated
+core:ShareCapital
+2022-09-26
+2023-04-30
+14377755
+bus:Consolidated
+core:RetainedEarningsAccumulatedLosses
+2022-09-26
+2023-04-30
+14377755
+bus:Consolidated
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+2022-09-26
+2023-04-30
+14377755
+bus:Consolidated
+core:Non-controllingInterests
+2022-09-26
+2023-04-30
+14377755
+bus:Consolidated
+2022-09-26
+2023-04-30
+14377755
+bus:Consolidated
+2023-04-30
+14377755
+bus:Consolidated
+core:RetainedEarningsAccumulatedLosses
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:Non-controllingInterests
+2023-05-01
+2024-04-30
+14377755
+core:ShareCapital
+2022-09-26
+2023-04-30
+14377755
+=== page 4 ===
+core:RetainedEarningsAccumulatedLosses
+2022-09-26
+2023-04-30
+14377755
+core:RetainedEarningsAccumulatedLosses
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:UKTax
+2023-05-01
+2024-04-30
+14377755
+bus:Consolidated
+core:UKTax
+2022-09-26
+2023-04-30
+14377755
+bus:Consolidated
+core:ShareCapital
+2024-04-30
+14377755
+bus:Consolidated
+core:ShareCapital
+2023-04-30
+14377755
+bus:Consolidated
+core:RetainedEarningsAccumulatedLosses
+2024-04-30
+14377755
+bus:Consolidated
+core:RetainedEarningsAccumulatedLosses
+2023-04-30
+14377755
+bus:Consolidated
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+2024-04-30
+14377755
+bus:Consolidated
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+2023-04-30
+14377755
+bus:Consolidated
+core:Non-controllingInterests
+2024-04-30
+14377755
+bus:Consolidated
+core:Non-controllingInterests
+2023-04-30
+14377755
+core:ShareCapital
+2024-04-30
+14377755
+core:ShareCapital
+2023-04-30
+14377755
+core:RetainedEarningsAccumulatedLosses
+2024-04-30
+14377755
+core:RetainedEarningsAccumulatedLosses
+2023-04-30
+14377755
+core:BetweenOneFiveYears
+bus:Consolidated
+2024-04-30
+14377755
+core:BetweenOneFiveYears
+bus:Consolidated
+2023-04-30
+14377755
+=== page 5 ===
+bus:Consolidated
+core:MoreThanFiveYears
+2024-04-30
+14377755
+bus:Consolidated
+core:NetGoodwill
+2023-04-30
+14377755
+bus:Consolidated
+core:CostValuation
+core:Non-currentFinancialInstruments
+2023-04-30
+14377755
+core:AdditionsToInvestments
+bus:Consolidated
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+bus:Consolidated
+core:DisposalsRepaymentsInvestments
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+bus:Consolidated
+core:Non-currentFinancialInstruments
+core:ShareProfitOrLossIncreaseDecreaseInInvestments
+2024-04-30
+14377755
+bus:Consolidated
+core:DividendsReceivedIncreaseInInvestments
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+bus:Consolidated
+core:CostValuation
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+bus:Consolidated
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+bus:Consolidated
+core:Non-currentFinancialInstruments
+2023-04-30
+14377755
+core:CostValuation
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+core:Non-currentFinancialInstruments
+2024-04-30
+14377755
+core:Non-currentFinancialInstruments
+2023-04-30
+14377755
+core:AcceleratedTaxDepreciationDeferredTax
+bus:Consolidated
+2024-04-30
+14377755
+core:AcceleratedTaxDepreciationDeferredTax
+bus:Consolidated
+2023-04-30
+14377755
+bus:Consolidated
+core:TaxLossesCarry-forwardsDeferredTax
+2024-04-30
+14377755
+bus:Consolidated
+core:TaxLossesCarry-forwardsDeferredTax
+=== page 6 ===
+2023-04-30
+14377755
+core:TaxLossesCarry-forwardsDeferredTax
+2024-04-30
+14377755
+core:TaxLossesCarry-forwardsDeferredTax
+2023-04-30
+14377755
+bus:Consolidated
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+2023-04-30
+14377755
+bus:Consolidated
+core:DeferredTaxation
+2023-04-30
+14377755
+bus:Consolidated
+core:DeferredTaxation
+2024-04-30
+14377755
+bus:Consolidated
+bus:LeadAgentIfApplicable
+2022-09-26
+2023-04-30
+14377755
+bus:MediumEntities
+2023-05-01
+2024-04-30
+14377755
+bus:Audited
+2023-05-01
+2024-04-30
+14377755
+bus:Medium-sizedCompaniesRegimeForAccounts
+2023-05-01
+2024-04-30
+14377755
+bus:PrivateLimitedCompanyLtd
+2023-05-01
+2024-04-30
+14377755
+bus:FullAccounts
+2023-05-01
+2024-04-30
+14377755
+bus:OrdinaryShareClass1
+2024-04-30
+14377755
+bus:Consolidated
+bus:OrdinaryShareClass1
+2024-04-30
+14377755
+bus:OrdinaryShareClass1
+2023-04-30
+14377755
+bus:Consolidated
+bus:OrdinaryShareClass1
+2023-04-30
+14377755
+bus:Consolidated
+core:DeferredTaxation
+2023-05-01
+2024-04-30
+COMPANY REGISTRATION NUMBER: 
+14377755
+SUMANDO LTD
+CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+30 April 2024
+=== page 7 ===
+SUMANDO LTD
+CONSOLIDATED FINANCIAL STATEMENTS
+YEAR ENDED 30 APRIL 2024
+Contents
+Page
+Strategic report
+  1
+Directors' report
+  3
+Independent auditor's report to the members
+  5
+Consolidated statement of comprehensive income
+  8
+Consolidated statement of financial position
+  9
+Company statement of financial position
+10
+Consolidated statement of changes in equity
+11
+Company statement of changes in equity
+12
+Consolidated statement of cash flows
+13
+Notes to the consolidated financial statements
+14
+SUMANDO LTD
+STRATEGIC REPORT
+YEAR ENDED 30 APRIL 2024
+Principal activities The group is principally engaged in the design, development, supply and installation of solar energy systems and the ongoing maintenance of these systems and is one of the largest renewable energy development and construction groups within the United Kingdom. The group focuses on developing larger utility scale (and subsidy free) energy products, mainly solar farms with battery storage. Business review and future developments Throughout this year, the group has continued to thrive as a trusted Energy Development Company (EDC). We have successfully developed significant and impactful renewable energy projects across the UK, both under the Town and Country planning regime and as Nationally Significant Infrastructure Projects (NSIPs). In addition to our development efforts, we have acquired Ready-to-Build projects from trusted partners. Furthermore, as an Engineering, Procurement, and Construction (EPC) company, we have also built projects that we previously secured planning consent for. For over a decade, we have been at the forefront of solar farm development, design, and construction in the UK. We take pride in the fact that our projects are either fully owned by us or backed by some of the world's largest energy funds and utility companies. Key financial performance indicators The key financial highlights for the group are as follows:
+2024
+2023
+£
+£
+Turnover
+8,258,977
+14,919,748
+Gross profit margin
+33.7%
+27.4%
+Principal risks and uncertainties The process of risk management is addressed through a framework of policies, procedures and internal controls that are reviewed by the board of directors on a regular basis. The financial management unit in the parent company manages the group's financial risks. It establishes the procedure required to control its exposure to interest and exchange rates as well as to credit and liquidity risk. The principal risks and how they are mitigated or managed are set out below. Credit risk The credit risk on liquid funds is limited as they are maintained in financial institutions with high credit ratings. The credit risk on the recovery of amounts owed by customers for invoiced sales is managed by regular monitoring of outstanding amounts and through credit checks. Liquidity risk To ensure the liquidity and to meet its payment commitments arising from its business activity, the group holds the liquid assets shown in its statement of financial position, as well as the financing and credit lines with own resources. Market risk Market risks mainly relate to the evolution of market demand in the coming years. In this regard, the director, considering the market evolution in the short-term and the positive prospects of the sector in which the group operates, considers that there will be an increase in net revenues which will turn into positive profitability figures.
+This report was approved by the board of directors on 26 April 2025 and signed on behalf of the board by:
+J L Gandia Fornes
+Director
+Registered office:
+2 Crossways Business Centre
+Bicester Road
+Kingswood
+Aylesbury
+Bucks
+United Kingdom
+HP180RA
+SUMANDO LTD
+DIRECTORS' REPORT
+YEAR ENDED 30 APRIL 2024
+The directors present their report and the consolidated financial statements of the group for the year ended 
+30 April 2024
+.
+Directors
+The directors who served the company during the year was as follows:
+A Mozas
+J L Gandia Fornes
+ was appointed as a director on 5 September 2024.
+Dividends
+The directors do not recommend the payment of a dividend.
+Disclosure of information in the strategic report
+The company has chosen in accordance with Companies Act 2006, s.414C(11) to set out in the company's strategic report information required by Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008, Sch. 7 to be contained in the directors' report. It has done so in respect of future developments and financial risk management.
+Directors' responsibilities statement
+The directors are responsible for preparing the strategic report, directors' report and the consolidated financial statements in accordance with applicable law and regulations. Company law requires the directors to prepare consolidated financial statements for each financial year. Under that law the directors have elected to prepare the consolidated financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not approve the consolidated financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the group and the company and the profit or loss of the group for that period. In preparing these consolidated financial statements, the directors are required to: - select suitable accounting policies and then apply them consistently; - make judgments and accounting estimates that are reasonable and prudent; - prepare the consolidated financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business. The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the consolidated financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Statement of disclosure of information to auditors
+Each of the persons who is a director at the date of approval of this report confirms that:
+=== page 8 ===
+-
+so far as they are aware, there is no relevant audit information of which the group and the company's auditor is unaware; and - they have taken all steps that they ought to have taken as a director to make themselves aware of any relevant audit information and to establish that the group and the company's auditor is aware of that information.
+This report was approved by the board of directors on 
+26 April 2025
+ and signed on behalf of the board by:
+J L Gandia Fornes
+Director
+Registered office:
+2 Crossways Business Centre
+Bicester Road
+Kingswood
+Aylesbury
+Bucks
+United Kingdom
+HP180RA
+SUMANDO LTD
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF 
+SUMANDO LTD
+YEAR ENDED 30 APRIL 2024
+Opinion
+We have audited the consolidated financial statements of Sumando Ltd (the 'parent company') and its subsidiaries (the 'group') for the year ended 30 April 2024 which comprise the consolidated statement of comprehensive income, consolidated statement of financial position, company statement of financial position, consolidated statement of changes in equity, company statement of changes in equity, consolidated statement of cash flows and the related notes, including a summary of significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards, including FRS 102 The Financial Reporting Standard applicable in the UK and Republic of Ireland (United Kingdom Generally Accepted Accounting Practice). In our opinion the consolidated financial statements: - give a true and fair view of the state of the group's and of the parent company's affairs as at 30 April 2024 and of the group's profit for the year then ended; - have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; - have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the auditor's responsibilities for the audit of the consolidated financial statements section of our report. We are independent of the group in accordance with the ethical requirements that are relevant to our audit of the consolidated financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the consolidated financial statements, we have concluded that the directors' use of the going concern basis of accounting in the preparation of the consolidated financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the group's or the parent company's ability to continue as a going concern for a period of at least twelve months from when the consolidated financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the annual report, other than the consolidated financial statements and our auditor’s report thereon. The directors are responsible for the other information. Our opinion on the consolidated financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. In connection with our audit of the consolidated financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the consolidated financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether there is a material misstatement in the consolidated financial statements or a material misstatement of the other information. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the strategic report and the directors' report for the financial year for which the consolidated financial statements are prepared is consistent with the consolidated financial statements; and
+-
+the strategic report and the directors' report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit, we have not identified material misstatements in the strategic report or the directors' report. We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion: - adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received from branches not visited by us; or - the parent company consolidated financial statements are not in agreement with the accounting records and returns; or - certain disclosures of directors' remuneration specified by law are not made; or - we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+As explained more fully in the directors' responsibilities statement, the directors are responsible for the preparation of the consolidated financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error. In preparing the consolidated financial statements, the directors are responsible for assessing the group's and the parent company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations, or have no realistic alternative but to do so.
+Auditor's responsibilities for the audit of the consolidated financial statements
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements. Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: - Discussions with management including consideration of known or suspected instances of non-compliance with laws and regulations and fraud; - Challenging assumptions and judgements made by management in their significant accounting estimates; - Identifying and testing journal entries, in particular any manual journal entries posted by unexpected users, posted with descriptions indicating a higher level of risk, or posted late with a favourable impact on financial performance. There are inherent limitations in the audit procedures described above and the further removed non-compliance with laws and regulations is from events and transactions reflected in the financial statements, the less likely we would become aware of it. Also, the risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations, or through collusion. A further description of our responsibilities for the audit of the consolidated financial statements is located on the Financial Reporting Council’s website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+ Use of our report
+This report is made solely to the company's members, as a body, in accordance with chapter 3 of part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+W J E Kerr
+ (Senior Statutory Auditor)
+For and on behalf of
+Xeinadin Audit Limited
+Chartered Accountants & Statutory Auditor
+2 Crossways Business Centre
+Bicester Road
+Kingswood
+Aylesbury
+Bucks
+HP18 0RA
+28 April 2025
+SUMANDO LTD
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+YEAR ENDED 30 APRIL 2024
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+Note
+£
+£
+Turnover
+4
+8,258,977
+14,919,748
+=== page 9 ===
+Cost of sales
+(
+5,476,364
+)
+(
+10,825,640
+)
+-----------
+------------
+Gross profit
+2,782,613
+4,094,108
+Administrative expenses
+(
+3,036,520
+)
+(
+1,456,319
+)
+Gain on disposal of shares in group undertakings
+5,562,852
+–
+Gain on disposal of shares in joint ventures
+                  7,400,082
+–
+------------
+-----------
+Operating profit
+5
+12,709,027
+2,637,789
+Share of profit of associates
+13
+1,070,903
+457,660
+Share of loss of joint ventures
+13
+(
+84
+)
+–
+Other interest receivable and similar income
+8
+144,471
+13,446
+Interest payable and similar expenses
+9
+(
+2,549
+)
+(
+14,317
+)
+------------
+-----------
+Profit before taxation
+13,921,768
+3,094,578
+Tax on profit
+10
+(
+249,564
+)
+(
+535,144
+)
+------------
+-----------
+Profit for the financial year and total comprehensive income
+13,672,204
+=== page 10 ===
+2,559,434
+------------
+-----------
+Profit for the financial year attributable to:
+The owners of the parent company
+8,139,100
+1,511,491
+Non-controlling interests
+5,533,104
+1,047,943
+------------
+-----------
+13,672,204
+2,559,434
+------------
+-----------
+All the activities of the group are from continuing operations.
+SUMANDO LTD
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+30 April 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+11
+1,896,397
+2,116,252
+Tangible assets
+12
+1,270,800
+1,130,738
+Investments:
+13
+Investments in associates
+51
+802,611
+-----------
+-----------
+3,167,248
+4,049,601
+Current assets
+Stocks
+14
+24,442,783
+13,647,465
+Debtors
+15
+21,279,010
+24,342,748
+Cash at bank and in hand
+6,442,000
+3,122,467
+------------
+------------
+52,163,793
+41,112,680
+Creditors: amounts falling due within one year
+16
+(
+40,584,115
+)
+(
+42,882,090
+)
+------------
+------------
+Net current assets/(liabilities)
+=== page 11 ===
+11,579,678
+(
+1,769,410
+)
+------------
+-----------
+Total assets less current liabilities
+14,746,926
+2,280,191
+Provisions for liabilities
+Taxation, including deferred taxation
+17
+(
+7,242
+)
+(
+24,166
+)
+------------
+-----------
+Net assets
+14,739,684
+2,256,025
+------------
+-----------
+Capital and reserves
+Called up share capital
+20
+100
+100
+Profit and loss account
+9,650,591
+1,511,491
+-----------
+-----------
+Equity attributable to the owners of the parent company
+9,650,691
+1,511,591
+Non-controlling interests
+5,088,993
+744,434
+------------
+-----------
+14,739,684
+2,256,025
+------------
+-----------
+These consolidated financial statements have been prepared in accordance with the provisions applicable to companies subject to the medium companies regime.
+These consolidated financial statements were approved by the 
+board of directors
+and authorised for issue on 
+26 April 2025
+, and are signed on behalf of the board by:
+J L Gandia Fornes
+Director
+Company registration number: 
+14377755
+SUMANDO LTD
+COMPANY STATEMENT OF FINANCIAL POSITION
+30 April 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Investments
+13
+3,835,637
+3,835,637
+=== page 12 ===
+Current assets
+Debtors
+15
+20,986,825
+10,779,196
+Cash at bank and in hand
+200,752
+1,203,143
+------------
+------------
+21,187,577
+11,982,339
+Creditors: amounts falling due within one year
+16
+(
+22,960,326
+)
+(
+14,126,698
+)
+------------
+------------
+Net current liabilities
+(
+1,772,749
+)
+(
+2,144,359
+)
+-----------
+-----------
+Total assets less current liabilities
+2,062,888
+1,691,278
+-----------
+-----------
+Net assets
+2,062,888
+1,691,278
+-----------
+-----------
+Capital and reserves
+Called up share capital
+20
+100
+100
+Profit and loss account
+2,062,788
+1,691,178
+-----------
+-----------
+Shareholders funds
+2,062,888
+1,691,278
+-----------
+-----------
+The profit for the financial year of the parent company was £
+371,610
+(2023: £
+1,691,178
+).
+These consolidated financial statements have been prepared in accordance with the provisions applicable to companies subject to the medium companies regime.
+These consolidated financial statements were approved by the 
+board of directors
+and authorised for issue on 
+26 April 2025
+, and are signed on behalf of the board by:
+J L Gandia Fornes
+Director
+Company registration number: 
+=== page 13 ===
+14377755
+SUMANDO LTD
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+YEAR ENDED 30 APRIL 2024
+Called up share capital
+Profit and loss account
+Equity attributable to the owners of the parent company
+Non-controlling interests
+Total
+£
+£
+£
+£
+£
+At 26 September 2022
+–
+–
+–
+–
+–
+Profit for the year
+1,511,491
+1,511,491
+1,047,943
+2,559,434
+----
+-----------
+-----------
+-----------
+-----------
+Total comprehensive income for the year
+–
+1,511,491
+1,511,491
+1,047,943
+2,559,434
+Issue of shares
+100
+–
+100
+–
+100
+Dividends paid and payable
+–
+–
+–
+(
+954,116
+)
+(
+954,116
+)
+Acquisition of subsidiary with minority interest
+–
+–
+–
+650,607
+650,607
+----
+-----------
+-----------
+-----------
+-----------
+Total investments by and distributions to owners
+100
+–
+100
+(
+303,509
+)
+=== page 14 ===
+(
+303,409
+)
+At 30 April 2023
+100
+1,511,491
+1,511,591
+744,434
+2,256,025
+Profit for the year
+8,139,100
+8,139,100
+5,533,104
+13,672,204
+----
+-----------
+-----------
+-----------
+------------
+Total comprehensive income for the year
+–
+8,139,100
+8,139,100
+5,533,104
+13,672,204
+Dividends paid and payable
+–
+–
+–
+(
+1,188,545
+)
+(
+1,188,545
+)
+----
+----
+----
+-----------
+-----------
+Total investments by and distributions to owners
+–
+–
+–
+(
+1,188,545
+)
+(
+1,188,545
+)
+----
+-----------
+-----------
+-----------
+------------
+At 30 April 2024
+100
+9,650,591
+9,650,691
+5,088,993
+14,739,684
+----
+-----------
+-----------
+-----------
+------------
+SUMANDO LTD
+COMPANY STATEMENT OF CHANGES IN EQUITY
+YEAR ENDED 30 APRIL 2024
+Called up share capital
+=== page 15 ===
+Profit and loss account
+Total
+£
+£
+£
+At 26 September 2022
+–
+–
+–
+Profit for the year
+1,691,178
+1,691,178
+----
+-----------
+-----------
+Total comprehensive income for the year
+–
+1,691,178
+1,691,178
+Issue of shares
+100
+–
+100
+----
+-----------
+-----------
+Total investments by and distributions to owners
+100
+–
+100
+At 30 April 2023
+100
+1,691,178
+1,691,278
+Profit for the year
+371,610
+371,610
+----
+-----------
+-----------
+Total comprehensive income for the year
+–
+371,610
+371,610
+----
+-----------
+-----------
+At 30 April 2024
+100
+2,062,788
+2,062,888
+----
+-----------
+-----------
+SUMANDO LTD
+CONSOLIDATED STATEMENT OF CASH FLOWS
+YEAR ENDED 30 APRIL 2024
+2024
+2023
+£
+£
+Cash flows from operating activities
+Profit for the financial year
+13,672,204
+2,559,434
+Adjustments for:
+Depreciation of tangible assets
+18,092
+7,858
+Amortisation of intangible assets
+=== page 16 ===
+219,855
+82,295
+Share of profit of associates
+(
+1,070,903
+)
+(
+457,660
+)
+Share of loss of joint ventures
+84
+–
+Other interest receivable and similar income
+(
+144,471
+)
+(
+13,446
+)
+Interest payable and similar expenses
+2,549
+14,317
+Tax on profit
+249,564
+535,144
+(Gain)/loss on disposal of shares in group undertakings
+(5,562,852)
+–
+(Gain)/loss on disposal of shares in joint ventures
+(7,400,082)
+–
+Changes in:
+Stocks
+(
+11,325,527
+)
+(
+3,891,225
+)
+Trade and other debtors
+13,177,661
+(
+12,588,146
+)
+Trade and other creditors
+(
+5,708,676
+)
+8,934,692
+------------
+------------
+Cash generated from operations
+(
+3,872,502
+)
+(
+4,816,737
+)
+Tax paid
+(
+588,576
+)
+–
+-----------
+-----------
+Net cash used in operating activities
+(
+4,461,078
+)
+(
+=== page 17 ===
+4,816,737
+)
+-----------
+-----------
+Cash flows from investing activities
+Purchase of tangible assets
+(
+158,154
+)
+(
+874,597
+)
+Acquisition of subsidiaries
+–
+(
+2,711,700
+)
+Proceeds from sale of subsidiaries
+5,550,000
+–
+Proceeds from sales of interests in joint ventures
+7,400,000
+–
+Dividends received
+1,873,464
+–
+Interest received
+144,471
+13,446
+Net cash acquired with subsidiary undertaking
+–
+                  2,619,633
+Net cash disposed of with subsidiaries
+                  (19,406)
+–
+------------
+-----------
+Net cash from/(used in) investing activities
+14,790,375
+(
+953,218
+)
+------------
+-----------
+Cash flows from financing activities
+Proceeds from issue of ordinary shares
+–
+100
+Loans from group undertakings
+13,849,160
+–
+Loans to participating interests
+(
+1,336,698
+)
+–
+Interest paid
+(
+2,549
+)
+(
+14,317
+)
+Loans (to)/from other related entities
+                  (18,331,132)
+                  9,860,755
+Dividends paid to non-controlling interests
+                  (1,188,545)
+                  (954,116)
+------------
+=== page 18 ===
+-----------
+Net cash (used in)/from financing activities
+(
+7,009,764
+)
+8,892,422
+------------
+-----------
+Net increase in cash and cash equivalents
+3,319,533
+3,122,467
+Cash and cash equivalents at beginning of year
+3,122,467
+–
+-----------
+-----------
+Cash and cash equivalents at end of year
+6,442,000
+3,122,467
+-----------
+-----------
+SUMANDO LTD
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+YEAR ENDED 30 APRIL 2024
+1.
+General information
+            The company is a private company limited by shares, registered in England and Wales. The address of the registered office is 2 Crossways Business Centre, Bicester Road, Kingswood, Aylesbury, HP18 0RA, England. The principal place of business is 7 Waltham Court, Hare Hatch, Reading RG10 9AA.
+2.
+Statement of compliance
+These financial statements have been prepared in accordance with the Companies Act 2006 and applicable accounting standards including Financial Reporting Standard 102, 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland' ('FRS 102').
+3.
+Accounting policies
+Basis of preparation
+The financial statements have been prepared on the historical cost basis. 
+The financial statements are prepared in sterling, which is the functional currency of the entity. Monetary amounts in these financial statements are rounded to the nearest pound.
+ The significant accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all years unless otherwise stated.
+ Going concern           
+These financial statements have been prepared on a going concern basis which the director considers to be appropriate for the group and company. After reviewing the group and company's forecasts and projections, the director has a reasonable expectation that the group and company has adequate resources to continue in operational existence for the foreseeable future. The group and company therefore continues to adopt the going concern basis in preparing its financial statements.
+ Disclosure exemptions The parent company satisfies the criteria of being a qualifying entity as defined in FRS 102. As such, advantage has been taken of the following disclosure exemptions available under FRS 102: (a) No cash flow statement has been presented for the company. (b) Disclosures in respect of financial instruments have not been presented. (c) No disclosure has been given for the aggregate remuneration of key management personnel. Consolidation The consolidated financial statements incorporate the financial statements of the company and all group undertakings. These are adjusted, where appropriate, to conform to group accounting policies. Acquisitions are accounted for under the acquisition method. The results of companies acquired or disposed of are included in the profit and loss account after or up to the date that control passes respectively. As a consolidated profit and loss account is published, a separate profit and loss account for the parent company is omitted from the group financial statements by virtue of section 408 of the Companies Act 2006. Non-controlling interests Non-controlling interests in the net assets of consolidated subsidiaries are identified separately from the group’s equity. Non-controlling interests consist of the amount of those interests at the date of the original business combination and the non-controlling’s share of changes in equity since the date of the combination. The proportions of profit or loss and changes in equity allocated to the owners of the parent and to the non-controlling interests are determined on the basis of existing ownership interests and do not reflect possible exercise or conversion of options or convertible instruments. Judgements and key sources of estimation uncertainty In applying the company's accounting policies, the director is required to make judgements, estimates and assumptions in determining the carrying amounts of assets and liabilities. The director's judgements, estimates and assumptions are based on the best and most reliable evidence available at the time when the decisions are made, and are based on historical experience and other factors that are considered to be applicable. Due to the inherent subjectivity involved in making such judgements, estimates and assumptions, the actual results and outcomes may differ. The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised, if the revision affects only that period, or in the period of the revision and future periods, if the revision affects both current and future periods. Critical judgements in applying the company's accounting policies. The critical judgements that the director has made in the progress of applying the company's accounting policies that have the most significant effect on the amounts recognised in the statutory financial statements are discussed below. (i) Assessing indicators of impairment In assessing whether there have been any indicators of impairment assets, the director has considered both internal and external sources of information such as market conditions, counterparty credit ratings and experience recoverability. There have been no indicators of impairments identified during the current financial year. Key sources of estimation uncertainty The key assumptions concerning the future, and other key sources of estimation uncertainty, that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below. (i) Estimating value in use Where an indication of impairment exists the director will carry out an impairment review to determine the recoverable amount, which is the higher of fair value less cost to sell and value in use. The value in use calculation requires the director to estimate the future cash flows expected to arise from the asset or the cash generating unit and a suitable discount rate in order to calculate present value. (ii) Recoverability of receivables The company establishes a provision for receivables that are estimated not to be recoverable. When assessing recoverability the directors consider factors such as the ageing of the receivables, past experience of recoverability, and the credit profile of individual or groups of customers. (iii) Determining residual values and useful economic lives of property, plant and equipment The company depreciate tangible assets over their estimated useful lives. The estimation of the useful lives of assets is based on historic performance as well as expectations about future use and therefore requires estimates and assumptions to be applied by management. The actual lives of these assets can vary depending on a variety of factors, including technological innovation, product life cycles and maintenance programmes. Judgement is applied by management when determining the residual values for plant, machinery and equipment. When determining the residual value management aim to assess the amount that the company would currently obtain for the disposal of the asset, if it were already of the condition expected at the end of its useful economic life. Where possible this is done with reference to external market prices. Turnover           
+Turnover represents the amounts derived from construction contracts and the provision of maintenance services. Revenue for construction contracts is recognised by reference to the percentage of completion of the contract, provided the outcome can be reliably measured. When the outcome cannot be reliably measured, revenue is only recognised to the extent that it is probable that costs are recoverable. Revenue from the rendering of services is measured by reference to the stage of completion of the service transaction at the end of the reporting period provided that the outcome can be reliably estimated. When the outcome cannot be reliably estimated, revenue is recognised only to the extent that it is probable the expenses recognised will be recovered.
+ Income tax           
+The taxation expense represents the aggregate amount of current and deferred tax recognised in the reporting period. Tax is recognised in profit or loss, except to the extent that it relates to items recognised in other comprehensive income or directly in equity. In this case, tax is recognised in other comprehensive income or directly in equity, respectively. Current tax is recognised on taxable profit for the current and past periods. Current tax is measured at the amounts of tax expected to pay or recover using the tax rates and laws that have been enacted or substantively enacted at the reporting date.
+Deferred tax is recognised in respect of all timing differences at the reporting date. Unrelieved tax losses and other deferred tax assets are recognised to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits. Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date that are expected to apply to the reversal of the timing difference.
+ Foreign currencies           
+Foreign currency transactions are initially recorded in the functional currency, by applying the spot exchange rate as at the date of the transaction. Monetary assets and liabilities denominated in foreign currencies are translated at the exchange rate ruling at the reporting date, with any gains or losses being taken to the profit and loss account.
+ Operating leases           
+Lease payments are recognised as an expense over the lease term on a straight-line basis. The aggregate benefit of lease incentives is recognised as a reduction to expense over the lease term, on a straight-line basis.
+ Business combinations and goodwill           
+Business combinations are accounted for by applying the purchase method. The cost of a business combination is the fair value of the consideration given, liabilities incurred or assumed and of equity instruments issued plus the costs directly attributable to the business combination. Where control is achieved in stages the cost is the consideration at the date of each transaction. Contingent consideration is initially recognised at estimated amount where the consideration is probable and can be measured reliably. Where (i) the contingent consideration is not considered probable or cannot be measured but subsequently becomes probable and measurable or (ii) contingent consideration previously measured is adjusted, the amounts are recognised as an adjustment to the cost of the business combination. Goodwill arising on the acquisition of a business representing the excess of the cost of the acquisition over the company's interest in the net amount of the identifiable assets, liabilities and contingent liabilities acquired, is capitalised and written off on a straight line basis over its useful economic life of ten years.
+Amortisation
+Amortisation is calculated so as to write off the cost of an asset, less its estimated residual value, over the useful life of that asset as follows:
+Goodwill
+-
+10
+%                 
+straight line
+If there is an indication that there has been a significant change in amortisation rate, useful life or residual value of an intangible asset, the amortisation is revised prospectively to reflect the new estimates.
+Tangible assets
+Tangible assets are initially recorded at cost, and subsequently stated at cost less any accumulated depreciation and impairment losses.
+Depreciation
+Depreciation is calculated so as to write off the cost or valuation of an asset, less its residual value, over the useful economic life of that asset as follows:
+Freehold property
+ -
+10
+%                 
+straight line
+Fixtures and fittings
+ -
+25
+%                 
+=== page 19 ===
+straight line
+Investments in subsidiaries
+Investments in subsidiaries are accounted for at cost less any accumulated impairment losses.
+Investments in associates and joint ventures
+Investments in associates and joint ventures are accounted for using the equity method of accounting, whereby the investment is initially recognised at the transaction price and subsequently adjusted to reflect the group's share of the profit or loss, other comprehensive income and equity of the associate, or joint venture.
+Impairment of fixed assets
+            A review for indicators of impairment is carried out at each reporting date, with the recoverable amount being estimated where such indicators exist. Where the carrying value exceeds the recoverable amount, the asset is impaired accordingly. Prior impairments are also reviewed for possible reversal at each reporting date. For the purposes of impairment testing, when it is not possible to estimate the recoverable amount of an individual asset, an estimate is made of the recoverable amount of the cash-generating unit to which the asset belongs. The cash-generating unit is the smallest identifiable group of assets that includes the asset and generates cash inflows that largely independent of the cash inflows from other assets or groups of assets. For impairment testing of goodwill, the goodwill acquired in a business combination is, from the acquisition date, allocated to each of the cash-generating units that are expected to benefit from the synergies of the combination, irrespective of whether other assets or liabilities of the company are assigned to those units.
+Stocks
+Stocks are measured at the lower of cost and estimated selling price less costs to complete and sell. Cost includes all costs of purchase, costs of conversion and other costs incurred in bringing the stock to its present location and condition.
+Financial instruments
+The group and company have chosen to adopt sections 11 and 12 of FRS 102 in respect of financial instruments. Basic financial assets, which include trade and other receivables, loans to fellow group companies and other related entities and cash and bank balances, are initially recognised at transaction price, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest. Such assets are subsequently carried at amortised cost using the effective interest method. At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment, if an asset is impaired the impairment loss is the difference between the carrying amount and the present value of estimated cash flows discounted at the asset's original effective interest rate. The impairment loss is recognised in profit or loss. Basic financial liabilities, which include trade and other payables and loans from other related entities, are initially recognised at transaction price, unless the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value of the future receipts discounted at a market rate of interest. Debt instruments are subsequently carried at amortised cost, using the effective interest rate method. Financial liabilities are derecognised when the liability is extinguished, that is when the contractual obligation is discharged, cancelled or expires.
+ Employee benefits Short term benefits, including holiday pay and other similar non-monetary benefits, are recognised as an expense in the period in which the service is received.
+Defined contribution plans
+Contributions to defined contribution plans are recognised as an expense in the period in which the related service is provided. Prepaid contributions are recognised as an asset to the extent that the prepayment will lead to a reduction in future payments or a cash refund. When contributions are not expected to be settled wholly within 12 months of the end of the reporting date in which the employees render the related service, the liability is measured on a discounted present value basis. The unwinding of the discount is recognised as a finance cost in profit or loss in the period in which it arises.
+Share capital
+Ordinary shares are classified as equity. Incremental costs directly attributable to the issue of new ordinary shares or options are shown in equity as a deduction, net of tax, from the proceeds.
+Distributions to equity holders
+Dividends and other distributions to the company's shareholders are recognised as a liability in the financial statements in the period in which the dividends and other distributions are approved by the shareholders. These amounts are recognised in the statement of changes in equity.
+4.
+Turnover
+Turnover arises from:
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Rendering of services
+178,470
+257,680
+Construction contracts
+8,080,507
+14,662,068
+-----------
+------------
+8,258,977
+14,919,748
+-----------
+------------
+The whole of the turnover is attributable to the principal activity of the group wholly undertaken in the United Kingdom.
+5.
+Operating loss
+Operating profit or loss is stated after charging:
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Amortisation of intangible assets
+219,855
+82,295
+Depreciation of tangible assets
+18,092
+7,858
+Foreign exchange differences
+272,494
+6,818
+--------
+-------
+6.
+Auditor's remuneration
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+=== page 20 ===
+£
+Fees payable for the audit of the consolidated financial statements
+105,000
+57,138
+--------
+-------
+7.
+Staff costs
+The average number of persons employed by the group during the year, including the directors, amounted to:
+2024
+2023
+No.
+No.
+Production staff
+16
+12
+Management staff
+5
+4
+----
+----
+21
+16
+----
+----
+The aggregate payroll costs incurred during the year, relating to the above, were:
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Wages and salaries
+1,489,586
+438,838
+Social security costs
+185,103
+54,102
+Other pension costs
+73,705
+62,412
+-----------
+--------
+1,748,394
+555,352
+-----------
+--------
+            The company had no employees; all employees are employed by subsidiary companies.
+8.
+Other interest receivable and similar income
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Interest on loans and receivables
+48,421
+13,446
+Interest on cash and cash equivalents
+96,050
+–
+--------
+-------
+144,471
+13,446
+--------
+-------
+=== page 21 ===
+9.
+Interest payable and similar expenses
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Interest on banks loans and overdrafts
+1,737
+13,525
+Other interest payable and similar charges
+812
+792
+------
+-------
+2,549
+14,317
+------
+-------
+10.
+Tax on profit
+Major components of tax income
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Current tax:
+UK current tax income
+239,395
+508,581
+Adjustments in respect of prior periods
+27,093
+–
+--------
+--------
+Total current tax
+266,488
+508,581
+--------
+--------
+Deferred tax:
+Origination and reversal of timing differences
+(
+16,473
+)
+26,563
+Adjustments in respect of prior periods
+                  (451)
+–
+-------
+-------
+Total deferred tax
+(
+16,924
+)
+26,563
+--------
+--------
+Tax on profit
+249,564
+535,144
+--------
+--------
+Reconciliation of tax expense
+The tax assessed on the profit on ordinary activities for the year is lower than (2023: lower than) the 
+=== page 22 ===
+standard rate of corporation tax in the UK
+of 
+25
+% (2023: 
+19.49
+%).
+Period from
+Year to
+26 Sep 22 to
+30 Apr 24
+30 Apr 23
+£
+£
+Profit on ordinary activities before taxation
+13,921,768
+3,094,578
+------------
+-----------
+Profit on ordinary activities by rate of tax
+3,480,442
+603,231
+Adjustment to tax charge in respect of prior periods
+27,093
+–
+Effect of expenses not deductible for tax purposes
+190,790
+20,401
+Unused tax losses
+60,129
+–
+Income not taxable for tax purposes
+                  (3,508,439)
+                  (89,212)
+Investment tax credit
+–
+                  (4,600)
+Adjustments in respect of prior periods - deferred tax
+                  (451)
+–
+Adjustment to closing deferred tax to average rate
+–
+                  5,324
+------------
+-----------
+Tax on profit
+249,564
+535,144
+------------
+-----------
+An increase in the UK corporation tax rate from 19% to 25% (effective from 1 April 2023) was substantively enacted on 24 May 2021. For the financial year ended 30 April 2024, the current weighted averaged tax rate was 25% (2023: 19.49%). The deferred tax liability at 30 April 2024 has been calculated at 25% (2023: 25%).
+11.
+Intangible assets
+Group
+Goodwill
+£
+Cost
+At 1 May 2023 and 30 April 2024
+2,198,547
+-----------
+Amortisation
+At 1 May 2023
+82,295
+Charge for the year
+219,855
+-----------
+At 30 April 2024
+302,150
+-----------
+Carrying amount
+At 30 April 2024
+=== page 23 ===
+1,896,397
+-----------
+At 30 April 2023
+2,116,252
+-----------
+The company has no intangible assets.
+12.
+Tangible assets
+Group
+Freehold property
+Fixtures and fittings
+Total
+£
+£
+£
+Cost
+At 1 May 2023
+1,138,596
+–
+1,138,596
+Additions
+–
+158,154
+158,154
+Transfers
+                  (145,427)
+                  145,427
+–
+-----------
+--------
+-----------
+At 30 April 2024
+993,169
+303,581
+1,296,750
+-----------
+--------
+-----------
+Depreciation
+At 1 May 2023
+7,858
+–
+7,858
+Charge for the year
+–
+18,092
+18,092
+Transfers
+                  (7,858)
+                  7,858
+–
+-----------
+--------
+-----------
+At 30 April 2024
+–
+25,950
+25,950
+-----------
+--------
+-----------
+Carrying amount
+At 30 April 2024
+993,169
+277,631
+1,270,800
+-----------
+--------
+-----------
+At 30 April 2023
+=== page 24 ===
+1,130,738
+–
+1,130,738
+-----------
+--------
+-----------
+The company has no tangible assets.
+13.
+Investments
+Group
+Interests in associates
+Joint ventures
+Total
+£
+£
+£
+Share of net assets/cost
+At 1 May 2023
+802,611
+–
+802,611
+Additions
+1
+94
+95
+Disposals
+–
+(
+10
+)
+(
+10
+)
+Share of profit or loss
+1,070,903
+(
+84
+)
+1,070,819
+Dividends received
+(
+1,873,464
+)
+–
+(
+1,873,464
+)
+-----------
+----
+-----------
+At 30 April 2024
+51
+–
+51
+-----------
+----
+-----------
+Impairment
+At 1 May 2023 and 30 April 2024
+–
+–
+–
+-----------
+----
+-----------
+Carrying amount
+At 30 April 2024
+51
+–
+51
+=== page 25 ===
+-----------
+----
+-----------
+At 30 April 2023
+802,611
+–
+802,611
+-----------
+----
+-----------
+Company
+Shares in group undertakings
+£
+Cost
+At 1 May 2023 and 30 April 2024
+3,835,637
+-----------
+Impairment
+At 1 May 2023 and 30 April 2024
+–
+-----------
+Carrying amount
+At 1 May 2023 and 30 April 2024
+3,835,637
+-----------
+At 30 April 2023
+3,835,637
+-----------
+Subsidiaries, associates and other investments
+Details of the investments in which the group and the parent company have an interest of 20% or more are as follows:
+Name of company
+Country of incorporation
+Class of share
+Percentage of shares held
+Directly held subsidiary undertakings
+Padero Solaer Ltd
+England and Wales
+Ordinary
+60%
+Indirectly held subsidiary undertakings
+Blue Planet Solar Ltd
+England and Wales
+Ordinary
+60%
+Carbon Free 2030 Energy Ltd
+England and Wales
+Ordinary
+60%
+Clean Air Renewables Ltd
+England and Wales
+Ordinary
+60%
+Clean Planet Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Green Energy Storage 140 Ltd
+England and Wales
+Ordinary
+60%
+Green Hydrogen Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+One Planet Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+PS-Gander-Down Solar Farm Ltd
+England and Wales
+=== page 26 ===
+Ordinary
+60%
+The Clean Future Renewables Ltd
+England and Wales
+Ordinary
+60%
+WSE Afon Llan Ltd
+England and Wales
+Ordinary
+60%
+WSE Cox's Brook Ltd
+England and Wales
+Ordinary
+60%
+A Perfect Planet Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Hamer Warren Bess Ltd
+England and Wales
+Ordinary
+60%
+Living Energy SPV 99 Ltd
+England and Wales
+Ordinary
+60%
+Simple Energy SPV 100 Ltd
+England and Wales
+Ordinary
+60%
+PS-Level-Up Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+PS-Clean-Air Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Protect Our Planet Energy Ltd
+England and Wales
+Ordinary
+60%
+Pure Life Energy SPV Ltd
+England and Wales
+Ordinary
+60%
+Save Our Planet Energy Ltd
+England and Wales
+Ordinary
+60%
+Crockwell Hill Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Church Lane Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Lady Wood Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Mawkin Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+Skye Green Solar Farm Ltd
+England and Wales
+Ordinary
+60%
+=== page 27 ===
+Jigg FM UK Ltd
+England and Wales
+Ordinary
+36%
+Sunnica Ltd
+England and Wales
+Ordinary
+18%
+Sunnica Farm Ltd
+England and Wales
+Ordinary
+18%
+Sunnica Energy Farm Ltd
+England and Wales
+Ordinary
+18%
+Sunnica Energy Ltd
+England and Wales
+Ordinary
+18%
+Indirectly held associate undertakings
+Rosefield Energyfarm Ltd
+England and Wales
+Ordinary
+29%
+PSH Holdings Ltd
+England and Wales
+Ordinary
+30%
+Indirectly held joint ventures
+One Earth 740 SPV Ltd
+England and Wales
+Ordinary
+48%
+PACE PSR Renewable Energy Hold Co Ltd
+England and Wales
+Ordinary
+30%
+Indirectly held subsidiaries of joint ventures
+Tranquility Energy Ltd
+England and Wales
+Ordinary
+48%
+One Earth Solar Farm Ltd
+England and Wales
+Ordinary
+48%
+PACE Angus Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Astral Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Brigadier Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Koyoto Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Lilac Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Maia Energy Ltd
+England and Wales
+Ordinary
+=== page 28 ===
+30%
+PACE Nighthawk Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Olive Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Pickle Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Quantum Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Rex Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Rudder Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Strike Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Tribute Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Underhill Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Vanish Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Warrior Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Wedge Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Xtreme Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Yoyo Energy Ltd
+England and Wales
+Ordinary
+30%
+PACE Zulu Energy Ltd
+England and Wales
+Ordinary
+30%
+Padero Solaer Ltd holds a 60% interest in the ordinary share capital of Jigg FM UK Ltd. As a result Jigg FM UK Ltd is included as a subsidiary as the group has control over Jigg FM UK Ltd. Jigg FM UK Ltd hold a 51% interest in the ordinary share capital of Sunnica Ltd and its subsidiaries Sunnica Farm Ltd, Sunnica Energy Farm Ltd and Sunnica Energy Ltd. As a result Sunnica Ltd and its subsidiaries Sunnica Farm Ltd, Sunnica Energy Farm Ltd and Sunnica Energy Ltd are included as subsidiaries as the group has control over these entities. Sunnica Farm Ltd, Sunnica Energy Ltd, Sunnica Energy Ltd, A Perfect Planet Solar Farm Ltd, Hamer Warren Bess Ltd, PS-Level-Up Solar Farm Ltd, PS-Clean-Air Solar Farm Ltd, Protect Our Planet Energy Ltd, Pure Life Energy SPV Ltd, Save Our Planet Energy Ltd, Crockwell Hill Solar Farm Ltd, Church Lane Solar Farm Ltd, Lady Wood Solar Farm Ltd, Mawkin Solar Farm Ltd and Skye Green Solar Farm Ltd are dormant. The address of the registered office for PSH Holdings Ltd is 1&2 Tollgate Business Park, Tollgate West, Stanway, Colchester, Essex CO3 8AB. The address of the registered office for Rosefield Energyfarm Ltd is Alexander House, 1 Mandarin Road, Rainton Bridge Business Park, Houghton Le Spring, Sunderland DH4 5RA. The address of the registered office for PACE PSR Renewable Energy Hold Co Ltd, PACE Angus Energy Ltd, PACE Astral Energy Ltd, PACE Brigadier Energy Ltd, PACE Koyoto Energy Ltd, PACE Lilac Energy Ltd, PACE Maia Energy Ltd, PACE Nighthawk Ltd, PACE Olive Energy Ltd, PACE Pickle Energy Ltd, PACE Quantum Energy Ltd, PACE Rex Energy Ltd, PACE Rudder Energy Ltd, PACE Strike Energy Ltd, PACE Tribute Energy Ltd, PACE Underhill Energy Ltd, PACE Vanish Energy Ltd, PACE Warrior Energy Ltd, PACE Wedge Energy Ltd, PACE Xtreme Energy Ltd, PACE Yoyo Energy Ltd and PACE Zulu Energy Ltd is Central House, 20 Central Avenue, St Andrews Business Park, Norwich NR7 0HR. The address of the registered office for all the rest of the above companies is 2 Crossways Business Centre, Bicester Road, Kingswood, Aylesbury HP18 0RA. On 27 June 2023 the group disposed of 9.18% of the issued share capital of One Earth 740 SPV Ltd for consideration of £5,550,000 and entered into a contractual arrangement with another party outside the group to jointly control One Earth 740 SPV Ltd and its subsidiaries Tranquility Energy Ltd and One Earth Solar Farm Ltd. On 27 February 2024 the group disposed of a further 10.2% of the issued share capital of One Earth 740 SPV Ltd for consideration of £7,400,000.
+14.
+Stocks
+Group
+Company
+2024
+2023
+2024
+2023
+=== page 29 ===
+£
+£
+£
+£
+Work in progress
+24,442,783
+13,647,465
+–
+–
+------------
+------------
+----
+----
+15.
+Debtors
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Trade debtors
+222,446
+11,665,435
+–
+–
+Amounts owed by group undertakings
+17,778,530
+–
+20,846,209
+1,731,174
+Amounts owed by undertakings in which the company has a participating interest
+1,562,945
+226,194
+–
+–
+Deferred tax asset
+–
+–
+28,212
+8,342
+Prepayments and accrued income
+32,049
+374,108
+–
+–
+Amounts owed by other related entities
+                  140
+                  8,939,818
+                  100
+                  8,925,418
+Other debtors
+1,682,900
+3,137,193
+112,304
+114,262
+------------
+------------
+------------
+------------
+21,279,010
+24,342,748
+20,986,825
+10,779,196
+------------
+------------
+=== page 30 ===
+------------
+------------
+            Amounts owed by group undertakings and other related entities are receivable on demand.
+16.
+Creditors:
+amounts falling due within one year
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Trade creditors
+1,794,825
+1,979,540
+–
+–
+Amounts owed to group undertakings
+22,820,327
+–
+22,820,326
+–
+Amounts owed to undertakings in which the company has a participating interest
+53
+–
+–
+–
+Accruals and deferred income
+338,987
+4,719,379
+140,000
+73,780
+Corporation tax
+267,300
+589,388
+–
+–
+Social security and other taxes
+–
+1,932,945
+–
+7,983
+Amounts owed to other related entities
+                  15,095,992
+                  33,559,439
+–
+                  14,044,935
+Other creditors
+266,631
+101,399
+–
+–
+------------
+------------
+------------
+------------
+40,584,115
+42,882,090
+22,960,326
+14,126,698
+------------
+------------
+------------
+------------
+            Amounts owed to group undertakings and other related entities are repayable on demand.
+17.
+=== page 31 ===
+Provisions for liabilities
+Group
+Deferred tax (note 18)
+£
+At 1 May 2023
+24,166
+Amounts recognised in profit and loss account
+                      (16,924)
+-------
+At 30 April 2024
+7,242
+-------
+The company does not have any provisions.
+18.
+Deferred tax
+The deferred tax included in the company statement of financial position is as follows:
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Included in debtors (note 15)
+–
+–
+28,212
+8,342
+Included in provisions for liabilities (note 17)
+(
+7,242
+)
+(
+24,166
+)
+–
+–
+------
+-------
+-------
+------
+(
+7,242
+)
+(
+24,166
+)
+28,212
+8,342
+------
+-------
+-------
+------
+The deferred tax account consists of the tax effect of timing differences in respect of:
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Accelerated capital allowances
+(
+35,454
+=== page 32 ===
+)
+(
+32,508
+)
+–
+–
+Unused tax losses
+28,212
+8,342
+28,212
+8,342
+-------
+-------
+-------
+------
+(7,242)
+(24,166)
+28,212
+8,342
+-------
+-------
+-------
+------
+19.
+Employee benefits
+Defined contribution plans
+The amount recognised in profit or loss as an expense in relation to defined contribution plans was £
+73,705
+(2023: £
+62,412
+).
+20.
+Called up share capital
+Issued, called up and fully paid
+2024
+2023
+No.
+£
+No.
+£
+Ordinary
+ shares of £                
+1
+ each
+100
+100
+100
+100
+----
+----
+----
+----
+21.
+Analysis of changes in net debt
+At 1 May 2023
+Cash flows
+At 30 Apr 2024
+£
+£
+£
+Cash at bank and in hand
+3,122,467
+3,319,533
+6,442,000
+-----------
+-----------
+-----------
+22.
+Operating leases
+The total future minimum lease payments under non-cancellable operating leases are as follows:
+=== page 33 ===
+Group
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Not later than 1 year
+69,012
+21,978
+–
+–
+Later than 1 year and not later than 5 years
+96,642
+5,627
+–
+–
+Later than 5 years
+221,000
+–
+–
+–
+--------
+-------
+----
+----
+386,654
+27,605
+–
+–
+--------
+-------
+----
+----
+23.
+Related party transactions
+Group
+            Information about related party transactions and outstanding balances is outlined below:
+2024
+2023
+£
+£
+Sales to entities over which the entity has control, joint control or significant interest
+66,582
+626
+Purchases from entities over which the entity has control, joint control or significant interest
+100,677
+183,493
+Amounts due from entities over which the entity has control, joint control or significant interest
+1,562,945
+226,194
+Amounts due to entities over which the entity has control, joint control or significant interest
+53
+120,572
+Interest receivable from entities over which the entity has control, joint control or significant interest
+48,326
+–
+Amounts due to entities with control over the company
+22,820,326
+–
+Sales to other related parties
+7,009,957
+11,537,763
+Purchases from other related parties
+643,585
+275,478
+Management charges from other related parties
+=== page 34 ===
+108,000
+97,672
+Amounts due from other related parties
+17,867,399
+16,393,110
+Amounts due to other related parties
+13,653,055
+33,559,439
+Management fees from entities that provide key management personnel
+72,000
+–
+Amounts due to key management personnel
+1,442,938
+–
+SUMANDO LTD
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+(continued)
+YEAR ENDED 30 APRIL 2024
+23.
+Related party transactions
+(continued)
+Company
+            Information about related party transactions and outstanding balances is outlined below:
+2024
+2023
+£
+£
+Amounts due to entities with control over the company
+22,820,326
+–
+Sales to entities over which the entity has control
+–
+56,234
+Amounts due from entities over which the entity has control
+4,231,174
+1,731,174
+Amounts due from other related entities
+16,615,135
+8,925,418
+Amounts due to other related entities
+–
+14,044,935
+24.
+Controlling party
+            The ultimate controlling parties are Cecu Solar SL and Los Leandros Solares SL, both companies are incorporated in Spain and have equal control. From 8 November 2023, Sumando Acciones SL, a company incorporated in Spain became the immediate parent company. There was no change in the ultimate controlling parties.
+25.
+Disposals
+On 27 June 2023 the group disposed of 9.18% of the issued share capital of One Earth 740 SPV Ltd and entered into a contractual arrangement with another party outside the group to jointly control One Earth 740 SPV Ltd and its subsidiaries Tranquility Energy Ltd and One Earth Solar Farm Ltd. Therefore, the group lost control over One Earth 740 SPV Ltd and its subsidiaries Tranquility Energy Ltd and One Earth Solar Farm Ltd. The loss of One Earth 740 SPV Ltd and its subsidiaries Tranquility Energy Ltd and One Earth Solar Farm Ltd up to the date of disposal was £614, and for its last financial year was a loss of £6,000.
+Net assets/(liabilities) disposed of were as follows:
+£
+Cash at bank and in hand
+19,406
+Stock and work in progress
+530,209
+Debtors
+61,680
+Creditors
+(624,147)
+--------
+Total identifiable net assets/(liabilities)
+(12,852)
+Gain on disposal
+5,562,852
+-----------
+Proceeds
+5,550,000
+-----------
+Satisfied by:
+Cash
+5,550,000
+=== page 35 ===
+-----------
+Total
+5,550,000
+-----------
+On 27 February 2024 the group disposed of a further 10.2% of the issued share capital of One Earth 740 SPV Ltd for a consideration of £7,400,000.

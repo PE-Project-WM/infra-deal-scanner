@@ -1,0 +1,239 @@
+{
+ "_about": "Thesis settings for one sector. Everything the scoring, size check and price check need that is specific to a sector lives here, so a new sector (solar, water and waste, transport, social infrastructure) is a new file in config/thesis/, not new code. Pick the sector with the SECTOR environment variable (default: digital). Rules that apply to every sector are in docs/method (rulebook).",
+ "sector": "digital",
+ "version": "2026-11-26",
+ "sub_sector": "UK digital infrastructure",
+ "method_version": "v4 (26 Nov 2026): business types scored on their own measures (network owners, recurring services, contractors, project companies); sales growth added as a criterion after a back-test against real deals; network owners still building kept on their own list; group accounts ranked once; one set of EBITDA adjustments for every company; three years of accounts read for every company going forward; confidence rule rewritten",
+ "segments": {
+  "61100": "Fibre and wired telecoms networks",
+  "61200": "Wireless networks, towers and fixed wireless",
+  "61300": "Satellite networks",
+  "61900": "Other telecoms networks",
+  "63110": "Data centres, data processing and hosting",
+  "42220": "Building and maintaining telecoms and utility networks"
+ },
+ "hard_stops": {
+  "company_status": [
+   "Active"
+  ],
+  "allowed_company_types": [
+   "Private Limited Company",
+   "Public Limited Company"
+  ],
+  "exclude_if_listed": true,
+  "accounts_categories_allowed": [
+   "FULL",
+   "GROUP",
+   "MEDIUM"
+  ],
+  "min_years_since_incorporation": 3,
+  "country": "United Kingdom"
+ },
+ "size_band_gbp": {
+  "turnover_min": 10000000,
+  "turnover_max": 250000000,
+  "note": "Turnover comes from filed accounts in a later step; the bulk company file has no financials."
+ },
+ "sector_gate": {
+  "ranked_if_relevance_in": [
+   "IN",
+   "ADJACENT"
+  ],
+  "otherwise": "Listed separately as needing a sector check, not ranked"
+ },
+ "fit_scores": {
+  "IN": 1.0,
+  "ADJACENT": 0.6
+ },
+ "scoring_weights": {
+  "revenue_visibility": 20,
+  "growth": 15,
+  "strategy_fit": 15,
+  "size_fit": 15,
+  "margin_quality": 20,
+  "balance_sheet": 15
+ },
+ "scoring_weights_previous": {
+  "revenue_visibility": 25,
+  "strategy_fit": 20,
+  "size_fit": 15,
+  "margin_quality": 25,
+  "balance_sheet": 15
+ },
+ "scoring_notes": {
+  "revenue_visibility": "How much of next year's sales is already contracted or repeats. Read from the accounts where config/revenue_mix.csv has the company; otherwise estimated from the business description (marked provisional).",
+  "growth": "Sales growth: yearly average over three or more years read; one year's growth where only two are read (marked). For project companies, the years left on the contract replace growth.",
+  "strategy_fit": "Thesis relevance: IN 1.0, ADJACENT 0.6. Only IN and ADJACENT companies are ranked.",
+  "size_fit": "EBITDA against the sweet spot for the business type (a network owner earns more EBITDA for the same price band).",
+  "margin_quality": "EBITDA margin against what is normal for the business type (70%), and how much it moved across three or more years (30%; neutral where fewer years are read).",
+  "balance_sheet": "Net assets, cash and margin headroom; reduced where interest cover is thin or net debt is above the comfortable level for the business type (1x EBITDA for services and contractors, 5x for network owners)."
+ },
+ "business_types": {
+  "_rule": "Each company gets one type (config/business_type.csv, else the default for its sector below). The type sets the size sweet spot, what counts as a good margin, how much debt is comfortable, the price range and the debt a buyer would raise.",
+  "network_owner": {
+   "label": "Network owner",
+   "about": "Owns the network or site and earns from access to it: fibre networks, towers, data centres, owned wifi networks.",
+   "ebitda_sweet_spot_gbp": [
+    3000000,
+    20000000
+   ],
+   "ebitda_min_useful_gbp": 1000000,
+   "ebitda_upper_fade_to_gbp": 40000000,
+   "margin_full_marks": 0.5,
+   "net_debt_comfort_x": 5.0,
+   "visibility_default": 0.8,
+   "price_range": {
+    "low": 12.0,
+    "mid": 15.0,
+    "high": 18.0,
+    "why": "Owners of towers and fibre networks are priced by infrastructure funds, well above services firms: VodafoneZiggo's Dutch towers sold at 16.2x 2025 EBITDA (DigitalBridge-led consortium, 2026) and Bite's TeleTower at 16x EBITDAaL (Stonepeak). UK fibre deals are often priced per home and include distressed sales, so the range starts lower.",
+    "sources": [
+     "https://mobileworldlive.com/network-tech/liberty-global-dumps-vodafoneziggo-tower-assets",
+     "https://www.sorainen.com/?p=116246"
+    ]
+   },
+   "debt_turns": 5.0,
+   "hurdle_irr": 0.12
+  },
+  "recurring_services": {
+   "label": "Recurring services",
+   "about": "Sells services that repeat under contract or by subscription: managed networks, business connectivity, cloud communications.",
+   "ebitda_sweet_spot_gbp": [
+    2000000,
+    15000000
+   ],
+   "ebitda_min_useful_gbp": 1000000,
+   "ebitda_upper_fade_to_gbp": 30000000,
+   "margin_full_marks": 0.3,
+   "net_debt_comfort_x": 1.0,
+   "visibility_default": 0.6,
+   "price_range": {
+    "low": 6.0,
+    "mid": 7.0,
+    "high": 8.0,
+    "why": "Gamma (UK business communications, 89% recurring revenue) traded near 6x before its bid and was taken private at about 7.6x; Crowe puts listed UK services at 7.5x. Our companies are far smaller, so the range sits at or below these."
+   },
+   "debt_turns": 3.0,
+   "hurdle_irr": 0.2
+  },
+  "contractor": {
+   "label": "Contractor",
+   "about": "Builds, installs and maintains networks for their owners, mostly project by project.",
+   "ebitda_sweet_spot_gbp": [
+    2000000,
+    15000000
+   ],
+   "ebitda_min_useful_gbp": 1000000,
+   "ebitda_upper_fade_to_gbp": 30000000,
+   "margin_full_marks": 0.15,
+   "net_debt_comfort_x": 1.0,
+   "visibility_default": 0.35,
+   "price_range": {
+    "low": 5.0,
+    "mid": 6.0,
+    "high": 7.0,
+    "why": "SPIE, a large listed technical services group, trades near 8x; UK private deals under £250m have a median near 6x. Project-by-project revenue and small size put these at a discount to SPIE."
+   },
+   "debt_turns": 2.5,
+   "hurdle_irr": 0.2
+  },
+  "project_company": {
+   "label": "Project company",
+   "about": "Exists to deliver one long contract (for example a PFI contract) and ends with it: valued on the cash left in the contract, not on a multiple.",
+   "ebitda_sweet_spot_gbp": [
+    2000000,
+    15000000
+   ],
+   "ebitda_min_useful_gbp": 1000000,
+   "ebitda_upper_fade_to_gbp": 30000000,
+   "margin_full_marks": 0.5,
+   "net_debt_comfort_x": 5.0,
+   "visibility_default": 0.95,
+   "price_range": null,
+   "debt_turns": null,
+   "hurdle_irr": null
+  },
+  "_hurdle": "Network owners are bought by infrastructure funds, which target lower returns (about 10-15% a year for core-plus and value-add funds) than private equity's 20%; the price check uses 12% for them."
+ },
+ "sector_default_type": {
+  "fibre": "network_owner",
+  "towers": "network_owner",
+  "datacentres": "network_owner",
+  "build": "contractor",
+  "subsea": "network_owner"
+ },
+ "default_type": "recurring_services",
+ "small_ebitda_threshold_gbp": 3000000,
+ "small_ebitda_discount": 0.5,
+ "growth_scale": {
+  "floor": -0.1,
+  "full_marks": 0.15,
+  "_rule": "Score 0 at -10% a year or worse, rising in a straight line to 1 at +15% a year or better. Zero growth scores 0.4."
+ },
+ "contract_life_full_marks_years": 15,
+ "building_list": {
+  "_rule": "Network owners with EBITDA at or below zero are not dropped: they go on a separate list (still building), shown with sales, growth, losses and funding, because buyers price them on the network (premises, sites, MW), not on EBITDA.",
+  "types": [
+   "network_owner"
+  ]
+ },
+ "visibility_rules": [
+  [
+   0.9,
+   "network operator|altnet|fibre network|data cent|satellite communications|cloud|managed .*networks|connectivity|mobile infrastructure|remote communications|offshore"
+  ],
+  [
+   0.7,
+   "business telecoms|broadband|phone|voice|hosting|managed it|iot"
+  ],
+  [
+   0.5,
+   "integrator|radio|equipment|tracking|secure|products|manufactur"
+  ],
+  [
+   0.35,
+   "contractor|civil|reinstatement|installation|build"
+  ]
+ ],
+ "segment_default_visibility": {
+  "Fibre and wired telecoms networks": 0.6,
+  "Wireless networks, towers and fixed wireless": 0.6,
+  "Satellite networks": 0.6,
+  "Other telecoms networks": 0.55,
+  "Data centres, data processing and hosting": 0.5,
+  "Building and maintaining telecoms and utility networks": 0.35
+ },
+ "accessibility": {
+  "Founder or family-owned": "High: founder-owned, proprietary approach possible",
+  "Likely sponsor-owned (check)": "Medium: sponsor-owned, sale timing depends on hold year",
+  "UK group, owner-managed": "Medium: owned via a UK holding company",
+  "Employee-owned (EOT)": "Low: employee-owned, rarely for sale",
+  "Foreign parent, founder group": "Low-Medium: UK arm of an overseas founder group, carve-out needed",
+  "Sponsor-owned, recent entry": "Low: sponsor bought in the last 2 years, unlikely to sell soon",
+  "Unknown": "Check: ownership not found"
+ },
+ "excluded_label": "Not digital infrastructure",
+ "fit_and_access_kept_separate": true,
+ "confidence": {
+  "_rule": "How far the inputs can be trusted. Shown beside the score, never added to it. Points start from where the figures came from, then move for history, gaps and fit. High at 0.85 or more, Medium at 0.6 or more, otherwise Low.",
+  "source": {
+   "tagged": 1.0,
+   "checked_against_filing": 0.9,
+   "confirmed_by_two_filings": 0.85,
+   "text_unchecked": 0.6,
+   "ocr_unchecked": 0.5
+  },
+  "three_years_read": 0.05,
+  "one_year_only": -0.15,
+  "ebitda_estimated": -0.2,
+  "missing_item": -0.05,
+  "revenue_mix_estimated": -0.05,
+  "adjacent": -0.1,
+  "high": 0.85,
+  "medium": 0.6
+ },
+ "sector_measures": {
+  "_rule": "Sector measures (homes passed, take-up, sites, MW, order book) are shown but not scored. A measure starts to count in the score only when it has been collected from filings or company disclosures for at least 80% of the ranked companies of that business type in the sector, so that no company is marked down for a figure nobody collected. Until then it informs the price check and the company page only.",
+  "scored": []
+ }
+}

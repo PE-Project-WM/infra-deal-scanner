@@ -1,0 +1,2916 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2023-07-31
+2023-07-31
+2023-07-31
+389
+false
+false
+408
+2022-08-01
+false
+Telecommunication services
+false
+06306526
+2022-08-01
+2023-07-31
+06306526
+2021-08-01
+2022-07-31
+06306526
+2023-07-31
+06306526
+2022-07-31
+06306526
+2021-08-01
+06306526
+1
+2022-08-01
+2023-07-31
+06306526
+d:Director1
+2022-08-01
+2023-07-31
+06306526
+d:Director2
+2022-08-01
+2023-07-31
+06306526
+d:RegisteredOffice
+2022-08-01
+2023-07-31
+06306526
+c:Buildings
+c:LongLeaseholdAssets
+2022-08-01
+2023-07-31
+06306526
+c:Buildings
+c:LongLeaseholdAssets
+2023-07-31
+06306526
+c:Buildings
+c:LongLeaseholdAssets
+2022-07-31
+06306526
+c:MotorVehicles
+2022-08-01
+2023-07-31
+06306526
+c:MotorVehicles
+2023-07-31
+06306526
+c:MotorVehicles
+2022-07-31
+06306526
+c:MotorVehicles
+c:OwnedOrFreeholdAssets
+2022-08-01
+2023-07-31
+=== page 2 ===
+06306526
+c:OfficeEquipment
+2022-08-01
+2023-07-31
+06306526
+c:OfficeEquipment
+2023-07-31
+06306526
+c:OfficeEquipment
+2022-07-31
+06306526
+c:OfficeEquipment
+c:OwnedOrFreeholdAssets
+2022-08-01
+2023-07-31
+06306526
+c:ComputerEquipment
+2022-08-01
+2023-07-31
+06306526
+c:ComputerEquipment
+2023-07-31
+06306526
+c:ComputerEquipment
+2022-07-31
+06306526
+c:ComputerEquipment
+c:OwnedOrFreeholdAssets
+2022-08-01
+2023-07-31
+06306526
+c:OwnedOrFreeholdAssets
+2022-08-01
+2023-07-31
+06306526
+c:CurrentFinancialInstruments
+2023-07-31
+06306526
+c:CurrentFinancialInstruments
+2022-07-31
+06306526
+c:Non-currentFinancialInstruments
+2023-07-31
+06306526
+c:Non-currentFinancialInstruments
+2022-07-31
+06306526
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2023-07-31
+06306526
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2022-07-31
+06306526
+c:Non-currentFinancialInstruments
+c:AfterOneYear
+2023-07-31
+06306526
+c:Non-currentFinancialInstruments
+c:AfterOneYear
+2022-07-31
+06306526
+c:Non-currentFinancialInstruments
+c:BetweenOneTwoYears
+2023-07-31
+06306526
+c:Non-currentFinancialInstruments
+c:BetweenOneTwoYears
+2022-07-31
+=== page 3 ===
+06306526
+c:Non-currentFinancialInstruments
+c:BetweenTwoFiveYears
+2023-07-31
+06306526
+c:Non-currentFinancialInstruments
+c:BetweenTwoFiveYears
+2022-07-31
+06306526
+c:ShareCapital
+2023-07-31
+06306526
+c:ShareCapital
+2022-07-31
+06306526
+c:ShareCapital
+2021-08-01
+06306526
+c:ForeignCurrencyTranslationReserve
+2022-08-01
+2023-07-31
+06306526
+c:RetainedEarningsAccumulatedLosses
+2022-08-01
+2023-07-31
+06306526
+c:RetainedEarningsAccumulatedLosses
+2023-07-31
+06306526
+c:RetainedEarningsAccumulatedLosses
+2021-08-01
+2022-07-31
+06306526
+c:RetainedEarningsAccumulatedLosses
+2022-07-31
+06306526
+c:RetainedEarningsAccumulatedLosses
+2021-08-01
+06306526
+c:AcceleratedTaxDepreciationDeferredTax
+2023-07-31
+06306526
+c:AcceleratedTaxDepreciationDeferredTax
+2022-07-31
+06306526
+c:TaxLossesCarry-forwardsDeferredTax
+2023-07-31
+06306526
+c:TaxLossesCarry-forwardsDeferredTax
+2022-07-31
+06306526
+d:OrdinaryShareClass1
+2022-08-01
+2023-07-31
+06306526
+d:OrdinaryShareClass1
+2023-07-31
+06306526
+d:OrdinaryShareClass1
+2022-07-31
+06306526
+d:FRS102
+2022-08-01
+2023-07-31
+06306526
+d:Audited
+2022-08-01
+2023-07-31
+06306526
+d:FullAccounts
+=== page 4 ===
+2022-08-01
+2023-07-31
+06306526
+d:PrivateLimitedCompanyLtd
+2022-08-01
+2023-07-31
+06306526
+c:Subsidiary1
+2022-08-01
+2023-07-31
+06306526
+c:Subsidiary1
+1
+2022-08-01
+2023-07-31
+06306526
+c:Subsidiary29
+2022-08-01
+2023-07-31
+06306526
+c:Subsidiary29
+1
+2022-08-01
+2023-07-31
+06306526
+c:Subsidiary30
+2022-08-01
+2023-07-31
+06306526
+c:Subsidiary30
+1
+2022-08-01
+2023-07-31
+06306526
+c:WithinOneYear
+2023-07-31
+06306526
+c:WithinOneYear
+2022-07-31
+06306526
+c:BetweenOneFiveYears
+2023-07-31
+06306526
+c:BetweenOneFiveYears
+2022-07-31
+06306526
+d:Consolidated
+2023-07-31
+06306526
+d:ConsolidatedGroupCompanyAccounts
+2022-08-01
+2023-07-31
+06306526
+2
+2022-08-01
+2023-07-31
+06306526
+6
+2022-08-01
+2023-07-31
+06306526
+e:PoundSterling
+2022-08-01
+2023-07-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+Registered number: 
+06306526
+AT MANAGEMENT LIMITED
+=== page 5 ===
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 JULY 2023
+AT MANAGEMENT LIMITED
+COMPANY INFORMATION
+Directors
+A J McArthur
+V Prema
+Registered number
+06306526
+Registered office
+Unit 3 & 4
+St Margarets Business Centre
+Burleys Way
+Leicester
+LE1 3BE
+Independent auditor
+Blick Rothenberg Audit LLP
+Chartered Accountants
+ & 
+Statutory Auditor
+16 Great Queen Street
+Covent Garden
+London
+WC2B 5AH
+AT MANAGEMENT LIMITED
+CONTENTS
+Page
+Group strategic report
+1 - 2
+Directors' report
+3
+Directors' responsibilities statement
+4
+Independent auditor's report
+5 - 8
+Consolidated profit and loss account
+9
+Consolidated statement of comprehensive income
+10
+Consolidated balance sheet
+11 - 12
+Company balance sheet
+13 - 14
+Consolidated statement of changes in equity
+15
+Company statement of changes in equity
+16
+Consolidated statement of cash flows
+17
+Notes to the financial statements
+18 - 38
+AT MANAGEMENT LIMITED
+GROUP STRATEGIC REPORT
+FOR THE YEAR ENDED 31 JULY 2023
+Introduction
+The Board of Directors is pleased to present the strategic report and financial statements for the year ended 31 July 2023. During this period, the company has maintained its focus on providing outsourced telecommunication services.
+Business review
+Over the past year, the company has achieved stability in its core trading activities following the realignment of key revenue sources from the previous year. We have successfully strengthened our relationships with significant clients, which we believe will drive future growth opportunities.
+Operating profit met the Directors' expectations despite a year-on-year decline. This stability has allowed for further investment in our capabilities and resources, which are essential for achieving our long-term strategic objectives.
+A notable milestone was the partial acquisition of SA Commercial (Pty) in South Africa during the second half of the year. This strategic move not only added a reputable and profitable business to our Group but also enhanced our offshore operational capabilities.
+Further strategic initiatives undertaken by the Directors, both during the reporting year and subsequently, have positioned AT Management to operate within a more diversified group of companies. This expansion offers a broader range of solutions and services across multiple international markets, thereby enhancing our growth potential.
+The Directors have prioritised maintaining a robust balance sheet, which has improved with net current assets of £2.5 million and shareholders’ funds of £2.3 million. Our growth strategy continues to be funded through internally generated cash, with no additional debt incurred from our expansion activities.
+Principal risks and uncertainties
+Despite ongoing economic uncertainties and fluctuating consumer sentiment in the UK, the Directors remain confident in the strategic measures implemented to enhance our consumer offering and operational framework, ensuring the business is well-positioned for the future.
+The company's financial instruments, primarily comprising debtors, cash at bank, and creditors, are integral to our operations and present minimal financial risk. Our established financial stability allows us to maintain favourable terms with key suppliers and credit partners.
+Healthy cash reserves have been maintained over the year, supported by our banking partners. The Directors will continue to closely monitor working capital.
+Financial risk management is directly overseen by the Directors, with our finance department executing the established policies. Specific guidelines are in place to manage credit risk effectively.
+Customer risk:
+The integrity of our customer relationships is critical to our success. Maintaining these relationships is essential.
+=== page 6 ===
+Credit risk:
+We implement stringent credit checks for potential customers before opening new accounts, with ongoing reviews of credit limits.
+Liquidity and Cash Flow risk: 
+The company is considered to have sufficient liquidity for operational needs, with monthly cash flow reports presented to the Directors to review plans, opportunities, and risks.
+Page 
+1
+AT MANAGEMENT LIMITED
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2023
+Principal risks and uncertainties (continued)
+Price risk:
+All expenditures are authorised by management to ensure cost-efficiency.
+Data and Compliance risk: 
+We are acutely aware of the rising threats of ransomware and other IT security issues. To mitigate these risks, we utilise the latest software versions and enforce strict firewall protocols. Regular data backups are conducted. Compliance with the Data Protection Act 2018 and UK GDPR is paramount, ensuring the protection of customer data and upholding our reputation.
+Engagement with employees
+Creating the right organisational culture and values is essential for delivering exceptional customer experiences, with our employees playing a pivotal role. We are committed to being a responsible employer, focusing on fair pay and benefits. The health, safety, and well-being of our employees remain top priorities in our operations.
+Financial key performance indicators
+Our key financial performance indicators include:
+∙
+Gross profit margin: A slight decrease from 39.8% to 37.8%
+∙
+Turnover: An increase from £19.1m to £19.5m
+This year's financial results were in line with our targets and expectations.
+Other key performance indicators
+Our non-financial performance indicators emphasise service quality and customer care, with customer retention being a key metric. We also strive to minimise our environmental impact. Additional indicators include brand awareness and company profile, measured by customer and supplier loyalty and other factors. We maintain these indicators across all business areas to ensure continuous monitoring and improvement.
+This report was approved by the board
+ and signed on its behalf
+.
+V Prema
+Director
+Date: 
+30 July 2024
+Page 
+2
+AT MANAGEMENT LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 JULY 2023
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 July 2023
+.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation
+ and minority interests
+, amounted to 
+£
+788,057
+ (2022 - 
+£
+2,243,575
+)
+.
+An interim ordinary dividend was paid amounting to £739,250 (2022 - £670,000). The directors do not recommend payment of a final dividend.
+Directors
+The 
+directors
+ who served during the 
+year
+were:
+=== page 7 ===
+A J McArthur
+V Prema
+Matters covered in the Group Strategic Report
+As permitted by Section 414c(11) of the Companies Act 2006, the directors have elected to disclose information required to be in the directors' report by Schedule 7 of the 'Large and Medium-sized Companies and Group (Accounts and Reports) Regulations 2008', in the strategic report.
+Disclosure of information to auditor
+Each of the persons who are 
+directors
+ at the time when this 
+directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+company and the group
+'s auditor 
+is
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+company and the group
+'s auditor 
+is
+ aware of that information.
+Post balance sheet events
+In December 2023, the company acquired the remaining non-controlling interest in a subsidiary undertaking.
+In January 2024, following a group restructure, the company's own shareholding was transferred to NDH Group Holdings Limited.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+V Prema
+Director
+Date: 
+30 July 2024
+Page 
+3
+AT MANAGEMENT LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 JULY 2023
+The 
+directors
+are
+ responsible for preparing the
+ group strategic report, the directors' report and the 
+consolidated 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+company and the group
+ and of the 
+profit or loss
+ of the 
+group
+ for that period.
+=== page 8 ===
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the group's financial statements
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the group will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+company and the group
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+company and the group
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 
+4
+AT MANAGEMENT LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF AT MANAGEMENT LIMITED
+FOR THE YEAR ENDED 31 JULY 2023
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+AT Management Limited (the 'parent company') and its subsidiaries (the 'group')
+ for the 
+year
+ ended 
+31 July 2023
+, which comprise 
+the consolidated profit and loss account, the Consolidated Statement of Comprehensive Income, the Consolidated Balance Sheet, the Company Balance Sheet, the Consolidated Statement of Changes in Equity, the Company Statement of Changes in Equity, the Consolidated Statement of Cash Flows
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+group's and of the parent company's
+ affairs as at 
+31 July 2023
+ and of 
+=== page 9 ===
+the group's
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditor's
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+group
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+group's or the parent company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 
+5
+AT MANAGEMENT LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF AT MANAGEMENT LIMITED (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2023
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+=== page 10 ===
+our
+auditor's report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+group strategic report and the directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+group strategic report and the directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+group and the parent company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+group strategic report or the directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept by the parent company
+, or returns adequate for 
+=== page 11 ===
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+parent company financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+directors' responsibilities statement
+ set out on page 4, the 
+directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+group's and the parent company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+group or the parent company
+ or to cease operations, or have no realistic alternative but to do so.
+Page 
+6
+AT MANAGEMENT LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF AT MANAGEMENT LIMITED (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2023
+Auditor's responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+auditor's report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+Group financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+=== page 12 ===
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+∙
+the engagement partner ensured that the engagement team collectively had the appropriate competence, capabilities and skills to identify or recognise non-compliance with applicable laws and regulations;
+∙
+we identified the laws and regulations applicable to the company through discussions with directors and other management, and from our commercial knowledge and experience of the telecommunications sector;
+∙
+we focused on specific laws and regulations which we considered may have a direct material effect on the financial statements or the operations of the company and group, including the Companies Act 2006 and taxation legislation;
+∙
+we assessed the extent of compliance with the laws and regulations identified above through making enquiries of management and inspecting legal correspondence; and
+∙
+identified laws and regulations were communicated within the audit team regularly and the team remained alert to instances of non-compliance throughout the audit.
+We assessed the susceptibility of the financial statements to material misstatement, including obtaining an understanding of how fraud might occur, by:
+∙
+making enquiries of management as to where they considered there was susceptibility to fraud, their knowledge of actual, suspected and alleged fraud; and
+∙
+considering the internal controls in place to mitigate risks of fraud and non-compliance with laws and regulations.
+To address the risk of fraud through management bias and override of controls, we:
+∙
+performed analytical procedures to identify any unusual or unexpected relationships;
+∙
+tested a sample of journal entries to identify unusual transactions;
+∙
+assessed whether judgements and assumptions made in determining the accounting estimates were indicative of potential bias; and
+∙
+investigated the rationale behind significant or unusual transactions.
+In response to the risk of irregularities and non-compliance with laws and regulations, we designed procedures which included, but were not limited to:
+∙
+agreeing financial statement disclosures to underlying supporting documentation;
+∙
+reading the minutes of meetings of those charged with governance; and
+∙
+reviewing correspondence with HM Revenue and Customs.
+Page 
+7
+AT MANAGEMENT LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF AT MANAGEMENT LIMITED (CONTINUED)
+FOR THE YEAR ENDED 31 JULY 2023
+There are inherent limitations in our audit procedures described above. The more removed that laws and regulations are from financial transactions, the less likely it is that we would become aware of non-compliance. Auditing standards also limit the audit procedures required to identify non-compliance with laws and regulations to enquiry of the directors and other management and the inspection of regulatory and legal correspondence, if any. 
+Material misstatements that arise due to fraud can be harder to detect than those that arise from error as they may involve deliberate concealment or collusion.
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+auditor's report
+.
+Use of our report
+This report is made solely to the 
+company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+auditor's report
+ and for no other purpose. To the fullest extent permitted by law, 
+=== page 13 ===
+we
+ do not accept or assume responsibility to anyone other than the 
+company
+ and the 
+company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Simon Rothenberg
+ (senior statutory auditor)
+for and on behalf of
+Blick Rothenberg Audit LLP
+Chartered Accountants
+Statutory Auditor
+16 Great Queen Street
+Covent Garden
+London
+WC2B 5AH
+Date: 
+30 July 2024
+Page 
+8
+AT MANAGEMENT LIMITED
+CONSOLIDATED PROFIT AND LOSS ACCOUNT
+FOR THE YEAR ENDED
+31 JULY 2023
+2023
+2022
+Note
+£
+£
+Turnover
+3
+19,490,060
+19,073,025
+Cost of sales
+(12,128,686
+)
+(11,487,990
+)
+Gross profit
+7,361,374
+7,585,035
+Administrative expenses
+(6,150,332
+)
+(4,623,139
+)
+Other operating income
+4
+7,491
+95,785
+Operating profit
+5
+1,218,533
+3,057,681
+Interest receivable and similar income
+8
+5,066
+-
+Interest payable and similar expenses
+9
+(193,047
+)
+(140,359
+)
+=== page 14 ===
+Profit before taxation
+1,030,552
+2,917,322
+Tax on profit
+10
+(232,662
+)
+(673,747
+)
+Profit for the financial year
+797,890
+2,243,575
+Profit for the year attributable to:
+Non-controlling interests
+9,833
+-
+Owners of the parent
+788,057
+2,243,575
+797,890
+2,243,575
+Page 
+9
+AT MANAGEMENT LIMITED
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 JULY 2023
+2023
+2022
+£
+£
+Profit for the financial year
+797,890
+2,243,575
+Other comprehensive income
+Currency translation differences
+3,181
+-
+Other comprehensive income for the year
+3,181
+-
+Total comprehensive income for the year
+801,071
+2,243,575
+Profit for the year attributable to:
+Non-controlling interest
+9,833
+-
+Owners of the parent company
+788,057
+2,243,575
+797,890
+2,243,575
+Total comprehensive income attributable to:
+Non-controlling interest
+10,851
+-
+Owners of the parent company
+790,220
+2,243,575
+801,071
+2,243,575
+Page 
+10
+REGISTERED NUMBER:
+06306526
+AT MANAGEMENT LIMITED
+CONSOLIDATED BALANCE SHEET
+AS AT 
+31 JULY 2023
+=== page 15 ===
+2023
+2022
+Note
+£
+£
+Fixed assets
+Tangible assets
+13
+977,139
+526,414
+977,139
+526,414
+Current assets
+Debtors
+15
+7,761,286
+6,461,038
+Cash at bank and in hand
+16
+602,694
+698,759
+8,363,980
+7,159,797
+Creditors: amounts falling due within one year
+17
+(5,892,288
+)
+(4,363,767
+)
+Net current assets
+2,471,692
+2,796,030
+Total assets less current liabilities
+3,448,831
+3,322,444
+Creditors: amounts falling due after more than one year
+18
+(963,375
+)
+(1,140,750
+)
+Provisions for liabilities
+Deferred taxation
+20
+(200,397
+)
+(120,363
+)
+(200,397
+)
+(120,363
+)
+Net assets
+2,285,059
+2,061,331
+Page 
+11
+REGISTERED NUMBER:
+06306526
+AT MANAGEMENT LIMITED
+CONSOLIDATED BALANCE SHEET
+ (CONTINUED)
+AS AT 
+31 JULY 2023
+2023
+2022
+Note
+£
+£
+Capital and reserves
+=== page 16 ===
+Called up share capital 
+21
+100
+100
+Foreign exchange reserve
+22
+2,163
+-
+Profit and loss account
+22
+2,110,038
+2,061,231
+Equity attributable to owners of the parent company
+2,112,301
+2,061,331
+Non-controlling interests
+172,758
+-
+Total equity
+2,285,059
+2,061,331
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+V Prema
+Director
+Date: 
+30 July 2024
+The notes on pages 18 to 38 form part of these financial statements.
+Page 
+12
+REGISTERED NUMBER:
+06306526
+AT MANAGEMENT LIMITED
+COMPANY BALANCE SHEET
+AS AT 
+31 JULY 2023
+2023
+2022
+Note
+£
+£
+Fixed assets
+Tangible assets
+13
+918,575
+526,414
+Investments
+14
+352,875
+-
+1,271,450
+526,414
+Current assets
+Debtors
+15
+7,527,453
+6,461,038
+Cash at bank and in hand
+16
+229,093
+698,759
+7,756,546
+7,159,797
+=== page 17 ===
+Creditors: amounts falling due within one year
+17
+(
+5,766,930
+)
+(
+4,363,767
+)
+Net current assets
+1,989,616
+2,796,030
+Total assets less current liabilities
+3,261,066
+3,322,444
+Creditors: amounts falling due after more than one year
+18
+(
+963,375
+)
+(
+1,140,750
+)
+Provisions for liabilities
+Deferred taxation
+20
+(
+199,668
+)
+(
+120,363
+)
+(
+199,668
+)
+(
+120,363
+)
+Net assets
+2,098,023
+2,061,331
+Page 
+13
+REGISTERED NUMBER:
+06306526
+AT MANAGEMENT LIMITED
+COMPANY BALANCE SHEET
+ (CONTINUED)
+AS AT 
+31 JULY 2023
+2023
+2022
+Note
+£
+£
+Capital and reserves
+Called up share capital 
+21
+100
+100
+Profit and loss account brought forward
+2,061,231
+487,656
+Profit for the year
+775,942
+2,243,575
+Other changes in the profit and loss account
+(739,250
+)
+(670,000
+)
+=== page 18 ===
+Profit and loss account carried forward
+2,097,923
+2,061,231
+Total equity
+2,098,023
+2,061,331
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+V Prema
+Director
+Date: 
+30 July 2024
+The notes on pages 18 to 38 form part of these financial statements.
+Page 
+14
+AT MANAGEMENT LIMITED
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 JULY 2023
+Called up share capital
+Foreign exchange reserve
+Profit and loss account
+Equity attributable to owners of parent company
+Non-controlling interests
+Total equity
+£
+£
+£
+£
+£
+£
+At 1 August 2021
+100
+-
+487,656
+487,756
+-
+487,756
+Comprehensive income for the year
+Profit for the financial year
+-
+-
+2,243,575
+2,243,575
+-
+2,243,575
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+(670,000
+)
+(670,000
+)
+-
+(670,000
+)
+At 31 July 2022 and 1 August 2022
+100
+-
+2,061,231
+2,061,331
+-
+=== page 19 ===
+2,061,331
+Comprehensive income for the year
+Profit for the financial year
+-
+-
+788,057
+788,057
+9,833
+797,890
+Currency translation differences
+-
+2,163
+-
+2,163
+1,018
+3,181
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+-
+(739,250
+)
+(739,250
+)
+-
+(739,250
+)
+Non-controlling interests on acquisition
+-
+-
+-
+-
+161,907
+161,907
+At 31 July 2023
+100
+2,163
+2,110,038
+2,112,301
+172,758
+2,285,059
+The notes on pages 18 to 38 form part of these 
+financial statements
+.
+Page 
+15
+AT MANAGEMENT LIMITED
+COMPANY STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 JULY 2023
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 August 2021
+100
+487,656
+487,756
+Comprehensive income for the year
+Profit for the financial year
+-
+2,243,575
+2,243,575
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+(
+670,000
+=== page 20 ===
+)
+(
+670,000
+)
+At 31 July 2022 and 1 August 2022
+100
+2,061,231
+2,061,331
+Comprehensive income for the year
+Profit for the financial year
+-
+775,942
+775,942
+Contributions by and distributions to owners
+Dividends: Equity capital
+-
+(
+739,250
+)
+(
+739,250
+)
+At 31 July 2023
+100
+2,097,923
+2,098,023
+The notes on pages 18 to 38 form part of these 
+financial statements
+.
+Page 
+16
+AT MANAGEMENT LIMITED
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 JULY 2023
+2023
+2022
+£
+£
+Cash flows from operating activities
+Profit for the financial year
+797,890
+2,243,575
+Adjustments for:
+Amortisation of intangible assets
+8,779
+-
+Depreciation of tangible assets
+232,531
+108,294
+Loss on disposal of tangible assets
+3,185
+16,716
+Interest paid
+193,047
+140,359
+Taxation charge
+232,662
+553,384
+(Increase) in debtors
+(1,284,180
+)
+(1,855,134
+)
+Increase in creditors
+890,411
+973,004
+Corporation tax received
+-
+6,731
+Foreign exchange
+=== page 21 ===
+3,045
+-
+Net cash generated from operating activities
+1,077,370
+2,186,929
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(623,781
+)
+(143,445
+)
+Purchase of fixed asset investments
+10,552
+-
+Net cash from investing activities
+(613,229
+)
+(143,445
+)
+Cash flows from financing activities
+Repayment of loans
+(351,000
+)
+(535,172
+)
+Repayment of obligations under finance leases
+(51,109
+)
+-
+Dividends paid
+-
+(670,000
+)
+Interest paid
+(158,650
+)
+(140,359
+)
+Net cash used in financing activities
+(560,759
+)
+(1,345,531
+)
+Net (decrease)/increase in cash and cash equivalents
+(96,618
+)
+697,953
+Cash and cash equivalents at beginning of year
+698,759
+806
+Cash and cash equivalents at the end of year
+602,141
+698,759
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+602,694
+698,759
+Bank overdrafts
+(553
+)
+-
+602,141
+698,759
+Page 
+17
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+1.
+General information
+=== page 22 ===
+AT Management Limited is a private company limited by shares incorporated in England and Wales. The address of its registered office is Unit 3 & 4 St Margarets Business Centre, Burleys Way, Leicester, LE1 3BE.
+The financial statements are presented in Sterling (£), which is the functional currency of the company. Monetary amounts in these financial statements are rounded to the nearest £.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires 
+group 
+management to exercise 
+judgment
+ in applying the 
+group
+'s 
+accounting policies
+.
+The 
+company
+ has taken advantage of the exemption allowed under 
+section 408 of the
+Companies Act 2006
+ and has not presented its own 
+profit and loss account
+ in these 
+financial statements
+.
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Basis of consolidation
+The consolidated 
+financial statements
+ present the results of the 
+company
+ and its own subsidiaries ("the 
+group
+") as if they form a single entity. Intercompany transactions and balances between group companies are therefore eliminated in full.
+The consolidated 
+financial statements
+ incorporate the results of business combinations using the purchase method. In the 
+balance sheet
+, the acquiree's identifiable assets, liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date. The results of acquired operations are included in the 
+consolidated profit and loss account
+ from the date on which control is obtained. They are deconsolidated from the date control ceases.
+This is the first year the company has prepared consolidated financial statements as the company became a parent company during the year. Consequently, consolidated financial statements have been prepared in accordance with Section 399(2) of the Companies Act 2006.
+2.3
+Going concern
+After making enquiries, the directors have a reasonable expectation that the company has adequate resources to continue in operational existence and meet its liabilities as they fall due for the foreseeable future, being a period of at least twelve months from the date these financial statements were approved. Accordingly, they continue to adopt the going concern basis in preparing the financial statements.
+Page 
+18
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+2.
+Accounting policies (continued)
+2.4
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+group
+=== page 23 ===
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+group
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.5
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.6
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.7
+Government grants
+Grants are accounted under the accruals model as permitted by FRS 102. Grants relating to expenditure on tangible fixed assets are credited to profit or loss at the same rate as the depreciation on the assets to which the grant relates. The deferred element of grants is included in creditors as deferred income.
+Grants of a revenue nature are recognised in the 
+consolidated profit and loss account
+ in the same period as the related expenditure.
+Page 
+19
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+2.
+Accounting policies (continued)
+2.8
+Foreign currency translation
+Functional and presentation currency
+The 
+company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+consolidated profit and loss account
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+On consolidation, the results of overseas operations are translated into 
+Sterling
+ at rates approximating to those ruling when the transactions took place. All assets and liabilities of overseas operations are translated at the rate ruling at the reporting date. Exchange differences arising on translating the opening net assets at opening rate and the results of overseas operations at actual rate are recognised in other comprehensive income.
+2.9
+Intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+Page 
+20
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+=== page 24 ===
+2.
+Accounting policies (continued)
+2.10
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+At each reporting date the 
+group
+ assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+The 
+group
+ adds to the carrying amount of an item of fixed assets the cost of replacing part of such an item when that cost is incurred, if the replacement part is expected to provide incremental future benefits to the 
+group
+. The carrying amount of the replaced part is derecognised. Repairs and maintenance are charged to profit or loss during the period in which they are incurred.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Long-term leasehold property
+-
+10-27% Straight line
+Motor vehicles
+-
+25% straight line
+Office equipment
+-
+14-25% Straight line
+Computer equipment
+-
+17-25% Straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.11
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.12
+Cash
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. 
+In the 
+consolidated statement of cash flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+group
+'s cash management.
+Page 
+21
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+2.
+Accounting policies (continued)
+2.13
+Financial instruments
+The 
+group
+ has elected to apply Sections 11 and 12 of FRS 102 in respect of financial instruments.
+Financial assets and financial liabilities are recognised when the 
+group
+ becomes party to the contractual provisions of the instrument. 
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+group
+ after deducting all of its liabilities. 
+The 
+group
+’s policies for its major classes of financial assets and financial liabilities are set out below. 
+Financial assets
+Basic financial assets, including trade and other debtors, and cash and bank balances, are initially recognised at transaction price, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest for a similar debt instrument. Financing transactions are those in which payment is deferred beyond normal business terms or is financed at a rate of interest that is not a market rate.
+Such assets are subsequently carried at amortised cost using the effective interest method, less any impairment.
+Financial liabilities
+Basic financial liabilities, including trade and other creditors, and bank loans, are initially recognised at transaction price, unless the arrangement constitutes a financing transaction, where the debt instrument is measured at the present value of the future payments discounted at a market rate of interest for a similar debt instrument. Financing transactions are those in which payment is deferred beyond normal business terms or is financed at a rate of interest that is not a market rate.
+Debt instruments are subsequently carried at amortised cost, using the effective interest rate method.
+Impairment of financial assets
+=== page 25 ===
+Financial assets measured at cost and amortised cost are assessed at the end of each reporting period for objective evidence of impairment. If objective evidence of impairment is found, an impairment loss is recognised in the profit and loss account. 
+For financial assets measured at cost less impairment, the impairment loss is measured as the difference between the asset's carrying amount and the best estimate of the amount the 
+group
+ would receive for the asset if it were to be sold at the reporting date. 
+For financial assets measured at amortised cost, the impairment loss is measured as the difference between the asset's carrying amount and the present value of estimated cash flows discounted at the asset's original effective interest rate. If the financial asset has a variable interest rate, the discount rate for measuring any impairment loss is the current effective interest rate determined under the contract.
+If there is a decrease in the impairment loss arising from an event occurring after the impairment was recognised, the impairment is reversed. The reversal is such that the current carrying amount does not exceed what the carrying amount would have been had the impairment not previously been recognised. The impairment reversal is recognised in profit or loss.
+Page 
+22
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+2.
+Accounting policies (continued)
+Financial instruments (continued)
+Derecognition of financial assets and financial liabilities
+Financial assets are derecognised when (a) the contractual rights to the cash flows from the asset expire or are settled, or (b) substantially all the risks and rewards of the ownership of the asset are transferred to another party or (c) despite having retained some significant risks and rewards of ownership, control of the asset has been transferred to another party who has the practical ability to unilaterally sell the asset to an unrelated third party without imposing additional restrictions. 
+Financial liabilities are derecognised when the liability is extinguished, that is when the contractual obligation is discharged, cancelled or expires.
+Offsetting of financial assets and financial liabilities
+Financial assets and liabilities are offset and the net amount reported in the balance sheet when there is an enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+2.14
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. Tax is recognised in the profit and loss account, except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+Current tax is the amount of income tax payable in respect of taxable profit for the year or prior years.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the balance sheet date in the countries where the company operates and generates income.
+Deferred tax arises from timing differences that are differences between taxable profits and total comprehensive income as stated in the financial statements. These timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in which they are recognised in the financial statements.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the balance sheet date, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+Page 
+23
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+2.
+Accounting policies (continued)
+2.15
+Operating leases: the group as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+2.16
+Pensions
+Defined contribution pension plan
+The 
+group
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+group
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+group
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+balance sheet
+. The assets of the plan are held separately from the 
+group
+ in independently administered funds.
+2.17
+Provisions for liabilities
+Provisions are made where an event has taken place that gives the 
+group
+ a legal or constructive obligation that probably requires settlement by a transfer of economic benefit, and a reliable estimate can be made of the amount of the obligation.
+Provisions are charged as an expense to profit or loss in the year that the 
+group
+ becomes aware of the obligation, and are measured at the best estimate at the 
+balance sheet date
+ of the expenditure required to settle the obligation, taking into account relevant risks and uncertainties.
+When payments are eventually made, they are charged to the provision carried in the 
+balance sheet
+.
+2.18
+=== page 26 ===
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+2.19
+Share capital
+Ordinary shares are classified as equity.
+3.
+Turnover
+The whole of the turnover is attributable to the principal activities of the group.
+Analysis of turnover by country of destination:
+2023
+2022
+£
+£
+United Kingdom
+18,925,312
+19,073,025
+Rest of the world
+564,748
+-
+19,490,060
+19,073,025
+Page 
+24
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+4.
+Other operating income
+2023
+2022
+£
+£
+Government grants receivable
+3,827
+95,785
+Sundry income
+3,664
+-
+7,491
+95,785
+5.
+Operating profit
+The operating profit is stated after charging:
+2023
+2022
+£
+£
+Define contribution pension costs
+159,059
+129,123
+Audit fees payable to the company's auditor
+26,500
+25,000
+Non-audit fees payable to the company's auditor
+14,250
+13,500
+Amortisation of intangible fixed assets
+8,779
+-
+Depreciation of tangible fixed assets
+176,137
+108,294
+Loss on disposal of tangible fixed assets
+3,185
+16,716
+Exchange differences
+5,437
+795
+Other operating lease rentals
+625,487
+=== page 27 ===
+420,201
+Page 
+25
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+6.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Wages and salaries
+9,775,140
+8,992,827
+9,380,039
+8,992,827
+Social security costs
+724,231
+750,183
+715,468
+750,183
+Cost of defined contribution scheme
+159,544
+131,457
+157,256
+131,457
+10,658,915
+9,874,467
+10,252,763
+9,874,467
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+No.
+No.
+No.
+No.
+Administrative
+92
+44
+40
+44
+Operational
+376
+345
+368
+=== page 28 ===
+345
+468
+389
+408
+389
+7.
+Directors' remuneration
+2023
+2022
+£
+£
+Directors' emoluments
+140,690
+134,000
+Group contributions to defined contribution pension schemes
+10,820
+2,334
+151,510
+136,334
+Total remuneration in respect of the key management personnel relates solely to the directors' remuneration.
+8.
+Interest receivable
+2023
+2022
+£
+£
+Other interest receivable
+5,066
+-
+5,066
+-
+Page 
+26
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+9.
+Interest payable and similar expenses
+2023
+2022
+£
+£
+Bank interest payable
+96,489
+130,070
+Other loan interest payable
+3,498
+4,009
+Finance leases and hire purchase contracts
+17,530
+6,280
+Other interest payable
+75,530
+-
+193,047
+140,359
+10.
+Taxation
+2023
+2022
+£
+£
+Corporation tax
+Current tax on profits for the year
+153,357
+553,384
+153,357
+553,384
+Total current tax
+153,357
+=== page 29 ===
+553,384
+Deferred tax
+Origination and reversal of timing differences
+79,305
+120,363
+Total deferred tax
+79,305
+120,363
+Tax on profit
+232,662
+673,747
+Page 
+27
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+10.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2022 - higher than) 
+the standard rate of corporation tax
+ in the UK of
+23.5
+%
+ (2022 - 
+19
+%)
+. The differences are explained below:
+2023
+2022
+£
+£
+Profit on ordinary activities before tax
+1,030,552
+2,917,322
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 23.5% (2022 - 19%)
+242,180
+554,291
+Effects of:
+Non-tax deductible amortisation of goodwill and impairment
+(2,063
+)
+-
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+865
+-
+Capital allowances for year in excess of depreciation
+(81,933
+)
+(5,733
+)
+Higher rate taxes on overseas earnings
+8,080
+-
+Increase or decrease in pension fund prepayment leading to an increase (decrease) in tax
+2,092
+4,827
+Short-term timing difference leading to an increase (decrease) in taxation
+(2,226
+)
+(6,351
+)
+Other timing differences leading to an increase (decrease) in taxation
+81,531
+126,713
+Changes in the corporation tax rate during the year
+=== page 30 ===
+(15,864
+)
+-
+Total tax charge for the year
+232,662
+673,747
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+11.
+Dividends
+2023
+2022
+£
+£
+Interim paid
+739,250
+670,000
+739,250
+670,000
+Page 
+28
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+12.
+Intangible assets
+Group
+Goodwill
+£
+Cost
+On acquisition of subsidiaries
+8,779
+At 31 July 2023
+8,779
+Amortisation
+Charge for the year
+8,779
+At 31 July 2023
+8,779
+Net book value
+At 31 July 2023
+-
+At 31 July 2022
+-
+The company held no intangible assets at 31 July 2023 or 31 July 2022.
+Page 
+29
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+13.
+Tangible fixed assets
+Group
+Long-term leasehold property
+Motor vehicles
+Fixtures and fittings
+Office equipment
+Computer equipment
+Total
+£
+£
+£
+£
+£
+£
+Cost
+At 1 August 2022
+297,282
+-
+-
+=== page 31 ===
+246,509
+214,307
+758,098
+Additions
+134,421
+384,469
+-
+80,702
+24,189
+623,781
+Acquisition of subsidiary
+-
+-
+50,779
+12,196
+217,345
+280,320
+Disposals
+(290
+)
+-
+-
+(3,673
+)
+(5,534
+)
+(9,497
+)
+Exchange adjustments
+-
+-
+219
+53
+936
+1,208
+At 31 July 2023
+431,413
+384,469
+50,998
+335,787
+451,243
+1,653,910
+Depreciation
+At 1 August 2022
+75,516
+-
+-
+75,645
+80,523
+231,684
+Charge for the year
+69,052
+56,394
+385
+48,681
+58,019
+232,531
+Disposals
+(152
+)
+-
+-
+(2,485
+)
+(3,675
+)
+(6,312
+)
+Acquisition of subsidiary
+-
+=== page 32 ===
+-
+42,972
+10,428
+164,396
+217,796
+Exchange adjustments
+-
+-
+198
+49
+825
+1,072
+At 31 July 2023
+144,416
+56,394
+43,555
+132,318
+300,088
+676,771
+Net book value
+At 31 July 2023
+286,997
+328,075
+7,443
+203,469
+151,155
+977,139
+At 31 July 2022
+221,766
+-
+-
+170,864
+133,784
+526,414
+Page 
+30
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+13.
+Tangible fixed assets (continued)
+Company
+Long-term leasehold property
+Motor vehicles
+Office equipment
+Computer equipment
+Total
+£
+£
+£
+£
+£
+Cost
+At 1 August 2022
+297,282
+-
+246,509
+214,307
+758,098
+Additions
+134,421
+384,469
+80,702
+24,189
+623,781
+Disposals
+(
+290
+)
+-
+=== page 33 ===
+(
+3,673
+)
+(
+5,534
+)
+(
+9,497
+)
+At 31 July 2023
+431,413
+384,469
+323,538
+232,962
+1,372,382
+Depreciation
+At 1 August 2022
+75,516
+-
+75,645
+80,523
+231,684
+Charge for the year
+69,052
+56,394
+48,563
+54,426
+228,435
+Disposals
+(
+152
+)
+-
+(
+2,485
+)
+(
+3,675
+)
+(
+6,312
+)
+At 31 July 2023
+144,416
+56,394
+121,723
+131,274
+453,807
+Net book value
+At 31 July 2023
+286,997
+328,075
+201,815
+101,688
+918,575
+At 31 July 2022
+221,766
+-
+170,864
+133,784
+526,414
+Page 
+31
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+14.
+Fixed asset investments
+Company
+Investments in subsidiary companies
+=== page 34 ===
+£
+Cost
+Additions
+352,875
+At 31 July 2023
+352,875
+Direct subsidiary undertaking
+The following 
+was a direct subsidiary undertaking of the company:
+Name
+Registered office
+Class of shares
+Holding
+ATM SA Proprietary Limited
+(Formerly Woven SA Group Proprietary Limited)
+1st Floor Parc du Links Building
+, 7 Niblick Way
+, Somerset West, 7130
+, South Africa
+Ordinary
+100
+%
+Indirect subsidiary undertakings
+The following 
+were indirect subsidiary undertakings of the company:
+Name
+Registered office
+Class of shares
+Holding
+Woven SAC Proprietary Limited
+22 Long Street, 8th Floor, Cape Town, 8000, South Africa
+Ordinary
+68
+%
+SA Commercial Proprietary Limited
+22 Long Street, 8th Floor, Cape Town, 8000, South Africa
+Ordinary
+68
+%
+Page 
+32
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+15.
+Debtors
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Trade debtors
+4,814,852
+4,981,177
+4,584,071
+4,981,177
+Amounts owed by related undertakings
+1,273,644
+459,324
+1,273,644
+459,324
+Other debtors
+44,245
+=== page 35 ===
+257,159
+41,390
+257,159
+Prepayments and accrued income
+1,628,545
+763,378
+1,628,348
+763,378
+7,761,286
+6,461,038
+7,527,453
+6,461,038
+Amounts owed by related undertakings are interest free, have no fixed repayment date and are repayable on demand.
+16.
+Cash and cash equivalents
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Cash at bank and in hand
+602,694
+698,759
+229,093
+698,759
+Less: bank overdrafts
+(553
+)
+-
+(
+553
+)
+-
+602,141
+698,759
+228,540
+698,759
+17.
+Creditors: Amounts falling due within one year
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Bank overdrafts
+553
+-
+553
+-
+Bank loans
+351,000
+351,000
+351,000
+351,000
+Other loans
+26,745
+=== page 36 ===
+48,284
+26,745
+48,284
+Trade creditors
+195,147
+187,975
+194,821
+187,975
+Corporation tax
+741,138
+606,031
+722,980
+606,031
+Other taxation and social security
+1,161,274
+1,899,566
+1,155,237
+1,899,566
+Obligations under finance lease and hire purchase contracts
+164,654
+55,837
+164,654
+55,837
+Other creditors
+2,394,272
+862,728
+2,353,000
+862,728
+Accruals and deferred income
+857,505
+352,346
+797,940
+352,346
+5,892,288
+4,363,767
+5,766,930
+4,363,767
+Page 
+33
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+18.
+Creditors: Amounts falling due after more than one year
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Bank loans
+789,750
+1,140,750
+789,750
+1,140,750
+Net obligations under finance leases and hire purchase contracts
+173,625
+-
+173,625
+-
+963,375
+1,140,750
+963,375
+1,140,750
+=== page 37 ===
+The following liabilities were secured:
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Bank loans
+1,140,750
+1,491,750
+1,140,750
+1,491,750
+1,140,750
+1,491,750
+1,140,750
+1,491,750
+Details of security provided:
+The bank loan is secured by a guarantee pledged by a director limited to £175,500 in favour of the company's bankers. In addition this is supported by a fixed and floating charge over the assets and undertaking of the company.
+The interest on the bank loan is charged at 3.99% above the prevailing base rate. The bank loan is repayable by way of equal monthly instalments by October 2026.
+Page 
+34
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+19.
+Loans
+Analysis of the maturity of loans is given below:
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Amounts falling due within one year
+Bank loans
+351,000
+351,000
+351,000
+351,000
+Other loans
+26,745
+48,284
+26,745
+48,284
+377,745
+399,284
+377,745
+399,284
+Amounts falling due 1-2 years
+Bank loans
+351,000
+351,000
+351,000
+351,000
+351,000
+351,000
+351,000
+351,000
+=== page 38 ===
+Amounts falling due 2-5 years
+Bank loans
+438,750
+789,750
+438,750
+789,750
+438,750
+789,750
+438,750
+789,750
+1,167,495
+1,540,034
+1,167,495
+1,540,034
+Page 
+35
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+20.
+Deferred taxation
+Group
+2023
+£
+At beginning of year
+(120,363
+)
+Charged to profit or loss
+(80,034
+)
+At end of year
+(200,397
+)
+Company
+2023
+£
+At beginning of year
+(
+120,363
+)
+Charged to profit or loss
+(
+79,305
+)
+At end of year
+(
+199,668
+)
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Accelerated capital allowances
+(208,974
+)
+(126,714
+)
+(
+208,245
+)
+(
+126,714
+=== page 39 ===
+)
+Tax losses carried forward
+8,577
+6,351
+8,577
+6,351
+(200,397
+)
+(120,363
+)
+(
+199,668
+)
+(
+120,363
+)
+21.
+Share capital
+2023
+2022
+£
+£
+Allotted, called up and fully paid
+100
+ (2022 - 
+100
+)
+Ordinary
+shares of
+£
+1.00
+ each
+100
+100
+The holders of ordinary shares are entitled to receive dividends as declared from time to time and are entitled to one vote per share at meetings of the Company.
+Page 
+36
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+22.
+Reserves
+Foreign exchange reserve
+The foreign exchange reserve comprises translation differences arising from conversion of functional currency balances into the presentational currency of the group.
+Profit and loss account
+The profit and loss account included all current and prior period profits and losses.
+23.
+Analysis of net debt
+At 1 August 2022
+Cash flows
+Acquisition of subsidiaries
+New finance leases
+At 31 July 2023
+£
+£
+£
+£
+£
+Cash at bank and in hand
+698,759
+(459,492
+)
+363,427
+-
+602,694
+Bank overdrafts
+-
+(553
+)
+-
+=== page 40 ===
+-
+(553
+)
+Debt due after 1 year
+(1,140,750
+)
+351,000
+-
+-
+(789,750
+)
+Debt due within 1 year
+(462,950
+)
+14,659
+-
+-
+(448,291
+)
+Finance leases
+(55,837
+)
+51,109
+-
+(333,551
+)
+(338,279
+)
+(960,778
+)
+(43,277
+)
+363,427
+(333,551
+)
+(974,179
+)
+24.
+Commitments under operating leases
+At 
+31 July 2023
+ the 
+group and the company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+Group
+Group
+Company
+Company
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Not later than 1 year
+443,125
+370,292
+443,125
+370,292
+Later than 1 year and not later than 5 years
+1,714,105
+2,221,578
+1,714,105
+2,221,578
+2,157,230
+2,591,870
+2,157,230
+2,591,870
+=== page 41 ===
+Page 
+37
+AT MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 JULY 2023
+25.
+Related party transactions
+The company has taken advantage of the exemption contained in FRS 102 section 33 "Related Party Disclosures" from disclosing transactions with entities which are a wholly owned part of the group.
+Transactions with other related parties are as follows:
+Relationship
+Transaction
+Amount
+Amount due (to)/from related parties
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Entities under common control
+Amounts receivable
+-
+-
+1,273,644
+461,851
+Amounts payable
+-
+-
+(559,997
+)
+(612,002
+)
+Total transactions
+1,913,218
+2,526,091
+-
+-
+Directors and close family members
+Amounts receivable
+-
+-
+-
+155,990
+Amounts payable
+-
+-
+(70,546
+)
+(63,666
+)
+Amounts advanced during the year
+554,173
+763,704
+-
+-
+Dividends paid during the year
+(717,071
+)
+(649,900
+)
+-
+-
+Amounts owed to related parties are unsecured, interest free and due for repayment within one year.
+26.
+Post balance sheet events
+In December 2023, the company acquired the remaining non-controlling interest in a subsidiary undertaking.
+In January 2024, following a group restructure, the company's own shareholding was transferred to NDH Group Holdings Limited.
+27.
+=== page 42 ===
+Controlling party
+The ultimate controlling party is the McArthur family.
+Page 
+38

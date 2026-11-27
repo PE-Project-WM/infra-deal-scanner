@@ -1,0 +1,1687 @@
+=== page 1 ===
+Commercial in confidence
+‘ Flexion Mobile Pic
+Consolidated Annual Report
+; For the year ended
+31 December 2024
+Company registration number 04306881
+
+>
+
+a
+
+2
+
+< *AESSE1AQ*
+A14 21/06/2025 #60
+COMPANIES HOUSE
+
+=== page 2 ===
+Commercial in confidence
+. Contents
+Page
+Strategic Report
+Chairman’s Statement 3
+Chief Executive Officer's Statement 4
+The Board 6
+Chief Financial Officer's Statement 9 .
+Principal risks and uncertainties 11
+Section 172 Statement 13
+; Directors’ Report 16
+Financial Statements
+Independent Auditor's Report 20
+Consolidated Statement of Profit or Loss and Other Comprehensive Income 26
+Consolidated Statement of Financial Position 27
+Consolidated Statement of Cash Flows 28
+Consolidated Statement of Changes in Equity 29
+Notes to the Financial Statements . 30
+Parent company Statement of Financial Position 55
+Parent company Changes in Equity 56
+Parent company Notes to the Financial Statements 57
+Flexion Mobile Pic Page | 2 Annual Report 31 Dec 2024
+
+=== page 3 ===
+Commercial in confidence
+STRATEGIC REPORT :
+The directors present their strategic report for the year ended 31 December 2024.
+CHAIRMAN’S STATEMENT
+“'m pleased to present Flexion’s 2024 Annual Report, with continued revenue growth and key
+strategic achievements”
+Financial highlights include record revenue of £76.8m, a 10% increase from 2023 while gross profit
+grew 11% to £13.9m. The operating loss of £3.0m was impacted by increased amortisation in the year
+with Adjusted EBITDA of £4.2m. With cash reserves increasing to £13.1m and with no debt, our
+balance sheet is strong and provides us with a platform for investment in future growth. .
+I'm pleased to report that there were a number of strategic achievements in the year, including the
+development of our new service offering, new partnerships with top tier developers and delivery of
+our new SDK (Software Development Kit) solution. Our game distribution partnerships continue to
+demonstrate robust performance, affirming our value to leading platform providers. The final months
+of 2024 saw the most extensive series of game launches in our history, which will drive growth in 2025
+and beyond. Our sales pipeline remains strong, and the recent King and EA partnerships reinforces
+our leadership in the alternative app store market.
+The continued regulatory changes, evidenced by the Digital Markets Act in the EU and similar
+developments in other markets presents a particular future opportunity for Flexion. We expect
+increased regulatory scrutiny on Google and Apple during 2025, and our leading position in the
+alternative app store market leaves us well-positioned to capitalise on these changes.
+As well as these financial and strategic achievements, I’m extremely happy to report that we have now
+fully moved on from the corporate governance challenges | discussed in detail in my previous two
+updates. The impact of these we felt particularly in the issues surrounding the completion of our 2022
+accounts and from which we began to emerge in 2023. We will continue to keep a high focus on this
+topic to ensure we maintain the high standards to which we aspire.
+Finally, as this will be my final Annual Report as Chairman, | would like to place on record my thanks
+to all my Board colleagues, past and present as well as all our team members who over many years
+have helped grow the business to the where we are today. The growth we've achieved since our 2018
+listing gives me great satisfaction and | believe we are extremely well placed to take advantage of the
+new market opportunities over the next couple of years to further scale the business and fully realise
+our potential.
+Carl Palmstierna
+Non-Executive Chairman
+Flexion Mobile Plc Page | 3 Annual Report 31 Dec 2024
+
+=== page 4 ===
+Commercial in confidence
+STRATEGIC REPORT
+CHIEF EXECUTIVE OFFICER’S STATEMENT
+“Our strong balance sheet, combined with key strategic and market developments, paves the way
+for growth in 2025 and beyond"
+As noted by our Chairman, 2024 delivered strong revenue growth with our positive cash generation
+leaving us with £13.1m of cash reserves and zero debt. Longer term, we are confident that our focus
+on bigger games and strategic partnerships, whilst putting some pressure on margins in 2025, is
+certainly the best way to continue scaling the business.
+Our significant partnership with King in June 2024 marked the beginning of strong momentum in game
+sourcing. The launch of Candy Crush Saga® across all channels took only eight weeks from agreement
+signing, a process significantly expedited by Flexion. This demonstrates how our technology and
+services simplify, reduce costs, and increase profitability for game developers in alternative
+distribution within a fragmented app store market. We adapt and promote successful games, helping
+developers generate additional revenue outside Google Play in exchange for a revenue share. Our
+services mitigate the high opportunity cost that hinders developers in the alternative market.
+Developers are not equipped for a fragmented landscape, positioning Flexion as a critical enabler. This
+value is increasingly recognised by key players in the industry. Following this successful King
+partnership launch, Q4 saw the addition of Candy Crush Solitaire© to our framework agreement.
+Expanding business with major clients is key to our model. The Microsoft acquisition of Activision/King
+in 2023, and King’s integration into the Xbox service organisation, presents further growth
+opportunities within Microsoft’s mobile game strategy. During the year, agreements were made with
+Microfun for Gossip Harbour, and the portfolio was strengthened with War Robots (My.Games) and
+War Machines (Wildlife Studios). These partnerships highlight our focus on top-tier developers,
+expanding market reach and portfolio. Our live portfolio now includes more than 30 titles, with top-
+* tier games generating on average USD 0.9 million monthly gross revenue each in the fourth quarter.
+We believe our portfolio is unparalleled, and it represents several billion dollars in gaming IP,
+benefiting partners like Amazon, Huawei, OneStore, Samsung, and Xiaomi.
+The implementation of the Digital Markets Act (DMA) in the EU presents significant strategic
+opportunities. There are similar initiatives in several other markets, notably the US. Regulators are
+putting a lot of pressure on both Google and Apple to open their platforms and stores to competition.
+The EU Commission recently found both Apple and Google guilty of breaching the DMA on several
+counts, and the market is now waiting to see what the next steps will be. As a minimum, we expect
+increased regulatory scrutiny during 2025, and we are well-positioned to capitalise on this evolving
+regulatory landscape.
+Given this backdrop, it was to be expected that we would see the emergence of new market entrants,
+such as Epic Games with their Epic Store on Android and iOS, and this further validates our strategic
+direction and opportunity to scale our business further. We are prepared to support their growth with
+our game portfolio, as well as Microsoft’s future Xbox service, as we believe that this will strengthen
+our market position and reach. Our active partnership with Digital Turbine, including the rollout of
+ONEstore US to US carriers, as well as Samsung’s Instant Play, will further expand our distribution
+footprint during 2025.
+Audiencly, our influencer marketing agency, finished the year strongly, securing new clients and
+executing major campaigns for Zynga, among several other gaming clients. This performance
+established a strong foundation for 2025 and solidified its rote as an increasingly vital route to market
+for our game developers.
+Flexion Mobile Plc Page | 4 Annual Report 31 Dec 2024
+
+=== page 5 ===
+Commercial in confidence
+STRATEGIC REPORT
+During 2025, our internal focus will be on operational efficiency, scalability, and margin contribution
+in our core distribution and marketing services. In parallel, we will continue to invest in strategic
+product initiatives. Our D2C (Direct to Consumer) investment, which is central to our new service
+offering, is gaining momentum, resonating well with the developer community and particularly top-
+grossing developers who look to increase the return on their marketing spend through higher-margin
+distribution services. The increasing adoption of web stores by developers signals a significant shift in
+future distribution models and could, over time, help reshape the industry. We aim to be at the
+forefront of this and have just successfully completed our payment integration project with Coda
+Payments, a leading web store and payment company in our industry. We are now preparing to soft
+launch a few more additional titles using Coda Payments in some of the distribution channels. It is
+critical that we make these investments as they will not only provide a strong foundation for scale and
+profitable growth but also make us more relevant to top-grossing game companies in the evolving
+market.
+Our focus in 2025 is to further improve service scalability and efficiency, and we need to continue our
+strategic investments for long-term growth and profitability. We are, for instance, introducing Al in all
+aspects of the business, and we have worked hard on our new SDK development and rollout, and now
+: on D2C. These investments are needed to provide both scalability and long-term attractiveness to our
+clients. We are confident that these initiatives will generate significant returns over time and further
+cement Flexion’s leadership in game marketing within alternative markets. :
+Looking further into 2025, we have good visibility of our sales pipeline, we have new partnerships
+coming, and we have a very well-established position in the market. Understandably, we are very
+excited. We appreciate your continued support and look forward to an exciting 2025.
+Jens Lauritzson
+CEO
+Date: 17 June 2025
+Flexion Mobile Pic Page{5 Annual Report 31 Dec 2024
+
+=== page 6 ===
+Commercial in confidence
+STRATEGIC REPORT :
+THE BOARD :
+As set out in Flexion Mobile’s articles of association, the number of Directors of the Board shall consist
+of not less than two and shall not be subject to any maximum number. The Board of Directors consists
+of seven members, including the chairman. The Directors are elected annually at the annual general
+. meeting for the period until the end of the next annual general meeting. The current Directors have :
+their assignments until the end of the next annual general meeting. The Board of Directors’ work is
+governed by English law, the articles of association and the Board of Directors’ rules of procedure.
+; Carl Palmstierna (Born 1953) - Director since 2009, Chairman of the Board of Directors since 2011
+Other assignments: Chairman of the Board of Directors and member of the Board of Directors of
+Palmstierna Invest AB, Palmstierna Holding AB, Palmeister & Partners AB and Freemelt AB, The
+Chairman of Nenda AB,Member of the Board of Directors of Order Impact AB (formerly known as
+Flaivy AB) , Envigas AB ZipClick Solutions AB, Camboza AB and Swipefinder AB.
+Previous assignments: Chairman of the Board of Directors and member of the Board of Directors of
+WeMind AB, SPWM Special Clients Services AB, Reflection Ltd, SPWM Special Clients AB, ReformTech
+Heating Holding AB, Panopticon Software AB, myFC Holding AB (publ), Valbay AB, Valbay International
+AB. Member of the Board of Directors of Magine Holding AB, Ankar Sweden AB, Bluefish ;
+Pharmaceuticals AB (publ), Byredo AB, Natural Fragrance of Sweden AB, Sunpocket AB, Elekta AB, .
+Now Interact Nordic AB, Oculusai Incentive AB, Peepoople AB, Reforce International AB, Svenska allt
+fér féraldrar AB, Universum Group AB, Valbay Férvaltning AB, B8 Sverige AB, OrganoWood AB and
+Yatrade AB., Chinsay AB, S.P. BECPEL Stockholm AB, Viametrics AB, Viametrics Group AB.
+Shares in Flexion as of 31 December 2024: 3,724,980 shares via Palmstierna Invest AB and associated
+companies.
+Options in Flexion as of 31 December 2024: N/A ,
+Independent in relation to Flexion and Flexion’s management: Yes. :
+Independent in relation to major shareholders: No. :
+Jens Lauritzson (Born 1970) - Director since 2001, currently CEO of Flexion Mobile Plc
+Other assignments: Board member of Mobile Sensations Limited.
+Previous assignments: Sales Manager UK at Aspiro and Managing Director at Popwire Limited.
+Shares in Flexion as of 31 December 2024: 115,989 shares and 50% ownership in Mobile Sensations
+Limited, which owns 11,354,862 shares.
+Options in Flexion as of 31 December 2024: N/A
+Independent in relation to Flexion and Flexion’s management: No.
+: Independent in relation to major shareholders: No.
+Flexion Mobile Pic Page | 6 Annual Report 31 Dec 2024 .
+
+=== page 7 ===
+Commercial in confidence
+STRATEGIC REPORT
+Per Lauritzson (Born 1974) - Director since 2007, currently COO of Flexion Mobile Pic
+Other assignments: Board member of Mobile Sensations Limited. .
+Previous assignments: Business Developer at Polopoly AB and Project Manager at the ExportCouncil.
+Shares in Flexion as of 31 December 2024: 50% ownership in Mobile Sensations Limited which owns
+11,354,862 shares.
+Options in Flexion as of 31 December 2024: N/A
+Independent in relation to Flexion and Flexion’s management: No.
+Independent in relation to major shareholders: No.
+Christopher Bergstresser (Born 1968) — Director since 2018
+: - Other assignments: President & CSO OV Entertainment.
+Previous assignments: Group COO for Enad Global 7. Investment Director at Modern Times Group
+MTG AB. Partner of MTGx. President of the Board of Directors of Ludicious — Zurich Games Festival.
+President & COO of Sega of Europe. Member of the Board of Directors and EVP of Miniclip SA, co-
+founder & member of the Board of Directors of Appscotch and member of the advisory Board of Spil
+. Games and Nitro Games.
+Shares in Flexion as of 31 December 2024: N/A
+Options in Flexion as of 31 December 2024: 125,000
+. Independent in relation to Flexion and Flexion’s management: Yes.
+Independent in relation to major shareholders: Yes. :
+Mikael Pawio (Born 1973) — Director since 2021
+Other assignments: Member of the Board of Directors of Pawlo Invest AB, Djurgardens Elitfotboll AB,
+Football Addicts Holding AB, Supertext Holding AB (previously SMSgrupp i Stockholm Holding AB),
+6502 Processor AB and Deco Djursholm AB., Netnod AB.
+Previous assignments: CEO and co-founder of Red Flag; founding CEO and board member of Mr Green
+& Co, member of the Board of Directors of Djurgardens Elitfotboll, XS Music Group, SMSgrupp Africa
+AB, Sigmund 6581 AB, Nifty Moments AB, Bokio A8, Forza Challenge AB, Forza Addicts Personal AB,
+Forza Addicts Personal 2 AB, WeMind AB and Peerialism.
+Shares in Flexion as of 31 December 2024: 136,303 shares.
+Options in Flexion as of 31 December 2024: N/A
+Independent in relation to Flexion and Flexion’s management: Yes.
+Independent in relation to major shareholders: Yes.
+Flexion Mobile Pic Page | 7 Annual Report 31 Dec 2024
+
+=== page 8 ===
+. Commercial in confidence
+STRATEGIC REPORT
+Benjamin Crawford (Born 1965) — Director since 2023
+Other assignments: CEO of Com Laude Ltd since June 2024 .
+Previous assignments: Chairman of Ben Crawford Consulting (UAE), Advisory Board Member, Voyage
+Media (USA). From 2009 until December 2022 Chief Executive Officer and Board Member of
+CentralNic Group PLC, and Board Member of its subsidiaries globally. Previously CMO of MutualArt
+(USA) 2006-8 and President and Board Director of Louise Blouin Media (USA/UK) 2004-6.
+Share in Flexion as of 31 December 2024: 253,026 shares
+Options in Flexion as of 31 December 2024: N/A
+Independent in relation to Flexion and Flexion’s management: Yes.
+Independent in relation to major shareholders: Yes. ~
+Flexion Mobile Pic Page [| 8 Annual Report 31 Dec 2024
+
+=== page 9 ===
+Commercial in confidence
+STRATEGIC REPORT ,
+CHIEF FINANCIAL OFFICER’S STATEMENT
+Revenue
+The financial year ending 31 December 2024 showed steady revenue growth with total revenue
+increasing to GBP 76.8m (2023: GBP 70.0m) equal to growth of 10%. The driver for this growth was In
+App Purchases (“IAP”) revenue of GBP 65.5m (2023: GBP 60.3m) equal to growth of 9%.
+Gross Margin
+Gross profit grew to GBP 13.9m (2023: GBP 12.5m) equalling an 11% increase. The key driver was IAP
+gross profit which grew by 32% to GBP 12.0m (2023: GBP 9.1m) with Marketing services contributing
+GBP 1.8m (2023: GBP 3.3m) and non-lAP gross margin contributing with GBP 0.1m (2023: GBP 0.1m).
+General and administrative expenses
+Staff and contractor costs increased by 11% to GBP 6.8m (2023: GBP 6.1m), this is due to the
+headcount growing by 18% to 163 (2023: 138). General and admin expenses (excluding impairment
+losses) increased by 56% to GBP 18.6m (2023: GBP 11.9m), this is mainly due to accelerated
+amortization of game distribution rights due to a change in the Useful Economic Lives (“UELs”) at the
+end of 2023 as part of our annual assessment of intangible assets.
+Alternative performance Measures (“APMs”)
+The Directors believe that the reported APMs provide meaningful performance information to aid the
+understanding of the underlying business trading performance and profitability. Although these are
+not GAAP measures as defined by IFRS, they have been applied to provide an accurate comparison as
+well as provide readers of the financial statements a clear understanding of the underlying profitability
+of the business and more consistent comparison over time. A breakdown of the adjusting factors is
+provided in the table below:
+Adjusted EBITDA
+2024 2023
+GBP GBP
+Operating (loss) / profit (3,028,552) 3,925,948
+Fair value gains (3,653,668) (3,342,705)
+Depreciation : 166,022 133,689
+, Amortisation 6,831,568 2,585,586
+Impairment losses 1,994,345 -
+Foreign exchange loss 326,048 221,945
+Other exceptional costs 1,598,168 1,105,044
+Adjusted EBITDA 4,233,932 4,629,507
+The Group believes adjusted EBITDA to be a key indicator of underlying operational performance,
+adjusting operating profit for several non-cash or exceptional items. The Group and its members track
+adjusted EBITDA on a monthly and quarterly basis respectively. Adjusted EBITDA for the year ended
+31 December 2024 was GBP 4.2m, which is operating loss of GBP 3.0m before fair value gains of GBP
+3.7m, depreciation of GBP 0.2m, amortisation of GBP 6.8m, impairment losses of GBP 2.0m, foreign
+exchange loss of GBP 0.3m and other exceptional costs of GBP 1.6m (which are one-off third party
+legal and forensic costs relating to the forensic investigation undertaken on the 2022 financial year
+and a one-off payment made to the sellers of Audiencly GmbH).
+Adjusted EBITDA is an appropriate measure since it represents to users a comparable operating profit,
+excluding the effects of the accounting estimates, non-cash and exceptional items mentioned above.
+The Group does not include the effects of amortisation of acquired intangible assets even though the
+associated revenues are included. The measure is not defined in the International Financial Reporting
+Flexion Mobile Pic Page | 9 Annual Report 31 Dec 2024
+
+=== page 10 ===
+Commercial in confidence
+
+STRATEGIC REPORT
+
+, Standards, which forms the basis of the presentation of the Financial Statements included on pages
+20 to 63 and is not intended as a substitute for the other GAAP measures. Since this is an indicator
+specific to the Group’s operational structure, it may not be comparable to adjusted metrics used by
+other companies.
+Adjusted EBITDA and Operating profit
+Adjusted EBITDA decreased by 9% to GBP 4.2m (2023: GBP 4.6m) and operating profit decreased by
+177% to a loss of GBP 3.0m (2023: profit of GBP 3.9m).
+Total comprehensive profit and earnings per share
+Tax contributed positively with GBP 0.6m (2023: negatively with GBP 0.3m). Currency translation
+differences contributed negatively with GBP 0.2m (2023: negatively with GBP 0.3m). As a result, total
+comprehensive profit decreased to a loss of GBP 2.9m (2023: profit of GBP 2.0m) resulting in earnings
+per share of GBP -S.14 pence (2023: GBP 3.77 pence).
+Cash flow and Financial Position Review
+The operating cash flow increased by GBP 2.7m to GBP 4.0m (2023: GBP 1.3m) driven by a working
+capital contribution due to the timing of payables and receivables. GBP 0.4m (2023: GBP Nil) was spent
+on capitalised development costs during the year (2023: GBP Nil). GBP 0.03m (2023: GBP 0.1m) was
+received from share issues related to the employee options scheme. This resulted in a net inflow in
+cash of GBP 2.4m (2023: outflow of GBP 2.4m) and a cash balance at the end of the year of GBP 13.1m
+(2023: GBP 11.1m).
+Ross Logan
+CFO
+Date: 17 June 2025
+Flexion Mobile Pic Page | 10 Annual Report 31 Dec 2024
+
+=== page 11 ===
+Commercial in confidence
+STRATEGIC REPORT
+PRINCIPAL RISKS AND UNCERTAINTIES
+The Board has here presented its view of the main risks and uncertainties of the Group. The Board
+continually reviews the potential risks facing the Group and the controls in place to mitigate these
+risks. The Board recognises that these risks may change and that there may be other risks not
+presented here and so the list is not intended to be exhaustive.
+Financial instruments
+The quantitative information about the Group’s exposure to risk arising from financial instruments,
+specifically credit risk, liquidity risk and foreign exchange risk can be found in note 21. Qualitative
+information about aforementioned risk exposure has been explained in note 2 under the Group’s
+accounting policies. The Group does not currently use derivative financial instruments to hedge
+foreign exchange exposures.
+Market Risk
+The Group is partly dependent on a fragmented Android market for mobile games and at least some
+growth within this market. Lack of fragmentation and growth could reduce the demand for the
+Group’s service which may have a material adverse effect on the Group’s business, results and
+financial position. However, as the Android operating system is by far the most used system for new
+mobile devices, as new players are continuously entering the fragmented Android market
+underpinned by the DMA ruling which would increase market fragmentation in the short-medium
+term. As the Group is actively positioning itself to capture growth opportunities within the market,
+the Board considers these risks to be acceptable in light of the new service offering that the Group are
+bringing to market such as D2C (Direct to consumer).
+Competitive Services and Distribution Solutions
+The Group is active in a competitive market where innovation is fast paced. Product development and
+innovation by other players may result in services, products or technical solutions which may reduce
+the demand for the Group’s services which may have a material adverse effect on the Group’s business
+service and financial position. The Group continues to improve its SDK and wrapper features as well
+its services and products to meet market evolution. The Board believes new services, products and
+technical solutions will appear but that these will benefit the fragmented Android market which in the
+end will benefit all players on the market including the Group.
+Key Management
+The Group is dependent on attracting and maintaining key personnel for the continued successful
+development of the business. The loss of key personne! may have a material adverse effect on the
+Group’s business, service and financial position. To maintain key staff, the Group is actively working
+with a structured review, development and motivation process for all staff and manage option
+schemes to further incentivise staff. The Board does not consider Brexit to have any significant impact
+on key personnel as the Group is running activities in Germany and Hungary, from which the Group
+can offer employment for EU nationals if needed.
+Financing and Future Capital Requirements
+Depending on the development of the Group's business, its ability to forecast future cash needs, and
+its ability to generate cashflow, the Group may require additional capital on commercially acceptable
+terms to continue its operations and services. The conditions of future financing will depend on how
+the Group’s business develops, but it will also depend on other factors outside the Group’s control,
+such as macro-economic developments and capital markets being prepared to finance companies in
+the segment where the Group operates. Failure to raise such capital needed may have an adverse
+effect on the Group’s business, service and financial position. The Board is continuously assessing this
+Flexion Mobile Plc Page | 11 Annual Report 31 Dec 2024
+
+=== page 12 ===
+Commercial in confidence
+STRATEGIC REPORT
+risk by regular reviews of budgets and forecasts, cash flow related risks and the capital markets from
+which the Group would raise capital if required.
+Financial Commitments
+The Group has entered into contractual relationships with developers, channels, service providers and
+other parties where the Group commits to certain revenue or payment streams. These commitments
+may be set on a fixed basis or on a minimum requirement basis which are dependent on independent
+underlying factors which may or may not be fully within the Group’s full control. To meet these
+commitments the Group may need to pay significant amounts of capital which may reduce the Group’s
+ability to meet its other obligations and capital needs. This may have a materially adverse effect on
+the Group’s business, service and financial position. In the event the Group decided to enter into a
+contract with such a commitment, the Board would assess the related risk by reviewing exposures,
+risk scenarios and related cashflow impacts to not engage in more commitments than the Group can
+manage with existing financial resources. .
+Investments
+The Group may invest in or acquire companies that hold technology, services, know-how or market
+positions which are beneficial to the growth of the Group. These investments and acquisitions carry
+risk which may result in that the invested or purchased value will decrease in value or be completely
+written off. The Board is mitigating this by ensuring that the Group holds sufficient resources and
+knowledge to assess and address relevant risks properly.
+IT Systems
+The Group is dependent on IT systems in its business for both its day-to-day operations and in relation
+to its customers and partners. System failures, data breaches, network outages, computer malwares,
+criminal actions and similar exigencies could have a detrimental effect on the Group’s business, service
+and financial position. The Group is actively and continuously working to mitigate these risks by
+improving system monitoring, improving fault tolerance and disaster recovery in the platform,
+improving system and network infrastructure and introducing improved disaster recovery systems and
+procedures.
+intellectual Property Rights
+The Group owns intellectual property (“IP”) rights on which the Group successfully placed a US patent
+and are currently working towards an EU patent. There is a risk that third parties legally or illegally
+infringe on the Group’s rights or find gaps in the rights which they may exploit or seek !P protection
+on. To mitigate for this, the Group is, with its resources available, reviewing its IP rights protection to
+identify possible mitigations strategies. In addition, the Group is distributing mobile applications or
+marketing services which may have substantial external IP rights attached to them. In the event the
+Group is directly or indirectly involved in a breach of these rights, the IP right holders may seek
+substantial damages from the Group. The Group is actively trying to mitigate against these risks by
+adhering to all contractual obligations around these rights and to seek insurance protection for the
+main IP risks.
+Processing of Personal Data
+The Group registers and processes personal data in connection with its operations. If the Group fails
+to conduct its data processing in accordance with applicable data protection legislation, or if the Group
+fails to implement procedures for new legalisation, or if the Group is subject to hacker attacks or in
+any other way by mistake violates the law, the Group may, inter alia, be liable for damages for the
+injury and the violation that such action may entail. This could have a material adverse effect on the
+Group’s business, results and financial position. To mitigate for this, the Group has developed a GDPR
+policy with an external GDPR advisor. The Board considers the policy to be compliant with the existing
+Flexion Mobile Pic Page | 12 Annual Report 31 Dec 2024
+
+=== page 13 ===
+Commercial in confidence
+STRATEGIC REPORT
+legislation. The Group’s GDPR officer is also overseeing the implementation and adherence of this
+policy.
+Legal Disputes
+As part of its ordinary business activity, the Group may become involved in legal disputes. if the Group
+fails to settle any legal proceedings it is party to, the Group may be required to pay significant amounts
+of damages and fees and claims may arise against the Group which may not be covered in full or in
+part by provisions or insurance. In addition, these disputes may also be time-consuming and
+detrimental to the day-today operations of the Group’s business. To mitigate for this risk, the Group
+had identified a number of leading specialist lawyers which the Group is seeking advice from if deemed
+required. {n such event, revenue, cash flow and profitability of the Group could be materially adversely
+affected.
+Insurance
+The Group could be held liable for damages exceeding the Group’s insurance cover, including, but not
+limited to, if the Group breaches any agreement in a material way or if any software provided by the
+Group causes material damage. The insurance cover places primarily in the London insurance market
+is highly technical and may involve external specialist advise and there is a risk that the cover placed
+do not cover for all eventualities which the Group aim to cover. In addition, it may take considerable
+time for Flexion to make a claim from its insurers and/or for the insurers to pay out in relation to the
+relevant loss. This could have a significant impact on the Group’s business, results and financial :
+position. The Group is actively trying to mitigate this risk by using market leading insurance brokers
+and insurance underwriters.
+Key performance measures
+The Directors have identified a number of key performance measures (“KPIs”) which the Group is
+tracking and reporting to its shareholders. These KPIs can be grouped into revenue growth,
+profitability and cash position (See CFO statement on page 9). For revenue growth the Group is
+tracking divisional revenue and total revenue. For profitability the Group is tracking gross margin,
+adjusted EBITDA margin operating profit margin and head count. The latter is a key driver for
+administrative expenses in the Group. For cash position the Group is tracking operating cashflow and
+cash held. Please refer to the Chief Financial Officer statement for further details. The Board considers
+these KPIs to be the performance measures which investors on Nasdaq First North expect to see fora
+. Group with the characteristics of Flexion Mobile.
+SECTION 172 STATEMENT
+Section 172 of the Companies Act 2006 requires a director of a Group to act in the way he/she
+considers, in good faith, would be most likely to promote the success of the Group for the benefit of
+its members as a whole. In doing this s.172 requires a director to have regard (amongst other matters)
+to:
+© The likely consequences of any decision in the long term
+e = The interests of the Group's employees
+e The need to foster the Group's business relationships with suppliers, customers and others .
+e The impact of the Group's operations on the environment
+e The desirability of the Group maintaining a reputation for high standards of business conduct,
+and
+e The need to act fairly as between members of the Group.
+: The Directors aim to ensure a high standard of business conduct in alt dealings. The Directors are
+mindful of the long-term success, impact and reputation of the Group in each of their decisions and
+: Flexion Mobile Plc Page | 13 Annual Report 31 Dec 2024
+
+=== page 14 ===
+Commercial in confidence
+STRATEGIC REPORT
+actions. The below sets out some specific examples of how the Directors have had regard to the
+matters in s.172:
+The likely consequences of any decision in the long term
+The Directors, as required by the Group’s articles, set an annual budget at the beginning of each
+financial year. This budget reflects all material profit and loss, balance sheet and cashflow aspects of
+the Group’s performance. The actual performance of the Group is compared to the budget and are
+presented to the Board on a monthly basis. The Board also produce rolling forecasts for the remainder
+of the financial year to follow the impact of the decisions that have been taken, or new trends seen,
+during the year. In addition to the yearly budgets, the Board also prepare the forecasts prepared for
+the next two to three year period and analyse the profit and loss, balance sheet and cash flow effects
+on all major investment and strategy decisions through in depth financial modelling and scenario
+analyses. These analyses also involve board discussions about the strategic impact of any decision
+taken.
+Workforce engagement .
+The directors believe that the employees are a key ingredient to the Group’s success and the board
+actively promotes an open work environment where the opinions of the employees are sought and
+factored into the decision-making process of the Group. This involves a wide set of initiatives ranging
+; from proactive HR department to regular individual, team, office, management and Group meetings
+and events. Workforce status, initiatives and issues are discussed in all board meetings.
+Maintaining high standards of business conduct :
+The Group is active in the highly regulated tele communication market, therefore, the Directors
+require the highest standard of business conduct as any breach could be detrimental to the success
+of the Group. The Board require the Group to follow all regulations and policies set for this market
+including but not limited to bribery, corruption, child protection, data protection, fraud and money
+laundering. The Board requires the management of the Group to operate with several layers of
+control, approvals and post reviews of relevant areas to ensure that the Group is maintaining the
+required business conduct. Being a software Group operating with a highly specialised and trained
+workforce, the Board does not consider it being exposed to modern slavery issues. The same applies
+to ethical sourcing, as the Group is engaging with market leading software supplies.
+Shareholder engagement
+The Board engage with investors through general meetings, financial reports, investor events, regular
+updates and press releases. The Board is also actively seeking to expand the information shared
+through improvements of the annual and quarterly report including in depth board discussion about
+how to most accurately share information to the shareholders. The Board is actively working towards
+sharing relevant information on a timely and equal basis to all members of the Group. In addition, the
+Board is actively promoting a one share class policy to treat all shareholders equally.
+Client engagement
+The Board has set a business strategy which requires the Group to build strong relationships with the
+parties that the Group works with. The aim of the strategy is to form strategic partnerships with all
+digital distribution channels (alternate android market app stores through which Flexion’s services are
+made available to end users), where the Group and the channel jointly agree a course of action going
+Flexion Mobile Pic Page | 14 Annual Report 31 Dec 2024
+
+=== page 15 ===
+Commercial in confidence
+STRATEGIC REPORT
+forward. The same applies to the game developers (producer or publisher of mobile applications who
+engage Flexion to facilitate the distribution of certain applications through certain digital distribution
+channels), where the aim is to build stronger relationships to jointly identify and approach future
+opportunities and challenges. The Group is approaching this through a multi-layered account
+management strategy involving all related departments and divisions, with several layers of seniority
+within the Group. The Board get monthly updates on the progress of this strategy and is actively
+engaged in the formation of strategic relationships.
+Environmental impact
+Being primarily a software company, the Board deem the Groups operations to have limited impact
+on the environment. However, given the multi-national nature of the Group with operations in 3
+countries, there is some impact from air travel for employees working between offices. This is in
+addition to the more limited impact from the day-to-day heating and power requirements of the
+Group’s offices as weil as impacts connected to the use of cloud hosting solutions. The Board
+continues to look at options to reduce its impact on the environment.
+For and on behalf of the Board:
+Per Lauritzson
+Director ,
+Date: 17 June 2025
+Flexion Mobile Pic Page | 15 Annual Report 31 Dec 2024
+
+=== page 16 ===
+Commercial in confidence
+DIRECTORS’ REPORT
+The Directors present their report and the financial statements for the financial year ended 31
+December 2024.
+Results and dividends
+The loss for the financial year ended 31 December 2024 amounted to GBP 2,733,839 (2023: profit of
+GBP 2,110,053). The Directors are not recommending payment of a final dividend for the year (2023:
+GBP Nil). ,
+Directors
+The Directors who served on the Board during the period and subsequently to date are as follows:
+Carl Paimstierna
+Jens Lauritzson :
+Per Lauritzson
+Christopher Bergstresser
+Mikael Pawlo
+Benjamin Crawford .
+Going concern
+After making appropriate enquiries, the Directors consider that the Group has adequate resources to
+continue in operational existence for the foreseeable future. As part of their enquiries the Directors
+have reviewed, and stress tested available cash and cash forecasts for the Group's operations for the
+12 months from the date of approval of the financial statements. The Directors of the Group are
+satisfied, having reviewed the performance of the Group and forecasts for the forthcoming year, the
+Group can cover all of its obligations as they fall due.
+Director's interests
+The interests of those Directors serving as at 31 December 2024, all of which are beneficial, in the
+share capital of the Group were as follows: :
+Number of ordinary _— Percentage of issued
+shares share capital
+Jens Lauritzson* 5,787,323 10.2%
+Per Lauritzson? 5,771,334 10.1%
+Car! Palmstierna” 3,724,980 6.5%
+; Benjamin Crawford 253,026 0.4%
+Mikael Pawlo 136,303 0.2%
+Christopher Bergstresser - 0.0%
+. Total 15,672,965 27.6%
+1Through a Group which is jointly owned by Jens Lauritzson and Per Lauritzson .
+Through an investment Group and related entities
+Flexion Mobile Plc Page | 16 Annual Report 31 Dec 2024
+
+=== page 17 ===
+Commercial in confidence
+DIRECTORS’ REPORT
+Substantial shareholdings
+As at 31 December 2024, the following interests in 5% or more of the issued ordinary share capital ‘
+had been notified to the Group: /
+Number of
+shares and votes % Aggregated %
+Mobile Sensations Ltd 11,354,862 20.0% 20%
+Morgan Stanley Smith Barney LLC 4,575,023 8.0% 28%
+Palmstierna Invest AB 3,465,780 6.1% 34%
+Others 37,475,200 65.9% 100.0%
+Total 56,870,865 100%
+Overseas branches
+The Group has one overseas branch in Budapest, Hungary.
+Subsidiaries
+The Group has one overseas subsidiary in Dusseldorf, Germany.
+Associates
+The Group had one overseas associate in Hamburg, Germany which ceased trading on 31 December
+2023.
+Future developments
+The Group will continue to expand its distribution platform and service offerings by utilising the
+momentum built up in the current period. This will involve signing up more game developers,
+expanding relationships with existing channels and signing up new channels. In addition, the Group
+will work on developing new product features, service offerings and new distribution methods to
+capture new market opportunities and consequently increase the scope for growth beyond what is
+currently feasible.
+Risks
+Risks associated with the Group’s use of financial instruments are disclosed in note 1 and note 21.
+Research and Development
+The Group undertakes research and development activities which involve investments in
+development of Flexion’s technology. Development expenditure is capitalised as an intangible asset if
+the development costs can be reliably measured and is expected to result in completed technology
+which will add economic benefit to the Group.
+Annual General Meeting (AGM)
+Details of business will be conducted at the 2025 AGM which will be held on 25 June 2025 at the
+Group’s offices in Harbour Yard Unit G5, Chelsea Harbour, London, England, SW10 OXD are contained
+in the Notice of the Annual General Meeting which will be communicated to shareholders. :
+Energy and carbon report
+The group has consumed more than 40,000 kWh of energy in this reporting period and therefore the
+energy consumption and energy efficient activities are reported below.
+The Group does not own / operate any vehicles that contribute to scope 1 emissions. Scope 2 category
+includes location-based emissions and scope 3 includes business travel.
+Flexion Mobile Plc Page | 17 Annual Report 31 Dec 2024
+
+=== page 18 ===
+Commercial in confidence
+DIRECTORS’ REPORT
+The statistics below are based on emissions data from 1 January to 31 December calculated following
+the Greenhouse Gas Protocol, which incorporates the Scope 2 location-based emissions methodology.
+The data has been collected from the Group during the year and converted using the conversion
+factors published by the UK Government.
+Scope 1, 2 and 3 Emissions 2024 2023
+CO2etonnes CO2e tonnes
+Scope 1 - -
+Scope 2 8 14
+Scope 3 47 50
+Total 55 64
+Energy used to calculate above emissions (kWh} 263,305 214,368
+UK proportion of energy usage reported 63% 87%
+Average number of employees 135 124
+Emissions per FTE (Co2e tonnes) 0.41 0.52
+Emissions per FTE (kWh) 1,950 1,729
+Directors’ responsibilities statement
+The Directors are responsible for preparing the Strategic report, the Directors’ report and the Group
+and Company financial statements in accordance with applicable law and regulations.
+Company {jaw requires the Directors to prepare financial statements for each financial year. Under
+that law the Directors have elected to prepare the Group financial statements in accordance with UK-
+adopted international accounting standards and have elected to prepare the Company financial
+statements in accordance with United Kingdom Generally Accepted Accounting Practice and
+applicable law, including FRS 101 ‘Reduced Disclosure Framework’.
+Under company law the Directors must not approve the financial statements unless they are satisfied
+that they give a true and fair view of the state of affairs of the Group and Company and of the profit
+or loss for that period. :
+. In preparing these financial statements the Directors are required to:
+e Select suitable accounting policies and apply them consistently;
+e make judgements and estimates that are reasonable and prudent;
+e state whether UK-adopted international accounting standards have been followed, subject to
+any material departures disclosed and explained in the financial statements; and
+© prepare the financial statements on the going concern basis unless it is inappropriate
+to presume that the Group will continue in business.
+
+: The Directors are responsible for keeping adequate accounting records that are sufficient to show and
+explain the Group’s transactions and disclose with reasonable accuracy at any time the financial
+position of the Group and to enable them to ensure that the financial statements comply with the
+Companies Act 2006. They are also responsible for safeguarding the assets of the Group and hence
+for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Flexion Mobile Pic Page | 18 Annual Report 31 Dec 2024
+
+=== page 19 ===
+Commercial in confidence
+DIRECTORS’ REPORT
+The Directors are responsible for the maintenance and integrity of the corporate and financial
+information included on the Group’s website. Legislation in the United Kingdom governing the
+preparation and dissemination of financial statements may differ from legislation in other
+jurisdictions.
+To the best of my knowledge:
+
+e the group financial statements, prepared in accordance with UK-adopted international
+accounting standards, give a true and fair view of the assets, liabilities, financial position and
+profit or loss of the Group; and
+
+e the Strategic Report and Directors’ Report include a fair review of the development and
+performance of the business and the position of the Group together with a description of the
+principal risks and uncertainties that they face.
+
+Disclosure of information to the auditor .
+At the date of approving this report, each Director confirms that, so far as that he is aware, there is no
+relevant audit information of which the Group’s auditors are unaware and he has taken all the steps
+that he ought to have taken as a Director in order to make himself aware of any relevant audit
+information and to establish that the Group’s auditors are aware of that information.
+
+. Auditor
+A resolution to re-appoint the auditor, S&W Partners Audit Limited, will be proposed at the next
+Annual General Meeting.
+For and on behalf of the Board: .
+
+” Per Lauritzson
+
+Director
+Date: 17 June 2025
+Flexion Mobile Plc : Page | 19 Annual Report 31 Dec 2024
+
+=== page 20 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+Independent auditor's report to the members of Flexion Mobile Pic
+Opinion ‘
+We have audited the financial statements of Flexion Mobile Pic (the ‘parent company’) and its
+subsidiaries (the ‘group’) for the year ended 31 December 2024 which comprise the
+Consolidated Statement of Profit or Loss and Other Comprehensive Income, Consolidated
+Statement of Financial Position, Consolidated Statement of Cash Flows, Consolidated :
+Statement of Changes in Equity, Parent Company Statement of Financial Position, Parent
+Company Statement of Changes in Equity and the notes to the financial statements, including
+material accounting policy information. The financial reporting framework that has been
+applied in the preparation of the group financial statements is applicable law and UK-adopted
+international accounting standards. The financial reporting framework that has been applied in
+the preparation of the parent company financial statements is applicable law and United
+Kingdom Accounting Standards, including FRS 101 "Reduced Disclosure Framework’ (United
+Kingdom Generally Accepted Accounting Practice).
+{n our opinion:
+
+e the financial statements give a true and fair view of the state of the group's and of the
+parent company's affairs as at 31 December 2024 and of the group's loss for the year
+then ended;
+
+e the group financial statements have been properly prepared in accordance with UK-
+adopted international accounting standards;
+
+e the parent company financial statements have been properly prepared in accordance
+with United Kingdom Generally Accepted Accounting Practice and
+
+e the financial statements have been prepared in accordance with the requirements of the
+
+. Companies Act 2006.
+
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs
+(UK)) and applicable law. Our responsibilities under those standards are further described in
+the Auditor's responsibilities for the audit of the financial statements section of our report. We
+are independent of the group and parent company in accordance with the ethical
+requirements that are relevant to our audit of the financial statements in the UK, including the
+FRC's Ethical Standard as applied to listed entities, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements. We believe that the audit evidence
+we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Our approach to the audit
+Of the group's two reporting components, we subjected both to audits for group reporting
+purposes.
+The components within the scope of our work covered 100% of group revenue, 100% of group
+loss before tax, and 100% of group net assets.
+Key audit matters .
+Key audit matters are those matters that, in our professional judgment, were of most
+significance in our audit of the financial statements of the current period, and include the most
+
+: significant assessed risks of material misstatement (whether or not due to fraud) we identified,
+including those which had the greatest effect on: the overall audit strategy; the allocation of
+resources in the audit; and directing the efforts of the engagement team. These matters were
+addressed in the context of our audit of the financial statements as a whole, and in forming our
+Flexion Mobile Plc Page | 20 Annual Report 31 Dec 2024
+
+=== page 21 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+opinion thereon, and we do not provide a separate opinion on these matters.
+matter
+Revenue The key risk of fraud in Our audit work included, but was not
+Recognition - | relation to revenue restricted to the following:
+Group recognition is attributed to
+cut off, specifically * We documented and walked through
+incorrect or missing the design and implementation of
+accruals for app sales or controls over revenue recognition for
+marketing services. the different services provided by the
+Revenue is a key Group:
+performance indicator of « We have reviewed whether accounting
+e Group. Moreover, ‘ ‘ A
+revenue within Audiencly for revenue is compliant with the ;
+GmbH impacts the financial reporting standards regarding
+. consideration payable to agent vs principal and considered the
+the sellers of Audiencly appropriateness of the treatment for the
+GmbH. There is therefore individual revenue streams.
+considered incentive to e We performed detailed substantive
+misstate revenue. testing of a sample of revenue
+transactions selected from the
+accounting records, including
+agreement to invoice/settlement report
+and subsequent client payment to .
+ensure that the revenue occurred.
+* We reviewed a sample of revenue
+transactions spanning the year end to
+confirm that revenue has been
+recognised in the correct accounting
+. period, including recalculation of
+accrued income amounts and reviewing
+credit notes issued post year end.
+e Assessed the accuracy and sufficiency
+of financial statement disclosures in
+note 4.
+Carrying value | The group has significant | We challenged the assumptions used in the
+and intangible assets including | impairment model for intangible assets,
+impairment of | the Audiencly GmbH described in note 12. As part of our
+Group brand, customer list and procedures we:
+intangible goodwill arising on the e Assessed cashflows by considering
+assets arising | acquisition of Audiencly historical trading performance and post
+from the GmbH. The group's year end data.
+Audiencly assessment of value inuse | e Assessed the appropriateness of the
+acquisition when performing their assumptions concerning growth rates
+impairment assessment and inputs to the discount rate against
+requires significant market data.
+judgement, in particular 2 Performed sensitivities on the model,
+regarding the discount " inctuding considering the WACC rate
+rate and expected cash used in the group's model
+flows. e f€ngaged our internal valuations team to
+assess the methodology to the value in
+use calculation as well as the inputs
+used within this.
+: Flexion Mobile Pic Page | 21 Annual Report 31 Dec 2024
+
+=== page 22 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+reviewed third-party evidence to assess the
+appropriateness of the discount rate
+: applied.
+
+Our application of materiality
+The materiality for the group financial statements as a whole (‘group FS materiality") was set
+at £1,110,000, This has been determined with reference to the benchmark of the group's
+revenue, which we consider to be one of the principal considerations for members of the
+company in assessing the group's performance. Group FS materiality represents 1.45% of the
+group's revenue as presented on the face of the Consolidated Statement of Profit or Loss and
+Other Comprehensive Income.
+The materiality for the parent company financial statements as a whole (“parent FS materiality")
+was set at £980,000. This has been determined with reference to the benchmark of the parent
+company's revenue as it is the main trading entity within the group. Parent FS materiality
+represents 15% of the parent company's revenue.
+Performance materiality for the group financial statements was set at £721,000, being 65% of
+group FS materiality. for purposes of assessing the risks of material misstatement and
+
+: determining the nature, timing and extent of further audit procedures. We have set it at this
+amount to reduce to an appropriately low level the probability that the aggregate of
+uncorrected and undetected misstatements exceeds group FS materiality. We judged this
+level to be appropriate based on our understanding of the group and its financial statements,
+as updated by our risk assessment procedures and our expectation regarding current period
+misstatements including considering experience from previous audits. It has been set at 65%
+given that there are a number of key estimations involved in the amounts in the group financial
+statements and a number of judgemental areas such as useful economic life of intangibles
+and impairment of intangible assets.
+Performance materiality for the parent company financial statements was set at £637,000,
+being 65% of parent FS materiality. This was set at 65% in line with the justifications noted
+above. :
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the going
+concern basis of accounting in the preparation of the financial statements is appropriate.
+Flexion Mobile Pic Page | 22 Annual Report 31 Dec 2024
+
+=== page 23 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+Our evaluation of the directors’ assessment of the group and parent company's ability to
+continue to adopt the going concern basis of accounting included:
+e Challenging the assumptions used in the detailed budgets and forecasts prepared by
+management for the financial years ending 2025 and 2026
+e Considering historical trading performance by comparing recent growth rates of both
+revenue and operating profit across the group
+* Considered the overall net assets and cash balances of the group. :
+° pomparing the forecast results to those actually achieved in the 2025 financial period so
+‘ar.
+e Reviewing bank statements to monitor the cash position of the group post year end, and
+obtaining an understanding of significant expected cash outflows
+e Considering the sensitivity of the assumptions and re-assessing headroom after
+sensitivity.
+. Based on the work we have performed, we have not identified any material uncertainties
+. relating to events or conditions that, individually or collectively, may cast significant doubt on
+the group and parent company's ability to continue as a going concern for a period of at least
+twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are
+described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the Consolidated Annual Report
+other than the financial statements and our auditor's report thereon. The directors are
+responsible for the other information contained within the Consolidated Annual Report. Our
+opinion on the financial statements does not cover the other information and, except to the
+extent otherwise explicitly stated in our report, we do not express any form of assurance
+conclusion thereon. Our responsibility is to read the other information and, in doing so, consider
+whether the other information is materially inconsistent with the financial statements or our
+knowledge obtained in the course of the audit. or otherwise appears to be materially
+misstated. If we identify such material inconsistencies or apparent material misstatements, we
+are required to determine whether this gives rise to a material misstatement in the financial
+statements themselves. If, based on the work we have performed, we conclude that there is
+a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+
+e the information given in the strategic report and the directors’ report for the financial
+year for which the financial statements are prepared is consistent with the financial
+statements; and :
+
+e the strategic report and the directors’ report have been prepared in accordance with
+applicable legal requirements. :
+
+Matters on which we are required to report by exception
+
+In the tight of the knowledge and understanding of the group and the parent company and
+their environment obtained in the course of the audit, we have not identified material
+misstatements in the strategic report or the directors’ report.
+
+Flexion Mobile Plc Page | 23 Annual Report 31 Dec 2024
+
+=== page 24 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+We have nothing to report in respect of the following matters in relation to which the
+Companies Act 2006 requires us to report to you if, in our opinion:
+e adequate accounting records have not been kept by the parent company, or returns
+adequate for our audit have not been received from branches not visited by us; or
+e the parent company financial statements are not in agreement with the accounting
+records and returns; or :
+e certain disclosures of directors’ remuneration specified by law are not made; or
+e we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+As explained more fully in the directors’ responsibilities statement set out on page 18 the
+directors are responsible for the preparation of the financial statements and for being satisfied
+that they give a true and fair view, and for such internal control as the directors determine is
+: necessary to enable the preparation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the group's
+and the parent company's ability to continue as a going concern, disclosing, as applicable,
+matters related to going concern and using the going concern basis of accounting unless the
+directors either intend to liquidate the group or the parent company or to cease operations, or
+have no realistic alternative but to do so.
+Auditor's responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as
+a whole are free from material misstatement, whether due to fraud or error, and to issue an
+auditor's report that includes our opinion. Reasonable assurance is a high level of assurance,
+but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect
+a material misstatement when it exists. Misstatements can arise from fraud or error and are
+considered material if, individually or in the aggregate, they could reasonably be expected to
+influence the economic decisions of users taken on the basis of these financial statements.
+The extent to which our procedures are capable of detecting irregularities, including fraud, is
+detailed below. Irregularities, including fraud, are instances of non-compliance with laws and
+regulations. We design procedures in line with our responsibilities, outlined above, to detect
+material misstatements in respect of irregutarities, including fraud.
+We obtained a general understanding of the Group and Parent Company legal and regulatory
+framework through enquiry of management concerning their understanding of relevant laws
+and regulations, the entity's policies and procedures regarding compliance, and how they
+identify, evaluate and account for litigation claims. We also drew on our existing understanding
+of the company's industry and regulation.
+We understand that the Group complies with the framework through:
+© The Directors’ close involvement in the day-to-day running of the business, meaning
+that any litigation or claims would come to their attention directly; and
+* Updating operating procedures, manuals and internal controls as legal and regulatory
+requirements change.
+Flexion Mobile Plc . Page | 24 Annual Report 31 Dec 2024
+
+=== page 25 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+In the context of the audit, we considered those laws and regulations which determine the
+form and content of the financial statements, which are central to the Group and Parent
+Company's ability to conduct its business, or where there is a risk that failure to comply could
+result in material penalties. We identified the following laws and regulations as being of
+significance in the context of the Group and Parent:
+
+e UK adopted international accounting standards and FRS 101
+
+e the Companies Act 2006; .
+
+e UK taxation law; and
+
+e Listing requirements of the Nasdaq First North Growth Market.
+
+We performed the following specific procedures to gain evidence about compliance with the
+significant laws and regulations identified above:
+
+e Reviewing the Board meeting minutes and noted no contradictory evidence;
+
+e Reviewed tax returns in the period as well as correspondence with HMRC; and
+
+e Obtaining the listing requirements of the Nasdaq First North Growth Market and
+checked the financial statements cover these requirements.
+
+The Senior Statutory Auditor led a discussion with senior members of the engagement team
+regarding the susceptibility of the Group and Parent Company's financial statements to
+
+. material misstaternent, including how fraud might occur. The areas identified in this discussion
+were:
+
+¢ Manipulation of the financial statements via the posting of fraudulent journal entries;
+
+e Incorrect recognition of revenue including accrued income; and
+
+° Overstatement of group intangible assets when considering the higher of the
+recoverable value and carrying value.
+
+The procedures we carried out to gain evidence in the above areas included:
+
+e Testing of a sample of manual journal entries, selected through applying specific risk
+assessments based on the Company's processes and controls surrounding manual
+journal entries;
+
+e Testing a sample of revenue and accrued income transactions to underlying
+documentation including testing of transactions either side of the year end to ensure
+
+. they are recognised in the appropriate period. See our key audit matters for a full
+summary; and
+
+° Testing the underlying assumptions to the value in use model used to calculate the net
+present value including the WACC rate and growth rates. See our key audit matters for
+a full summary.
+
+A further description of our responsibilities is available on the FRC's website at:
+www.fre.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+Flexion Mobile Pic Page | 25 Annual Report 31 Dec 2024
+
+=== page 26 ===
+Commercial in confidence
+INDEPENDENT AUDITORS’ REPORT
+Use of our report
+This report is made solely to the parent company's members, as a body, in accordance with
+Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so
+that we might state to the parent company's members those matters we are required to
+state to them in an auditor's report and for no other purpose. To the fullest extent permitted
+by law, we do not accept or assume responsibility to anyone other than the parent company
+and the parent company's members as a body, for our audit work, for this report, or for the
+opinions we have formed.
+Nicholas Jacques (Jun 17, 2025 19:15 GMT+1)
+Nicholas Jacques
+Senior Statutory Auditor, for and on behalf of .
+S&W Partners Audit Limited
+Statutory Auditor :
+Chartered Accountants
+45 Gresham Street
+London
+EC2V 7BG
+Date: 17 June 2025
+Flexion Mobile Pic Page | 26 . Annual Report 31 Dec 2024
+
+=== page 27 ===
+: Commercial in confidence
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2024 2023
+Notes GBP GBP
+Revenue . 3,4 76,754,313 70,024,081
+Cost of sales (62,850,071) (57,527,279)
+Gross profit 3 13,904,241 12,496,801
+General and administrative expenses 5,6 (20,586,461) (11,913,558)
+Fair value gains , 20 3,653,668 3,342,705
+Operating (loss) / profit (3,028,552) 3,925,948
+Share of loss from associate - (352,920)
+Finance income 8 208,360 68,449
+Finance costs 8 (555,381) (991,764)
+(Loss) / Profit before tax for the year (3,375,573) 2,649,714
+Tax : 9 641,733 (258,595)
+(Loss) / Profit after tax for the year (2,733,839) 2,391,119
+; Attributable to: .
+Equity holders of the parent (2,733,839) 2,391,119 .
+(Loss) / Profit for the year (2,733,839) 2,391,119
+Other comprehensive (loss) / income
+Items that may be reclassified to profit or loss:
+Exchange differences on translation of foreign operations (162,976) (281,066)
+’ Total comprehensive (loss) / income net of tax for the year ‘ (2,896,815) 2,110,053
+Attributable to: .
+
+. Equity holders of the parent (2,896,815) 2,110,053
+Total comprehensive (loss) / income for the year (2,896,815) 2,110,053
+Earnings per share:
+
+Earnings per share from continuing operations
+— basic, attributable to ordinary equity holders of the parent (p) 10 (5.14) 3.77
+— diluted, attributable to ordinary equity holders of the parent (p}) 10 (5.14) 3.65
+The notes on pages 30 to 54 form part of these financial statements.
+Flexion Mobile Plc Page | 27 Annual Report 31 Dec 2024
+
+=== page 28 ===
+. Commercial in confidence
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+AS AT 31 DECEMBER 2024
+Company registration number 04306881 2024 2023
+Notes GBP GBP
+ASSETS ;
+Non-current assets : :
+Property, plant and equipment : 1 _ 323,931 257,818
+Intangible assets . 12 14,782,601 22,334,376
+“Investments - 13 - -
+Total non-current assets 15,106,532 22,592,194
+Current assets
+Trade and other receivables 14 14,070,494 15,608,415
+Cash and cash equivalents 21 13,112,701 11,084,799
+Total current assets 27,183,195 26,693,214
+Total assets 42,289,727 49,285,408
+LIABILITIES : ,
+Non-current liabilities
+Deferred tax liabilities . 9 1,576,025 2,491,826
+: Lease liabilities 19 217,363 126,905
+Contingent consideration 20 - 3,284,773
+. ‘ Total non-current liabilities ; 1,793,388 5,903,504
+Current liabilities
+Trade and other payables 18 =. 20,248,582 = 20,802,934
+Lease liabilities 19 120,776 119,695
+Total current liabilities 20,369,358 20,922,628
+Total liabilities 22,162,746 26,826,133
+NET ASSETS 20,126,981 22,459,275
+EQUITY /
+Share capital 15 113,742 112,467 ,
+Share premium : 15 17,374,546 17,341,512
+Other reserves 16, 17 5,552,889 5,185,653
+Retained earnings : 17 (2,914,196) (180,356)
+~ Total equity ; 20,126,981 22,459,275
+The notes on pages 30 to 54 form part of these financial statements.
+The financial statements were approved and authorised for issue by the Board of Directors on 17
+June 2025 and were signed on its behalf by:
+Per Lauritzson -_
+Director
+Flexion Mobile Pic Page | 28 Annual Report 31 Dec 2024
+
+=== page 29 ===
+Commercial in confidence
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2024 2023
+Notes GBP GBP
+Cash flow from operating activities
+(Loss) / Profit for the year before tax (3,375,573) 2,649,714
+Adjustments for: :
+Effect of exchange rate fluctuations 326,048 164,587
+Impairment losses 12 1,994,345 -
+Share based payments 16,17 225,213 151,441
+Depreciation of tangible assets 41 166,022 133,689
+Amortization of intangible assets 12 6,831,568 2,585,586
+Share of loss from associate - 352,920
+Fair value gains (3,653,668) (3,342,705)
+Finance expenses $53,241 983,121
+Working capital:
+Change in trade and other receivables 1,537,921 (5,570,435)
+Change in trade and other payables (554,351) 3,236,709
+Net cash flow from operating activities 4,050,766 1,344,627
+Cash flow used in investing activities .
+Acquisition of a subsidiary, net of cash acquired - (518,571)
+Expenditure on property, plant and equipment (14,677) (8,026)
+Capitalised game distribution rights 12 (1,155,537) (3,175,914)
+Capitalised development cost 12 (354,049) -
+Net cash flow used in investing activities (1,524,263) (3,702,511)
+Cash flow from financing activities
+Proceeds from issue of shares 15 33,200 89,290 .
+Payment of lease liabilities 19 (167,438) (133,092)
+Net cash flow from financing activities (134,238) (43,802)
+Net change in cash and cash equivalents : 2,392,265 (2,401,687)
+Cash and cash equivalents at beginning of year 11,084,799 13,801,592
+Effect of exchange rate fluctuations on cash held (364,364) (315,107)
+Cash and cash equivalents at end of year 13,112,701 11,084,799
+The notes on pages 30 to 54 form part of these financial statements.
+Flexion Mobile Plc Page | 29 Annual Report 31 Dec 2024
+
+=== page 30 ===
+Commercial in confidence
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Share Share Other Retained
+. . Total
+capital premium Reserves earnings
+
+Notes GBP GBP GBP GBP GBP
+Balance at 01 January 2023 109,309 17,252,671 3,869,282 (2,179,572) 19,051,690
+Adjustments to opening
+retained earnings Se - - (391,903) (391,903)
+Profit for the year - - - 2,391,119 2,391,119
+Other comprehensive income - - (281,066) - (281,066)
+Total comprehensive income
+for the year 109,309 17,252,671 3,588,216 (180,356) 20,769,840
+Transactions with owners,
+recorded directly in equity
+Share based payments 16 - - 151,441 - 151,441
+Deferred tax on share options - - (69,549) - (69,549)
+Issue of share capital 15,17 3,157 88,841 1,515,544 - 1,607,543
+Balance at 31 December 2023 112,467 = 17,341,512 5,185,653 (180,356) 22,459,275
+Balance at 01 January 2024 112,467 =17,341,512 5,185,653 (180,356) 22,459,275
+Loss for the year - - - (2,733,839) (2,733,839)
+Other comprehensive income - - (162,976) - (162,976)
+Total comprehensive income
+for the year 112,467 17,341,512 5,022,677 (2,914,196) 19,562,460
+Transactions with owners,
+recorded directly in equity
+Share based payments 16 - - 225,213 - 225,213
+Deferred tax on share options - - (10,236) - (10,236)
+Issue of share capital 15,17 1,275 33,034 315,235 : 349,544
+Balance at 31 December 2024 113,742 17,374,546 5,552,889 (2,914,196) 20,126,981
+The notes on pages 30 to 54 form part of these financial statements.
+Flexion Mobile Pic Page | 30 Annual Report 31 Dec 2024
+
+=== page 31 ===
+Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+1. General information :
+Description of the Business
+Flexion Mobile PLC, the Group’s ultimate parent company, is a publicly listed company incorporated
+and domiciled in England and Wales. Its registered office and principal place of business is Harbour
+Yard Unit G5, Chelsea Harbour, London, England, SW10 OXD. The registered number of the Group is
+04306881. Flexion’s shares are listed on the Nasdaq First North Growth Market in Stockholm. The
+principal activity of the Group is to offer marketing services within gaming.
+2. Material accounting policy information
+Basis of preparation
+The financial statements of the Group are prepared in accordance with applicable UK law and UK-
+adopted international accounting standards ({FRS) and as applied in accordance with the provisions
+of the Companies Act 2006. The Directors consider that the financial information presented in these
+financial statements represents fairly the financial position, operations and cash flows for the period
+of the Group. The financial statements have been prepared on a historical cost basis, except for
+deferred liabilities and contingent liabilities, which have been prepared on a fair value through profit
+or loss basis. Monetary amounts are expressed in GBP.
+The accounting policies adopted in the preparation of the financial statements are consistent with
+those for the previous financial year. The Group has not early adopted any other standard,
+interpretation or amendment that has been issued but is not yet effective.
+Principles of consolidation and equity accounting
+Subsidiaries are all entities over which the group has control. The Group financial statements
+incorporate the financial statements of the Company and entities controlled by the Company {its
+subsidiaries) prepared to 31 December each year.
+The acquisition method of accounting is used to account for business combinations by the Group.
+The Company has taken advantage of the exemption under section 408 of the Companies Act 2006
+from publishing its individual income statement, statement of other comprehensive income and
+related notes.
+Business combinations and goodwill
+The Group applies the acquisition method in accounting for business combinations. The consideration
+transferred by the Group to obtain control of a subsidiary is calculated as the sum of the acquisition
+date fair value of assets transferred, liabilities incurred and the equity interests issued by the Group,
+which include the fair value of any asset or liability arising from a contingent consideration
+arrangement. Acquisition costs are expensed as incurred. Assets acquired and liabilities assumed are
+measured at fair value at heir acquisition-date fair values.
+Goodwill represents the future economic benefits arising from a business combination that are not
+individually identified and separately recognised. Goodwill is initially measured at cost, being the
+excess of the consideration transferred over the fair value of the Group’s share of the identifiable net
+assets acquired. if this is less than the fair value of the net assets of the subsidiary acquired in the case
+of a bargain purchase, the difference is recognised directly in the Consolidated Statement of
+Comprehensive income.
+Flexion Mobile Plc Page | 31 Annual Report 31 Dec 2024
+
+=== page 32 ===
+Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+After initial recognition, goodwill is measured at cost less any accumulated impairment losses.
+Goodwill is reviewed for impairment annually using a discounted cash flow method applied to
+business forecasts. If this review demonstrates that impairment has incurred, this is expensed to the
+Consolidated Statement of Profit or Loss. Goodwill is allocated to cash-generating units (“CGUs”) for
+the purpose of impairment testing, with the allocation being made to those cash-generating units that
+are expected to benefit from the business combination in which the goodwill arose.
+Going concern
+After making appropriate enquiries, the Directors consider that the Group has adequate resources to
+continue in operational existence for the foreseeable future. As part of their enquiries the Directors
+have reviewed, and stress tested available cash and cash forecasts for the Group’s operations for the
+12 months from the date of approval of the financial statements. The Directors of the Group are
+satisfied, having reviewed the performance of the Group and forecasts for the forthcoming year, the
+Group can cover all of its obligations as they fall due.
+New standards and amendments issued but not yet effective
+There were a number of standards and interpretations which were in issue at 31 December 2024 but
+were not effective at 31 December 2024 and have not been early adopted for these financial
+statements.
+The Directors have assessed the full impact of these accounting changes on the Group and have
+concluded that none of these pronouncements will cause material adjustments to the Group's
+financial statements.
+There are no other IFRSs or IFRIC interpretations that are not yet effective that would be expected to
+have a material impact on the Group. .
+New standards and amendments issued
+Changes to existing standards
+IFRS 7 Financial Instruments : Disclosures (Amendment) .
+IFRS 16 Leases (Amendment)
+IAS 1 Presentation of Financia! Statements (amendment) :
+IAS 7 Statement of Cash Flows (amendment)
+The Directors have assessed the full impact of these amendments on the Group and have concluded
+that none of these pronouncements will cause material adjustments to the Group's financial
+statements. ,
+Revenue Recognition
+The Group has three revenue streams being In-App purchases (IAP) revenue, Non-IAP revenue and ,
+Marketing Services revenue.
+IAP revenue:
+IAP revenue includes all in-game purchases made by end-users within live games published by the
+Group on various distribution channels that the Group has contractual agreements with.
+The Group has determined that it acts as principal to the end-user as it is in control of the in-
+application item before it is transferred to the end-user. As the Group is acting as a principal, revenue
+is recorded on a gross basis meaning distribution channel fees deducted at source will also be shown
+in cost of sales rather than a deduction to revenue.
+Flexion Mobile Pic Page | 32 Annual Report 31 Dec 2024
+
+=== page 33 ===
+. Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+IAP revenue is accounted for as a single performance obligation (“PO”) which is the award of virtual
+goods to end-users. Revenue is recognised at the point in time once the PO is fulfilled. The PO is
+; considered fulfilled when the virtual goods have been awarded and the end-users obtain control of
+the virtual goods, which is immediately after they have made payment to the distribution channel and
+the virtual goods have been awarded to the end-users by the Group. At this point the distribution
+channel reports transactions as successful to the Group which in return recognises them as unbilled
+receivables (accrued income) until billed.
+Non-lAP revenue: .
+Non-lAP revenue includes revenue from integration fees which are non-recurring and recurring
+revenue share from in-game advertising. ‘
+The Group has determined it acts as agent to the advertising networks and records its own revenue
+share as revenue when impressions of ads to end-users took place.
+Marketing services revenue:
+Marketing services revenue include all marketing campaigns generated as part of the influencer
+marketing service offered. .
+The Group has determined that it acts as principal and revenue is therefore recorded on a gross basis
+meaning that influencer costs will be shown in cost of sales rather than as a reduction of revenue. The
+revenue is accounted for as a performance obligation with the majority being allocated at launch of
+the campaign and the remaining amount being allocated during the life of the campaign and therefore
+this is recognised over time. The life of a campaign is deemed to end in the same month as its launch
+as the effects of a campaign is seen immediately after launch even through the campaign video is live
+for much longer.
+: Management has considered various factors including type of virtual goods, geographical region and
+disaggregated revenue as disclosed in note 3 and note 4. Management believes this best depicts how
+: the nature, amount, timing and uncertainty of the Group’s revenue and cash flows are affected by
+economic factors.
+Property, plant and equipment
+Property, plant and equipment is stated at cost less accumulated depreciation and any accumulated
+impairment losses. Property, plant and equipment comprises four right-to-use assets. Depreciation is
+charged on a straight-line basis to reflect the economic life of the lease. —
+
+— . Depreciation is recognised on a straight-line basis to write down the cost less estimated residual
+value of leasehold improvements, right of use assets and office equipment. The following useful lives
+are applied: . :
+© leasehold improvements: 5S—10 years ;
+e right of use assets: 2-5 years :
+® office equipment: 3-10 years. . :
+
+Flexion Mobile Plc ; Page | 33 Annual Report 31 Dec 2024
+
+=== page 34 ===
+Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+Intangible assets
+Intangible assets currently consist of capitalised development cost and game distribution rights.
+Examples of such intangible assets include, but are not limited to; Flexion software components added
+by Flexion's customers to games; Flexion's enabling technology and associated interfaces; features to
+enable distribution, operation and monitoring of distributed games; business iogic, interfaces and
+integrations encapsulated in Flexion's main service platform; features to store and utilise operational
+data, features created from 3rd party software integrations; features to ingest, store, process, present
+and distribute performance data and information.
+Development expenditure is stated at cost less accumulated amortisation and any accumulated
+impairment losses. Amortisation is charged on a straight-line basis over 5 years to reflect the
+estimated useful economic life of the assets. Subsequent relevant costs, which are not enhancements
+to the existing product, but rather are generating new revenues are included as carrying amount of
+the asset or as a separate asset if appropriate.
+The Group capitalises development costs for R&D projects in accordance with its continuing policy.
+The Group carries out detailed analyses of its development management tool and development hours
+recorded in its system to identify costs that meet recognition requirements. Once management are
+* satisfied that policy criteria are met, the development costs are carried as assets and amortised over
+the estimated useful life of 5 years. Capitalisation of costs cease, and amortisation commences from
+the end of the month following the date at which an intangible asset is available for use, unless
+recognition criteria in IAS 38 are met.
+As at 31 December 2024, the carrying value of internally generated software assets was GBP 714,193
+(2023: GBP 635,106).
+The Group capitalises material development and integration fees paid to developers for the right to
+distribute their applications. As the Group acts as principal in the distribution of the applications to
+the end user, the Group acquires the right of use of the application and therefore meets the definition
+of an intangible asset per IAS 38. The asset (i.e. the development and integration fees) is not capable
+of being sold separately and therefore is not separable. The asset provides the Group with the right
+to substantial revenues generated from the application. Where the amount of the development and.
+integration fees are immaterial, the fees are expensed to profit and loss, through admin expenses, in
+the period they are paid. Amortisation is charged on a straight-line basis over approximately 2-5 years
+from the launch date of the application to reflect the estimated useful economic life of the assets.
+As at 31 December 2024, the carrying value of game distribution rights was GBP 1,652,987 (2023: GBP
+6,945,767). :
+Equity
+Equity instruments issued by the Group are recorded at the value of the proceeds received, net of
+direct issue costs, allocated between share capital and share premium or merger reserve as
+appropriate. :
+Taxation
+Current tax and deferred tax are recognised and measured in accordance with IAS 12.
+Tax losses can be carried forward indefinitely and have no expiry date.
+The carrying amount of deferred tax is reviewed at each statement of financial position date and
+reduced to the extent that it is no longer probable that sufficient taxable profits will be available to
+allow all or part of the asset to be recovered.
+Flexion Mobile Pic Page | 34 Annual Report 31 Dec 2024
+
+=== page 35 ===
+Commercial in confidence
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+Share based compensation
+The Group enters into equity settled share-based payment transactions which are recognised and
+measured in accordance with IFRS 2. :
+The fair value of share-based payments recognised in the income statement is measured by use of
+the Black Scholes model, which was determined by management to be the most appropriate valuation .
+model. It takes into account conditions attached to the vesting and exercise of the equity instruments.
+The expected life used in the model is adjusted; based on management’s best estimate, for the effects
+of non-transferability, exercise restrictions and behavioural considerations. The share price volatility
+percentage factor used in the calculation is based on management’s best estimate of future share
+price behaviour and is selected based on past experience. The assumptions used are disclosed in note
+16.
+Defined contribution plans
+A defined contribution plan is a post-employment benefit plan under which the Group pays fixed
+contributions into a separate entity and will have no legal or constructive obligation to pay further
+amounts. Obligations for contributions to defined contribution pension plans are recognised as an
+expense in the profit and loss account in the periods during which services are rendered by
+employees. ‘
+Cost of sales
+The Group's cost of sales is a combination of a percentage of revenue paid out to game developers
+and distribution channels as per contractual terms and separate agreements with influencers used in
+marketing campaigns. Costs are recognised in the same period as the related revenue.
+Short-term leases and leases of low-value assets
+The Group applied the practical expedients permitted by IFRS 16 not to recognise right-of-use assets
+and lease liabilities for short-term leases that have a lease term of 12 months or less and leases of
+low-value assets below GBP 4,000, including !T equipment and smali items of office furniture. Instead,
+the Group is recognising the lease payments associated with these leases as an expense on a straight-
+line basis over the lease term.
+Financial instruments
+Recognition and derecognition
+Financial assets and financial liabilities are recognised when the Group becomes a party to the
+contractual provisions of the financial instrument. .
+Financial assets are derecognised when the Group’s contractual rights to the cash flows from the
+financial assets expire or when the Group transfers the financial assets to another party without
+retaining control or substantially all risks and rewards of the asset. A financial liability is derecognised
+when it is extinguished, discharged, cancelled or expires.
+Classification and initial measurement of financial assets .
+Trade receivables do not contain a significant financing component and are measured at the
+transaction price in accordance with IFRS 15. All financial assets are initially measured at fair value
+adjusted for transaction costs (where applicable).
+Financial assets, other than those designated and effective as hedging instruments, are classified into
+the following categories based upon the purpose for which the asset was acquired:
+
+© amortised cost
+
+° fair value through profit or toss (FVTPL)
+Flexion Mobile Plc Page | 35 Annual Report 31 Dec 2024
+
+=== page 36 ===
+Commercial in confidence
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+e fair value through other comprehensive income (FVOCI).
+In the periods presented the Group does not have any financial assets classified as FVOCI.
+The classification is determined by both: .
+
+e the Group’s business model for managing the financial asset
+
+® the contractual cash flow characteristics of the financial asset
+All income and expenses relating to financial assets that are recognised in profit or loss are presented
+within finance expenses, finance income or other financial items, except for impairment of trade
+receivables which is presented within general and administrative expenses.
+Subsequent measurement of financial assets
+Financial assets at amortised cost
+Financial assets are measured at amortised cost if the assets meet the following conditions (and
+are not designated as FVTPL):
+
+e they are held within a business model whose objective is to hold the financial assets and
+
+collect its contractual cash flows, and . .
+e the contractual terms of the financial assets give rise to cash flows that are solely payments
+of principal and interest on the principal amount outstanding.
+
+After initial recognition, these are measured at amortised cost using the effective interest method.
+Discounting is omitted where the effect of discounting is immaterial.
+Non-derivative financial instruments
+Non-derivative financial instruments have fixed or determinable payments and are not quoted in an
+active market. They are trade and other receivables, cash and cash equivalents, and trade and other
+payables. Non-derivative financial instruments are recognised initially at fair value plus, for
+instruments not at fair value through profit or loss, any directly attributable transactions costs, except
+as described below. Subsequent to initial recognition non-derivative financial instruments are
+measured as described below.
+Trade receivables
+Trade receivables are amounts due from distribution channels for in-app items sold or from customers
+for services performed in the ordinary course of business. Trade receivables are recognised initially at
+the amount of consideration that is unconditional. The Group holds the trade receivables with the
+objective to collect the contractual cash flows and therefore measures them subsequently at
+amortised cost. Carrying values and expected cash flows are reviewed by the Board and any
+impairment charged to the statement of profit or loss in the relevant period.
+Trade payables and other non-derivative financial liabilities
+Trade payables and other creditors are non-interest bearing and are initially recognised at fair value.
+They are subsequently carried at amortised cost using the effective interest method and are
+categorised as other financial liabilities.
+Deferred consideration
+Deferred considerations are initially recognised at fair value. They are subsequently recognised at
+FVTPL through finance costs and are categorised as other financial liabilities.
+Contingent consideration
+Contingent considerations are initially recognised at fair value. They are subsequently recognised at
+FVTPL through finance costs and are categorised as other financial liabilities.
+Flexion Mobile Plc Page | 36 Annual Report 31 Dec 2024
+
+=== page 37 ===
+. Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+Cash and cash equivalents
+Cash and cash equivalents include cash in hand, deposits held on call with banks, other short-term
+highly liquid investments with original maturities of three months or less that are readily convertible
+into known amounts of cash, and which are subject to an insignificant risk of changes in value.
+Impairment of financial assets .
+The Group recognises loss allowances for expected credit losses (ECL) for all debt instruments not
+held at fair value through profit or loss. :
+The Group makes use of a simplified approach in accounting for trade and other receivables as well
+as accrued income and records the loss allowance as lifetime expected credit losses instead of tracking
+changes in credit quality. The Group has established a provision matrix that is based on its
+historical credit loss experience adjusted for forward-looking factors specific to the debtors and the
+economic environment.
+The Group recognises !oss allowances for expected credit losses (ECL) on financial assets measured at
+amortised cost. Loss allowances for trade receivables are always measured at an amount equal to
+lifetime ECL. ECL are a probability-weighted estimate of credit losses. An assessment of ECL is
+calculated using a provision matrix model to estimate the loss rates to be applied to each trade .
+receivable category. ECL are discounted at the effective interest rate of the financial asset. Loss
+allowances for financial assets measured at amortised cost are deducted from the gross carrying
+amount of the assets. The gross carrying amount of a financial asset is written off (either partially or
+in full) to the extent that there is no realistic prospect of recovery.
+Financial instruments — Risk management
+In common with all other businesses, the Group may be exposed to risks that arise from its use of
+financial instruments. This note describes the Group’s objectives, policies and processes for managing
+those risks and the methods used to measure them. Further quantitative information in respect of
+these risks is presented throughout these financial statements.
+There have been no substantive changes in the Group’s exposure to financial instrument risks, its .
+objectives, policies and processes for managing those risks or the methods used to measure them
+from previous periods unless otherwise stated in this note. The Group does not currently use
+derivative financial instruments to hedge foreign exchange exposures.
+General objectives, policies and processes
+The Board has overall responsibility for the determination of the Group’s risk management objectives
+and policies and, whilst retaining responsibility for them it has delegated the authority for designing
+and operating processes that ensure the effective implementation of the objectives and policies to
+the Group’s CEO. The Board receives regular updates from management through which it reviews the
+effectiveness of the processes put in place and the appropriateness of the objectives and policies it
+sets. The overall objective of the Board is to set policies that seek to reduce risk as far as possible
+without unduly affecting the Group’s competitiveness and flexibility. The Group's operations expose
+it to some financial risks arising from its use of financial instruments, the most significant ones being :
+foreign exchange risk, liquidity risk and credit risk. Further details regarding these policies are set out
+below:
+Foreign exchange risk
+Foreign exchange risk arises because the Group has operations and customers located in various parts
+of the world where the local currency and the revenue collection currency are not the same as the
+functional currency with which the Group operates. The Group has a policy to secure medium-term
+Flexion Mobile Plc Page | 37 Annual Report 31 Dec 2024
+
+=== page 38 ===
+Commercial in confidence
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+needs in operational currencies using spot rates. Only in certain cases may the Group consider hedging
+its net investments in overseas operations, as generally it does not consider that the reduction in
+foreign currency exposure warrants the cash flow risk created from such hedging techniques. The
+Group did not enter into any foreign currency hedging instruments during the year.
+Liquidity risk
+Liquidity risk arises from the Group’s management of working capital; it is the risk that the Group will
+encounter difficulty in meeting its financial obligations as they fall due. The Group’s policy is to ensure
+that it will always have sufficient cash to allow it to meet its obligations when they become due. To
+achieve this aim, it seeks to maintain readily available cash balances to meet expected requirements
+and to raise new equity finance if required. The Board receives cash flow updates on a monthly basis
+as well as information on cash balances. The Board will not commit to material expenditure in respect
+of its developer programmes or increased recruitment without being satisfied that sufficient funding
+is available to the Group to finance the planned programmes. For cash and cash equivalents and
+deposits, the Group only uses recognised banks with high credit ratings.
+Interest rates on financial assets
+The Group’s financial assets consist of cash and cash equivalents and trade and other receivables. The
+Group did not earn any material interest on its financial assets during the year.
+Credit risk
+Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial
+instrument fails to meet its contractual obligations. Management considers the counterparty risk to
+be acceptable due to the very large size of its main counterparties. The Group regularly monitors its
+exposure to bad debts in order to minimise exposure. Credit risk on cash and cash equivalents is
+considered to be low as the counterparties are all substantial banks with high credit ratings.
+Critical accounting judgements and key sources of estimation uncertainty
+The preparation of financial statements in conformity with the applicable UK law and UK-adopted
+international accounting standards requires management to make estimates and judgements that
+affect the reported amounts of assets and liabilities as well as the disclosure of contingent assets and
+liabilities at the period end and the reported amounts of revenues and expenses during the reporting
+period. Estimates and judgements are continually evaluated and are based on historical experience
+and other factors, including expectations of future events that are believed to be reasonable under
+the circumstances. In the future, actual experience may differ from these estimates and assumptions.
+Key Judgements
+In the process of applying the Group’s accounting policies, management has made the following
+judgements, which have the most significant effect on the amounts recognised in the financial
+statements: .
+Principal versus Agent
+The Group provides services to its customers whereby it needs to determine if it acts as a principal or
+an agent. Key indicators that we use in evaluating these sales transactions include, but are not limited
+to, the following:
+
+e The underlying contract terms and conditions between the various parties to the transaction.
+
+© Which party is primarily responsible for fulfilling the promise to provide the specified good or
+
+service.
+
+Flexion Mobile Plc Page | 38 Annual Report 31 Dec 2024
+
+=== page 39 ===
+Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+The judgement aspect of the test is in determining the revenue recognition treatment. The Group
+needs to assess whether the Company is acting as a principal or an agent in each revenue stream.
+Each revenue stream has been reviewed against the key indicators set out above.
+
+_ Based on the assessment of the key indicators performed, the Group is considered to act as principal
+for all products and services, other than advertising revenue. For advertising (ad) revenue, the Group
+considers itself to be an agent. Further information on the revenue treatment of the Group can be
+found further above in “Revenue Recognition” accounting policy.
+
+Operating segments
+
+Flexion's Chief Operating Decision Maker (CODM) is the Executive Management Team. The CODM
+have assessed the operating segments of the business and have identified two operating segments,
+being Distribution and Marketing Services (see note 3). Post year end, the Group will finalise a process
+to reorganise the Group, which includes analysing the most efficient and accurate operational
+segments and implementing segmental transfer pricing policies to facilitate accurate reporting of
+financial information for each potential operating segment. When this process is completed, these
+operating segments will be reported externally as appropriate.
+
+Key estimates
+
+Below are sources of estimation uncertainty at the statement of financial position date, that have a
+significant risk of causing a material adjustment to the carrying amount of assets and liabilities within
+the next financial year:
+
+Useful lives and impairment of intangible assets
+
+Amortisation of intangible assets is calculated over the useful economic lives of the assets. The
+estimates of useful economic lives are reviewed at least annually for any changes to this estimate.
+The useful life of game distribution rights is approximately 2-5 years, from the launch date of the
+relevant titles. The useful economic lives of these assets may vary based on the length of the contract
+term. The useful lives of these assets are assessed on an annual basis, ensuring the future economic
+value exceeds the carrying amount of the assets. The future economic value is the present value of
+the future cashflows expected to be generated from the relevant titles. The assessment has resulted
+in the impairment of one part of the game distribution rights of GBP 1,152,831, resulting in the
+carrying value of GBP 1,652,987 (2023: GBP 6,945,767) at year end (refer to note 12). The key
+estimation comes in the anticipated future sales, in this instance the deal was not expected to bring
+any future benefits and so was impaired in full. Were the forecasted net revenue figures used in the
+future cashflows to rise by 10% for this part of the game distribution rights then the impairment
+required would have reduced, leaving a net present value of GBP 110,358, Note as these distribution
+rights were acquired in the year no comparative can be provided. For the remaining distribution rights
+there is estimation uncertainty in the period that these cashflows will return value to the business and
+therefore be amortised over, as this is dependent on the success of the corresponding apps.
+Contingent consideration
+
+As part of the acquisition of Audiencly, the purchase agreement included an additional maximum
+consideration (contingent consideration) of EUR 10.73m, payable only if the EBITDA of Audiencly for
+the financial years ending 2022, 2023 and 2024 achieve the threshold agreed by both parties. The EUR
+7.36m of contingent consideration liability initially recognised represented the present value of the
+Group’s estimate of the cash outflow which has been discounted using an interest rate of 16.4%,
+equivalent to the valuation’s assessed project IRR. As at 31 December 2024, there has been a change
+in the estimate of the probable cash outflow due to the actual performance of the business falling
+below the estimated thresholds required to trigger the additional consideration. Therefore, the
+liability has decreased to EUR Nil (2023: EUR 3.79m) due to the change in fair value.
+
+Flexion Mobile Pic Page | 39 Annual Report 31 Dec 2024
+
+=== page 40 ===
+Commercial in confidence
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+impairment of Group acquisition intangibles
+The group tests whether group intangibles have suffered any impairment on an annual basis. For the
+2024 and 2023 reporting periods, the recoverable amount of the cash-generating units (CGUs) was
+determined based on value in use calculations which require the use of assumptions. The calculations
+use cash flow projections based on financial budgets approved by management covering a three-year
+period. Cash flows beyond the three-year period are assumed to have a terminal growth rate of 3.5%
+(2023: 0%).
+The results of the tests show that there are no indicators of impairment.
+If the budgeted cash flow projections used in the value in use calculation for the Audiencly CGU had
+been 8.6% (2023: 30%) lower than management's estimates at 31 December 2024, the group would
+have had to recognise an impairment against the carrying amount of the investment in Audiencly.
+A weighted average cost of capital (WACC) of 10.9% (2023: 10.9%) was applied in the value in use
+model. The group calculated the WACC applied to the cash flow projections of this CGU would have |
+to have been 1.0% higher (2023: 2.3% higher) than management’s estimates, 21.9% (2023: 12.2%)
+instead of 10.9%, before the group would have had to recognise an impairment against the investment
+in Audiencly.
+The customer relationships were acquired as part of a business combination. They are recognised at
+their fair value at the date of acquisition and are subsequently amortised on a slightly adjusted
+(concave) curve over 10 years to match the forecasted earnings from the existing customers acquired.
+These are assessed for impairment where an indicator is present. The key estimation is considered to
+be the forecasted cash flows from the remaining acquired customers. An impairment of GBP 841,000
+(2023: Nil) was recognised in the year. Were the cashflows to be GBP 25,000 lower each year this
+would result in an additional impairment of GBP 69,500.
+3. Segmental information
+The directors primarily use information about the segments’ revenue and gross margin to assess the
+performance of the operating segments on a monthly basis.
+Revenue breakdown 2024 2023
+GBP GBP
+Distribution 65,562,725 60,422,750
+Marketing Services 11,191,587 9,601,330
+Total revenue 76,754,313 70,024,081
+Gross Profit breakdown : 2024 2023
+GBP GBP
+Distribution 12,068,512 9,195,520
+Marketing Services 1,835,730 3,301,281
+Total gross profit 13,904,244 12,496,801
+Flexion Mobile Pic Page | 40 Annual Report 31 Dec 2024
+

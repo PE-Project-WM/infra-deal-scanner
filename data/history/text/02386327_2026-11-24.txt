@@ -1,0 +1,1415 @@
+=== page 1 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F 34 .
+Registered number : 02386327
+. National Grid Telecoms Limited
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+For the year ended 31 March 2026
+BNO
+re *AFFBE25C* i
+' A16 20/11/2026 #161 |
+| _ COMPANIES HOUSE J
+
+=== page 2 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F 34
+Contents Page
+Strategic report 1
+Section 172 statement 5
+Directors’ report 8
+’ Directors’ responsibilities statement : 10 :
+Independent auditor's report 11
+Financial statements:
+Profit and loss account 15
+Balance sheet 16
+Statement of changes in equity 17
+Notes to the financial statements : 18
+ti grid
+
+=== page 3 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+Strategic report .
+For the year ended 31 March 2026
+The directors present their annual report and the audited financial statements of National Grid Telecoms Limited
+(the "Company") (registered number 02386327) for the year ended 31 March 2026.
+Ownership :
+The Company is a wholly-owned subsidiary within the National Grid Electricity Distribution plc group (the "Group"
+or "NGED Group" or "“NGED"). The primary business of National Grid Electricity Distribution pic and its subsidiaries
+is the distribution of electricity in the South West and Midlands regions in England and in South Wales. The NGED
+Group is owned by National Grid plc. National Grid plc is one of the world's largest investor-owned energy utilities,
+and operates in the UK and the US.
+National Grid Telecoms Limited is a wholly-owned subsidiary of National Grid Electricity Distribution Network
+Holdings Limited which is owned by National Grid Ple.
+Principal activity and business review : ;
+The principal activity of the Company during the period under review continued to be the provision of:
+
++ — dark optical fibre capacity:
+
++ — carrier wholesale bandwidth;
+
+. + leasing of telecommunications sites and facilities; and
+
+* — regional non-switched lease lines.
+These services provide links between cable landing stations, data centres and major towns and cities in South
+Wales, the South West and Midlands areas of England to the rest of the United Kingdom, interconnecting with
+other carrier networks in Bristol, Cardiff and London. The network includes over eighty points of presence including
+Bristol, Bath, Exeter, Plymouth, Lands End, Bude, Cardiff, Newport, Swansea, Birmingham, Nottingham, Leicester,
+Coventry, Worcester and Gloucester.
+The Company's products are aimed at national and international telecommunications operators including large
+broadband media providers. Customers include the corporate, business, educational, public sector and utility
+sectors of the market. The Company has also seen an increase in demand for its fibre, carrier bandwidth and site
+sharing facilities from the emerging alternative network provider sector. Interest from this sector remains strongest
+in the South West and South Wales but the trend for increased interest from Midlands based alternative network
+providers, particularly in the East Midlands, continues. :
+The Company also operates and maintains the telecommunications network for NGED and as such a proportion of
+turnover is attributable to work for other companies within the Group. This wil! continue to be the case for the
+foreseeable future.
+
+* The Company operates as a Public Electronic Communications Network provider under the authorisation scheme
+for ‘electronic communications networks and services'. Regulation is implemented and administered by the Office
+of Communications ("OFCOM") who have set out requirements for network providers. This includes provision of a
+fund for liabilities and for interconnection registration.
+
+Through the implementation and continuous review of quality and security management systems, the Company is
+accredited and certified to BS/EN 1S09001:2015, 1S027001:2022. The Company is actively working towards being
+compliant with the Telecoms Security Requirements ("TSR"), introduced by the UK Government late in 2023 and
+more detailed guidelines issued throughout 2024. National Grid Telecoms Limited is focused on complying with the
+guidelines set out for an organisation to achieve Tier 3 TSR compliance status.
+
+The Company's financial and non-financial key performance indicators during the year were as follows:
+
+National Grid Telecoms Limited 4
+
+=== page 4 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Strategic report (continued)
+; For the year ended 31 March 2026
+Principal activity and business review (continued)
+2026 2025 Change
+£'000 £'000 %
+Turnover 27,592 24,089 15 %
+Profit before interest and tax 3,501 1,059 231%
+Profit for the financial period 2,695 733 268 %
+Equity shareholders funds 20,184 17,489 15 %
+% %
+Bandwidth availability : 99.99 99.99 —%
+Dark fibre availability 99.99 99.99 —%
+Faults restored within service level agreements 22 20 10 %
+Faults restored within service level agreements (%) 58 69 (16)%
+Average restoration time (minutes) 299 275 9%
+Turnover has increased by 15%, due to an increase in internal variable income driven by increased direct labour
+activity for NGED. Profit increased by 268% which was due to an increase in income, partially offset by operating
+costs associated in delivering that internal income.
+The average number of faults per month was 3.6 compared to the previous year of 2.4. The average response
+time has increased to 7 minutes from 4 minutes the previous year.
+Principal risks and uncertainties
+Competitive Risks
+For its external revenue, the Company faces competitive risks from other operators providing similar services. In
+order to minimise risk, the Company operates only in the wholesale telecommunications market, has a reliable
+network covering key sites in the South West and Midlands areas of England and South Wales, and has a strong
+regional presence. The Company offers a high quality service at competitive prices.
+The Company faces the risk of non-compliance with regulations and best practices within the industry resulting in
+* loss of business and reputation. To mitigate this, the senior management is actively involved in all compliance and
+best practice related matters and the Board maintains direct oversight to ensure that the Company is compliant
+with all relevant industry standards. The Company is committed to the ISO 9001 standard (quality management).
+The Company is also compliant with the OHSAS 18001 standard (health and safety), and the ISO 27001 standard
+, {information security management).
+Reliance on Suppliers
+There is a risk of reliance on suppliers for operating and maintaining its activities. The Company operates mainly
+over networks and sites that are its own or belong to fellow subsidiaries, and relies to a small extent on the BT
+Group and other connectivity providers, who themselves are regulated. Where third party fibres are used, there is
+a supply arrangement with that party, mitigating material risk.
+National Grid Telecoms Limited 2
+
+=== page 5 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34 ;
+Strategic report (continued) .
+For the year ended 31 March 2026
+
+. Principal risks and uncertainties (continued)
+
+Customers
+There is a risk of the loss of key external customers resulting in loss of revenue. The Company's focus remains
+exclusively in the wholesale market where there is less exposure to customer ‘churn’. The Company continues to
+grow market share with new and existing ‘alt-net' providers within the South West of England. It has also witnessed
+noticeable increased interest from these businesses for new services in South Wales and the East coast of
+England as they expand their networks to try and reach communities and locations not well served by the main
+providers. We continue to support mobile network operators ("MNOs") in the expansion and roll out of their 5G
+networks.
+Whilst business in this sector remains strong, the impact of Code rights granted to MNOs by the Electronic
+Communications Code are forecast to have a negative impact on some segments of the rental returns achievable
+for the services we provide to this sector. National Grid Telecoms Limited has provided critical connectivity services
+to the organisation providing key communication channels for the blue light services for a number of years. They
+had expected this requirement to cease with the anticipated launch of the ESN ("Emergency Services Network”)
+but now expect to retain this business for the foreseeable future due to the delayed roll out of ESN.
+The Company aims to mitigate the risk of customer churn by providing quality services.
+
+* Bandwidth availability was 99.99% (31 March 2025: 99.99%)
+
++ Dark fibre availability was 99.99% (31 March 2025: 99.99%)
+
++ 58% of all faults were restored within the terms of the service level agreements, in an average response
+time of 7 minutes and a total average restoration time of 299 minutes (31 March 2025: 69% of all faults
+were restored within the terms of the service level agreements, in an average response time of 4 minutes
+and a total average restoration time of 275 minutes).
+
+Following Appropriate Strategies
+
+The Company's main focus remains on developing and extending its strong regional presence in the wholesale
+market, providing fibre, managed services and radio connectivity. The Company will continue to expand the reach
+of its fibre network within its own geographical footprint in the coming years. Significant fibre expansion is planned
+and funded within NGED's area of operations throughout the current Distribution Review period (ED2) running until
+March 2028.
+
+Works are continuing to deliver a ‘North of the Severn' diverse fibre route utilising existing underground duct and
+overhead pylon to connect the existing South Wales fibre network to the Midlands and South West network
+avoiding the Severn Bridge crossing. This new route will offer resilient connectivity in and out of South Wales. We
+are also exploring fibre expansion into the the northern reaches of South Wales as well as continued expansion of
+additional routes across all regions.
+
+The programme to fibre enable existing hill top radio sites commenced in 2021 to support NGED's transition from a
+Distribution Network Operator ("DNO") to a Distribution Systems Operator ("DSO"). This transition remains a key
+focus as increasingly smart and active communication solutions are required to meet the demands of a low carbon
+and digital future. The Company's wholesale market customers will also benefit from access to this fibre enabled
+tadio site portfolio. The Company benefits from access to the electricity network of its fellow NGED companies
+across the South West and Midlands areas of England, and South Wales. Compliance with current security
+standards, combined with a high quality of service, enables the Company to attract customers operating in both
+the public and corporate sectors.
+
+Liquidity and interest rate risk
+
+The Company can face liquidity risk and interest rate risk if external borrowing is needed. This risk is mitigated as :
+National Grid Electricity Distribution (South West) plc ("NGED South West"), a fellow subsidiary, provides day to
+day banking for NGED, including the Company. NGED South West is a regulated electricity distribution company
+which must maintain an investment grade credit rating. NGED affiliates pay or receive interest to/from the
+Company based on the Bank of England base rate.
+
+National Grid Telecoms Limited 3
+
+=== page 6 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+Strategic report (continued) .
+
+For the year ended 31 March 2026
+
+Capital investment and future developments
+
+The Company's fibre optic network is predominantly attached to the high voltage electricity overhead line network
+of NGED plc's assets and extends some 3,150km across the South West peninsula of England, the East and West
+Midlands and the Southern area of Wales.
+
+The strategy of extending and densifying the network through a rolling programme to add new and upgrade
+additional points of presence throughout the four DNO regions using both third party fibre and fibre attached to
+NGED's network continues. The Company is also utilising BT Openreach's Physical Infrastructure Access ("PIA")
+selectively as a means of extending our fibre reach to meet network expansion objectives.
+
+The Company will continue to improve its current range of services, expand its existing operations and invest in its
+network in order to meet the demands of the telecommunications market through existing and new channel
+partners, both within and outside its geographical area. The Company is focused on increasing the reach and
+density of the existing fibre network within region, offering greater opportunity to provide current and potentially
+new services to new and existing customers over a greater geographical area.
+
+The Company's upgrade of it's South West Dense Wavelength-division multiplexing ("DWDM") network allowed it
+to offer multiple 100Gb services. The upgrade went live early in 2023 and enables the Company to meet the
+continued demand for greater bandwidth capacity at competitive pricing. This has been well received with interest
+from both new and longstanding customers.
+
+Section 172 statement
+
+Refer to pages 5-7 below for our Section 172 statement.
+
+. Approved and authorised for issue by the Board and signed on its behalf by:
+DocuSigned by: ‘
+
+[ye .
+
+Guy Van Nieuwenhove, director :
+
+11 November 2026 -
+
+National Grid Telecoms Limited 4
+
+=== page 7 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F34
+Section 172 Statement
+For the year ended 31 March 2026
+Section 172 Statement
+The directors of all UK companies must act in accordance with their duties under the Companies Act 2006. This
+includes a fundamental duty to promote the success of the Company for the benefit of its members as a whole.
+This duty has been central to the decision-making process of the directors of all the Companies within National
+Grid. The Board has well-established policies defining the Board's duties and responsibilities including those under
+section 172.
+The Board ensures that the directors have acted both individually and collectively in a way that they consider, in
+good faith, would be most likely to promote the success of the Company for the benefit of its members as a whole
+with regard to all its stakeholders and to the matters set out in paragraphs (a) to (f) of section 172.
+(a) The likely consequence of any decision in the long term
+’ The Board is focused on promoting the success of the Company by supporting the DNOs within the NGED Group, ,
+as well as by delivering customer focused performance to external customers in a manner that is environmentally
+sustainable, provides long term stability and meets the needs of its key stakeholders.
+Flexible and effective networking solutions is the key focus for the Board. We provide data technology in a variety
+of ways to deliver truly connected bespoke communications solutions that meet the needs of our customers. The
+Board places great emphasis on ensuring that the Company is working with the most advanced technology and
+infrastructure and is adapting and innovating to ensure that the needs of all its customers are met effectively. One
+key area that the directors consider critical to the strategic growth of the Company is the need to meet the growing
+demand for greater capacity, and therefore expansion of our network has been a key focus for the directors. The
+extensive reach of our network will allow businesses and our communities to access low cost, high performance
+internet with extremely high resilience. :
+The directors devolve day-to-day management and decision-making to the senior management team. The senior
+management has regular contact and dialogue with the directors of the Company and regular financial and
+tegulatory meetings are conducted to provide updates on any key accounting, business and legal issues.
+Processes are in place to ensure that the Company Board receives all relevant information to enable it to make
+well-judged decisions in support of the Company’s long-term stability and to ensure adequate monitoring of the
+Company's strategic priorities.
+Policies, applicable to all the companies operating within the NGED Group, are in place defining the powers of
+delegation by the Board, the matters reserved for the Board and the areas of responsibilities and accountability of
+the directors. Policies have been established that define the framework within which the NGED Group expects
+managers and employees to operate. These policies represent one of the means through which decisions on
+stakeholder interests within the NGED Group are enacted.
+(b) The interests of our colleagues
+Like all successful enterprises, our strength is our talented teams. Our business is built by our people and we are
+committed to ensuring that the interests of employees are taken into consideration while promoting the success of
+the Company.
+All our employees are effectively employees of the NGED Group and their interests are managed at the Group
+level.
+For details in relation to the employee interests of the National Grid, refer to the Strategic report and Corporate
+governance statement in the NGED Annual report and Consolidated Financial Statements, available at the below
+link:
+https:/Awww.nationalgrid.co.uk/about-us/annual-reports-and-financial-statements
+, National Grid Telecoms Limited . 5
+
+=== page 8 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F34
+Section 172 statement (continued)
+For the year ended 31 March 2026
+(c) The need to foster the Company’s business relationships with suppliers, customers and others
+Our main stakeholder is NGED, being our key customer as well as our shareholder. Our other key stakeholders
+are, external customers, employees, regulators, suppliers and our ultimate shareholder, National Grid Plc.
+NGED Group
+The two directors of the Company are part of senior executive team of the NGED Group. This ensures that there is
+active engagement with our main customer, the NGED Group, on all key matters. All key information in relation to
+the Company is timely fed back to the NGED Group Board. The strategic direction of the Company is aligned to
+the NGED Group's strategy and goals.
+Ultimate shareholder
+National Grid's senior management has regular contact and dialogue with the directors of the Company and also
+with the Board and senior management of the NGED Group. There is a suite of financial and regulatory reporting
+presented to National Grid on established timelines and regular financial and regulatory update meetings are
+conducted with National Grid's management team to provide updates on any key accounting, business, and legal
+issues. Additionally, NGED’s financial plan is presented to the National Grid Board for detailed review and approval
+on an annual basis. The Board meeting of National Grid and any senior leadership events at National Grid are
+attended by the NGED Chief Executive and other executive board members including directors of the Company.
+External customers
+The Company aims to meet the needs of its external customers by providing secure, resilient and high quality end
+to end connectivity solutions. The management within the Company engages with its external customers at an
+individual level to be able to create bespoke solutions for an organisation, if needed. The Company continues to
+work with the major UK mobile network operators to support their increase in shared site requirements as their 5G
+networks densify and expand.
+Effective customer engagement is also evident from the fact that network availability was 99.99% in the current
+year.
+Performance is monitored via a Key Performance Indicator ("KPI") dashboard; this is reviewed by senior
+management and includes KPIs in relation to external customers and key information, if any, is fed back by the
+senior management to the directors of the Company in the regular update meetings.
+For further details on customer engagement, refer to page 1 in the Strategic report.
+Suppliers
+The Company relies to a small extent on external suppliers such as BT and other connectivity providers. Where
+external suppliers are used, the Company maintains open and positive communications and ensures that fair and
+standard industry contracts are in place with all suppliers.
+Regulators
+The directors aim to maintain an open and transparent relationship with the telecommunications industry regulator,
+Ofcom. All regular reporting to Ofcom is submitted on a timely basis and any information submitted is reviewed by
+senior management to ensure the integrity of the information.
+The Company plays an active role in Ofcom's various initiatives and measures pertaining to the industry by
+diligently responding to consultations on all key matters.
+A director of the Company is the chair of the Energy Network Association Strategic Telecommunications Group.
+This group is focused on providing strategic direction on operational telecommunication resilience, connected
+customer communications and smart technologies and the group provides opportunities to exchange information
+and best practices in the key elements of telecommunications.
+In addition, the Company also actively engages with the Department for Science, Innovation and Technology
+(‘DSIT”) and the Department for Energy Security and Net Zero ("DESNZ”) by participating in their initiatives and
+responding to any consultations and calls for evidence launched by them in relation to the telecoms industry.
+National Grid Telecoms Limited 6
+
+=== page 9 ===
+Docusign Envetope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F34
+Section 172 statement (continued)
+For the year ended 31 March 2026
+
+' (d) The impact of the Company’s operations on the community and the environment
+
+The service we provide is essential to our communities, impacting businesses and homes daily. The directors
+believe that collaborating closely with our communities is vital for creating shared value for the business, the
+people we serve, and the areas in which we operate. We have benchmarked best practices in Environmental,
+Social, and Governance ("ESG"), and NGED’s prime ESG rating demonstrates our best-in-class performance. This
+rating, awarded by Institutional Shareholder Services ("ISS"), is given only to companies with ESG performance
+above the ambitious sector threshold set by ISS. It places us significantly above most ISS-rated Gas and
+Electricity Network Operators and reflects the Board's commitment to sustainability and incorporating broader
+environmental and social considerations into our decision-making. This commitment ensures we continue to keep
+the power flowing and meet future energy challenges.
+For further details on our commitment to being a responsible business and the actions we have taken during the
+year in relation to our community and environment refer to the NGED Annual Report and Consolidated Financial
+Statements. These financial statements can be accessed at the link below:
+https://www.nationalgrid.co.uk/about-us/annual-reports-and-financial-statements
+(e) The desirability of the Company maintaining a reputation for high standards of business conduct
+The Board is committed to the National Grid values of "do the right thing", "find a better way", and "make it
+happen". These values guide our actions and behaviours, helping us address the world's greatest energy
+challenges with passion and purpose. At NGED, we emphasise Safety, Customer, and Respect. Our engagement
+with stakeholders reflects these priorities, and they are embedded in all communications and decisions across the
+Group. Our Code of Ethics, updated every three years, outlines expected behaviours and aligns with our
+mandatory training courses for all employees.
+Our Code of Ethics protects us by setting clear rules and behavioural expectations. To ensure employees feel safe
+to speak up, we have a ‘Speak up' policy that supports our Code of Ethics. This policy allows employees to raise
+concerns anonymously through National Grid's internal ethics helpline. The Board upholds a zero-tolerance
+approach to retaliation and is committed to creating a safe environment for all colleagues. The Grid:voice survey
+helps the Board understand employee perspectives on workforce matters, strategic priorities, and customer
+engagement, enabling continuous improvement.
+Details of the National Grid’s business conduct are provided in the Section 172 statement in the NGED Annual
+Report and Consolidated Financial Statements. These financial statements can be accessed at the link below:
+https://www.nationalgrid.co.uk/about-us/annual-reports-and-financial-statements
+(f) The need to act fairly between members of the Company
+The Company's ultimate shareholder is National Grid plc. The Board has developed a robust corporate
+governance framework which allows the directors to understand the views of the shareholder. This allows the
+directors to both effectively and constructively engage with and report to the shareholder.
+National Grid Telecoms Limited 7
+
+=== page 10 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+Directors’ Report
+For the year ended 31 March 2026
+The directors present their annual report and the audited financial statements for the year ended 31 March 2026.
+Directors and their interests :
+The directors who served during the year and up to the date of signing the financial statements (unless otherwise
+stated) were:
+lan Craig Smith, Director (resigned 30 January 2026)
+Guy Van Nieuwenhove, Director (appointed 1 September 2025)
+Phillipa Louise Slater, Director (appointed 16 December 2024, resigned 31 August 2025)
+Tanya Joy Sharma, Director (appointed 3 March 2026, resigned 1 October 2026)
+During and at the end of the financial year, no director was interested in any contract of significance in relation to
+the Company's business other than service contracts. Insurance in respect of directors and officers is third party
+qualifying insurance and is maintained by the National Grid's ultimate parent, National Grid Pic. The insurance is
+subject to the conditions set out in the Companies Acts and remains in force at the date of signing the Directors’
+report.
+Results and Dividends
+The profit for the financial period amounted to £2,695,000 (2025: £733,220).
+Turnover has increased by 15% due to an increase in internal income. The increase in profit (up by 268%) is
+attributable to the increase in income, only partially offset by operating costs associated in delivering that internal
+income.
+The financial position of the Company is presented in the balance sheet. Total shareholder's equity at 31 March
+2026 was £20.2m (2025: £17.5m) comprising fixed assets of £15.8m (2025: £16.1m) and net current assets of
+£8.3m (2025: £5.3m).
+
+, The Company proposed and paid dividends of £nil (2025: £nil) during the year. No dividends have been proposed
+subsequent to the year end.
+In considering capital distributions, the Board is mindful of stakeholders’ views and takes account of our latest
+financial position, the long-term sustainability for the Company and the strategic direction of the NGED Group. The
+Board also ensures that it understands and takes account of the views of our ultimate shareholder in order to
+preserve positive investor relations.
+Going Concern
+These financial statements have been prepared on a going concern basis, as in the Directors’ opinion the
+Company has adequate resources to remain in operation, and that the Directors intend it to do so, for at least one
+year from the date the financial statements are signed.
+The company generates consistent revenue from external customers and from NGED Group entities. The
+Company has net current assets of £8.3m (2025: £5.3m) and the Company does not have any borrowings.
+Financial risk management
+The principal financial risk to the Company is loss of contracts with external customers. The Company mitigates
+this risk by actively seeking new business spanning a range of product lines and industry sectors, as well as
+seeking to ensure customer retention is kept as high as possible by maintaining excellent standards of availability,
+reliability and customer service.
+Refer to the strategic report for further detail on the Company's principal risks and uncertainties on pages 2 to 3.
+Events after the balance sheet date
+There have been no significant events affecting the Company after the reporting period.
+Future developments
+Details on the Company's future development strategy can be found in the Strategic Report under ‘capital
+investment and future developments’ on page 4.
+National Grid Telecoms Limited 8
+
+=== page 11 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Directors’ Report
+For the year ended 31 March 2026 .
+Statement of disclosure to independent auditor
+So far as each person who was a Director at the date of approving this report is aware, there is no relevant audit
+information, of which the auditor is unaware. Each Director has taken all the steps that they ought to have taken as
+a director to make themself aware of any relevant audit information and to establish that the auditor is aware of
+that information.
+This confirmation is given and should be interpreted in accordance with the provisions of s418 of the Companies
+Act 2006.
+Independent auditor
+a? At the 2026 Annual General Meeting of National Grid plc, the Company's ultimate parent company, Deloitte LLP.
+were reappointed as external auditor to the Group. Pursuant to section 487 of the Companies Act 2006, the auditor
+will be deemed to be reappointed to the Company and Deloitte LLP will, therefore, continue in office.
+Approved and authorised for issue by the Board and signed on its behalf by:
+DocuSigned by:
+[ye
+Guy Van Nieuwenhove, Director
+11 November 2026
+National Grid Telecoms Limited
+Avonbank
+Feeder Road
+Bristol
+BS2 OTB
+National Grid Telecoms Limited 9
+
+=== page 12 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+Directors’ responsibilities statement
+For the year ended 31 March 2026
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance with
+applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom accounting standards and applicable law), including Financial Reporting
+Standard ("FRS") 101 "Reduced Disclosure Framework". Under company law the directors must not approve the
+financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the
+Company and the profit or loss of the Company for that year. In preparing these financial statements, the
+directors are required to:
+In preparing the Company financial statements, the directors are required to:
+
++ select suitable accounting policies.and apply them consistently;
+
+* make judgements and accounting estimates that are reasonable and prudent;
+
+* — state whether applicable UK accounting standards have been followed; and
+
+* prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+
+Company will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+Company's transactions and disclose with reasonable accuracy at any time the financial position of the Company
+and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also
+responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities.
+The directors are responsible for the maintenance and integrity of the corporate and financial information included
+on the Company's website. Information published on the Company's website is accessible in many countries with
+different fegal requirements. Legislation in the United Kingdom governing the preparation and dissemination of
+financial statements may differ from legislation in other jurisdictions.
+This responsibility statement was approved and authorised for issue by the board of directors and is signed on its
+behalf by:
+
+DocuStgned by: .
+(ye
+Guy Van Nieuwenhove, Director :
+11 November 2026
+National Grid Telecoms Limited . , 10
+
+=== page 13 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF NATIONAL GRID TELECOMS
+LIMITED
+Report on the audit of the financial statements
+Opinion
+In our opinion the financial statements of National Grid Telecoms Limited (the ‘company’):
+
++ give a true and fair view of the state of the company's affairs as at 31 March 2026 and of its profit
+
+for the year then ended;
++ have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice, including Financial Reporting Standard 101 “Reduced Disclosure Framework"; and
+
++ have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements which comprise:
+
++ — the profit and loss account;
+
++ the balance sheet;
+
++ the statement of changes in equity; and
+
++ the related notes 1 to 20.
+The financial reporting framework that has been applied in their preparation is applicable law and United
+Kingdom Accounting Standards, including Financial Reporting Standard 101 “Reduced Disclosure
+Framework” (United Kingdom Generally Accepted Accounting Practice).
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and
+applicable law. Our responsibilities under those standards are further described in the auditor's
+responsibilities for the audit of the financial statements section of our report. :
+We are independent of the company in accordance with the ethical requirements that are relevant to our
+audit of the financial statements in the UK, including the Financial Reporting Council's (the ‘FRC’s’)
+Ethical Standard as applied to listed entities, and we have fulfilled our other ethical responsibilities in
+accordance with these requirements. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the gaing concern basis
+of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to
+events or conditions that, individually or collectively, may cast significant doubt on the company’s ability to
+continue as a going concern for a period of at least twelve months from when the financial statements are
+authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in
+the relevant sections of this report.
+National Grid Tetecoms Limited 11
+
+=== page 14 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Independent auditor's report to the member of National Grid Telecoms Limited (continued)
+For the year ended 31 March 2026
+Other information
+The other information comprises the information included in the annual report, other than the financial
+statements and our auditor's report thereon. The directors are responsible for the other information
+contained within the annual report. Our opinion on the financial statements does not cover the other
+information and, except to the extent otherwise explicitly stated in our report, we do not express any form
+of assurance conclusion thereon.
+Our responsibility is to read the other information and, in doing so, consider whether the other information
+is materially inconsistent with the financial statements or our knowledge obtained in the course of the
+audit, or otherwise appears to be materially misstated. If we identify such material inconsistencies or
+apparent material misstatements, we are required to determine whether this gives rise to a material
+misstatement in the financial statements themselves. If, based on the work we have performed, we
+conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in respect of these matters.
+Responsibilities of directors
+As explained more fully in the directors’ responsibilities statement, the directors are responsible for the
+preparation of the financial statements and for being satisfied that they give a true and fair view, and for
+such internal control as the directors determine is necessary to enable the preparation of financial
+statements that are free from material misstatement, whether due to fraud or error.
+
+: In preparing the financial statements, the directors are responsible for assessing the company's ability to
+continue as a going concern, disclosing as applicable, matters related to going concern and using the
+going concern basis of accounting unless the directors either intend to liquidate the company or to cease
+operations, or have no realistic alternative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the
+basis of these financial statements.
+
+A further description of our responsibilities for the audit of the financial statements is located on the FRC's
+website at: www. frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+National Grid Telecoms Limited 12
+
+=== page 15 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Independent auditor's report to the member of National Grid Telecoms Limited (continued)
+For the year ended 31 March 2026
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of
+irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities,
+including fraud is detailed below.
+We considered the nature of the company’s industry and its control environment, and reviewed the
+company's documentation of their policies and procedures relating to fraud and compliance with laws and
+regulations. We also enquired of management and the directors about their own identification and
+assessment of the risks of irregularities including those that are specific to the company's business sector.
+We obtained an understanding of the legal and regulatory frameworks that the company operates in, and
+identified the key laws and regulations that:
+
++ had a direct effect on the determination of material amounts and disclosures in the financial
+statements. These included Companies Act 2006, Pensions and tax legislation; and
+
++ do not have a direct effect on the financial statements but compliance with which may be
+fundamental to the company’s ability to operate or to avoid a material penalty. These included
+General Data Protection requirements, Anti-bribery and corruption policy and the Foreign Corrupt
+Practices Act. .
+
+We discussed among the audit engagement team regarding the opportunities and incentives that may
+
+exist within the organisation for fraud and how and where fraud might occur in the financial statements.
+
+As a result of performing the above, we identified the greatest potential for fraud in cut off of revenue due
+
+to payments received in advance. Our specific procedures performed to address the risk are described .
+below:
+
++ Assessment for appropriateness of the revenue recognition policies adopted by management;
+and
+
++ Testing whether amounts recognised were complete and recorded in the correct period, by
+agreeing to the contracts/agreements in a sample of individual transactions.
+
+In common with all audits under ISAs (UK), we are also required to perform specific procedures to
+respond to the risk of management override. In addressing the risk of fraud through management override
+of controls, we tested the appropriateness of journal entries and other adjustments; assessed whether the
+judgements made in making accounting estimates are indicative of a potential bias; and evaluated the
+business rationale of any significant transactions that are unusual or outside the normal course of
+business.
+
+In addition to the above, our procedures to respond to the risks identified included the following:
+
+* reviewing financial statement disclosures by testing to supporting documentation to assess
+compliance with provisions of relevant laws and regulations described as having a direct effect on
+the financial statements;
+
+. + performing analytical procedures to identify any unusual or unexpected relationships that may
+indicate risks of material misstatement due to fraud;
+
++ enquiring of management and in-house / external legal counsel concerning actual and potential
+litigation and claims, and instances of non-compliance with laws and regulations; and
+
+* reading minutes of meetings of those charged with governance.
+
+National Grid Telecoms Limited 13
+
+=== page 16 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Independent auditor's report to the member of National Grid Telecoms Limited (continued)
+For the year ended 31 March 2026
+Report on other legal and regulatory requirements
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
++ the information given in the strategic report and the directors’ report for the financial year for
+which the financial statements are prepared is consistent with the financial statements; and
++ the strategic report and directors’ report have been prepared in accordance with applicable legal
+requirements.
+In the light of the knowledge and understanding of: the company and its environment obtained in the :
+course of the audit, we have not identified any material misstatements in the strategic report or the
+directors’ report.
+Matters on which we are required to report by exception
+Under the Companies Act 2006 we are required to report in respect of the following matters if, in our
+opinion:
+* adequate accounting records have not been kept, or returns adequate for our audit have not been
+received from branches not visited by us; or :
++ the financial statements are not in agreement with the accounting records and returns; or
+* certain disclosures of directors’ remuneration specified by law are not made; or
++ we have not received all the information and explanations we require for our audit.
+We have nothing to report in respect of these matters.
+Use of our report
+This report is made solely to the Company's members, as a body, in accordance with Chapter 3 of Part 16
+of the Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s
+members those matters we are required to state to them in an auditor's report and for no other purpose.
+To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the
+Company and the Company's members as a body, for our audit work, for this report, or for the opinions
+we have formed. ;
+‘DocuSigned by:
+[ Hadley
+98A8CA26 10 104B5...
+Kate Hadley FCA (Senior statutory auditor)
+For and on behalf of Deloitte LLP
+Statutory Auditor
+Birmingham, United Kingdom
+11 November 2026
+National Grid Telecoms Limited 14
+
+=== page 17 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F 34
+Profit and loss account
+For the year ended 31 March 2026
+2026 2025
+
+Note £'000 £'000
+Turnover 2 27,592 24,089
+Other operating expenses 3 (24,101) (23,030)
+Gain on disposal of fixed assets 10 -
+Operating profit 3,501 1,059
+Interest receivable 5 369 291
+Interest payable 6 (201) (217)
+Profit before tax 3,669 1,133
+Tax : 7 (974) (400)
+Profit for the financial year 2,695 733
+All operations are continuing.
+There is no other comprehensive income for the years ended 31 March 2026 or 31 March 2025 and therefore no
+separate statement of comprehensive income has been prepared.
+The accompanying notes 1 to 20 are an integral part of these financial statements.
+National Grid Telecoms Limited 15
+
+=== page 18 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34 :
+Balance sheet
+As at 31 March 2026
+2026 2025
+- Note £°000 £'000
+Fixed assets .
+Property, plant and equipment 8 8,047 8,880
+Right-of-use-assets : . 9 4,493 4,263
+Intangible assets 10 3,298 2,933
+15,837 16,076
+Current assets
+Debtors (amounts falling due within one year) 1 13,173 8,364
+Debtors (amounts falling due after more than one year) 1 271 427
+Investments 12 2,658 2,441
+Total current assets 16,102 11,232
+Creditors (amounts falling due within one year) 13 (7,837) (5,910)
+Net current assets 8,265 §,322 .
+Total assets less current liabilities 24,102 21,398
+Creditors (amounts falling due after more than one year) 13 (3,224) (3,268)
+Provisions for liabilities 15 (694) (641)
+Net assets 20,184 17,489
+Capital and reserves
+Share capital 17 9,717 9,717
+; Share premium account 17 764 764
+Profit and loss account 9,703 7,008
+Equity shareholder's funds 20,184 17,489
+The financial statements set out on pages 15 to 32 were approved by the Board of Directors on 11 November 2026
+and were signed on its behalf by:
+es by:
+Guy’ Van Nieuwénhove, Director
+National Grid Telecoms Limited
+Registered number: 02386327
+National Grid Telecoms Limited 16
+
+=== page 19 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Statement of changes in equity
+For the year ended 31 March 2026
+Share Profit Total
+; Share premium and loss shareholders’
+Note capital account account equity
+£'000 £'000 £'000 £'000
+At 1 Apr 2024 : 9,717 764 « 6,275 16,756
+Profit for the financial year - - 733 733
+“Total comprehensive income forthe year ssi(“‘éS ST SO*!*!*«CTOASS*C«COOSSSC*~*«ST«B
+‘AtgiMar2026,—~—~C~*~C—*C“‘S*”*C«SWTSCO*«SA;SC*‘aSOOB:CO#*~*~*«WAT«AB™
+Profit for the financial year . - - 2,695 2,695
+‘At3iMar2026——~—“—s™S™SCSCSCSCSCSCSC‘“‘“‘SWTA~C~*“‘CéSOON:*=©=~#«C«7O3 (20,184
+National Grid Telecoms Limited : 17
+
+=== page 20 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+Notes to the financial statements .
+For the year ended 31 March 2026
+1. Summary of significant accounting policies
+National Grid Telecoms Limited (the “Company") is a private company limited by shares. The nature of the
+Company's principal activities is set out in the Strategic Report on page 1. The Company is incorporated in the
+United Kingdom under Companies Act 2006, and is registered in England and Wales, with its registered office in
+Avonbank. Feeder Road, Bristol, BS2 OTB.
+(a) Basis of preparation
+The financial statements of National Grid Telecoms Limited for the year ended 31 March 2026 were approved by
+the Board of Directors on 11 November 2026. The Company meets the definition of a qualifying entity under
+Financial Reporting Standard 100 ("FRS 100") issued by the Financial Reporting Council. Accordingly, these
+financial statements have been prepared in accordance with Financial Reporting Standard 101 ‘Reduced -
+Disclosure Framework’ ("FRS 101"). In preparing these financial statements, the Company applies the recognition
+and measurement requirements of International Financial Reporting Standards ("IFRS") as adopted by the UK, but
+makes amendments where necessary in order to comply with the Companies Act 2006 and sets out below where
+advantage of the FRS 101 disclosure exemptions has been taken.
+The financial statements have been prepared on the historical cost basis. The financial statements are presented
+in pounds sterling which is the currency of the primary economic environment in which the Company operates. The
+2025 comparative financial information has also been prepared on this basis. All values are rounded to the
+nearest one thousand pounds (£'000) except when otherwise indicated. :
+As a qualifying entity, the Company has taken the following exemptions in the preparation of these financial
+statements in accordance with FRS 101:
+
+. preparation of a cash flow statement and related notes;
+
+. disclosures in respect of transactions with National Grid ple and its wholly owned subsidiaries;
+
+. disclosures in respect of capital management;
+
+. disclosures in respect of impairment of assets; and
+
+. the effects of new but not yet effective IFRS standards.
+As the consolidated financial statements of National Grid Electricity Distribution plc which are available from the
+registered office, include the equivalent disclosures, the Company has taken the exemptions under FRS 101 in
+respect of certain disclosures required by IFRS 13 ‘Fair value measurement’ and the disclosures required by IFRS
+7 ‘Financial instruments: Disclosures’.
+These financial, statements have been prepared on a going concern basis, as in the Directors’ opinion the
+Company has adequate resources to remain in operation, and that the Directors intend it to do so, for a least one
+year from the date the financial statements are signed. The Company is expected to generate positive cash flows
+in the next twelve months. As the Company is part of a larger group it participates in the Group's centralised
+treasury arrangements and shares banking arrangements with its subsidiaries. Further details are provided in the
+going concern section in the directors’ report on page 8.
+There are no amendments to accounting standards, or IFRIC interpretations that are effective for the year ended
+31 March 2026 that have a material impact on the Company's financial statements.
+In the application of the Company's accounting policies, that are described below, the directors are required to
+make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not
+readily apparent from other sources.
+Critical judgements in applying the Company's accounting policies
+Critical areas of judgement are those that have the most significant effect on the amounts recognised in the
+financial statement. There are no areas of judgement that are considered to have a significant effect on the
+amounts recognised in these financial statements.
+National Grid Telecoms Limited 18
+
+=== page 21 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+1. Summary of significant accounting policies (continued)
+(a) Basis of preparation (continued)
+Key sources of estimation uncertainty
+Key sources of estimation uncertainty are those that have significant risk of causing a material adjustment to the
+carrying amounts of assets and liabilities within the next financial year.
+Information about such estimations is summarised below:
+Goodwill
+Goodwill is not amortised but is subject, as a minimum, to annual tests for impairment. The initial goodwill recorded
+and subsequent impairment analysis require management to make subjective judgements concerning the value in
+use of the cash-generating units, specifically in relation to the discount rate and terminal value multiple applied at
+end of cash flow period. Estimates of value in use are consistent with market information and the NGED Group's
+plans and forecasts.
+At 31 March 2026, the carrying value of goodwill amounted to £2,933,000 (2025: £2,933,000). Refer to note 10 for
+sensitivity analysis and for further details on the impairment testing performed on goodwill.
+(b) Turnover
+Turnover is recognised when, or as the Company satisfies the performance obligations and is measured at the fair
+value of the consideration received or receivable, stated net of value added tax.
+The majority of the turnover of the Company represents rent from the lease activities of dark optical fibre, carrier
+wholesale bandwidth, communications sites and regional leased line services.
+The rent contracts contain a single performance obligation of providing the relevant telecommunication service.
+a) The Company's customers immediately control and consume the benefits the Company provides;
+b) The Company's service does not create or enhance an asset with an alternate use to the Company;
+c) The Company has the right to payment from the customer for the service that has been provided.
+The Company measures the progress of the performance obligation using the output method. Output method
+
+, recognised revenue is based on direct measurements of value transferred to the customer. Accordingly monthly
+rental revenue is recognised over the period of the rent contract.
+(c) Property, plant and equipment
+Property, plant and equipment is recorded at cost, less accumulated depreciation and any impairment losses.
+Cost includes the purchase price of the asset; any payroll and finance costs incurred which are directly attributable
+to the construction of property, plant and equipment together with an appropriate portion of overheads which are
+directly linked to the capital work performed; and the cost of any associated asset retirement obligations.
+Property, plant and equipment include assets in which the Company's interest comprises legally protected
+statutory or contractual rights of use. Additions represent the purchase or construction of new assets, including
+capital expenditure for safety and environmental assets, and extensions to, enhancements to, or replacements of
+existing assets. All costs associated with projects or activities which have not been fully commissioned at the
+period end are classified within assets in the course of construction.
+National Grid Telecoms Limited 19
+
+=== page 22 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+1. Summary of significant accounting policies (continued)
+(c) Property, plant and equipment (continued)
+No depreciation is provided on freehold land or assets in the course of construction. Other items of property, plant
+and equipment are depreciated on a straight-line basis, at rates estimated to write off their book values over their
+estimated useful economic lives. In assessing estimated useful economic lives, consideration is given to any
+contractual arrangements and operational requirements relating to particular assets. Certain network assets are
+depreciated using the group method of depreciation, in which a single composite depreciation rate is applied to a
+particular class of property, plant and equipment. This method pools similar assets together, and then depreciates
+each group as a whole over their respective useful lives. Composite depreciation rates are benchmarked to
+interna! engineering studies and known asset performance lives. Depreciation expense includes a component for
+the original cost of assets and a component for estimated cost of future removal, net of any salvage value at
+retirement. Upon retirement of components of the Company's network assets, the original cost of the retired
+assets, net of salvage value, is charged against accumulated depreciation, with no gain or loss recognised. The
+assessments of estimated useful economic lives and residual values of assets are performed annually.
+Unless otherwise determined by operational requirements, the depreciation periods for the principal categories of
+tangible fixed assets are, in general, as shown in the table below:
+
+Years
+
+Network assets - Fibres 15
+Network assets - other network assets 7
+Radio sites 40
+Other assets - land and buildings 40 to 60
+Other assets - vehicles 7 to 10
+Contributions received towards the cost of tangible fixed assets are included in trade and other payables as
+deferred income and credited on a straight-line basis to the profit and loss account over the estimated economic
+useful lives of the assets to which they relate. .
+Items within property, plant and equipment are tested for impairment only if there is some indication that the
+carrying value of the assets may have been impaired. Impairments of assets are calculated as the difference
+between the carrying value of the asset and the recoverable amount, if lower. Where such an asset does not
+generate cash flows that are independent from other assets, the recoverable amount of the cash-generating unit to
+which that asset belongs is estimated. Impairments are recognised in the profit and loss account and are disclosed
+separately. Any assets which suffered impairment in a previous period are reviewed for possible reversal of the
+impairment at each reporting date.
+Right-of-use assets
+The Company leases fibres and radio sites. New lease arrangements entered into are recognised as a right-of-use
+asset and a corresponding liability at the date at which the leased asset is available for use by the Company.
+The right-of-use asset and associated lease liability arising from a lease are initially measured at the present value
+of the lease payments expected over the lease term. The lease payments include fixed payments, any variable
+lease payments dependent on an index or a rate, and any break fees or renewal option costs that the Company is
+reasonably certain to incur. The discount rate applied is the rate implicit in the lease or, if that is not available, the
+incremental rate of borrowing for a similar term and similar security. This is determined based on observable data
+for borrowing rates for the Company, with specific adjustments for the term of the lease and any lease-specific risk
+premium. The lease term takes account of exercising any extension options that are at our option if we are
+reasonably certain to exercise the option and any lease termination options unless we are reasonably certain not
+to exercise the option. Each lease payment is allocated between the liability and finance cost. The finance cost is
+charged to the profit and loss account over the lease period using the effective interest rate method. The right-of-
+use asset is depreciated over the shorter of the asset's useful life and the lease term on a straight-line basis. For
+short-term leases (lease term of 12 months or less) and leases of low-value assets (such as computers), the
+Company continues to recognise a lease expense on a straight-line basis.
+National Grid Telecoms Limited 20 °
+
+=== page 23 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+1. Summary of significant accounting policies (continued)
+(d) Intangibles assets
+Identifiable intangible assets, other than goodwill, are recorded at cost less accumulated amortisation and any
+provision for impairment. Intangible assets are tested for impairment only if there is an indication that the carrying
+value of the assets may have been impaired. Impairments of assets are calculated as the difference between the
+carrying value of the asset and the recoverable amount, if lower. Where such an asset does not generate cash
+flows that are independent from other assets, the recoverable amount of the cash-generating unit to which that
+asset belongs is estimated. Impairments are recognised in the profit and loss account and are disclosed
+separately. Any assets which suffered impairment in a previous period are reviewed for possible reversal of the
+impairment at each reporting date.
+Internally generated intangible assets, such as software, are recognised only if: (i)'an asset is created that can be
+identified; (ii) it is probable that the asset created will generate future economic benefits; and (iii) the development
+cost of the asset can be measured reliably. Where no internally generated intangible asset can be recognised,
+development expenditure is recorded as an expense in the period in which it is incurred.
+The estimated useful life and amortisation method are reviewed at the end of each reporting period, with the effect
+of any changes in estimate being accounted for on a prospective basis. :
+Intangible assets are amortised on a straight-line basis over their estimated useful economic lives. Amortisation
+periods for categories of intangible assets are:
+
+Years
+
+Customer contracts 10 :
+Computer software 5 .
+Goodwill
+Goodwill is initially measured at cost, being the excess of the aggregate of the acquisition-date fair value of the
+consideration transferred over the net identifiable amounts of the assets acquired and the iiabilities assumed in
+exchange for the business combination.
+After initial recognition, goodwill is measured at cost less any accumulated impairment losses.
+For the purpose of impairment testing, goodwill acquired in a business combination is, from the acquisition date,
+allocated to each of the Company's cash-generating units (or groups of cash generating units) that are expected to
+benefit from the combination, irrespective of whether other assets or liabilities of the acquiree are assigned to
+those units. Each unit or group of units to which goodwill is allocated shall represent the lowest level within the
+entity at which the goodwill is monitored for internal management purposes and not be larger than an operating
+segment before aggregation.
+The UK Companies Act requires goodwill to be reduced by provisions for depreciation on a systematic basis over a
+period chosen by the directors, its useful economic life. However, under IFRS 3 Business Combinations goodwill is
+not amortised. Consequently, the Company does not amortise goodwill, but reviews it for impairment on an annual
+basis or whenever there are indicators of impairment. The Company is therefore invoking a ‘true and fair view
+override’ to overcome the prohibition on the non-amortisation of goodwill in the Companies Act. Had the Company
+amortised goodwill, a period of 20 years would have been chosen as its useful economic life and the goodwill
+would have been fully amortised last year.
+(e) Tax
+The tax charge for the period is recognised in the profit and loss account, the statement of comprehensive income
+or directly in equity, according to the accounting treatment of the related transaction. The tax charge comprises
+both current and deferred tax and are paid via another group company.
+Current tax assets and liabilities are measured at the amounts expected to be recovered from or paid to the tax
+authorities. The tax rates and tax laws used to compute the amounts are those that have been enacted or
+substantively enacted by the reporting date.
+Nationa! Grid Telecoms Limited 21
+
+=== page 24 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+1. Summary of significant accounting policies (continued)
+(e) Tax (continued)
+Deferred tax is provided using the balance sheet liability method and is recognised on temporary differences
+between the carrying amount of assets and liabilities in the financial statements and the corresponding tax bases.
+Deferred tax liabilities are generally recognised on all taxable temporary differences and deferred tax assets are
+recognised to the extent that it is probable that taxable profits will be available against which deductible temporary
+differences can be utilised. However, deferred tax assets and liabilities are not recognised if the temporary
+differences arise from the initial recognition of goodwill or from the initial recognition of other assets and liabilities in ~
+a transaction (other than a business combination) that affects neither the accounting nor the taxable profit or loss.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the
+asset is realised, based on the tax rates and tax laws that have been enacted or substantively enacted by the
+reporting date.
+The carrying amount of deferred tax assets is reviewed at each reporting date and reduced to the extent that it is
+no longer probable that sufficient taxable profits will be available to allow all or part of the deferred tax asset to be
+recovered. Unrecognised deferred tax assets are reassessed at each reporting date and are recognised to the
+extent that it has become probable that future taxable profits will allow the deferred tax asset to be recovered.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets
+against current tax liabilities and when they relate to income taxes levied by the same tax authority, and the
+Company intends to settle their current tax assets and liabilities on a net basis.
+(f) Financial instruments
+Under IFRS 9 the Company has reported the following financial assets and liabilities, and the classification for
+each is dependent upon its contractual cash flows and for financial assets the business model it is held under. All
+financial instruments are initially recognised on trade date.
+Financial assets that have contractual cash flows that are solely payments of principal and interest, and which are
+held within a business model whose objective is to collect contractual cash flows, are held at amortised cost.
+These instruments include amounts owed by other NGED undertakings, trade debtors, other debtors and accrued
+income. For impairment assessment purposes, amounts owed by other NGED undertakings individually assessed
+based on a review of solvency and liquidity arrangement. The expected credit loss for the year is Enil as these are
+subject to an insignificant risk of change in value.
+For trade debtors and other receivables,the Company applies IFRS 9's simplified approach to measuring expected
+credit losses which uses a lifetime expected loss allowance for all receivables.
+To measure the expected credit losses, debtors have been grouped based on the days past due. The expected
+credit loss rates are primarily based on historical credit losses experienced. The historical loss rates are then
+adjusted for forward looking information, if any, on macroeconomic factors affecting the ability of the customers to
+Pay.
+Financial liabilities are initially recognised at fair value. After initial recognition, financial liabilities are subsequently
+measured at amortised cost.
+Financial assets and liabilities are presented gross in the balance sheet unless both of the following criteria are
+met: the group currently has a legally enforceable right to set off the recognised amounts; and the Company
+intends to either settle on a net basis or realise the asset and settle the liability simultaneously. A right of set off is
+the Company’s legal right to settle an amount payable to a creditor by applying against it an amount receivable
+from the same counterparty. The relevant legal jurisdiction and laws applicable to the relationships between the
+parties are considered when assessing whether a current legally enforceable right to set off exists.
+(g) Lease Liabilities - IFRS 16
+Lease liabilities are initially measured at the present value of the lease payments expected over the lease term.
+The discount rate applied is the rate implicit in the lease or if that is not available, then the incremental rate of
+borrowing for a similar term and similar security. The lease term takes account of exercising any extension options
+that are at the Company's option if the Company is reasonably certain to exercise the option and any lease
+termination options unless the Company is reasonably certain not to exercise the option. Each lease payment is
+allocated between the liability and finance cost. The finance cost is charged to the profit and loss account over the
+lease period using the effective interest rate method.
+National Grid Telecoms Limited 22
+
+=== page 25 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+1. Summary of significant accounting policies (continued)
+(h) Pensions
+The Company participates in one defined benefit pension scheme, a section of the Electricity Supply Pension
+Scheme (‘ESPS'), to which most employees in the Group in the South West of England and South Wales belong,
+and which has approximately 8224 members. The ESPS is a group defined benefit pension plan that shares risks
+between entities under common control. In accordance with International Accounting standard (‘IAS') 19,
+Employee Benefits, the scheme has been accounted for as a defined benefit scheme by NGED South West and
+NGED South Wales as these businesses have legal responsibility for the plan. As there is no contractual
+arrangement or stated policy for charging the net defined benefit cost of the plan to individual group entities, the
+Company accounts for its ongoing contributions to the scheme as if it were a defined contribution scheme, and
+charges contributions to the profit and loss account as they become payable in accordance with the rules of the
+scheme. ,
+The ESPS is closed to new members. The Company also participates in a defined contribution scheme, the
+National Grid UK Retirement Plan ("NGUKRP"). Contributions to this scheme are charged to the profit and loss
+account as they become due.
+(i) Share Capital .
+Ordinary shares are classified as equity and are recorded at the par value of proceeds received, net of direct issue
+costs. Where shares are issued above par value, the proceeds in excess of par value are recorded in the share
+premium account.
+2. Turnover .
+Turnover represents continuing activities, all of which are considered to be one class of business. The Company
+operates wholly in the United Kingdom and thus all turnover is generated in the United Kingdom.
+Turnover includes lease income amounting to £2,091,654 (2025: £1,975,757).
+3. Operating expenses
+The directors consider that the nature of the business is such that the analysis of expenses shown below is more
+informative than that set out in the formats specified by the Companies Act 2006.
+2026 2025
+£'000 £'000
+Cost of sales ; ‘3,259 3,106
+Operating rent expense 4,712 4,990
+Staff costs (note 4) 10,325 9,061
+Transport, travel and subsistence 652 631
+Administration and other expenses 2,249 2,472
+Bad and doubtful debts 6 (2)
+Depreciation (note 8 and 9) 2,312 2,240
+Rent and rates 586 532
+24,101 23,030
+Administration and other expenses include an allocation of group central costs (including auditor's remuneration of
+£14,783 for the year ended 31 March 2026 (31 March 2025: £14,388) for auditing these financial statements.
+There were no non-audit fees in the current or prior period. :
+National Grid Telecoms Limited 23
+
+=== page 26 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+4. Staff costs
+(a) Employee costs
+2026 2025
+£'000 £'000
+Total employee costs for the period amounted to:
+Wages and salaries 7,957 6,881
+Pension costs (note 16) 1,551 1,525
+Social security costs 1,036 779
+Total employee costs 10,544 9,185
+Less allocated to capital expenditure (219) (124)
+Charged to the profit and loss account 10,325 9,061
+(b) Number of employees
+The average number of employees during the period was 111 (2025: 99). Employees are employed under
+contracts of service with affiliates; however, their time is substantially devoted to the Company.
+2026 2025
+£'000 £'000
+Commercial , 10 9
+Operations 101 90
+Total employees 111 99
+(c) Directors emoluments
+The directors did not directly receive remuneration in either the current period or the prior year for their services as
+directors of the Company as they are incidental to their roles elsewhere in the Group.
+5. Interest receivable
+2026 2025
+£'000 £'000
+On amounts owed by other NGED undertakings 274 175
+On restricted funds 95 116
+869201
+6. Interest payable
+. 2026 2025
+£'000 £'000
+Interest expense on leases 201 217
+National Grid Telecoms Limited 24
+
+=== page 27 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+7. Tax
+(a) Tax charged/(credited) to the profit and loss account:
+2026 2025
+£000 £'000
+Current tax:
+UK corporation tax on profits for the year (see below) 902 321
+Adjustment in respect of prior years (3) 35
+Reversal of prior year adjustments 22 42
+Total current tax 921 398
+Deferred tax:
+Origination and reversal of temporary differences 104 28
+Impact of change in tax rate (51) -
+Adjustment in respect of prior years - (26)
+Total deferred tax 53 2
+Tax charge in the profit and loss account : 974 400
+(b) Reconciliation of the total tax charge
+The tax charge for the year is higher (2025: higher) than the standard rate of corporation tax in the UK of 25%
+(2025: 25%). The differences are explained below:
+2026 2025
+£'000 £'000
+Profit before tax 3,669 1,133
+Profit before tax multiplied by the standard rate of corporation tax in the UK 917 283
+Effects of:
+Net expenses not deductible for tax purposes 88 66
+Adjustment in respect of prior years (32) 51
+Tax charged to equity 974 400
+Effective tax rate 26.5 % 35.3 %
+The mandatory exception to recognising and disclosing information about the deferred tax assets and liabilities
+related to Pillar Two income taxes has been applied as required by IAS 12. The Pillar Two global minimum
+corporation tax rate of 15% introduced by the Organisation for Economic Co-operation and Development ("OECD")
+was enacted into UK law on 11 July 2023 and was applicable to National Grid from 1 April 2024. Exposure to
+additional taxation under Pillar Two is immaterial to the Company
+National Grid Telecoms Limited 25
+
+=== page 28 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+8. Property, plant and equipment
+Network Other
+: assets Radio sites assets Total
+£'000 £'000 £'000 £'000
+Cost
+At 1 Apr 2025 14,677 2,143 3,301 20,121
+Additions 568 - 180 748
+Disposals (1,741) (14) (197) (1,952)
+At 31 Mar 2026 13,504 2,129 3,284 18,917
+Depreciation
+At 1 Apr 2025 9,096 681 1,464 11,241
+Charge for the year 1,333 16 233 1,581
+Disposals (1,741) (14) (197) (1,952)
+At 31 Mar 2026 8,688 682 1,500 10,870
+Net book value
+At 31 Mar 2026 4,816 1,447 1,784 8,047
+At 31 Mar 2025 5,581 1,462 1,837 8,880
+Network assets comprise mainly fibre optic cables and telecommunication equipment from which capacity is sold
+to customers under operating lease agreements (note 18). Certain items used within the business, such as
+computer equipment are owned by other Group companies for which the Company is charged.
+Other assets compromise mainly vehicles and property. The net book value of freehold land and buildings amounts
+to £293,000 and £346,000 respectively.
+9. Right-of-use-assets
+Radio Sites Fibres Total
+£'000 £'000 £000
+At 1 Apr 2024 112 4,677 4,789
+Additions 3 119 122
+Depreciation (36) (612) (648)
+At 31 Mar 2025 79 4,184 4,263
+At 1 Apr 2025 79 4,184 4,263
+Additions 891 36 927
+Depreciation (58) (639) (697)
+At 31 Mar 2026 912 3,581 4,493
+National Grid Telecoms Limited 26
+
+=== page 29 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34 :
+Notes to financial statements (continued) .
+For the year ended 31 March 2026
+10. Intangible assets
+Goodwill Contracts Software Total
+: £'000° £'000 £'000 £'000
+Cost
+At 1 Apr 2025 2,933 6,160 - 9,093
+Additions - - 398 398
+At 31 Mar 2026 2,933 6,160 398 9,491
+Amortisation
+At 1 Apr 2025 : 6,160 - 6,160
+Amortisation charge for the year - - 33 33
+At 31 Mar 2026 - 6,160 33 6,193
+Net book value:
+At 31 Mar 2026 2,933 - 365 3,298
+At 31 Mar 2025 2,933 - : 2,933
+Goodwill acquired through business combinations has been allocated to one cash-generating unit (CGU). This
+represents the lower level within the Company at which goodwill is monitored for internal management purposes.
+In assessing whether goodwill has been impaired, the carrying amount of the CGU (including goodwill) is
+compared with the recoverable amount of the CGU. The recoverable amount is the higher of fair value less costs
+to sell and value in use. In the absence of any information about the fair value of a CGU, the recoverable amount
+is deemed to be the value in use.
+The recoverable amount of the Company's CGU has been determined based on a value in use calculation using
+cash flow projections based on financial budgets reviewed by management covering a five-year period.
+The key assumptions for the value in use calculation are those regarding the discount rate, expected cash flows
+arising from revenues, direct costs, and capital expenditure during the period, and the growth rate used to
+extrapolate cash flows beyond the budget period.
+The discount rate applied to cash flow projections is 12.5% (2025: 12.0%).
+At 31 March 2026, the Company's recoverable amount exceeded its carrying amount by £15.71m (2025: £5.28m).
+Reduction in value in use
+2026
+Reasonable changes in key assumptions £'000
+1.0% increase in the discount rate to 13.5% 2,730
+1% decrease in terminal growth value to 1.0% at 31 March 2026 1,865
+4,595
+An increase in discount rate by 10.8% to 23.3% would cause goodwill to be impaired.
+Goodwill will not be impaired even at a 0% terminal value growth rate.
+National Grid Telecoms Limited 27
+
+=== page 30 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+11. Debtors :
+2026 2025
+£'000 £'000
+Amounts falling due within one year:
+Amounts owed by other NGED undertakings 5,363 -
+Loans receivable by ultimate parent company 4,893 6,049
+Trade debtors 624 723
+Value Added Tax 206 56
+Prepayments 2,087 1,481
+Accrued Income ; - 55
+13,173 8,364
+Amounts falling due after more than one year:
+Prepayments 271 427
+j 271 427
+Total trade and other receivables 13,444 8,791
+Amounts owed by other Group undertakings accrue interest at the Bank of England base rate applicable at the
+time and are unsecured and repayable on demand. The Bank of England rate has fluctuated throughout the
+period.
+Loan receivable from the ultimate parent company is the amount lent under the two-way loan agreement with
+National Grid Plc. The loan is unsecured and is repayable on demand. Interest is accrued on the balance at daily
+SONIA plus 0.25% margin. For impairment assessment purposes, such loans to group undertakings are
+considered low risk as the subsidiaries are solvent and are covered by the National Grid group's liquidity
+arrangements and as such the expected credit loss for the year is £nil.
+12. Investments
+Investments comprises of restricted cash at bank. The cash can be accessed on demand but is not readily
+available for the general purposes of the Company. This restriction relates to the minimum cash balances that are
+required to be maintained for regulatory purposes. The Company is required to ensure that sufficient funds are
+available to meet the Specified Liabilities which arise on or before the date on which a Relevant Event occurs or
+may arise at any time during the Liability Period from the exercise of rights conferred upon the Company by
+paragraph 9 of the Electronic Communications Code. :
+National Grid Telecoms Limited : 28
+
+=== page 31 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+13. Creditors
+2026 2025
+: £'000 £'000
+Amounts falling due within one year: ~
+Amounts owed to other NGED undertakings - 272
+Group tax relief payable . 898 356
+Trade creditors 1,447 176
+Lease liabilities (note 14) 1,054 948
+Other creditors 22 23
+Accruals i . 533 713
+Deferred income 3,883 3,422
+7,837 5,910
+Amounts falling due after one year: ‘
+Lease liabilities (note 14) . 3,090 3,060
+Deferred income 134 208
+3,224 3,268
+Total creditors 11,061 9,178
+Significant changes in the deferred income balances during the year are as follows:
+2026 2025
+£'000 £'000
+At 1 April 3,630 3,794
+Revenue recognised during the period (3,422) (3,523)
+Increase due to billed/cash received in the year excluding amounts
+recognised during the period 3,809 3,359
+At 31 March 4,017 3,630
+14, Lease Liabilities
+. 2026 2025
+£'000 £'000
+At 1 April : . 4,008 4,605
+Additions during the year 927 122
+Payments during the year (992) (936)
+Interest expense 201 217
+At 31 March 4,144 4,008
+of which:
+
+Current 1,054 948
+Non-current 3,090 3,060
+nn i +
+National Grid Telecoms Limited 29
+
+=== page 32 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+14. Lease Liabilities (continued) .
+The Company leases in rights to capacity on third party fibre optic networks, and space and equipment at third
+party telecommunication sites, under non-cancellable operating lease arrangements, in order to extend its core
+fibre network for its point to point transmission services. The leases have various terms, escalation clauses and
+renewable rights. Lease terms and rentals to be paid during the lease term are defined within the agreement. In
+some cases, lease rentals may be subject to a_ rent review on dates specified within the agreement at the
+prevailing market rate. Future minimum rentals payable are determined based on the remaining non-cancellable
+lease term and current rentals agreed as per the latest rent review.
+Short-term leases are excluded from recognition on the balance sheet. The amount of expense charged to
+operating rent expense pertaining to short term leases amounts to £185,000 for the year ended 31 March 2026
+(2025: £199,000). .
+Maturity analysis of lease liabilities is as below:
+2026 2025
+£'000 £'000
+Gross lease liabilities are repayable as follows:
+Less than 1 year 1,068 960
+1 to 5 years 3,096 3,517
+More than 5 years 560 4
+4,724 4,481
+Less: finance charges allocated to future years (581) (473)
+4,143 4,008
+Present value of lease liabilities are as follows:
+Less than 1 year 1,054 948
+1 to 5 years 3,090 3,060
+More than 5 years - -
+4,144 4,008
+15. Provision for liabilities
+Deferred taxation
+2026 2025
+£000 £'000
+At 1 April 641 639
+Charge to profit and loss account (refer note 7(a)) 53 2
+At 31 March 694 641
+National Grid Telecoms Limited 30
+
+=== page 33 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-22770A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+16. Pension commitments
+Defined benefit scheme
+The Company participates in one defined benefit pension scheme, a section of the ESPS, to which most
+employees in the Group in the South West of England and South Wales belong, and which has approximately
+8,224 members. The ESPS is a group defined benefit pension plan that shares risks between entities under
+common control. The ESPS is closed to new members.
+There is no contractual agreement or stated policy for charging the net defined benefit cost and, therefore, NGED
+(South West) and NGED (South Wales), fellow subsidiaries of the Company that are jointly responsible for the
+scheme, recognise the whole of the scheme surplus or deficit in their financial statements, allocated in accordance
+with pensionable salaries. In accordance with IAS 19 (Revised 2011), the Company recognises a cost equal to its
+contribution payable for the period, which in the year ended 31 March 2026 was £950,000 (2025: £1,080,000).
+Further details of the Group defined benefit scheme are disclosed in the consolidated financial statements of
+National Grid Electricity pic which are available as disclosed in note 20 below.
+Defined contribution plan
+The Company also participates in a defined contribution scheme, the National Grid UK Retirement Plan
+("NGUKRP"). The assets of the scheme are held separately from those of the Company in funds under the control
+of trustees. The total cost charged to income of £601,000 (2025: £450,000) represents contributions payable to
+this scheme by the Company at rates specified in the rules of the plan.
+17. Share capital
+2026 2025
+£'000 £'000
+Allotted, called up and fully paid:
+9,717,002 (2025: 9,717,002) ordinary shares of £1 each 9,717 9,717
+The shares entitle the holders thereof to one vote per share held. Each share ranks equally for any dividend
+declared and any distribution made on a winding up. The shares are not redeemable. All shares are held by
+National Grid Electricity Distribution Network Holdings Limited.
+National Grid Telecoms Limited 31
+
+=== page 34 ===
+Docusign Envelope ID: 822AE9B0-3AE8-8A8E-8357-227 70A786F 34
+Notes to financial statements (continued)
+For the year ended 31 March 2026
+18. Capital and other commitments
+Capital Commitments
+2026 2025
+£'000 £'000
+Contracts for future capital expenditure not provided in the financial statements 10 197
+: Operating lease commitments - Company as lessor
+The Company leases out rights to capacity on its fibre optic network. The leases have a lease term between 2 to
+18 years and have various terms, escalation clauses and renewable rights.
+The Company had the following future minimum lease payments under non-cancellable operating leases foreach ~
+of the following periods:
+2026 2025
+: £'000 £'000
+Less than 1 year 1,493 924
+In 2 to 5 years 4,095 2,380
+More than 5 years 435 362
+eee 60238666
+19. Events after reporting date
+There have been no significant events affecting the Company after the reporting period.
+20. Ultimate parent undertaking
+The immediate parent undertaking of the Company is National Grid Electricity Distribution Network Holdings
+Limited, which is registered in England and Wales. The ultimate controlling parent of the Company is National Grid
+Plc, registered in England and Wales.
+The smallest group in which the results of the Company are consolidated is headed by National Grid Electricity
+Distribution Pic. Copies of these financial statements may be obtained from the Company's registered office at
+Avonbank, Feeder Road, Bristol BS2 OTB.
+The largest group which includes the Company and for which consolidated financial statements are prepared is
+National Grid Plc, registered in England and Wales. Copies of these consolidated financial statements can be
+obtained from the Company Secretary National Grid Pic, 1-3 Strand, London, WC2N 5EH, or on our company
+website, http://investors.nationalgrid.com.
+National Grid Telecoms Limited 32
+

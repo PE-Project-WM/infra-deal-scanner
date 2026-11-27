@@ -9,7 +9,7 @@ import pandas as pd
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 S = json.load(open(f'{ROOT}/config/sectors.json'))['sectors']
-C = json.load(open(f'{ROOT}/config/criteria_digital_infra.json'))
+from settings import C
 ids = {s['id'] for s in S}
 code_to_sector = {code: s['id'] for s in S for code in s['sic_fallback']}
 label_to_code = {v: k for k, v in C['segments'].items()}   # 'Satellite networks' -> '61300'

@@ -1,0 +1,2468 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+2025-05-31
+2025-05-31
+241158
+111048
+169
+false
+2024-06-01
+315
+false
+false
+false
+10174559
+2024-06-01
+2025-05-31
+10174559
+2023-06-01
+2024-05-31
+10174559
+2025-05-31
+10174559
+2024-05-31
+10174559
+2023-06-01
+10174559
+1
+2024-06-01
+2025-05-31
+10174559
+1
+2023-06-01
+2024-05-31
+10174559
+2
+2024-06-01
+2025-05-31
+10174559
+2
+2023-06-01
+2024-05-31
+10174559
+3
+2024-06-01
+2025-05-31
+10174559
+3
+2023-06-01
+2024-05-31
+10174559
+4
+2024-06-01
+2025-05-31
+10174559
+4
+2023-06-01
+2024-05-31
+10174559
+5
+2024-06-01
+2025-05-31
+10174559
+5
+2023-06-01
+2024-05-31
+10174559
+1
+2024-06-01
+2025-05-31
+=== page 2 ===
+10174559
+e:CompanySecretary1
+2024-06-01
+2025-05-31
+10174559
+e:Director1
+2024-06-01
+2025-05-31
+10174559
+e:Director1
+2025-05-31
+10174559
+e:Director2
+2024-06-01
+2025-05-31
+10174559
+e:RegisteredOffice
+2024-06-01
+2025-05-31
+10174559
+d:PlantMachinery
+2024-06-01
+2025-05-31
+10174559
+d:PlantMachinery
+2025-05-31
+10174559
+d:PlantMachinery
+2024-05-31
+10174559
+d:PlantMachinery
+d:OwnedOrFreeholdAssets
+2024-06-01
+2025-05-31
+10174559
+d:MotorVehicles
+2024-06-01
+2025-05-31
+10174559
+d:MotorVehicles
+2025-05-31
+10174559
+d:MotorVehicles
+2024-05-31
+10174559
+d:MotorVehicles
+d:OwnedOrFreeholdAssets
+2024-06-01
+2025-05-31
+10174559
+d:FurnitureFittings
+2024-06-01
+2025-05-31
+10174559
+d:FurnitureFittings
+2025-05-31
+10174559
+d:FurnitureFittings
+2024-05-31
+10174559
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2024-06-01
+2025-05-31
+10174559
+d:ComputerEquipment
+2024-06-01
+2025-05-31
+10174559
+d:ComputerEquipment
+=== page 3 ===
+2025-05-31
+10174559
+d:ComputerEquipment
+2024-05-31
+10174559
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2024-06-01
+2025-05-31
+10174559
+d:OwnedOrFreeholdAssets
+2024-06-01
+2025-05-31
+10174559
+d:CurrentFinancialInstruments
+2025-05-31
+10174559
+d:CurrentFinancialInstruments
+2024-05-31
+10174559
+d:Non-currentFinancialInstruments
+2025-05-31
+10174559
+d:Non-currentFinancialInstruments
+2024-05-31
+10174559
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2025-05-31
+10174559
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-05-31
+10174559
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2025-05-31
+10174559
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2024-05-31
+10174559
+d:ReportableOperatingSegment1
+2024-06-01
+2025-05-31
+10174559
+d:ReportableOperatingSegment1
+2023-06-01
+2024-05-31
+10174559
+d:ReportableOperatingSegment2
+2024-06-01
+2025-05-31
+10174559
+d:ReportableOperatingSegment2
+2023-06-01
+2024-05-31
+10174559
+d:ShareCapital
+2024-06-01
+2025-05-31
+10174559
+d:ShareCapital
+2025-05-31
+10174559
+d:ShareCapital
+2023-06-01
+2024-05-31
+10174559
+d:ShareCapital
+=== page 4 ===
+2024-05-31
+10174559
+d:ShareCapital
+2023-06-01
+10174559
+d:RetainedEarningsAccumulatedLosses
+2024-06-01
+2025-05-31
+10174559
+d:RetainedEarningsAccumulatedLosses
+2025-05-31
+10174559
+d:RetainedEarningsAccumulatedLosses
+2023-06-01
+2024-05-31
+10174559
+d:RetainedEarningsAccumulatedLosses
+2024-05-31
+10174559
+d:RetainedEarningsAccumulatedLosses
+2023-06-01
+10174559
+d:AcceleratedTaxDepreciationDeferredTax
+2025-05-31
+10174559
+d:AcceleratedTaxDepreciationDeferredTax
+2024-05-31
+10174559
+d:TaxLossesCarry-forwardsDeferredTax
+2025-05-31
+10174559
+d:TaxLossesCarry-forwardsDeferredTax
+2024-05-31
+10174559
+e:OrdinaryShareClass1
+2024-06-01
+2025-05-31
+10174559
+e:OrdinaryShareClass1
+2025-05-31
+10174559
+e:OrdinaryShareClass1
+2024-05-31
+10174559
+e:OrdinaryShareClass3
+2024-06-01
+2025-05-31
+10174559
+e:OrdinaryShareClass3
+2025-05-31
+10174559
+e:OrdinaryShareClass3
+2024-05-31
+10174559
+e:OrdinaryShareClass4
+2024-06-01
+2025-05-31
+10174559
+e:OrdinaryShareClass4
+2025-05-31
+10174559
+e:OrdinaryShareClass4
+2024-05-31
+10174559
+e:FRS102
+2024-06-01
+2025-05-31
+10174559
+e:Audited
+2024-06-01
+=== page 5 ===
+2025-05-31
+10174559
+e:FullAccounts
+2024-06-01
+2025-05-31
+10174559
+e:PrivateLimitedCompanyLtd
+2024-06-01
+2025-05-31
+10174559
+d:WithinOneYear
+2025-05-31
+10174559
+d:WithinOneYear
+2024-05-31
+10174559
+d:BetweenOneFiveYears
+2025-05-31
+10174559
+d:BetweenOneFiveYears
+2024-05-31
+10174559
+d:HirePurchaseContracts
+d:WithinOneYear
+2025-05-31
+10174559
+d:HirePurchaseContracts
+d:WithinOneYear
+2024-05-31
+10174559
+d:HirePurchaseContracts
+d:BetweenOneFiveYears
+2025-05-31
+10174559
+d:HirePurchaseContracts
+d:BetweenOneFiveYears
+2024-05-31
+10174559
+2
+2024-06-01
+2025-05-31
+10174559
+13
+2024-06-01
+2025-05-31
+10174559
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2025-05-31
+10174559
+d:MotorVehicles
+d:LeasedAssetsHeldAsLessee
+2024-05-31
+10174559
+d:LeasedAssetsHeldAsLessee
+2025-05-31
+10174559
+d:LeasedAssetsHeldAsLessee
+2024-05-31
+10174559
+f:PoundSterling
+2024-06-01
+2025-05-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 
+10174559
+NANO FIBRE UK LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+=== page 6 ===
+FOR THE YEAR ENDED
+31 MAY 2025
+NANO FIBRE UK LIMITED
+COMPANY INFORMATION
+Directors
+Dirk Coetzee Mostert
+Wilhelm Petrus Strumpher
+Company secretary
+Wilhelm Petrus Strumpher
+Registered number
+10174559
+Registered office
+The Granary Lutterworth Road
+Gilmorton
+Lutterworth
+England
+LE17 5NY
+Independent auditors
+Clive Owen LLP
+Chartered Accountants & Statutory Auditors
+Oak Tree House, Harwood Road
+Northminster Business Park
+York
+England
+YO26 6QU
+Accountants
+Finovate Advisory Limited
+18 Queen Square
+Bath
+Bath and North East Somerset
+England
+BA1 2HN
+NANO FIBRE UK LIMITED
+CONTENTS
+Page
+Strategic report
+1 - 2
+Directors' report
+3 - 5
+Directors' responsibilities statement
+6
+Independent auditors' report
+7 - 11
+Balance sheet
+12 - 13
+Statement of comprehensive income
+14
+Statement of changes in equity
+15 - 16
+Statement of cash flows
+17
+Analysis of net debt
+18
+Notes to the financial statements
+19 - 40
+NANO FIBRE UK LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 MAY 2025
+Introduction
+Nano Fibre UK Limited (“the Company”) presents its Strategic Report for the year ended 31 May 2025. The report provides a fair review of the business, an analysis of performance using financial and other key performance indicators, and outlines the principal risks and uncertainties facing the Company.
+Business review
+The Company continued to operate in the wireless telecommunications and engineering consultancy sector.
+Turnover increased to £21.9 million (2024: £9.9 million), driven by new client contracts and the expansion of technical services. Gross profit rose to £5.59 million (2024: £3.32 million).
+Administrative expenses increased to £5.25 million (2024: £3.38 million) due to higher recruitment, relocation and training costs linked to operational expansion. Despite the increased cost base, the Company achieved a profit before tax of £144,758 (2024: loss £171,422) and a profit after tax of £457,830 following recognition of a deferred tax credit.
+Net cash used in operating activities amounted to £0.15 million (2024: inflow £0.57 million), primarily reflecting increased working capital requirements arising from growth. Capital expenditure during the year totalled £0.43 million (2024: £0.45 million), principally in operational vehicles and equipment.
+The Company had an average of 315 employees during the year (2024: 169), reflecting significant scaling of operations.
+Principal risks and uncertainties
+The directors identify the following key risks:
+• Market risk – fluctuations in demand from the telecoms and technology sectors;
+• Operational risk – maintaining service quality while scaling capacity;
+=== page 7 ===
+• Credit risk – increased exposure as trade debtors rose to £1.7 million;
+• Liquidity risk – management of working capital, finance lease obligations and shareholder funding arrangements in light of the Company’s net liability position. The directors closely monitor cash flow forecasts and funding facilities to ensure the Company is able to meet its obligations as they fall due;
+• Regulatory and compliance risk – ensuring full adherence to telecom, data-protection, and safety legislation.
+The Company actively monitors these risks through financial forecasting, customer credit assessments, and continual internal-control review.
+Financial key performance indicators
+To assess performance and business health, the directors monitor several key performance indicators:
+• Revenue growth – +121% (£21.9 m vs £9.9 m)
+• Gross margin – 25.5% (2024: 33.5 %)
+• Operating margin – 1.8% (2024: -0.6%)
+• Current ratio – 0.70 (2024: 0.87)
+• Employee growth – +86% (315 employees vs 169)
+These metrics confirm strong top-line growth, margin compression during scale-up, and ongoing liquidity management.
+Page 1
+NANO FIBRE UK LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2025
+Other key performance indicators
+• Health & Safety – £148k invested in training and compliance programmes.
+• Staff Development – £464k spent on training; continued focus on technical upskilling.
+• Environmental Impact – implementation of waste-reduction and energy-efficient equipment initiatives.
+• Employee Engagement – promotion of diversity, inclusion, and equal-opportunity policies across the workforce.
+This report was approved by the board
+ and signed on its behalf
+.
+Wilhelm Petrus Strumpher
+Director
+Dirk Coetzee Mostert
+Director
+27 February 2026
+Page 2
+NANO FIBRE UK LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 MAY 2025
+The 
+directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 May 2025
+.
+Principal activity
+Nano Fiber UK Limited is a private company, limited by shares, domiciled and incorporated in England and Wales. The Company address of its registered office of business is The Granary Lutterworth Road, Gilmorton, Lutterworth, England, LE17 5NY. The Company's trading address is the same as the registration address. Company registration number 10174559.
+The principal activity of the company is in wireless telecommunications activities and engineering related scientific and technical consulting activities.
+The financial statements are prepared in Pounds Sterling as this is the functional current of the economic
+environment in which the Company operates.
+Monetary amounts in these financial statements are rounded to the nearest Pound.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+457,830
+ (2024 - 
+loss 
+£
+171,422
+)
+.
+Full details of the balance sheet, results of operations and cash flow of the company are set out in these financial statements.
+Dividends totalling £1,057,314 were declared during the year (2024: £266,428). At the balance sheet date £1,323,742 remained unpaid and is included within creditors.
+Purchase and cancellation of shares
+During the year, the Company redeemed and cancelled 1,800 Redeemable Preference Shares of £100 each in accordance with a board resolution dated 26 August 2024. The total nominal value of the shares cancelled was £180,000 and consideration of £180,000 was paid to the shareholder. No premium was payable on redemption.
+The redemption was undertaken as part of a restructuring of the Company’s share capital.
+Directors
+=== page 8 ===
+The 
+directors
+ who served during the 
+year
+and to date of this report were:
+Dirk Coetzee Mostert
+(appointed 
+1 December 2024
+)
+Wilhelm Petrus Strumpher
+Political donations and expenditure
+No political donations and expenditure have been incurred during the current or prior year.
+Page 3
+NANO FIBRE UK LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2025
+Principal risks and uncertainties
+The directors identify the following key risks:
+• Market risk – fluctuations in demand from the telecoms and technology sectors;
+• Operational risk – maintaining service quality while scaling capacity;
+• Credit risk – increased exposure as trade debtors rose to £1.7 million;
+• Liquidity risk – management of working capital, finance lease obligations and shareholder funding arrangements in light of the Company’s net liability position. The directors closely monitor cash flow forecasts and funding facilities to ensure the Company is able to meet its obligations as they fall due;
+• Regulatory and compliance risk – ensuring full adherence to telecom, data-protection, and safety legislation.
+The Company actively monitors these risks through financial forecasting, customer credit assessments, and continual internal-control review.
+Going Concern
+The financial statements have been prepared on the basis of accounting policies applicable to a going concern. This basis presumes that funds will be available to finance operations and that the realisation of assets and settlement of liabilities, contingent obligations and commitments will occur in the ordinary course of business. 
+The directors believe that the company has adequate financial resources to continue in operation for the foreseeable future and accordingly the financial statements have been prepared on a going concern basis. The directors have satisfied themselves that the company is in a sound financial position and that it has access to sufficient borrowing facilities to meet its foreseeable cash requirements. The directors are not aware of any new material changes that may adversely impact the company. The directors are also not aware of any material non-compliance with statutory or regulatory requirements or of any pending changes to legislation which may affect the company.
+Future developments
+Management intends to continue expanding the company’s telecommunications engineering services and develop strategic partnerships in fibre network infrastructure. Focus will remain on technological innovation and sustainable growth in the UK market.
+Research and development activities
+The company continues to invest in research and development activities aimed at improving the efficiency of wireless network solutions and developing proprietary engineering methodologies. Expenditure is recognised as incurred.
+Engagement with employees
+The directors value open communication and employee engagement across all levels of the organisation. Regular team briefings, internal communications, and feedback channels enable staff participation in operational and strategic decision-making.
+During the year, the directors considered employee welfare and development a key factor in strategic decisions, particularly relating to training, relocation, and workplace safety initiatives. The company remains committed to fostering inclusion, professional growth, and transparent dialogue with its workforce.
+Page 4
+NANO FIBRE UK LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2025
+Engagement with suppliers, customers and others
+Short term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+Employment of disabled persons
+The company is committed to equal opportunities. Policies ensure disabled persons are given fair consideration in the workplace. 
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+ aware of that information.
+Post balance sheet events
+Subsequent to the year end, Advencap Fibre Partnership 1LP acquired a 20% equity interest in the Company in accordance with a shareholder agreement entered into after 31 May 2025. The transaction resulted in a change in the ownership structure of the Company.
+As the transaction occurred after the reporting date, no adjustment has been made to the financial statements for the year ended 31 May 2025. The directors consider the transaction to be material to users of the financial statements and therefore have disclosed it in accordance with FRS 102.
+=== page 9 ===
+Auditors
+The auditors, Clive Owen LLP, are deemed to be reappointed under section 487(2) of the Companies Act 2006.
+This report was approved by the 
+board
+ on 
+27 February 2026
+ and signed on 
+its
+ behalf.
+Wilhelm Petrus Strumpher
+Director
+Dirk Coetzee Mostert
+Director
+Page 5
+NANO FIBRE UK LIMITED
+DIRECTORS' RESPONSIBILITIES STATEMENT
+FOR THE YEAR ENDED 31 MAY 2025
+The 
+directors
+are
+ responsible for preparing the
+ Strategic report, the Directors' report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+=== page 10 ===
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 6
+NANO FIBRE UK LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NANO FIBRE UK LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Nano Fibre UK Limited (the 'Company')
+ for the 
+year
+ ended 
+31 May 2025
+, which comprise 
+Statement of Comprehensive Income, Balance Sheet, Statement of Changes in Equity, Cash Flow Statement and Notes to the Cash Flow Statement, Notes to the Financial Statements
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 May 2025
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+=== page 11 ===
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Page 7
+NANO FIBRE UK LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NANO FIBRE UK LIMITED (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Strategic Report and the Report of Directors
+ other than the financial statements and 
+our
+Auditors' report
+ thereon. The 
+directors
+are
+ responsible for the other information contained within the 
+Strategic Report and the Report of Directors
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+=== page 12 ===
+the information given in the 
+Strategic report and the Directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic report and the Directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic report or the Directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+; or
+∙
+the 
+directors
+were
+ not entitled to prepare the 
+financial statements
+ in accordance with the small companies regime
+Page 8
+NANO FIBRE UK LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NANO FIBRE UK LIMITED (CONTINUED)
+Responsibilities of directors
+As explained more fully in the 
+Directors' responsibilities statement
+ set out on page 6, the 
+directors
+=== page 13 ===
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or 
+have
+ no realistic alternative but to do so.
+Page 9
+NANO FIBRE UK LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NANO FIBRE UK LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+We undertake the following procedures to identify and respond to these risks of non-compliance:
+• Understanding the key legal and regulatory frameworks that are applicable to the Company. We communicated identified laws and regulations throughout the audit team and remained alert to any indications of noncompliance throughout the audit. We determined the most significant of these to be financial reporting legislation, taxation legislation, health & safety, and employment law.
+• Enquiry of directors and management as to policies and procedures to ensure compliance and any known instances of non-compliance. No material non compliance was identified.
+• Review of board minutes and correspondence with regulators.
+• Enquiry of directors and management as to areas of the financial statements susceptible to fraud and how these risks are managed. No instances of fraud or suspected fraud were identified.
+• Challenging management on key estimates, assumptions and judgements made in the preparation of the financial statements. No areas of significant estimation uncertainty identified.
+• Identifying and testing unusual journal entries, with a particular focus on manual journal entries.
+We planned and performed our audit in accordance with auditing standards but owing to the inherent limitations of procedures required in these areas, there is an unavoidable risk that we may not have detected a material misstatement in the accounts. The further removed non-compliance with laws and regulations is from the events and transactions reflected in the financial statements, the less likely we would become aware of it. The risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve concealment, collusion, forgery, misrepresentations, or override of internal controls. We are not responsible for preventing non-compliance and cannot be expected to detect non-compliance with all laws and regulations.
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditors' report
+.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+=== page 14 ===
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Page 10
+NANO FIBRE UK LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NANO FIBRE UK LIMITED (CONTINUED)
+Phillipa Symington ACA CA(SA)
+ (Senior statutory auditor)
+for and on behalf of
+Clive Owen LLP
+Chartered Accountants & Statutory Auditors
+Oak Tree House, Harwood Road
+Northminster Business Park
+York
+England
+YO26 6QU
+27 February 2026
+Page 11
+NANO FIBRE UK LIMITED
+REGISTERED NUMBER: 
+10174559
+BALANCE SHEET
+AS AT 
+31 MAY 2025
+2025
+2024
+Restated
+Note
+£
+£
+Fixed assets
+Tangible assets
+4
+1,214,549
+1,214,355
+1,214,549
+1,214,355
+Current assets
+Stocks
+5
+118,619
+59,393
+Debtors
+6
+2,356,370
+836,292
+Cash at bank and in hand
+=== page 15 ===
+8
+231,329
+224,753
+2,706,318
+1,120,438
+Creditors: amounts falling due within one year
+9
+(
+3,858,914
+)
+(
+1,293,894
+)
+Net current liabilities
+(
+1,152,596
+)
+(
+173,456
+)
+Total assets less current liabilities
+61,953
+1,040,899
+Creditors: amounts falling due after more than one year
+10
+(
+1,815,326
+)
+(
+2,016,688
+)
+Net liabilities
+(
+1,753,373
+)
+(
+975,789
+)
+Capital and reserves
+Called up share capital 
+12
+552,000
+730,100
+Profit and loss account
+13
+(
+2,305,373
+)
+(
+1,705,889
+)
+(
+1,753,373
+)
+(
+975,789
+)
+Page 12
+NANO FIBRE UK LIMITED
+REGISTERED NUMBER: 
+10174559
+BALANCE SHEET
+ (CONTINUED)
+AS AT 
+31 MAY 2025
+The
+ Company's 
+financial statements
+ have been prepared in accordance with the provisions applicable to companies subject to the 
+small companies regime
+=== page 16 ===
+.
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ on
+27 February 2026
+.
+Wilhelm Petrus Strumpher
+Dirk Coetzee Mostert
+Director
+Director
+The notes on pages 19 to 40 form part of these financial statements.
+Page 13
+NANO FIBRE UK LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 MAY 2025
+2025
+2024
+Restated
+Note
+£
+£
+Turnover
+14
+21,934,414
+9,909,006
+Cost of sales
+(
+16,344,966
+)
+(
+6,587,272
+)
+Gross profit
+5,589,448
+3,321,734
+Administrative expenses
+(
+5,251,610
+)
+(
+3,382,710
+)
+Other operating income
+15
+46,763
+-
+Operating profit/(loss)
+384,601
+(
+60,976
+)
+Interest receivable and similar income
+16
+1,315
+433
+Interest payable and similar expenses
+17
+(
+241,158
+)
+(
+110,879
+)
+Profit/(loss) before tax
+=== page 17 ===
+144,758
+(
+171,422
+)
+Tax on profit/(loss)
+21
+313,072
+-
+Profit/(loss) for the financial year
+457,830
+(
+171,422
+)
+Other comprehensive income for the year
+Total comprehensive income for the year
+457,830
+(
+171,422
+)
+The notes on pages 19 to 40 form part of these 
+financial statements
+.
+Page 14
+NANO FIBRE UK LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 MAY 2025
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 June 2023
+730,100
+(
+1,268,039
+)
+(
+537,939
+)
+Comprehensive income for the year
+Loss for the year
+-
+(
+171,422
+)
+(
+171,422
+)
+Other comprehensive income for the year
+-
+-
+-
+Total comprehensive income for the year
+-
+(
+171,422
+)
+(
+171,422
+)
+Contributions by and distributions to owners
+Preference dividend - declared not paid
+-
+(
+266,428
+)
+(
+266,428
+=== page 18 ===
+)
+Total transactions with owners
+-
+(
+266,428
+)
+(
+266,428
+)
+At 1 June 2024
+730,100
+(
+1,705,889
+)
+(
+975,789
+)
+Comprehensive income for the year
+Profit for the year
+-
+457,830
+457,830
+Other comprehensive income for the year
+-
+-
+-
+Total comprehensive income for the year
+-
+457,830
+457,830
+Contributions by and distributions to owners
+Page 15
+NANO FIBRE UK LIMITED
+STATEMENT OF CHANGES IN EQUITY (CONTINUED)
+FOR THE YEAR ENDED 
+31 MAY 2025
+Preference dividend - declared not paid
+-
+(
+1,057,314
+)
+(
+1,057,314
+)
+Shares issued during the year
+1,900
+-
+1,900
+Shares cancelled during the year
+(
+180,000
+)
+-
+(
+180,000
+)
+Total transactions with owners
+(
+178,100
+)
+(
+1,057,314
+)
+(
+1,235,414
+)
+At 31 May 2025
+552,000
+(
+2,305,373
+=== page 19 ===
+)
+(
+1,753,373
+)
+The notes on pages 19 to 40 form part of these 
+financial statements
+.
+Page 16
+NANO FIBRE UK LIMITED
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 MAY 2025
+2025
+2024
+£
+£
+Cash flows from operating activities
+Profit/(loss) for the financial year
+457,830
+(
+171,422
+)
+Adjustments for:
+Depreciation of tangible assets
+390,192
+418,153
+Loss on disposal of tangible assets
+36,463
+-
+Interest paid
+241,158
+111,048
+Interest received
+(
+1,315
+)
+(
+433
+)
+(Increase)/decrease in stocks
+(
+59,227
+)
+46,545
+Increase in debtors
+(
+1,698,175
+)
+(
+488,905
+)
+Increase in creditors
+478,535
+656,533
+Net cash generated from operating activities
+(
+154,539
+)
+571,519
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+426,851
+)
+(
+446,057
+)
+Interest received
+1,315
+433
+Net cash from investing activities
+=== page 20 ===
+(
+425,536
+)
+(
+445,624
+)
+Cash flows from financing activities
+Movement in HP contracts
+858,211
+39,765
+Interest paid
+(126,167
+)
+(11,580
+)
+HP interest paid
+(114,991
+)
+(99,468
+)
+Net cash used in financing activities
+617,053
+(
+71,283
+)
+Net increase in cash and cash equivalents
+36,978
+54,612
+Cash and cash equivalents at beginning of year
+192,766
+138,154
+Cash and cash equivalents at the end of year
+229,744
+192,766
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+231,329
+224,753
+Bank overdrafts
+(
+1,585
+)
+(
+31,987
+)
+229,744
+192,766
+The notes on pages 19 to 40 form part of these 
+financial statements
+.
+Page 17
+NANO FIBRE UK LIMITED
+ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 31 MAY 2025
+At 1 June 2024
+Cash flows
+Other non-cash changes
+At 31 May 2025
+£
+£
+£
+£
+Cash at bank and in hand
+224,753
+6,576
+-
+231,329
+Bank overdrafts
+(31,987
+)
+=== page 21 ===
+30,402
+-
+(1,585
+)
+Debt due after 1 year
+-
+-
+(1,000,000
+)
+(1,000,000
+)
+Debt due within 1 year
+(1,046,771
+)
+(5,045
+)
+1,000,000
+(51,816
+)
+Finance leases
+(1,039,527
+)
+188,266
+-
+(851,261
+)
+(1,893,532
+)
+220,199
+-
+(1,673,333
+)
+The notes on pages 19 to 40 form part of these 
+financial statements
+.
+Page 18
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+1.
+General information
+Nano Fiber UK Limited is a private company, limited by shares, domiciled and incorporated in England and Wales. The Company address of its registered office of business is The Granary Lutterworth Road, Gilmorton, Lutterworth, England, LE17 5NY. The Company's trading address is the same as the registration address. Company registration number 10174559.
+The principal activity of the company is in wireless telecommunications activities and engineering related scientific and technical consulting activities.
+The financial statements are prepared in Pounds Sterling as this is the functional current of the economic
+environment in which the Company operates.
+Monetary amounts in these financial statements are rounded to the nearest Pound.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgment
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+=== page 22 ===
+2.2
+Going concern
+The financial statements have been prepared on the basis of accounting policies applicable to a going concern. This basis presumes that funds will be available to finance operations and that the realisation of assets and settlement of liabilities, contingent obligations and commitments will occur in the ordinary course of business. 
+The directors believe that the company has adequate financial resources to continue in operation for the foreseeable future and accordingly the financial statements have been prepared on a going concern basis. The directors have satisfied themselves that the company is in a sound financial position and that it has access to sufficient borrowing facilities to meet its foreseeable cash requirements. The directors are not aware of any new material changes that may adversely impact the company. The directors are also not aware of any material non-compliance with statutory or regulatory requirements or of any pending changes to legislation which may affect the company.
+Page 19
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+2.
+Accounting policies (continued)
+2.3
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Statement of comprehensive income
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+2.4
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Sale of goods
+Revenue
+ from the sale of goods is recognised when all of the following conditions are satisfied:
+∙
+the 
+Company
+ has transferred the significant risks and rewards of ownership to the buyer;
+∙
+the 
+Company
+ retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold;
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the transaction; and
+∙
+the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+=== page 23 ===
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+Page 20
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+2.
+Accounting policies (continued)
+2.5
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.6
+Leased assets: the Company as lessee
+Assets obtained under hire purchase contracts and finance leases are capitalised as tangible fixed assets. Assets acquired by finance lease are depreciated over the shorter of the lease term and their useful lives. Assets acquired by hire purchase are depreciated over their useful lives. Finance leases are those where substantially all of the benefits and risks of ownership are assumed by the company. Obligations under such agreements are included in creditors net of the finance charge allocated to future periods. The finance element of the rental payment is charged to profit or loss so as to produce a constant periodic rate of charge on the net obligation outstanding in each period.
+2.7
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.9
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the 
+year
+ in which they are incurred.
+2.10
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+Page 21
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+2.
+Accounting policies (continued)
+2.11
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+;
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+; and
+∙
+Where they relate to timing differences in respect of interests in subsidiaries, associates, branches and joint ventures and the 
+Company
+ can control the reversal of the timing differences and such reversal is not considered probable in the foreseeable future.
+=== page 24 ===
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+2.12
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Page 22
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+2.
+Accounting policies (continued)
+2.12
+Tangible fixed assets (continued)
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+The estimated useful lives range as follows:
+Plant and machinery
+-
+5
+years
+Motor vehicles
+-
+30
+% Reducing balance
+Fixtures and fittings
+-
+3
+years
+Computer equipment
+-
+3
+years
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+Impairment
+At each balance sheet date, the company reviews the carrying amounts of its property, plant and equipment to determine whether there is any indication that any items of property, plant and equipment have suffered an impairment loss. If any such indication exists, the recoverable amount of an asset is estimated in order to determine the extent of the impairment loss, if any. Where it is not possible to estimate the recoverable amount of the asset, the company estimates the recoverable amount of the cash-generating unit to which the asset belongs.
+If the recoverable amount of an asset is estimated to be less than its carrying amount, the carrying amount of the asset is reduced to its recoverable amount. Impairment loss is recognised as an expense immediately.
+Where an impairment loss subsequently reverses, the carrying amount of the asset is increased to the revised estimate of its recoverable amount, to the extent that the increased carrying amount does not exceed the carrying amount that would have been determined (net of depreciation) had no impairment loss been recognised for the asset in prior years. A reversal of an impairment loss is recognised as income immediately.
+2.13
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+Page 23
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+2.
+Accounting policies (continued)
+2.14
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+In the 
+Statement of cash flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+Company
+'s cash management.
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at the end of each reporting period. Financial assets are considered to be impaired when there is objective evidence that, as a result of one or more events that occurred after the initial recognition of the financial asset, the estimated future cash flows of the investment have been affected.
+For all other financial assets, objective evidence of impairment could include:
+•significant financial difficulty of the issuer or counterparty; or
+•breach of contract, such as a default or delinquency in interest or principal payments; or
+•it becoming probable that the borrower will enter bankruptcy or financial re-organisation; or
+•the disappearance of an active market for that financial asset because of financial difficulties.
+=== page 25 ===
+For certain categories of financial asset, such as trade receivables, assets that are assessed not to be impaired individually are, in addition, assessed for impairment on a collective basis. Objective evidence of impairment for a portfolio of receivables could include the company's past experience of collecting payments, an increase in the number of delayed payments in the portfolio past the average credit period of 50 days, as well as observable changes in national or local economic conditions that correlate with default on receivables.
+For financial assets carried at amortised cost, the amount of the impairment loss recognised is the difference between the asset's carrying amount and the present value of estimated future cash flows, discounted at the financial asset's original effective interest rate. The impairment loss is recognised in profit or loss.
+For financial assets carried at cost, the amount of the impairment loss is measured as the difference between the asset's carrying amount and the present value of the estimated future cash flows discounted at the current market rate of return for a similar financial asset. Such impairment loss will not be reversed in subsequent periods.
+The carrying amount of the financial asset is reduced by the impairment loss directly for all financial assets with the exception of trade receivables, where the carrying amount is reduced through the use of an allowance account. When a trade receivable is considered uncollectible, it is written off against the allowance account. Subsequent recoveries of amounts previously written off are credited against the allowance account. Changes in the carrying amount of the allowance account are recognised in profit or loss.
+For financial assets measured at amortised cost, if, in a subsequent period, the amount of the impairment loss decreases and the decrease can be related objectively to an event occurring after
+Page 24
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+2.
+Accounting policies (continued)
+2.14
+Cash and cash equivalents (continued)
+the impairment was recognised, the previously recognised impairment loss is reversed through profit or loss to the extent that the carrying amount of the investment at the date the impairment is reversed does not exceed what the amortised cost would have been had the impairment not been recognised.
+2.15
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.16
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.17
+Convertible debt
+The proceeds received on issue of the 
+Company
+'s convertible debt are allocated into their liability and equity components and presented separately in the 
+Balance sheet
+.
+The amount initially attributed to the debt component equals the discounted cash flows using a market rate of interest that would be payable on a similar debt instrument that did not include an option to convert.
+The difference between the net proceeds of the convertible debt and the amount allocated to the debt component is credited direct to equity and is not subsequently remeasured.
+ On conversion, the debt and equity elements are credited to share capital and share premium as appropriate.
+Transaction costs that relate to the issue of the instrument are allocated to the liability and equity components of the instrument in proportion to the allocation of proceeds.
+2.18
+Dividends
+Equity dividends are recognised when they become legally payable. Interim equity dividends are recognised when paid. Final equity dividends are recognised when approved by the shareholders at an annual general meeting.
+Interest bearing borrowings
+Interest-bearing borrowings are recognised initially at fair value less attributable transaction costs. Subsequent to initial recognition, interest-bearing borrowings are stated at amortised cost with any difference between the amount initially recognised and redemption value being recognised in the statement of comprehensive income over the period of the borrowings, together with any interest and fees payable, using the effective interest method.
+Page 25
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+Critical accounting judgements and key sources of estimation uncertainty 
+In the application of the company's accounting policies, which are described in 2, management is required to make judgements, estimates and assumptions about the carrying values of assets and liabilities that are not readily apparent from other sources. The estimates and underlying assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+Significant judgements in applying the company's accounting policies
+In preparing these financial statements the directors do not consider there were any significant area of judgement that were required in applying the company's accounting policies as set out in note 2.
+Key sources of estimation uncertainty
+Estimates included within these financial statements include depreciation and amortisation charges and asset impairments such as provisions against debtors and stock. None of these estimates are considered to carry significant estimation uncertainty, or to bear significant risk of causing a material misstatement to the carrying amounts of assets and liabilities within the next financial year.
+Page 26
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+4.
+Tangible fixed assets
+Plant and machinery
+Motor vehicles
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 June 2024
+141,601
+1,637,303
+2,348
+=== page 26 ===
+33,268
+1,814,520
+Additions
+159,885
+237,850
+16,846
+12,270
+426,851
+Disposals
+-
+(
+58,129
+)
+-
+-
+(
+58,129
+)
+At 31 May 2025
+301,486
+1,817,024
+19,194
+45,538
+2,183,242
+Depreciation
+At 1 June 2024
+37,975
+549,503
+77
+12,612
+600,167
+Charge for the year on owned assets
+54,744
+319,618
+4,782
+11,048
+390,192
+Disposals
+-
+(
+21,666
+)
+-
+-
+(
+21,666
+)
+At 31 May 2025
+92,719
+847,455
+4,859
+23,660
+968,693
+Net book value
+At 31 May 2025
+208,767
+969,569
+14,335
+21,878
+1,214,549
+At 31 May 2024
+103,626
+1,087,801
+2,271
+20,657
+1,214,355
+The net book value of assets held under finance leases or hire purchase contracts, included above, are as follows:
+2025
+2024
+£
+=== page 27 ===
+£
+Motor vehicles
+922,285
+981,269
+922,285
+981,269
+Page 27
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+5.
+Stocks
+2025
+2024
+Restated
+£
+£
+Raw materials and consumables
+118,619
+59,393
+118,619
+59,393
+The carrying value of stocks are stated net of impairment losses totalling 
+£
+nil
+ (2024 - £
+nil
+)
+. Impairment losses totalling 
+£
+nil
+ (2024 - £
+nil
+)
+ were recognised in profit and loss.
+6.
+Debtors
+2025
+2024
+Restated
+£
+£
+Due after more than one year
+Deferred tax asset
+313,072
+-
+313,072
+-
+Due within one year
+Trade debtors
+1,711,509
+535,187
+Other debtors
+88,390
+183,659
+Prepayments and accrued income
+243,399
+117,446
+2,356,370
+836,292
+7.
+Deferred taxation
+2025
+£
+Charged to profit or loss
+313,072
+At end of year
+313,072
+Page 28
+NANO FIBRE UK LIMITED
+=== page 28 ===
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+7.
+Deferred taxation (continued)
+The 
+deferred tax asset
+ is made up as follows:
+2025
+2024
+Restated
+£
+£
+Accelerated capital allowances
+(
+300,350
+)
+-
+Tax losses carried forward
+613,422
+-
+313,072
+-
+8.
+Cash and cash equivalents
+2025
+2024
+Restated
+£
+£
+Cash at bank and in hand
+231,329
+224,753
+Less: bank overdrafts
+(
+1,585
+)
+(
+31,987
+)
+229,744
+192,766
+Page 29
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+9.
+Creditors: Amounts falling due within one year
+2025
+2024
+Restated
+£
+£
+Bank overdrafts
+1,585
+31,987
+Other loans
+1,000,000
+-
+Trade creditors
+460,053
+202,837
+Other taxation and social security
+1,933,645
+655,341
+Obligations under finance lease and hire purchase contracts (note 11)
+359,676
+310,322
+Other creditors
+103,955
+82,571
+=== page 29 ===
+Accruals and deferred income
+-
+10,836
+3,858,914
+1,293,894
+The following liabilities were secured:
+Details of security provided:
+The company has entered into a number of hire purchase and finance lease agreements in respect of commercial vehicles and specialist access equipment. These agreements are secured on the underlying assets, with legal title remaining with the finance providers until all contractual payments have been made in full.
+The secured liabilities are repayable by fixed monthly instalments over the terms of the respective agreements. At the reporting date, the remaining repayment periods range up to five years.
+Interest charges are fixed and are included within the contractual monthly repayments.
+The secured liabilities are analysed between amounts due within one year and amounts due after more than one year and are shown within creditors in the balance sheet. The detailed movement and reconciliation of these balances are supported by the finance lease schedule.
+Unsecured loan (Related Party)
+The balance of £1,000,000 (2024: £1,000,000) represents an unsecured loan from Advencap Fibre Partnership 1LP pursuant to a loan agreement dated 27 January 2023. The loan became contractually due and payable on 31 December 2025. As at the reporting date, the balance remained outstanding. In accordance with the terms of the loan agreement, interest accrues at 15% per annum from 31 December 2025 until repayment. No security has been provided in respect of this loan.
+Include in other creditors above are amounts payable to related parties amounting to £22,700 (2024: £56,855) (see note 27).
+Page 30
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+10.
+Creditors: Amounts falling due after more than one year
+2025
+2024
+Restated
+£
+£
+Other loans
+-
+1,000,000
+Net obligations under finance leases and hire purchase contracts (note 11)
+491,584
+729,205
+Other creditors
+-
+21,055
+Accrued dividends (note 23)
+1,323,742
+266,428
+1,815,326
+2,016,688
+The following liabilities were secured:
+Details of security provided:
+The company has entered into a number of hire purchase and finance lease agreements in respect of commercial vehicles and specialist access equipment. These agreements are secured on the underlying assets, with legal title remaining with the finance providers until all contractual payments have been made in full.
+The secured liabilities are repayable by fixed monthly instalments over the terms of the respective agreements. At the reporting date, the remaining repayment periods range up to five years.
+Interest charges are fixed and are included within the contractual monthly repayments.
+The secured liabilities are analysed between amounts due within one year and amounts due after more than one year and are shown within creditors in the balance sheet. The detailed movement and reconciliation of these balances are supported by the finance lease schedule.
+Unsecured loan (Related Party)
+The balance of £1,000,000 (2024: £1,000,000) represents an unsecured loan from Advencap Fibre Partnership 1LP pursuant to a loan agreement dated 27 January 2023. The loan became contractually due and payable on 31 December 2025. As at the reporting date, the balance remained outstanding. In accordance with the terms of the loan agreement, interest accrues at 15% per annum from 31 December 2025 until repayment. No security has been provided in respect of this loan.
+Page 31
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+11.
+Hire purchase and finance leases
+Minimum lease payments under hire purchase fall due as follows:
+2025
+2024
+Restated
+£
+£
+Within one year
+359,676
+310,322
+Between 1-5 years
+491,584
+729,205
+851,260
+1,039,527
+12.
+Share capital
+2025
+=== page 30 ===
+2024
+Restated
+£
+£
+Allotted, called up and fully paid
+2,000
+ (2024 - 
+100
+)
+Ordinary
+shares of
+£
+1.00
+ each
+2,000
+100
+1
+ (2024 - 
+1
+)
+Redeemable Investors
+share of
+£
+500,000.00
+500,000
+500,000
+500
+ (2024 - 
+2,300
+)
+Redeemable Preference 
+shares of
+£
+100.00
+ each
+50,000
+230,000
+552,000
+730,100
+Page 32
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+12.
+Share capital (continued)
+Share capital
+The Company has three classes of shares in issue:
+Ordinary shares of £1 each
+Ordinary shares carry full voting rights and full entitlement to dividends and capital distributions, including on a winding up.
+Redeemable Investors share of £500,000 nominal value
+The Redeemable Investors share carried no voting rights. Under the Preference Share Subscription Agreement dated 30 November 2022, the Company was required to redeem the share for a total Redemption Amount of £1,200,000 on 31 December 2025, payable in two equal instalments. The first instalment of £600,000 was paid in January 2026, with the remaining instalment of £600,000 due by 30 June 2026.
+In addition, pursuant to the terms of the agreement, the investor elected to settle the Equity Kicker Amount by way of conversion into ordinary shares representing 20% of the Company’s issued ordinary share capital.
+Redeemable Preference Shares of £100 each
+The Redeemable Preference Shares carry no voting rights and are entitled to profit participation in accordance with the Shareholders’ Agreement. The shares are redeemable at the option of the Company and/or the shareholder in accordance with the Articles of Association. The shares do not have a fixed redemption date. Where redeemed, they are redeemable at par value unless otherwise agreed, and no premium is payable.
+Movements during the year
+On 1 December 2024, the Company allotted 1,900 Ordinary shares of £1 each for cash consideration of £1,900.
+On 26 August 2024, 1,800 Redeemable Preference Shares of £100 each were redeemed at par value in accordance with a board resolution. The total nominal value cancelled was £180,000 and consideration paid was £180,000. No premium was payable on redemption.
+13.
+Reserves
+Profit and loss account
+The profit and loss reserve represents cumulative retained profits and losses of the company, net of dividends paid. This reserve is distributable to the extent that it comprises realised profits.
+Page 33
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+14.
+Turnover
+An analysis of turnover by class of business is as follows:
+2025
+2024
+=== page 31 ===
+Restated
+£
+£
+Installations
+20,741,791
+9,849,783
+Civils and Remediation
+1,192,623
+59,223
+21,934,414
+9,909,006
+15.
+Other operating income
+2025
+2024
+Restated
+£
+£
+Insurance claims receivable
+42,637
+-
+Sundry income
+4,126
+-
+46,763
+-
+16.
+Interest receivable
+2025
+2024
+Restated
+£
+£
+Other interest receivable
+1,315
+433
+1,315
+433
+17.
+Interest payable and similar expenses
+2025
+2024
+Restated
+£
+£
+Other loan interest payable
+126,167
+11,411
+Finance leases and hire purchase contracts
+114,991
+99,468
+241,158
+110,879
+Page 34
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+18.
+Auditors' remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditors
+:
+2025
+2024
+=== page 32 ===
+Restated
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+6,000
+-
+19.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2025
+2024
+Restated
+£
+£
+Wages and salaries
+11,324,116
+5,290,907
+Social security costs
+1,047,358
+479,760
+Cost of defined contribution scheme
+176,481
+83,920
+12,547,955
+5,854,587
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2025
+2024
+Restated
+No.
+No.
+Number of employees
+313
+167
+Directors
+2
+2
+315
+169
+Page 35
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+20.
+Directors' remuneration
+2025
+2024
+Restated
+£
+£
+Directors' emoluments
+253,352
+200,000
+Company contributions to defined contribution pension schemes
+3,022
+1,761
+256,374
+201,761
+During the 
+year no
+ retirement benefits were accruing to  
+directors
+=== page 33 ===
+ (2024 - 
+NIL
+)
+ in respect of defined contribution pension schemes.
+21.
+Taxation
+2025
+2024
+Restated
+£
+£
+Total current tax
+-
+-
+Deferred tax
+Origination and reversal of timing differences
+(
+313,072
+)
+-
+Total deferred tax
+(
+313,072
+)
+-
+(
+313,072
+)
+-
+Page 36
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+21.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+the same as
+ (2024 - the same as) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2024 - 
+19
+%)
+ as set out below:
+2025
+2024
+Restated
+£
+£
+Profit/(loss) on ordinary activities before tax
+144,758
+(
+171,422
+)
+Profit/(loss) on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2024 - 19%)
+36,190
+(
+32,570
+)
+Effects of:
+Depreciation and amortisation
+106,664
+-
+Capital allowances for year in excess of depreciation
+(
+=== page 34 ===
+107,424
+)
+-
+Utilisation of tax losses
+(
+43,636
+)
+-
+Other timing differences leading to an increase (decrease) in taxation
+-
+32,570
+Non-taxable income less expenses not deductible for tax purposes, other than goodwill and impairment
+8,206
+-
+Unrelieved tax losses carried forward
+(
+313,072
+)
+-
+Total tax charge for the year
+(
+313,072
+)
+-
+22.
+Operating profit/(loss)
+The operating profit/(loss) is stated after charging:
+2025
+2024
+Restated
+£
+£
+Exchange differences
+226
+1,488
+Other operating lease rentals
+73,673
+142,902
+Depreciation
+390,193
+418,153
+Page 37
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+23.
+Dividends
+Dividends on the Redeemable Investors share accrue monthly in accordance with the Shareholders’ Agreement dated 1 December 2022.
+The amounts recognised during the year were as follows:
+2025
+2024
+Restated
+£
+£
+Redeemable Investors shares
+Dividends analysis
+1,057,314
+266,428
+1,057,314
+266,428
+These amounts have been accrued in accordance with the terms of the agreement and are included within accruals at the year end where unpaid (note 10).
+24.
+Prior year adjustment
+During the year, the Company identified classification errors in the prior year financial statements. The comparative figures for the year ended 31 May 2024 have been restated to correct the presentation of financial liabilities, equity balances and certain operating costs.
+The principal restatements are as follows:
+1. £458,646 previously included within other debtors has been reclassified to finance lease and hire purchase obligations.
+2. Obligations under finance leases and hire purchase agreements due within one year have increased from £112,982 to £310,322.
+3. Obligations under finance leases and hire purchase agreements due after more than one year have decreased from £1,039,527 to £729 205.
+4. Accrued dividends of £266,428 have been reclassified to non-current liabilities.
+5. £730,000 previously included within share premium has been reclassified to share capital.
+=== page 35 ===
+These restatements affect presentation only and do not impact operating loss, loss before tax, total equity or net liabilities for the year ended 31 May 2024.
+25.
+Capital commitments
+The Company had no capital commitments at 31 May 2025 (2024: £Nil).
+Page 38
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+26.
+Commitments under operating leases
+At 
+31 May 2025
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2025
+2024
+Restated
+£
+£
+Not later than 1 year
+169,028
+32,565
+Later than 1 year and not later than 5 years
+217,910
+122,119
+386,938
+154,684
+27.
+Related party transactions
+Related Party Transactions
+During the year the company entered into various financing arrangements with related parties. All related party balances are unsecured, interest-free unless stated otherwise, and repayable on demand unless contractual terms specify otherwise.
+Outstanding Balances
+Outstanding related party balances at the year end are shown within creditors due within one year and creditors due after more than one year, as appropriate. No guarantees have been given or received in respect of these balances.
+Loans from Directors and Shareholders
+• Mr Dirk Coetzee Mostert – At the year end, the company owed £nil (2024: £21,055) to Mr Mostert. The balance is classified as a current liability and is unsecured and interest-free.
+• Mr Andre Steyn – At the year end, the company owed £22,700 (2024: £35,800) to Mr Steyn. This balance is classified as a current liability. All amounts are unsecured and interest-free.
+Loans from Shareholders / Investor Entities
+• The Company has an unsecured loan of £1,000,000 (2024: £1,000,000) pursuant to a loan agreement dated 27 January 2023. The loan became contractually due and payable on 31 December 2025. As at the reporting date, the balance remained outstanding. In accordance with the loan agreement, interest accrues at 15% per annum from 31 December 2025 until settlement. The lender has issued a formal notice of overdue payment subsequent to the year end.
+Director’s loan account – prior year
+In the prior year, Mr J Datema had an overdrawn director’s loan account of £108,000 arising from amounts advanced in anticipation of a proposed repayment of share capital. During the year, this balance was set off against the redemption of 1,800 Redeemable Preference Shares with nominal value of £180,000. The remaining balance of the redemption proceeds was settled in cash during the year. No interest was charged on the balance.
+Page 39
+NANO FIBRE UK LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+28.
+Post balance sheet events
+Subsequent to the year end, Advencap Fibre Partnership 1LP acquired a 20% equity interest in the Company in accordance with a shareholder agreement entered into after 31 May 2025. The transaction resulted in a change in the ownership structure of the Company.
+As the transaction occurred after the reporting date, no adjustment has been made to the financial statements for the year ended 31 May 2025. The directors consider the transaction to be material to users of the financial statements and therefore have disclosed it in accordance with FRS 102. 
+29.
+Controlling party
+In the opinion of the directors, no single shareholder has ultimate control of the company. While Mr Wilhelm Petrus Strumpher is the registered holder of the majority of the Redeemable Preference Shares, an informal understanding exists between Mr Strumpher and Mr Mostert to share the economic interest in those shares equally. Taking this into account, the directors consider that strategic and financial control is shared, and no individual is regarded as having dominant influence over the company.
+Page 40
