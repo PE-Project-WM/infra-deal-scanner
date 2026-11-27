@@ -64,8 +64,17 @@ def list_companies():
             break
         print(f'Attempt {attempt + 1} failed; index page starts: {page[:120]!r}; waiting 5 minutes', flush=True)
         time.sleep(300)
+    if raw is None:   # fallback: a copy attached to a GitHub release of this repository (uploaded by hand from the download page)
+        rel = requests.get('https://api.github.com/repos/PE-Project-WM/infra-deal-scanner/releases', timeout=60).json()
+        assets = [a for r in (rel if isinstance(rel, list) else []) for a in r.get('assets', []) if a['name'].startswith('BasicCompanyData') and a['name'].endswith('.zip')]
+        if assets:
+            a = sorted(assets, key=lambda a: a['name'])[-1]
+            print('Using the copy attached to a GitHub release:', a['name'], flush=True)
+            raw = requests.get(a['browser_download_url'], timeout=1800).content
+            snapshot = re.search(r'(\d{4}-\d{2}-\d{2})', a['name']).group(1)
     if raw is None:
-        print('Could not download the free company data product.')
+        print('Could not download the free company data product. Download BasicCompanyDataAsOneFile-<date>.zip from '
+              'https://download.companieshouse.gov.uk/en_output.html and attach it to a GitHub release of this repository.')
         raise SystemExit(1)
     z = zipfile.ZipFile(io.BytesIO(raw))
     name = z.namelist()[0]
