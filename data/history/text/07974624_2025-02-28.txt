@@ -1,0 +1,2154 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2024-05-31
+2024-05-31
+115
+2025-02-28
+false
+false
+121
+2023-06-01
+false
+false
+07974624
+2023-06-01
+2024-05-31
+07974624
+2022-06-01
+2023-05-31
+07974624
+2024-05-31
+07974624
+2023-05-31
+07974624
+2022-06-01
+07974624
+1
+2023-06-01
+2024-05-31
+07974624
+1
+2022-06-01
+2023-05-31
+07974624
+5
+2023-06-01
+2024-05-31
+07974624
+5
+2022-06-01
+2023-05-31
+07974624
+d:Director1
+2023-06-01
+2024-05-31
+07974624
+d:RegisteredOffice
+2023-06-01
+2024-05-31
+07974624
+e:Buildings
+2023-06-01
+2024-05-31
+07974624
+e:Buildings
+2024-05-31
+07974624
+e:Buildings
+2023-05-31
+07974624
+e:Buildings
+e:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+07974624
+e:MotorVehicles
+2023-06-01
+2024-05-31
+07974624
+e:MotorVehicles
+=== page 2 ===
+2024-05-31
+07974624
+e:MotorVehicles
+2023-05-31
+07974624
+e:MotorVehicles
+e:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+07974624
+e:FurnitureFittings
+2023-06-01
+2024-05-31
+07974624
+e:FurnitureFittings
+2024-05-31
+07974624
+e:FurnitureFittings
+2023-05-31
+07974624
+e:FurnitureFittings
+e:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+07974624
+e:ComputerEquipment
+2023-06-01
+2024-05-31
+07974624
+e:ComputerEquipment
+2024-05-31
+07974624
+e:ComputerEquipment
+2023-05-31
+07974624
+e:ComputerEquipment
+e:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+07974624
+e:OwnedOrFreeholdAssets
+2023-06-01
+2024-05-31
+07974624
+e:Goodwill
+2023-06-01
+2024-05-31
+07974624
+e:Goodwill
+2024-05-31
+07974624
+e:Goodwill
+2023-05-31
+07974624
+e:CopyrightsPatentsTrademarksServiceOperatingRights
+2023-06-01
+2024-05-31
+07974624
+e:CurrentFinancialInstruments
+2024-05-31
+07974624
+e:CurrentFinancialInstruments
+2023-05-31
+07974624
+e:Non-currentFinancialInstruments
+2024-05-31
+07974624
+e:Non-currentFinancialInstruments
+2023-05-31
+07974624
+=== page 3 ===
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2024-05-31
+07974624
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2023-05-31
+07974624
+e:Non-currentFinancialInstruments
+e:AfterOneYear
+2024-05-31
+07974624
+e:Non-currentFinancialInstruments
+e:AfterOneYear
+2023-05-31
+07974624
+e:UKTax
+2023-06-01
+2024-05-31
+07974624
+e:UKTax
+2022-06-01
+2023-05-31
+07974624
+e:ShareCapital
+2024-05-31
+07974624
+e:ShareCapital
+2023-05-31
+07974624
+e:SharePremium
+2023-06-01
+2024-05-31
+07974624
+e:SharePremium
+2024-05-31
+07974624
+e:SharePremium
+2023-05-31
+07974624
+e:RetainedEarningsAccumulatedLosses
+2023-06-01
+2024-05-31
+07974624
+e:RetainedEarningsAccumulatedLosses
+2024-05-31
+07974624
+e:RetainedEarningsAccumulatedLosses
+2023-05-31
+07974624
+e:AcceleratedTaxDepreciationDeferredTax
+2024-05-31
+07974624
+e:AcceleratedTaxDepreciationDeferredTax
+2023-05-31
+07974624
+e:RetirementBenefitObligationsDeferredTax
+2024-05-31
+07974624
+e:RetirementBenefitObligationsDeferredTax
+2023-05-31
+07974624
+e:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2023-06-01
+2024-05-31
+07974624
+e:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+2024-05-31
+07974624
+e:FurtherSpecificTypeProvisionContingentLiability1ComponentTotalProvisionsContingentLiabilities
+=== page 4 ===
+2023-05-31
+07974624
+e:FurtherSpecificTypeProvisionContingentLiability2ComponentTotalProvisionsContingentLiabilities
+2023-06-01
+2024-05-31
+07974624
+e:FurtherSpecificTypeProvisionContingentLiability2ComponentTotalProvisionsContingentLiabilities
+2024-05-31
+07974624
+e:FurtherSpecificTypeProvisionContingentLiability2ComponentTotalProvisionsContingentLiabilities
+2023-05-31
+07974624
+d:OrdinaryShareClass1
+2023-06-01
+2024-05-31
+07974624
+d:OrdinaryShareClass1
+2024-05-31
+07974624
+d:OrdinaryShareClass1
+2023-05-31
+07974624
+d:OrdinaryShareClass2
+2023-06-01
+2024-05-31
+07974624
+d:OrdinaryShareClass2
+2024-05-31
+07974624
+d:OrdinaryShareClass2
+2023-05-31
+07974624
+d:OrdinaryShareClass3
+2023-06-01
+2024-05-31
+07974624
+d:OrdinaryShareClass3
+2024-05-31
+07974624
+d:OrdinaryShareClass3
+2023-05-31
+07974624
+d:OrdinaryShareClass4
+2023-06-01
+2024-05-31
+07974624
+d:OrdinaryShareClass4
+2024-05-31
+07974624
+d:OrdinaryShareClass4
+2023-05-31
+07974624
+d:OrdinaryShareClass5
+2023-06-01
+2024-05-31
+07974624
+d:OrdinaryShareClass5
+2024-05-31
+07974624
+d:OrdinaryShareClass5
+2023-05-31
+07974624
+d:FRS102
+2023-06-01
+2024-05-31
+07974624
+d:Audited
+2023-06-01
+2024-05-31
+07974624
+=== page 5 ===
+d:FullAccounts
+2023-06-01
+2024-05-31
+07974624
+d:PrivateLimitedCompanyLtd
+2023-06-01
+2024-05-31
+07974624
+e:WithinOneYear
+2024-05-31
+07974624
+e:WithinOneYear
+2023-05-31
+07974624
+e:BetweenOneFiveYears
+2024-05-31
+07974624
+e:BetweenOneFiveYears
+2023-05-31
+07974624
+e:MoreThanFiveYears
+2024-05-31
+07974624
+e:MoreThanFiveYears
+2023-05-31
+07974624
+6
+2023-06-01
+2024-05-31
+07974624
+e:Goodwill
+e:OwnedIntangibleAssets
+2023-06-01
+2024-05-31
+07974624
+f:PoundSterling
+2023-06-01
+2024-05-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Registered number: 
+07974624
+TELA TECHNOLOGY LIMITED
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 MAY 2024
+TELA TECHNOLOGY LIMITED
+COMPANY INFORMATION
+Director
+Mr S S Cheema
+Registered number
+07974624
+Registered office
+4 Station Court
+Old Station Road
+Hampton in Arden
+Solihull
+B92 0HA
+Independent auditors
+MHA
+Statutory Auditors
+Century House
+Northampton
+NN4 7HD
+TELA TECHNOLOGY LIMITED
+CONTENTS
+Page
+Strategic Report
+1 - 4
+=== page 6 ===
+Director's Report
+5 - 6
+Independent Auditors' Report
+7 - 10
+Profit and Loss Account
+11
+Statement of Comprehensive Income
+12
+Balance Sheet
+13 - 14
+Statement of Cash Flows
+15
+Analysis of Net Debt
+16
+Notes to the Financial Statements
+17 - 33
+TELA TECHNOLOGY LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 MAY 2024
+Introduction
+Tela Technology Limited ("Tela") is one of the UK’s leading converged unified communications providers and is amongst a select few businesses that is and continues to successfully diversify into the managed technology services arena from the mobile centric space. It is well placed to capitalise on the wealth of up sell and cross sell IT, Security, Connectivity, Hosted Telephony, 5G, and IOT (Internet-of-Things) opportunities in future years.
+Established in April 2012 (with a rich pedigree of over 35 years), Tela is one of 3 ‘Vodafone Total Communications Partners’ and one of its Top 3 ‘Strategic Partners’, having won the Communications Business Digital Transformational Solution award in 2017. Tela has also won the Unified Communications Partner of the Year 2013 award and has been twice in the Sunday Times Technology Track Fastest Growing UK 100 Businesses (61 in 2013 and 82 in 2012) having completed 14 acquisitions in the last nine years.
+Tela has excellent partnerships with Ringcentral, Xelion, Samsung, Google, Gamma, ITS, Microsoft, and a whole host of other stakeholders. Furthermore, it has BSI accreditations in ISO 9001 and 27001 (Security) and supports businesses in their Cybersecurity accreditations. Tela is also regulated by the FCA (Financial Conduct Authority) and has the Safe Contractor accreditation vital in Health and Safety. 
+Tela received the 2022 and 2023 Vodafone’s independent “Customer Value Management” award in recognition of the proactive work carried out with new and long-standing customers. This is following Tela’s customer obsessive and customer first approach recognised by Vodafone and achievement of an industry leading Customer NPS (Net Promoter Score) of 89. Tela also received a Vodafone award in 2022 and 2023 for its commitment to “Sustainability”, with its green, corporate responsibility, and ethical credentials in conjunction with transparent processes leading the way in the telecoms and IT industry. In 2024 Tela achieved the prestigious Vodafone & Ringcentral award of being the best partner in 2024 with a 250% growth from a standstill start. Tela also won Samsung Partner of the Year Award 2022 and in August 2023 won the Microsoft Infinigate Modern Workplace partner of the year against stiff competition from significantly larger Managed Service Partners (MSP’s).  This truly demonstrates the values by which Tela has successfully risen amongst its far larger peers to be a business respected by its competitors and revered by its customers.
+Tela supports over 40 charities across the UK and continues to invest 5% of its EBITDA into organisations which provide essential services to its communities across the UK.
+Tela transforms business performance by helping customers embrace current and emerging technologies. Through our ‘Communication Made Simple’ solution, Tela aims to change the way people live, by changing the way they work. Tela’s solutions and services empowers customers to be flexible by leveraging their investment in IT and infrastructure, giving them the freedom to work effectively and efficiently, both in and out of the office. We provide Mobility Consultation, IT Managed Software Solutions (e.g. Microsoft Office 365), Desktop Support, Cybersecurity, IOT and Telecom’s expertise across the UK on a 24 x 7 x 365-days basis. The business has offices in London, Birmingham, Worcester, Bristol, Warrington, Glasgow and Aberdeen.
+Page 1
+TELA TECHNOLOGY LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Business review
+The business continues to perform very strongly in a demanding and challenging environment. Annual turnover was at £21.7m (2023 - £21.1m) with annual gross profit of £9.0m (2023 - £9.1m) reflecting a gross profit margin of 42% (2023 - 43%), and EBITDA remained positive at £2.2m (2023 - £2.1m) with 100% EBITDA-to-Cash Conversion. Tela is committed to continual internal investment and organic growth and the director continues since incorporation to take no dividends and invest any-and-all cashflow into its people, infrastructure and geographic / capability-based acquisitions.
+EBITDA achieved during the year ended 31 May 2024 is set out below:
+          2024  2023
+                         £  £
+ Operating Profit/(Loss)    973,643 871,032
+ Depreciation      105,480 84,265
+ Amortisation & impairment  1,102,682 1,102,682
+ EBITDA     2,181,805 2,057,979
+ EBITDA to Cash Conversion  100%  100%
+In January 2025, Tela successfully secured a £6m RCF / Accordion facility with Santander Corporate and Commercial to assist with growing the business organically and to provide firepower to target and acquire capability-based technology businesses. At this stage the business has chosen not to pursue Private Equity funding.
+Page 2
+TELA TECHNOLOGY LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Principal risks and uncertainties
+The principal risks for the Company going forward are perceived to be:
+1) The Economic Climate
+The Company has continued to demonstrate a strong and robust cash position year on year, with only Shareholder debt and long-term customer provisions recorded as liabilities in the Balance Sheet. The Company continues to write down Goodwill (non-cash item) from its historic acquisitions aggressively at circa £1m per annum which has contributed to the continued Shareholders deficit and loss before tax. However, the Company has strong processes and controls which will help to identify and mitigate any impact if there was to be any further economic downturn.
+2) Lack of Diversification
+The Company is continuing to invest in its Connectivity, Hosted Solutions VOIP business and IT division which showed strong growth, and this is expected to continue accelerating. From its onset in 2012 the business has transitioned from a 95% mobile mix to a 50% mobile and 50% other services mix. These new services have offset the competitive margins in mobile. IT in 2025 will represent £6m of Tela’s run-rate turnover of circa £25m.
+3) Regulatory Changes
+The Company actively monitors regulatory development on an on-going basis and where applicable will implement strategies and policies to address any commercial pressures or compliance requirements.
+4) Embracing New Technologies
+The speed of various advancements and customer expectations are regularly monitored by the Company. Tela is able to change and adapt to these influences and offer new products to its diverse customer set across the UK. We have pushed ahead with Microsoft Teams integration / collaboration, Co-Pilot and an Enterprise grade Hosted Telephony system powered by Ringcentral and Vodafone known as Vodafone Business Unified Solution (VBUC).
+5) Commoditisation of Mobiles
+The commoditisation of mobiles and the competing pressures of the three major mobile networks means diversification into IT and United Communications and increasing the business’ recurring revenue generation at a sustainable gross margin %. Long-term customer relationships with 3- year contracts is critical for 2025 and the next five years of its business plan. 
+Financial Risk Management 
+Interest Rate Risk
+The Company’s exposure to market risk for changes in interest rates has been removed as debt obligations have been repaid.
+Credit Risk
+The Company trades with only recognised, creditworthy third parties. It is the Company’s policy that customers who wish to trade on credit terms are subject to credit vetting procedures.
+Liquidity Risk
+The Company’s objective is to maintain a balance between continuity of funding and flexibility through the use of a non-utilised bank overdraft and finance facility arrangements.
+Page 3
+TELA TECHNOLOGY LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Financial key performance indicators
+The director considers EBITDA (earnings before interest, tax, fixed asset depreciation and intangible asset amortisation) to be a key performance indicator. EBITDA was £2.2m (2023 - £2.1m) which represents a 10.1% margin (2023 – 9.8%). Cash at bank was £3.8m at 31 May 2024 (2023 - £2.3m). This was achieved from organic business growth and excellent working capital management.
+=== page 7 ===
+Although at the year end the Company has a net asset position of £0.75m (2023 - £0.1m), a significant proportion of the liabilities are attributable to the amounts owed to the director of £2.7m (2023 - £3.6m) and specific provisions prudently made. Despite the Balance Sheet position, the Company continues to target investment and development.
+This report was approved by the board
+ and signed on its behalf
+.
+................................................
+Mr S S Cheema
+Director
+Date: 
+28 February 2025
+Page 4
+TELA TECHNOLOGY LIMITED
+DIRECTOR'S REPORT
+FOR THE YEAR ENDED 31 MAY 2024
+The 
+director
+presents
+his
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 May 2024
+.
+Director's responsibilities statement
+The 
+director
+is
+ responsible for preparing the
+ Strategic Report, the Director's Report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+director
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the director has elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the director must not approve the financial statements unless he is satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the director is required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+director
+is
+ responsible for keeping 
+adequate
+=== page 8 ===
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+him
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+He is
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Principal activity
+The principal activity of the Company continued to be that of mobility, telephony, connectivity and IT managed services.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+648,761
+ (2023 - 
+£
+750,840
+)
+.
+No dividends were paid. The director does not recommend payment of a final dividend as in previous years.
+Director
+The 
+director
+ who served during the 
+year
+was:
+Mr S S Cheema
+Page 5
+TELA TECHNOLOGY LIMITED
+DIRECTOR'S REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MAY 2024
+Future developments
+Tela will continue to leverage its prominent reputation and scale in unified cloud communications, partner accreditations and customer references and testimonials to expand both its market offerings and resource capability within the unified communications, IT and technology sector. This will see further investment in IT, Fixed and Unified Hosting acquisitions during 2025 and beyond, new staff to support a growing customer base as well as investment in Tela’s proprietary cloud managed service platform to facilitate business scaling in line with the growing market opportunity.
+The business expects to remain at the forefront of new technology and will continue to maintain strong relations with key established partners including Vodafone, Xelion, Microsoft, Samsung, Google, Ringcentral as well as developing relationships with others.
+Investments in marketing are anticipated to deliver enhanced external visibility across all media including social platforms and development of sector specific propositions.
+Matters covered in the Strategic Report
+The director has omitted certain items from the Director's Report as they are disclosed within the Strategic Report instead, in accordance with S414C (11) of the Companies Act 2006.
+Disclosure of information to auditors
+The 
+director
+ at the time when this 
+Director's Report
+ is approved has confirmed that:
+∙
+so far as 
+he
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+he
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+=== page 9 ===
+ aware of that information.
+Post balance sheet events
+The Company acquired Priority One IT Limited on 30 September 2024, a private company registered in the United Kingdom.
+Auditors
+The auditor, MHA, will be proposed for reappointment in accordance with section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+................................................
+Mr S S Cheema
+Director
+Date: 
+28 February 2025
+Page 6
+TELA TECHNOLOGY LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF TELA TECHNOLOGY LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Tela Technology Limited (the 'Company')
+ for the 
+year
+ ended 
+31 May 2024
+, which comprise 
+the Profit and Loss Account, the Statement of Comprehensive Income, the Balance Sheet, the Statement of Cash Flows
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 May 2024
+ and of 
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+=== page 10 ===
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+director's
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+director
+ with respect to going concern are described in the relevant sections of this report.
+Page 7
+TELA TECHNOLOGY LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF TELA TECHNOLOGY LIMITED (CONTINUED)
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' Report
+ thereon. The 
+director
+is
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+=== page 11 ===
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic Report and the Director's Report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic Report and the Director's Report
+have
+ been prepared in accordance with applicable legal requirements.
+In the light of the knowledge and understanding of the Company and its environment obtained in the course of the audit, we have not identified material misstatements in the Strategic Report or the Director's Report.
+Matters on which we are required to report by exception
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+director
+'s
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+Director's Responsibilities Statement
+ set out on page 5, the 
+director
+is
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+director
+determines
+=== page 12 ===
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+director
+is
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+director
+ either 
+intends
+ to liquidate the 
+Company
+ or to cease operations, or have no realistic alternative but to do so.
+Page 8
+TELA TECHNOLOGY LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF TELA TECHNOLOGY LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' Report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+• enquiry of management and those charged with governance around actual and potential litigation and claims;
+• enquiry of entity staff in tax and compliance functions to identify any instances of non-compliance with laws and regulations;
+• performing audit work over the risk of management override of controls, including testing of journal entries and other adjustments for appropriateness, evaluating the business rationale of significant transactions outside the normal course of business and reviewing accounting estimates for bias;
+• reviewing minutes of meetings of those charged with governance;
+• reviewing financial statement disclosures and testing to supporting documentation to access compliance with applicable laws and regulations.
+Because of the inherent limitations of an audit, there is a risk that 
+we
+ will not detect all irregularities, including those leading to a material misstatement in the 
+financial statements
+ or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the 
+financial statements
+, as 
+we
+ will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditors' Report
+.
+Page 9
+TELA TECHNOLOGY LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF TELA TECHNOLOGY LIMITED (CONTINUED)
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+=== page 13 ===
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+Auditors' Report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Adam Young ACA
+ (Senior Statutory Auditor)
+for and on behalf of
+MHA
+Statutory Auditors
+Northampton
+Date: 28 February 2025
+MHA is the trading name of MacIntyre Hudson LLP, a limited liability partnership in England and Wales
+(registered number OC312313).
+Page 10
+TELA TECHNOLOGY LIMITED
+PROFIT AND LOSS ACCOUNT
+FOR THE YEAR ENDED
+31 MAY 2024
+2024
+2023
+Note
+£
+£
+Turnover
+4
+21,695,668
+21,093,828
+Cost of sales
+(
+12,615,025
+)
+(
+11,943,906
+)
+Gross profit
+9,080,643
+9,149,922
+Administrative expenses
+(
+6,898,838
+)
+(
+7,091,943
+)
+EBITDA
+5
+2,181,805
+=== page 14 ===
+2,057,979
+Depreciation
+(
+105,480
+)
+(
+84,265
+)
+Goodwill amortisation
+(
+1,102,682
+)
+(
+1,102,682
+)
+Operating profit
+5
+973,643
+871,032
+Interest payable and similar expenses
+9
+(
+1,840
+)
+(
+36,044
+)
+Profit before tax
+971,803
+834,988
+Tax on profit
+10
+(
+323,042
+)
+(
+84,148
+)
+Profit for the financial year
+648,761
+750,840
+The notes on pages 17 to 33 form part of these 
+financial statements
+.
+Page 11
+TELA TECHNOLOGY LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 MAY 2024
+2024
+2023
+£
+£
+Profit for the financial year
+648,761
+750,840
+Total comprehensive income for the year
+648,761
+750,840
+The notes on pages 17 to 33 form part of these 
+financial statements
+.
+Page 12
+TELA TECHNOLOGY LIMITED
+REGISTERED NUMBER: 
+07974624
+BALANCE SHEET
+AS AT 
+31 MAY 2024
+2024
+=== page 15 ===
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+11
+4,576,195
+5,678,877
+Tangible assets
+12
+822,306
+886,919
+5,398,501
+6,565,796
+Current assets
+Stocks
+13
+73,069
+77,853
+Debtors: amounts falling due after more than one year
+14
+1,702,803
+2,021,329
+Debtors: amounts falling due within one year
+14
+4,516,085
+4,459,373
+Cash at bank and in hand
+15
+3,819,381
+2,319,907
+10,111,338
+8,878,462
+Creditors: amounts falling due within one year
+16
+(
+6,768,705
+)
+(
+6,453,315
+)
+Net current assets
+3,342,633
+2,425,147
+Total assets less current liabilities
+8,741,134
+8,990,943
+Creditors: amounts falling due after more than one year
+17
+(
+2,833,981
+)
+(
+4,021,068
+)
+Provisions for liabilities
+Other provisions
+19
+(
+5,156,797
+)
+(
+4,868,280
+)
+(
+5,156,797
+)
+(
+4,868,280
+=== page 16 ===
+)
+Net assets
+750,356
+101,595
+Capital and reserves
+Called up share capital 
+20
+143,432
+143,432
+Share premium account
+21
+1,685,475
+1,685,475
+Profit and loss account
+21
+(
+1,078,551
+)
+(
+1,727,312
+)
+750,356
+101,595
+Page 13
+TELA TECHNOLOGY LIMITED
+REGISTERED NUMBER: 
+07974624
+BALANCE SHEET
+ (CONTINUED)
+AS AT 
+31 MAY 2024
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+................................................
+Mr S S Cheema
+Director
+Date: 
+28 February 2025
+The notes on pages 17 to 33 form part of these financial statements.
+Page 14
+TELA TECHNOLOGY LIMITED
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 MAY 2024
+2024
+2023
+£
+£
+Cash flows from operating activities
+Profit for the financial year
+648,761
+750,840
+Adjustments for:
+Amortisation of intangible assets
+1,102,682
+1,102,682
+Depreciation of tangible assets
+105,480
+84,265
+Interest paid
+1,840
+36,044
+Taxation charge
+323,042
+=== page 17 ===
+84,148
+Decrease in stocks
+4,784
+25,446
+Decrease in debtors
+276,498
+364,090
+(Decrease) in creditors
+(
+238,492
+)
+(
+178,054
+)
+Increase in provisions
+288,517
+236,193
+Corporation tax (paid)
+(
+105,488
+)
+(
+48,226
+)
+Net cash generated from operating activities
+2,407,624
+2,457,428
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(
+40,867
+)
+(
+151,025
+)
+HP interest paid
+(
+534
+)
+(
+534
+)
+Net cash from investing activities
+(
+41,401
+)
+(
+151,559
+)
+Cash flows from financing activities
+Repayment of loans
+(
+862,629
+)
+(
+1,285,889
+)
+Repayment of finance leases
+(
+2,814
+)
+(
+23,917
+)
+Interest paid
+(
+1,306
+)
+(
+35,510
+=== page 18 ===
+)
+Net cash used in financing activities
+(
+866,749
+)
+(
+1,345,316
+)
+Net increase in cash and cash equivalents
+1,499,474
+960,553
+Cash and cash equivalents at beginning of year
+2,319,907
+1,359,354
+Cash and cash equivalents at the end of year
+3,819,381
+2,319,907
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+3,819,381
+2,319,907
+3,819,381
+2,319,907
+The notes on pages 17 to 33 form part of these 
+financial statements
+.
+Page 15
+TELA TECHNOLOGY LIMITED
+ANALYSIS OF NET DEBT
+FOR THE YEAR ENDED 31 MAY 2024
+At 1 June 2023
+Cash flows
+At 31 May 2024
+£
+£
+£
+Cash at bank and in hand
+2,319,907
+1,499,474
+3,819,381
+Finance leases
+(2,814
+)
+2,814
+-
+2,317,093
+1,502,288
+3,819,381
+The notes on pages 17 to 33 form part of these 
+financial statements
+.
+Page 16
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+1.
+General information
+Tela Technology Limited is a private company limited by shares and incorporated in England and Wales, registered number 07974624.
+The registered office is 4 Station Court, Old Station Road, Hampton in Arden, Solihull, B92 0HA.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+=== page 19 ===
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgment
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Going concern
+The financial statements have been prepared on a going concern basis which assumes that the Company will continue in operational existence for the foreseeable future.
+The director has considered relevant information, including the annual budget, forecast future cash flows and the impact of subsequent events in making their assessment. 
+The director has confirmed that the amount due to himself included within other creditors will not be recalled for repayment within 12 months of the approval of the financial statements.
+Based on these assessments and having regard to the resources available to the entity, the director has concluded that there is no material uncertainty and that they can continue to adopt the going concern basis in preparing the annual report and accounts.
+Page 17
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.3
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Company
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Sale of goods
+Revenue
+ from the sale of goods is recognised when all of the following conditions are satisfied:
+∙
+the 
+Company
+ has transferred the significant risks and rewards of ownership to the buyer;
+∙
+the 
+Company
+ retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold;
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the transaction; and
+∙
+the costs incurred or to be incurred in respect of the transaction can be measured reliably.
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Company
+ will receive the consideration due under the contract;
+∙
+=== page 20 ===
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+2.4
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+2.5
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+Page 18
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.6
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Balance Sheet
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.7
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+balance sheet date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+balance sheet date
+.
+Page 19
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.8
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of 
+its
+ identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight-line basis to the 
+Profit and Loss Account
+ over its useful economic life.
+Other intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+ The estimated useful lives range as follows:
+Goodwill
+=== page 21 ===
+-
+4 - 10 years
+Customer list
+-
+10 years
+2.9
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives.
+Depreciation is provided on the following basis:
+Freehold property
+-
+2
+%
+Straight line
+Motor vehicles
+-
+25
+%
+Straight line
+Fixtures and fittings
+-
+25
+%
+Straight line
+Computer equipment
+-
+25
+%
+Straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in the Statement of Income and Retained Earnings.
+2.10
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+Page 20
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.11
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis.
+At each 
+balance sheet date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.12
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.13
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+In the 
+Statement of Cash Flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+Company
+'s cash management.
+2.14
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.15
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+Page 21
+TELA TECHNOLOGY LIMITED
+=== page 22 ===
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.16
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+Balance Sheet
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other receivables, cash and bank balances, are initially measured at their transaction price including transaction costs and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Company's
+ cash and cash equivalents, trade and most other receivables due with the operating cycle fall into this category of financial instruments.
+Other financial assets
+Other financial assets, which includes investments in equity instruments which are not classified as subsidiaries, associates or joint ventures, are initially measured at fair value, which is normally the recognised transaction price. Such assets are subsequently measured at fair value with the changes in fair value being recognised in the profit or loss. Where other financial assets are not publicly traded, hence their fair value cannot be measured reliably, they are measured at cost less impairment.
+Impairment of financial assets
+Financial assets are assessed for indicators of impairment at each reporting date. 
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instruments any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Page 22
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+2.
+Accounting policies (continued)
+2.16
+Financial instruments (continued)
+Basic financial liabilities, which include trade and other payables, bank loans
+ and
+ other loans are initially measured at their transaction price after transaction costs. When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future receipts discounted at a market rate of interest. Discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Other financial instruments
+Derivatives, including forward exchange contracts, futures contracts and interest rate swaps, are not classified as basic financial instruments. These are initially recognised at fair value on the date the derivative contract is entered into, with costs being charged to the profit or loss. They are subsequently measured at fair value with changes in the profit or loss.
+Debt instruments that do not meet the conditions as set out in FRS 102 paragraph 11.9 are subsequently measured at fair value through the profit or loss. This recognition and measurement would also apply to financial instruments where the performance is evaluated on a fair value basis as with a documented risk management or investment strategy.
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+Page 23
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+In the application of the Company's accounting policies, which are described in note 2, management is required to make judgments, estimates and assumptions about the carrying values of assets and liabilities that are not readily apparent from other sources. The estimates and underlying assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future periods if the revision affects both current and future periods.
+The key source of estimation uncertainty that has a significant effect on the amounts recognised in the financial statements is the valuation and amortisation of intangible assets including goodwill. The risk exists that amounts are written off faster than the receipt of associated economic benefit or amounts that no longer have any future economic benefit have not been impaired. Management are involved in making these decisions on a line by line basis. The carrying value of intangible assets is included in note 11.
+4.
+Turnover
+The whole of the turnover is attributable to the principal activity of the Company.
+All turnover arose 
+=== page 23 ===
+within the United Kingdom
+.
+5.
+Operating profit
+The operating profit is stated after charging:
+2024
+2023
+£
+£
+Depreciation of owned tangible fixed assets
+105,480
+81,168
+Depreciation of financed tangible fixed assets
+-
+3,097
+Amortisation & impairment of intangible assets
+1,102,682
+1,102,682
+Operating lease charges
+210,081
+214,927
+6.
+Auditors' remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditors
+:
+2024
+2023
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+21,500
+20,000
+Page 24
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+7.
+Employees
+Staff costs
+, including director's remuneration,
+ were as follows:
+2024
+2023
+£
+£
+Wages and salaries
+4,832,612
+4,879,823
+Social security costs
+520,089
+522,819
+Cost of defined contribution scheme
+88,772
+89,351
+5,441,473
+5,491,993
+The average
+ monthly
+ number of 
+employees, including the director,
+ during the 
+year
+ was as follows:
+=== page 24 ===
+2024
+2023
+No.
+No.
+Customer Service
+16
+16
+Finance
+23
+23
+Operations
+26
+33
+Sales
+49
+48
+Directors
+1
+1
+115
+121
+8.
+Director's remuneration
+2024
+2023
+£
+£
+Director's emoluments
+18,355
+17,810
+9.
+Interest payable and similar expenses
+2024
+2023
+£
+£
+Bank interest payable
+1,306
+35,510
+Finance leases and hire purchase contracts
+534
+534
+1,840
+36,044
+Page 25
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+10.
+Taxation
+2024
+2023
+£
+£
+Corporation tax
+Current tax on profits for the year
+337,726
+105,488
+Adjustments in respect of previous periods
+-
+(
+45,506
+)
+Total current tax
+337,726
+59,982
+Deferred tax
+Origination and reversal of timing differences
+(
+14,684
+=== page 25 ===
+)
+24,166
+Total deferred tax
+(
+14,684
+)
+24,166
+Tax on profit
+323,042
+84,148
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+higher than
+ (2023 - lower than) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2023 - 
+20
+%)
+. The differences are explained below:
+2024
+2023
+£
+£
+Profit on ordinary activities before tax
+971,803
+834,988
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 25% (2023 - 20%)
+242,951
+167,158
+Effects of:
+Non-tax deductible amortisation of goodwill and impairment
+275,671
+220,748
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+24,626
+4,673
+Adjustments to tax charge in respect of prior periods
+-
+(
+45,506
+)
+Other timing differences leading to an increase (decrease) in taxation
+4,526
+7,005
+Adjustment in research and development tax credit leading to an increase (decrease) in the tax charge
+(
+224,732
+)
+(
+269,930
+)
+Total tax charge for the year
+323,042
+84,148
+Page 26
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+10.
+Taxation (continued)
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+11.
+Intangible assets
+Goodwill
+=== page 26 ===
+£
+Cost
+At 1 June 2023
+22,479,691
+At 31 May 2024
+22,479,691
+Amortisation
+At 1 June 2023
+16,800,814
+Charge for the year on owned assets
+1,102,682
+At 31 May 2024
+17,903,496
+Net book value
+At 31 May 2024
+4,576,195
+At 31 May 2023
+5,678,877
+Page 27
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+12.
+Tangible fixed assets
+Freehold property
+Motor vehicles
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+£
+£
+Cost or valuation
+At 1 June 2023
+784,857
+573,795
+420,357
+1,260,005
+3,039,014
+Additions
+-
+31,250
+9,617
+-
+40,867
+At 31 May 2024
+784,857
+605,045
+429,974
+1,260,005
+3,079,881
+Depreciation
+At 1 June 2023
+66,404
+459,824
+380,491
+1,245,376
+2,152,095
+Charge for the year on owned assets
+15,697
+49,727
+28,031
+12,025
+105,480
+At 31 May 2024
+82,101
+509,551
+408,522
+=== page 27 ===
+1,257,401
+2,257,575
+Net book value
+At 31 May 2024
+702,756
+95,494
+21,452
+2,604
+822,306
+At 31 May 2023
+718,453
+113,971
+39,866
+14,629
+886,919
+13.
+Stocks
+2024
+2023
+£
+£
+Finished goods and goods for resale
+73,069
+77,853
+Page 28
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+14.
+Debtors
+2024
+2023
+£
+£
+Due after more than one year
+Prepayments and accrued income
+1,702,803
+2,021,329
+2024
+2023
+£
+£
+Due within one year
+Trade debtors
+691,286
+426,721
+Other debtors
+18,260
+62,368
+Prepayments and accrued income
+3,744,759
+3,923,188
+Deferred taxation
+61,780
+47,096
+4,516,085
+4,459,373
+Included within prepayments and accrued income due within one year are customer incentives, which are spread over the life of the contracts to which they relate, totaling £2,585,921 (2023 - £2,596,520).
+Included within prepayments and accrued income due after more than one year are customer incentives, which are spread over the life of the contracts to which they relate, totaling £1,240,031 (2023 - £1,662,019).
+15.
+Cash and cash equivalents
+2024
+2023
+£
+£
+Cash at bank and in hand
+3,819,381
+2,319,907
+Page 29
+TELA TECHNOLOGY LIMITED
+=== page 28 ===
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+16.
+Creditors: Amounts falling due within one year
+2024
+2023
+£
+£
+Trade creditors
+3,565,212
+3,726,677
+Corporation tax
+337,726
+105,488
+Other taxation and social security
+562,474
+340,524
+Obligations under finance lease and hire purchase contracts
+-
+2,814
+Other creditors
+1,328,328
+1,237,554
+Accruals and deferred income
+974,965
+1,040,258
+6,768,705
+6,453,315
+17.
+Creditors: Amounts falling due after more than one year
+2024
+2023
+£
+£
+Other creditors
+2,721,836
+3,831,583
+Accruals and deferred income
+112,145
+189,485
+2,833,981
+4,021,068
+Page 30
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+18.
+Deferred taxation
+2024
+2023
+£
+£
+At beginning of year
+47,096
+71,262
+Charged to profit or loss
+14,684
+(
+24,166
+)
+At end of year
+61,780
+47,096
+The 
+deferred tax asset
+ is made up as follows:
+2024
+2023
+£
+£
+=== page 29 ===
+Accelerated capital allowances
+-
+(
+16,407
+)
+Provisions
+61,780
+63,503
+61,780
+47,096
+19.
+Provisions
+Sales provisions
+Other provisions
+Total
+£
+£
+£
+At 1 June 2023
+4,327,702
+540,578
+4,868,280
+Credit to profit or loss
+253,994
+34,523
+288,517
+At 31 May 2024
+4,581,696
+575,101
+5,156,797
+Sales provisions
+:
+Sales provisions relate to customer incentives including cashback, kit funds and similar promotions, and network operator performance penalties. Sales provisions are expected to be utilised within the following one to five years.
+Other provisions:
+Where the director is aware of legal action against the company, a provision is made for the estimated costs of settlement and related professional fees.
+Page 31
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+20.
+Share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+100,000
+ (2023 - 
+100,000
+)
+Ordinary
+shares of
+£
+1.00
+ each
+100,000
+100,000
+8,108
+ (2023 - 
+8,108
+)
+Ordinary A
+shares of
+£
+4.00
+ each
+32,432
+32,432
+1,000
+ (2023 - 
+=== page 30 ===
+1,000
+)
+Preference
+shares of
+£
+1.00
+ each
+1,000
+1,000
+80,000
+ (2023 - 
+80,000
+)
+A Growth
+shares of
+£
+0.10
+ each
+8,000
+8,000
+20,000
+ (2023 - 
+20,000
+)
+B Growth
+shares of
+£
+0.10
+ each
+2,000
+2,000
+143,432
+143,432
+The Ordinary, A Growth and B Growth shares have full voting, dividend and capital distribution rights.
+The Ordinary A shares have voting rights equal to 5% of the total voting rights of the Company, as a class. Ordinary A shares have the right to receive a dividend on the recommendation of the director.
+The Preference shares are redeemable at issue price on the recommendation of the director, but otherwise carry no voting, dividend or capital distribution rights.
+21.
+Reserves
+Share premium account
+The share premium account represents the amount above the nominal value received for the shares issued.
+Profit and loss account
+The profit and loss account includes all current and prior period retained profits and losses. 
+22.
+Pension commitments
+The Company operates a defined contribution pension scheme for all qualifying employees. The assets of the scheme are held separately from those of the Company in an independently administered fund.
+Contributions totaling £19,029 (2023 - £17,063) were payable to the fund at the year end date and are included in creditors.
+Page 32
+TELA TECHNOLOGY LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2024
+23.
+Commitments under operating leases
+At 
+31 May 2024
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2024
+2023
+£
+£
+Not later than 1 year
+135,121
+116,004
+Later than 1 year and not later than 5 years
+190,558
+112,130
+Later than 5 years
+3,744
+-
+=== page 31 ===
+329,423
+228,134
+24.
+Related party transactions
+During the year the director made interest free loans to the Company. At the year end the amount due to the 
+director
+ (repayable with notice of one year and one day) was £
+2,721,836
+ (2023 - £
+3,584,465
+), and is included within other creditors. Total repayments made by the 
+Company
+ to the director during the year (net) were £
+862,629
+ (2023 – £
+362,742
+).
+25.
+Controlling party
+The ultimate controlling party is 
+Mr S S Cheema
+ by virtue of his majority shareholding.
+Page 33

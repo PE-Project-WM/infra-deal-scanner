@@ -1,0 +1,2374 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts
+Caseware UK (AP4) 2023.0.135
+ 2023.0.135
+2023-12-31
+2023-12-31
+0
+false
+false
+true
+true
+true
+true
+true
+true
+173
+false
+2023-01-01
+No description of principal activity
+294
+5643503
+2023-01-01
+2023-12-31
+5643503
+2022-01-01
+2022-12-31
+5643503
+2023-12-31
+5643503
+2022-12-31
+5643503
+2022-01-01
+5643503
+2
+2023-01-01
+2023-12-31
+5643503
+2
+2022-01-01
+2022-12-31
+5643503
+7
+2023-01-01
+2023-12-31
+5643503
+7
+2022-01-01
+2022-12-31
+5643503
+d:Director1
+2023-01-01
+2023-12-31
+5643503
+d:Director2
+2023-01-01
+2023-12-31
+5643503
+d:Director3
+2023-01-01
+2023-12-31
+5643503
+d:Director4
+2023-01-01
+2023-12-31
+5643503
+d:Director5
+2023-01-01
+2023-12-31
+5643503
+d:Director5
+2023-12-31
+=== page 2 ===
+5643503
+d:Director6
+2023-01-01
+2023-12-31
+5643503
+d:Director6
+2023-12-31
+5643503
+d:Director7
+2023-01-01
+2023-12-31
+5643503
+d:Director7
+2023-12-31
+5643503
+d:Director8
+2023-01-01
+2023-12-31
+5643503
+d:Director8
+2023-12-31
+5643503
+d:Director9
+2023-01-01
+2023-12-31
+5643503
+d:Director9
+2023-12-31
+5643503
+d:RegisteredOffice
+2023-01-01
+2023-12-31
+5643503
+d:Agent1
+2023-01-01
+2023-12-31
+5643503
+e:FurnitureFittings
+2023-01-01
+2023-12-31
+5643503
+e:FurnitureFittings
+2023-12-31
+5643503
+e:FurnitureFittings
+2022-12-31
+5643503
+e:FurnitureFittings
+e:OwnedOrFreeholdAssets
+2023-01-01
+2023-12-31
+5643503
+e:ComputerEquipment
+2023-01-01
+2023-12-31
+5643503
+e:ComputerEquipment
+2023-12-31
+5643503
+e:ComputerEquipment
+2022-12-31
+5643503
+e:ComputerEquipment
+e:OwnedOrFreeholdAssets
+2023-01-01
+2023-12-31
+5643503
+e:OwnedOrFreeholdAssets
+2023-01-01
+2023-12-31
+=== page 3 ===
+5643503
+e:Goodwill
+2023-01-01
+2023-12-31
+5643503
+e:Goodwill
+2023-12-31
+5643503
+e:Goodwill
+2022-12-31
+5643503
+e:CurrentFinancialInstruments
+2023-12-31
+5643503
+e:CurrentFinancialInstruments
+2022-12-31
+5643503
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2023-12-31
+5643503
+e:CurrentFinancialInstruments
+e:WithinOneYear
+2022-12-31
+5643503
+e:ReportableOperatingSegment1
+2023-01-01
+2023-12-31
+5643503
+e:ReportableOperatingSegment1
+2022-01-01
+2022-12-31
+5643503
+e:ReportableOperatingSegment2
+2023-01-01
+2023-12-31
+5643503
+e:ReportableOperatingSegment2
+2022-01-01
+2022-12-31
+5643503
+e:ReportableOperatingSegment3
+2023-01-01
+2023-12-31
+5643503
+e:ReportableOperatingSegment3
+2022-01-01
+2022-12-31
+5643503
+e:UKTax
+2023-01-01
+2023-12-31
+5643503
+e:UKTax
+2022-01-01
+2022-12-31
+5643503
+e:ShareCapital
+2023-01-01
+2023-12-31
+5643503
+e:ShareCapital
+2023-12-31
+5643503
+e:ShareCapital
+2022-01-01
+2022-12-31
+5643503
+e:ShareCapital
+2022-12-31
+=== page 4 ===
+5643503
+e:ShareCapital
+2022-01-01
+5643503
+e:SharePremium
+2023-01-01
+2023-12-31
+5643503
+e:SharePremium
+2023-12-31
+5643503
+e:SharePremium
+2022-01-01
+2022-12-31
+5643503
+e:SharePremium
+2022-12-31
+5643503
+e:SharePremium
+2022-01-01
+5643503
+e:CapitalRedemptionReserve
+2023-01-01
+2023-12-31
+5643503
+e:CapitalRedemptionReserve
+2023-12-31
+5643503
+e:CapitalRedemptionReserve
+2022-01-01
+2022-12-31
+5643503
+e:CapitalRedemptionReserve
+2022-12-31
+5643503
+e:CapitalRedemptionReserve
+2022-01-01
+5643503
+e:RetainedEarningsAccumulatedLosses
+2023-01-01
+2023-12-31
+5643503
+e:RetainedEarningsAccumulatedLosses
+2023-12-31
+5643503
+e:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-31
+5643503
+e:RetainedEarningsAccumulatedLosses
+2022-12-31
+5643503
+e:RetainedEarningsAccumulatedLosses
+2022-01-01
+5643503
+e:AcceleratedTaxDepreciationDeferredTax
+2023-12-31
+5643503
+e:AcceleratedTaxDepreciationDeferredTax
+2022-12-31
+5643503
+e:OtherDeferredTax
+2023-12-31
+5643503
+e:OtherDeferredTax
+2022-12-31
+5643503
+d:OrdinaryShareClass1
+2023-01-01
+2023-12-31
+=== page 5 ===
+5643503
+d:OrdinaryShareClass1
+2023-12-31
+5643503
+d:OrdinaryShareClass1
+2022-12-31
+5643503
+d:FRS102
+2023-01-01
+2023-12-31
+5643503
+d:Audited
+2023-01-01
+2023-12-31
+5643503
+d:FullAccounts
+2023-01-01
+2023-12-31
+5643503
+d:PrivateLimitedCompanyLtd
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary1
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary2
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary2
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary3
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary3
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary4
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary4
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary5
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary5
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary6
+2023-01-01
+=== page 6 ===
+2023-12-31
+5643503
+e:Subsidiary6
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary7
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary7
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary8
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary8
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary9
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary9
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary10
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary10
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary11
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary11
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary12
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary12
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary13
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary13
+1
+2023-01-01
+2023-12-31
+5643503
+=== page 7 ===
+e:Subsidiary14
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary14
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary15
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary15
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary16
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary16
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary17
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary17
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary18
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary18
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary19
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary19
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary20
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary20
+1
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary21
+2023-01-01
+2023-12-31
+5643503
+e:Subsidiary21
+1
+2023-01-01
+=== page 8 ===
+2023-12-31
+5643503
+e:WithinOneYear
+2023-12-31
+5643503
+e:WithinOneYear
+2022-12-31
+5643503
+e:BetweenOneFiveYears
+2023-12-31
+5643503
+e:BetweenOneFiveYears
+2022-12-31
+5643503
+e:MoreThanFiveYears
+2023-12-31
+5643503
+e:MoreThanFiveYears
+2022-12-31
+5643503
+e:Goodwill
+e:ExternallyAcquiredIntangibleAssets
+2023-01-01
+2023-12-31
+5643503
+2
+2023-01-01
+2023-12-31
+5643503
+6
+2023-01-01
+2023-12-31
+5643503
+e:Goodwill
+e:OwnedIntangibleAssets
+2023-01-01
+2023-12-31
+5643503
+f:PoundSterling
+2023-01-01
+2023-12-31
+iso4217:GBP
+xbrli:shares
+xbrli:pure
+Company registration number: 
+5643503
+ANNUAL REPORT AND FINANCIAL STATEMENTS
+FOR THE YEAR ENDED
+31 DECEMBER 2023
+ARROW BUSINESS COMMUNICATIONS LIMITED
+ARROW BUSINESS COMMUNICATIONS LIMITED
+COMPANY INFORMATION
+Directors
+C J Russell
+T Tribe
+R E Burke
+J D Harber
+H E Long
+(appointed 
+11 April 2024
+)
+Registered number
+5643503
+Registered office
+1st Floor, The Wharf
+Abbey Mill Business Park
+Godalming
+Surrey
+GU7 2QN
+Independent auditors
+=== page 9 ===
+Menzies LLP
+Chartered Accountants
+ & 
+Statutory Auditor
+Lynton House
+7-12 Tavistock Square
+London
+WC1H 9LT
+Bankers
+Lloyds Bank plc
+25 Gresham Street
+London
+EC2V 7HN
+ARROW BUSINESS COMMUNICATIONS LIMITED
+CONTENTS
+Page
+Strategic report
+1 - 3
+Directors' report
+4 - 5
+Independent auditors' report
+6 - 9
+Statement of comprehensive income
+10
+Statement of financial position
+11 - 12
+Statement of changes in equity
+12
+Notes to the financial statements
+13 - 27
+ARROW BUSINESS COMMUNICATIONS LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+Business review
+The Company has again made significant progress with substantial increases in sales, EBITDA (profit before interest, tax, depreciation and amortisation) and cash generation. The Company sales revenue track record of sustained growth continued with this financial year recording an increase of sales to £66.9m (2022: £30.5m) following the hive up of three subsidiary companies at the start of the year. 
+A primary focus of the Group during 2023 has been on becoming ‘One ARO’ under a unique brand across all of our subsidiary companies, including this Company. 
+With a continued focus on recurring revenue acceleration, the Company has delivered above target recurring revenue levels of 83.4%. This has been achieved in addition to adding more highly technical consultative capability and professional service offerings into the solution portfolio.
+Gross profit margins remained stable at 45.7% (2022: 44.3%) as existing contracts were renewed and extended, tracking general industry trends and as a reflection of the change in revenue mix towards IT managed services, Complex Networking and Cyber Security markets. 
+The overhead structure continues to benefit from synergies from previous acquisitions. Integration intensity has been exceptionally high in the year as the complex mix of solutions offerings is bedded into a unified organisation with common operational applications and purpose. Following investment in new customer experience, sales and marketing and employee experience platforms during 2022, three subsidiary companies were hived up into the Company in 2023, creating an enhanced end user and employee experience.
+The Company achieved EBITDA of £10.7m, after adjusting to exclude one off expenses related to acquisitions (non-standard trading expenses).
+The net liability reported in the balance sheet arises principally from goodwill amortisation of acquired entities.
+Subsequent events
+The business is well funded and resourced to continue its growth strategy. The Directors have reviewed detailed business forecasts and scenarios, including for cash flow and borrowing facility headroom for the forthcoming years and have concluded there are no material going concern risks. This review included a worst case forecast and the directors are confident that the business will continue to trade profitably and generate sufficient cash to cover all eventualities. 
+Principal risks and uncertainties
+The key business risks and uncertainties affecting the Company have the potential to be impacted in the longer-term by trends in other markets and the wider economic environment. In order to mitigate the risk of a downturn in one market having a significant impact on the Company, management try to ensure that all of the trading activities in the Company have market diversification where possible. The Company’s customer base is highly diversified across a wide range of sectors, both private and public. Whilst the customer base is predominantly located in the UK an element of the supply chain is globally located and therefore presents procurement risks for timeliness of delivery. Such risks are proactively managed and minimized where at all possible.
+Pricing continues to be a risk to the Company, both in terms of regulatory changes and competition. This risk is mitigated by offering new services that offer additional value and by cross selling products supplied via the various acquisitions. The growth strategies provide greater scale and therefore buying economy opportunities.
+Key performance indicators
+The Company’s main key performance indicator is earnings before interest, tax, depreciation, and amortisation (EBITDA). The Company achieved an EBITDA of £10.7m.
+Page 1
+ARROW BUSINESS COMMUNICATIONS LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+Financial instruments
+The principal financial instruments of the Company comprise of bank balances, trade debtors and trade creditors.
+Working capital requirements are met principally out of trade debtors and trade creditors which arise directly from the Company’s normal operations. The Company’s banking facilities are utilised to fund acquisitions and will be repaid out of operating cash flow. The Company’s finance facilities are held in sterling and the Company does not enter any hedging arrangements.
+Trade debtors are managed in respect of credit and there is a policy to minimise any risk by assessing new customers' credit risk and monitoring existing customers' creditworthiness. At the balance sheet date there were no significant concentrations of credit risk. The maximum exposure to credit risk is represented by the carrying amount of each financial asset in the balance sheet.
+Trade creditors liquidity risk is managed by ensuring sufficient funds are available to meet amounts due. Cash flow is closely monitored as part of day to day control procedures and the directors review cash flow projections on a weekly basis and ensure appropriate facilities are available to be drawn upon, as necessary.
+Directors' statement of compliance with duty to promote the success of the Company
+The directors have complied with the requirements of s172 of the Companies Act 2006.
+The overarching Values and Commitment Strategy within ARO is to develop a long-term, sustainable business. One that delivers value for all its stakeholders, including employees, clients, suppliers, business partners and the wider community. By managing the business responsibly, the directors intend to support the creation of a financially stable organisation and deliver value for all stakeholders.
+The ARO Group is owned by its management team and employees, together with investment partner, MML. As noted elsewhere in this report, all employees are regularly consulted with and fully understand the business’s immediate and future strategic direction, as well as the current trading performance. This ownership model and consultative approach fosters a strong culture and high levels of employee satisfaction and retention, while also ensuring all employees are treated fairly and consistently. There is also a dedicated Employee Engagement team that focuses on continuously improving this key area within the business.
+Customer relationships are the heartbeat of the business, with customer retention being a key performance indicator. Customer Satisfaction (CSAT) and monthly Net Promoter Score (NPS) surveys provide valuable feedback on customer satisfaction and engagement within ARO. Achieving high levels of service excellence is a core element of the Company’s philosophy. Many experienced customer account managers are employed to ensure customers are well supported with high levels of service excellence.
+Given that Arrow is a business using global suppliers, the directors fully acknowledge a duty to trade responsibly. Arrow has an Ofcom approved Code of Practice, is a member of the approved dispute resolutions scheme OTELO, and holds network accreditations with several of the industry’s leading network operators. Business is conducted in line with Arrow’s Code of Conduct and several other internal policies and procedures. These are all designed to ensure the Group maintains the highest possible reputation for standards of conduct. The Group also has a dedicated commercial team. They are responsible for maintaining regular engagement with suppliers, ensuring they‘re kept informed of the Group’s performance and strategic objectives – in both the short-term and longer-term.
+The Group has a Corporate Social Responsibility Policy to ensure the interests of all stakeholders, including those based in the wider community, are acknowledged and protected. Arrow is committed to identifying, managing, and minimising the environmental impact of business operations. Arrow maintains an Environmental Policy to manage this, and to ensure compliance with all applicable environmental legislation, and to strive to use pollution prevention and environmental best practices in all areas. With regards to impact on the community, Arrow engages with the local areas in which it works, is committed to making a positive social and economic impact, while understanding and managing any negative impacts of its business operations. In addition, the Group seeks to make a positive social contribution through the services we provide to clients. Programmes are in place to support employee volunteering and fundraising, as well as local community and charity support.
+Page 2
+ARROW BUSINESS COMMUNICATIONS LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+This report was approved by the board
+ and signed on its behalf
+=== page 10 ===
+.
+R E Burke
+Director
+Date: 
+12 July 2024
+Page 3
+ARROW BUSINESS COMMUNICATIONS LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2023
+The 
+Directors
+present
+their
+report and the
+financial statements
+ for the 
+year
+ ended 
+31 December 2023
+.
+Directors' responsibilities statement
+The 
+Directors
+are
+ responsible for preparing the
+ Strategic report, the Directors' report and the 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+Directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the Directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the Directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these financial statements, the Directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+Directors
+are
+ responsible for keeping 
+adequate
+=== page 11 ===
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+21,389,467
+ (2022 - 
+loss 
+£
+2,672,055
+)
+.
+The directors have not recommended payment of dividends.
+Directors
+The 
+Directors
+ who served during the 
+year
+were:
+C J Russell
+T Tribe
+R E Burke
+J D Harber
+S J Wort
+(resigned 
+31 March 2023
+)
+D A Lee
+(resigned 
+30 April 2023
+)
+J R Briscoe
+(resigned 
+30 September 2023
+)
+A C Ashton
+(appointed 
+27 April 2023
+, resigned 
+22 January 2024
+)
+Future developments
+The directors are planning on further acquisitions in 2024 alongside completion of the integration of subsidiaries within the group so as to simplify the corporate structure via corporate hiving-up of the assets and liabilities in advance of commencing strike-off proceedings for those legal entities.
+Organic growth both from new customer additions and development of existing accounts into new service offerings continues.
+Page 4
+ARROW BUSINESS COMMUNICATIONS LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2023
+Greenhouse gas emissions, energy consumption and energy efficiency action
+The Company has not disclosed information in respect of greenhouse gas emissions, energy consumption and energy efficiency action as it is disclosed within the reporting of its ultimate parent company.
+Matters covered in the Strategic report
+The Company has chosen in accordance with Section 414C(II) of the Companies Act 2006 (Strategic Report and Directors’ Report) Regulations 2013 to set out within the Company’s Strategic Report, the information required by Schedule 7 of the Large and Medium Sized Companies and Groups (Accounts and Reports) Regulation 2008. This includes information that would have been included in the Directors' Report, such as the business review, details of the principal risks and uncertainties, subsequent events and the company's approach to compliance with Section 172(1) of the Companies Act 2006.
+Disclosure of information to auditors
+Each of the persons who are 
+Directors
+=== page 12 ===
+ at the time when this 
+Directors' report
+ is approved has confirmed that:
+∙
+so far as 
+the Director
+ is aware, there is no relevant audit information of which the 
+Company
+'s auditor
+s
+are
+ unaware, and
+∙
+the Director
+ has taken all the steps that ought to have been taken as a 
+Director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor
+s
+are
+ aware of that information.
+Auditors
+The auditor
+s
+, 
+Menzies LLP
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf.
+H E Long
+Director
+Date: 
+12 July 2024
+Page 5
+ARROW BUSINESS COMMUNICATIONS LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF ARROW BUSINESS COMMUNICATIONS LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+Arrow Business Communications Limited (the 'Company')
+ for the 
+year
+ ended 
+31 December 2023
+, which comprise 
+the Statement of comprehensive income, the Statement of financial position, the Statement of changes in equity
+ and the related notes, including a summary of significant accounting policies
+. 
+The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards, 
+including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In 
+our
+ opinion
+ the financial statements
+:
+∙
+give a true and fair view of the state of the 
+Company's
+ affairs as at 
+31 December 2023
+ and of 
+=== page 13 ===
+its
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with 
+United Kingdom 
+Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We
+ conducted 
+our
+ audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our
+ responsibilities under those standards are further described in the 
+Auditors'
+ responsibilities for the audit of the 
+financial statements
+ section of 
+our
+ report. 
+We
+are
+ independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to 
+our
+ audit of the 
+financial statements
+ in the United Kingdom, including the Financial Reporting Council's Ethical Standard
+and 
+we
+ have fulfilled 
+our
+ other ethical responsibilities in accordance with these requirements. 
+We
+ believe that the audit evidence 
+we
+ have obtained is sufficient and appropriate to provide a basis for 
+our
+ opinion.
+Conclusions relating to going concern
+In auditing the financial statements, 
+we
+ have concluded that the 
+Directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work 
+we
+ have performed, 
+we
+ have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company's
+ ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our
+ responsibilities and the responsibilities of the 
+Directors
+ with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the 
+Annual Report
+ other than the financial statements and 
+our
+Auditors' report
+ thereon. The 
+Directors
+are
+=== page 14 ===
+ responsible for the other information contained within the 
+Annual Report
+. 
+Our
+ opinion on the financial statements does not cover the other information and
+, except to the extent otherwise explicitly stated in our report,
+we
+ do not express any form of assurance conclusion thereon. 
+Our
+ responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or 
+our
+ knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If 
+we
+ identify such material inconsistencies or apparent material misstatements, 
+we
+are
+ required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work 
+we
+ have performed, 
+we
+ conclude that there is a material misstatement of this other information, 
+we
+are
+ required to report that fact.
+We
+ have nothing to report in this regard.
+Page 6
+ARROW BUSINESS COMMUNICATIONS LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF ARROW BUSINESS COMMUNICATIONS LIMITED (CONTINUED)
+Opinion on other matters prescribed by the Companies Act 2006
+In 
+our
+ opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the 
+Strategic report and the Directors' report
+ for the financial 
+year
+ for which the 
+financial statements
+ are prepared is consistent with the 
+financial statements
+; and
+∙
+the 
+Strategic report and the Directors' report
+have
+ been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, 
+we
+ have not identified material misstatements in the 
+Strategic report or the Directors' report
+.
+We
+ have nothing to report in respect of the following matters in relation to which
+ the Companies Act 2006
+ requires 
+us
+ to report to you if, in 
+our
+ opinion:
+∙
+adequate accounting records have not been 
+kept
+, or returns adequate for 
+our
+ audit have not been received from branches not visited by 
+=== page 15 ===
+us
+; or
+∙
+the 
+financial statements
+ are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+Directors
+'
+ remuneration specified by law are not made; or
+∙
+we
+ have not received all the information and explanations 
+we
+ require for 
+our
+ audit
+.
+Responsibilities of directors
+As explained more fully in the 
+Directors' responsibilities statement
+ set out on page 4, the 
+Directors
+are
+ responsible for the preparation of the 
+financial statements
+ and for being satisfied that they give a true and fair view, and for such internal control as the 
+Directors
+determine
+ is necessary to enable the preparation of 
+financial statements
+ that are free from material misstatement, whether due to fraud or error.
+In preparing the 
+financial statements
+, the 
+Directors
+are
+ responsible for assessing the 
+Company
+'s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+Directors
+ either 
+intend
+ to liquidate the 
+Company
+ or to cease operations, or have no realistic alternative but to do so.
+Page 7
+ARROW BUSINESS COMMUNICATIONS LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF ARROW BUSINESS COMMUNICATIONS LIMITED (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements
+Our
+ objectives are to obtain reasonable assurance about whether the 
+financial statements
+ as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+Auditors' report
+ that includes 
+our
+ opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+financial statements
+.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. 
+We
+ design procedures in line with 
+our
+ responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which 
+our
+ procedures are capable of detecting irregularities, including fraud is detailed below:
+The Company is subject to laws and regulations that directly affect the financial statements including financial reporting legislation. We determined that the following laws and regulations were most significant: 
+∙
+=== page 16 ===
+The Companies Act 2006;
+∙
+Financial Reporting Standard 102;
+∙
+UK employment legislation;
+∙
+UK health and safety legislation;
+∙
+General Data Protection Regulations; 
+∙
+UK tax legislation; and,
+∙
+OFCOM
+We assessed the extent of compliance with these laws and regulations as part of our procedures on the related financial statement items. 
+We understood how the Company is complying with those legal and regulatory frameworks by, making inquiries to management, those responsible for legal and compliance procedures and the company secretary.
+The engagement partner assessed whether the engagement team collectively had the appropriate competence and capabilities to identify or recognise non-compliance with laws and regulations. The assessment did not identify any issues in this area
+We assessed the susceptibility of the Company financial statements to material misstatement, including how fraud might occur. Audit procedures performed by the engagement team included:
+∙
+Identifying and assessing the measures management has in place to prevent and detect fraud;
+∙
+Understanding how those charged with governance considered and addressed the potential for override of controls or other inappropriate influence over the financial reporting process; 
+∙
+Challenging assumptions and judgments made by management in its significant accounting estimates; and 
+∙
+Identifying and testing journal entries, in particular any journal entries posted with unusual account combinations.
+As a result of the above procedures, we considered the opportunities and incentives that may exist within the organisation for fraud and identified the greatest potential for fraud in the following areas:
+∙
+The use of management override of controls to manipulate results, or to cause the Company to enter into transactions not in its best interests; or
+∙
+Posting of unusual journals and complex transactions. 
+Because of the inherent limitations of an audit, there is a risk that 
+we
+ will not detect all irregularities, including those leading to a material misstatement in the 
+financial statements
+ or non-compliance with regulation. This risk increases the more that compliance with a law or regulation is removed from the events and transactions reflected in the 
+financial statements
+, as 
+we
+ will be less likely to become aware of instances of non-compliance. The risk is also greater regarding irregularities occurring due to fraud rather than error, as fraud involves intentional concealment, forgery, collusion, omission or misrepresentation.
+Page 8
+ARROW BUSINESS COMMUNICATIONS LIMITED
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF ARROW BUSINESS COMMUNICATIONS LIMITED (CONTINUED)
+A further description of 
+our
+ responsibilities for the audit of the 
+financial statements
+ is located on the Financial Reporting Council's website at: 
+www.frc.org.uk/auditorsresponsibilities
+. This description forms part of 
+our
+Auditors' report
+.
+Use of our report
+This report is made solely to the 
+Company
+'s 
+members, as a body,
+ in accordance with Chapter 3 of Part 16 of the Companies Act 2006
+. 
+Our
+ audit work has been undertaken so that 
+we
+ might state to the 
+Company
+'s 
+members
+ those matters 
+we
+are
+ required to state to them in an 
+=== page 17 ===
+Auditors' report
+ and for no other purpose. To the fullest extent permitted by law, 
+we
+ do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s 
+members, as a body,
+ for 
+our
+ audit work, for this report, or for the opinions 
+we
+ have formed.
+Robin Hopkins FCA
+ (Senior statutory auditor)
+for and on behalf of
+Menzies LLP
+Chartered Accountants
+Statutory Auditor
+Lynton House
+7-12 Tavistock Square
+London
+WC1H 9LT
+12 July 2024
+Page 9
+ARROW BUSINESS COMMUNICATIONS LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 DECEMBER 2023
+2023
+2022
+Note
+£
+£
+Turnover
+4
+66,874,783
+30,479,798
+Cost of sales
+(
+36,288,455
+)
+(
+16,989,616
+)
+Gross profit
+30,586,328
+13,490,182
+Administrative expenses
+(
+36,063,641
+)
+(
+16,936,497
+)
+Operating loss
+5
+(
+5,477,313
+)
+(
+3,446,315
+)
+Income from shares in group undertakings
+9
+28,296,246
+-
+Interest receivable and similar income
+10
+=== page 18 ===
+-
+736,757
+Profit/(loss) before tax
+22,818,933
+(
+2,709,558
+)
+Tax on profit/(loss)
+11
+(
+1,429,466
+)
+37,503
+Profit/(loss) for the financial year
+21,389,467
+(
+2,672,055
+)
+There was no other comprehensive income for 
+2023
+ (
+2022
+:
+£
+NIL
+).
+The notes on pages 13 to 27 form part of these 
+financial statements
+.
+Page 10
+ARROW BUSINESS COMMUNICATIONS LIMITED
+REGISTERED NUMBER:
+5643503
+STATEMENT OF FINANCIAL POSITION
+AS AT 
+31 DECEMBER 2023
+2023
+2022
+Note
+£
+£
+Fixed assets
+Intangible fixed assets
+12
+19,211,238
+9,290,778
+Tangible fixed assets
+13
+3,233,562
+1,161,241
+Fixed asset investments
+14
+61,776,884
+107,487,234
+84,221,684
+117,939,253
+Current assets
+Stocks
+15
+200,868
+374,471
+Debtors: amounts falling due within one year
+16
+17,041,190
+12,871,309
+Cash at bank and in hand
+17
+8,465,944
+799,697
+25,708,002
+=== page 19 ===
+14,045,477
+Creditors: amounts falling due within one year
+18
+(
+129,137,860
+)
+(
+142,411,415
+)
+Net current liabilities
+(
+103,429,858
+)
+(
+128,365,938
+)
+Total assets less current liabilities
+(
+19,208,174
+)
+(
+10,426,685
+)
+Provisions for liabilities
+Deferred tax
+19
+(
+624,720
+)
+(
+186,971
+)
+(
+624,720
+)
+(
+186,971
+)
+Net liabilities
+(
+19,832,894
+)
+(
+10,613,656
+)
+Capital and reserves
+Called up share capital 
+20
+9,082
+9,082
+Share premium account
+21
+559,285
+559,285
+Capital redemption reserve
+21
+127,054
+127,054
+Profit and loss account
+21
+(
+20,528,315
+)
+(
+11,309,077
+)
+(
+19,832,894
+)
+(
+=== page 20 ===
+10,613,656
+)
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+H E Long
+Director
+Date: 
+12 July 2024
+The notes on pages 13 to 27 form part of these financial statements.
+Page 11
+ARROW BUSINESS COMMUNICATIONS LIMITED
+REGISTERED NUMBER:
+5643503
+STATEMENT OF FINANCIAL POSITION
+ (CONTINUED)
+AS AT 
+31 DECEMBER 2023
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 DECEMBER 2023
+Called up share capital
+Share premium account
+Capital redemption reserve
+Profit and loss account
+Total equity
+£
+£
+£
+£
+£
+At 1 January 2022
+9,082
+559,285
+127,054
+(
+5,231,635
+)
+(
+4,536,214
+)
+Loss for the year
+-
+-
+-
+(
+2,672,055
+)
+(
+2,672,055
+)
+Goodwill adjustment
+-
+-
+-
+(3,405,387
+)
+(
+3,405,387
+)
+Total comprehensive income for the year
+-
+-
+-
+=== page 21 ===
+(
+6,077,442
+)
+(
+6,077,442
+)
+At 1 January 2023
+9,082
+559,285
+127,054
+(
+11,309,077
+)
+(
+10,613,656
+)
+Profit for the year
+-
+-
+-
+21,389,467
+21,389,467
+Goodwill adjustment
+-
+-
+-
+(30,608,705
+)
+(
+30,608,705
+)
+Total comprehensive income for the year
+-
+-
+-
+(
+9,219,238
+)
+(
+9,219,238
+)
+At 31 December 2023
+9,082
+559,285
+127,054
+(
+20,528,315
+)
+(
+19,832,894
+)
+The notes on pages 13 to 27 form part of these 
+financial statements
+.
+Page 12
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+1.
+General information
+Arrow Business Communications Limited is a private company, limited by shares, incorporated in the England and Wales under the Companies Act 2006. The address of the registered office is given on the Company Information page, which is also the principal trading address. The principal activities of the company and the nature of its operations are set out in the Strategic Report.
+The financial statements are prepared in Pound Sterling, which is the functional currency of the entity.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+=== page 22 ===
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 11 Financial Instruments paragraphs 11.42, 11.44 to 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c)
+;
+∙
+the requirements of Section 12 Other Financial Instruments paragraphs 12.26 to 12.27, 12.29(a), 12.29(b) and 12.29A
+;
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+Arrow Communications Holdings Limited
+ as at 
+31 December 2023
+ and these financial statements may be obtained from 
+Companies House
+.
+2.3
+Going concern
+The operating losses for the year arise as a result of the amortisation of goodwill as set out in note 12, directly as a result of the accelerated acquisition programme. The Company, and the group below it, is cash generative on an operating basis and the detailed forecasts prepared by the directors confirm that it is expected to remain so over the forthcoming years.
+At the end of the year, the group in which the Company is a part of had unused bank facilities and together with ongoing discussions with the group's bankers to fund future acquisitions, the directors are confident that obligations can be met as they fall due. Therefore the financial statements have been prepared on a going concern basis.
+Page 13
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2.
+Accounting policies (continued)
+2.4
+Exemption from preparing consolidated financial statements
+The Company is a parent company that is also a subsidiary included in the consolidated financial statements of a larger group by a parent undertaking established under the law of any part of the United Kingdom and is therefore exempt from the requirement to prepare consolidated financial statements under section 400 of the Companies Act 2006.
+2.5
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company and the revenue can be reliably measured. Revenue is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes.
+Revenue from one off sale of goods is recognised when the risks and rewards of ownership have been passed to the customer, being once they have been delivered. 
+Where revenue from services is part of a fixed length contract, the revenue is spread evenly across the length of the contract, along with any associated costs which have been incurred in securing the contract.
+2.6
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.7
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8
+Pensions
+=== page 23 ===
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Statement of financial position
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+Page 14
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2.
+Accounting policies (continued)
+2.9
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+reporting date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+.
+2.10
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of 
+its
+ identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight-line basis to the 
+Statement of comprehensive income
+ over its useful economic life.
+All intangible assets are considered to have a finite useful life. 
+ The estimated useful lives range as follows:
+Goodwill
+-
+5-20 years
+2.11
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Page 15
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+2.
+Accounting policies (continued)
+2.11
+Tangible fixed assets (continued)
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Fixtures and fittings
+-
+=== page 24 ===
+2-5 years
+Computer equipment
+-
+1-5 years
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+2.12
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.13
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+reporting date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in profit or loss.
+2.14
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+Statement of financial position
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Page 16
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+The preparation of the accounts in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the accounts and the reported amounts of revenues and expenses during the reporting period. Actual results may differ from these estimates. The key estimates and assumptions used in these accounts are set out below.
+Goodwill amortisation
+The period in which the goodwill of acquired trade and assets is considered to be a significant judgement, considering it is such a material charge in the year. The directors have reviewed their consideration of the life in which the goodwill is valued, being five years for all acquisitions since 2016 and 20 years for goodwill prior to this date, is adequate. 
+Impairment
+Goodwill and investments are tested annually for impairment. Management have established that the key determinant of future value is retention of customers and are satisfied that the underlying assumptions regarding customer retention used in the setting of the useful life of goodwill and that investments have not required impairment, are not unreasonable.
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2023
+2022
+£
+£
+Collaboration
+50,198,279
+26,990,820
+Specialist Datacentre Services
+6,443,432
+-
+Cloud, Cyber & IT
+10,233,072
+3,488,978
+66,874,783
+30,479,798
+All turnover arose 
+within the United Kingdom
+.
+5.
+Operating loss
+The operating loss is stated after charging:
+2023
+2022
+£
+£
+Other operating lease rentals
+584,064
+=== page 25 ===
+355,609
+Page 17
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+6.
+Auditors' remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditors and their associates
+:
+2023
+2022
+£
+£
+Fees payable to the Company's auditors for the audit of the Company's financial statements
+42,000
+30,250
+The 
+Company
+ has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the consolidated accounts of the parent 
+Company
+.
+7.
+Employees
+Staff costs
+, including Directors' remuneration,
+ were as follows:
+2023
+2022
+£
+£
+Wages and salaries
+15,056,550
+7,835,061
+Social security costs
+1,560,353
+863,479
+Cost of defined contribution scheme
+592,750
+332,256
+17,209,653
+9,030,796
+The average
+ monthly
+ number of 
+employees, including the Directors,
+ during the 
+year
+ was as follows:
+2023
+2022
+No.
+No.
+Operations & Direct billable
+153
+87
+Sales / pre-sales
+73
+38
+Central / Other
+68
+48
+294
+173
+=== page 26 ===
+Page 18
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+8.
+Directors' remuneration
+2023
+2022
+£
+£
+Directors' emoluments
+1,103,620
+929,788
+Company contributions to defined contribution pension schemes
+35,187
+38,764
+1,138,807
+968,552
+During the 
+year
+ retirement benefits were accruing to 
+8
+Directors
+ (2022 - 
+7
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+Director
+ received remuneration of 
+£
+200,523
+ (2022 - £
+202,552
+)
+.
+The value of the 
+Company
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+Director
+ amounted to 
+£
+2,681
+ (2022 - £
+10,000
+)
+.
+9.
+Income from investments
+2023
+2022
+£
+£
+Dividend income from investments in group companies
+28,296,246
+-
+28,296,246
+-
+The income is attributable to the subsidiaries hived-up into the company at the start of the year. A related adjustment to goodwill is reflected in the Statement of Changes in Equity.
+10.
+Interest receivable
+2023
+2022
+£
+£
+Interest receivable from group companies
+-
+736,752
+Other interest receivable
+-
+=== page 27 ===
+5
+-
+736,757
+Page 19
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+11.
+Taxation
+2023
+2022
+£
+£
+Corporation tax
+Current tax on profits for the year
+1,468,275
+114,413
+Adjustments in respect of previous periods
+(
+240,794
+)
+(
+299,244
+)
+1,227,481
+(184,831
+)
+Total current tax
+1,227,481
+(
+184,831
+)
+Deferred tax
+Origination and reversal of timing differences
+201,985
+147,328
+Total deferred tax
+201,985
+147,328
+Taxation on profit/(loss) on ordinary activities
+1,429,466
+(
+37,503
+)
+Page 20
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+11.
+Taxation (continued)
+Factors affecting tax charge for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2022 - higher than) 
+the standard rate of corporation tax
+ in the UK of
+23.5
+%
+ (2022 - 
+19
+%)
+. The differences are explained below:
+2023
+2022
+£
+£
+Profit/(loss) on ordinary activities before tax
+22,818,933
+=== page 28 ===
+(
+2,709,558
+)
+Profit/(loss) on ordinary activities multiplied by standard rate of corporation tax in the UK of 23.5% (2022 - 19%)
+5,362,449
+(
+514,816
+)
+Effects of:
+Non-tax deductible amortisation of goodwill and impairment
+2,914,365
+887,851
+Expenses not deductible for tax purposes, other than goodwill amortisation and impairment
+36,019
+13,144
+Capital allowances for year in excess of depreciation
+98,326
+(
+43,025
+)
+Utilisation of tax losses
+(
+104,684
+)
+-
+Adjustments to tax charge in respect of prior periods
+(
+240,794
+)
+(
+299,244
+)
+Non-taxable income
+(
+6,649,618
+)
+-
+Changes to the tax rate in relation to deferred tax
+13,403
+32,204
+Group relief
+-
+(
+113,617
+)
+Total tax charge for the year
+1,429,466
+(
+37,503
+)
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+Page 21
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+12.
+Intangible assets
+Goodwill
+£
+Cost
+At 1 January 2023
+38,657,587
+Additions
+22,328,477
+At 31 December 2023
+60,986,064
+Amortisation
+At 1 January 2023
+29,366,809
+=== page 29 ===
+Charge for the year on owned assets
+12,408,017
+At 31 December 2023
+41,774,826
+Net book value
+At 31 December 2023
+19,211,238
+At 31 December 2022
+9,290,778
+Page 22
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+13.
+Tangible fixed assets
+Fixtures and fittings
+Computer equipment
+Total
+£
+£
+£
+Cost or valuation
+At 1 January 2023
+1,395,417
+1,881,639
+3,277,056
+Additions
+56,683
+1,599,136
+1,655,819
+Transfers intra group
+24,392
+1,669,471
+1,693,863
+At 31 December 2023
+1,476,492
+5,150,246
+6,626,738
+Depreciation
+At 1 January 2023
+1,049,435
+1,066,380
+2,115,815
+Charge for the year on owned assets
+110,044
+1,167,317
+1,277,361
+At 31 December 2023
+1,159,479
+2,233,697
+3,393,176
+Net book value
+At 31 December 2023
+317,013
+2,916,549
+3,233,562
+At 31 December 2022
+345,982
+815,259
+1,161,241
+14.
+Fixed asset investments
+Investments in subsidiary companies
+£
+Cost or valuation
+At 1 January 2023
+107,487,234
+Additions
+279,944
+Disposals
+=== page 30 ===
+(18,782,226
+)
+Amounts written off
+(27,208,068
+)
+At 31 December 2023
+61,776,884
+Page 23
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+Subsidiary undertakings
+The following 
+were subsidiary undertakings of the Company:
+Name
+Registered office
+Class of shares
+Holding
+Arrow Business Communications (Scotland) Limited
+(*Scotland)
+Ordinary
+100
+%
+Pulse Business Energy Limited
+(*England)
+Ordinary
+100
+%
+Siebert Telecom Solutions Limited
+(*Scotland)
+Ordinary
+100
+%
+Abica Limited
+(*Scotland)
+Ordinary
+100
+%
+Arrow Business Communications Trustee Limited
+(*England)
+Ordinary
+100
+%
+Between the Lines Communications Limited
+(*England)
+Ordinary
+100
+%
+Runkerry Investments Limited
+(*Scotland)
+Ordinary
+100
+%
+Click Networks Limited (*)
+(*Scotland)
+Ordinary
+100
+%
+Altinet Limited
+(*England)
+Ordinary
+100
+%
+Pescado Holdings Limited
+(*Scotland)
+Ordinary
+100
+%
+Pescado Ltd (*)
+(*England)
+=== page 31 ===
+Ordinary
+100
+%
+Pescado Hosted Limited (*)
+(*England)
+Ordinary
+100
+%
+Pescado IT Limited (*)
+(*England)
+Ordinary
+100
+%
+3B Direct Limited (*)
+(*England)
+Ordinary
+100
+%
+Circle IT Solutions Limited
+(*England)
+Ordinary
+100
+%
+Fabric IT Ltd (*)
+(*England)
+Ordinary
+100
+%
+Arrow Business Communications PS Limited
+(*England)
+Ordinary
+100
+%
+Complete Networks Limited (*)
+(*England)
+Ordinary
+100
+%
+Aimes Management Services Limited (*)
+(*England)
+Ordinary
+100
+%
+UK-Tec Limited (*)
+(*England)
+Ordinary
+100
+%
+Bruhan Limited (*)
+(*Scotland)
+Ordinary
+100
+%
+(*) indirect subsidiary
+(*England) The Wharf, Abbey Mill Business Park, Lower Eashing, Godalming, Surrey, GU7 2QN
+(*Scotland) Lumina Building 40 Ainslie Road, Hillington Park, Glasgow, Scotland, G52 4RU
+15.
+Stocks
+2023
+2022
+£
+£
+Finished goods and goods for resale
+200,868
+374,471
+200,868
+374,471
+The difference between purchase price or production cost of stocks and their replacement cost is not material.
+Page 24
+ARROW BUSINESS COMMUNICATIONS LIMITED
+=== page 32 ===
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+16.
+Debtors
+2023
+2022
+£
+£
+Trade debtors
+4,502,627
+1,849,062
+Amounts owed by group undertakings
+718,258
+6,485,824
+Other debtors
+129,406
+169,193
+Prepayments and accrued income
+11,690,899
+4,367,230
+17,041,190
+12,871,309
+17.
+Cash and cash equivalents
+2023
+2022
+£
+£
+Cash at bank and in hand
+8,465,944
+799,697
+8,465,944
+799,697
+18.
+Creditors: Amounts falling due within one year
+2023
+2022
+£
+£
+Trade creditors
+2,969,487
+3,163,682
+Amounts owed to group undertakings
+108,246,611
+129,659,415
+Other taxation and social security
+2,673,850
+765,050
+Other creditors
+6,987,516
+6,326,245
+Accruals and deferred income
+8,260,396
+2,497,023
+129,137,860
+142,411,415
+Page 25
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+19.
+Deferred taxation
+2023
+£
+At beginning of year
+(
+186,971
+)
+Charged to profit or loss
+(
+=== page 33 ===
+201,985
+)
+Arising on business combinations
+(
+235,764
+)
+At end of year
+(
+624,720
+)
+The 
+provision for deferred taxation
+ is made up as follows:
+2023
+2022
+£
+£
+Accelerated capital allowances
+(
+646,935
+)
+(
+211,138
+)
+Other items
+22,215
+24,167
+(
+624,720
+)
+(
+186,971
+)
+20.
+Share capital
+2023
+2022
+£
+£
+Allotted, called up and fully paid
+908,174
+ (2022 - 
+908,174
+)
+Ordinary
+shares of
+£
+0.01
+ each
+9,082
+9,082
+21.
+Reserves
+Share premium account
+This reserve records the amount above the nominal value received for shares sold, less transaction costs.
+Capital redemption reserve
+This reserve records the nominal value of shares repurchased by the company.
+Profit and loss account
+This reserve records retained earnings and accumulated losses.
+Page 26
+ARROW BUSINESS COMMUNICATIONS LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2023
+22.
+Pension commitments
+Amounts outstanding for pension commitments included within other creditors were £97,424 (2020 - £Nil).
+23.
+Commitments under operating leases
+At 
+31 December 2023
+=== page 34 ===
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2023
+2022
+£
+£
+Not later than 1 year
+842,151
+546,869
+Later than 1 year and not later than 5 years
+1,815,680
+548,567
+Later than 5 years
+227,820
+-
+2,885,651
+1,095,436
+24.
+Financial commitments
+Loans included within entities of the group that the Company is a part are secured by fixed and floating charges over the assets of the Company and the group.  At the year end the loans amounted to £196,799,237 (2022: £186,225,036).
+25.
+Related party transactions
+The company is exempt from disclosing related party transactions with entities that are part of the Arrow Communications Holdings Limited group.
+26.
+Controlling party
+Until 28 April 2023, the Company's immediate parent company was Arrow Business Communications Group Limited.  From this point it is Arrow Business Comms (UK) Limited.
+The ultimate parent entity is Arrow Communications Holdings Limited, to which consolidated accounts include this company. The consolidated accounts are available from Companies House for the year ended 31 December 2023.
+The ultimate controlling party of Arrow Communications Holdings Limited is MML Capital Europe VII Equity I S.A., a company based in Luxembourg. MML Capital Europe VII Equity I S.A is a 100% subsidiary of MML Partnership Capital VII SCSp acting by its general partner MML Partnership Capital VII GP S.a.r.l.
+Page 27

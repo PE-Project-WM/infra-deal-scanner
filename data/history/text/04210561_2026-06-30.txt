@@ -1,0 +1,2361 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2025.0.111
+ 2025.0.111
+2025-09-30
+0
+0
+0
+0
+true
+false
+true
+true
+true
+true
+true
+false
+2024-10-01
+false
+04210561
+2024-10-01
+2025-09-30
+04210561
+2023-10-01
+2024-09-30
+04210561
+2025-09-30
+04210561
+2024-09-30
+04210561
+2023-10-01
+04210561
+2
+2024-10-01
+2025-09-30
+04210561
+2
+2023-10-01
+2024-09-30
+04210561
+5
+2024-10-01
+2025-09-30
+04210561
+5
+2023-10-01
+2024-09-30
+04210561
+1
+2024-10-01
+2025-09-30
+04210561
+e:CompanySecretary1
+2024-10-01
+2025-09-30
+04210561
+e:Director1
+2024-10-01
+2025-09-30
+04210561
+e:Director3
+2024-10-01
+2025-09-30
+04210561
+e:Director5
+2024-10-01
+2025-09-30
+04210561
+e:Director6
+2024-10-01
+2025-09-30
+=== page 2 ===
+04210561
+e:Director7
+2024-10-01
+2025-09-30
+04210561
+e:RegisteredOffice
+2024-10-01
+2025-09-30
+04210561
+d:PlantMachinery
+2024-10-01
+2025-09-30
+04210561
+d:PlantMachinery
+2025-09-30
+04210561
+d:PlantMachinery
+2024-09-30
+04210561
+d:PlantMachinery
+d:OwnedOrFreeholdAssets
+2024-10-01
+2025-09-30
+04210561
+d:FurnitureFittings
+2024-10-01
+2025-09-30
+04210561
+d:FurnitureFittings
+2025-09-30
+04210561
+d:FurnitureFittings
+2024-09-30
+04210561
+d:FurnitureFittings
+d:OwnedOrFreeholdAssets
+2024-10-01
+2025-09-30
+04210561
+d:OfficeEquipment
+2024-10-01
+2025-09-30
+04210561
+d:OfficeEquipment
+2025-09-30
+04210561
+d:OfficeEquipment
+2024-09-30
+04210561
+d:OfficeEquipment
+d:OwnedOrFreeholdAssets
+2024-10-01
+2025-09-30
+04210561
+d:ComputerEquipment
+2024-10-01
+2025-09-30
+04210561
+d:ComputerEquipment
+2025-09-30
+04210561
+d:ComputerEquipment
+2024-09-30
+04210561
+d:ComputerEquipment
+d:OwnedOrFreeholdAssets
+2024-10-01
+2025-09-30
+04210561
+d:OtherPropertyPlantEquipment
+=== page 3 ===
+2024-10-01
+2025-09-30
+04210561
+d:OwnedOrFreeholdAssets
+2024-10-01
+2025-09-30
+04210561
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-10-01
+2025-09-30
+04210561
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2025-09-30
+04210561
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2024-09-30
+04210561
+d:Goodwill
+2024-10-01
+2025-09-30
+04210561
+d:Goodwill
+2025-09-30
+04210561
+d:Goodwill
+2024-09-30
+04210561
+d:CopyrightsPatentsTrademarksServiceOperatingRights
+2024-10-01
+2025-09-30
+04210561
+d:CopyrightsPatentsTrademarksServiceOperatingRights
+2025-09-30
+04210561
+d:CopyrightsPatentsTrademarksServiceOperatingRights
+2024-09-30
+04210561
+d:ComputerSoftware
+2025-09-30
+04210561
+d:ComputerSoftware
+2024-09-30
+04210561
+d:OtherResidualIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:CurrentFinancialInstruments
+2025-09-30
+04210561
+d:CurrentFinancialInstruments
+2024-09-30
+04210561
+d:Non-currentFinancialInstruments
+2025-09-30
+04210561
+d:Non-currentFinancialInstruments
+2024-09-30
+04210561
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2025-09-30
+04210561
+d:CurrentFinancialInstruments
+d:WithinOneYear
+2024-09-30
+04210561
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2025-09-30
+=== page 4 ===
+04210561
+d:Non-currentFinancialInstruments
+d:AfterOneYear
+2024-09-30
+04210561
+d:ReportableOperatingSegment1
+2024-10-01
+2025-09-30
+04210561
+d:ReportableOperatingSegment1
+2023-10-01
+2024-09-30
+04210561
+d:ReportableOperatingSegment2
+2024-10-01
+2025-09-30
+04210561
+d:ReportableOperatingSegment2
+2023-10-01
+2024-09-30
+04210561
+f:UnitedKingdom
+2024-10-01
+2025-09-30
+04210561
+f:UnitedKingdom
+2023-10-01
+2024-09-30
+04210561
+f:RestEuropeOutsideUK
+2024-10-01
+2025-09-30
+04210561
+f:RestEuropeOutsideUK
+2023-10-01
+2024-09-30
+04210561
+f:RestWorldOutsideUK
+2024-10-01
+2025-09-30
+04210561
+f:RestWorldOutsideUK
+2023-10-01
+2024-09-30
+04210561
+d:UKTax
+2024-10-01
+2025-09-30
+04210561
+d:UKTax
+2023-10-01
+2024-09-30
+04210561
+d:ShareCapital
+2024-10-01
+2025-09-30
+04210561
+d:ShareCapital
+2025-09-30
+04210561
+d:ShareCapital
+2023-10-01
+2024-09-30
+04210561
+d:ShareCapital
+2024-09-30
+04210561
+d:ShareCapital
+2023-10-01
+04210561
+=== page 5 ===
+d:CapitalRedemptionReserve
+2024-10-01
+2025-09-30
+04210561
+d:CapitalRedemptionReserve
+2025-09-30
+04210561
+d:CapitalRedemptionReserve
+2
+2024-10-01
+2025-09-30
+04210561
+d:CapitalRedemptionReserve
+2023-10-01
+2024-09-30
+04210561
+d:CapitalRedemptionReserve
+2024-09-30
+04210561
+d:CapitalRedemptionReserve
+2023-10-01
+04210561
+d:RetainedEarningsAccumulatedLosses
+2024-10-01
+2025-09-30
+04210561
+d:RetainedEarningsAccumulatedLosses
+2025-09-30
+04210561
+d:RetainedEarningsAccumulatedLosses
+2
+2024-10-01
+2025-09-30
+04210561
+d:RetainedEarningsAccumulatedLosses
+2023-10-01
+2024-09-30
+04210561
+d:RetainedEarningsAccumulatedLosses
+2024-09-30
+04210561
+d:RetainedEarningsAccumulatedLosses
+2023-10-01
+04210561
+e:OrdinaryShareClass1
+2024-10-01
+2025-09-30
+04210561
+e:OrdinaryShareClass1
+2023-10-01
+2024-09-30
+04210561
+e:OrdinaryShareClass1
+2025-09-30
+04210561
+e:OrdinaryShareClass1
+2024-09-30
+04210561
+e:FRS102
+2024-10-01
+2025-09-30
+04210561
+e:Audited
+2024-10-01
+2025-09-30
+04210561
+e:FullAccounts
+2024-10-01
+2025-09-30
+04210561
+=== page 6 ===
+e:PrivateLimitedCompanyLtd
+2024-10-01
+2025-09-30
+04210561
+d:Subsidiary2
+2024-10-01
+2025-09-30
+04210561
+d:Subsidiary2
+1
+2024-10-01
+2025-09-30
+04210561
+d:Subsidiary3
+2024-10-01
+2025-09-30
+04210561
+d:Subsidiary3
+1
+2024-10-01
+2025-09-30
+04210561
+d:Subsidiary4
+2024-10-01
+2025-09-30
+04210561
+d:Subsidiary4
+1
+2024-10-01
+2025-09-30
+04210561
+d:WithinOneYear
+2025-09-30
+04210561
+d:WithinOneYear
+2024-09-30
+04210561
+d:BetweenOneFiveYears
+2025-09-30
+04210561
+d:BetweenOneFiveYears
+2024-09-30
+04210561
+d:MoreThanFiveYears
+2025-09-30
+04210561
+d:MoreThanFiveYears
+2024-09-30
+04210561
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:InternallyGeneratedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:CopyrightsPatentsTrademarksServiceOperatingRights
+d:InternallyGeneratedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:ComputerSoftware
+d:ExternallyAcquiredIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:ComputerSoftware
+d:InternallyGeneratedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+2
+=== page 7 ===
+2024-10-01
+2025-09-30
+04210561
+4
+2024-10-01
+2025-09-30
+04210561
+6
+2024-10-01
+2025-09-30
+04210561
+d:InternallyGeneratedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:ShareCapital
+2
+2024-10-01
+2025-09-30
+04210561
+d:AcceleratedTaxDepreciationDeferredTax
+2025-09-30
+04210561
+d:AcceleratedTaxDepreciationDeferredTax
+2024-09-30
+04210561
+d:TaxLossesCarry-forwardsDeferredTax
+2025-09-30
+04210561
+d:TaxLossesCarry-forwardsDeferredTax
+2024-09-30
+04210561
+d:RetirementBenefitObligationsDeferredTax
+2025-09-30
+04210561
+d:RetirementBenefitObligationsDeferredTax
+2024-09-30
+04210561
+d:Goodwill
+d:OwnedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:DevelopmentCostsCapitalisedDevelopmentExpenditure
+d:OwnedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:CopyrightsPatentsTrademarksServiceOperatingRights
+d:OwnedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+d:ComputerSoftware
+d:OwnedIntangibleAssets
+2024-10-01
+2025-09-30
+04210561
+g:PoundSterling
+2024-10-01
+2025-09-30
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+I.P. Integration Limited
+Registered number: 04210561
+Annual Report
+For the year ended 30 September 2025
+I.P. INTEGRATION LIMITED
+COMPANY INFORMATION
+=== page 8 ===
+Directors
+D J Glasgow
+B J Prentis
+G R Christie
+L Fradin
+S S Sanghera
+Company secretary
+A L Chesson
+Registered number
+04210561
+Registered office
+Integration House
+Turnhams Green Business Park
+Pincents Lane
+Reading
+Berkshire
+RG31 4UH
+Independent auditor
+Forvis Mazars LLP
+Chartered Accountants
+ & 
+Statutory Auditor
+2nd Floor
+6 Sutton Plaza
+Sutton Court Road
+Sutton
+Surrey
+SM1 4FS
+I.P. INTEGRATION LIMITED
+CONTENTS
+Page
+Strategic Report
+1 - 5
+Directors' Report
+6 - 8
+Independent Auditor's Report
+9 - 12
+Statement of Comprehensive Income
+13
+Statement of Financial Position
+14
+Statement of Changes in Equity
+15
+Notes to the Financial Statements
+16 - 39
+I.P. INTEGRATION LIMITED
+STRATEGIC REPORT
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Introduction
+The directors present their Strategic Report of I.P. Integration Limited (the 'Company') for the year ended 30 September 2025.
+Principal activity
+The principal activity of I.P. Integration is through delivering digital transformation to the market, enabled by a suite of Contact Centres, Customer Engagement and AI solutions to mid-market, enterprise, and public sector organisations. In conjunction with these technology solutions, the Company provides consulting services, managed services, and network connectivity services that enable organisations to optimise the customer journey and the customer experience. These solutions and services are now delivered as cloud services.
+Business review
+The directors are pleased to report that the Company had another successful year with 9.1% and 8.4% growth across revenue and gross profit respectively. This success has been achieved despite the recent economic challenges posed by the 2024 budget. The knock-on impact of National Insurance increases has culminated in a number of our clients fast tracking focus on technology transformation projects that will help with business efficiency and cost reduction initiatives. However, decision making is taking slightly longer for clients in terms of signing off on larger transformation project budgets. This transition to becoming a consulting and outcome led CX company delivering  digital transformation with the practical use of AI across the customer experience environment has helped us to take a strong foothold with new logo wins across a number of vertical markets such as insurance, utilities and the retail sector.
+In the year, overall revenues grew to £39.7m, representing a 9.1% increase on 2024, with recurring revenue for the period increasing to £34.8m (2024: £33.5m) representing 4% in year growth and 88% of total turnover. The recurring growth is attributable to securing multi-year subscription fee contracts for CCaaS solutions together with attached revenues of connectivity and network services which are typically secured in conjunction with the wider suite of our Customer Experience (CX) solutions on multiyear contracts whilst remaining focused on industry leading levels of customer retention through our purpose of exceptional customer contact. The non-recurring element of revenue saw a significant increase of £1.9m representing 66% growth on prior year at £3.0m, which was due to a large retail contract for a UK wide branch rollout involving delivery of a complex 3,000+ stores project and represents a major achievement.  
+The directors are disappointed by the £0.7m reduction on prior year EBITDA which is broken down into 4 areas. Firstly, the Company changed its policy on non-recurring revenue recognition resulting in deferral of ~£0.3M of profit into next financial year. Secondly, there is ~£0.1m related to accounting for EMI options under share based payments expense (note 6). The Company had an ~£0.1m increase in staff costs due to Employers National Insurance increases and the year also saw a large customer enter into administration and an ~£0.1m increase in provision for bad debts (see note 16). 
+This year there was an operating profit of £0.9m (2024: operating profit of £1.8m).
+The gross margin saw a decrease from 47.7% to 44.4%. This is attributable to our sales success and the winning of CCaaS new logos where the margins are lower than our historical averages but add growth to our contract base as can be seen in the Gross Profit increase. 11 new logos were onboarded within the financial year.
+- 1 -
+I.P. INTEGRATION LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Business review (continued)
+Now with 88% recurring revenues, the strategy for the Company is to increase quality of GM% through further investment in the ongoing development and global sales of our own Intellectual Property Rights (IPR) products and services portfolio with several new products and new channels being successfully launched through FY24/25 which we expect will deliver strong and profitable growth opportunities in the coming years. This is enabling us to provide some of our services to clients and partners globally with some key wins for our Cloud PCI solutions in North America.
+- 2 -
+I.P. INTEGRATION LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Directors' statement of compliance with duty to promote the success of the Company
+Section 172(1) requires Directors to act in a way that they consider would be most likely to promote the success of the Company for the benefit of the Company’s stakeholders as a whole. The directors consider the likely consequences of its decisions in the long term and the need to act fairly between its stakeholders. We strive to achieve positive outcomes for all our stakeholders through innovation and operational brilliance whilst considering culture, inclusion, community and social responsibility. The Company’s key stakeholders and how they have been considered are set out below:
+=== page 9 ===
+• 
+Shareholders
+The desire to deliver for the shareholders in the short, mid and long-term ensures the business focus on activities and objectives that gives the best chance of continued success and future growth, whilst incorporating the correct governance structure aligned with continued growth. The management team provides regular feedback to its shareholders through business review meetings and twice monthly calls to the Company.
+• 
+Employees
+Our people are our biggest asset and we consistently strive for a culture of collaboration, respect and inclusion through a shared purpose and a set of common values. This culture cultivates innovation and creativity whilst encouraging challenge and diversity. Our common goals and objectives help to achieve alignment so our people feel empowered to deliver our goals whilst also maintaining an environment  for personal development and growth. We actively promote engagement and maintain an internal communications program involving twice monthly all hands calls where we update on business progress and recognise people for individual and team exceptional performance and success. Members of the management team also attend connect and collaborate sessions at each of our respective offices where, in smaller groups, employees are encouraged to raise challenges and to come up with new ideas and provide feedback on improvement areas.
+The Company is also committed to a learning and development environment  for all employees with access to various online training materials as well in person training sessions to help develop new skills as the company grows. There is also specific management and leadership training for the managers across the company as well as for the early careers people. We also have a focus on delivering training for our early careers people that have been highlighted as future leaders (RISE Program). The RISE program is run by our CEO and Chief People Officer and aimed at highlighting and developing our best early careers talent. This  together with a focus on early careers recruitment is proving successful in bringing in new ideas and innovation and challenging the way we think.
+• 
+Customers
+We continue to serve nearly 200 customers across the  UK but also in Europe and North America with our purpose being exceptional customer contact at the heart of all we do. The evolution of our channel strategy as part of our go to market plan has helped us to onboard new clients in international markets. We strive to achieve great outcomes for our customers through delivering best in class services and solutions that meet the needs of their company and customers in a fast changing technology environment. We consistently seek feedback through customer satisfaction surveys, customer events, forums and webinars in an effort to continuously improve our engagement and create relationships at all levels.
+- 3 -
+I.P. INTEGRATION LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Directors' statement of compliance with duty to promote the success of the Company (continued)
+•
+Suppliers and partners
+We focus on maintaining strong relationships built on transparency, responsibility and trust. All suppliers and partners are expected to follow or support our ways of working whilst also working towards providing value for high quality services. We have regular reviews with our key suppliers and partners to discuss opportunities, technology changes, customer and supply chain feedback amongst other topics.
+• Communities and Social Responsibility
+It is important for the Company to give back to local community particularly in those areas where we have offices and as such employees are encouraged to volunteer to give something back in projects or initiatives of their choosing. We have seen this be particularly successful where teams come together in numbers to take on larger initiatives. We offer paid time off by way of extra holiday for volunteering activity. We regularly make charitable contributions through various initiatives such as ‘5K your way’ where employees participate in a running, cycling, swimming, walking challenge involving doing 5km every day in a calendar month to raise money in support of our local communities and charities. 
+We are committed to treating all stakeholders fairly and decisions are made without bias and with all stakeholders in mind.
+Business review
+The increased visibility of future recurring revenues and gross profit is reassuring to the Directors particularly whilst there remains uncertainty around the macro-economic environment heading into FY26 and future years.
+With 88% of revenues being secured under contract, together with the fact that the services provided by the Company are critical for our customers, the Directors remain committed to continued investment in the cloud platform, our IPR, our people, and our Customer Success Programme for FY26.
+Key performance indicators
+2025
+£'000s
+2024
+£'000s
+2023
+£'000s
+Turnover
+39,743
+36,442
+32,464
+Turnover - recurring revenues
+34,834
+33,479
+28,924
+Recurring revenue % of Turnover
+88%
+92%
+89%
+Gross profit
+17,660
+16,287
+15,522
+Gross profit % of Turnover
+EBITDA before exceptional costs*
+44.4
+%
+2,452
+44.7%
+3,140
+47.8%
+2,644
+*EBITDA is calculated as the earnings before interest, taxation, depreciation and amortisation.
+People
+In the year, the Company continued to focus on its programme of investing and developing its people to create an exceptional culture and work environment. Underpinning the strategy, is the Company’s participation in the Best Places to Work accreditation scheme. In 2023, the Company achieved the 2-star rating for `Outstanding levels of workplace engagement’ and the directors are pleased to report this improved to 3-stars for 2024 and an overall position of 18th place. This continued investment and focus on building and developing talent has helped the Company onboard some highly skilled talent across the business as well as in the area of R&D, helping to fuel more innovation and product development. During the year average headcount was 143 employees.
+- 4 -
+I.P. INTEGRATION LIMITED
+STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Investment activity
+Investment in the fiscal year was principally focused on the continued development of our own IPR across 3 core areas: 1) In house applications; building on the success of launching ‘IPI Cloud PCI’’ into the global market place through partnerships with Amazon, Avaya Genesys and Nice providing channel access and global coverage. 2) The ongoing investment and feature enhancements to fully embed AI and analytics capability into our own Elastic CX CCaaS platform has resulted in key new logo wins. The IPI Innovation team are building a robust roadmap for the continual enhancement of our technology propositions; including a full suite of Artificial Intelligence (AI) applications that are being embedded into our key CX propositions together with adjacent security offerings 3) The continued investment in our consulting, customer success and managed services propositions aimed at helping our clients to achieve outcome led transformation to achieve efficiencies or growth opportunities.  
+Principal risks and uncertainties
+In relation to the key financial risks of competition, price, credit, liquidity, cash flow, foreign currency and interest rate risks, the directors have familiarised themselves with the concepts of these risks including the risks associated post UK budget and general macro-economic conditions. In the meantime, the directors are managing all risks by continued focus on ensuring that the organisation can carefully manage its continued growth. Our business improvement team together with the security and compliance team help the company to deliver  ‘Operational Brilliance’ used to maintain all compliance requirements across, legal, employment, health and safety and environmental matters. Whilst ensuring we have a robust security posture to protect the organisation and our customers. The directors have continued to maintain and invest in; robust systems, infrastructure and processes managed through the Quality Management System (QMS) and the Group being certified to:
+• ISO 9001 Quality Management
+• ISO 14001 Environmental Management
+• ISO 27001 Information & Security management
+=== page 10 ===
+• Cyber Essentials
+The continued investment in the Company's platform and services will enhance our focus on being a digital transformation and AI first company.  
+This report was approved by the board
+ and signed on its behalf by:
+G R Christie
+Director
+Date: 
+30 June 2026
+- 5 -
+I.P. INTEGRATION LIMITED
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+The 
+directors
+present
+their
+ Annual 
+Report and the
+audited financial statements
+ for I.P. Integration Limited (the 'Company') for the 
+year
+ ended 
+30 September 2025
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Strategic Report, the Directors' Report and the 
+audited financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+audited financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the audited financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the audited financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company
+ and of the 
+profit or loss
+ of the 
+Company
+ for that period.
+ In preparing these audited financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Company's financial statements
+ and then apply them consistently;
+∙
+make 
+judgements
+ and accounting estimates that are reasonable and prudent;
+∙
+state whether applicable 
+UK Accounting Standards
+ have been followed, subject to any material departures disclosed and explained in the financial statements;
+∙
+prepare the 
+audited financial statements
+ on the going concern basis
+ unless it is inappropriate to presume that the Company will continue in business
+.
+The 
+=== page 11 ===
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company
+ and to enable 
+them
+ to ensure that the 
+audited financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Going concern
+To the best of our knowledge there is nothing to indicate that the Company will not continue as a going concern in the foreseeable future. In order to draw this conclusion we have assessed future and forecasted trading, cash generation and known cash outflows. We have considered the losses incurred by the group, which is largely driven by non cash expenditure, notably amortisation of intangible assets, and interest on loan notes, which do not fall due for repayment within a period of no less than 12 months from the date of approval of the financial statements.
+Principal activity
+The principal activity of I.P. Integration is the provision of Contact Centres and Customer Engagement solutions to mid-market, enterprise, and public sector organisations. In conjunction with these technology solutions, IPI provides consulting services, managed services, and network services that enable organisations to optimise the customer journey and the customer experience. These solutions and services are now delivered as cloud services and framed as Contact Centre as a Service (CCaaS).
+- 6 -
+I.P. INTEGRATION LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Results and dividends
+The 
+profit
+ for the 
+year
+, after taxation, amounted to 
+£
+499,040
+ (2024: profit of 
+£
+2,006,592
+)
+.
+The directors have recommended the payment of dividends for the year of £nil (2024: £nil).
+Directors
+The 
+directors
+ who served during the 
+year and to the date of this report
+were:
+D J Glasgow
+B J Prentis
+G R Christie
+L Fradin
+S S Sanghera
+Charitable contributions
+The Company made £
+1,750
+ of charitable donations during the year (2024: £1,180).
+Qualifying third party indemnity provisions
+The Company has made qualifying third party indemnity provisions for the benefit of its directors which were made during the year and remain in force at the date of this report.
+Greenhouse gas emissions, energy consumption and energy efficiency action
+The Company has taken proactive steps during the year to reduce its environmental impact and improve its energy efficiency. Following the acquisition of a carbon offsetting instrument, the Company has a achieved a carbon neutral status. As a result of this, the total energy consumption has remained below 40,000 kWh and so the Company has not disclosed information in respect of greenhouse gas emissions, energy consumption and energy efficiency action as its energy consumption in the United Kingdom.
+Matters covered in the Strategic Report
+As permitted by Paragraph 1A of Schedule 7 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 certain matters which are required to be disclosed in the Directors' Report have been omitted as they are included in the Strategic Report on pages 1 to 3. These matters relate to principal risks and uncertainties. 
+Provision of information to the auditor
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+=== page 12 ===
+Company
+'s auditor 
+is
+ unaware; and
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company
+'s auditor 
+is
+ aware of that information.
+Post balance sheet events
+There have been no significant events affecting the Company since the year end.
+- 7 -
+I.P. INTEGRATION LIMITED
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+Auditor
+The auditor, 
+Forvis Mazars LLP
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ and signed on 
+its
+ behalf by:
+G R Christie
+Director
+Date: 
+30 June 2026
+- 8 -
+I.P. INTEGRATION LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF I.P. INTEGRATION LIMITED
+Opinion
+We
+ have audited the 
+financial statements
+ of 
+I.P. Integration Limited
+ (the ‘
+Company
+’) for the 
+year
+ ended 
+30 September 2025
+ which comprise 
+the Statement of Comprehensive Income, the Statement of Financial Position, the Statement of Changes in Equity
+ and notes to the financial statements, including a summary of significant accounting policies. 
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom Generally Accepted Accounting Practice).
+In our opinion, the financial statements:
+∙
+give a true and fair view of the state of the 
+Company
+’s affairs as at 
+30 September 2025
+ and of 
+its 
+profit
+ for the 
+year
+ then ended;
+∙
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+=== page 13 ===
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit of the financial statements section of our report. We are independent of the 
+Company
+ in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the 
+directors'
+ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the 
+Company
+’s ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Other information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor’s report thereon. The 
+directors are
+ responsible for the other information contained within the annual report. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+- 9 -
+I.P. INTEGRATION LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF I.P. INTEGRATION LIMITED
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+∙
+the information given in the Strategic Report and the 
+Directors'
+ Report for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+∙
+the Strategic Report and the 
+Directors'
+ Report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In light of the knowledge and understanding of the 
+Company
+ and its environment obtained in the course of the audit, we have not identified material misstatements in the Strategic Report or the 
+Directors'
+ Report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion:
+∙
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches not visited by us; or
+∙
+the financial statements are not in agreement with the accounting records and returns; or
+∙
+certain disclosures of 
+directors'
+ remuneration specified by law are not made; or
+∙
+we have not received all the information and explanations we require for our audit; or
+∙
+the directors were not entitled to prepare the financial statements in accordance with the small companies regime.  
+- 10 -
+I.P. INTEGRATION LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF I.P. INTEGRATION LIMITED
+Responsibilities of 
+Directors
+As explained more fully in the 
+Directors'
+ Responsibilities Statement set out on page 5, the 
+directors are
+ responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the 
+directors determine
+ is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the 
+directors are
+ responsible for assessing the 
+Company
+’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the 
+directors intend
+ either to liquidate the 
+=== page 14 ===
+Company
+ or to cease operations, or 
+have
+ no realistic alternative but to do so.
+Auditor's responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of the financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. 
+Based on our understanding of the Company and its industry, we considered that non-compliance with the following laws and regulations might have a material effect on the financial statements: employment regulation, health and safety regulation, and anti-money laundering regulation.
+To help us identify instances of non-compliance with these laws and regulations, and in identifying and assessing the risks of material misstatement in respect to non-compliance, our procedures included, but were not limited to:
+∙
+Inquiring of management and, where appropriate, those charged with governance, as to whether the company is in compliance with laws and regulations, and discussing their policies and procedures regarding compliance with laws and regulations;
+∙
+Inspecting correspondence, if any, with relevant licensing or regulatory authorities;
+∙
+Communicating identified laws and regulations to the engagement team and remaining alert to any indications of non-compliance throughout our audit; and
+∙
+Considering the risk of acts by the company which were contrary to applicable laws and regulations, including fraud.  
+We also considered those laws and regulations that have a direct effect on the preparation of the financial statements, such as
+tax legislation, pension legislation and the Companies Act 2006. 
+- 11 -
+I.P. INTEGRATION LIMITED
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF I.P. INTEGRATION LIMITED
+In addition, we evaluated the directors’ and management’s incentives and opportunities for fraudulent manipulation of the financial statements, including the risk of management override of controls, and determined that the principal risks related to posting manual journal entries to manipulate financial performance, management bias through judgements and assumptions in significant accounting estimates, in particular in relation to the valuation of the share based payment, revenue recognition (which we pinpointed to the cut-off and occurrence assertions), and significant one-off or unusual transactions. 
+Our audit procedures in relation to fraud included but were not limited to:
+∙
+Making enquiries of the directors and management on whether they had knowledge of any actual, suspected or alleged fraud;
+∙
+Gaining an understanding of the internal controls established to mitigate risks related to fraud;
+∙
+Discussing amongst the engagement team the risks of fraud; and
+∙
+Addressing the risks of fraud through management override of controls by performing journal entry testing.
+There are inherent limitations in the audit procedures described above and the primary responsibility for the prevention and detection of irregularities including fraud rests with management. As with any audit, there remained a risk of non-detection of irregularities, as these may involve collusion, forgery, intentional omissions, misrepresentations or the override of internal controls.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council’s website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+Use of the audit report
+This report is made solely to the 
+Company
+'s members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the 
+Company
+'s members those matters we are required to state to them in an auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the 
+Company
+ and the 
+Company
+'s members as a body for our audit work, for this report, or for the opinions we have formed.
+Gerhard Bonthuys
+ (Senior statutory auditor)
+for and on behalf of
+ Forvis Mazars LLP
+Chartered Accountants
+ and 
+Statutory Auditor
+2nd Floor
+6 Sutton Plaza
+Sutton Court Road
+Sutton
+SM1 4FS
+30 June 2026
+- 12 -
+I.P. INTEGRATION LIMITED
+STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+30 SEPTEMBER 2025
+2025
+2024
+Note
+£
+£
+Turnover
+4
+=== page 15 ===
+39,743,266
+36,442,070
+Cost of sales
+(
+22,082,957
+)
+(
+20,154,818
+)
+Gross profit
+17,660,309
+16,287,252
+Administrative expenses
+(
+15,208,725
+)
+(
+13,147,162
+)
+EBITDA
+6
+2,451,584
+3,140,090
+Other administrative expenses
+5
+(619,397
+)
+(367,679
+)
+Depreciation and amortisation
+(913,163
+)
+(989,905
+)
+Operating profit
+6
+919,024
+1,782,506
+Interest receivable and similar income
+10
+19,359
+-
+Interest payable and similar expenses
+11
+(
+2,811
+)
+(
+332,426
+)
+Profit before tax
+935,572
+1,450,080
+Tax on profit
+12
+(436,532
+)
+556,512
+Profit for the financial year
+499,040
+2,006,592
+Other comprehensive income
+-
+-
+Total comprehensive income for the year
+499,040
+2,006,592
+The Statement of Comprehensive Income has been prepared on the basis that all operations are continuing operations.
+The notes on pages 16 to 39 form part of these 
+financial statements
+=== page 16 ===
+.
+- 13 -
+I.P. INTEGRATION LIMITED
+REGISTERED NUMBER: 
+04210561
+STATEMENT OF FINANCIAL POSITION
+AS AT 
+30 SEPTEMBER 2025
+2025
+2024
+Note
+£
+£
+Fixed assets
+Intangible assets
+13
+1,890,752
+2,115,730
+Tangible fixed assets
+14
+473,830
+769,846
+Fixed asset investments
+15
+1
+1
+2,364,583
+2,885,577
+Current assets
+Stocks
+6,844
+6,310
+Debtors: amounts due within one year
+16
+19,648,884
+20,978,333
+Cash and cash equivalents
+17
+2,084,500
+1,471,807
+Current liabilities
+21,740,228
+22,456,450
+Creditors: amounts falling due within one year
+18
+(
+17,612,390
+)
+(
+17,456,569
+)
+Net current assets
+4,127,838
+4,999,881
+Total assets less current liabilities
+6,492,421
+7,885,458
+Creditors: amounts falling due after more than one year
+19
+-
+(
+2,000,000
+)
+Provisions for liabilities
+Deferred tax
+21
+(
+221,944
+)
+(
+=== page 17 ===
+237,881
+)
+(
+221,944
+)
+(
+237,881
+)
+Net assets
+6,270,477
+5,647,577
+Capital and reserves
+Called up share capital 
+22
+10,000
+10,000
+Capital contribution reserve
+23
+5,005,842
+4,881,982
+Profit and loss account
+23
+1,254,635
+755,595
+Total equity
+6,270,477
+5,647,577
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ by
+:
+G R Christie
+Director
+Date: 
+30 June 2026
+The notes on pages 16 to 39 form part of these financial statements.
+- 14 -
+I.P. INTEGRATION LIMITED
+STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+30 SEPTEMBER 2025
+Called up share capital
+Capital contribution reserve
+Profit and loss account
+Total equity
+£
+£
+£
+£
+At 1 October 2023
+10,000
+4,881,982
+(
+1,250,997
+)
+3,640,985
+Comprehensive income for the year
+Profit for the year
+-
+-
+2,006,592
+2,006,592
+Total comprehensive income for the year
+-
+-
+=== page 18 ===
+2,006,592
+2,006,592
+At 1 October 2024
+10,000
+4,881,982
+755,595
+5,647,577
+Comprehensive income for the year
+Profit for the year
+-
+-
+499,040
+499,040
+Total comprehensive income for the year
+-
+-
+499,040
+499,040
+Share based payment (note 24)
+-
+123,860
+-
+123,860
+At 30 September 2025
+10,000
+5,005,842
+1,254,635
+6,270,477
+The notes on pages 16 to 39 form part of these 
+financial statements
+.
+- 15 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+1.
+General information
+I.P. Integration Limited (the 'Company’) is a private company, limited by shares and incorporated in England and Wales. The Company's registration number is 04210561. The address of its registered office is Integration House, Turnhams Green Business Park, Pincents Lane, Reading, Berkshire, RG31 4UH.
+The principal activity of I.P. Integration is the provision of Contact Centres and Customer Engagement solutions to mid-market, enterprise, and public sector organisations. In conjunction with these technology solutions, IPI provides consulting services, managed services, and network services that enable organisations to optimise the customer journey and the customer experience. These solutions and services are now delivered as cloud services and framed as Contact Centre as a Service (CCaaS).
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires management to exercise 
+judgement
+ in applying the 
+Company
+'s 
+accounting policies
+ (see note 3).
+The financial statements have been presented in Pound Sterling as this is the currency of the primary economic environment in which the Company operates and is rounded to the nearest pound.
+The following principal 
+accounting policies
+ have been applied:
+2.2
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The 
+Company
+ has taken advantage of the following disclosure exemptions in preparing these financial statements, as permitted by the FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland":
+∙
+=== page 19 ===
+the requirements of Section 7 Statement of Cash Flows
+;
+∙
+the requirements of Section 3 Financial Statement Presentation paragraph 3.17(d)
+;
+∙
+the requirements of Section 11 Financial Instruments paragraphs 11.42, 11.44 to 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c)
+;
+∙
+the requirements of Section 12 Other Financial Instruments paragraphs 12.26 to 12.27, 12.29(a), 12.29(b) and 12.29A
+;
+∙
+the requirements of Section 26 Share-based Payment paragraphs 26.18(b), 26.19 to 26.21 and 26.23
+;
+ and
+∙
+the requirements of Section 33 Related Party Disclosures paragraph 33.7
+.
+This information is included in the consolidated financial statements of 
+IPI Group Holdco Limited
+ as at 
+30 September 2025
+ and these financial statements may be obtained from 
+Companies House
+.
+- 16 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.3
+Exemption from preparing consolidated financial statements
+The 
+Company
+ is a parent 
+company
+ that is also a subsidiary included in the consolidated financial statements of a larger group by a parent undertaking established under the law of 
+any part of the United Kingdom
+ and is therefore exempt from the requirement to prepare consolidated financial statements under 
+section 400 of the Companies Act 2006
+.
+2.4
+Going concern
+To the best of our knowledge there is nothing to indicate that the Company will not continue as a going concern in the foreseeable future. In order to draw this conclusion we have assessed future and forecasted trading, cash generation and known cash outflows. We have considered the losses incurred by the group, which is largely driven by non cash expenditure, notably amortisation of intangible assets, and interest on loan notes, which do not fall due for repayment within a period of no less than 12 months from the date of approval of the financial statements.
+2.5
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentation currency is 
+GBP
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in the Statement of Comprehensive Income.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the Statement of Comprehensive Income within 'Interest payable and similar expenses'. All other foreign exchange gains and losses are presented in the Statement of Comprehensive Income within 'administrative expenses'.
+- 17 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.6
+Turnover
+Turnover represents net invoiced sale of goods and services, which include management fee recoveries, excluding value added tax.
+Turnover generated from sale of goods:
+Turnover from the provision of goods is recognised when the risks and rewards of ownership of those goods have transferred to the customer. The risks and rewards of ownership are deemed to be transferred when the goods are shipped to the customer.
+=== page 20 ===
+Turnover from provision of services, including management fees:
+Turnover in respect of services provided is recognised in the accounting period in which the services are rendered. For fixed price service contracts, the revenue is estimated based on a percentage completion basis. Percentage completion is determined by the time cost incurred by the relevant personnel delivering the contract, as a percentage of the total contract value. For contracts that are not completed by the year end, an assessment is made regarding the expected the time cost to fulfil the contract and the recognised turnover is adjusted accordingly to reflect the adjusted percentage completion. Estimates of revenues, cost or extent of which progress towards completion are revised if circumstances change and are reflected in the Statement of Comprehensive Income in the period in which the circumstances have arisen.
+Management fees are recognised when resources are utilised by group companies and are determined based on time spent and costs incurred.
+Turnover from the provision of goods and services is only recognised when the amounts to be recognised are fixed or determinable and recovery is reasonably assured.
+2.7
+Operating leases: the Company as lessee
+Rentals paid under operating leases are charged to the Statement of Comprehensive Income on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.8
+Research and development
+In the research phase of an internal project, it is not possible to demonstrate that the project will generate future economic benefits and hence all expenditure on research shall be recognised as an expense when it is incurred. Intangible assets are recognised from the development phase of a project if and only if certain specific criteria are met in order to demonstrate the asset will generate probable future economic benefits and that its cost can be reliably measured. The capitalised development costs are subsequently amortised on a straight-line basis over their useful economic lives, which is considered by management to be 10 years. 
+If it is not possible to distinguish between the research phase and the development phase of an internal project, the expenditure is treated as if it were all incurred in the research phase only.
+- 18 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.9
+Interest receivable and similar income
+Interest receivable and similar income is recognised in the Statement of Comprehensive Income using the effective interest method.
+2.10
+Interest payable and similar expenses
+Interest payable and similar expenses are charged to the Statement of Comprehensive Income over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.11
+Pensions
+Defined contribution pension plan
+The 
+Company
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Company
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Company
+ has no further payment obligations.
+The contributions are recognised as an expense in the Statement of Comprehensive Income when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Statement of Financial Position
+. The assets of the plan are held separately from the 
+Company
+ in independently administered funds.
+2.12
+Share based payments
+Where share options are awarded to employees, the fair value of the options at the date of grant is charged to profit or loss over the vesting period. Non-market vesting conditions are taken into account by adjusting the number of equity instruments expected to vest at each 
+reporting date
+ so that, ultimately, the cumulative amount recognised over the vesting period is based on the number of options that eventually vest. Market vesting conditions are factored into the fair value of the options granted. The cumulative expense is not adjusted for failure to achieve a market vesting condition.
+The fair value of the award also takes into account non-vesting conditions. These are either factors beyond the control of either party (such as a target based on an index) or factors which are within the control of one or other of the parties (such as the 
+Company
+ keeping the scheme open or the employee maintaining any contributions required by the scheme).
+Where the terms and conditions of options are modified before they vest, the increase in the fair value of the options, measured immediately before and after the modification, is also charged to profit or loss over the remaining vesting period.
+Where equity instruments are granted to persons other than employees, the Statement of Comprehensive Income is charged with fair value of goods and services received.
+- 19 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.13
+Tax on profit
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in the Statement of Comprehensive Income except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+ in the countries where the 
+Company operates and generates income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+reporting date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+; and
+=== page 21 ===
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+.
+2.14
+Other administrative expenses
+Other administrative expenses are transactions that fall within the ordinary activities of the 
+Company
+ but are presented separately due to their size and nature for adjusted EBITDA purposes. 
+- 20 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.15
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of the Company's share of its identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight-line basis to the Statement of Comprehensive Income over its useful economic life of 10 years.
+Development costs
+Development costs are capitalised only to the extent that they lead to the creation of an enduring asset delivering benefits at least as great as the amount capitalised. If there is insufficient evidence on which to base reasonable estimates of the economic benefits that will be generated in the period until the design is next updated, the cost of developing the design and content are charged to the income statement within administrative expenses as incurred. These costs are included in intangible fixed assets.
+Licenses, trademarks and similar rights
+Costs associated with the assignment of Intellectual Property Rights have been capitalised. The directors believe that the residual value of this asset will be at least equal to its original cost, and therefore any amortisation thereof is immaterial.
+At each reporting date the company assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+ The estimated useful lives range as follows:
+Development costs
+-
+5 - 10 years straight line basis
+Goodwill
+-
+10 years straight line basis
+Licenses and trademarks
+-
+5 - 10 years straight line basis
+Computer software
+-
+4 years straight line basis
+Amortisation is included in 'administrative expenses' in the Statement of Comprehensive Income.
+- 21 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.16
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+At each reporting date the 
+Company
+ assesses whether there is any indication of impairment. If such indication exists, the recoverable amount of the asset is determined which is the higher of its fair value less costs to sell and its value in use. An impairment loss is recognised where the carrying amount exceeds the recoverable amount.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the straight-line method
+.
+Depreciation is provided on the following basis:
+Plant and machinery
+-
+5 to 6 years straight line
+Fixtures and fittings
+-
+5 to 6 years straight line
+Computer equipment
+-
+5 years straight line
+Direct to location equipment
+-
+4 years straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in the Statement of Comprehensive Income.
+=== page 22 ===
+Depreciation is included in 'administrative expenses' in the Statement of Comprehensive Income.
+2.17
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.18
+Stocks
+Stocks are stated at the lower of cost and net realisable value, being the estimated selling price less costs to complete and sell. Cost is based on the cost of purchase on a 
+first in, first out
+ basis. Work in progress and finished goods include labour and attributable overheads.
+At each 
+reporting date
+, stocks are assessed for impairment. If stock is impaired, the carrying amount is reduced to its selling price less costs to complete and sell. The impairment loss is recognised immediately in the Statement of Comprehensive Income.
+2.19
+Debtors: amounts falling due within one year
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+- 22 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.20
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+2.21
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+- 23 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.22
+Financial instruments
+The 
+Company
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the 
+Company's
+Statement of Financial Position
+ when the 
+Company
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Company's
+ cash and cash equivalents, trade and most other debtors due with the operating cycle fall into this category of financial instruments.
+Impairment of financial assets
+At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present value of the estimated cashflows discounted at the asset's original effective interest rate. The impairment loss is recognised in the Statement of Comprehensive Income.
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the Statement of Comprehensive Income.
+- 24 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+2.
+Accounting policies (continued)
+2.22
+Financial instruments (continued)
+Basic financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+Company
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other payables, bank loans
+ and
+ other loans are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+=== page 23 ===
+Trade payables are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade payables are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade payables are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Company
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Company
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Company's
+ contractual obligations expire or are discharged or cancelled.
+- 25 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+3.
+Judgements in applying accounting policies and key sources of estimation uncertainty
+In applying the Company’s accounting policies, the directors are required to make judgements, estimates and assumptions in determining the carrying amounts of assets and liabilities. The directors’ judgements, estimates and assumptions are based on the best and most reliable evidence available at the time when the decisions are made and are based on historical experience and other factors that are considered to be applicable. Due to the inherent subjectivity involved in making such judgements, estimates and assumptions, the actual results and outcomes may differ.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the year in which the estimate is revised, if the revision affects only that year, or in the year of the revision and future years, if the revision affects both current and future years.
+3.1 Critical judgements in applying the Company’s accounting policies
+(i) Assessing indicators of impairment 
+In assessing whether there have been any indicators of impairment of assets, the directors have considered both external and internal sources of information such as market conditions, counterparty credit ratings and experience of recoverability. There have been no indicators of impairments identified during the current financial year.
+3.2 Key sources of estimation uncertainty
+The key assumptions concerning the future, and other key sources of estimation uncertainty, that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below.
+(i) Determining useful economic lives of goodwill and intangible assets
+On acquisition, the group determines a reliable estimate of the useful life of goodwill and intangible assets based upon factors such as the expected use of the acquired business, forecasts of expected future results and cash flows, and any legal, regulatory or contractual provisions that can limit useful life. 
+At each subsequent reporting date the directors consider whether there are any factors such as technological advancements or changes in market conditions that indicate a need to reconsider the useful life of goodwill and intangible assets.
+(ii) Determining the percentage completion of service based revenue
+Revenue arising from fixed price professional services contracts is estimated using a percentage of completion method. The percentage of completion method is based on the actual service performed as a percentage of the total services to be provided. Estimates of revenues, cost or extent of which progress towards completion are revised if circumstances change and are reflected in the Statement of Comprehensive Income in the period in which the circumstances have arisen.
+- 26 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+4.
+Turnover
+An analysis of turnover by class of business is as follows:
+2025
+2024
+£
+£
+Provision of services
+38,034,012
+35,927,213
+Sale of hardware and software
+1,709,254
+514,857
+39,743,266
+36,442,070
+Analysis of turnover by country of destination:
+2025
+2024
+£
+£
+United Kingdom
+38,386,447
+34,563,495
+Europe
+518,217
+1,064,539
+Rest of the world
+838,602
+814,036
+39,743,266
+36,442,070
+5.
+Other administrative expenses
+2025
+2024
+£
+=== page 24 ===
+£
+Costs of fundamental reorganisation and other one-off costs
+350,465
+141,309
+Costs in relation to management recharges
+268,932
+226,370
+619,397
+367,679
+During the year, the Company incurred a number of one-off costs regarding specific projects and internal restructuring.
+- 27 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+6.
+Operating profit
+The operating profit is stated after charging:
+2025
+2024
+£
+£
+Other operating lease rentals
+397,215
+413,300
+Depreciation of tangible fixed assets
+406,160
+512,581
+Amortisation - goodwill
+430,189
+430,189
+Amortisation - computer software
+57,258
+25,474
+Amortisation - development costs
+19,556
+21,661
+Exchange differences
+10,725
+14,948
+Defined contribution pension cost
+305,632
+261,632
+Share-based payment expense
+123,860
+-
+7.
+Auditor's remuneration
+During the 
+year
+, the 
+Company
+ obtained the following services from the 
+Company
+'s 
+auditor
+:
+2025
+2024
+£
+£
+Fees payable to the Company's auditor for the audit of the Company's financial statements
+85,750
+70,000
+The 
+Company
+ has taken advantage of the exemption not to disclose amounts paid for non-audit services as these are disclosed in the consolidated accounts of the ultimate parent 
+Company
+.
+- 28 -
+I.P. INTEGRATION LIMITED
+=== page 25 ===
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+8.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+2025
+2024
+£
+£
+Wages and salaries
+10,650,362
+9,600,916
+Social security costs
+1,265,202
+1,079,244
+Cost of defined contribution scheme
+305,632
+261,632
+12,221,196
+10,941,792
+The average
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+2025
+2024
+No.
+No.
+Management
+8
+7
+Administration
+19
+14
+Sales
+25
+26
+Service and operations
+71
+71
+Development
+15
+11
+Directors
+5
+5
+143
+134
+9.
+Directors' remuneration
+2025
+2024
+£
+£
+Directors' emoluments
+707,750
+824,921
+Company contributions to defined contribution pension schemes
+24,422
+20,636
+732,172
+845,557
+During the 
+year
+ retirement benefits were accruing to 3 
+=== page 26 ===
+directors
+ (2024:
+ 3
+)
+ in respect of defined contribution pension schemes.
+The highest paid 
+director
+ received remuneration of 
+£
+215,324 (2024: £249,901
+)
+.
+The value of the 
+Company
+'s contributions paid to a defined contribution pension scheme in respect of the highest paid 
+director
+ amounted to 
+£
+11,032
+ (2024: £9,105
+)
+.
+The directors of the Company are considered to be the only key management personnel.
+- 29 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+10.
+Interest receivable and similar income
+2025
+2024
+£
+£
+Bank interest receivable
+19,359
+-
+11.
+Interest payable and similar expenses
+2025
+2024
+£
+£
+Intercompany loan interest payable (note 18)
+-
+288,339
+Other loan interest payable
+2,811
+44,087
+2,811
+332,426
+12.
+Tax on profit
+2025
+2024
+£
+£
+Corporation tax
+Adjustments in respect of previous periods
+-
+(
+189,564
+)
+Total current tax
+-
+(
+189,564
+)
+Deferred tax
+Origination and reversal of timing differences
+436,532
+=== page 27 ===
+(
+366,948
+)
+Total deferred tax
+436,532
+(
+366,948
+)
+Total tax charge/(credit) for the year
+436,532
+(
+556,512
+)
+- 30 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+12.
+Tax on profit (continued)
+Factors affecting tax charge/(credit) for the year
+The tax assessed for the 
+year
+ is 
+lower than
+ (2024: lower than) 
+the standard rate of corporation tax
+ in the UK of
+25
+%
+ (2024:
+25
+%)
+. The differences are explained below:
+2025
+2024
+£
+£
+Profit before tax
+935,572
+1,450,080
+Profit before tax multiplied by standard rate of corporation tax in the UK of 25% (2024: 25%)
+233,893
+362,520
+Effects of:
+Fixed asset differences
+107,547
+224,531
+Expenses not deductible for tax purposes
+65,191
+13,864
+Other permanent differences
+438
+295
+Additional deduction for R&D expenditure
+-
+(
+140,332
+)
+R&D expenditure credits
+29,757
+-
+Adjustments to tax charge in respect of prior periods
+-
+(
+189,564
+)
+Deferred tax losses utilised
+-
+(
+383,072
+=== page 28 ===
+)
+Movement in deferred tax liabilities unrecognised
+(
+294
+)
+(
+7,200
+)
+Deferred tax previously unrecognised, now recognised
+-
+(
+437,554
+)
+Total tax charge/(credit) for the year
+436,532
+(
+556,512
+)
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+- 31 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+13.
+Intangible assets
+Development costs
+Licenses and trademarks
+Computer software
+Goodwill
+Total
+£
+£
+£
+£
+£
+Cost
+At 1 October 2024
+552,338
+37,874
+273,827
+4,278,125
+5,142,164
+Additions
+232,155
+-
+49,870
+-
+282,025
+At 30 September 2025
+784,493
+37,874
+323,697
+4,278,125
+5,424,189
+Accumulated amortisation
+At 1 October 2024
+373,386
+37,874
+25,474
+2,589,700
+3,026,434
+Charge for the year
+19,556
+-
+57,258
+430,189
+507,003
+At 30 September 2025
+392,942
+=== page 29 ===
+37,874
+82,732
+3,019,889
+3,533,437
+Net book value
+At 30 September 2025
+391,551
+-
+240,965
+1,258,236
+1,890,752
+At 30 September 2024
+178,952
+-
+248,353
+1,688,425
+2,115,730
+- 32 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+14.
+Tangible fixed assets
+Plant and machinery
+Fixtures and fittings
+Computer equipment
+Direct to location equipment
+Total
+£
+£
+£
+£
+£
+Cost
+At 1 October 2024
+13,497
+541,304
+2,157,899
+1,057,365
+3,770,065
+Additions
+-
+11,397
+98,747
+-
+110,144
+At 30 September 2025
+13,497
+552,701
+2,256,646
+1,057,365
+3,880,209
+Accumulated depreciation
+At 1 October 2024
+13,497
+540,365
+1,388,992
+1,057,365
+3,000,219
+Charge for the year
+-
+2,152
+404,008
+-
+406,160
+At 30 September 2025
+13,497
+542,517
+1,793,000
+1,057,365
+=== page 30 ===
+3,406,379
+Net book value
+At 30 September 2025
+-
+10,184
+463,646
+-
+473,830
+At 30 September 2024
+-
+939
+768,907
+-
+769,846
+The Company does not hold any assets under finance leases.
+- 33 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+15.
+Fixed asset investments
+Investments in subsidiary companies
+£
+Cost 
+At 1 October 2024
+1
+At 30 September 2025
+1
+Net book value
+At 30 September 2025
+1
+At 30 September 2024
+1
+Subsidiary undertakings
+The following 
+were subsidiary undertakings of the Company:
+Name
+Registered office
+Principal activity
+Class of shares
+Holding
+Acenseo Limited
+Integration House Turnhams Green Park, Pincents Lane, Reading, Berkshire, RG31 4UH
+Dormant
+Ordinary
+100
+%
+Rappidly MN Holdco Limited
+Integration House Turnhams Green Park, Pincents Lane, Reading, Berkshire, RG31 4UH
+Dormant
+Ordinary
+100
+%
+Managed Networks Limited*
+Integration House Turnhams Green Park, Pincents Lane, Reading, Berkshire, RG31 4UH
+Dormant
+Ordinary
+100
+%
+* Managed Networks Limited is an indirect subsidiary of the Company. Rappidly MN Holdco Limited owns 100% of its share capital.
+- 34 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+16.
+Debtors: amounts falling due within one year
+2025
+2024
+£
+£
+=== page 31 ===
+Trade debtors
+4,519,124
+5,221,912
+Amounts owed by group undertakings
+8,044,120
+7,225,933
+Other debtors
+96,420
+157,145
+Prepayments and accrued income
+6,930,934
+7,696,748
+Tax recoverable
+38,093
+203,933
+Deferred taxation
+20,193
+472,662
+19,648,884
+20,978,333
+Trade debtors are stated net of provision for impairment of £
+167,398
+ (2024: £48,120).
+Amounts owed by group undertakings are unsecured, interest-free and repayable on demand.
+17.
+Cash and cash equivalents
+2025
+2024
+£
+£
+Cash at bank and in hand
+2,084,500
+1,471,807
+- 35 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+18.
+Creditors: amounts falling due within one year
+2025
+2024
+£
+£
+Trade creditors
+2,687,612
+2,359,111
+Amounts owed to group undertakings
+3,336,017
+1,467,001
+Other taxation and social security
+658,755
+1,161,612
+Other creditors
+167,129
+91,139
+Accruals and deferred income
+10,762,877
+12,377,706
+17,612,390
+17,456,569
+Aside from balances noted below amounts owed to group undertakings are unsecured, interest-free and repayable on demand.
+Included within amounts owed to group undertakings is an amount of £2,908,586 (2024: £1,068,925) which is subject to interest at an average rate of 8.53% (2024: 9.6%) per annum. During the year, the repayment date for the amount of £1,068,925 was extended from 29 January 2025 to 29 January 2026. The remaining amount is due for repayment on 29 January 2026.
+The aforementioned intercompany loan and its associated terms reflect the bank loan held by I.P. Integration Holdings Limited. This bank loans is secured by a debenture creating a fixed and floating charge over the assets of the group and the Company in favour of Santander UK Plc. 
+19.
+Creditors: amounts falling due after more than one year
+2025
+2024
+£
+£
+Amounts owed to group undertakings
+=== page 32 ===
+-
+2,000,000
+In the prior year, the amounts owed to group undertakings are subject to interest at an average rate of 9.6% (2023: 9.3%) per annum. The amount was due for repayment in January 2026.
+20.
+Registered charges
+On the 29 January 2021 a charge containing a fixed and floating charge with a negative pledge clause was registered by Santander UK plc over all assets of the Company. 
+On the 12 April 2023 a charge containing a fixed and floating charge with a negative pledge clause was registered by MNL Nominees Limited over all assets of the Company. 
+- 36 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+21.
+Deferred taxation
+2025
+2024
+£
+£
+At beginning of year
+234,781
+(
+132,167
+)
+Credited to the Statement of Comprehensive Income
+(
+436,532
+)
+366,948
+At end of year
+(
+201,751
+)
+234,781
+The 
+deferred tax balance
+ is made up as follows:
+2025
+2024
+£
+£
+Fixed asset timing differences
+(
+221,944
+)
+(
+237,881
+)
+Short term timing differences
+13,391
+20,707
+Losses and other deductions
+6,802
+451,955
+(
+201,751
+)
+234,781
+Comprising:
+Asset
+20,193
+472,662
+Liability
+(
+221,944
+)
+(
+237,881
+)
+(
+201,751
+)
+=== page 33 ===
+234,781
+22.
+Called up share capital
+2025
+2024
+£
+£
+Allotted, called up and fully paid
+10,000
+ (2024: 
+10,000
+)
+ordinary
+shares of
+£
+1
+ each
+10,000
+10,000
+Each ordinary share entitles the shareholder to full voting rights.
+- 37 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+23.
+Reserves
+Capital contribution reserve
+Reserve to reflect capital contribution from the Company's parent company.
+Profit and loss account
+The reserve comprises the cumulative profits and losses of the Company. Dividends are paid from this reserve.
+24.
+Share based payment
+The Company's employees participate in a share based payment plan operated by the ultimate parent company, IPI Group Holdco Limited. Details of the plan, effective 24 April 2025 are as follows:
+Persons eligible to receive awards under the plan include employees and directors of the Group. Share options granted under the plan become exercisable over the period of 3.4 years after the initial grant. The options are settled in shares in IPI Group Holdco Limited.
+During the current year, a share based payment expense of £123,860 was recognised and a corresponding credit of £123,860 was recorded in the capital contribution reserve.
+25.
+Pension commitments
+The Company operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the Company in an independently administered fund. The pension cost charge represents contributions payable by the Company to the fund and amounted to £
+305,632
+ (2024: £261,632). Contributions totalling £
+154,373
+ (2024: £55,776) were payable to the fund at the reporting date and are included in creditors.
+26.
+Commitments under operating leases
+At 
+30 September 2025
+ the 
+Company
+ had future minimum lease payments due under non-cancellable operating leases for each of the following periods:
+2025
+2024
+£
+£
+Not later than 1 year
+332,430
+375,668
+Later than 1 year and not later than 5 years
+1,037,414
+1,102,028
+Later than 5 years
+-
+106,736
+1,369,844
+1,584,432
+Commitments under operating leases relate primarily to office rental, under terms expiring between 2023 and 2030.
+The Company operates an electric car scheme for their employees paid via employee salary sacrifice however there is no implicit commitment held by the Company. 
+- 38 -
+I.P. INTEGRATION LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 30 SEPTEMBER 2025
+=== page 34 ===
+27.
+Related party transactions
+The Company has taken advantage of exemption, available under Section 33 'Related Party Disclosures' not to disclose other transactions with wholly owned members of the group.
+28.
+Post balance sheet events
+There have been no significant events affecting the Company since the year end.
+29.
+Controlling party
+The immediate parent company is 
+I.P. Integration Group Limited
+, a company incorporated in England and Wales. 
+The ultimate parent company is 
+lPI Group Holdco Limited
+, a company incorporated and registered in England and Wales, which is the smallest and the largest group into which the Company's financial statements are consolidated.
+The only consolidated financial statements prepared for the group, of which the Company is a member are those of the ultimate parent company. Copies of the ultimate parent company's financial statements are publicly available and can be obtained from Companies House. The address of the registered office is Integration House, Turnhams Green Business Park, Pincents Lane, Reading, Berkshire, RG31 4UH.
+The ultimate controlling party is Mr B.J. Prentis by virtue of his beneficial shareholding in IPI Group Holdco Limited, the ultimate parent company of the group.
+- 39 -

@@ -1,0 +1,2299 @@
+=== page 1 ===
+Ice Telecommunications Ltd - Limited company accounts 23.2
+IRIS Accounts Production
+v23.3.1.45
+09180490
+Board of Directors
+1.1.22
+30.12.22
+30.12.22
+I
+true
+false
+false
+true
+false
+false
+false
+true
+false
+Auditors Opinion
+Ordinary
+1.00000
+A Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+09180490
+2021-12-31
+09180490
+2022-12-30
+09180490
+2022-01-01
+2022-12-30
+09180490
+2020-12-31
+09180490
+2021-01-01
+2021-12-31
+09180490
+2021-12-31
+09180490
+ns15:PoundSterling
+2022-01-01
+2022-12-30
+09180490
+ns11:Director1
+2022-01-01
+2022-12-30
+09180490
+ns11:PrivateLimitedCompanyLtd
+2022-01-01
+2022-12-30
+09180490
+ns11:FRS102
+2022-01-01
+2022-12-30
+09180490
+ns11:Audited
+2022-01-01
+2022-12-30
+09180490
+ns11:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2022-01-01
+2022-12-30
+09180490
+ns11:LargeMedium-sizedCompaniesRegimeForAccounts
+2022-01-01
+2022-12-30
+=== page 2 ===
+09180490
+ns11:FullAccounts
+2022-01-01
+2022-12-30
+09180490
+1
+2022-01-01
+2022-12-30
+09180490
+ns11:OrdinaryShareClass1
+2022-01-01
+2022-12-30
+09180490
+ns11:OrdinaryShareClass2
+2022-01-01
+2022-12-30
+09180490
+ns11:Director2
+2022-01-01
+2022-12-30
+09180490
+ns11:Director3
+2022-01-01
+2022-12-30
+09180490
+ns11:RegisteredOffice
+2022-01-01
+2022-12-30
+09180490
+ns6:PriorPeriodIncreaseDecrease
+ns6:RetainedEarningsAccumulatedLosses
+2021-01-01
+2021-12-31
+09180490
+ns6:RestatedAmount
+2021-01-01
+2021-12-31
+09180490
+ns6:CurrentFinancialInstruments
+2022-12-30
+09180490
+ns6:CurrentFinancialInstruments
+2021-12-31
+09180490
+ns6:Non-currentFinancialInstruments
+2022-12-30
+09180490
+ns6:Non-currentFinancialInstruments
+2021-12-31
+09180490
+ns6:ShareCapital
+2022-12-30
+09180490
+ns6:ShareCapital
+2021-12-31
+09180490
+ns6:CapitalRedemptionReserve
+2022-12-30
+09180490
+ns6:CapitalRedemptionReserve
+2021-12-31
+09180490
+ns6:RetainedEarningsAccumulatedLosses
+2022-12-30
+09180490
+ns6:RetainedEarningsAccumulatedLosses
+2021-12-31
+09180490
+ns6:ShareCapital
+2020-12-31
+=== page 3 ===
+09180490
+ns6:RetainedEarningsAccumulatedLosses
+2020-12-31
+09180490
+ns6:CapitalRedemptionReserve
+2020-12-31
+09180490
+ns6:PriorPeriodIncreaseDecrease
+2021-01-01
+2021-12-31
+09180490
+ns6:PriorPeriodIncreaseDecrease
+ns6:RetainedEarningsAccumulatedLosses
+2020-12-31
+09180490
+ns6:PriorPeriodIncreaseDecrease
+2020-12-31
+09180490
+ns6:CapitalRedemptionReserve
+2021-01-01
+2021-12-31
+09180490
+ns6:RetainedEarningsAccumulatedLosses
+2021-01-01
+2021-12-31
+09180490
+ns6:RetainedEarningsAccumulatedLosses
+2022-01-01
+2022-12-30
+09180490
+ns6:CapitalRedemptionReserve
+2022-01-01
+2022-12-30
+09180490
+ns6:NetGoodwill
+2022-01-01
+2022-12-30
+09180490
+ns6:IntangibleAssetsOtherThanGoodwill
+2022-01-01
+2022-12-30
+09180490
+ns6:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-01-01
+2022-12-30
+09180490
+ns6:ComputerSoftware
+2022-01-01
+2022-12-30
+09180490
+ns6:ReportableOperatingSegment1
+2022-01-01
+2022-12-30
+09180490
+ns6:ReportableOperatingSegment1
+2021-01-01
+2021-12-31
+09180490
+ns6:ReportableOperatingSegment2
+2022-01-01
+2022-12-30
+09180490
+ns6:ReportableOperatingSegment2
+2021-01-01
+2021-12-31
+09180490
+ns6:ReportableOperatingSegment3
+2022-01-01
+2022-12-30
+09180490
+=== page 4 ===
+ns6:ReportableOperatingSegment3
+2021-01-01
+2021-12-31
+09180490
+ns6:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2022-01-01
+2022-12-30
+09180490
+ns6:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2021-01-01
+2021-12-31
+09180490
+ns16:UnitedKingdom
+2022-01-01
+2022-12-30
+09180490
+ns16:UnitedKingdom
+2021-01-01
+2021-12-31
+09180490
+ns6:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2022-01-01
+2022-12-30
+09180490
+ns6:TotalGeographicSegmentsIncludingAnyUnallocatedAmount
+2021-01-01
+2021-12-31
+09180490
+ns11:HighestPaidDirector
+2022-01-01
+2022-12-30
+09180490
+ns6:OwnedAssets
+2022-01-01
+2022-12-30
+09180490
+ns6:OwnedAssets
+2021-01-01
+2021-12-31
+09180490
+ns6:NetGoodwill
+2021-01-01
+2021-12-31
+09180490
+ns6:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2021-01-01
+2021-12-31
+09180490
+ns6:ComputerSoftware
+2021-01-01
+2021-12-31
+09180490
+11
+2022-01-01
+2022-12-30
+09180490
+11
+2021-01-01
+2021-12-31
+09180490
+12
+2022-01-01
+2022-12-30
+09180490
+12
+2021-01-01
+2021-12-31
+09180490
+1
+2022-01-01
+=== page 5 ===
+2022-12-30
+09180490
+1
+2021-01-01
+2021-12-31
+09180490
+ns6:NetGoodwill
+2021-12-31
+09180490
+ns6:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2021-12-31
+09180490
+ns6:ComputerSoftware
+2021-12-31
+09180490
+ns6:NetGoodwill
+2022-12-30
+09180490
+ns6:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-12-30
+09180490
+ns6:ComputerSoftware
+2022-12-30
+09180490
+ns6:NetGoodwill
+2021-12-31
+09180490
+ns6:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2021-12-31
+09180490
+ns6:ComputerSoftware
+2021-12-31
+09180490
+ns6:LeaseholdImprovements
+2021-12-31
+09180490
+ns6:FurnitureFittings
+2021-12-31
+09180490
+ns6:ComputerEquipment
+2021-12-31
+09180490
+ns6:LeaseholdImprovements
+2022-01-01
+2022-12-30
+09180490
+ns6:FurnitureFittings
+2022-01-01
+2022-12-30
+09180490
+ns6:ComputerEquipment
+2022-01-01
+2022-12-30
+09180490
+ns6:LeaseholdImprovements
+2022-12-30
+09180490
+ns6:FurnitureFittings
+2022-12-30
+09180490
+ns6:ComputerEquipment
+2022-12-30
+09180490
+ns6:LeaseholdImprovements
+2021-12-31
+09180490
+ns6:FurnitureFittings
+2021-12-31
+09180490
+ns6:ComputerEquipment
+=== page 6 ===
+2021-12-31
+09180490
+ns6:CostValuation
+2021-12-31
+09180490
+ns6:WithinOneYear
+ns6:CurrentFinancialInstruments
+2022-12-30
+09180490
+ns6:WithinOneYear
+ns6:CurrentFinancialInstruments
+2021-12-31
+09180490
+ns6:BetweenOneTwoYears
+ns6:Non-currentFinancialInstruments
+2021-12-31
+09180490
+ns6:BetweenTwoFiveYears
+ns6:Non-currentFinancialInstruments
+2022-12-30
+09180490
+ns6:BetweenTwoFiveYears
+ns6:Non-currentFinancialInstruments
+2021-12-31
+09180490
+ns6:WithinOneYear
+2022-12-30
+09180490
+ns6:WithinOneYear
+2021-12-31
+09180490
+ns6:BetweenOneFiveYears
+2022-12-30
+09180490
+ns6:BetweenOneFiveYears
+2021-12-31
+09180490
+ns6:AllPeriods
+2022-12-30
+09180490
+ns6:AllPeriods
+2021-12-31
+09180490
+ns6:AcceleratedTaxDepreciationDeferredTax
+2022-12-30
+09180490
+ns6:AcceleratedTaxDepreciationDeferredTax
+2021-12-31
+09180490
+ns6:DeferredTaxation
+2021-12-31
+09180490
+ns6:DeferredTaxation
+2022-01-01
+2022-12-30
+09180490
+ns6:DeferredTaxation
+2022-12-30
+09180490
+ns11:OrdinaryShareClass1
+2022-12-30
+09180490
+ns11:OrdinaryShareClass2
+2022-12-30
+09180490
+3
+ns11:Director3
+2021-12-31
+09180490
+3
+=== page 7 ===
+ns11:Director3
+2020-12-31
+09180490
+3
+ns11:Director3
+2022-01-01
+2022-12-30
+09180490
+3
+ns11:Director3
+2021-01-01
+2021-12-31
+09180490
+3
+ns11:Director3
+2022-12-30
+09180490
+3
+ns11:Director3
+2021-12-31
+09180490
+ns11:Director1
+1
+2021-12-31
+09180490
+ns11:Director1
+1
+2020-12-31
+09180490
+ns11:Director1
+1
+2022-01-01
+2022-12-30
+09180490
+ns11:Director1
+1
+2021-01-01
+2021-12-31
+09180490
+ns11:Director1
+1
+2022-12-30
+09180490
+ns11:Director1
+1
+2021-12-31
+09180490
+2
+ns11:Director2
+2021-12-31
+09180490
+2
+ns11:Director2
+2020-12-31
+09180490
+2
+ns11:Director2
+2022-01-01
+2022-12-30
+09180490
+2
+ns11:Director2
+2021-01-01
+2021-12-31
+09180490
+2
+ns11:Director2
+2022-12-30
+09180490
+2
+=== page 8 ===
+ns11:Director2
+2021-12-31
+REGISTERED NUMBER: 
+09180490
+Strategic Report, Report of the Directors and
+ Financial Statements
+ for the period
+ 1 January 2022 to 30 December 2022
+for
+Ice Telecommunications Ltd
+Ice Telecommunications Ltd (Registered number: 09180490)
+Contents of the Financial Statements
+for the period 1 January 2022 to 30 December 2022
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Directors  
+6
+Report of the Independent Auditors  
+8
+Statement of Comprehensive Income 
+12
+Statement of Financial Position  
+13
+Statement of Changes in Equity  
+14
+Notes to the Financial Statements 
+15
+Ice Telecommunications Ltd
+Company Information
+for the period 1 January 2022 to 30 December 2022
+DIRECTORS:
+S W Bonell
+J A Taylor
+J S Ward
+REGISTERED OFFICE:
+Crewe House
+4 Oak Street
+Crewe
+Cheshire
+CW2 7DB
+REGISTERED NUMBER:
+09180490
+SENIOR STATUTORY AUDITOR:
+Stuart Banks BSc, FCA
+AUDITORS:
+Banks Sheridan (Statutory Auditor)
+Datum House
+Electra Way
+Crewe
+Cheshire
+CW1 6ZF
+BANKERS:
+Barclays Bank plc
+38 Market Street
+Crewe
+Cheshire
+CW1 2ET
+Page 1
+Ice Telecommunications Ltd (Registered number: 09180490)
+Strategic Report
+for the period 1 January 2022 to 30 December 2022
+The directors present their strategic report for the period 1 January 2022 to 30 December 2022. 
+REVIEW OF BUSINESS
+Ice Telecommunications Ltd (ICE Comms) is an award winning B2B provider of telecommunications solutions to 
+businesses to drive efficiency and performance.
+With over 50,000 mobile phone connections and several more thousand of landline / VOIP and hosted solutions to over 
+2,500 industry agnostic, disparate businesses - Ice Telecommunications Ltd has created a brand that is now widely 
+=== page 9 ===
+recognised as a brand that delivers on value and solutions.
+The performance of Ice Telecommunications Ltd over the past few years has been remarkable with significant growth 
+and recognition within the industry as shown by the multiple awards given to ICE.
+2022 has been a year of consolidation and change in strategy and approach. Some key changes and transformation 
+occurred during the year:
+-
+Partial asset base sale to Daisy to reinvest back into the business.
+-
+Change in focus and strategy to be more customer focussed.
+-
+Changing commercials to provide customers with even more savings.
+-
+Creating and setting up new revenue streams to drive cross selling of new products.
+-
+Different focus on people due to recruitment challenges.
+Financial Review
+The table below details the key financial performance indicators of the group:
+Financial 
+Period Ended
+Financial 
+Year Ended
+30 December 
+31 December 
+Revenue £m
+15.33
+18.38
+Gross profit %
+28.91%
+33.75%
+EBITDA £m
+0.03
+0.63
+Shareholders funds £m
+-0.16
+0.64
+In 2022 there was a 16% drop in revenue driven by:
+1
+Wholesale partial base sale - this would have brought in a minimum revenue of c£300k per month. 
+2
+Drop in indirect income as we rebuild our wholesale base.
+3
+The proceeds from the sale of the partial base is not included in the revenue numbers above  (c£2m).
+2022 also saw a reduction in the Gross Profit margin. This is linked to the wholesale partial base sale as this element of 
+the business generates lower revenues but achieves a much higher margin. It is anticipated that due to the CPI linked 
+price increases applied in April 2023 the company will see margins increase again next year.
+Results although lower from a financial perspective overall operational performance have been encouraging during these 
+times of change and investment into our future growth strategy and in part driven by:
+Investment in great people
+Staff costs have stayed the same year on year (£4.5m) although staff numbers overall have decreased by 6 full time 
+employees as we rewarded existing staff more to reflect the great work they are doing as well as investing in higher 
+calibre employees. The directors would like to pay tribute to the whole team - their relentless determination, outstanding 
+loyalty and work ethic has resulted in these great results.
+Page 2
+Ice Telecommunications Ltd (Registered number: 09180490)
+Strategic Report
+for the period 1 January 2022 to 30 December 2022
+Innovative products to provide great solutions
+Partnering with different suppliers and innovative tech businesses we were able to provide unique solutions to our 
+partners e.g. keeping mobile communications available during English Channel crossing, taking advantage of 5G and 
+exploring 100% renewable energy supplies.
+Creating a culture for a customer focussed approach
+Leading review website, TrustPilot, has ICE Comms as a world leading organisation with a score of 4.7 / 5 - all thanks 
+to the fantastic service ICE Comms provides to customers.
+Creating a great working environment
+Initiatives such as flexi time, working from home, social mobility initiatives / diversity initiatives have created a unique 
+culture within ICE Comms - that drives fun, success, teamwork with the focus on customers underpinning everything we 
+do.
+Profit before Tax (PBT) has dropped significantly - driven in main by the drop in revenue
+As mentioned, Revenue has fallen year on year and the key drivers being:
+-
+=== page 10 ===
+the partial sale of the wholesale base.
+-
+Reduced indirect income as we tried different marketing routes that did not deliver the results we would have 
+expected e.g. Facebook and LinkedIn marketing.
+-
+Slight drop in sales staff numbers due to the difficulty in recruiting people.
+And cost increase's due to:
+-
+Directors now on payroll - year on year increase of over £100k.
+-
+Our investment in growth - not just in frontline sales staff but a commitment to grow the back office of ICE to 
+create a leading customer service experience. This has been reflected in our TrustPilot scores that is at 4.7/5 - 
+this is a great score and classed as industry leading.
+-
+Investment in more qualified staff to increase the knowledge within the business and to reflect the additional 
+skills and attributes required to maintain this growth.
+-
+We are a living wage employer and proud of it and we committed to matching any increase in pay.
+Even with these results we continued receiving significant industry wide recognition which we are extremely proud of - 
+Financial Times Top 1000 fastest growing company in UK, one of the Fastest growing company in the North West 
+(Haddaway) are but just two examples of industry wide recognition received.
+PRINCIPAL RISKS AND UNCERTAINTIES
+1) Cost of living impact
+The current economic climate and labour shortage is anticipated to put additional pressures on employment costs, which 
+will require planning and management to ensure these are effectively controlled.
+2) Recruitment
+To continue the growth of the company to match its aspirations - recruitment is a key aspect to delivering this. Both 
+quantity and quality. The job market has been difficult to navigate as the company has to be compete with more 
+organisations - as jobs that were historically enviable for candidates - are now genuine options due to work flexibility 
+and working from home.
+This has been mitigated to a certain extent by offering flexible working, market rate salary and to create our USP for 
+recruitment - our staff are customer focussed, have fun and leading levels of non financial benefits.
+Page 3
+Ice Telecommunications Ltd (Registered number: 09180490)
+Strategic Report
+for the period 1 January 2022 to 30 December 2022
+3) Market Competition
+There has been significant movement in the industry with big organisations making moves to enter the market with large 
+scale consolidations. This increases the competition within that sector and we have had to differentiate itself not just on 
+price but also its customer support and offering. The Group welcomes this as it drives us further to drive improvements 
+in our offerings and our commercial approach.
+There has been significant investment across the business as a whole to drive and improve customer support.
+This has been reflected in achieving the revenue figures we did.
+4) General economic activity
+Ice Telecommunications operates in the business to business sector and where economic activity shows a downward 
+trend, this might be perceived as a potential risk to the operations of the Company. However, experience has shown that 
+revenues tend to be robust, irrespective of activity as telecoms are an essential part of business, irrespective of the 
+economic conditions. Additionally our offering is to save customers money and realise operational efficiencies - hence 
+as a business Ice Telecommunications Ltd has done well.
+5) Lack of diversification
+The Company is heavily dependent on telecoms and will continue to investigate other areas such as business energy 
+supply, IT, phone cover etc. In 2022 - further investment made in the Hosted and Energy teams  - both have had a stable 
+start and as knowledge and experience improves we expect these to be major contributory revenue streams within ICE.
+6) Regulatory changes and price risk
+In the past, regulatory changes have affected gross telephony revenues and prices and the Company monitors the effects 
+of this on a regular basis and where applicable will devise and implement strategies and policies to address and minimise 
+the impact of any commercial pressures or compliance requirements.
+7) Changes in technology
+The speed of technological advancement and customer expectations in telecommunications is regularly monitored by the 
+Company. One of Ice Comms' strengths, through its independence, is its ability to adapt to change and willingness to 
+offer a variety of products to the UK total communications market.
+8) Liquidity and cashflow risk
+The Company mitigates this risk by profit retention and a strong cash balance, alongside policies with customers where 
+incentives are paid on a spread basis. The Company regularly reviews cash flow projections and has invested in new 
+Finance team to improve cash flow management. The company is also investigating new products that improve cash 
+flow.
+9) Credit risk
+Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by failing to 
+discharge an obligation.
+Company policies are aimed at minimising such losses and require that deferred terms are only granted to customers 
+=== page 11 ===
+who demonstrate an appropriate payment history and satisfy credit worthiness procedures. A large proportion of the 
+mobile customer credit risk is borne by O2 and other carriers rather than the company as they receive their revenue share 
+from them rather than collecting cash from customers.
+Page 4
+Ice Telecommunications Ltd (Registered number: 09180490)
+Strategic Report
+for the period 1 January 2022 to 30 December 2022
+OUR PEOPLE
+The safety of our people is at the forefront of our mind and again we have invested significantly to make the workplace 
+safe and COVID compliant.
+In addition to physical health and well being we have made strides within mental health and "softer" benefits such as 
+leave work early days to maintain the goodwill and commitment we have created within our workforce.
+Some of our activities that we have carried out:
+-
+Investment in a modern working environment.to "make it a positive place to work"
+-
+Incentives available to all staff to celebrate success across the business
+-
+Monthly festivals and celebratory days held across all 5 offices again to allow everyone to celebrate success
+-
+Annual promotion and success Day - to celebrate people moving up in the organisation / great performance and 
+acknowledgement
+This also helps when it comes to recruiting the best staff - our staff are our best advocates.
+BUSINESS OUTLOOK
+Although 2022 revenue had not increased versus prior year- the investments made for the growth of the business will 
+reap rewards as we aim to continue this focus on growth.
+This will be achieved through organic growth and improved performance, new products that will be introduced that will 
+complement what we do as well as growth with our customers.
+We will do this through:
+-
+developing a CRM system that automates the end to end process of a sale to customer - creating a great customer 
+journey as well as operational in house efficiencies
+-
+Develop effective partnerships with businesses to act as referrers
+-
+Invest in people to expand and retain the best people to achieve our growth plans
+-
+Execute a compelling cross sell and upsell strategy through to our customer base to develop our new products 
+across utilities and energy
+In April 2023 there was an industry wide increase applied to mobile phone charges as those contracts are linled to the 
+CPI and the company has benefited from a material uplift in sales and cash inflow from its existing customers during 
+2023.
+Our aim is to be the company businesses go to when looking to drive down costs, improve efficiency and create value..
+In conclusion, 2022 was a tough year and as we finalise 2023 - the investment in people, process and systems made in 
+2022 are already realising benefits in 2023.
+ON BEHALF OF THE BOARD:
+J S Ward
+- Director 
+20 December 2023
+Page 5
+Ice Telecommunications Ltd (Registered number: 09180490)
+Report of the Directors
+for the period 1 January 2022 to 30 December 2022
+The directors present their report with the financial statements of the company for the period 1 January 2022 to 30 December 2022.  
+DIVIDENDS
+The total distribution of interim dividends for the Period ended 30 December 2022 will be £601,596.
+FUTURE DEVELOPMENTS
+The directors are to continue to address the liquidity and profitability issues and having been successful in several key 
+areas during 2023 will ensure that the company continues to see its upward trajectory in 2024. They will also focus on 
+the company being well positioned to take advantage of any trading or other business opportunities that may be available 
+and are expecting further growth and profitability in 2024.
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 January 2022 to the date of this 
+report. 
+S W Bonell
+J A Taylor
+J S Ward
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements 
+in accordance with applicable law and regulations. 
+=== page 12 ===
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors 
+have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting 
+Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not 
+approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the 
+company and of the profit or loss of the company for that period.  In preparing these financial statements, the directors 
+are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the 
+company's transactions and disclose with reasonable accuracy at any time the financial position of the company and 
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for 
+safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud 
+and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and each director has taken all the steps that he ought to have taken 
+as a director in order to make himself aware of any relevant audit information and to establish that the company's 
+auditors are aware of that information. 
+Page 6
+Ice Telecommunications Ltd (Registered number: 09180490)
+Report of the Directors
+for the period 1 January 2022 to 30 December 2022
+AUDITORS
+The auditors,  Banks Sheridan (Statutory Auditor), will be proposed for re-appointment at the forthcoming Annual 
+General Meeting.
+ON BEHALF OF THE BOARD:
+J S Ward
+- Director 
+20 December 2023
+Page 7
+Report of the Independent Auditors to the Members of
+Ice Telecommunications Ltd
+Adverse opinion
+We have audited the financial statements of Ice Telecommunications Ltd (the 'company') for the period ended 
+30 December 2022 which comprise the Statement of Comprehensive Income, Statement of Financial Position, Statement 
+of Changes in Equity and Notes to the Financial Statements, including a summary of significant accounting policies. The 
+financial reporting framework that has been applied in their preparation is applicable law and United Kingdom 
+Accounting Standards, including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the 
+UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice). 
+In our opinion, because of the significance of the matters described in the basis for adverse opinion section of our report, 
+the company's financial statements:
+-
+do not give a true and fair view of the state of the company's affairs as at 30 December 2022 and of the 
+company's loss for the year then ended;
+-
+have not been properly prepared in accordance with United Kingdom Generally Accepted Practice; and
+-
+have not  been prepared in accordance with the Companies Act 2006.
+Basis for adverse opinion
+During the course of our audit work we have encountered the following issues:
+-
+In the absence of  sufficient, appropriate  evidence to the contrary, we have concluded  that two  material debtors 
+are irrecoverable and should be provided against;
+-
+We have identified material errors on sales cut-off that have not been corrected;
+-
+A change in the company's income recognition policy during the period in respect of upfront revenue from 
+indirect contracts should have been but has not been accounted as a prior period adjustment; and 
+-
+No accruals were  made for late purchase invoices invoices received post year end but relating to the current 
+financial year.
+-
+In the absence of sufficient, appropriate evidence to the contrary, we have concluded that a number of sales 
+ledger balances are irrecoverable and should be provided against
+In addition the strategic report does not consider the effect of failing to correct these errors.
+=== page 13 ===
+Had these errors been corrected, many elements in the accompanying financial statements would have been materially 
+affected. We estimate that, as a result of these uncorrected errors, the pre tax loss for the year is understated by 
+£1,953,548.
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our responsibilities under those standards are further described in the Auditor's responsibilities for the audit of the 
+financial statements section of our report. We are independent of the company in accordance with the ethical 
+requirements that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, 
+and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our adverse opinion on the company's 
+financial statements.
+Material uncertainty related to dividends
+We draw attention to note 10 in the financial statements, which indicates that the company may not have had sufficient 
+distributable reserves at the time a dividend was paid.
+Conclusions relating to going concern
+As the material errors in the financial statements are so significant and some of the items affect future cash flows, 
+especially the recoverability  of material debtors, we cannot conclude on whether the going concern basis of accounting 
+is appropriate.
+Page 8
+Report of the Independent Auditors to the Members of
+Ice Telecommunications Ltd
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic 
+Report and the Report of the Directors, but does not include the financial statements and our Report of the Auditors 
+thereon.
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise 
+explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing 
+so, consider whether the other information is materially inconsistent with the financial statements or our knowledge 
+obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or 
+apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the 
+financial statements themselves. If, based on the work we have performed, we conclude that there is a material 
+misstatement of this other information, we are required to report that  fact.
+As described in the basis for adverse opinion section of our report,  a number of uncorrected material misstatements 
+have been identified. We have concluded that the other information is materially misstated for the same reason with 
+respect to the amounts or other items in the annual report affected by the failure to correct these errors.
+Basis of adverse opinion on other matters prescribed by the Companies Act 2006
+Because of the significance of the matter described in the basis for adverse opinion section of our report, in our opinion, 
+the strategic report has not been prepared in accordance with applicable legal requirements.
+Except for the effects of the matters described in the basis for adverse opinion section of our report, in our opinion the 
+directors' report is consistent with the financial statements and has been prepared in accordance with legal requirements.
+Matters on which we are required to report by exception
+As a result of the matters described in the basis for adverse opinion section of our report, we have identified material 
+misstatements in the strategic report.
+We have nothing to report to you in respect of the following matters in relation to which the Companies Act 2006 
+requires us to report to you if, in our opinion:
+-
+adequate accounting records have not been kept or returns adequate for audit have not been received from 
+branches not visited by us; or
+-
+the financial statements are not in agreement the accounting records and returns; or
+-
+certain disclosures of directors remuneration specified by law are not made; or
+-
+we have not received all the information and explanations we require for our audit
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page six, the directors are responsible 
+for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such 
+internal control as the directors determine necessary to enable the preparation of financial statements that are free from 
+material misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a 
+going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of 
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic 
+alternative but to do so. 
+Page 9
+Report of the Independent Auditors to the Members of
+Ice Telecommunications Ltd
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs 
+=== page 14 ===
+(UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations
+We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of 
+irregularities, including fraud. Based on our understanding of  company, and its industry, we identified that the principal 
+risks of non-compliance with laws and regulations related to the UK  tax legislation, pensions legislation, employment 
+regulation and health and safety regulation, anti-bribery, corruption, fraud and money laundering. We considered the 
+extent to which non-compliance might have a material effect on the financial statements. We also considered those laws 
+and regulations that have a direct impact on the preparation of the financial statements, such as the Companies Act 2006.
+We evaluated the directors' and management's incentives and opportunities for fraudulent manipulation of the financial 
+statements (including the risk of override of controls) and determined that the principal risks were related to posting 
+manual journal entries to manipulate financial performance, management bias through judgements and assumptions in 
+significant accounting estimates, in particular in relation to loss reserves, and significant one-off or unusual transactions.
+Our audit procedures were designed to respond to those identified risks, including non-compliance with laws and 
+regulations (irregularities) and fraud that are material to the financial statements. Our audit procedures included but were 
+not limited to:
+-
+Discussing with the directors and management their policies and procedures regarding compliance with laws and 
+regulations;
+-
+Communicating identified laws and regulations throughout our engagement team and remaining alert to any 
+indications of non-compliance throughout our audit; and
+-
+Considering the risk of acts by the company which were contrary to applicable laws and regulations, including 
+fraud.
+Our audit procedures in relation to fraud included but were not limited to:
+-
+Making enquiries of the directors and management on whether they had knowledge of any actual, suspected or 
+alleged fraud;
+-
+Gaining an understanding of the internal controls established to mitigate risks related to fraud;
+-
+Discussing amongst the engagement team the risks of fraud; and
+-
+Addressing the risks of fraud through management override of controls by performing journal entry testing.
+There are inherent limitations in the audit procedures described above and the primary responsibility for the prevention 
+and detection of irregularities including fraud rests with management. As with any audit, there remained a risk of 
+non-detection of irregularities, as these may involve collusion, forgery, intentional omissions, misrepresentations or the 
+override of internal controls.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Page 10
+Report of the Independent Auditors to the Members of
+Ice Telecommunications Ltd
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those 
+matters we are required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's 
+members as a body, for our audit work, for this report, or for the opinions we have formed. 
+Stuart Banks BSc, FCA
+(Senior Statutory Auditor) 
+for and on behalf of 
+Banks Sheridan (Statutory Auditor)
+Datum House
+Electra Way
+Crewe
+Cheshire
+CW1 6ZF
+20 December 2023
+Page 11
+Ice Telecommunications Ltd (Registered number: 09180490)
+Statement of Comprehensive
+Income
+for the period 1 January 2022 to 30 December 2022
+Period
+1.1.22
+to
+=== page 15 ===
+Year Ended
+30.12.22
+31.12.21
+Notes
+£   
+£   
+TURNOVER
+4
+15,334,554
+18,381,930
+Cost of sales
+(
+11,026,152
+)
+(
+11,625,779
+)
+GROSS PROFIT
+4,308,402
+6,756,151
+Administrative expenses
+(
+6,650,261
+)
+(
+5,790,637
+)
+(2,341,859
+)
+965,514
+Other operating income
+52,750
+55,035
+OPERATING (LOSS)/PROFIT
+6
+(
+2,289,109
+)
+1,020,549
+Profit/loss on sale of operatn
+7
+2,128,000
+-
+Exceptional bad debts and other 
+non-recurring items 
+7
+-
+(
+553,236
+)
+(161,109
+)
+467,313
+Interest receivable and similar income 
+28,789
+48,764
+(132,320
+)
+516,077
+Interest payable and similar expenses 
+8
+(
+67,953
+)
+(
+7,108
+)
+(LOSS)/PROFIT BEFORE TAXATION 
+(
+200,273
+=== page 16 ===
+)
+508,969
+Tax on (loss)/profit
+9
+(
+3,978
+)
+(
+81,101
+)
+(LOSS)/PROFIT FOR THE FINANCIAL 
+PERIOD 
+(
+204,251
+)
+427,868
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE PERIOD 
+(
+204,251
+)
+Prior year adjustment
+318,582
+TOTAL COMPREHENSIVE INCOME 
+SINCE LAST ANNUAL REPORT 
+746,450
+The notes form part of these financial statements
+Page 12
+Ice Telecommunications Ltd (Registered number: 09180490)
+Statement of Financial Position
+30 December 2022
+2022
+2021
+Notes
+£   
+£   
+FIXED ASSETS
+Intangible assets
+11
+188,188
+226,962
+Tangible assets
+12
+153,296
+209,660
+Investments
+13
+11
+11
+341,495
+436,633
+CURRENT ASSETS
+Debtors: amounts falling due within one year
+14
+3,261,849
+3,380,513
+Debtors: amounts falling due after more than 
+one year 
+14
+1,527,424
+631,969
+Cash at bank and in hand
+58,035
+749,829
+4,847,308
+4,762,311
+CREDITORS
+=== page 17 ===
+Amounts falling due within one year 
+15
+(
+4,846,916
+)
+(
+4,219,212
+)
+NET CURRENT ASSETS
+392
+543,099
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+341,887
+979,732
+CREDITORS
+Amounts falling due after more than one 
+year 
+16
+(
+477,720
+)
+(
+305,628
+)
+PROVISIONS FOR LIABILITIES
+20
+(
+28,722
+)
+(
+32,812
+)
+NET (LIABILITIES)/ASSETS
+(
+164,555
+)
+641,292
+CAPITAL AND RESERVES
+Called up share capital
+21
+1,540
+1,540
+Capital redemption reserve
+76
+76
+Retained earnings
+(
+166,171
+)
+639,676
+SHAREHOLDERS' FUNDS
+(
+164,555
+)
+641,292
+The financial statements were approved by the Board of Directors and authorised for issue on 
+20 December 2023
+and 
+were signed on its behalf by: 
+J S Ward
+- Director 
+The notes form part of these financial statements
+Page 13
+Ice Telecommunications Ltd (Registered number: 09180490)
+Statement of Changes in Equity
+for the period 1 January 2022 to 30 December 2022
+Called up
+Capital
+share
+=== page 18 ===
+Retained
+redemption
+Total
+capital
+earnings
+reserve
+equity
+£   
+£   
+£   
+£   
+Balance at 1 January 2021
+1,540
+909,879
+76
+911,495
+Prior year adjustment
+-
+318,582
+-
+318,582
+As restated
+1,540
+1,228,461
+76
+1,230,077
+Changes in equity
+Profit for the year
+-
+427,868
+-
+427,868
+Total comprehensive income
+-
+427,868
+-
+427,868
+Dividends
+-
+(
+1,016,653
+)
+-
+(
+1,016,653
+)
+Balance at 31 December 2021
+1,540
+639,676
+76
+641,292
+Changes in equity
+Deficit for the period
+-
+(204,251
+)
+-
+(204,251
+)
+Total comprehensive income
+-
+(
+204,251
+)
+-
+(
+204,251
+)
+Dividends
+-
+=== page 19 ===
+(
+601,596
+)
+-
+(
+601,596
+)
+Balance at 30 December 2022
+1,540
+(
+166,171
+)
+76
+(
+164,555
+)
+The notes form part of these financial statements
+Page 14
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements
+for the period 1 January 2022 to 30 December 2022
+1.
+STATUTORY INFORMATION
+Ice Telecommunications Ltd ('The Company') is primarily engaged in the resale of mobile phone and similar 
+utility provider contracts.
+The company is a private company limited by shares and is incorporated in England and Wales. The address of 
+the principle place of business is 4, Oak Street, Crewe, Cheshire, CW2 7DB, which is also the registered office. 
+The registered number can be found on the Company Information page.
+The presentation currency of the financial statements is the Pound Sterling (£).
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006.
+3.
+ACCOUNTING POLICIES
+Summary of significant accounting policies
+The principal  accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all years presented, unless otherwise stated.
+Basis of preparation
+The financial statements are prepared on the going concern basis under the historical cost convention and comply 
+with the United Kingdom Accounting Standards and Companies Act 2006.
+Going concern
+The directors are currently undertaking a rigorous risk assessment of profitability, sales, margins and cost control 
+of the company for the next 12 months and stress-tested the key inputs and assumptions. Considerable effort has 
+also  focussed on the company's liquidity. ICE Comms benefits from the receipt of up front payments on many of 
+its customer contracts, which allows it to maintain a healthy cash flow and meet its immediate liabilities as those 
+fall due.  At the date of signing the financial statements, all of the Company's activities are continuing to operate 
+as normal.
+Future period's profitability also benefitted from the CPI linked price increases applied in April 2023, which has 
+seen cash inflows from existing and new customers increasing significantly from those seen during FY22.
+The directors have considered the principal risks and material uncertainties facing the company and have 
+established policies for managing these. These include uncertainty regarding its ability to maintain the level of 
+sales in the future, which they continue to manage by shaping improvements to their customer service levels. To 
+account for all uncertainties, the directors have prepared a cash flow forecast covering future periods, which 
+shows, when considering all reasonable possible changes in trading, that the company should be able to 
+comfortably meet its liabilities as they fall due.
+The company therefore continues to adopt the going concern basis in preparing its financial statements.
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemption in preparing these financial statements, 
+as permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland": 
+•
+the requirements of Section 7 Statement of Cash Flows. 
+Preparation of consolidated financial statements
+The financial statements contain information about Ice Telecommunications Ltd as an individual company and 
+do not contain consolidated financial information as the parent of a group. The company is exempt under Section 
+399(2A) of the Companies Act 2006 from the requirements to prepare consolidated financial statements. 
+Page 15
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+=== page 20 ===
+3.
+ACCOUNTING POLICIES - continued
+Related party exemption
+The company has taken advantage of exemption, under the terms of Financial Reporting Standard 102 'The 
+Financial Reporting Standard applicable in the UK and Republic of Ireland', not to disclose related party 
+transactions with wholly owned subsidiaries within the group.
+Significant judgements and estimates
+In the application of the company's accounting policies, which are described above, the directors' are required to 
+make judgements, estimates and assumptions about the carrying amounts of assets and liabilities that are not 
+readily apparent from other sources.  The estimates and associated assumptions are based on historical 
+experience and other factors that are considered to be relevant.  Actual results may differ from these estimates.
+Trade debtors
+The company engages its customers into contracts with third party suppliers, which are subject to rights of 
+cancellation.  The timing difference between the company earning its right to income, the date the contract is 
+processed by the third party supplier, payment on that contract and accounting for rebates and claw-backs results 
+in the directors being required to provide their best judgement of accrued income.  This estimate is reflected in 
+the company's turnover and trade debtors.
+At each reporting date, trade debtors are assessed for recoverability.  If there is any evidence of impairment, the 
+carrying amount is reduced to its recoverable amount. The impairment loss is recognised immediately in the 
+Statement of Income.
+Long term contracts
+In calculating the revenue to be recognised over the term of the contract certain key estimates are used for 
+accrued income, which has been estimated based on monthly contracted income and associated costs.
+Revenue recognition
+Revenue is recognised to the extent that the company obtains the right to consideration in exchange for its 
+performance.  Revenue is measured at the fair value of the consideration received, excluding discounts, rebates, 
+VAT and other sales taxes or duty.
+Customer contracted services
+Revenue from the provision of project services  is recognised by reference to the stage of completion of a 
+project. The stage of completion of a project is measured by comparing the costs incurred to date to the total 
+estimated project costs. Revenue is only recognised to the extent of recoverable expenses when the outcome of a 
+project cannot be estimated reliably. Revenue in excess of amounts billed to the customer are shown in 
+prepayments and accrued income within debtors: amounts falling due within one year.
+Commissions from customer contracts with Network operator
+Contracts revenue is recognised on completion of the contract established between the customer and the network 
+service provider.  All current and future contractual costs associated with that customer network deal are 
+recognised in full immediately.  Additional revenue entitlement based on customer use or clawback are 
+recognised at the time of occurrence.
+Call revenue
+Call revenue is recognised in the month in which calls are made.  Calls made in the year, but not billed by the 
+year-end are accrued within debtors as accrued income.
+Page 16
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+3.
+ACCOUNTING POLICIES - continued
+Line rental
+Line rental income is recognised during the month of rental.
+Handsets
+Turnover and related costs from the sale of handsets are recognised on the date title passes to the customer or if 
+provided through a leasing company, the date that the agreement between the leasing company and the customer 
+is activated.
+Goodwill
+Goodwill, being the amount paid in connection with the acquisition of a business in 2016, is being amortised evenly over its estimated useful life of five years.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost 
+less any accumulated amortisation and any accumulated impairment losses. 
+Development costs are being amortised evenly over their estimated useful life of four years.
+Computer software is being amortised evenly over its estimated useful life of three years.
+Tangible fixed assets
+Tangible fixed assets are stated at historical cost less accumulated depreciation and accumulated impairment 
+losses. Cost includes costs directly attributable to making the asset capable of operating as intended.
+Depreciation is provided at the following annual rates so as to write off their cost less residual amounts over their 
+estimated useful economic lives. Assets are also reviewed for impairment whenever events or changes in 
+circumstances indicate that the carrying amount may not be recoverable. An impairment loss is recognised for 
+the amount by which the assets carrying amount exceeds its recoverable amount.
+Fixtures and fittings
+-   20% on cost
+=== page 21 ===
+Computer equipment
+-   33% on cost
+Motor vehicles
+-   25% reducing balance
+Improvements to leasehold property
+-   over the remainder of the lease
+The residual values and useful lives of assets are reviewed and adjusted if appropriate at each statement of 
+financial position date.
+Investments in subsidiaries
+Investments in subsidiary undertakings are recognised at cost. 
+Taxation
+Taxation for the period comprises current and deferred tax. Tax is recognised in the Statement of Comprehensive 
+Income, except to the extent that it relates to items recognised in other comprehensive income or directly in 
+equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the statement of financial position date.
+Page 17
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+3.
+ACCOUNTING POLICIES - continued
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the 
+statement of financial position date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the period end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they 
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the 
+lease. 
+Employee benefits
+The company provides a range of benefits to employees, including annual bonus arrangements, paid holiday 
+arrangements and a defined contribution pension plan.
+Short term benefits, including holiday pay and other similar non-monetary benefits, are recognised as an expense 
+in the period in which service is received.
+The company operates a defined contribution pension plan for its directors and employees under the legislated 
+Workplace Pensions regulations.. A defined contribution plan is a pension plan under which the company pays 
+fixed contributions into a separate entity. Once the contributions have been paid the company has no further 
+payment obligations. The contributions are recognised as an expense when they are due. Amounts not paid are 
+shown as accruals at the end of the statement of financial position date. The assets of the plan are held separately 
+from the company in independently administered funds.
+Provisions for liabilities
+Provisions are recognised when the company has a present obligation (legal or constructive) as a result of a past 
+event, it is probable that the company will be required to settle the obligation, and a reliable estimate can be 
+made of the amount  of the obligation.
+The amount recognised as a provision is the best estimate of the consideration required to settle the present 
+obligation at the end of the reporting period, taking into account the risks and uncertainties surrounding the 
+obligation.
+4.
+TURNOVER
+The turnover and loss (2021 - profit) before taxation are attributable to the one principal activity of the company.
+An analysis of turnover by class of business is given below: 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Indirect
+7,852,123
+10,477,700
+Wholesale
+=== page 22 ===
+1,764,854
+5,146,940
+Other
+5,717,577
+2,757,290
+15,334,554
+18,381,930
+Page 18
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+4.
+TURNOVER - continued
+An analysis of turnover by geographical market is given below: 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+United Kingdom
+15,334,554
+18,381,930
+15,334,554
+18,381,930
+5.
+EMPLOYEES AND DIRECTORS
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Wages and salaries
+4,059,495
+4,157,992
+Social security costs
+388,731
+345,701
+Other pension costs
+84,112
+103,524
+4,532,338
+4,607,217
+The average number of employees during the period was as follows: 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+Director
+3
+4
+Corporate functions
+8
+8
+Other Director
+5
+3
+IT & software development
+4
+8
+Operations
+20
+=== page 23 ===
+20
+Sales
+91
+94
+131
+137
+The company operates a defined contribution pension scheme for the benefit of employees and directors.  The 
+assets of the scheme are administered by an independent pensions provider.  Pension payments are recognised as 
+an expense during the year and amount to £84,112 (2021: £103,524).
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Directors' remuneration
+221,495
+94,095
+Directors' pension contributions to money purchase schemes  
+56,815
+54,000
+Page 19
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+5.
+EMPLOYEES AND DIRECTORS - continued
+The number of directors to whom retirement benefits were accruing was as follows: 
+Money purchase schemes
+3
+3
+Information regarding the highest paid director for the period ended 30 December 2022 is as follows: 
+Period
+1.1.22
+to
+30.12.22
+£   
+Emoluments etc
+111,578
+Pension contributions to money purchase schemes
+19,321
+6.
+OPERATING (LOSS)/PROFIT
+The operating loss (2021 - operating profit) is stated after charging/(crediting): 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Other operating leases
+245,652
+240,731
+Depreciation - owned assets
+70,343
+64,419
+Goodwill amortisation
+-
+834
+Development costs amortisation
+37,500
+37,500
+Computer software amortisation
+85,207
+57,230
+=== page 24 ===
+Auditors' remuneration
+30,000
+15,000
+Government grants   
+(
+2,750
+)
+(
+52,240
+)
+Auditors remuneration - non audit work   
+23,959
+15,950
+AUDITORS' REMUNERATION
+2022
+2021
+£
+£
+Fees payable to the company's auditor for the audit of the company's annual 
+accounts
+30,000 
+15,000
+Fees payable to the company's auditor for other services:
+-   Audit of holding company
+5,000
+5,000
+-   Audit of trading subsidiary
+1,800
+-
+-   Taxation compliance
+750
+2,280
+-   Accountancy and assurance
+16,409
+7,000
+-   Management advisory
+-
+1,670
+23,959
+15,950
+Page 20
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+7.
+EXCEPTIONAL ITEMS
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Profit/loss on sale of operatn
+2,128,000
+-
+Exceptional bad debts and other non-recurring 
+items 
+-
+(
+553,236
+)
+2,128,000
+(553,236
+)
+During the period to 30 December 2022 the company completed a partial base sale of wholesale customers for a 
+total consideration of £2.128m..
+£544,316 of consideration is still outstanding and included within debtors amounts falling due after more than 
+=== page 25 ===
+one year.
+8.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Bank interest
+317
+-
+Interest on late payments
+43,602
+7,108
+Loan interest
+24,034
+-
+67,953
+7,108
+9.
+TAXATION
+Analysis of the tax charge
+The tax charge on the loss for the period was as follows: 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+Current tax:
+UK corporation tax
+8,068
+93,308
+Adjustment relating to prior
+years
+-
+15,835
+Group relief
+-
+(45,675
+)
+Total current tax
+8,068
+63,468
+Deferred tax
+(
+4,090
+)
+17,633
+Tax on (loss)/profit
+3,978
+81,101
+UK corporation tax has been charged at 
+19
+% (2021 - 
+19
+%). 
+Page 21
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+9.
+TAXATION - continued
+Reconciliation of total tax charge included in profit and loss
+=== page 26 ===
+The tax assessed for the period is higher than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+Period
+1.1.22
+to
+Year Ended
+30.12.22
+31.12.21
+£   
+£   
+(Loss)/profit before tax
+(
+200,273
+)
+508,969
+(Loss)/profit multiplied by the standard rate of corporation tax in the UK of 
+19
+% (2021 - 
+19
+%)  
+(
+38,052
+)
+96,704
+Effects of:
+Expenses not deductible for tax purposes
+35,934
+14,237
+Capital allowances in excess of depreciation
+(
+797
+)
+-
+Adjustments to tax charge in respect of previous periods 
+-
+15,835
+Increase in Taxation rate for deferred tax  
+6,893
+-
+Group relief   
+-
+(45,675
+)
+Total tax charge
+3,978
+81,101
+10.
+DIVIDENDS
+Dividends paid in the year on the shares classed as equity amounted to £601,596 (2021: £1,016,653).
+An interim dividend of £601,596 was formally voted on 30  September 2022. Although management information 
+supported the payment of that dividend, it has subsequently come to light that the company may  not have had 
+sufficient distributable reserves at the time and that its payment may have been  in breach of company legislation.
+The directors have confirmed that they undertake to make no further distributions until such a time as there are 
+reserves available
+11.
+INTANGIBLE FIXED ASSETS
+Development
+Computer
+Goodwill
+costs
+software
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 January 2022
+7,166
+150,000
+=== page 27 ===
+171,692
+328,858
+Additions
+-
+-
+83,933
+83,933
+At 30 December 2022
+7,166
+150,000
+255,625
+412,791
+AMORTISATION
+At 1 January 2022
+7,166
+37,500
+57,230
+101,896
+Amortisation for period 
+-
+37,500
+85,207
+122,707
+At 30 December 2022
+7,166
+75,000
+142,437
+224,603
+NET BOOK VALUE
+At 30 December 2022
+-
+75,000
+113,188
+188,188
+At 31 December 2021
+-
+112,500
+114,462
+226,962
+Page 22
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+12.
+TANGIBLE FIXED ASSETS
+Improvements
+to
+Fixtures
+leasehold
+and
+Computer
+property
+fittings
+equipment
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 January 2022
+80,136
+137,039
+98,981
+316,156
+Additions
+-
+10,725
+3,254
+=== page 28 ===
+13,979
+At 30 December 2022
+80,136
+147,764
+102,235
+330,135
+DEPRECIATION
+At 1 January 2022
+13,356
+48,975
+44,165
+106,496
+Charge for period 
+13,356
+27,545
+29,442
+70,343
+At 30 December 2022
+26,712
+76,520
+73,607
+176,839
+NET BOOK VALUE
+At 30 December 2022
+53,424
+71,244
+28,628
+153,296
+At 31 December 2021
+66,780
+88,064
+54,816
+209,660
+13.
+FIXED ASSET INVESTMENTS
+Shares in
+group
+undertakings
+£   
+COST
+At 1 January 2022
+and 30 December 2022
+11
+NET BOOK VALUE
+At 30 December 2022
+11
+At 31 December 2021
+11
+14.
+DEBTORS
+2022
+2021
+£   
+£   
+Amounts falling due within one year:
+Trade debtors
+1,401,448
+642,737
+Other debtors
+52,457
+134,861
+Interest bearing loans to
+group companies
+138,247
+22,500
+Directors' current accounts
+110,380
+456,454
+S455 tax recoverable
+68,378
+=== page 29 ===
+87,782
+Prepayments and accrued income
+1,490,939
+2,036,179
+3,261,849
+3,380,513
+Page 23
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+14.
+DEBTORS - continued
+2022
+2021
+£   
+£   
+Amounts falling due after more than one year:
+Amounts owed by group undertakings
+264,527
+117,426
+Interest bearing loans to
+group companies
+257,108
+410,291
+S455 tax recoverable
+35,873
+104,252
+Prepayments and accrued income
+969,916
+-
+1,527,424
+631,969
+Aggregate amounts
+4,789,273
+4,012,482
+Loans to group companies are unsecured and are repayable on demand.  Interest has been charged at a rate of 
+5%.
+15.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2022
+2021
+£   
+£   
+Other loans (see note 17) 
+26,091
+35,000
+Trade creditors
+3,058,445
+2,611,480
+Tax
+424,272
+613,790
+Social security and other taxes 
+326,883
+150,439
+VAT
+633,221
+524,342
+Other creditors
+342,999
+254,114
+Directors' current accounts
+5
+47
+Accruals and deferred income
+35,000
+30,000
+4,846,916
+4,219,212
+=== page 30 ===
+16.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+2022
+2021
+£   
+£   
+Other loans (see note 17) 
+158,545
+175,000
+Trade creditors
+319,175
+130,628
+477,720
+305,628
+17.
+LOANS
+An analysis of the maturity of loans is given below:
+2022
+2021
+£   
+£   
+Amounts falling due within one year or on demand:
+Other loans
+26,091
+35,000
+Amounts falling due between one and two years:
+Other loans - 1-2 years
+34,787
+35,000
+Page 24
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+17.
+LOANS - continued
+2022
+2021
+£   
+£   
+Amounts falling due between two and five years:
+Other loans - 2-5 years
+123,758
+105,000
+Amounts falling due in more than five years:
+Repayable by instalments
+Other loans more 5yrs instal
+-
+35,000
+18.
+LEASING AGREEMENTS
+Minimum lease payments under non-cancellable operating leases fall due as follows: 
+2022
+2021
+£   
+£   
+Within one year
+215,117
+203,333
+Between one and five years
+452,459
+445,909
+667,576
+649,242
+19.
+FINANCIAL INSTRUMENTS
+The carrying amounts of the company's financial instruments are as follows;
+2022
+2021
+=== page 31 ===
+£
+£
+Financial assets that are debt instruments measured at amortised cost
+2,386,450
+2,726,131
+Financial liabilities measured at amortised cost 
+(5,289,632
+)
+(4,494,840
+)
+20.
+PROVISIONS FOR LIABILITIES
+2022
+2021
+£   
+£   
+Deferred tax
+Accelerated capital allowances
+28,722
+32,812
+Deferred
+tax
+£   
+Balance at 1 January 2022
+32,812
+Provided during period
+(
+4,090
+)
+Balance at 30 December 2022
+28,722
+The deferred tax liability consists of
+2022
+2021
+£
+£
+Tax allowances in excess of depreciation
+31,646
+33,492
+Other short term timing differences
+(2,924
+)
+(680
+)
+28,722
+32,812
+Page 25
+continued...
+Ice Telecommunications Ltd (Registered number: 09180490)
+Notes to the Financial Statements - continued
+for the period 1 January 2022 to 30 December 2022
+21.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2022
+2021
+value:
+£   
+£   
+1,508
+Ordinary
+£1
+1,508
+1,508
+32
+A Ordinary
+£1
+=== page 32 ===
+32
+32
+1,540
+1,540
+22.
+ULTIMATE PARENT COMPANY
+Ice Comms Holdings Ltd 
+(incorporated in 
+England & Wales 
+) is regarded by the directors as being the company's 
+ultimate parent company. 
+The smallest and largest group in which the results of Ice Telecommunications Ltd are consolidated is that 
+headed by Ice Comms Holdings Ltd.  Copies of the Ice Comms Holdings Ltd consolidated financial statements 
+can be obtained from the registered office at Crewe House, 4 Oak Street, Crewe, CW2 7DB.
+23.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to directors subsisted during the period ended 30 December 2022 and the 
+year ended 31 December 2021: 
+2022
+2021
+£   
+£   
+J A Taylor
+Balance outstanding at start of period
+312,910
+177,228
+Amounts advanced
+5,006
+283,382
+Amounts repaid
+(
+207,537
+)
+(
+147,700
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of period
+110,379
+312,910
+J S Ward
+Balance outstanding at start of period
+143,544
+235,113
+Amounts advanced
+2,561
+130,767
+Amounts repaid
+(
+146,105
+)
+(
+222,336
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of period
+-
+143,544
+S W Bonell
+Balance outstanding at start of period
+=== page 33 ===
+-
+178,532
+Amounts advanced
+467
+43,757
+Amounts repaid
+(
+467
+)
+(
+222,289
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of period
+-
+-
+Interest has been charged on advances to directors at 2.0% (2021: 2.5%).
+24.
+ULTIMATE CONTROLLING PARTY
+The names of the ultimate controlling parties are Mr J S Ward, Mr S W Bonell and Mr J A Taylor.
+Page 26

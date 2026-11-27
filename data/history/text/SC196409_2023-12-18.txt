@@ -1,0 +1,1185 @@
+=== page 1 ===
+HF Comms Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v23.3.1.45
+SC196409
+Board of Directors
+Board of Directors
+1.4.22
+31.3.23
+31.3.23
+true
+false
+true
+true
+false
+false
+true
+true
+true
+true
+true
+false
+Ordinary
+1.00000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+SC196409
+2022-03-31
+SC196409
+2023-03-31
+SC196409
+2022-04-01
+2023-03-31
+SC196409
+2021-03-31
+SC196409
+2021-04-01
+2022-03-31
+SC196409
+2022-03-31
+SC196409
+ns10:Original
+ns15:Scotland
+2022-04-01
+2023-03-31
+SC196409
+ns14:PoundSterling
+ns10:Original
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Director1
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Director2
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+=== page 2 ===
+2023-03-31
+SC196409
+ns10:Original
+ns10:PrivateLimitedCompanyLtd
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:FRS102
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Audited
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2022-04-01
+2023-03-31
+SC196409
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+ns10:Original
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:FullAccounts
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:OrdinaryShareClass1
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Director3
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Director4
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Director5
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:Director6
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:RegisteredOffice
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+2021-04-01
+2022-03-31
+SC196409
+ns10:Original
+2022-03-31
+SC196409
+ns10:Original
+=== page 3 ===
+ns5:CurrentFinancialInstruments
+2023-03-31
+SC196409
+ns10:Original
+ns5:CurrentFinancialInstruments
+2022-03-31
+SC196409
+ns5:ShareCapital
+ns10:Original
+2023-03-31
+SC196409
+ns5:ShareCapital
+ns10:Original
+2022-03-31
+SC196409
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2023-03-31
+SC196409
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-03-31
+SC196409
+ns5:ShareCapital
+ns10:Original
+2021-03-31
+SC196409
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2021-03-31
+SC196409
+ns10:Original
+2021-03-31
+SC196409
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2021-04-01
+2022-03-31
+SC196409
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+1
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns5:FurnitureFittings
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns5:ComputerEquipment
+2022-04-01
+2023-03-31
+SC196409
+ns10:Original
+ns10:HighestPaidDirector
+2022-04-01
+2023-03-31
+SC196409
+=== page 4 ===
+ns10:Original
+ns10:HighestPaidDirector
+2021-04-01
+2022-03-31
+SC196409
+ns10:Original
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2022-03-31
+SC196409
+ns10:Original
+ns5:FurnitureFittings
+2022-03-31
+SC196409
+ns10:Original
+ns5:ComputerEquipment
+2022-03-31
+SC196409
+ns10:Original
+2022-03-31
+SC196409
+ns10:Original
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2023-03-31
+SC196409
+ns10:Original
+ns5:FurnitureFittings
+2023-03-31
+SC196409
+ns10:Original
+ns5:ComputerEquipment
+2023-03-31
+SC196409
+ns10:Original
+ns5:ShortLeaseholdAssets
+ns5:LandBuildings
+2022-03-31
+SC196409
+ns10:Original
+ns5:FurnitureFittings
+2022-03-31
+SC196409
+ns10:Original
+ns5:ComputerEquipment
+2022-03-31
+SC196409
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-03-31
+SC196409
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-03-31
+SC196409
+ns10:Original
+ns10:OrdinaryShareClass1
+2023-03-31
+SC196409
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-03-31
+REGISTERED NUMBER: 
+SC196409
+(Scotland) 
+Strategic Report, Report of the Directors and
+ Audited Financial Statements for the Year Ended 31 March 2023
+for
+=== page 5 ===
+HF COMMS LIMITED
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Contents of the Financial Statements
+for the Year Ended 31 March 2023
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Directors  
+5
+Report of the Independent Auditors  
+7
+Statement of Comprehensive Income 
+10
+Balance Sheet  
+11
+Statement of Changes in Equity  
+12
+Notes to the Financial Statements 
+13
+HF COMMS LIMITED
+Company Information
+for the Year Ended 31 March 2023
+DIRECTORS:
+G Madine
+H M Fulton
+J Balmer
+Mrs A P Fulton
+H R Fulton
+J A Ferguson
+REGISTERED OFFICE:
+100 Albert Drive
+Pollokshields
+Glasgow
+G41 2SJ
+REGISTERED NUMBER:
+SC196409
+(Scotland) 
+SENIOR STATUTORY AUDITOR: 
+Robert Pollock BA CA
+AUDITORS:
+Sharles Audit Limited
+Statutory Auditor
+29 Brandon Street
+Hamilton
+ML3 6DA
+BANKERS:
+Virgin Money
+30 St Vincent Place
+Glasgow
+G1 2HL
+Page 1
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Strategic Report
+for the Year Ended 31 March 2023
+The directors present their strategic report for the year ended 31 March 2023. 
+PRINCIPAL ACTIVITIES
+HF Comms is part of the HF Group, a family owned and managed company that has been operating out its head office in 
+Glasgow for over 20 years with offices in Aberdeen, Belfast, Edinburgh and Manchester.
+We are an ambitious and diverse family of companies offering superior quality and exceptional customer service.   Attracting 
+and retaining the best talent creates positive returns and ensures we continue to make a significant contribution for our 
+customers, staff, suppliers and communities.
+We provide a nationwide service with our values at the core of our service:
+- Quality
+- Safety
+- People
+- Integrity
+REVIEW OF BUSINESS
+Our key focus during the year was the safety and wellbeing of our staff and stakeholders.  We successfully launched a 'Lets 
+=== page 6 ===
+Be Harm Free 2023' campaign across the Group during the year and continue to build on this success and promote a good 
+safety culture in the current year.
+Our principal objective for 2023 was to maintain business stability which we successfully achieved.  The key performance 
+indicators during the year were:
+2023
+2022
+Movement
+(£)
+(£)
+(£)
+Turnover 
+ 18,662,763
+16,990,298
+1,672,465
+Operating profit / (loss)
+184,667
+25,658
+159,099
+Net assets
+1,340,349
+1,193,274
+147,075
+Average no. of employees
+ 84`
+ 87
+(3
+)
+The balance sheet remains strong and the group has no borrowings or external investment which continues to give the board 
+flexibility to develop its goals, strategies, objectives and be agile which is key. The group has sufficient reserves to finance 
+the levels of activity anticipated in the foreseeable future.
+The board's strategy is to continue to develop quality turnover whilst at the same time optimising profitability and continuing 
+to implement stringent cost controls.
+Page 2
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Strategic Report
+for the Year Ended 31 March 2023
+PRINCIPAL RISKS AND UNCERTAINTIES
+The board continues to monitor and review the key risks:
+Category
+Risks 
+Mitigation of risk
+Labour
+·Shortage
+·In house development and promotion 
+·Skills
+·Apprenticeship programs 
+·Rates
+·Cross-skill training
+·Regular rate reviews
+·Bonus structures
+·Staff incentives 
+Supply chain
+·Material prices
+·Maintain well-established relationships with current suppliers
+·Material shortages
+·No over reliance on one supplier 
+·Brexit 
+·Placing material orders in timely manner
+·Lead times
+·Ensure supply of regular or key materials in stock  
+Cash management
+·Cashflow
+·Ensure sufficient cash reserves
+·Credit risks
+·Payment terms
+·Stringent credit control procedures to reduce bad debt
+·Daily bank reconciliations
+Health & Safety
+·Harm, injury, death or  
+·Training
+=== page 7 ===
+  illness of stakeholders -
+·Risk assessments
+  internal and external
+·Quality Assurance
+·Site safety
+·Accreditations
+·Office safety
+IT 
+·Failure
+·Disaster Recovery plan
+·Penetration
+·Continued investment and upgrading of systems and security  
+·Training and development
+·Regular off site back ups
+Infectious control
+·Provides level of 
+uncertainty 
+·Various safety measures implemented throughout the
+·Risk of future disruption    
+  workforce
+·Flexibility with remote working where possible
+·Regular monitoring of guidance
+·Communication - internal and external
+·Ensure sufficient cash reserves so can react quickly
+Page 3
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Strategic Report
+for the Year Ended 31 March 2023
+PRINCIPAL RISKS AND UNCERTAINTIES (Cont)
+During these uncertain and challenging times, cashflow is key.  Other than a small number of operating leases the company 
+has been supported by the group and therefore not had to utilise external sources of finance and does not anticipate a need to 
+in the immediate future.
+The board is confident that the excellent level of service provided will ensure the group continues to be competitive in its 
+chosen market and retain its good relationships with well-established customers and suppliers.
+ON BEHALF OF THE BOARD:
+G Madine
+- Director 
+13 December 2023
+Page 4
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Report of the Directors
+for the Year Ended 31 March 2023
+The directors present their report with the financial statements of the company for the year ended 31 March 2023. 
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was that of the commissioning, installation and 
+de-commissioning of telecommunications equipment. 
+DIVIDENDS
+No dividends will be distributed for the year ended 31 March 2023. 
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 April 2022 to the date of this report. 
+G Madine
+H M Fulton
+J Balmer
+Mrs A P Fulton
+H R Fulton
+J A Ferguson
+EMPLOYEE INVOLVEMENT
+Regular meetings are held between the management and employees to allow a free flow of information.
+DISABLED EMPLOYEES
+The company gives full consideration to applications for employment from disabled persons where the job requirements of 
+the job can be adequately fulfilled by a handicapped or disabled person. Where existing employees become disabled, it is the 
+company's policy wherever practicable to provide continuing employment under normal terms and conditions and to provide 
+training, career development and promotion wherever appropriate .
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements in 
+accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors have 
+elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice 
+(United Kingdom Accounting Standards and applicable law), including Financial Reporting Standard 102 'The Financial 
+Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the 
+=== page 8 ===
+financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of 
+the profit or loss of the company for that period.  In preparing these financial statements, the directors are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's 
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to 
+ensure that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the 
+assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and each director has taken all the steps that he or she ought to have 
+taken as a director in order to make himself or herself aware of any relevant audit information and to establish that the 
+company's auditors are aware of that information. 
+Page 5
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Report of the Directors
+for the Year Ended 31 March 2023
+AUDITORS
+The auditors,  Sharles Audit Limited, will be proposed for re-appointment at the forthcoming Annual General Meeting.
+ON BEHALF OF THE BOARD:
+G Madine
+- Director 
+13 December 2023
+Page 6
+Report of the Independent Auditors to the Members of
+HF Comms Limited
+Opinion
+We have audited the financial statements of HF Comms Limited (the 'company') for the year ended 31 March 2023 which 
+comprise the Statement of Comprehensive Income, Balance Sheet, Statement of Changes in Equity and Notes to the 
+Financial Statements, including a summary of significant accounting policies. The financial reporting framework that has 
+been applied in their preparation is applicable law and United Kingdom Accounting Standards, including Financial 
+Reporting Standard 102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom 
+Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 March 2023 and of its profit for the year then ended;
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our 
+responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the financial 
+statements section of our report.  We are independent of the company in accordance with the ethical requirements that are 
+relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, and we have fulfilled our 
+other ethical responsibilities in accordance with these requirements.  We believe that the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in the 
+preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, 
+individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a period 
+of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic 
+Report and the Report of the Directors, but does not include the financial statements and our Report of the Auditors thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly 
+stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, 
+consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in 
+the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material 
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements 
+themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other 
+=== page 9 ===
+information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for which the financial 
+statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal requirements.
+Page 7
+Report of the Independent Auditors to the Members of
+HF Comms Limited
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we 
+have not identified material misstatements in the Strategic Report or the Report of the Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if, 
+in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches 
+not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit. 
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page five, the directors are responsible for 
+the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal 
+control as the directors determine necessary to enable the preparation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a going 
+concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless 
+the directors either intend to liquidate the company or to cease operations, or have no realistic alternative but to do so. 
+Page 8
+Report of the Independent Auditors to the Members of
+HF Comms Limited
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion.  Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will 
+always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material 
+if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on 
+the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+The aims of our audit are to identify and assess the risks of material misstatement of the financial statements as a result of 
+fraud or error, to obtain sufficient appropriate audit evidence regarding the assessed risks of material misstatement as a result 
+of fraud or error and to respond appropriately to those risks. As a result of the inherent limitations of an audit, there is an 
+unavoidable risk that material misstatements in the financial statements may not be detected, even though the audit is 
+properly planned and performed in accordance with ISAs (UK).
+In identifying and assessing risks of material misstatement in respect of irregularities, including fraud and non-compliance 
+with laws and regulations, our procedures include the following:
+-
+We obtained an understanding of the legal and regulatory frameworks applicable to the company and the sector in 
+which it operates. We determined that the following laws and regulations were most significant: the Companies Act 
+2006 and UK corporate tax laws.
+-
+We obtained an understanding of how the company is complying with those legal and regulatory frameworks by 
+making inquiries of management. We undertook a review of legal fees for any evidence of non-compliance.
+-
+We assessed the susceptibility of the company's financial statements to material misstatement, including how fraud 
+might occur. Audit procedures performed by the audit team included:
+-
+identifying and documenting the controls management has in place to prevent and detect fraud and error;
+-
+understanding how those charged with governance considered and addressed the potential for override of 
+controls or other inappropriate influence over the financial reporting process;
+-
+challenging assumptions and judgements made by management in its significant accounting estimates;
+-
+identifying and testing journal entries, in particular any journal entries posted for large or unusual amounts;
+=== page 10 ===
+-
+assessing the extent of compliance with relevant laws and regulations; and
+-
+sample testing of transactions and balances.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies 
+Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters we are 
+required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent permitted by law, we do 
+not accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit 
+work, for this report, or for the opinions we have formed. 
+Robert Pollock BA CA
+(Senior Statutory Auditor) 
+for and on behalf of 
+Sharles Audit Limited
+Statutory Auditor
+29 Brandon Street
+Hamilton
+ML3 6DA
+13 December 2023
+Page 9
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Statement of Comprehensive
+Income
+for the Year Ended 31 March 2023
+2023
+2022
+Notes
+£   
+£   
+TURNOVER
+4
+18,662,763
+16,990,298
+Cost of sales
+14,194,392
+14,068,766
+GROSS PROFIT
+4,468,371
+2,921,532
+Administrative expenses
+4,283,704
+2,895,874
+OPERATING PROFIT
+6
+184,667
+25,658
+Interest receivable and similar income 
+7
+12,720
+-
+PROFIT BEFORE TAXATION 
+197,387
+25,658
+Tax on profit
+8
+50,412
+12,023
+PROFIT FOR THE FINANCIAL YEAR 
+146,975
+13,635
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+146,975
+13,635
+The notes form part of these financial statements
+=== page 11 ===
+Page 10
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Balance Sheet
+31 March 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Tangible assets
+9
+4
+4
+CURRENT ASSETS
+Stocks
+10
+1,288,658
+1,318,721
+Debtors
+11
+2,377,962
+2,350,206
+Cash at bank
+1,150,364
+789,085
+4,816,984
+4,458,012
+CREDITORS
+Amounts falling due within one year 
+12
+3,476,639
+3,264,642
+NET CURRENT ASSETS
+1,340,345
+1,193,370
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+1,340,349
+1,193,374
+CAPITAL AND RESERVES
+Called up share capital
+13
+100
+100
+Retained earnings
+14
+1,340,249
+1,193,274
+SHAREHOLDERS' FUNDS
+1,340,349
+1,193,374
+The financial statements were approved by the Board of Directors and authorised for issue on 
+13 December 2023
+and were 
+signed on its behalf by: 
+G Madine
+- Director 
+H M Fulton
+- Director 
+The notes form part of these financial statements
+Page 11
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Statement of Changes in Equity
+for the Year Ended 31 March 2023
+Called up
+share
+Retained
+=== page 12 ===
+Total
+capital
+earnings
+equity
+£   
+£   
+£   
+Balance at 1 April 2021
+100
+1,179,639
+1,179,739
+Changes in equity
+Total comprehensive income
+-
+13,635
+13,635
+Balance at 31 March 2022
+100
+1,193,274
+1,193,374
+Changes in equity
+Total comprehensive income
+-
+146,975
+146,975
+Balance at 31 March 2023
+100
+1,340,249
+1,340,349
+The notes form part of these financial statements
+Page 12
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Notes to the Financial Statements
+for the Year Ended 31 March 2023
+1.
+STATUTORY INFORMATION
+HF Comms Limited is a 
+private company, limited by shares
+, registered in Scotland. The company's registered 
+number and registered office address can be found on the Company Information page. 
+The presentation currency of the financial statements is the Pound Sterling (£). 
+2.
+STATEMENT OF COMPLIANCE
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. There were no material departures from the standard.
+3.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+The financial statements have been prepared under the historical cost convention.
+Financial Reporting Standard 102 - reduced disclosure exemptions
+The company has taken advantage of the following disclosure exemptions in preparing these financial statements, as 
+permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland": 
+•
+the requirements of Section 7 Statement of Cash Flows; 
+•
+the requirement of paragraph 3.17(d); 
+•
+the requirements of paragraphs 11.42, 11.44, 11.45, 11.47, 11.48(a)(iii), 11.48(a)(iv), 11.48(b) and 11.48(c); 
+•
+the requirements of paragraphs 12.26, 12.27, 12.29(a), 12.29(b) and 12.29A; 
+•
+the requirements of paragraphs 26.18(b), 26.19 to 26.21 and 26.23; 
+•
+the requirement of paragraph 33.7; 
+•
+the requirements of paragraph 24(b) of IFRS 6. 
+Critical accounting judgements and key sources of estimation uncertainty
+Management  make judgements, estimates and assumptions that affect the application of policies and the carrying 
+values of assets, liabilities, income and expenses. The resulting accounting estimates calculated using these 
+judgements will, by definition, seldom equal the related actual results but are based on the experience of the directors 
+and the expectations of future events.The estimates are reviewed on an ongoing basis. Revisions to accounting 
+=== page 13 ===
+estimates are recognised in the period in which the estimate is reviewed.
+The key judgements and sources of estimation uncertainty are:
+The recovery of trade receivables, amounts recoverable on contracts and provision for bad debts. Based on the 
+principle that any debtors and amounts recoverable on contracts overdue by more than 180 days may not be 
+recoverable and should be reviewed for provision in part or in full.
+Turnover
+Turnover is derived from the principal activities carried out by the company.
+Turnover is measured at the fair value of the works carried out, net of discounts and excluding value added tax, and 
+is recognised at the point that the company obtains the right to consideration.
+Page 13
+continued...
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Notes to the Financial Statements - continued
+for the Year Ended 31 March 2023
+3.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Short leasehold
+- 
+33% on cost
+Fixtures and fittings
+- 
+25% on cost
+Computer equipment
+- 
+Straight line over 3 years
+Tangible fixed assets held for the company's own use are stated at cost less accumulated depreciation and 
+accumulated impairment loss.
+At each balance sheet date, the company reviews the carrying amounts of its tangible fixed assets to determine 
+whether there is any indication that any items have suffered an impairment loss. If any such indication exists, the 
+recoverable amount of an asset is estimated in order to determine the extent of the impairment loss. Where it is not 
+possible to estimate the recoverable amount of the asset, the company estimates the recoverable amount of the 
+cash-generating unit to which the asset belongs.
+Expenditure of £1,000 or more on individual tangible fixed assets is capitalised at cost. Expenditure on assets below 
+this threshold is charged directly to the profit and loss account in the period it is incurred.
+Stock and work in progress
+Stocks are held at the lower of cost and net realisable value, being the estimated selling price less costs to sell. Cost 
+is based on the cost of purchase on a first in, first out basis.
+At each balance sheet date, stocks are assessed for impairment. If stocks are impaired the carrying value is reduced 
+to its selling price less costs to sell. The impairment loss is recognised immediately in the profit and loss account.
+Work in progress is valued at the lower of cost and net realisable value. Costs include all direct expenditure.
+Amounts receivable on contracts
+Amounts recoverable on contracts, which are included in debtors, are stated at the net sales value of work done after 
+provisions for contingencies and anticipated future losses on contracts less amounts received as progress payments 
+on account. Excess progress payments on account are offset against trade debtors or amounts recoverable on 
+contracts.
+Financial instruments
+The company only enters into basic financial instrument transactions that result in the recognition of financial assets 
+and liabilities like trade debtors and creditors and loans to related parties.
+Financial assets that are measured at cost are assessed at the end of each reporting period for evidence of 
+impairment. If any evidence of impairment is found, an impairment loss is recognised in the Statement of 
+Comprehensive Income.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Statement of Comprehensive 
+Income, except to the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Page 14
+continued...
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Notes to the Financial Statements - continued
+for the Year Ended 31 March 2023
+3.
+ACCOUNTING POLICIES - continued
+Deferred taxation
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+=== page 14 ===
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will 
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Foreign currencies
+Foreign currency transactions are translated into the sterling using the exchange rate prevailing at the dates of the 
+transactions. Foreign exchange rate gains and losses resulting from the settlement of those transactions and from the 
+translation at year-end exchange rates of monetary assets and liabilities are recognised in the statement of 
+comprehensive income.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the company's pension 
+scheme are charged to profit or loss in the period to which they relate.
+4.
+TURNOVER
+The turnover and profit before taxation are attributable to the one principal activity of the company. 
+5.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£   
+£   
+Wages and salaries
+3,388,652
+3,134,382
+Social security costs
+344,834
+279,395
+Other pension costs
+136,379
+83,562
+3,869,865
+3,497,339
+The average number of employees during the year was as follows: 
+2023
+2022
+Office & management
+20
+68
+Riggers
+64
+19
+84
+87
+2023
+2022
+£   
+£   
+Directors' remuneration
+424,131
+312,262
+Directors' pension contributions to money purchase schemes  
+67,505
+17,505
+Page 15
+continued...
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Notes to the Financial Statements - continued
+for the Year Ended 31 March 2023
+5.
+EMPLOYEES AND DIRECTORS - continued
+Information regarding the highest paid director is as follows:
+2023
+2022
+£   
+£   
+Emoluments etc
+313,230
+203,180
+Pension contributions to money purchase schemes
+=== page 15 ===
+10,000
+10,000
+The company was recharged the directors remuneration from its parent, H F Electrical Ltd.
+6.
+OPERATING PROFIT
+The operating profit is stated after charging:
+2023
+2022
+£   
+£   
+Auditors' remuneration
+7,500
+6,000
+7.
+INTEREST RECEIVABLE AND SIMILAR INCOME 
+2023
+2022
+£   
+£   
+Deposit account interest
+12,720
+-
+8.
+TAXATION
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows: 
+2023
+2022
+£   
+£   
+Current tax:
+UK corporation tax
+50,012
+4,291
+Underprovision in prior year
+339
+1,785
+Total current tax
+50,351
+6,076
+Deferred tax
+61
+5,947
+Tax on profit
+50,412
+12,023
+Page 16
+continued...
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Notes to the Financial Statements - continued
+for the Year Ended 31 March 2023
+9.
+TANGIBLE FIXED ASSETS
+Fixtures
+Short
+and
+Computer
+leasehold
+fittings
+equipment
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 April 2022
+and 31 March 2023
+95,207
+149,758
+=== page 16 ===
+58,948
+303,913
+DEPRECIATION
+At 1 April 2022
+and 31 March 2023
+95,207
+149,755
+58,947
+303,909
+NET BOOK VALUE
+At 31 March 2023
+-
+3
+1
+4
+At 31 March 2022
+-
+3
+1
+4
+10.
+STOCKS
+2023
+2022
+£   
+£   
+Stocks
+50,062
+16,460
+Work-in-progress
+1,238,596
+1,302,261
+1,288,658
+1,318,721
+11.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade debtors
+1,943,921
+1,747,286
+Amounts recoverable on
+contracts
+433,765
+602,583
+Deferred tax asset
+276
+337
+2,377,962
+2,350,206
+12.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade creditors
+1,917,435
+1,801,089
+Amounts owed to group undertakings
+343,441
+749,005
+Tax
+50,012
+4,291
+Social security and other taxes 
+601,502
+517,519
+=== page 17 ===
+Other creditors
+56,252
+55,187
+Directors' current accounts
+15,665
+15,665
+Accrued expenses
+492,332
+121,886
+3,476,639
+3,264,642
+Page 17
+continued...
+HF COMMS LIMITED (REGISTERED NUMBER: SC196409)
+Notes to the Financial Statements - continued
+for the Year Ended 31 March 2023
+13.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£   
+£   
+100
+Ordinary
+£1
+100
+100
+14.
+RESERVES
+Retained
+earnings
+£   
+At 1 April 2022
+1,193,274
+Profit for the year 
+146,975
+At 31 March 2023
+1,340,249
+15.
+ULTIMATE PARENT COMPANY
+The company's ultimate parent is HF Group Limited, a company registered in Scotland with its registered office at 
+100 Albert Drive, Glasgow, G41 2SJ.
+Page 18

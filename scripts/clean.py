@@ -11,7 +11,8 @@ import pandas as pd
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INP, OUT, CFG = f'{ROOT}/data/inputs', f'{ROOT}/data/outputs', f'{ROOT}/config'
 os.makedirs(OUT, exist_ok=True)
-KEY = os.environ['CH_API_KEY'].strip()
+KEY = os.environ.get('CH_API_KEY', '').strip()
+OFFLINE = not KEY   # no API key (local runs): reuse the ownership found on the register by the last online run
 
 F = pd.read_csv(f'{INP}/financials_all.csv', dtype={'CompanyNumber': str})
 import sys
@@ -61,6 +62,15 @@ def data_flags(r):
 
 D['data_flags'] = D.apply(data_flags, axis=1)
 D['numbers_ok'] = D['data_flags'] == ''
+# A flag checked against the filing and found to be real (config/flag_checks.csv) no longer counts against the figures
+FC = f'{CFG}/flag_checks.csv'
+if os.path.exists(FC):
+    fc = pd.read_csv(FC, dtype={'CompanyNumber': str})
+    for i, r in D[~D['numbers_ok']].iterrows():
+        done = set(fc.loc[fc['CompanyNumber'] == r['CompanyNumber'], 'flag'])
+        if done and set(r['data_flags'].split('; ')) <= done:
+            D.at[i, 'numbers_ok'] = True
+            D.at[i, 'data_flags'] = 'checked, real: ' + r['data_flags']
 print(f"Companies with a number to check: {(~D['numbers_ok']).sum()}")
 print(D.loc[~D['numbers_ok'], ['CompanyName', 'turnover', 'ebitda', 'ebitda_margin', 'turnover_growth', 'figures_source', 'data_flags']].to_string())
 
@@ -120,19 +130,28 @@ def ownership(num):
         current = nxt
     return 'UK group, owner-managed', chain, numbers, since
 
-rows, start = [], time.time()
-for i, num in enumerate(D['CompanyNumber'], 1):
-    kind, chain, numbers, since = ownership(num)
-    if any(re.search(r'\bEOT\b|EMPLOYEE OWNERSHIP|EMPLOYEE BENEFIT|EMPLOYEE TRUST', n.upper()) for n in chain):
-        kind = 'Employee-owned (EOT)'   # rarely for sale
-    elif any(re.search(SPONSOR_WORDS, n.upper()) for n in chain):   # e.g. UK Bidco owned by a Jersey Topco
-        kind = 'Likely sponsor-owned (check)'
-    rows.append({'CompanyNumber': num, 'ownership': kind, 'owner_chain': ' > '.join(chain),
-                 'parent_numbers': '|'.join(numbers), 'owner_since': since})
-    if i % 25 == 0 or i == len(D):
-        print(f'{i}/{len(D)} | {round((time.time() - start) / 60, 1)} min')
-
-O = pd.DataFrame(rows)
+REG = f'{OUT}/ownership_register.csv'   # what the register said, before any web-checked override
+if OFFLINE:
+    src = REG if os.path.exists(REG) else f'{OUT}/candidates_clean.csv'
+    O = pd.read_csv(src, dtype={'CompanyNumber': str, 'parent_numbers': str}).reindex(
+        columns=['CompanyNumber', 'ownership', 'owner_chain', 'parent_numbers', 'owner_since'])
+    O['parent_numbers'] = O['parent_numbers'].fillna('')
+    O = O[O['CompanyNumber'].isin(D['CompanyNumber'])].drop_duplicates('CompanyNumber')
+    print(f'Offline: ownership from {os.path.basename(src)} ({len(O)} companies)')
+else:
+    rows, start = [], time.time()
+    for i, num in enumerate(D['CompanyNumber'], 1):
+        kind, chain, numbers, since = ownership(num)
+        if any(re.search(r'\bEOT\b|EMPLOYEE OWNERSHIP|EMPLOYEE BENEFIT|EMPLOYEE TRUST', n.upper()) for n in chain):
+            kind = 'Employee-owned (EOT)'   # rarely for sale
+        elif any(re.search(SPONSOR_WORDS, n.upper()) for n in chain):   # e.g. UK Bidco owned by a Jersey Topco
+            kind = 'Likely sponsor-owned (check)'
+        rows.append({'CompanyNumber': num, 'ownership': kind, 'owner_chain': ' > '.join(chain),
+                     'parent_numbers': '|'.join(numbers), 'owner_since': since})
+        if i % 25 == 0 or i == len(D):
+            print(f'{i}/{len(D)} | {round((time.time() - start) / 60, 1)} min')
+    O = pd.DataFrame(rows)
+    O.to_csv(REG, index=False)
 D = D.drop(columns=[c for c in O.columns if c != 'CompanyNumber' and c in D.columns]).merge(O, on='CompanyNumber', how='left')
 D['owner_since_year'] = pd.to_datetime(D['owner_since'], errors='coerce').dt.year
 
@@ -152,20 +171,41 @@ name_of = dict(zip(D['CompanyNumber'], D['CompanyName']))
 D['duplicate_of'] = ''
 D['duplicate_of_number'] = ''
 
+# Group rule (method v4, rulebook section 3): rank the company whose accounts cover the whole sale perimeter, once.
+# 1. config/group_structure.csv (checked by hand) wins: 'group' = counted under its group company,
+#    'larger_group' = part of a group that is not in the universe or far bigger, so not buyable on its own.
+GS = pd.read_csv(f'{CFG}/group_structure.csv', dtype=str) if os.path.exists(f'{CFG}/group_structure.csv') else pd.DataFrame(columns=['CompanyNumber'])
+GS = GS.set_index('CompanyNumber')
 for idx, r in D.iterrows():
-    parents = [p for p in str(r['parent_numbers'] or '').split('|') if p in in_list and p != r['CompanyNumber']]
+    num = r['CompanyNumber']
+    if num in GS.index:
+        g = GS.loc[num]
+        if g['action'] == 'group' and g['group_number'] in in_list:
+            D.at[idx, 'duplicate_of'] = name_of[g['group_number']]
+            D.at[idx, 'duplicate_of_number'] = g['group_number']
+        elif g['action'] == 'larger_group':
+            D.at[idx, 'ownership'] = 'Part of a larger group'
+            D.at[idx, 'owner_chain'] = f"{g['group_name']} (group rule: {g['reason']})"
+        continue
+    # 2. a UK parent on the register that is itself in the universe files the group accounts: count the parent
+    parents = [p for p in str(r['parent_numbers'] or '').split('|') if p in in_list and p != num]
     if parents:
         D.at[idx, 'duplicate_of'] = name_of[parents[-1]]
         D.at[idx, 'duplicate_of_number'] = parents[-1]
 
 first_word = D['CompanyName'].str.upper().str.split().str[0]
 for a in D.index:
+    if D.at[a, 'CompanyNumber'] in GS.index:
+        continue
     for b in D.index:
-        if a >= b or D.at[a, 'duplicate_of'] or D.at[b, 'duplicate_of']:
+        if a >= b or D.at[a, 'duplicate_of'] or D.at[b, 'duplicate_of'] or D.at[b, 'CompanyNumber'] in GS.index:
             continue
         ta, tb = D.at[a, 'turnover'], D.at[b, 'turnover']
         if first_word[a] == first_word[b] and pd.notna(ta) and pd.notna(tb) and abs(ta - tb) <= 0.02 * max(ta, tb):
-            top_is_a = bool(re.search(r'HOLDING|GROUP', D.at[a, 'CompanyName'].upper())) or ta >= tb
+            # 3. same name and the same turnover: the holding or group company files the group accounts, so keep it
+            ga = bool(re.search(r'HOLDING|GROUP|TOPCO', D.at[a, 'CompanyName'].upper()))
+            gb = bool(re.search(r'HOLDING|GROUP|TOPCO', D.at[b, 'CompanyName'].upper()))
+            top_is_a = ga if ga != gb else ta >= tb
             keep, drop = (a, b) if top_is_a else (b, a)
             D.at[drop, 'duplicate_of'] = D.at[keep, 'CompanyName']
             D.at[drop, 'duplicate_of_number'] = D.at[keep, 'CompanyNumber']
@@ -215,7 +255,7 @@ print()
 print('PLCs to check are not listed:', keep[keep['plc_check_listed']]['CompanyName'].tolist())
 
 cols = ['CompanyName', 'CompanyNumber', 'segment', 'status', 'goes_forward', 'excluded_reason',
-        'relevance', 'relevance_reason', 'ownership', 'owner_chain', 'owner_since', 'owner_since_year',
+        'relevance', 'relevance_reason', 'ownership', 'owner_chain', 'parent_numbers', 'owner_since', 'owner_since_year',
         'numbers_ok', 'data_flags', 'figures_source', 'duplicate_of', 'plc_check_listed',
         'turnover', 'turnover_prior', 'turnover_growth', 'operating_profit', 'ebitda', 'ebitda_basis', 'ebitda_margin',
         'gross_profit', 'staff_costs', 'profit_before_tax', 'cash', 'net_assets', 'employees',

@@ -62,49 +62,53 @@ def ocr_pages(pdf, n):
             p += 1
     return [texts.get(i, '') for i in range(1, n + 1)]
 
-F = pd.read_csv(f'{ROOT}/data/inputs/financials_all.csv', dtype={'CompanyNumber': str})
-todo = F[F['format'] == 'pdf'].sort_values('CompanyNumber').reset_index(drop=True)
-todo = todo[todo.index % SHARDS == SHARD]
-if LIMIT:
-    todo = todo.head(LIMIT)
-print(f'Shard {SHARD + 1} of {SHARDS}: {len(todo)} PDF filings')
+def main():
+    F = pd.read_csv(f'{ROOT}/data/inputs/financials_all.csv', dtype={'CompanyNumber': str})
+    todo = F[F['format'] == 'pdf'].sort_values('CompanyNumber').reset_index(drop=True)
+    todo = todo[todo.index % SHARDS == SHARD]
+    if LIMIT:
+        todo = todo.head(LIMIT)
+    print(f'Shard {SHARD + 1} of {SHARDS}: {len(todo)} PDF filings')
 
-log = []
-for _, co in todo.iterrows():
-    num, t0 = co['CompanyNumber'], time.time()
-    rec = {'CompanyNumber': num, 'CompanyName': co['CompanyName'], 'accounts_filed': co['accounts_filed']}
-    item, err = A.latest_accounts(num)
-    if not item:
-        rec['result'] = err
+    log = []
+    for _, co in todo.iterrows():
+        num, t0 = co['CompanyNumber'], time.time()
+        rec = {'CompanyNumber': num, 'CompanyName': co['CompanyName'], 'accounts_filed': co['accounts_filed']}
+        item, err = A.latest_accounts(num)
+        if not item:
+            rec['result'] = err
+            log.append(rec)
+            continue
+        rec['filed'] = item.get('date')
+        path = f"{OUT}/{num}_{rec['filed']}.txt"
+        if os.path.exists(path):
+            rec['result'] = 'already read'
+            log.append(rec)
+            continue
+        doc_id = item['links']['document_metadata'].rstrip('/').split('/')[-1]
+        r = A.get(A.DOC_API + doc_id + '/content', headers={'Accept': 'application/pdf'})
+        if r is None or r.status_code != 200 or not r.content.startswith(b'%PDF'):
+            rec['result'] = f'download error {getattr(r, "status_code", "none")}'
+            log.append(rec)
+            continue
+        with tempfile.NamedTemporaryFile(suffix='.pdf') as f:
+            f.write(r.content)
+            f.flush()
+            n = pages_in(f.name)
+            layer = text_layer(f.name, n)
+            if sum(len(t.strip()) for t in layer) > 300 * max(1, min(n, 5)):
+                pages, rec['method'] = layer, 'text layer'
+            else:
+                pages, rec['method'] = ocr_pages(f.name, n), 'OCR'
+        open(path, 'w').write(''.join(f'=== page {i + 1} ===\n{t}\n' for i, t in enumerate(pages) if t.strip()))
+        rec.update({'pages': n, 'pages_read': sum(1 for t in pages if t.strip()), 'seconds': round(time.time() - t0),
+                    'result': 'saved'})
         log.append(rec)
-        continue
-    rec['filed'] = item.get('date')
-    path = f"{OUT}/{num}_{rec['filed']}.txt"
-    if os.path.exists(path):
-        rec['result'] = 'already read'
-        log.append(rec)
-        continue
-    doc_id = item['links']['document_metadata'].rstrip('/').split('/')[-1]
-    r = A.get(A.DOC_API + doc_id + '/content', headers={'Accept': 'application/pdf'})
-    if r is None or r.status_code != 200 or not r.content.startswith(b'%PDF'):
-        rec['result'] = f'download error {getattr(r, "status_code", "none")}'
-        log.append(rec)
-        continue
-    with tempfile.NamedTemporaryFile(suffix='.pdf') as f:
-        f.write(r.content)
-        f.flush()
-        n = pages_in(f.name)
-        layer = text_layer(f.name, n)
-        if sum(len(t.strip()) for t in layer) > 300 * max(1, min(n, 5)):
-            pages, rec['method'] = layer, 'text layer'
-        else:
-            pages, rec['method'] = ocr_pages(f.name, n), 'OCR'
-    open(path, 'w').write(''.join(f'=== page {i + 1} ===\n{t}\n' for i, t in enumerate(pages) if t.strip()))
-    rec.update({'pages': n, 'pages_read': sum(1 for t in pages if t.strip()), 'seconds': round(time.time() - t0),
-                'result': 'saved'})
-    log.append(rec)
-    print(f"{co['CompanyName']}: {rec['method']}, {rec['pages_read']}/{n} pages, {rec['seconds']}s", flush=True)
+        print(f"{co['CompanyName']}: {rec['method']}, {rec['pages_read']}/{n} pages, {rec['seconds']}s", flush=True)
 
-os.makedirs(f'{ROOT}/data/ocr/logs', exist_ok=True)
-pd.DataFrame(log).to_csv(f'{ROOT}/data/ocr/logs/fetch_shard_{SHARD}.csv', index=False)
-print(f'Done: {sum(1 for x in log if x.get("result") == "saved")} saved')
+    os.makedirs(f'{ROOT}/data/ocr/logs', exist_ok=True)
+    pd.DataFrame(log).to_csv(f'{ROOT}/data/ocr/logs/fetch_shard_{SHARD}.csv', index=False)
+    print(f'Done: {sum(1 for x in log if x.get("result") == "saved")} saved')
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,4 @@
+CompanyNumber,CompanyName,flag,finding,checked_on
+14354114,TALK STRAIGHT HOLDINGS LIMITED,turnover growth above 300%,"Real, not a misread: the holding company's first accounts covered a short period before it took over Talk Straight, so the comparative is small. Growth is scored as unknown (perimeter change)",2026-11-26
+04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,turnover growth above 300%,"Real, not a misread: the comparative is the holding company before it consolidated Elite Group and Netcentrix. Growth is scored as unknown (perimeter change)",2026-11-26
+02697046,ERH COMMUNICATIONS LIMITED,EBITDA margin under 0.5% (check scale),"Real, not a scale error: operating profit was £47,940 on £14.5m of turnover (checked against the filing text)",2026-11-26

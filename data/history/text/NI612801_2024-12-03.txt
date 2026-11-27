@@ -1,0 +1,309 @@
+=== page 1 ===
+OCU Nettworx Ltd  iXBRL
+BrightAccountsProduction v1.0.0
+v1.0.0
+2023-06-01
+The company was not dormant during the period
+The company was trading for the entire period
+Unaudited Accounts
+The principal activity of the company continued to be construction of utility projects for electricity and telecommunications.
+3 December 2024
+87
+51
+NI612801
+2024-03-04
+NI612801
+2023-05-31
+NI612801
+2022-05-31
+NI612801
+2023-06-01
+2024-03-04
+NI612801
+2022-06-01
+2023-05-31
+NI612801
+uk-bus:PrivateLimitedCompanyLtd
+2023-06-01
+2024-03-04
+NI612801
+uk-curr:PoundSterling
+2023-06-01
+2024-03-04
+NI612801
+uk-bus:SmallCompaniesRegimeForAccounts
+2023-06-01
+2024-03-04
+NI612801
+uk-bus:AbridgedAccounts
+2023-06-01
+2024-03-04
+NI612801
+uk-core:ShareCapital
+2024-03-04
+NI612801
+uk-core:ShareCapital
+2023-05-31
+NI612801
+uk-core:RetainedEarningsAccumulatedLosses
+2024-03-04
+NI612801
+uk-core:RetainedEarningsAccumulatedLosses
+2023-05-31
+NI612801
+uk-core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+2024-03-04
+NI612801
+uk-core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+2023-05-31
+NI612801
+uk-bus:FRS102
+2023-06-01
+2024-03-04
+NI612801
+uk-core:Buildings
+2023-06-01
+2024-03-04
+NI612801
+uk-core:PlantMachinery
+2023-06-01
+2024-03-04
+NI612801
+=== page 2 ===
+uk-countries:UnitedKingdom
+2023-06-01
+2024-03-04
+NI612801
+uk-bus:Director1
+2023-06-01
+2024-03-04
+NI612801
+uk-bus:AuditExempt-NoAccountantsReport
+2023-06-01
+2024-03-04
+xbrli:pure
+iso4217:GBP
+xbrli:shares
+Company Registration  Number: 
+NI612801
+OCU Nettworx Ltd
+Abridged Unaudited Financial Statements
+for the financial period ended 
+4 March 2024
+OCU Nettworx Ltd
+Company Registration Number: 
+NI612801
+ABRIDGED BALANCE SHEET
+as at 
+4 March 2024
+Mar 24
+May 23 
+Notes
+£
+£ 
+Fixed Assets
+Tangible assets 
+5
+814,654
+879,408
+─────────
+─────────
+Current Assets
+Debtors 
+4,854,594
+1,964,021
+Cash at bank and in hand 
+997,318
+1,228,503
+─────────
+─────────
+5,851,912
+3,192,524
+─────────
+─────────
+Creditors: amounts falling due within one year
+(2,745,989)
+(1,745,970) 
+─────────
+─────────
+Net Current Assets
+3,105,923
+1,446,554
+─────────
+─────────
+Total Assets less Current Liabilities
+3,920,577
+2,325,962
+Creditors:
+amounts falling due after more than one year 
+(315,263)
+(452,411) 
+─────────
+─────────
+=== page 3 ===
+Net Assets
+3,605,314
+1,873,551
+═════════
+═════════
+Capital and Reserves
+Called up share capital 
+140
+140
+Retained earnings 
+3,605,174
+1,873,411
+─────────
+─────────
+Shareholders' Funds
+3,605,314
+1,873,551
+═════════
+═════════
+The financial statements have been prepared in accordance with the provisions applicable to companies subject to the small companies' regime and in accordance with the provisions of FRS 102 Section 1A (Small Entities).
+All of the members have consented to the preparation of abridged accounts in accordance with section 444(2A) of the Companies Act 2006.
+The company has taken advantage of the exemption under section 444 not to file the Abridged Profit and Loss Account and Directors' Report. 
+For the financial period ended 4 March 2024 the company was entitled to exemption from audit under section 477 of the Companies Act 2006.
+The directors confirm that the members have not required the company to obtain an audit of its financial statements for the financial period in question in accordance with section 476 of the Companies Act 2006.
+The directors acknowledge their responsibilities for ensuring that the company keeps accounting records which comply with section 386 and for preparing financial statements which give a true and fair view of the state of affairs of the company as at the end of the financial period and of its profit and loss for the financial period in accordance with the requirements of sections 394 and 395 and which otherwise comply with the requirements of the Companies Act 2006 relating to financial statements, so far as applicable to the company.
+Approved by the Board and authorised for issue on 
+3 December 2024
+ and signed on its behalf by
+________________________________
+Mr. Declan Hamill
+Director
+OCU Nettworx Ltd
+NOTES TO THE ABRIDGED FINANCIAL STATEMENTS
+for the financial period ended 4 March 2024
+1.
+General Information
+OCU Nettworx Ltd is a company limited by shares incorporated in Northern Ireland. 2 Church Street, Ballygawley, Co Tyrone, BT70 2HB, United Kingdom is the registered office.
+2.
+Summary of Significant Accounting Policies
+The following accounting policies have been applied consistently in dealing with items which are considered material in relation to the company's financial statements.
+Statement of compliance
+The financial statements of the company for the year ended 4 March 2024 have been prepared in accordance with the provisions of FRS 102 Section 1A (Small Entities) and the Companies Act 2006. 
+Basis of preparation
+The financial statements have been prepared on the going concern basis and in accordance with the historical cost convention except for certain properties and financial instruments that are measured at revalued amounts or fair values, as explained in the accounting policies below. Historical cost is generally based on the fair value of the consideration given in exchange for assets.
+Turnover
+Turnover comprises the invoice value of goods supplied by the company, exclusive of trade discounts and value added tax.
+Tangible assets and depreciation
+Tangible assets are stated at cost or at valuation, less accumulated depreciation. The charge to depreciation is calculated to write off the original cost or valuation of tangible assets, less their estimated residual value, over their expected useful lives as follows:
+Short leasehold property 
+- 
+0% Straight line
+Plant and machinery 
+- 
+20% Straight line
+The carrying values of tangible fixed assets are reviewed annually for impairment in periods if events or changes in circumstances indicate the carrying value may not be recoverable.
+Leasing and hire purchases
+Tangible assets held under leasing and Hire Purchases arrangements which transfer substantially all the risks and rewards of ownership to the company are capitalised and included in the Balance Sheet at their cost or valuation, less depreciation. The corresponding commitments are recorded as liabilities. Payments in respect of these obligations are treated as consisting of capital and interest elements, with interest charged to the Profit and Loss Account.
+Trade and other debtors
+Trade and other debtors are initially recognised at fair value and thereafter stated at amortised cost using the effective interest method less impairment losses for bad and doubtful debts except where the effect of discounting would be immaterial. In such cases the receivables are stated at cost less impairment losses for bad and doubtful debts.
+Trade and other creditors
+Trade and other creditors are initially recognised at fair value and thereafter stated at amortised cost using the effective interest rate method, unless the effect of discounting would be immaterial, in which case they are stated at cost.
+Employee benefits
+The company operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the company in an independently administered fund.
+Taxation
+Current tax represents the amount expected to be paid or recovered in respect of taxable profits for the financial period and is calculated using the tax rates and laws that have been enacted or substantially enacted at the Balance Sheet date.
+Ordinary share capital
+The ordinary share capital of the company is presented as equity.
+3.
+Period of financial statements
+The financial statements are for the 9 month 4 days period ended 4 March 2024.
+=== page 4 ===
+4.
+Employees
+The average monthly number of employees, including directors, during the financial period was 87, (May 23 - 51).
+Mar 24
+May 23 
+Number
+Number 
+Administrative and direct 
+87
+51
+═════════
+═════════
+5.
+Tangible assets
+Short
+Plant and
+Total
+leasehold
+machinery
+property
+£
+£
+£
+Cost
+At 1 June 2023 
+9,896 
+1,237,904 
+1,247,800
+Additions 
+- 
+142,105 
+142,105
+Disposals 
+- 
+(36,695) 
+(
+36,695
+) 
+─────────
+─────────
+─────────
+At 4 March 2024 
+9,896 
+1,343,314 
+1,353,210
+─────────
+─────────
+─────────
+Depreciation
+At 1 June 2023 
+- 
+368,392 
+368,392
+Charge for the financial period 
+- 
+177,503 
+177,503
+On disposals 
+- 
+(7,339) 
+(
+7,339
+) 
+─────────
+─────────
+─────────
+At 4 March 2024 
+- 
+538,556 
+538,556
+=== page 5 ===
+─────────
+─────────
+─────────
+Net book value
+At 4 March 2024 
+9,896
+804,758
+814,654
+═════════
+═════════
+═════════
+At 31 May 2023 
+9,896 
+869,512 
+879,408
+═════════
+═════════
+═════════
+6.
+Capital commitments
+The company had no material capital commitments at the financial period-ended 4 March 2024.
+7.
+Post-Balance Sheet Events
+On 5 March 2024 100% of the issued share capital of the company was acquired by OCU Services Limited.

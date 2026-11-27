@@ -1,83 +1,83 @@
-rank,CompanyNumber,CompanyName,ebitda,ev_low,ev_high,mult_low,mult_high,size_kind,size_flag,size_basis,reported_ev,reported_basis,reported_source
-1,03921568,WIFINITY LIMITED,15709277.0,188511324,282766986,12.0,18.0,Network asset owner: owned wifi networks,Could be above £250m,£189m–£283m at 12–18x EBITDA of £16m (network asset owner: owned wifi networks),,,
-2,13433533,VEA GROUP LIMITED,9954432.0,59726592,79635456,6.0,8.0,Recurring services,Within £10–250m,£60m–£80m at 6–8x EBITDA of £10m (recurring services),,,
-3,05412813,OPEN FIBRE NETWORKS LIMITED,14127893.0,169534716,254302074,12.0,18.0,Network asset owner: fibre network,Could be above £250m,£170m–£254m at 12–18x EBITDA of £14m (network asset owner: fibre network),,,
-4,03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,22868874.0,274426488,411639732,12.0,18.0,Network asset owner: towers,Probably above £250m,£575m: enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019). From EBITDA: £274m–£412m at 12–18x EBITDA of £23m (network asset owner: towers),575000000.0,Enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019),https://capacityglobal.com/news/3i-infrastructure-sells-its-stake-in-wig-for-575m/
-5,02150618,KCOM GROUP LIMITED,44061000.0,528732000,793098000,12.0,18.0,Network asset owner: fibre network,Probably above £250m,£627m: price Macquarie paid to take it private (Aug 2019). From EBITDA: £529m–£793m at 12–18x EBITDA of £44m (network asset owner: fibre network),627000000.0,Price Macquarie paid to take it private (Aug 2019),https://irei.com/news/macquarie-buys-kcom-627m/
-6,03912906,ALERT COMMUNICATIONS LIMITED,5404507.0,32427042,43236056,6.0,8.0,Recurring services,Within £10–250m,£32m–£43m at 6–8x EBITDA of £5m (recurring services),,,
-7,02386327,NATIONAL GRID TELECOMS LIMITED,3299000.0,39588000,59382000,12.0,18.0,Network asset owner: fibre and towers on the electricity network,Within £10–250m,£40m–£59m at 12–18x EBITDA of £3m (network asset owner: fibre and towers on the electricity network),,,
-8,SC492820,CLARUS NETWORKS LIMITED,4293641.0,25761846,34349128,6.0,8.0,Recurring services,Within £10–250m,£26m–£34m at 6–8x EBITDA of £4m (recurring services),,,
-9,04186486,BEACON COMMUNICATION SERVICES LIMITED,6187997.0,37127982,49503976,6.0,8.0,Recurring services,Within £10–250m,£37m–£50m at 6–8x EBITDA of £6m (recurring services),,,
-10,07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2304777.0,12676274,17285828,5.5,7.5,Recurring services,Within £10–250m,£13m–£17m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-11,07413288,COMMUNITY FIBRE LIMITED,27179000.0,326148000,489222000,12.0,18.0,Network asset owner: fibre network,Probably above £250m,£2.0bn: estimated enterprise value as Warburg Pincus sounds out buyers (New Street estimate reported 2026). From EBITDA: £326m–£489m at 12–18x EBITDA of £27m (network asset owner: fibre network),2000000000.0,Estimated enterprise value as Warburg Pincus sounds out buyers (New Street estimate reported 2026),https://capacityglobal.com/news/private-equity-moves-to-exit-uk-fibre/
-12,05208041,SATCOM GLOBAL LIMITED,4751883.8736000005,28511303,38015071,6.0,8.0,Recurring services,Within £10–250m,£29m–£38m at 6–8x EBITDA of £5m (recurring services),,,
-13,10902222,THE BADGER GROUP LIMITED,4501268.0,22506340,31508876,5.0,7.0,Project contractor,Within £10–250m,£23m–£32m at 5–7x EBITDA of £5m (project contractor),,,
-14,02853596,MAP GROUP (UK) LIMITED,18109918.0,90549590,126769426,5.0,7.0,Project contractor,Within £10–250m,£91m–£127m at 5–7x EBITDA of £18m (project contractor),,,
-15,09228224,REDWOOD TECHNOLOGIES GROUP LTD,9771203.0,58627218,78169624,6.0,8.0,Recurring services,Within £10–250m,£59m–£78m at 6–8x EBITDA of £10m (recurring services),,,
-16,03368473,WINGNUT UTILITIES LIMITED,1784248.0,9813364,13381860,5.5,7.5,Recurring services,Could be below £10m,£10m–£13m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-17,03228824,ELITETELE.COM LIMITED,2677414.0,14725777,20080605,5.5,7.5,Recurring services,Within £10–250m,£15m–£20m at 5.5–7.5x EBITDA of £3m (recurring services),,,
-18,02578478,X-ON HEALTH LIMITED,11496598.0,68979588,91972784,6.0,8.0,Recurring services,Within £10–250m,£69m–£92m at 6–8x EBITDA of £11m (recurring services),,,
-19,08709631,NETWORK PLANNING SOLUTIONS LTD.,4908675.0,24543375,34360725,5.0,7.0,Project contractor,Within £10–250m,£25m–£34m at 5–7x EBITDA of £5m (project contractor),,,
-20,02557464,CONNECT MANAGED SERVICES (UK) LIMITED,6007000.0,36042000,48056000,6.0,8.0,Recurring services,Within £10–250m,£36m–£48m at 6–8x EBITDA of £6m (recurring services),,,
-21,06391276,CENTERCOMMS LIMITED,3421827.0,17109135,23952789,5.0,7.0,Project contractor,Within £10–250m,£17m–£24m at 5–7x EBITDA of £3m (project contractor),,,
-22,07974624,TELA TECHNOLOGY LIMITED,2407851.0,13243180,18058882,5.5,7.5,Recurring services,Within £10–250m,£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-23,03752620,WINDSOR TELECOM LIMITED,2727403.0,15000716,20455522,5.5,7.5,Recurring services,Within £10–250m,£15m–£20m at 5.5–7.5x EBITDA of £3m (recurring services),,,
-24,08322856,REDCENTRIC SOLUTIONS LIMITED,14670000.0,88020000,117360000,6.0,8.0,Recurring services,Within £10–250m,£88m–£117m at 6–8x EBITDA of £15m (recurring services),,,
-25,03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2839758.0,12778911,18458427,4.5,6.5,Project contractor,Within £10–250m,£13m–£18m at 4.5–6.5x EBITDA of £3m (project contractor),,,
-26,06011062,C.A. TELECOM UK LIMITED,2473621.0,11131294,16078536,4.5,6.5,Project contractor,Within £10–250m,£11m–£16m at 4.5–6.5x EBITDA of £2m (project contractor),,,
-27,10779280,ABZORB GROUP LTD,2401226.0,13206743,18009195,5.5,7.5,Recurring services,Within £10–250m,£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-28,03513467,5G COMMUNICATIONS LIMITED,3659469.0,21956814,29275752,6.0,8.0,Recurring services,Within £10–250m,£22m–£29m at 6–8x EBITDA of £4m (recurring services),,,
-29,NI624500,BARCLAY DIGITAL SERVICES LTD,3895937.0,19479685,27271559,5.0,7.0,Project contractor,Within £10–250m,£19m–£27m at 5–7x EBITDA of £4m (project contractor),,,
-30,06968249,NATTERBOX LIMITED,2762319.0,15192754,20717392,5.5,7.5,Recurring services,Within £10–250m,£15m–£21m at 5.5–7.5x EBITDA of £3m (recurring services),,,
-31,08043921,AERIAL DIRECT LIMITED,6720195.0,40321170,53761560,6.0,8.0,Recurring services,Within £10–250m,£40m–£54m at 6–8x EBITDA of £7m (recurring services),,,
-32,10174559,NANO FIBRE UK LIMITED,2346500.0,12905750,17598750,5.5,7.5,Recurring services,Within £10–250m,£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-33,11480193,RAPID RESPONSE TELECOMS LTD,5411058.0,27055290,37877406,5.0,7.0,Project contractor,Within £10–250m,£27m–£38m at 5–7x EBITDA of £5m (project contractor),,,
-34,04213760,BABBLE CLOUD LIMITED,7653000.0,45918000,61224000,6.0,8.0,Recurring services,Within £10–250m,£46m–£61m at 6–8x EBITDA of £8m (recurring services),,,
-35,NI620995,GCU (UK) LIMITED,5642685.0,28213425,39498795,5.0,7.0,Project contractor,Within £10–250m,£28m–£39m at 5–7x EBITDA of £6m (project contractor),,,
-36,09585068,CROFT COMMUNICATIONS LIMITED,2220943.0,12215186,16657072,5.5,7.5,Recurring services,Within £10–250m,£12m–£17m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-37,09956206,HENEGHAN HOLDINGS LIMITED,17939797.0,89698985,125578579,5.0,7.0,Project contractor,Within £10–250m,£90m–£126m at 5–7x EBITDA of £18m (project contractor),,,
-38,12421328,NETS INTERNATIONAL LIMITED,1339695.0,7368322,10047712,5.5,7.5,Recurring services,Could be below £10m,£7m–£10m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-39,02797895,CHESS LIMITED,5489000.0,32934000,43912000,6.0,8.0,Recurring services,Within £10–250m,£33m–£44m at 6–8x EBITDA of £5m (recurring services),,,
-40,06797181,BISTECH GROUP PLC,3289170.0,16445850,23024190,5.0,7.0,Project contractor,Within £10–250m,£16m–£23m at 5–7x EBITDA of £3m (project contractor),,,
-41,02763306,JOHN HENRY GROUP LIMITED,4116610.0,20583050,28816270,5.0,7.0,Project contractor,Within £10–250m,£21m–£29m at 5–7x EBITDA of £4m (project contractor),,,
-42,04544886,RADIOCOMS SYSTEMS LIMITED,5147258.0,25736290,36030806,5.0,7.0,Project contractor,Within £10–250m,£26m–£36m at 5–7x EBITDA of £5m (project contractor),,,
-43,05240202,GROUND CONTROL TECHNOLOGIES UK LTD,1702000.0,9361000,12765000,5.5,7.5,Recurring services,Could be below £10m,£9m–£13m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-44,06472696,4COM NETWORK SERVICES LIMITED,5057000.0,25285000,35399000,5.0,7.0,Project contractor,Within £10–250m,£25m–£35m at 5–7x EBITDA of £5m (project contractor),,,
-45,05448638,4NET TECHNOLOGIES LTD,4512212.0,22561060,31585484,5.0,7.0,Project contractor,Within £10–250m,£23m–£32m at 5–7x EBITDA of £5m (project contractor),,,
-46,04085164,FLR SPECTRON LIMITED,1653446.0,9093953,12400845,5.5,7.5,Recurring services,Could be below £10m,£9m–£12m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-47,NI612801,OCU NETTWORX LIMITED,3607125.0,18035625,25249875,5.0,7.0,Project contractor,Within £10–250m,£18m–£25m at 5–7x EBITDA of £4m (project contractor),,,
-48,04031272,ONECOM LIMITED,24752141.0,123760705,173264987,5.0,7.0,Project contractor,Within £10–250m,£124m–£173m at 5–7x EBITDA of £25m (project contractor),,,
-49,08235914,DATALEC POWER INSTALLATIONS LIMITED,3496258.0,20977548,27970064,6.0,8.0,Recurring services,Within £10–250m,£21m–£28m at 6–8x EBITDA of £3m (recurring services),,,
-50,05954905,NATILIK LIMITED,6358000.0,31790000,44506000,5.0,7.0,Project contractor,Within £10–250m,£32m–£45m at 5–7x EBITDA of £6m (project contractor),,,
-51,04632756,TELAPPLIANT LIMITED,1520142.0,8360781,11401065,5.5,7.5,Recurring services,Could be below £10m,£8m–£11m at 5.5–7.5x EBITDA of £2m (recurring services),,,
-52,05217343,NORTH PB LIMITED,1967967.0,8855852,12791786,4.5,6.5,Project contractor,Could be below £10m,£9m–£13m at 4.5–6.5x EBITDA of £2m (project contractor),,,
-53,04210561,I.P. INTEGRATION LIMITED,3364747.0,16823735,23553229,5.0,7.0,Project contractor,Within £10–250m,£17m–£24m at 5–7x EBITDA of £3m (project contractor),,,
-54,03101568,ZEN INTERNET LIMITED,7051000.0,42306000,56408000,6.0,8.0,Recurring services,Within £10–250m,£42m–£56m at 6–8x EBITDA of £7m (recurring services),,,
-55,10021562,GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED,3502542.0,17512710,24517794,5.0,7.0,Project contractor,Within £10–250m,£18m–£25m at 5–7x EBITDA of £4m (project contractor),,,
-56,02296733,VANCO UK LIMITED,2044387.0,9199742,13288516,4.5,6.5,Project contractor,Could be below £10m,£9m–£13m at 4.5–6.5x EBITDA of £2m (project contractor),,,
-57,12520403,OPUS TECH LIMITED,2839316.0,12776922,18455554,4.5,6.5,Project contractor,Within £10–250m,£13m–£18m at 4.5–6.5x EBITDA of £3m (project contractor),,,
-58,02665837,MAINTEL EUROPE LIMITED,5063000.0,25315000,35441000,5.0,7.0,Project contractor,Within £10–250m,£25m–£35m at 5–7x EBITDA of £5m (project contractor),,,
-59,04560277,PAGEONE COMMUNICATIONS LIMITED,1382000.0,7601000,10365000,5.5,7.5,Recurring services,Could be below £10m,£8m–£10m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-60,02804354,CHARTERHOUSE VOICE & DATA LIMITED,3839000.0,23034000,30712000,6.0,8.0,Recurring services,Within £10–250m,£23m–£31m at 6–8x EBITDA of £4m (recurring services),,,
-61,07020016,LILY COMMUNICATIONS LTD.,1124277.0,6183524,8432078,5.5,7.5,Recurring services,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-62,03193093,FERNS SURFACING LIMITED,6005453.0,30027265,42038171,5.0,7.0,Project contractor,Within £10–250m,£30m–£42m at 5–7x EBITDA of £6m (project contractor),,,
-63,SC211701,PELION IOT LIMITED,470855.0,2589702,3531412,5.5,7.5,Recurring services,Below £10m,£3m–£4m at 5.5–7.5x EBITDA of £0m (recurring services),,,
-64,02652955,BDR VOICE & DATA SOLUTIONS LTD,377399.0,2075694,2830492,5.5,7.5,Recurring services,Below £10m,£2m–£3m at 5.5–7.5x EBITDA of £0m (recurring services),,,
-65,04380546,VCG TECHNOLOGY SERVICES LIMITED,558712.0,3072916,4190340,5.5,7.5,Recurring services,Below £10m,£3m–£4m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-66,05238375,INTELLIGENT COMMUNICATIONS SOLUTIONS LIMITED,1236022.0,5562099,8034143,4.5,6.5,Project contractor,Below £10m,£6m–£8m at 4.5–6.5x EBITDA of £1m (project contractor),,,
-67,03868503,MEDHURST COMMUNICATIONS LIMITED,914325.0,4114462,5943112,4.5,6.5,Project contractor,Below £10m,£4m–£6m at 4.5–6.5x EBITDA of £1m (project contractor),,,
-68,01763970,AVOIRA LIMITED,1233380.0,6783590,9250350,5.5,7.5,Recurring services,Below £10m,£7m–£9m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-69,SC646446,HIGHLANDS BIDCO LIMITED,1111441.0,6112926,8335808,5.5,7.5,Recurring services,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-70,03958887,AVANTI BROADBAND LIMITED,312888.80000000005,1720888,2346666,5.5,7.5,Recurring services,Below £10m,£2m–£2m at 5.5–7.5x EBITDA of £0m (recurring services),,,
-71,06521296,RIDOWN CAPITAL LIMITED,1131214.0,6221677,8484105,5.5,7.5,Recurring services,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-72,02946493,CORPORATE DIRECT (EUROPE) LTD,276198.0,1519089,2071485,5.5,7.5,Recurring services,Below £10m,£2m–£2m at 5.5–7.5x EBITDA of £0m (recurring services),,,
-73,05316540,AVANTI SPACE LIMITED,13228453.600000001,79370722,105827629,6.0,8.0,Recurring services,Within £10–250m,£79m–£106m at 6–8x EBITDA of £13m (recurring services),,,
-74,01938625,INTERCITY TECHNOLOGY LIMITED,806000.0,3627000,5239000,4.5,6.5,Project contractor,Below £10m,£4m–£5m at 4.5–6.5x EBITDA of £1m (project contractor),,,
-75,14354114,TALK STRAIGHT HOLDINGS LIMITED,628206.0,3455133,4711545,5.5,7.5,Recurring services,Below £10m,£3m–£5m at 5.5–7.5x EBITDA of £1m (recurring services),,,
-76,09180490,ICE TELECOMMUNICATIONS LTD,412273.0,2267502,3092048,5.5,7.5,Recurring services,Below £10m,£2m–£3m at 5.5–7.5x EBITDA of £0m (recurring services),,,
-77,00714431,FOURWAY COMMUNICATION LIMITED,341638.0,1537371,2220647,4.5,6.5,Project contractor,Below £10m,£2m–£2m at 4.5–6.5x EBITDA of £0m (project contractor),,,
-78,NI614374,M & M CONTRACTORS (EUROPE) LTD,891948.0,4013766,5797662,4.5,6.5,Project contractor,Below £10m,£4m–£6m at 4.5–6.5x EBITDA of £1m (project contractor),,,
-79,02893478,TELIGENT LIMITED,291531.0,1311890,1894952,4.5,6.5,Project contractor,Below £10m,£1m–£2m at 4.5–6.5x EBITDA of £0m (project contractor),,,
-80,05942331,YORK TELECOM LIMITED,636464.0,2864088,4137016,4.5,6.5,Project contractor,Below £10m,£3m–£4m at 4.5–6.5x EBITDA of £1m (project contractor),,,
-81,04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,1506241.0,6778084,9790566,4.5,6.5,Project contractor,Below £10m,£7m–£10m at 4.5–6.5x EBITDA of £2m (project contractor),,,
-82,02697046,ERH COMMUNICATIONS LIMITED,58186.0,261837,378209,4.5,6.5,Project contractor,Below £10m,£0m–£0m at 4.5–6.5x EBITDA of £0m (project contractor),,,
+rank,CompanyNumber,CompanyName,ebitda,ev_low,ev_high,mult_low,mult_high,size_kind,reported_ev,reported_basis,reported_source,size_flag,size_basis
+1,03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,22868874.0,274426488.0,411639732.0,12.0,18.0,Network owner: towers,575000000.0,Enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019),https://capacityglobal.com/news/3i-infrastructure-sells-its-stake-in-wig-for-575m/,Probably above £250m,£575m: enterprise value when Brookfield bought it from 3i Infrastructure (Dec 2019). From EBITDA: £274m–£412m at 12–18x EBITDA of £23m (network owner: towers)
+2,03921568,WIFINITY LIMITED,16559277.0,198711324.0,298066986.0,12.0,18.0,Network owner: owned wifi networks,,,,Could be above £250m,£199m–£298m at 12–18x EBITDA of £17m (network owner: owned wifi networks)
+3,13433533,VEA GROUP LIMITED,7600201.447607675,38001007.0,53201410.0,5.0,7.0,Contractor,,,,Within £10–250m,£38m–£53m at 5–7x EBITDA of £8m (contractor)
+4,07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2304777.0,12676274.0,17285828.0,5.5,7.5,Recurring services,,,,Within £10–250m,£13m–£17m at 5.5–7.5x EBITDA of £2m (recurring services)
+5,09228224,REDWOOD TECHNOLOGIES GROUP LTD,12938153.0,77628918.0,103505224.0,6.0,8.0,Recurring services,,,,Within £10–250m,£78m–£104m at 6–8x EBITDA of £13m (recurring services)
+6,05412813,OPEN FIBRE NETWORKS LIMITED,14127893.0,169534716.0,254302074.0,12.0,18.0,Network owner: fibre network,,,,Could be above £250m,£170m–£254m at 12–18x EBITDA of £14m (network owner: fibre network)
+7,SC492820,CLARUS NETWORKS LIMITED,3070641.0,18423846.0,24565128.0,6.0,8.0,Recurring services,,,,Within £10–250m,£18m–£25m at 6–8x EBITDA of £3m (recurring services)
+8,07867043,COMMUNICATE TECHNOLOGY LIMITED,2217584.0,12196712.0,16631880.0,5.5,7.5,Recurring services,,,,Within £10–250m,£12m–£17m at 5.5–7.5x EBITDA of £2m (recurring services)
+9,11480193,RAPID RESPONSE TELECOMS LTD,5411058.0,27055290.0,37877406.0,5.0,7.0,Contractor,,,,Within £10–250m,£27m–£38m at 5–7x EBITDA of £5m (contractor)
+10,03912906,ALERT COMMUNICATIONS LIMITED,5404507.0,,,,,Project company,,,,Within £10–250m,Project company: valued on the cash left in its contract (see the price check)
+11,10902222,THE BADGER GROUP LIMITED,4501268.0,27007608.0,36010144.0,6.0,8.0,Recurring services,,,,Within £10–250m,£27m–£36m at 6–8x EBITDA of £5m (recurring services)
+12,07800863,KNTC LIMITED,3007290.0,15036450.0,21051030.0,5.0,7.0,Contractor,,,,Within £10–250m,£15m–£21m at 5–7x EBITDA of £3m (contractor)
+13,05556360,TAYLOR PLANT LTD,2875919.0,12941636.0,18693474.0,4.5,6.5,Contractor,,,,Within £10–250m,£13m–£19m at 4.5–6.5x EBITDA of £3m (contractor)
+14,04186486,BEACON COMMUNICATION SERVICES LIMITED,6187997.0,30939985.0,43315979.0,5.0,7.0,Contractor,,,,Within £10–250m,£31m–£43m at 5–7x EBITDA of £6m (contractor)
+15,NI612801,OCU NETTWORX LIMITED,3607125.0,18035625.0,25249875.0,5.0,7.0,Contractor,,,,Within £10–250m,£18m–£25m at 5–7x EBITDA of £4m (contractor)
+16,03752620,WINDSOR TELECOM LIMITED,2727403.0,15000716.0,20455522.0,5.5,7.5,Recurring services,,,,Within £10–250m,£15m–£20m at 5.5–7.5x EBITDA of £3m (recurring services)
+17,03592271,TELECOMMUNICATIONS MANAGEMENT LIMITED,2109980.476026248,11604893.0,15824854.0,5.5,7.5,Recurring services,,,,Within £10–250m,£12m–£16m at 5.5–7.5x EBITDA of £2m (recurring services)
+18,NI624500,BARCLAY DIGITAL SERVICES LTD,3895937.0,23375622.0,31167496.0,6.0,8.0,Recurring services,,,,Within £10–250m,£23m–£31m at 6–8x EBITDA of £4m (recurring services)
+19,07413288,COMMUNITY FIBRE LIMITED,27179000.0,326148000.0,489222000.0,12.0,18.0,Network owner: fibre network,2000000000.0,Estimated enterprise value as Warburg Pincus sounds out buyers (New Street estimate reported 2026),https://capacityglobal.com/news/private-equity-moves-to-exit-uk-fibre/,Probably above £250m,£2.0bn: estimated enterprise value as Warburg Pincus sounds out buyers (New Street estimate reported 2026). From EBITDA: £326m–£489m at 12–18x EBITDA of £27m (network owner: fibre network)
+20,05208041,SATCOM GLOBAL LIMITED,4751883.8736000005,28511303.0,38015071.0,6.0,8.0,Recurring services,,,,Within £10–250m,£29m–£38m at 6–8x EBITDA of £5m (recurring services)
+21,10021562,GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED,3502542.0,17512710.0,24517794.0,5.0,7.0,Contractor,,,,Within £10–250m,£18m–£25m at 5–7x EBITDA of £4m (contractor)
+22,10779280,ABZORB GROUP LTD,2401226.0,13206743.0,18009195.0,5.5,7.5,Recurring services,,,,Within £10–250m,£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services)
+23,03193093,FERNS SURFACING LIMITED,6005453.0,30027265.0,42038171.0,5.0,7.0,Contractor,,,,Within £10–250m,£30m–£42m at 5–7x EBITDA of £6m (contractor)
+24,05448638,4NET TECHNOLOGIES LTD,4512212.0,27073272.0,36097696.0,6.0,8.0,Recurring services,,,,Within £10–250m,£27m–£36m at 6–8x EBITDA of £5m (recurring services)
+25,03513467,5G COMMUNICATIONS LIMITED,3659469.0,21956814.0,29275752.0,6.0,8.0,Recurring services,,,,Within £10–250m,£22m–£29m at 6–8x EBITDA of £4m (recurring services)
+26,12520403,OPUS TECH LIMITED,2839316.0,15616238.0,21294870.0,5.5,7.5,Recurring services,,,,Within £10–250m,£16m–£21m at 5.5–7.5x EBITDA of £3m (recurring services)
+27,09956206,HENEGHAN HOLDINGS LIMITED,17939797.0,89698985.0,125578579.0,5.0,7.0,Contractor,,,,Within £10–250m,£90m–£126m at 5–7x EBITDA of £18m (contractor)
+28,04031272,ONECOM LIMITED,24752141.0,148512846.0,198017128.0,6.0,8.0,Recurring services,,,,Within £10–250m,£149m–£198m at 6–8x EBITDA of £25m (recurring services)
+29,07974624,TELA TECHNOLOGY LIMITED,2407851.0,13243180.0,18058882.0,5.5,7.5,Recurring services,,,,Within £10–250m,£13m–£18m at 5.5–7.5x EBITDA of £2m (recurring services)
+30,02150618,KCOM GROUP LIMITED,43538000.0,522456000.0,783684000.0,12.0,18.0,Network owner: fibre network,627000000.0,Price Macquarie paid to take it private (Aug 2019),https://irei.com/news/macquarie-buys-kcom-627m/,Probably above £250m,£627m: price Macquarie paid to take it private (Aug 2019). From EBITDA: £522m–£784m at 12–18x EBITDA of £44m (network owner: fibre network)
+31,02386327,NATIONAL GRID TELECOMS LIMITED,3299000.0,39588000.0,59382000.0,12.0,18.0,Network owner: fibre and towers on the electricity network,,,,Within £10–250m,£40m–£59m at 12–18x EBITDA of £3m (network owner: fibre and towers on the electricity network)
+32,06797181,BISTECH GROUP PLC,3289170.0,19735020.0,26313360.0,6.0,8.0,Recurring services,,,,Within £10–250m,£20m–£26m at 6–8x EBITDA of £3m (recurring services)
+33,08322856,REDCENTRIC SOLUTIONS LIMITED,13168000.0,79008000.0,105344000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£79m–£105m at 6–8x EBITDA of £13m (recurring services)
+34,03188615,GLIDE STUDENT & RESIDENTIAL LIMITED,10901000.0,130812000.0,196218000.0,12.0,18.0,Network owner,,,,Within £10–250m,£131m–£196m at 12–18x EBITDA of £11m (network owner)
+35,08709631,NETWORK PLANNING SOLUTIONS LTD.,4908675.0,24543375.0,34360725.0,5.0,7.0,Contractor,,,,Within £10–250m,£25m–£34m at 5–7x EBITDA of £5m (contractor)
+36,06391276,CENTERCOMMS LIMITED,3421827.0,17109135.0,23952789.0,5.0,7.0,Contractor,,,,Within £10–250m,£17m–£24m at 5–7x EBITDA of £3m (contractor)
+37,04210561,I.P. INTEGRATION LIMITED,3364747.0,20188482.0,26917976.0,6.0,8.0,Recurring services,,,,Within £10–250m,£20m–£27m at 6–8x EBITDA of £3m (recurring services)
+38,05954905,NATILIK LIMITED,6358000.0,38148000.0,50864000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£38m–£51m at 6–8x EBITDA of £6m (recurring services)
+39,12421328,NETS INTERNATIONAL LIMITED,1339695.0,6028628.0,8708018.0,4.5,6.5,Contractor,,,,Below £10m,£6m–£9m at 4.5–6.5x EBITDA of £1m (contractor)
+40,03368473,WINGNUT UTILITIES LIMITED,1784248.0,8029116.0,11597612.0,4.5,6.5,Contractor,,,,Could be below £10m,£8m–£12m at 4.5–6.5x EBITDA of £2m (contractor)
+41,04544886,RADIOCOMS SYSTEMS LIMITED,5147258.0,30883548.0,41178064.0,6.0,8.0,Recurring services,,,,Within £10–250m,£31m–£41m at 6–8x EBITDA of £5m (recurring services)
+42,10174559,NANO FIBRE UK LIMITED,2346500.0,10559250.0,15252250.0,4.5,6.5,Contractor,,,,Within £10–250m,£11m–£15m at 4.5–6.5x EBITDA of £2m (contractor)
+43,09585068,CROFT COMMUNICATIONS LIMITED,2220943.0,12215186.0,16657072.0,5.5,7.5,Recurring services,,,,Within £10–250m,£12m–£17m at 5.5–7.5x EBITDA of £2m (recurring services)
+44,06968249,NATTERBOX LIMITED,2762319.0,15192754.0,20717392.0,5.5,7.5,Recurring services,,,,Within £10–250m,£15m–£21m at 5.5–7.5x EBITDA of £3m (recurring services)
+45,04085164,FLR SPECTRON LIMITED,1653446.0,9093953.0,12400845.0,5.5,7.5,Recurring services,,,,Could be below £10m,£9m–£12m at 5.5–7.5x EBITDA of £2m (recurring services)
+46,04213760,BABBLE CLOUD LIMITED,7653000.0,45918000.0,61224000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£46m–£61m at 6–8x EBITDA of £8m (recurring services)
+47,02557464,CONNECT MANAGED SERVICES (UK) LIMITED,6007000.0,36042000.0,48056000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£36m–£48m at 6–8x EBITDA of £6m (recurring services)
+48,06011062,C.A. TELECOM UK LIMITED,2473621.0,11131294.0,16078536.0,4.5,6.5,Contractor,,,,Within £10–250m,£11m–£16m at 4.5–6.5x EBITDA of £2m (contractor)
+49,NI620995,GCU (UK) LIMITED,5642685.0,28213425.0,39498795.0,5.0,7.0,Contractor,,,,Within £10–250m,£28m–£39m at 5–7x EBITDA of £6m (contractor)
+50,02853596,MAP GROUP (UK) LIMITED,18109918.0,90549590.0,126769426.0,5.0,7.0,Contractor,,,,Within £10–250m,£91m–£127m at 5–7x EBITDA of £18m (contractor)
+51,08043921,AERIAL DIRECT LIMITED,6720195.0,40321170.0,53761560.0,6.0,8.0,Recurring services,,,,Within £10–250m,£40m–£54m at 6–8x EBITDA of £7m (recurring services)
+52,05217343,NORTH PB LIMITED,1967967.0,10823818.0,14759752.0,5.5,7.5,Recurring services,,,,Within £10–250m,£11m–£15m at 5.5–7.5x EBITDA of £2m (recurring services)
+53,03101568,ZEN INTERNET LIMITED,6730000.0,40380000.0,53840000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£40m–£54m at 6–8x EBITDA of £7m (recurring services)
+54,02763306,JOHN HENRY GROUP LIMITED,2898066.0,13041297.0,18837429.0,4.5,6.5,Contractor,,,,Within £10–250m,£13m–£19m at 4.5–6.5x EBITDA of £3m (contractor)
+55,13567332,SAINT TOPCO LIMITED,36240001.0,217440006.0,289920008.0,6.0,8.0,Recurring services,,,,Could be above £250m,£217m–£290m at 6–8x EBITDA of £36m (recurring services)
+56,02665837,MAINTEL EUROPE LIMITED,5063000.0,30378000.0,40504000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£30m–£41m at 6–8x EBITDA of £5m (recurring services)
+57,05240202,GROUND CONTROL TECHNOLOGIES UK LTD,1702000.0,9361000.0,12765000.0,5.5,7.5,Recurring services,,,,Could be below £10m,£9m–£13m at 5.5–7.5x EBITDA of £2m (recurring services)
+58,03526932,GLOBAL 4 COMMUNICATIONS LIMITED,1121727.0,6169498.0,8412952.0,5.5,7.5,Recurring services,,,,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services)
+59,02804354,CHARTERHOUSE VOICE & DATA LIMITED,3839000.0,23034000.0,30712000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£23m–£31m at 6–8x EBITDA of £4m (recurring services)
+60,04560277,PAGEONE COMMUNICATIONS LIMITED,1382000.0,7601000.0,10365000.0,5.5,7.5,Recurring services,,,,Could be below £10m,£8m–£10m at 5.5–7.5x EBITDA of £1m (recurring services)
+61,06521296,RIDOWN CAPITAL LIMITED,1131214.0,6221677.0,8484105.0,5.5,7.5,Recurring services,,,,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services)
+62,11641366,SPITFIRE TECHNOLOGY HOLDINGS LIMITED,445948.0,2452714.0,3344610.0,5.5,7.5,Recurring services,,,,Below £10m,£2m–£3m at 5.5–7.5x EBITDA of £0m (recurring services)
+63,02797895,CHESS LIMITED,5489000.0,32934000.0,43912000.0,6.0,8.0,Recurring services,,,,Within £10–250m,£33m–£44m at 6–8x EBITDA of £5m (recurring services)
+64,07020016,LILY COMMUNICATIONS LTD.,1124277.0,6183524.0,8432078.0,5.5,7.5,Recurring services,,,,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services)
+65,02652955,BDR VOICE & DATA SOLUTIONS LTD,377399.0,2075694.0,2830492.0,5.5,7.5,Recurring services,,,,Below £10m,£2m–£3m at 5.5–7.5x EBITDA of £0m (recurring services)
+66,SC646446,HIGHLANDS BIDCO LIMITED,1111441.0,6112926.0,8335808.0,5.5,7.5,Recurring services,,,,Below £10m,£6m–£8m at 5.5–7.5x EBITDA of £1m (recurring services)
+67,NI614374,M & M CONTRACTORS (EUROPE) LTD,891948.0,4013766.0,5797662.0,4.5,6.5,Contractor,,,,Below £10m,£4m–£6m at 4.5–6.5x EBITDA of £1m (contractor)
+68,01763970,AVOIRA LIMITED,1233380.0,6783590.0,9250350.0,5.5,7.5,Recurring services,,,,Below £10m,£7m–£9m at 5.5–7.5x EBITDA of £1m (recurring services)
+69,01938625,INTERCITY TECHNOLOGY LIMITED,806000.0,4433000.0,6045000.0,5.5,7.5,Recurring services,,,,Below £10m,£4m–£6m at 5.5–7.5x EBITDA of £1m (recurring services)
+70,02296733,VANCO UK LIMITED,2044387.0,11244128.0,15332902.0,5.5,7.5,Recurring services,,,,Within £10–250m,£11m–£15m at 5.5–7.5x EBITDA of £2m (recurring services)
+71,04632756,TELAPPLIANT LIMITED,1520142.0,8360781.0,11401065.0,5.5,7.5,Recurring services,,,,Could be below £10m,£8m–£11m at 5.5–7.5x EBITDA of £2m (recurring services)
+72,14354114,TALK STRAIGHT HOLDINGS LIMITED,628206.0,3455133.0,4711545.0,5.5,7.5,Recurring services,,,,Below £10m,£3m–£5m at 5.5–7.5x EBITDA of £1m (recurring services)
+73,02697046,ERH COMMUNICATIONS LIMITED,58186.0,261837.0,378209.0,4.5,6.5,Contractor,,,,Below £10m,£0m–£0m at 4.5–6.5x EBITDA of £0m (contractor)
+74,04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,1506241.0,8284326.0,11296808.0,5.5,7.5,Recurring services,,,,Could be below £10m,£8m–£11m at 5.5–7.5x EBITDA of £2m (recurring services)
+75,04380546,VCG TECHNOLOGY SERVICES LIMITED,558712.0,3072916.0,4190340.0,5.5,7.5,Recurring services,,,,Below £10m,£3m–£4m at 5.5–7.5x EBITDA of £1m (recurring services)
+76,05942331,YORK TELECOM LIMITED,636464.0,3500552.0,4773480.0,5.5,7.5,Recurring services,,,,Below £10m,£4m–£5m at 5.5–7.5x EBITDA of £1m (recurring services)
+77,02893478,TELIGENT LIMITED,291531.0,1311890.0,1894952.0,4.5,6.5,Contractor,,,,Below £10m,£1m–£2m at 4.5–6.5x EBITDA of £0m (contractor)
+78,00714431,FOURWAY COMMUNICATION LIMITED,341638.0,1537371.0,2220647.0,4.5,6.5,Contractor,,,,Below £10m,£2m–£2m at 4.5–6.5x EBITDA of £0m (contractor)
+79,03868503,MEDHURST COMMUNICATIONS LIMITED,914325.0,5028788.0,6857438.0,5.5,7.5,Recurring services,,,,Below £10m,£5m–£7m at 5.5–7.5x EBITDA of £1m (recurring services)
+80,09180490,ICE TELECOMMUNICATIONS LTD,868427.0,4776348.0,6513202.0,5.5,7.5,Recurring services,,,,Below £10m,£5m–£7m at 5.5–7.5x EBITDA of £1m (recurring services)
+81,SC211701,PELION IOT LIMITED,241015.0,1325582.0,1807612.0,5.5,7.5,Recurring services,,,,Below £10m,£1m–£2m at 5.5–7.5x EBITDA of £0m (recurring services)
+82,02946493,CORPORATE DIRECT (EUROPE) LTD,276198.0,1519089.0,2071485.0,5.5,7.5,Recurring services,,,,Below £10m,£2m–£2m at 5.5–7.5x EBITDA of £0m (recurring services)

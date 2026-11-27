@@ -1,0 +1,3035 @@
+=== page 1 ===
+Connexin Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v24.1.0.578
+05823408
+Board of Directors
+30.9.23
+1.10.22
+30.9.23
+30.9.23
+provision of broadband services.
+true
+true
+false
+true
+true
+false
+false
+false
+true
+false
+Ordinary
+0
+A Preferred Shares
+0
+Deferred
+0
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+05823408
+2022-09-30
+05823408
+2023-09-30
+05823408
+2022-10-01
+2023-09-30
+05823408
+2021-09-30
+05823408
+2021-10-01
+2022-09-30
+05823408
+2022-09-30
+05823408
+ns15:EnglandWales
+2022-10-01
+2023-09-30
+05823408
+ns14:PoundSterling
+2022-10-01
+2023-09-30
+05823408
+ns10:Director1
+2022-10-01
+2023-09-30
+05823408
+ns10:Consolidated
+2023-09-30
+05823408
+ns10:ConsolidatedGroupCompanyAccounts
+2022-10-01
+2023-09-30
+05823408
+ns10:PrivateLimitedCompanyLtd
+2022-10-01
+2023-09-30
+=== page 2 ===
+05823408
+ns10:Consolidated
+ns10:FRS102
+2022-10-01
+2023-09-30
+05823408
+ns10:Consolidated
+ns10:Audited
+2022-10-01
+2023-09-30
+05823408
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2022-10-01
+2023-09-30
+05823408
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+2022-10-01
+2023-09-30
+05823408
+ns10:Consolidated
+ns10:LargeMedium-sizedCompaniesRegimeForDirectorsReport
+2022-10-01
+2023-09-30
+05823408
+ns10:LargeMedium-sizedCompaniesRegimeForAccounts
+ns10:Consolidated
+2022-10-01
+2023-09-30
+05823408
+ns10:FullAccounts
+2022-10-01
+2023-09-30
+05823408
+1
+2022-10-01
+2023-09-30
+05823408
+ns10:OrdinaryShareClass1
+2022-10-01
+2023-09-30
+05823408
+ns10:OrdinaryShareClass2
+2022-10-01
+2023-09-30
+05823408
+ns10:OrdinaryShareClass3
+2022-10-01
+2023-09-30
+05823408
+ns10:Consolidated
+2022-10-01
+2023-09-30
+05823408
+ns10:Director2
+2022-10-01
+2023-09-30
+05823408
+ns10:Director3
+2022-10-01
+2023-09-30
+05823408
+ns10:Director4
+2022-10-01
+2023-09-30
+05823408
+ns10:Director5
+2022-10-01
+2023-09-30
+05823408
+ns10:CompanySecretary1
+=== page 3 ===
+2022-10-01
+2023-09-30
+05823408
+ns10:RegisteredOffice
+2022-10-01
+2023-09-30
+05823408
+ns10:Consolidated
+2021-10-01
+2022-09-30
+05823408
+ns5:CurrentFinancialInstruments
+2023-09-30
+05823408
+ns5:CurrentFinancialInstruments
+2022-09-30
+05823408
+ns5:Non-currentFinancialInstruments
+2023-09-30
+05823408
+ns5:Non-currentFinancialInstruments
+2022-09-30
+05823408
+ns5:ShareCapital
+2023-09-30
+05823408
+ns5:ShareCapital
+2022-09-30
+05823408
+ns5:SharePremium
+2023-09-30
+05823408
+ns5:SharePremium
+2022-09-30
+05823408
+ns5:CapitalRedemptionReserve
+2023-09-30
+05823408
+ns5:CapitalRedemptionReserve
+2022-09-30
+05823408
+ns5:FurtherSpecificReserve1ComponentTotalEquity
+2023-09-30
+05823408
+ns5:FurtherSpecificReserve1ComponentTotalEquity
+2022-09-30
+05823408
+ns5:RetainedEarningsAccumulatedLosses
+2023-09-30
+05823408
+ns5:RetainedEarningsAccumulatedLosses
+2022-09-30
+05823408
+ns5:ShareCapital
+2021-09-30
+05823408
+ns5:RetainedEarningsAccumulatedLosses
+2021-09-30
+05823408
+ns5:SharePremium
+2021-09-30
+05823408
+ns5:RetainedEarningsAccumulatedLosses
+2021-10-01
+2022-09-30
+05823408
+ns5:RetainedEarningsAccumulatedLosses
+2022-10-01
+2023-09-30
+05823408
+=== page 4 ===
+ns5:CapitalRedemptionReserve
+2021-09-30
+05823408
+ns5:FurtherSpecificReserve1ComponentTotalEquity
+2021-09-30
+05823408
+ns5:CapitalRedemptionReserve
+2021-10-01
+2022-09-30
+05823408
+ns5:FurtherSpecificReserve1ComponentTotalEquity
+2021-10-01
+2022-09-30
+05823408
+ns5:CapitalRedemptionReserve
+2022-10-01
+2023-09-30
+05823408
+ns5:FurtherSpecificReserve1ComponentTotalEquity
+2022-10-01
+2023-09-30
+05823408
+ns5:NetGoodwill
+2022-10-01
+2023-09-30
+05823408
+ns5:IntangibleAssetsOtherThanGoodwill
+2022-10-01
+2023-09-30
+05823408
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2022-10-01
+2023-09-30
+05823408
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-10-01
+2023-09-30
+05823408
+ns5:OwnedOrFreeholdAssets
+ns5:LandBuildings
+2022-10-01
+2023-09-30
+05823408
+ns5:LeaseholdImprovements
+2022-10-01
+2023-09-30
+05823408
+ns5:PlantMachinery
+2022-10-01
+2023-09-30
+05823408
+ns5:FurnitureFittings
+2022-10-01
+2023-09-30
+05823408
+ns5:MotorVehicles
+2022-10-01
+2023-09-30
+05823408
+ns5:ComputerEquipment
+2022-10-01
+2023-09-30
+05823408
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2022-09-30
+05823408
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-09-30
+05823408
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+=== page 5 ===
+2023-09-30
+05823408
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2023-09-30
+05823408
+ns5:PatentsTrademarksLicencesConcessionsSimilar
+2022-09-30
+05823408
+ns5:DevelopmentCostsCapitalisedDevelopmentExpenditure
+2022-09-30
+05823408
+ns5:LeaseholdImprovements
+2022-09-30
+05823408
+ns5:PlantMachinery
+2022-09-30
+05823408
+ns5:FurnitureFittings
+2022-09-30
+05823408
+ns5:LeaseholdImprovements
+2023-09-30
+05823408
+ns5:PlantMachinery
+2023-09-30
+05823408
+ns5:FurnitureFittings
+2023-09-30
+05823408
+ns5:LeaseholdImprovements
+2022-09-30
+05823408
+ns5:PlantMachinery
+2022-09-30
+05823408
+ns5:FurnitureFittings
+2022-09-30
+05823408
+ns5:MotorVehicles
+2022-09-30
+05823408
+ns5:ComputerEquipment
+2022-09-30
+05823408
+ns5:MotorVehicles
+2023-09-30
+05823408
+ns5:ComputerEquipment
+2023-09-30
+05823408
+ns5:MotorVehicles
+2022-09-30
+05823408
+ns5:ComputerEquipment
+2022-09-30
+05823408
+ns5:LeasedAssetsHeldAsLessee
+2022-10-01
+2023-09-30
+05823408
+ns5:CostValuation
+2022-09-30
+05823408
+ns5:AdditionsToInvestments
+2023-09-30
+05823408
+ns5:CostValuation
+2023-09-30
+05823408
+ns5:CurrentFinancialInstruments
+=== page 6 ===
+ns5:WithinOneYear
+2023-09-30
+05823408
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-09-30
+05823408
+ns5:Non-currentFinancialInstruments
+ns5:BetweenOneTwoYears
+2023-09-30
+05823408
+ns5:Non-currentFinancialInstruments
+ns5:BetweenOneTwoYears
+2022-09-30
+05823408
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2023-09-30
+05823408
+ns5:Non-currentFinancialInstruments
+ns5:BetweenTwoFiveYears
+2022-09-30
+05823408
+ns5:HirePurchaseContracts
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-09-30
+05823408
+ns5:HirePurchaseContracts
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-09-30
+05823408
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2023-09-30
+05823408
+ns5:BetweenOneFiveYears
+ns5:HirePurchaseContracts
+2022-09-30
+05823408
+ns5:HirePurchaseContracts
+2023-09-30
+05823408
+ns5:HirePurchaseContracts
+2022-09-30
+05823408
+ns5:Secured
+2023-09-30
+05823408
+ns5:Secured
+2022-09-30
+05823408
+ns10:OrdinaryShareClass1
+2023-09-30
+05823408
+ns10:OrdinaryShareClass2
+2023-09-30
+05823408
+ns10:OrdinaryShareClass3
+2023-09-30
+05823408
+ns5:RetainedEarningsAccumulatedLosses
+2022-09-30
+05823408
+ns5:SharePremium
+2022-09-30
+05823408
+ns5:CapitalRedemptionReserve
+2022-09-30
+=== page 7 ===
+05823408
+ns5:FurtherSpecificReserve1ComponentTotalEquity
+2022-09-30
+05823408
+ns5:OtherReservesSubtotal
+2022-09-30
+REGISTERED NUMBER: 05823408 (England and Wales) 
+Group Strategic Report, Report of the Directors and
+ Consolidated Financial Statements for the Year Ended 30 September 2023
+for
+Connexin Limited
+Connexin Limited (Registered number: 05823408)
+Contents of the Consolidated Financial Statements
+for the year ended 30 September 2023
+Page
+Company Information  
+1
+Group Strategic Report  
+2
+Report of the Directors  
+5
+Independent Auditor's Report  
+7
+Consolidated Income Statement  
+11
+Consolidated Balance Sheet  
+12
+Company Balance Sheet  
+13
+Consolidated Statement of Changes in Equity  
+14
+Company Statement of Changes in Equity  
+15
+Consolidated Cash Flow Statement  
+16
+Notes to the Consolidated Cash Flow Statement 
+17
+Notes to the Consolidated Financial Statements 
+19
+Connexin Limited
+Company Information 
+for the year ended 30 September 2023
+DIRECTORS:
+Dr F Alamgir
+W J A Priest
+K Y Yeung
+Ms P M Smith
+Ms S Halliwell
+SECRETARY:
+OHS Secretaries Limited
+REGISTERED OFFICE:
+9th Floor
+107 Cheapside
+London
+EC2V 6DN
+REGISTERED NUMBER:
+05823408
+(England and Wales) 
+AUDITOR:
+RSM UK Audit LLP, Statutory Auditor
+Chartered Accountants
+Two Humber Quays
+Wellington Street
+Hull
+HU1 2BN
+-1-
+Connexin Limited (Registered number: 05823408)
+Group Strategic Report 
+for the year ended 30 September 2023
+The directors present their strategic report of the company and the group for the year ended 30 September 2023. 
+=== page 8 ===
+REVIEW OF BUSINESS
+The group has always sought to offer the best customer experience to customers on its footprint whilst offering its 
+customers high speed, reliable, full fibre connectivity at affordable prices. The group was ranked 16th out of 100 in the 
+Fastest Growing Technology companies at the 2023 Northern Tech Awards to reinforce its dominant position in the region.
+-2-
+Connexin Limited (Registered number: 05823408)
+Group Strategic Report 
+for the year ended 30 September 2023
+PRINCIPAL RISKS AND UNCERTAINTIES
+Climate risk
+ - The group recognises that climate change poses both physical and transitional risks and opportunities. The 
+former inclu
+de both physical risks caused by the increased frequency and severity of climate and weather events, and 
+transitional
+ risks associated with economic, technology or regulatory changes related to the move towards a greener 
+economy. The
+ three main physical risks are flooding, high winds and extreme heat:
+o
+Flooding - Extreme localised flooding could impact the group's underground units, though most are already 
+protected against water damage and have battery backup units installed in the event that power is interrupted.
+o
+High winds - These naturally pose a greater risk to the group's overhead infrastructure than the underground 
+network though tree falls can cause significant damage to both; further, there may be health and safety 
+considerations to staff working at heights.
+o
+Extreme temperatures could affect the group's street cabinets but given all units have built-in cooling this is 
+considered the least likely of the risks to materialise.
+Ultimately, the group faces all these risks today, with climate change representing a risk of increased frequency and 
+severity. The group continues to work to embed consideration of the effects of climate change into its core operational 
+processes and longer-term business planning so that it can maximise the value it brings to its customers, investors and the 
+communities where it operates. It also monitors changes in the business and regulatory landscape to understand where there 
+may be opportunities resulting from the transition to a low-carbon economy.
+Health and safety 
+- The group is involved in activities that could: cause injury to employees or the public; cause damage to 
+public and private
+ buildings and the public highways; cause environmental harm; or cause reputational damage to the 
+group. The group c
+ontinues to rely on subcontractors to deliver the majority of its network build and customer connections. 
+The group continue
+s to treat health and safety as its highest priority with ongoing monitoring of subcontractor activity 
+underpinned by cle
+ar processes and policies, which are regularly updated.
+Supply chain logistics
+ - The group saw pressures ease on its supply chain during 2023 though lead times remain elevated 
+compared to the pre-pa
+ndemic years. The group continues to monitor the performance of individual suppliers and 
+constantly works with 
+carefully selected partners to obtain the optimal mix of pricing and reliability.
+Availability of funding - The group continues to consume cash in order to invest in network rollout, customer acquisition 
+and customer connections. The cash shortfall of the group is funded by its shareholder loans. The group is in the process of 
+seeking external debt funding.
+Alternative broadband technologies and technological obsolescence
+ - The group continues to monitor the availability and 
+pricing of alternative broadband technologies delivered without (
+or with significantly less) physical infrastructure 
+connections to the home, including: 5G and other mobile technolog
+ies; satellite broadband; and point-to-point microwave. 
+There will always be a place for alternative technologies, partic
+ularly in rural or otherwise hard-to-reach locations, but 
+globally, FTTP remains the undisputed gold standard for mass deli
+very of high-speed broadband.
+Government regulation of the broadband market
+ - The government can intervene in the broadband market directly, by 
+subsidising network rollout, or through vario
+us quasi-autonomous non-governmental agencies such as Ofcom and the 
+Competition and Markets Authority. The group 
+has a signed agreement with BDUK to roll out infrastructure access to the 
+hardest to reach areas.
+Cyber-security and GDPR
+ - A cyber-attack on the group could disrupt the group's operations and, in the result of a leak of 
+=== page 9 ===
+sensitive customer info
+rmation, could cause reputational damage. The group has put in place robust policies and procedures 
+to minimise the risk of
+ a cyber-attack, to minimise the risk of sensitive data loss in the event of such an attack and in the 
+event of data loss to a
+ppropriately manage the disclosure of such an attack to the UK's Information Commissioner's Office.
+SUPPLIERS AND CUSTOMERS
+The group works with the best suppliers and contractors to ensure the highest quality workmanship and the most reliable 
+network possible which in turn gives customers the best experience deliverable. The group has always aimed to provide 
+service to some of the more disadvantaged communities in the areas covered by its network and this will continue.
+-3-
+Connexin Limited (Registered number: 05823408)
+Group Strategic Report 
+for the year ended 30 September 2023
+OPERATING REVIEW
+Revenue for the year was £25.4m (2022: £8.3m) an increase of 206% from the prior year (2022: 145%). This was driven by 
+an increase in connected customers, enabled by the expansion of the network. Gross profit margin decreased to 42% (2022: 
+49%). This is expected to continue to improve as the rapidly increasing customer base makes use of the network resulting in 
+more efficient margins. The loss before tax for the year has increased to £5.2m (2022: £3.95m). The group has incurred 
+upfront costs to prepare the business for expansion in the coming years.
+The group has continued to invest in network and customer expansion, with property, plant and equipment additions 
+increasing to £0.96m in the year (2022: £0.82m).  The group increased the average yearly number of employees 
+significantly during 2023, to 160 (2022: 81).
+ON BEHALF OF THE BOARD:
+Dr F Alamgir
+- Director 
+13 September 2024
+-4-
+Connexin Limited (Registered number: 05823408)
+Report of the Directors 
+for the year ended 30 September 2023
+The directors present their report with the financial statements of the company and the group for the year ended 
+30 September 2023. 
+DIVIDENDS
+No dividends will be distributed for the year ended 30 September 2023. 
+RESEARCH AND DEVELOPMENT
+The group continues its Research and Development work.  This includes developing new products, systems and IoT 
+solutions.
+EVENTS SINCE THE END OF THE YEAR
+Information relating to events since the end of the year is given in the notes to the financial statements.
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 October 2022 to the date of this report. 
+Dr F Alamgir
+W J A Priest
+K Y Yeung
+Ms P M Smith
+Ms S Halliwell
+FINANCIAL INSTRUMENTS
+Financial position and risk management
+As at 30 September 2023 the group had cash on hand of £4.16 m and a shareholder loan of £18.32m. During 2023, the 
+group benefited from shareholder loans from its major shareholder PATRIZIA.
+Financial Risk Management
+The group's financial risk is monitored closely by the Finance function, the Audit and Risk Committee and the Board. The 
+Board maintain a risk register which is reviewed at each of the Board meetings and further monitors the Group's risk 
+through the following processes:
+o
+Liquidity management - As part of ongoing liquidity management, the group compiles a weekly forward 
+looking cash flow forecast to manage short-term liquidity requirements. This forecast is reviewed by the CEO 
+and CFO weekly and by the majority shareholders monthly. 
+o
+Equity funding rounds - As part of the group's annual budget process and the liquidity management process, 
+shareholders are informed about anticipated funding requirements on the shareholder loans. This is the 
+mechanism by which the ongoing funding is delivered by shareholders.
+o
+Cash flow performance review - Each month, the group measures the cash flow performance of the business 
+against the annual budget. This is reviewed by the Board as part of the monthly management accounts.
+DIRECTOR INDEMNITIES
+Qualifying third party indemnity provisions as defined by Section 234 of the Companies Act were in place throughout the 
+year.
+-5-
+=== page 10 ===
+Connexin Limited (Registered number: 05823408)
+Report of the Directors 
+for the year ended 30 September 2023
+BASIS OF PREPARATION
+The Directors have continued to adopt the going concern basis of preparation in these financial statements.
+The Directors have prepared forecasts which demonstrate that the Company has sufficient cash reserves to enable it to settle 
+its liabilities as they fall due for a period of at least 12 months from the date of signing these financial statements. The 
+investors of the group have provided a letter of support confirming their intention to provide financial support to the group 
+in order that it may continue to operate and to service its liabilities as they fall due. The company's business model allows 
+the Directors to operate in a dynamic fashion where, due to the ability of the Directors to quickly scale down the operating 
+costs of the business if required, new lines of business can be explored without risking longer term viability of the business.
+On this basis the Directors have adopted the going concern basis of preparation.
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Group Strategic Report, the Report of the Directors and the financial 
+statements in accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors 
+have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting 
+Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not approve 
+the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and 
+the group and of the profit or loss of the group for that period.  In preparing these financial statements, the directors are 
+required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company's 
+and the group's transactions and disclose with reasonable accuracy at any time the financial position of the company and the 
+group and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also 
+responsible for safeguarding the assets of the company and the group and hence for taking reasonable steps for the 
+prevention and detection of fraud and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the group's auditor is unaware, and each director has taken all the steps that he or she ought to have taken as 
+a director in order to make himself or herself aware of any relevant audit information and to establish that the group's 
+auditor is aware of that information. 
+AUDITOR
+The auditors,  RSM UK Audit LLP, Statutory Auditor, are deemed to be reappointed under the Companies Act 2006, s. 
+487(2).
+ON BEHALF OF THE BOARD:
+Dr F Alamgir
+- Director 
+13 September 2024
+-6-
+Independent Auditor's Report to the Members of 
+Connexin Limited
+Opinion
+We have audited the financial statements of Connexin Limited (the 'parent company') and its subsidiaries (the 'group') for 
+the year ended 30 September 2023 which comprise the Consolidated Income Statement, the Consolidated and Company 
+Balance Sheet, the Consolidated and Company Statement of Changes in Equity, the Consolidated Statement of Cash Flows 
+and notes to the financial statements, including significant accounting policies. The financial reporting framework that has 
+been applied in their preparation is applicable law and United Kingdom Accounting Standards, including FRS 102 "The 
+Financial Reporting Standard applicable in the UK and Republic of Ireland" (United Kingdom Generally Accepted 
+Accounting Practice).
+In our opinion, the financial statements:
+  -  give a true and fair view of the state of the group's and of the parent company's affairs as at 30 September 2023 and of 
+the group's loss for the year then ended;
+  -  have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice;
+  -  have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our 
+responsibilities under those standards are further described in the Auditor's responsibilities for the audit of the financial 
+statements section of our report. We are independent of the group and parent company in accordance with the ethical 
+requirements that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, and 
+we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in 
+=== page 11 ===
+the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions 
+that, individually or collectively, may cast significant doubt on the group's and the parent company's ability to continue as a 
+going concern for a period of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The other information comprises the information included in the annual report, other than the financial statements and our 
+auditor's report thereon. The directors are responsible for the other information contained within the annual report. Our 
+opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated 
+in our report, we do not express any form of assurance conclusion thereon.
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially 
+inconsistent with the financial statements or our knowledge obtained in the course of the audit or otherwise appears to be 
+materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to 
+determine whether this gives rise to a material misstatement in the financial statements themselves. If, based on the work we 
+have performed, we conclude that there is a material misstatement of this other information, we are required to report that 
+fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Group Strategic Report and the Report of the Directors for the financial year for which the 
+financial statements are prepared is consistent with the financial statements; and 
+-
+the Group Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal 
+requirements. 
+-7-
+Independent Auditor's Report to the Members of 
+Connexin Limited
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the group and the parent company and their environment obtained in the 
+course of the audit, we have not identified material misstatements in the strategic report or the directors' report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to 
+report to you if, in our opinion:
+- adequate accounting records have not been kept, or returns adequate for our audit have not been received from branches 
+not visited by us; or
+- the parent company financial statements are not in agreement with the accounting records and returns; or
+- certain disclosures of directors' remuneration specified by law are not made; or
+- we have not received all the information and explanations we require for our audit; or
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page six, the directors are responsible for 
+the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal 
+control as the directors determine necessary to enable the preparation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the group's and the parent company's ability 
+to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis 
+of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations, or have 
+no realistic alternative but to do so. 
+-8-
+Independent Auditor's Report to the Members of 
+Connexin Limited
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue an Auditor's Report that includes our opinion.  Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will 
+always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered 
+material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users 
+taken on the basis of these financial statements. 
+The extent to which the audit was considered capable of detecting irregularities, including fraud
+Irregularities are instances of non-compliance with laws and regulations.  The objectives of our audit are to obtain sufficient 
+appropriate audit evidence regarding compliance with laws and regulations that have a direct effect on the determination of 
+material amounts and disclosures in the financial statements, to perform audit procedures to help identify instances of 
+non-compliance with other laws and regulations that may have a material effect on the financial statements, and to respond 
+appropriately to identified or suspected non-compliance with laws and regulations identified during the audit.
+In relation to fraud, the objectives of our audit are to identify and assess the risk of material misstatement of the financial 
+statements due to fraud, to obtain sufficient appropriate audit evidence regarding the assessed risks of material misstatement 
+due to fraud through designing and implementing appropriate responses and to respond appropriately to fraud or suspected 
+fraud identified during the audit.
+However, it is the primary responsibility of management, with the oversight of those charged with governance, to ensure 
+that the entity's operations are conducted in accordance with the provisions of laws and regulations and for the prevention 
+=== page 12 ===
+and detection of fraud.
+In identifying and assessing risks of material misstatement in respect of irregularities, including fraud, the group audit 
+engagement team:
+  -  obtained an understanding of the nature of the industry and sector, including the legal and regulatory framework that the 
+group and parent company operate in and how the group and parent company are complying with the legal and regulatory 
+framework;
+  -   inquired of management, and those charged with governance, about their own identification and assessment of the risks 
+of irregularities, including any known actual, suspected or alleged instances of fraud;
+  -  discussed matters about non-compliance with laws and regulations and how fraud might occur including assessment of 
+how and where the financial statements may be susceptible to fraud.
+As a result of these procedures we consider the most significant laws and regulations that have a direct impact on the 
+financial statements are FRS 102, the Companies Act 2006 and tax compliance regulations.  We performed audit 
+procedures to detect non-compliances which may have a material impact on the financial statements which included 
+reviewing financial statement disclosures, inspecting correspondence with local tax authorities and evaluating advice 
+received from external tax advisors.
+The group audit engagement team identified the risk of management override of controls and revenue recognition as the 
+areas where the financial statements were most susceptible to material misstatement due to fraud.  Audit procedures 
+performed included but were not limited to testing manual journal entries and other adjustments and evaluating the business 
+rationale in relation to significant, unusual transactions and transactions entered into outside the normal course of business, 
+challenging judgments and estimates.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Auditor's Report. 
+Other matter - prior period financial statements not audited
+The Group was exempt from audit in the year ended 30 September 2022 and consequently the corresponding consolidated 
+figures are unaudited.
+-9-
+Independent Auditor's Report to the Members of 
+Connexin Limited
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the Companies 
+Act 2006. Our audit work has been undertaken so that we might state to the company's members those matters we are 
+required to state to them in an Auditor's Report and for no other purpose. To the fullest extent permitted by law, we do not 
+accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit 
+work, for this report, or for the opinions we have formed. 
+Peter Adams FCA
+(Senior Statutory Auditor) 
+for and on behalf of 
+RSM UK Audit LLP, Statutory Auditor
+Chartered Accountants
+Two Humber Quays
+Wellington Street
+Hull
+HU1 2BN
+13 September 2024
+-10-
+Connexin Limited (Registered number: 05823408)
+Consolidated Income Statement 
+for the year ended 30 September 2023
+2023
+2022
+Notes
+£   
+£   
+TURNOVER
+3
+25,399,071
+8,289,426
+Cost of sales
+14,743,183
+4,221,730
+GROSS PROFIT
+10,655,888
+4,067,696
+Administrative expenses
+14,267,264
+7,330,755
+(3,611,376
+)
+(3,263,059
+)
+=== page 13 ===
+Other operating income
+-
+206
+OPERATING LOSS
+5
+(3,611,376
+)
+(3,262,853
+)
+Interest receivable and similar income 
+23,585
+317
+(3,587,791
+)
+(3,262,536
+)
+Interest payable and similar expenses 
+6
+1,580,514
+690,834
+LOSS BEFORE TAXATION 
+(5,168,305
+)
+(3,953,370
+)
+Tax on loss
+7
+(434,973
+)
+(19,377
+)
+LOSS FOR THE FINANCIAL YEAR 
+(
+4,733,332
+)
+(
+3,933,993
+)
+The notes form part of these financial statements
+-11-
+Connexin Limited (Registered number: 05823408)
+Consolidated Balance Sheet 
+30 September 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Intangible assets
+9
+6,311,738
+7,354,139
+Tangible assets
+10
+3,225,149
+2,330,961
+Investments
+11
+-
+4,001
+9,536,887
+9,689,101
+CURRENT ASSETS
+Stocks
+12
+239,302
+423,463
+=== page 14 ===
+Debtors
+13
+5,193,085
+6,849,241
+Cash at bank and in hand
+4,155,486
+1,606,138
+9,587,873
+8,878,842
+CREDITORS
+Amounts falling due within one year 
+14
+10,850,330
+7,270,243
+NET CURRENT (LIABILITIES)/ASSETS
+(1,262,457
+)
+1,608,599
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+8,274,430
+11,297,700
+CREDITORS
+Amounts falling due after more than one year 
+15
+(18,578,250
+)
+(16,864,809
+)
+PROVISIONS FOR LIABILITIES
+19
+(22,790
+)
+(26,169
+)
+NET LIABILITIES
+(10,326,610
+)
+(5,593,278
+)
+CAPITAL AND RESERVES
+Called up share capital
+20
+50,277
+50,277
+Share premium
+21
+4,440,731
+4,440,731
+Capital redemption reserve
+21
+1,852
+1,852
+Other reserves
+21
+62,849
+62,849
+Retained earnings
+21
+(14,882,319
+)
+(10,148,987
+)
+SHAREHOLDERS' FUNDS
+(10,326,610
+)
+(5,593,278
+)
+The financial statements were approved by the Board of Directors and authorised for issue on 13 September 2024 and were 
+signed on its behalf by: 
+=== page 15 ===
+Dr F Alamgir - Director 
+The notes form part of these financial statements
+-12-
+Connexin Limited (Registered number: 05823408)
+Company Balance Sheet 
+30 September 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Intangible assets
+9
+7,772
+11,047
+Tangible assets
+10
+2,004,496
+1,397,575
+Investments
+11
+4
+2
+2,012,272
+1,408,624
+CURRENT ASSETS
+Stocks
+12
+21,369
+27,031
+Debtors
+13
+13,026,870
+8,991,080
+Cash at bank
+1,490,369
+210,524
+14,538,608
+9,228,635
+CREDITORS
+Amounts falling due within one year 
+14
+14,197,028
+1,586,730
+NET CURRENT ASSETS
+341,580
+7,641,905
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+2,353,852
+9,050,529
+CREDITORS
+Amounts falling due after more than one year 
+15
+18,403,294
+16,862,114
+NET LIABILITIES
+(
+16,049,442
+)
+(
+7,811,585
+)
+CAPITAL AND RESERVES
+Called up share capital
+20
+50,277
+=== page 16 ===
+50,277
+Share premium
+21
+4,440,731
+4,440,731
+Capital redemption reserve
+21
+1,852
+1,852
+Other reserves
+21
+62,849
+62,849
+Retained earnings
+21
+(
+20,605,151
+)
+(
+12,367,294
+)
+SHAREHOLDERS' FUNDS
+(
+16,049,442
+)
+(
+7,811,585
+)
+Company's loss for the financial year 
+(8,237,857
+)
+(5,985,680
+)
+The financial statements were approved by the Board of Directors and authorised for issue on 
+13 September 2024
+and were 
+signed on its behalf by: 
+Dr F Alamgir
+- Director 
+The notes form part of these financial statements
+-13-
+Connexin Limited (Registered number: 05823408)
+Consolidated Statement of Changes in Equity 
+for the year ended 30 September 2023
+Called up
+share
+Retained
+Share
+capital
+earnings
+premium
+£   
+£   
+£   
+Balance at 1 October 2021
+50,277
+(6,214,994
+)
+4,440,731
+Changes in equity
+Total comprehensive loss
+-
+(3,933,993
+)
+-
+Balance at 30 September 2022
+50,277
+(10,148,987
+)
+4,440,731
+=== page 17 ===
+Changes in equity
+Total comprehensive loss
+-
+(4,733,332
+)
+-
+Balance at 30 September 2023
+50,277
+(14,882,319
+)
+4,440,731
+Capital
+redemption
+Other
+Total
+reserve
+reserves
+equity
+£   
+£   
+£   
+Balance at 1 October 2021
+1,852
+62,849
+(1,659,285
+)
+Changes in equity
+Total comprehensive loss
+-
+-
+(3,933,993
+)
+Balance at 30 September 2022
+1,852
+62,849
+(5,593,278
+)
+Changes in equity
+Total comprehensive loss
+-
+-
+(4,733,332
+)
+Balance at 30 September 2023
+1,852
+62,849
+(10,326,610
+)
+The notes form part of these financial statements
+-14-
+Connexin Limited (Registered number: 05823408)
+Company Statement of Changes in Equity 
+for the year ended 30 September 2023
+Called up
+share
+Retained
+Share
+capital
+earnings
+premium
+£   
+£   
+£   
+Balance at 1 October 2021
+50,277
+(
+6,381,614
+)
+4,440,731
+Deficit for the year
+=== page 18 ===
+-
+(5,985,680
+)
+-
+Total comprehensive loss
+-
+(
+5,985,680
+)
+-
+Balance at 30 September 2022
+50,277
+(
+12,367,294
+)
+4,440,731
+Deficit for the year
+-
+(8,237,857
+)
+-
+Total comprehensive loss
+-
+(
+8,237,857
+)
+-
+Balance at 30 September 2023
+50,277
+(
+20,605,151
+)
+4,440,731
+Capital
+redemption
+Other
+Total
+reserve
+reserves
+equity
+£   
+£   
+£   
+Balance at 1 October 2021
+1,852
+62,849
+(
+1,825,905
+)
+Deficit for the year
+-
+-
+(5,985,680
+)
+Total comprehensive loss
+-
+-
+(
+5,985,680
+)
+Balance at 30 September 2022
+1,852
+62,849
+(
+7,811,585
+)
+Deficit for the year
+-
+-
+(8,237,857
+=== page 19 ===
+)
+Total comprehensive loss
+-
+-
+(
+8,237,857
+)
+Balance at 30 September 2023
+1,852
+62,849
+(
+16,049,442
+)
+The notes form part of these financial statements
+-15-
+Connexin Limited (Registered number: 05823408)
+Consolidated Cash Flow Statement 
+for the year ended 30 September 2023
+2023
+2022
+Notes
+£   
+£   
+Cash flows from operating activities
+Cash generated from operations
+1
+4,095,456
+(5,291,337
+)
+Interest paid
+(1,580,088
+)
+(690,301
+)
+Interest element of hire purchase and finance 
+lease rental payments paid 
+(426
+)
+(533
+)
+Tax paid
+431,594
+15,982
+Net cash from operating activities
+2,946,536
+(5,966,189
+)
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(1,758,752
+)
+(1,143,370
+)
+Sale of tangible fixed assets
+35,000
+11,581
+Sale of fixed asset investments
+4,001
+-
+Acquisitions of businesses (net of cash)
+16,376
+(7,880,560
+)
+Interest received
+23,585
+317
+Net cash from investing activities
+(1,679,790
+)
+(9,012,032
+=== page 20 ===
+)
+Cash flows from financing activities
+New loans in year
+1,571,614
+14,137,369
+Loan repayments in year
+(253,828
+)
+(46,547
+)
+Capital repayments in year
+(34,557
+)
+(81,625
+)
+Amount introduced by directors
+-
+364
+Amount withdrawn by directors
+(627
+)
+-
+Net cash from financing activities
+1,282,602
+14,009,561
+Increase/(decrease) in cash and cash equivalents 
+2,549,348
+(968,660
+)
+Cash and cash equivalents at beginning of 
+year 
+2
+1,606,138
+2,574,798
+Cash and cash equivalents at end of year 
+2
+4,155,486
+1,606,138
+The notes form part of these financial statements
+-16-
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Cash Flow Statement 
+for the year ended 30 September 2023
+1.
+RECONCILIATION OF LOSS BEFORE TAXATION TO CASH GENERATED FROM OPERATIONS 
+2023
+2022
+£   
+£   
+Loss before taxation
+(5,168,305
+)
+(3,953,370
+)
+Depreciation charges
+2,399,294
+1,024,136
+Loss/(profit) on disposal of fixed assets
+18,675
+(885
+)
+Acquisition costs
+(21,025
+)
+(43,755
+)
+Deferred consideration on acquisition
+13,249
+-
+Finance costs
+=== page 21 ===
+1,580,514
+690,834
+Finance income
+(23,585
+)
+(317
+)
+(1,201,183
+)
+(2,283,357
+)
+Decrease/(increase) in stocks
+184,161
+(356,973
+)
+Decrease/(increase) in trade and other debtors
+2,429,323
+(5,763,604
+)
+Increase in trade and other creditors
+2,683,155
+3,112,597
+Cash generated from operations 
+4,095,456
+(5,291,337
+)
+2.
+CASH AND CASH EQUIVALENTS
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents are in respect of these 
+Balance Sheet amounts: 
+Year ended 30 September 2023
+30/9/23
+1/10/22
+£   
+£   
+Cash and cash equivalents
+4,155,486
+1,606,138
+Year ended 30 September 2022
+30/9/22
+1/10/21
+£   
+£   
+Cash and cash equivalents
+1,606,138
+2,574,798
+The notes form part of these financial statements
+-17-
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Cash Flow Statement 
+for the year ended 30 September 2023
+3.
+ANALYSIS OF CHANGES IN NET DEBT 
+Resulting
+from
+Other
+subsidiary
+non-cash
+At 1/10/22
+Cash flow
+acquisition
+changes
+At 30/9/23
+£   
+£   
+£   
+£   
+£   
+Net cash 
+Cash at bank
+=== page 22 ===
+and in hand
+1,606,138
+2,549,348
+-
+4,155,486
+1,606,138
+2,549,348
+-
+4,155,486
+Debt
+Hire purchase and
+finance leases
+(120,836
+)
+34,557
+-
+-
+(86,279
+)
+Debts falling due
+within 1 year
+(43,501
+)
+253,828
+(238,258
+)
+(10,000
+)
+(37,931
+)
+Debts falling due
+after 1 year
+(16,778,530
+)
+(1,571,614
+)
+(174,571
+)
+10,000
+(18,514,715
+)
+(16,942,867
+)
+(1,283,229
+)
+(412,829
+)
+-
+(18,638,925
+)
+Total
+(15,336,729
+)
+1,266,119
+(412,829
+)
+-
+(14,483,439
+)
+The notes form part of these financial statements
+-18-
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements 
+for the year ended 30 September 2023
+1.
+STATUTORY INFORMATION
+Connexin Limited is a 
+private company, limited by shares
+, registered in England and Wales. The company's 
+registered number and registered office address can be found on the General Information page. 
+=== page 23 ===
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+The Directors have continued to adopt the going concern basis of preparation in these financial statements.
+The Directors have prepared forecasts which demonstrate that the Company has sufficient cash reserves to enable it 
+to settle its liabilities as they fall due for a period of at least 12 months from the date of signing these financial 
+statements. The investors of the group have provided a letter of support confirming their intention to provide 
+financial support to the group in order that it may continue to operate and to service its liabilities as they fall due. 
+The company's business model allows the Directors to operate in a dynamic fashion where, due to the ability of the 
+Directors to quickly scale down the operating costs of the business if required, new lines of business can be 
+explored without risking longer term viability of the business.
+On this basis the Directors have adopted the going concern basis of preparation.
+Basis of consolidation
+The Group and all its subsidiary undertakings are consolidated. Intercompany transactions and balances among 
+Group companies are eliminated in full. The results and fair values of the assets and liabilities of undertakings 
+acquired are consolidated from the date on which the Group gains control. Business combinations are accounted for 
+using the purchase method of accounting under FRS 102, Section 19 Business Combinations. In the balance sheet, 
+the acquiree's identifiable assets, liabilities and contingent liabilities are initially recognised at fair value at the date 
+of acquisition (which is the date on which control is passed to the parent). The results of the acquired operations are 
+included in the consolidated profit and loss account from the date of acquisition.
+-19-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+2.
+ACCOUNTING POLICIES - continued
+Significant judgements and estimates
+Preparation of the financial statements requires management to make significant judgements, estimates and 
+assumptions that affect the amounts reported for assets and liabilities as at the statement of financial position date 
+and the amounts reported for revenues and expenses during the period. However, the nature of estimation means 
+that actual outcomes could differ from those estimates.  The items in the financial statements where these 
+judgements ad estimates have been made and are considered to have a significant impact on the carrying value 
+include:
+Impairment of intangible assets and goodwill
+Where the Group identifies and indication of impairment, an estimation of the value in use of the cash generating 
+units is required.  The value in use calculation requires estimation of future cash flows and a suitable discount rate 
+in order to calculate a present value.
+Determination of useful lives of tangible fixed assets
+Depreciation is provided in order to write down assets over their estimated useful lives.  The useful lives are based 
+on management estimates using previous experience and expected usage patterns of the assets.
+Taxation
+Management estimation is required to determine the amount of deferred tax assets that can be recognised, based 
+upon likely timing and level of future taxable profit.
+Turnover
+Turnover is measured at the fair value of the consideration received or receivable, excluding discounts, rebates, 
+value added tax and other sales taxes. 
+Revenue from long term contracts for the provision of services is recognised by reference to the stage of completion 
+which is measured by reviewing the completion of key milestones included within the contracts.
+Goodwill
+Goodwill, being the excess of the fair value of purchase consideration of businesses acquired over the Group's share 
+of the fair value of net assets and liabilities acquired, is written off to the Group profit and loss account on a 
+straight-line basis over periods that represent the estimated useful economic lives of those assets, which are all five 
+years. Provision is made for any impairment.
+Intangible assets
+Intangible assets are initially measured at cost. After initial recognition, intangible assets are measured at cost less 
+any accumulated amortisation and any accumulated impairment losses. 
+Patents and licences are being amortised evenly over their estimated useful life of five years.
+Development costs are being amortised evenly over their estimated useful life of five years.
+-20-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+2.
+ACCOUNTING POLICIES - continued
+Tangible fixed assets
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Freehold property
+=== page 24 ===
+- 
+in accordance with the property
+Improvements to property
+- 
+20% on cost
+Plant and machinery
+-       
+25% on reducing balance, 20% on cost, 10% on cost and at varying rates on cost
+Fixtures and fittings
+-   
+10% on cost and at varying rates on cost
+Motor vehicles
+-   
+25% on reducing balance and 10% on cost
+Computer equipment
+-   
+20% on cost and at varying rates on cost
+Tangible fixed assets measured under the cost model per FRS 102, Section 17 Property Plant and Equipment, other 
+than investment properties, are stated at historical cost less accumulated depreciation and any accumulated 
+impairment losses. Historical cost includes expenditure which is directly attributable to bringing the asset to the 
+location and condition necessary for it to be capable of operating in the manner intended by management.
+Stocks
+Stocks are valued at the lower of cost and net realisable value, after making due allowance for obsolete and slow 
+moving items. 
+-21-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+The Group has chosen to adopt FRS 102, Section 11 Basic Financial Instruments and 12 Other Financial 
+Instruments Issues of FRS 102 in respect of financial instruments. All financial assets and liabilities are initially 
+measured at transaction price, including transaction costs, except for those financial assets classified at fair value 
+through profit or loss, which are initially measured at fair value (at transaction price excluding transaction costs) 
+unless the arrangement constitutes a financing transaction. Financial assets and financial liabilities are only offset in 
+the Group balance sheet when, and only when, there is a legally enforceable right to set off the recognised amounts 
+and the Group intends to settle on a net basis, or to realise the asset and settle the liability simultaneously. Debt 
+instruments (other than those repayable or receivable within one year), including loans and other accounts 
+receivable and payable, are initially measured at the present value of the future cash flows and subsequently 
+amortised using the effective interest method.
+Creditors
+Short-term creditors are measured at transaction price. Other financial liabilities, including bank loans, are measured 
+initially at fair value, net of transaction costs, and are subsequently measured at amortised cost using the effective 
+interest method.
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at 
+fair value, net of transaction costs, and are subsequently measured at amortised cost using the effective interest 
+method, less any impairment.
+Cash and cash equivalents
+Cash is represented by cash on hand and deposits with financial institutions repayable without penalty on notice of 
+not more than 24 hours. Cash equivalents are highly liquid investments which mature in no more than three months 
+from the date of acquisition and which are readily convertible into known amounts of cash with insignificant risk of 
+change in value. In the consolidated statement of cash flows, cash and cash equivalents are shown net of bank 
+overdrafts which are repayable on demand and form an integral part of the Group's cash management.
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the 
+amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the 
+proceeds of the associated financial instrument.
+Impairment
+Financial assets measured at amortised cost are assessed at the end of each reporting period for objective evidence 
+of impairment. If objective evidence of impairment is found, an impairment loss is recognised in profit or loss. For 
+financial assets measured at amortised cost, the impairment loss is measured as the difference between the asset's 
+carrying amount and the present value of estimated cash flows discounted at the asset's effective interest rate. If a 
+financial asset has a variable interest rate, the discount rate for measuring any impairment loss is the current 
+effective interest rate determined under the contract. For financial assets measured at cost less impairment, the 
+impairment loss is measured as the difference between an asset's carrying amount and best estimate, which is an 
+approximation of the amount that the Group would receive for the asset if it were to be sold at the reporting date.
+Derecognition
+=== page 25 ===
+Financial assets are derecognised when and only when:
+-22-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+2.
+ACCOUNTING POLICIES - continued
+- the contractual rights to the cash flows from the financial asset expire or are settled;
+- the Group transfers substantially all of the risks and rewards of ownership of the financial asset to another party; or
+- the Group, despite having retained some, but not all, significant risks and rewards of ownership, has transferred 
+control of the asset to another party.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Consolidated Income Statement, 
+except to the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they will 
+be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Hire purchase and leasing commitments
+Rentals paid under operating leases are charged to profit or loss on a straight line basis over the period of the lease. 
+Property, plant and equipment acquired under finance leases or hire purchase contracts are capitalised and 
+depreciated in the same manner as other tangible fixed assets. The related obligations, net of future finance charges, 
+are included in creditors.
+Pension costs and other post-retirement benefits
+The company operates a defined contribution plan for its employees. A defined contribution plan is a pension plan 
+under which the company pays fixed contributions into a separate entity. Once the contributions have been paid the 
+company has no further payment obligations. The contributions are recognised as an expense when they are due. 
+Amounts not paid are shown in accruals in the balance sheet. The assets of the plan are held separately from the 
+company in independently administered funds.
+3.
+TURNOVER
+The turnover and loss before taxation are attributable to the one principal activity of the group. 
+An analysis of turnover by class of business is given below: 
+2023
+2022
+£   
+£   
+Fibre Network Construction
+9,454,277
+819,479
+Services Provision
+15,944,794
+7,469,947
+25,399,071
+8,289,426
+-23-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+4.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£   
+£   
+Wages and salaries
+6,663,047
+3,595,575
+Social security costs
+682,658
+=== page 26 ===
+369,774
+Other pension costs
+85,317
+42,553
+7,431,022
+4,007,902
+The average number of employees during the year was as follows: 
+2023
+2022
+Directors & management
+17
+11
+Administration
+40
+20
+Engineers
+61
+30
+Sales & marketing
+15
+7
+Software & technology
+19
+13
+Training
+8
+-
+160
+81
+2023
+2022
+£   
+£   
+Directors' remuneration
+648,029
+583,617
+Directors' pension contributions to money purchase schemes  
+26,933
+2,924
+The number of directors to whom retirement benefits were accruing was as follows: 
+Money purchase schemes
+3
+3
+Information regarding the highest paid director is as follows:
+2023
+2022
+£   
+£   
+Emoluments etc
+271,640
+260,554
+Pension contributions to money purchase schemes
+18,771
+1,321
+-24-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+5.
+OPERATING LOSS
+The operating loss is stated after charging/(crediting):
+2023
+2022
+£   
+£   
+Other operating leases
+18,801
+10,880
+Depreciation - owned assets
+=== page 27 ===
+810,889
+564,831
+Loss/(profit) on disposal of fixed assets
+18,675
+(885
+)
+Goodwill amortisation
+1,585,130
+452,868
+Patents and licences amortisation
+3,000
+3,000
+Development costs amortisation
+275
+3,437
+Auditors' remuneration
+98,200
+-
+Auditors' remuneration -parent
+19,700
+18,750
+Foreign exchange differences
+(5,242
+)
+24,863
+Auditors remuneration - non audit services  
+86,000
+40,000
+6.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+2023
+2022
+£   
+£   
+Bank interest
+3,184
+27
+Bank loan interest
+5
+(346
+)
+Loan
+1,576,899
+690,620
+Hire purchase
+426
+533
+1,580,514
+690,834
+7.
+TAXATION
+Analysis of the tax credit
+The tax credit on the loss for the year was as follows: 
+2023
+2022
+£   
+£   
+Current tax:
+UK corporation tax
+(431,594
+)
+586
+Deferred tax
+(3,379
+)
+(19,963
+)
+Tax on loss
+(434,973
+)
+=== page 28 ===
+(19,377
+)
+-25-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+7.
+TAXATION - continued
+Reconciliation of total tax credit included in profit and loss
+The tax assessed for the year is higher than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+2023
+2022
+£   
+£   
+Loss before tax
+(5,168,305
+)
+(3,953,370
+)
+Loss multiplied by the standard rate of corporation tax in the UK of 22.008 
+% (2022 - 19 %)  
+(1,137,441
+)
+(751,140
+)
+Effects of:
+Expenses not deductible for tax purposes
+619,505
+201,683
+Capital allowances in excess of depreciation
+(165,597
+)
+(191,717
+)
+Utilisation of tax losses
+(77,292
+)
+-
+Research & Development net adjustments  
+(431,594
+)
+150,866
+Deferred tax asset not recognised  
+757,446
+570,931
+Total tax credit
+(434,973
+)
+(19,377
+)
+8.
+INDIVIDUAL INCOME STATEMENT
+As permitted by Section 408 of the Companies Act 2006, the Income Statement of the parent company is not 
+presented as part of these financial statements. 
+9.
+INTANGIBLE FIXED ASSETS
+Group
+Patents
+and
+Development
+Goodwill
+licences
+costs
+Totals
+£   
+£   
+£   
+£   
+=== page 29 ===
+COST
+At 1 October 2022
+7,795,959
+15,001
+120,499
+7,931,459
+Additions
+546,004
+-
+-
+546,004
+At 30 September 2023
+8,341,963
+15,001
+120,499
+8,477,463
+AMORTISATION
+At 1 October 2022
+452,868
+4,250
+120,202
+577,320
+Amortisation for year 
+1,585,130
+3,000
+275
+1,588,405
+At 30 September 2023
+2,037,998
+7,250
+120,477
+2,165,725
+NET BOOK VALUE
+At 30 September 2023
+6,303,965
+7,751
+22
+6,311,738
+At 30 September 2022
+7,343,091
+10,751
+297
+7,354,139
+-26-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+9.
+INTANGIBLE FIXED ASSETS - continued
+Group
+Goodwill of £559,253 was acquired on the purchase of Encompass Consultancy Limited.  The difference of 
+£13,249 was the reduction in the acquisition costs of Wisper Broadband Limited provided for in the previous year 
+which was not needed.
+Company
+Patents
+and
+Development
+licences
+costs
+Totals
+£   
+£   
+£   
+COST
+At 1 October 2022
+and 30 September 2023
+15,000
+120,499
+135,499
+=== page 30 ===
+AMORTISATION
+At 1 October 2022
+4,250
+120,202
+124,452
+Amortisation for year 
+3,000
+275
+3,275
+At 30 September 2023
+7,250
+120,477
+127,727
+NET BOOK VALUE
+At 30 September 2023
+7,750
+22
+7,772
+At 30 September 2022
+10,750
+297
+11,047
+-27-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+10.
+TANGIBLE FIXED ASSETS
+Group
+Improvements
+Freehold
+to
+Plant and
+property
+property
+machinery
+£   
+£   
+£   
+COST
+At 1 October 2022
+68,065
+57,404
+3,062,846
+Additions
+-
+338,972
+962,079
+Disposals
+-
+-
+(85,500
+)
+At 30 September 2023
+68,065
+396,376
+3,939,425
+DEPRECIATION
+At 1 October 2022
+-
+29,672
+1,468,454
+Charge for year 
+-
+60,352
+585,570
+Eliminated on disposal
+-
+-
+=== page 31 ===
+(31,825
+)
+At 30 September 2023
+-
+90,024
+2,022,199
+NET BOOK VALUE
+At 30 September 2023
+68,065
+306,352
+1,917,226
+At 30 September 2022
+68,065
+27,732
+1,594,392
+Fixtures
+and
+Motor
+Computer
+fittings
+vehicles
+equipment
+Totals
+£   
+£   
+£   
+£   
+COST
+At 1 October 2022
+303,452
+308,118
+307,193
+4,107,078
+Additions
+48,393
+219,723
+189,585
+1,758,752
+Disposals
+-
+-
+-
+(85,500
+)
+At 30 September 2023
+351,845
+527,841
+496,778
+5,780,330
+DEPRECIATION
+At 1 October 2022
+58,989
+106,777
+112,225
+1,776,117
+Charge for year 
+22,041
+74,809
+68,117
+810,889
+Eliminated on disposal
+-
+-
+-
+(31,825
+)
+At 30 September 2023
+81,030
+181,586
+180,342
+=== page 32 ===
+2,555,181
+NET BOOK VALUE
+At 30 September 2023
+270,815
+346,255
+316,436
+3,225,149
+At 30 September 2022
+244,463
+201,341
+194,968
+2,330,961
+-28-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+10.
+TANGIBLE FIXED ASSETS - continued
+Company
+Improvements
+Fixtures
+to
+Plant and
+and
+property
+machinery
+fittings
+£   
+£   
+£   
+COST
+At 1 October 2022
+57,404
+2,156,519
+297,038
+Additions
+338,972
+579,792
+48,393
+At 30 September 2023
+396,376
+2,736,311
+345,431
+DEPRECIATION
+At 1 October 2022
+29,672
+1,324,221
+58,560
+Charge for year 
+60,352
+374,037
+20,849
+At 30 September 2023
+90,024
+1,698,258
+79,409
+NET BOOK VALUE
+At 30 September 2023
+306,352
+1,038,053
+266,022
+At 30 September 2022
+27,732
+832,298
+238,478
+Motor
+Computer
+vehicles
+equipment
+=== page 33 ===
+Totals
+£   
+£   
+£   
+COST
+At 1 October 2022
+206,605
+307,193
+3,024,759
+Additions
+-
+189,006
+1,156,163
+At 30 September 2023
+206,605
+496,199
+4,180,922
+DEPRECIATION
+At 1 October 2022
+102,506
+112,225
+1,627,184
+Charge for year 
+26,025
+67,979
+549,242
+At 30 September 2023
+128,531
+180,204
+2,176,426
+NET BOOK VALUE
+At 30 September 2023
+78,074
+315,995
+2,004,496
+At 30 September 2022
+104,099
+194,968
+1,397,575
+Assets held under finance leases and hire purchase included in the above have a net book value of £74,396 (2022 
+£139,617)
+-29-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+11.
+FIXED ASSET INVESTMENTS
+Group
+Unlisted
+investments
+£   
+COST
+At 1 October 2022
+4,001
+Disposals
+(4,001
+)
+At 30 September 2023
+-
+NET BOOK VALUE
+At 30 September 2023
+-
+At 30 September 2022
+4,001
+Company
+Shares in
+group
+undertakings
+£   
+=== page 34 ===
+COST
+At 1 October 2022
+2
+Additions
+2
+At 30 September 2023
+4
+NET BOOK VALUE
+At 30 September 2023
+4
+At 30 September 2022
+2
+The group or the company's investments at the Balance Sheet date in the share capital of companies include the 
+following: 
+Subsidiaries
+Connexin Networks Limited 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: Internet Service Proidver 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+Connexin (U.K.) Limited 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: IoT Servcies Provider 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+-30-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+11.
+FIXED ASSET INVESTMENTS - continued
+Connexin Digital Limited 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+Connexin Infrastructure Limited 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+Wisper Broadband Limited 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: Internet Service Provider 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+Pure Broadband Ltd 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: Internet Service Provider 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+=== page 35 ===
+-31-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+11.
+FIXED ASSET INVESTMENTS - continued
+Encompass Consultancy Limited 
+Registered office: 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN 
+Nature of business: Training Provider 
+%
+Class of shares:
+holding
+Ordinary
+100.00
+This company was acquired on 6th July 2023.  Details of the business combination are shown below:
+Book Value
+Fair Value 
+Adjustment
+Fair Value
+£
+£
+£
+Tangible Assets
+-   
+-   
+-   
+Intangible Assets
+-   
+-   
+-   
+Stocks
+-   
+-   
+-   
+Cash at Bank
+16,377
+-   
+16,377
+Debtors
+1,384,908
+(611,741
+)
+773,167
+Total Assets
+1,401,285
+(611,741
+)
+789,544
+Creditors: amounts falling due within one year
+1,499,121
+(376,179
+)
+1,122,941
+Creditors: amounts falling due over one year
+204,830
+-   
+204,830
+Fair value of net liabilities
+(302,666
+)
+(235,561
+)
+(538,227
+)
+Acquisition costs
+(21,025
+)
+(21,025
+)
+=== page 36 ===
+Goodwill
+323,691
+(235,561
+)
+559,252
+Total purchase consideration
+1
+Cash acquired on acquisition
+16,377
+Cash inflow on acquisition
+16,376
+Goodwill of £559,253 arising on acquisition has been estimated to have a useful life of 5 years and is written off in 
+the consolidated profit and loss account over that period.
+All the above subsidiaries are included in the consolidation.
+12.
+STOCKS
+Group
+Company
+2023
+2022
+2023
+2022
+£   
+£   
+£   
+£   
+Stocks
+239,302
+423,463
+21,369
+27,031
+-32-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+13.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+Group
+Company
+2023
+2022
+2023
+2022
+£   
+£   
+£   
+£   
+Trade debtors
+1,189,837
+685,814
+533,065
+492,423
+Other related parties
+1,507,440
+5,511,437
+241,742
+-
+Amounts owed by group undertakings
+-
+-
+10,257,791
+7,895,937
+Other debtors
+926,307
+275,693
+763,457
+113,337
+VAT
+81,975
+=== page 37 ===
+-
+438,601
+186,171
+Accrued income
+233,422
+14,783
+1,165
+14,783
+Prepayments
+1,254,104
+361,514
+791,049
+288,429
+5,193,085
+6,849,241
+13,026,870
+8,991,080
+14.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+Group
+Company
+2023
+2022
+2023
+2022
+£   
+£   
+£   
+£   
+Bank loans and overdrafts (see note 16) 
+37,931
+43,501
+10,000
+43,501
+Hire purchase contracts and finance leases 
+(see note 17) 
+22,744
+34,557
+20,434
+28,599
+Trade creditors
+2,854,180
+1,163,847
+1,224,285
+503,298
+Other related parties
+85,684
+87,313
+40,863
+-
+Amounts owed to group undertakings
+-
+-
+6,825,363
+-
+Tax
+16,816
+16,816
+248
+248
+Social security and other taxes 
+397,472
+142,453
+290,220
+142,211
+VAT
+-
+740,483
+-
+-
+=== page 38 ===
+Other creditors
+180,457
+144,729
+51,825
+85,998
+Directors' current accounts
+-
+627
+-
+627
+Deferred income
+6,373,122
+4,555,013
+4,857,516
+499,088
+Accrued expenses
+881,924
+340,904
+876,274
+283,160
+10,850,330
+7,270,243
+14,197,028
+1,586,730
+15.
+CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE 
+YEAR 
+Group
+Company
+2023
+2022
+2023
+2022
+£   
+£   
+£   
+£   
+Bank loans (see note 16) 
+191,238
+26,667
+16,667
+26,667
+Other loans (see note 16) 
+18,323,477
+16,751,863
+18,323,477
+16,751,863
+Hire purchase contracts and finance leases 
+(see note 17) 
+63,535
+86,279
+63,150
+83,584
+18,578,250
+16,864,809
+18,403,294
+16,862,114
+-33-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+16.
+LOANS
+An analysis of the maturity of loans is given below:
+Group
+Company
+2023
+2022
+2023
+=== page 39 ===
+2022
+£   
+£   
+£   
+£   
+Amounts falling due within one year or on 
+demand: 
+Bank loans
+37,931
+43,501
+10,000
+43,501
+Amounts falling due between one and two 
+years: 
+Bank loans - 1-2 years
+37,931
+10,000
+10,000
+10,000
+Amounts falling due between two and five 
+years: 
+Bank loans - 2-5 years
+153,307
+16,667
+6,667
+16,667
+Other loans - 2-5 years
+18,323,477
+16,751,863
+18,323,477
+16,751,863
+18,476,784
+16,768,530
+18,330,144
+16,768,530
+Bank loans relate to a Bounce Back Loan with an interest rate of 2.5% and repayable over the period until 2027, and 
+a CBILS loan which was interest free over the period of these accounts, this will increase to teh standard rate in 
+2024 and repayable over the period until 2030.
+The other loans are provided by a shareholder Connect IoT Bidco Limited.  Part of the loan has an interest rate of 
+9.75% and the other part has a rate of 8.75%.
+17.
+LEASING AGREEMENTS
+Minimum lease payments fall due as follows: 
+Group
+Hire purchase contracts 
+Finance leases  
+2023
+2022
+2023
+2022
+£   
+£   
+£   
+£   
+Net obligations repayable:
+Within one year
+22,744
+30,909
+-
+3,648
+Between one and five years
+63,535
+86,279
+-
+-
+86,279
+117,188
+-
+3,648
+Company
+=== page 40 ===
+Hire purchase contracts 
+2023
+2022
+£   
+£   
+Net obligations repayable:
+Within one year
+20,434
+28,599
+Between one and five years
+63,150
+83,584
+83,584
+112,183
+-34-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+17.
+LEASING AGREEMENTS - continued
+Group
+Non-cancellable operating 
+leases 
+2023
+2022
+£   
+£   
+Within one year
+176,547
+134,461
+Between one and five years
+373,543
+260,288
+550,090
+394,749
+18.
+SECURED DEBTS
+The following secured debts are included within creditors:
+Group
+Company
+2023
+2022
+2023
+2022
+£   
+£   
+£   
+£   
+Other loans
+18,323,477
+16,751,863
+18,323,477
+16,751,863
+Hire purchase contracts and finance leases
+86,279
+120,836
+83,584
+112,183
+18,409,756
+16,872,699
+18,407,061
+16,864,046
+Connect IoT Bidco Limited holds a fixed and floating charge over the assets and undertakings of the company.
+19.
+PROVISIONS FOR LIABILITIES
+Group
+2023
+2022
+£   
+=== page 41 ===
+£   
+Deferred tax
+22,790
+26,169
+Group
+Deferred
+tax
+£   
+Balance at 1 October 2022
+26,169
+Unused amounts reversed during year
+(3,379
+)
+Balance at 30 September 2023
+22,790
+There is a deferred tax asset of £3,382,196 resulting from accumulated losses, which has not been recognised in 
+these accounts.
+-35-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+20.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£   
+£   
+27,856,000
+Ordinary
+0.1p
+27,856
+27,856
+18,346,158
+A Preferred Shares
+0.1p
+18,346
+18,346
+4,074,662
+Deferred
+0.1p
+4,075
+4,075
+50,277
+50,277
+21.
+RESERVES
+Group
+Capital
+Retained
+Share
+redemption
+Other
+earnings
+premium
+reserve
+reserves
+Totals
+£   
+£   
+£   
+£   
+£   
+At 1 October 2022 
+(10,148,987
+=== page 42 ===
+)
+4,440,731
+1,852
+62,849
+(5,643,555
+)
+Deficit for the year 
+(4,733,332
+)
+(4,733,332
+)
+At 30 September 2023 
+(14,882,319
+)
+4,440,731
+1,852
+62,849
+(10,376,887
+)
+Company
+Capital
+Retained
+Share
+redemption
+Other
+earnings
+premium
+reserve
+reserves
+Totals
+£   
+£   
+£   
+£   
+£   
+At 1 October 2022 
+(
+12,367,294
+)
+4,440,731
+1,852
+62,849
+(
+7,861,862
+)
+Deficit for the year 
+(
+8,237,857
+)
+(
+8,237,857
+)
+At 30 September 2023 
+(
+20,605,151
+)
+4,440,731
+1,852
+62,849
+(16,099,719
+)
+22.
+RELATED PARTY DISCLOSURES
+Entities with control, joint control or significant influence over the entity 
+2023
+2022
+£   
+£   
+Interest charged from related party  
+1,572,341
+=== page 43 ===
+684,390
+Amount due to related party  
+18,323,477
+16,751,862
+-36-
+continued...
+Connexin Limited (Registered number: 05823408)
+Notes to the Consolidated Financial Statements - continued 
+for the year ended 30 September 2023
+22.
+RELATED PARTY DISCLOSURES - continued 
+Other related parties  
+2023
+2022
+£   
+£   
+Sales  
+14,843,353
+5,299,015
+Purchases  
+1,120,719
+160,469
+Amount due from related party  
+1,507,440
+5,511,437
+Amount due to related party  
+85,684
+87,313
+23.
+POST BALANCE SHEET EVENTS
+The group drew £5m of shareholder loans on 11 March 2024. It additionally drew another £5m on 11 April 2024 
+and £3.4m on 9 May 2024.
+Consideration of £379,909 was paid in the following year in relation to a subsidiary acquisition made in 2022.
+A debt for equity swap occurred between the parent and a subsidiary for the sum of £748,000.
+Connexin Limited, which was previously a minority shareholder in Connect Infraco Limited, in November 2023 
+acquired the remaining shares of Connect Infraco Limited. Connect Infraco Limited is the subsidiary which owns 
+and operates the fibre infrastructure across the Hull and East Riding geographies.
+24.
+ULTIMATE CONTROLLING PARTY
+In the opinion of the directors, there is no single controlling party.
+25.
+GUARANTEES AND SECURITIES
+Connexin Limited, the parent company of the group, has provided a statutory guarantee for all outstanding liabilities 
+to which the following companies are subject to as at 30 September 2023 to:
+  -  Connexin (U.K.) Limited
+  -  Connexin Digital Limited
+  -  Connexin Infrastructure Limited
+  -  Encompass Consultancy Limited
+  -  Wisper Broadband Limited
+The guarantee enables these companies to take an exemption from obtaining a signed statutory audit opinion under 
+section 479A of the Companies Act 2006.
+-37-

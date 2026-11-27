@@ -1,35 +1,107 @@
 {
- "03921568": {
+ "03307001": {
   "rank": 1,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
   "why": [
    "Squarely inside the investment case",
-   "High margin (40% EBITDA)",
-   "Sales up 20% last year",
-   "Cash of \u00a36.8m and net assets of \u00a327.1m"
+   "High margin (59% EBITDA)",
+   "Sales up 11% a year over 4 years",
+   "Cash of \u00a38.7m and net assets of \u00a37.0m"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR and checked against the filing: Turnover, EBITDA (\u00a322.9m) and operating profit match the filing exactly",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 28177376.0,
+    "margin": 0.4697085349608139,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 30248679.0,
+    "margin": 0.4390261802837737,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 34861054.0,
+    "margin": 0.4409024466099046,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 38943912.0,
+    "margin": 0.4527471200119803,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 22868874.0,
+  "interest_cover": null,
+  "revenue_mix": "Turnover note: recurring infrastructure services \u00a331.2m of \u00a338.9m (80%); the rest is other revenue (2024: 84%)",
+  "revenue_mix_source": "The Wireless Infrastructure Company Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "03921568": {
+  "rank": 2,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (42% EBITDA)",
+   "EBITDA of \u00a316.6m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 13% a year over 4 years"
   ],
   "checks": [
    "Bought by a private equity fund in 2021: unlikely to be sold for a few years",
    "Figures were read by OCR and checked against the filing: Turnover and operating profit match; operating profit is after \u00a30.85m exceptional costs, so EBITDA here (\u00a315.7m) is below the company's own \u00a316.7m",
    "Bought by Arcus Infrastructure Partners in early 2026, so unlikely to be sold again for several years",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
-  "ebitda": 15709277.0,
+  "history": [
+   {
+    "year": 2022,
+    "sales": 27408614.0,
+    "margin": 0.1803307529523382,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 25337487.0,
+    "margin": 0.209105741228402,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 33141077.0,
+    "margin": 0.1389681753553151,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 39805588.0,
+    "margin": 0.2161669612819185,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 16559277.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Strategic report: a higher share of recurring revenue after a major holiday-park programme finished; project works for customers alongside network access",
+  "revenue_mix_source": "Wifinity Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
  "13433533": {
-  "rank": 2,
+  "rank": 3,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
    "Squarely inside the investment case",
-   "High margin (31% EBITDA)",
-   "EBITDA of \u00a310.0m, in the \u00a32\u201315m range most mid-market buyers target",
+   "High margin (23% EBITDA)",
+   "EBITDA of \u00a37.6m, in the \u00a32\u201315m range most mid-market buyers target",
    "Sales up 65% a year over 3 years"
   ],
   "checks": [
@@ -43,13 +115,13 @@
    {
     "year": 2024,
     "sales": 11906487.0,
-    "margin": 0.17386891700297494,
+    "margin": 0.1738689170029749,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 21059192.0,
-    "margin": 0.15644019010795857,
+    "margin": 0.1564401901079585,
     "basis": "Operating profit"
    },
    {
@@ -59,180 +131,20 @@
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 9954432.0,
+  "ebitda": 7600201.447607675,
   "interest_cover": null,
   "revenue_mix": "Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
   "revenue_mix_source": "VEA accounts FY Feb 2026 (business review, principal risks); VEA Telecoms job adverts on maintenance contracts",
-  "capex_share": 0.00977135856940696
- },
- "05412813": {
-  "rank": 3,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash, net assets; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "High margin (51% EBITDA)",
-   "EBITDA of \u00a314.1m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 16% last year"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (\u00a314.8m) match",
-   "Part of the BUUK multi-utility group (which bought Persimmon's FibreNest for about \u00a3100m in 2025): buying it would be a carve-out",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 14127893.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03307001": {
-  "rank": 4,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "High margin (59% EBITDA)",
-   "Cash of \u00a38.7m and net assets of \u00a37.0m"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover, EBITDA (\u00a322.9m) and operating profit match the filing exactly",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 22868874.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02150618": {
-  "rank": 5,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "High margin (46% EBITDA)",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Net debt of \u00a3379.5m, 8.6x EBITDA: most of the price would go to lenders, not shareholders",
-   "Figures were read by OCR and checked against the filing: Revenue, operating profit before exceptional items and D&A (\u00a325.4m, cash flow) match",
-   "Macquarie is running a sale (2026) while lenders seek to recover about \u00a3395m of debt, around 9x EBITDA; a 2026 restructuring only runs to September 2027. Likely a distressed or lender-led deal",
-   "Deal status (Nov 2026): the Quickline backer is reported to be reconsidering a merger, which may delay the sale; a lender agreement allows a sale, asset sale or reorganisation",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 44061000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03912906": {
-  "rank": 6,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
-  "why": [
-   "High margin (50% EBITDA)",
-   "EBITDA of \u00a35.4m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Most sales repeat (read from the accounts)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Net debt of \u00a315.8m, 2.9x EBITDA: most of the price would go to lenders, not shareholders",
-   "Interest cover only 2.3x: check how much debt it already carries",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Its only contract (MoD PFI) ends in 2033, so the price check overstates value: a buyer would be paying for about seven years of cash, not a business with an exit value",
-   "Owned through BIIF Bidco, an infrastructure-fund vehicle: it is a single-contract PFI company and would trade as an infrastructure asset",
-   "One customer (the MoD), and the contract ends in 2033: the business is worth the remaining contract, not a going concern",
-   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
-  ],
-  "history": [],
-  "ebitda": 5404507.0,
-  "interest_cover": 2.337385168182635,
-  "revenue_mix": "A single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22 and ending in 2033: fully contracted, but only about seven years left.",
-  "revenue_mix_source": "Alert Communications accounts FY Mar 2026 (principal activity, turnover note)",
-  "capex_share": null
- },
- "02386327": {
-  "rank": 7,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a33.3m, in the \u00a32\u201315m range most mid-market buyers target",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation (\u00a32.2m) match",
-   "Part of National Grid plc: buying it would be a carve-out from a listed utility",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 3299000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "SC492820": {
-  "rank": 8,
-  "confidence": "Medium",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a34.3m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 46% last year",
-   "Cash of \u00a33.2m and net assets of \u00a35.5m"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Operating profit includes \u00a31.2m of R&D tax credit (RDEC) income; without it the operating margin is 10.7%, not 15.2%: price off the lower figure unless the credit recurs",
-   "Depends on Starlink and other satellite operators as suppliers; 22% of sales outside the UK",
-   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
-  ],
-  "history": [],
-  "ebitda": 4293641.0,
-  "interest_cover": 111.52025633268242,
-  "revenue_mix": "Equipment sales and installation alongside recurring connectivity subscriptions and managed support; the accounts say recurring service revenue grew. No split given. Resells Starlink, OneWeb and Amazon Leo; 12-month CalMac fleet contract.",
-  "revenue_mix_source": "Clarus accounts FY Dec 2025 (strategic report); ISPreview; Edinburgh Chamber",
-  "capex_share": null
- },
- "04186486": {
-  "rank": 9,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a36.2m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 22% last year",
-   "Cash of \u00a33.4m and net assets of \u00a340.3m"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
-   "Founder-owned (Mark Manton, Tavistock). Not the US Beacon Communications bought by Kelso and ARA in April 2026",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 6187997.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": 0.0097713585694069
  },
  "07667393": {
-  "rank": 10,
-  "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read",
+  "rank": 4,
+  "confidence": "High",
+  "confidence_reasons": "",
   "why": [
    "Squarely inside the investment case",
    "EBITDA of \u00a32.3m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 17% last year",
+   "Sales up 16% a year over 4 years",
    "Cash of \u00a31.8m and net assets of \u00a32.0m"
   ],
   "checks": [
@@ -243,40 +155,673 @@
   ],
   "history": [
    {
+    "year": 2023,
+    "sales": 11631850.0,
+    "margin": 0.0287912928725869,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 13107972.0,
+    "margin": 0.0446529028289044,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2025,
     "sales": 15518554.0,
-    "margin": 0.06336666418791338,
+    "margin": 0.0633666641879133,
     "basis": "Operating profit"
    },
    {
     "year": 2026,
     "sales": 18099102.0,
-    "margin": 0.11778722502365034,
+    "margin": 0.1177872250236503,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 2304777.0,
-  "interest_cover": 241.40448420337447,
+  "interest_cover": 241.4044842033745,
   "revenue_mix": "Accounts split sales: connectivity \u00a37.5m (41%), labour and support \u00a33.2m (18%), materials \u00a37.4m (41%). \u00a34.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
   "revenue_mix_source": "TNP accounts FY Mar 2026 (turnover note, creditors note, strategic report)",
-  "capex_share": 0.052830411144155105
+  "capex_share": 0.029020427844778
  },
- "07413288": {
-  "rank": 11,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing net assets; fewer than 3 years read; recurring revenue estimated",
+ "09228224": {
+  "rank": 5,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a312.9m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 12% a year over 4 years",
+   "Cash of \u00a318.9m and net assets of \u00a344.0m",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; D&A not found, so EBITDA is understated",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 56745940.0,
+    "margin": 0.0744908974985699,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 62173860.0,
+    "margin": 0.0587075661700914,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 68560160.0,
+    "margin": 0.039895618680003,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 80319834.0,
+    "margin": 0.1216536752304542,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 12938153.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: recurring revenue (seat licences and usage) 86% of total (2024: 83%); ARR \u00a370.8m; customer churn 2.8%",
+  "revenue_mix_source": "Redwood Technologies Group Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "05412813": {
+  "rank": 6,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; missing cash, net assets; recurring revenue estimated",
   "why": [
    "Squarely inside the investment case",
-   "Sales up 48% last year",
+   "EBITDA of \u00a314.1m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 18% a year over 4 years",
+   "A type of business that usually earns repeat revenue (estimated)"
+  ],
+  "checks": [
+   "Margin moved between -30% and -3% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover, operating loss and depreciation (\u00a314.8m) match",
+   "Part of the BUUK multi-utility group (which bought Persimmon's FibreNest for about \u00a3100m in 2025): buying it would be a carve-out",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 16958981.0,
+    "margin": -0.1541204038143565,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2023,
+    "sales": 20106888.0,
+    "margin": -0.1567023201203488,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 23900367.0,
+    "margin": -0.3030716222893146,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 27759695.0,
+    "margin": -0.0251217097306004,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 14127893.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null
+ },
+ "SC492820": {
+  "rank": 7,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; two years read",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a33.1m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 46% last year",
+   "Cash of \u00a33.2m and net assets of \u00a35.5m"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Operating profit includes \u00a31.2m of R&D tax credit (RDEC) income; without it the operating margin is 10.7%, not 15.2%: price off the lower figure unless the credit recurs",
+   "Depends on Starlink and other satellite operators as suppliers; 22% of sales outside the UK",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 18307834.0,
+    "margin": null,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2025,
+    "sales": 26680567.0,
+    "margin": 0.1518947479639394,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3070641.0,
+  "interest_cover": 111.46175637393767,
+  "revenue_mix": "Equipment sales and installation alongside recurring connectivity subscriptions and managed support; the accounts say recurring service revenue grew. No split given. Resells Starlink, OneWeb and Amazon Leo; 12-month CalMac fleet contract.",
+  "revenue_mix_source": "Clarus accounts FY Dec 2025 (strategic report); ISPreview; Edinburgh Chamber",
+  "capex_share": 0.0116990935784952
+ },
+ "07867043": {
+  "rank": 8,
+  "confidence": "Medium",
+  "confidence_reasons": "figures confirmed by the next filing; two years read; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a32.2m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 106% last year",
+   "Cash of \u00a32.2m and net assets of \u00a30.1m"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Sales up 106% in one year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 6696870.0,
+    "margin": -0.1045291307730327,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2025,
+    "sales": 13755104.0,
+    "margin": -0.0648510545612741,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2217584.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: managed IT, network and cloud services to SMEs and business-park tenants on long-term recurring contracts",
+  "revenue_mix_source": "Communicate Technology Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0278527156174173
+ },
+ "11480193": {
+  "rank": 9,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (16% EBITDA)",
+   "EBITDA of \u00a35.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 62% a year over 3 years"
+  ],
+  "checks": [
+   "Margin moved between 1% and 15% over the years read: find out what drives it",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Trade debtors went from \u00a31.5m to \u00a35.5m in a year while sales doubled, and Barclays registered new security over the company on 16 Oct 2026 (possibly invoice finance against those debtors): check how quickly customers pay, whether any of it is disputed, and what the Barclays facility is",
+   "The accounts name the risk of over-reliance on a small number of key customers; trade debtors rose from \u00a31.5m to \u00a35.5m",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 12607527.0,
+    "margin": 0.0103306540608638,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 21287366.0,
+    "margin": 0.1525982594558669,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 33104076.0,
+    "margin": 0.1414752068597232,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 5411058.0,
+  "interest_cover": 39.49574970484061,
+  "revenue_mix": "Fibre build and installation services; sales up 56% to \u00a333.1m. Work is priced under fixed framework contracts, so it is repeat work but project by project.",
+  "revenue_mix_source": "Rapid Response Telecoms accounts FY Jul 2025 (strategic report)",
+  "capex_share": 0.070732269151538
+ },
+ "03912906": {
+  "rank": 10,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "High margin (50% EBITDA)",
+   "EBITDA of \u00a35.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Net debt of \u00a315.8m, 2.9x EBITDA: most of the price would go to lenders, not shareholders",
+   "Interest cover only 2.0x: check how much debt it already carries",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Its only contract (MoD PFI) ends in 2033, so the price check overstates value: a buyer would be paying for about seven years of cash, not a business with an exit value",
+   "Owned through BIIF Bidco, an infrastructure-fund vehicle: it is a single-contract PFI company and would trade as an infrastructure asset",
+   "One customer (the MoD), and the contract ends in 2033: the business is worth the remaining contract, not a going concern",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 10735493.0,
+    "margin": 0.2414263602053487,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 10607981.0,
+    "margin": 0.3345660215643297,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 10761040.0,
+    "margin": 0.3198040338108584,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 5404507.0,
+  "interest_cover": 1.9762954166046935,
+  "revenue_mix": "A single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22 and ending in 2033: fully contracted, but only about seven years left.",
+  "revenue_mix_source": "Alert Communications accounts FY Mar 2026 (principal activity, turnover note)",
+  "capex_share": null
+ },
+ "10902222": {
+  "rank": 11,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "High margin (33% EBITDA)",
+   "EBITDA of \u00a34.5m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 19% last year",
+   "Cash of \u00a37.2m and net assets of \u00a318.4m"
+  ],
+  "checks": [
+   "Margin moved between 18% and 31% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation match; \u00a30.1m goodwill amortisation not added",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 11363501.0,
+    "margin": 0.2453074101018691,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 11419552.0,
+    "margin": 0.3084895974903394,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 13560131.0,
+    "margin": 0.1827135740797784,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 4501268.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: subsidiary MRTC manufactures and rents out radio equipment (rental repeats; no split given)",
+  "revenue_mix_source": "The Badger Group Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "07800863": {
+  "rank": 12,
+  "confidence": "High",
+  "confidence_reasons": "figures confirmed by the next filing; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (14% EBITDA)",
+   "EBITDA of \u00a33.0m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Employee-owned: a sale needs the trustees to agree and is rare",
+   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Employee-owned since 2023: rarely for sale; check the trust's plans",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 17881988.0,
+    "margin": 0.1491399054735972,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 19934790.0,
+    "margin": 0.1076311313036154,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 21476205.0,
+    "margin": 0.1365115484788862,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3007290.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": 0.0056075979919011
+ },
+ "05556360": {
+  "rank": 13,
+  "confidence": "High",
+  "confidence_reasons": "only adjacent to the thesis",
+  "why": [
+   "High margin (21% EBITDA)",
+   "EBITDA of \u00a32.9m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 30% last year",
+   "Cash of \u00a32.0m and net assets of \u00a37.6m"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Utility construction for electricity and telecoms: find the split between power, telecoms and plant hire",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 11519523.0,
+    "margin": 0.2352068744513119,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 10406993.0,
+    "margin": 0.1859335352680644,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 13528101.0,
+    "margin": 0.1893048403467715,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2875919.0,
+  "interest_cover": 152.3187414500684,
+  "revenue_mix": "Turnover note: groundworks \u00a311.8m of \u00a313.5m (project work); machine hire \u00a31.6m",
+  "revenue_mix_source": "Taylor Plant Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.1080302382489293
+ },
+ "04186486": {
+  "rank": 14,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (19% EBITDA)",
+   "EBITDA of \u00a36.2m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 22% last year"
+  ],
+  "checks": [
+   "Margin moved between 12% and 24% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
+   "Founder-owned (Tavistock). Not the US Beacon Communications bought by Kelso and ARA in April 2026",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 27537660.0,
+    "margin": 0.1236812060283989,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 32732807.0,
+    "margin": 0.2442985717662405,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 26068678.0,
+    "margin": 0.1934857993182469,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 31765539.0,
+    "margin": 0.1841149932950925,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 6187997.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null
+ },
+ "NI612801": {
+  "rank": 15,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
+  "why": [
+   "High margin (13% EBITDA)",
+   "EBITDA of \u00a33.6m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 120% last year",
+   "Cash of \u00a32.9m and net assets of \u00a35.9m"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Sales up 120% in one year: check how much came from acquisitions or one-off contracts",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 12683287.0,
+    "margin": 0.1876961390213751,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 27892075.0,
+    "margin": 0.1240664238856377,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3607125.0,
+  "interest_cover": null,
+  "revenue_mix": "Turnover note: provision of services; strategic report describes project-by-project work with price risk on projects",
+  "revenue_mix_source": "Ocu Nettworx Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0112041145170017
+ },
+ "03752620": {
+  "rank": 16,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a32.7m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 26% a year over 4 years",
+   "A type of business that usually earns repeat revenue (estimated)"
+  ],
+  "checks": [
+   "Employee-owned: a sale needs the trustees to agree and is rare",
+   "Interest cover only 2.6x: check how much debt it already carries",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 7692328.0,
+    "margin": 0.1994332534962107,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 10087310.0,
+    "margin": 0.218860132185885,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 13359591.0,
+    "margin": 0.1537053791541971,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 15448141.0,
+    "margin": 0.1338214093203836,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2727403.0,
+  "interest_cover": 2.5624209040213293,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": 0.0039556732331689
+ },
+ "03592271": {
+  "rank": 17,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a32.1m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 26% a year over 4 years"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Margin moved between 8% and 26% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; profit before tax misread and corrected",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 5343176.0,
+    "margin": 0.1245085320041862,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 6510837.0,
+    "margin": 0.0827360598952177,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 8270754.0,
+    "margin": 0.1270608459639834,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 10647182.0,
+    "margin": 0.2641445407808376,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2109980.476026248,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: fixed and mobile telecoms services billed as line rental and call charges",
+  "revenue_mix_source": "Telecommunications Management Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "NI624500": {
+  "rank": 18,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a33.9m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Confirm which Barclay group company holds the customer contracts",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 15534018.0,
+    "margin": 0.1408655506901047,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 17547732.0,
+    "margin": 0.1992038059391379,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3895937.0,
+  "interest_cover": null,
+  "revenue_mix": "The accounts describe it only as telecommunications sales, and sales fell last year. The wider Barclay group sells business mobile, landline and broadband contracts; this company's role in the group is not clear.",
+  "revenue_mix_source": "Barclay Digital Services accounts FY 2025 (directors' report); Irish News; Mobile News",
+  "capex_share": null
+ },
+ "07413288": {
+  "rank": 19,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; missing net assets; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "Sales up 78% a year over 4 years",
    "A type of business that usually earns repeat revenue (estimated)"
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
+   "Margin moved between -322% and -19% over the years read: find out what drives it",
    "Figures were read by OCR and checked against the filing: Revenue, operating loss, depreciation and amortisation match",
    "Loss-making before tax (\u00a3118.5m loss in 2024) and talked about at around \u00a32bn of value, far above this screen's size range: a platform for large infrastructure funds, not a mid-market buyout",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
-  "history": [],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 20003000.0,
+    "margin": -2.520321951707244,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2023,
+    "sales": 41734000.0,
+    "margin": -3.224301528729573,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2024,
+    "sales": 76011000.0,
+    "margin": -0.9343910749759904,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 112453000.0,
+    "margin": -0.1864156580971606,
+    "basis": "Operating profit"
+   }
+  ],
   "ebitda": 27179000.0,
   "interest_cover": null,
   "revenue_mix": null,
@@ -284,18 +829,20 @@
   "capex_share": null
  },
  "05208041": {
-  "rank": 12,
-  "confidence": "Low",
-  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; converted from USD at 1.32 per \u00a3",
+  "rank": 20,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; converted from USD at 1.32 per \u00a3",
   "why": [
    "Squarely inside the investment case",
    "EBITDA of \u00a34.8m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible"
+   "Founder-owned, so a direct approach is possible",
+   "Most sales repeat (read from the accounts)"
   ],
   "checks": [
    "Net debt of \u00a314.9m, 3.1x EBITDA: most of the price would go to lenders, not shareholders",
    "A further \u00a329.4m is owed to group companies: find out whether it is debt",
    "Interest cover only 2.3x: check how much debt it already carries",
+   "Margin moved between 2% and 14% over the years read: find out what drives it",
    "Figures were read from the text of the accounts: check them against the filing",
    "Accounts are in US dollars: figures are converted to pounds at 1.32 to rank it; confirm the rate and the latest year when the next accounts are filed",
    "New low-orbit operators (Starlink and others) are pushing airtime prices down; the company has launched its own LEO platform in response",
@@ -303,15 +850,27 @@
   ],
   "history": [
    {
+    "year": 2021,
+    "sales": 22992117.5424,
+    "margin": 0.0735220483142827,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2022,
+    "sales": 25796767.1368,
+    "margin": 0.0559207354762727,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2023,
     "sales": 26319386.8904,
-    "margin": 0.02495311017444521,
+    "margin": 0.0249531101744452,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
     "sales": 27504819.520000003,
-    "margin": 0.13762438989456055,
+    "margin": 0.1376243898945605,
     "basis": "Operating profit"
    }
   ],
@@ -321,358 +880,176 @@
   "revenue_mix_source": "Satcom Global accounts FY Jun 2024 (turnover note, strategic report)",
   "capex_share": null
  },
- "10902222": {
-  "rank": 13,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "High margin (33% EBITDA)",
-   "EBITDA of \u00a34.5m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 19% last year",
-   "Cash of \u00a37.2m and net assets of \u00a318.4m"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation match; \u00a30.1m goodwill amortisation not added",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 4501268.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02853596": {
-  "rank": 14,
+ "10021562": {
+  "rank": 21,
   "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
-   "Squarely inside the investment case"
+   "High margin (14% EBITDA)",
+   "EBITDA of \u00a33.5m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 36% last year"
   ],
   "checks": [
-   "Employee-owned: a sale needs the trustees to agree and is rare",
-   "Netomnia, a customer, is being bought by nexfibre: check how much of sales it is",
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
     "year": 2024,
-    "sales": 74397230.0,
-    "margin": 0.163019980717024,
-    "basis": "Operating profit"
+    "sales": 18191161.0,
+    "margin": null,
+    "basis": "Profit before tax"
    },
    {
     "year": 2025,
-    "sales": 75597498.0,
-    "margin": 0.23438915928143547,
+    "sales": 24753097.0,
+    "margin": 0.1394859802795585,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 18109918.0,
-  "interest_cover": 264.5886006958443,
-  "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at \u00a375.6m. No split between ongoing maintenance and one-off build work.",
-  "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
-  "capex_share": 0.003199788437442731
+  "ebitda": 3502542.0,
+  "interest_cover": 13.911839958095776,
+  "revenue_mix": "Strategic report: power distribution, civils, fibre connections and EV charging delivered as projects",
+  "revenue_mix_source": "Glenelly Infrastructure Solutions Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.004504248701624
  },
- "09228224": {
-  "rank": 15,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a39.8m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 17% last year",
-   "Cash of \u00a318.9m and net assets of \u00a344.0m",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; D&A not found, so EBITDA is understated",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 9771203.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03368473": {
-  "rank": 16,
-  "confidence": "Medium",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "Cash of \u00a38.3m and net assets of \u00a39.8m",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Sales fell 20% last year: find out why",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1784248.0,
-  "interest_cover": 40.78302034428795,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03228824": {
-  "rank": 17,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a32.7m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 2677414.0,
-  "interest_cover": 92.63570957095709,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02578478": {
-  "rank": 18,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "High margin (38% EBITDA)",
-   "EBITDA of \u00a311.5m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 41% last year"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Part of Southern Communications Group (SCG), which has Providence Equity Partners as an investor: it would be a carve-out from SCG",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 11496598.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "08709631": {
-  "rank": 19,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "High margin (26% EBITDA)",
-   "EBITDA of \u00a34.9m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 71% last year"
-  ],
-  "checks": [
-   "Owner not yet confirmed",
-   "Figures were read by OCR and checked against the filing: Figures match, but they cover a 15-month period",
-   "Latest accounts cover 15 months (Oct 2024 to Dec 2025), so sales of \u00a318.7m are about \u00a315m a year and the growth figure is overstated; it also bought Complete Technology Group, so results include an acquisition",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 4908675.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02557464": {
-  "rank": 20,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a36.0m, in the \u00a32\u201315m range most mid-market buyers target",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Impairment of \u00a32.5m added back with D&A from the EBITDA reconciliation; EBITDA \u00a36.0m (company adjusted \u00a37.1m adds back exceptionals)",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Owned by Apiary Capital since the 2019 merger with G3 Comms: seven years in, an exit is likely to be due",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 6007000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "06391276": {
-  "rank": 21,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Cash of \u00a34.9m and net assets of \u00a327.4m",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Sales fell 15% last year: find out why",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 3421827.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "07974624": {
+ "10779280": {
   "rank": 22,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "EBITDA of \u00a32.4m, in the \u00a32\u201315m range most mid-market buyers target",
    "Founder-owned, so a direct approach is possible",
    "A type of business that usually earns repeat revenue (estimated)"
   ],
   "checks": [
-   "Figures were read by OCR and checked against the filing: EBITDA matches the company's own figure (\u00a32.4m)",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 2407851.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03752620": {
-  "rank": 23,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a32.7m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 16% last year",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Employee-owned: a sale needs the trustees to agree and is rare",
    "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 2727403.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "08322856": {
-  "rank": 24,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a314.7m, in the \u00a32\u201315m range most mid-market buyers target",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Owner not yet confirmed",
-   "Figures were read by OCR and checked against the filing: Revenue, operating profit and D&A match; company's adjusted EBITDA is \u00a318.3m",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 14670000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03592271": {
-  "rank": 25,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "High margin (27% EBITDA)",
-   "EBITDA of \u00a32.8m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 29% last year"
-  ],
-  "checks": [
-   "Owner not yet confirmed",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match; profit before tax misread and corrected",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 2839758.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "06011062": {
-  "rank": 26,
-  "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a32.5m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Cash of \u00a313.2m and net assets of \u00a33.9m"
-  ],
-  "checks": [
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [
    {
     "year": 2023,
-    "sales": 17175614.0,
-    "margin": -0.006756032127876186,
+    "sales": 20304137.0,
+    "margin": 0.0588138269555608,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
-    "sales": 18385935.0,
-    "margin": 0.10794740653657266,
+    "sales": 19800299.0,
+    "margin": 0.0543577144971396,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 22289707.0,
+    "margin": 0.044081153691253,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 2473621.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.004889117686971046
- },
- "10779280": {
-  "rank": 27,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a32.4m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
   "ebitda": 2401226.0,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
+  "capex_share": 0.0013200222689642
+ },
+ "03193093": {
+  "rank": 23,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a36.0m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 15% a year over 4 years"
+  ],
+  "checks": [
+   "Interest cover only 2.7x: check how much debt it already carries",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 50577987.0,
+    "margin": 0.0337097243510304,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 61210594.0,
+    "margin": 0.0394430088360194,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 75871805.0,
+    "margin": 0.0267472350236033,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 76708577.0,
+    "margin": 0.0256232624416954,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 6005453.0,
+  "interest_cover": 2.706729352403458,
+  "revenue_mix": "Strategic report: secure medium to long-term contracts; revenue on long-term contracts by stage of completion",
+  "revenue_mix_source": "Ferns Surfacing Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.105679358406239
+ },
+ "05448638": {
+  "rank": 24,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a34.5m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 36909674.0,
+    "margin": 0.0995666339399258,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 36545288.0,
+    "margin": 0.0609016407258851,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 43821416.0,
+    "margin": 0.0707586217661245,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 47365998.0,
+    "margin": 0.0840095884815939,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 4512212.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: a contracted recurring revenue base gives forward visibility; managed services paid in advance",
+  "revenue_mix_source": "4Net Technologies Ltd accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
  "03513467": {
-  "rank": 28,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
+  "rank": 25,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
    "EBITDA of \u00a33.7m, in the \u00a32\u201315m range most mid-market buyers target",
    "Cash of \u00a32.4m and net assets of \u00a38.1m",
@@ -684,182 +1061,1062 @@
    "No concentration disclosed; check how much is one-off installation",
    "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 18949788.0,
+    "margin": 0.1007393855804613,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 20186412.0,
+    "margin": 0.1141620908163372,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 20851436.0,
+    "margin": 0.1171279522427136,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 20867520.0,
+    "margin": 0.1189918591188603,
+    "basis": "Operating profit"
+   }
+  ],
   "ebitda": 3659469.0,
   "interest_cover": null,
   "revenue_mix": "Business phone systems and fixed lines (typically contracts and line rental), plus fibre cabling and installation through subsidiaries; no split given. Bought subsidiaries for \u00a31.6m last year.",
   "revenue_mix_source": "5G Communications accounts FY Sep 2025 (principal activities, cash flow)",
+  "capex_share": 0.0279697827053717
+ },
+ "12520403": {
+  "rank": 26,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a32.8m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 34% a year over 3 years",
+   "Founder-owned, so a direct approach is possible",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Sales up 34% a year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts and checked against the filing: Figures were read as \u00a3000s by mistake; corrected to pounds (operating profit \u00a32.5m) and D&A added",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 20904000.0,
+    "margin": null,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2024,
+    "sales": 27627000.0,
+    "margin": 0.0001447858978535,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 37385000.0,
+    "margin": 0.0678895011368195,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2839316.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: recurring revenue 90% of total (92% prior year), \u00a333.5m; low churn",
+  "revenue_mix_source": "Opus Tech Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
- "NI624500": {
-  "rank": 29,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
+ "09956206": {
+  "rank": 27,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
-   "EBITDA of \u00a33.9m, in the \u00a32\u201315m range most mid-market buyers target",
+   "High margin (43% EBITDA)"
+  ],
+  "checks": [
+   "Sales fell 23% last year: find out why",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Both family directors resigned on 26 Oct 2026 (Companies House), with no sale announced as of 25 Nov 2026: find out whether the business has been sold, is changing hands or is moving to new management",
+   "The accounts call concentration of revenue the largest internal risk: find out which customer and how much",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 34698289.0,
+    "margin": 0.3491086260766345,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 53880365.0,
+    "margin": 0.3460783534038791,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 41678822.0,
+    "margin": 0.4135057128054147,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 17939797.0,
+  "interest_cover": 1245.712396096856,
+  "revenue_mix": "Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
+  "revenue_mix_source": "Heneghan Holdings accounts FY Apr 2025 (strategic report, principal risks)",
+  "capex_share": 0.0336479288451478
+ },
+ "04031272": {
+  "rank": 28,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 141535640.0,
+    "margin": 0.1328124492177376,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 164887876.0,
+    "margin": 0.184835257384236,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 164034450.0,
+    "margin": 0.1392119155457893,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 178654455.0,
+    "margin": 0.1140399773406154,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 24752141.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: about 86% of revenue is recurring (2024: about 87%)",
+  "revenue_mix_source": "Onecom Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "07974624": {
+  "rank": 29,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "EBITDA of \u00a32.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible",
+   "A type of business that usually earns repeat revenue (estimated)"
+  ],
+  "checks": [
+   "Figures were read by OCR and checked against the filing: EBITDA matches the company's own figure (\u00a32.4m)",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 22046137.0,
+    "margin": 0.0441043253972339,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 21093828.0,
+    "margin": 0.0975630881222697,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 21695668.0,
+    "margin": 0.1005640849592646,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 23458630.0,
+    "margin": 0.0433825845754845,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2407851.0,
+  "interest_cover": 553.0956521739131,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": 0.0018836479245534
+ },
+ "02150618": {
+  "rank": 30,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (45% EBITDA)",
+   "A type of business that usually earns repeat revenue (estimated)"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Net debt of \u00a3409.5m, 9.4x EBITDA: most of the price would go to lenders, not shareholders",
+   "Margin moved between 7% and 19% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Revenue, operating profit before exceptional items and D&A (\u00a325.4m, cash flow) match",
+   "Macquarie is running a sale (2026) while lenders seek to recover \u00a3425m of bank debt (drawn at March 2025, per the accounts; interest has since been capitalised), about 10x EBITDA; a 2026 restructuring only runs to September 2027. Likely a distressed or lender-led deal",
+   "Deal status (Nov 2026): the Quickline backer is reported to be reconsidering a merger, which may delay the sale; a lender agreement allows a sale, asset sale or reorganisation",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 100741000.0,
+    "margin": 0.0707259209259388,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 101213000.0,
+    "margin": 0.1320087340559019,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 101889000.0,
+    "margin": 0.1024644466036569,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 96210000.0,
+    "margin": 0.1935869452239892,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 43538000.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null
+ },
+ "02386327": {
+  "rank": 31,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; missing cash",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a33.3m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Margin moved between 1% and 13% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover, operating profit and depreciation (\u00a32.2m) match",
+   "Part of National Grid plc: buying it would be a carve-out from a listed utility",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 22325000.0,
+    "margin": 0.0462262038073908,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 22797000.0,
+    "margin": 0.0114488748519542,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 24089000.0,
+    "margin": 0.0439619743451367,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 27592000.0,
+    "margin": 0.126884604233111,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3299000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: wholesale fibre, managed services and radio connectivity, with rental income from mobile operators; low churn",
+  "revenue_mix_source": "National Grid Telecoms Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "06797181": {
+  "rank": 32,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a33.3m, in the \u00a32\u201315m range most mid-market buyers target",
    "Founder-owned, so a direct approach is possible"
   ],
   "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Confirm which Barclay group company holds the customer contracts",
    "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
-  "ebitda": 3895937.0,
+  "history": [
+   {
+    "year": 2023,
+    "sales": 22664860.0,
+    "margin": 0.1891263391876234,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 23207247.0,
+    "margin": 0.154064590254932,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 23160860.0,
+    "margin": 0.134629802174876,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3289170.0,
   "interest_cover": null,
-  "revenue_mix": "The accounts describe it only as telecommunications sales, and sales fell last year. The wider Barclay group sells business mobile, landline and broadband contracts; this company's role in the group is not clear.",
-  "revenue_mix_source": "Barclay Digital Services accounts FY 2025 (directors' report); Irish News; Mobile News",
+  "revenue_mix": "Strategic report: most revenue is contractual and recurring",
+  "revenue_mix_source": "Bistech Group Plc accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
+ "08322856": {
+  "rank": 33,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a313.2m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 13% a year over 4 years",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Margin moved between -2% and 13% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Revenue, operating profit and D&A match; company's adjusted EBITDA is \u00a318.3m",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Redcentric sold its eight data centres (41MW) to Stellanor for about \u00a3123m in May 2026, so the latest accounts include a business that has gone: re-base sales and EBITDA on the managed-services business alone. The parent, Redcentric plc, is listed on AIM, so a purchase would mean a take-private",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 88814000.0,
+    "margin": 0.1286171099151034,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2023,
+    "sales": 135619000.0,
+    "margin": -0.0217078727906856,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 162567000.0,
+    "margin": 0.0296431625114568,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 126965000.0,
+    "margin": 0.0761705981963533,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 13168000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: recurring revenue 88.5% of managed-service revenue (FY24: 88.3%)",
+  "revenue_mix_source": "Redcentric Solutions Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "03188615": {
+  "rank": 34,
+  "confidence": "Medium",
+  "confidence_reasons": "figures confirmed by the next filing; missing net assets; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a310.9m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Margin moved between -96% and -19% over the years read: find out what drives it",
+   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 24258000.0,
+    "margin": -0.9633522961497238,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 27975000.0,
+    "margin": -0.1859159964253798,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 29096000.0,
+    "margin": -0.2556708825955457,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 29216000.0,
+    "margin": -0.2637595837897042,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 10901000.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null
+ },
+ "08709631": {
+  "rank": 35,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a34.9m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 71% last year"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Margin moved between -1% and 31% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Figures match, but they cover a 15-month period",
+   "Latest accounts cover 15 months (Oct 2024 to Dec 2025), so sales of \u00a318.7m are about \u00a315m a year and the growth figure is overstated; it also bought Complete Technology Group, so results include an acquisition",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 18563415.0,
+    "margin": 0.3058448566710381,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2024,
+    "sales": 10936516.0,
+    "margin": -0.0136611147462317,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 18724104.0,
+    "margin": 0.2159351924129453,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 4908675.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: larger projects for Tier 1 customers under long-term framework agreements; growing owned fibre assets",
+  "revenue_mix_source": "Network Planning Solutions Ltd. accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0756195990877756
+ },
+ "06391276": {
+  "rank": 36,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a34.9m and net assets of \u00a327.4m",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Margin moved between 16% and 35% over the years read: find out what drives it",
+   "Sales fell 15% last year: find out why",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 24409959.0,
+    "margin": 0.3319466861865683,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 31510900.0,
+    "margin": 0.3450174384102009,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 24452598.0,
+    "margin": 0.3176526273404568,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 20831918.0,
+    "margin": 0.1551805743474988,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3421827.0,
+  "interest_cover": null,
+  "revenue_mix": "Turnover note: one class, installation and maintenance of fibre-optic cables",
+  "revenue_mix_source": "Centercomms Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "04210561": {
+  "rank": 37,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 14% a year over 4 years",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Margin moved between -11% and 9% over the years read: find out what drives it",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 27172341.0,
+    "margin": 0.0132659530513031,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2023,
+    "sales": 32464197.0,
+    "margin": -0.1060986661706125,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 36442070.0,
+    "margin": 0.0861666200630205,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 39743266.0,
+    "margin": 0.0616855192524942,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 3364747.0,
+  "interest_cover": 872.139452152259,
+  "revenue_mix": "Strategic report: recurring revenue \u00a334.8m, 88% of \u00a339.7m turnover",
+  "revenue_mix_source": "I.P. Integration Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0027713877364784
+ },
+ "05954905": {
+  "rank": 38,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a36.4m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a315.3m and net assets of \u00a312.0m"
+  ],
+  "checks": [
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 77900000.0,
+    "margin": 0.0812836970474967,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 81716000.0,
+    "margin": 0.0310343139654412,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 84962000.0,
+    "margin": 0.0386408041241967,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 87543000.0,
+    "margin": 0.0601647190523514,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 6358000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: recurring revenue 70% of total (2024: 63%)",
+  "revenue_mix_source": "Natilik Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "12421328": {
+  "rank": 39,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "Sales up 91% a year over 3 years"
+  ],
+  "checks": [
+   "Sales up 91% a year: check how much came from acquisitions or one-off contracts",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 4403562.0,
+    "margin": 0.0999702059378294,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 15778372.0,
+    "margin": 0.12323831634848,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 15983404.0,
+    "margin": 0.071276556608342,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1339695.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: installation of wired networks plus hardware and professional services; some multi-year revenue streams",
+  "revenue_mix_source": "Nets International Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "03368473": {
+  "rank": 40,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; two years read; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "Cash of \u00a38.3m and net assets of \u00a39.8m",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Sales fell 20% last year: find out why",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 20382630.0,
+    "margin": 0.1765472365440573,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 16254696.0,
+    "margin": 0.0903212216334282,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1784248.0,
+  "interest_cover": 38.29274908711528,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": 0.0228945044833821
+ },
+ "04544886": {
+  "rank": 41,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a35.1m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 35% a year over 3 years"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "A company voluntary arrangement (CVA) with creditors ran from 2005 and was completed in January 2007 (Companies House insolvency record): historic and closed, but ask what caused it",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 21261622.0,
+    "margin": 0.058942774920935,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 23009860.0,
+    "margin": 0.1392044106309208,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 38625956.0,
+    "margin": 0.1198770847251003,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 5147258.0,
+  "interest_cover": 90.30281223184336,
+  "revenue_mix": "Strategic report: large projects won through long-term framework agreements",
+  "revenue_mix_source": "Radiocoms Systems Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0241307954741418
+ },
+ "10174559": {
+  "rank": 42,
+  "confidence": "High",
+  "confidence_reasons": "",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a32.3m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 56% a year over 3 years",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Sales up 56% a year: check how much came from acquisitions or one-off contracts",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 9909006.0,
+    "margin": -0.0061535940133652,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 21934414.0,
+    "margin": 0.0175341360840549,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 24124352.0,
+    "margin": 0.0822723031068357,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2346500.0,
+  "interest_cover": 5.688720102036429,
+  "revenue_mix": "Turnover note: installations \u00a321.7m and civils and remediation \u00a32.5m: all project work",
+  "revenue_mix_source": "Nano Fibre Uk Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0117694958743236
+ },
+ "09585068": {
+  "rank": 43,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a32.2m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 53% last year"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Sales up 53% in one year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 20880594.0,
+    "margin": 0.1382104359674825,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 32022932.0,
+    "margin": 0.0662493365691811,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2220943.0,
+  "interest_cover": 282.5273671594087,
+  "revenue_mix": "Strategic report: mission-critical services that generate recurring revenue; mix shifting towards hardware and cloud resale after acquisitions",
+  "revenue_mix_source": "Croft Communications Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0045135467682329
+ },
  "06968249": {
-  "rank": 30,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; EBITDA estimated; missing net assets; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "rank": 44,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; EBITDA estimated (no D&A found); missing net assets; only adjacent to the thesis",
   "why": [
    "EBITDA of \u00a32.8m, in the \u00a32\u201315m range most mid-market buyers target",
-   "A type of business that usually earns repeat revenue (estimated)"
+   "Most sales repeat (read from the accounts)"
   ],
   "checks": [
    "Owner not yet confirmed",
    "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
    "Figures were read by OCR and checked against the filing: Turnover and operating profit match; D&A is negligible (\u00a38k)",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 2762319.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "08043921": {
-  "rank": 31,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a36.7m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 6720195.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "10174559": {
-  "rank": 32,
-  "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a32.3m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
-    "year": 2025,
-    "sales": 21934414.0,
-    "margin": 0.017534136084054946,
+    "year": 2022,
+    "sales": 15443111.0,
+    "margin": 0.0577197172253699,
     "basis": "Operating profit"
    },
    {
-    "year": 2026,
-    "sales": 24124352.0,
-    "margin": 0.08227230310683578,
+    "year": 2023,
+    "sales": 17576627.0,
+    "margin": 0.1006287497595528,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 18963518.0,
+    "margin": 0.0525176288492462,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 18798211.0,
+    "margin": 0.1469458450062083,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 2346500.0,
-  "interest_cover": 5.688720102036429,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.0040786587759953094
+  "ebitda": 2762319.0,
+  "interest_cover": null,
+  "revenue_mix": "Turnover note: all turnover is fee income (cloud telephony subscriptions)",
+  "revenue_mix_source": "Natterbox Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
  },
- "11480193": {
-  "rank": 33,
-  "confidence": "Medium",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read",
+ "04085164": {
+  "rank": 45,
+  "confidence": "High",
+  "confidence_reasons": "only adjacent to the thesis",
   "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a35.4m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 56% last year",
+   "Sales up 18% a year over 4 years",
    "Founder-owned, so a direct approach is possible"
   ],
   "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Trade debtors went from \u00a31.5m to \u00a35.5m in a year while sales doubled: check how quickly customers pay and whether any of it is disputed",
-   "The accounts name the risk of over-reliance on a small number of key customers; trade debtors rose from \u00a31.5m to \u00a35.5m",
-   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
-  ],
-  "history": [],
-  "ebitda": 5411058.0,
-  "interest_cover": 39.777972676673976,
-  "revenue_mix": "Fibre build and installation services; sales up 56% to \u00a333.1m. Work is priced under fixed framework contracts, so it is repeat work but project by project.",
-  "revenue_mix_source": "Rapid Response Telecoms accounts FY Jul 2025 (strategic report)",
-  "capex_share": null
- },
- "04213760": {
-  "rank": 34,
-  "confidence": "Low",
-  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a37.7m, in the \u00a32\u201315m range most mid-market buyers target",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read from the text of the accounts: check them against the filing",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
+    "year": 2022,
+    "sales": 10992138.0,
+    "margin": 0.0243156517867588,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 13450778.0,
+    "margin": 0.0163801677494045,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 14422719.0,
+    "margin": 0.0264536804745346,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 18004724.0,
+    "margin": 0.0860319769411627,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1653446.0,
+  "interest_cover": 142.42203015814638,
+  "revenue_mix": "Strategic report: growing recurring service models; project work moved into a separate company (FLR Projects)",
+  "revenue_mix_source": "Flr Spectron Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0192274725426987
+ },
+ "04213760": {
+  "rank": 46,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a37.7m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Sales up 30% a year over 4 years"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Margin moved between -8% and 9% over the years read: find out what drives it",
+   "Sales up 30% a year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts: check them against the filing",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 38690000.0,
+    "margin": -0.0828896355647454,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 58000000.0,
+    "margin": -0.0677413793103448,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2024,
     "sales": 92375000.0,
-    "margin": 0.09215696887686062,
+    "margin": 0.0921569688768606,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
     "sales": 85284000.0,
-    "margin": 0.08340368650626143,
+    "margin": 0.0834036865062614,
     "basis": "Operating profit"
    }
   ],
   "ebitda": 7653000.0,
   "interest_cover": 11.148902821316614,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.007832653252661696
+  "revenue_mix": "Strategic report: contracted and usage-based recurring revenue; after the year end O2 Business said it would end its contracted volumes",
+  "revenue_mix_source": "Babble Cloud Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0078326532526616
  },
- "NI620995": {
-  "rank": 35,
-  "confidence": "Low",
-  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; recurring revenue estimated",
+ "02557464": {
+  "rank": 47,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a36.0m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR and checked against the filing: Impairment of \u00a32.5m added back with D&A from the EBITDA reconciliation; EBITDA \u00a36.0m (company adjusted \u00a37.1m adds back exceptionals)",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Owned by Apiary Capital since the 2019 merger with G3 Comms: seven years in, an exit is likely to be due",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 47016000.0,
+    "margin": 0.008911859792411,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 52940000.0,
+    "margin": 0.0611446921042689,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 52811000.0,
+    "margin": 0.082123042547954,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 50149000.0,
+    "margin": 0.0494127500049851,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 6007000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: cloud services replacing on-premise work with recurring revenue; no customer above 20% of revenue",
+  "revenue_mix_source": "Connect Managed Services (Uk) Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "06011062": {
+  "rank": 48,
+  "confidence": "High",
+  "confidence_reasons": "",
   "why": [
    "Squarely inside the investment case",
+   "EBITDA of \u00a32.5m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Cash of \u00a313.2m and net assets of \u00a33.9m"
+  ],
+  "checks": [
+   "Margin moved between -1% and 27% over the years read: find out what drives it",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 20193182.0,
+    "margin": 0.2707568326774849,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 17175614.0,
+    "margin": -0.0067560321278761,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 18385935.0,
+    "margin": 0.1079474065365726,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2473621.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: project-manages installation, repair and relocation of cabling for main contractors and councils",
+  "revenue_mix_source": "C.A. Telecom Uk Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0364016160977236
+ },
+ "NI620995": {
+  "rank": 49,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (14% EBITDA)",
    "EBITDA of \u00a35.6m, in the \u00a32\u201315m range most mid-market buyers target"
   ],
   "checks": [
    "Figures were read from the text of the accounts: check them against the filing",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
+    "year": 2023,
+    "sales": 64336583.0,
+    "margin": 0.0821795431690862,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2024,
     "sales": 42366827.0,
-    "margin": 0.09999743431340752,
+    "margin": 0.0999974343134075,
     "basis": "Operating profit"
    },
    {
@@ -871,351 +2128,89 @@
   ],
   "ebitda": 5642685.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.009559851241720879
+  "revenue_mix": "Principal activity: delivery, supply and installation of civil engineering and telecoms projects",
+  "revenue_mix_source": "Gcu (Uk) Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0096366263598607
  },
- "09585068": {
-  "rank": 36,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "02853596": {
+  "rank": 50,
+  "confidence": "High",
+  "confidence_reasons": "",
   "why": [
-   "EBITDA of \u00a32.2m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 53% last year",
-   "A type of business that usually earns repeat revenue (estimated)"
+   "Squarely inside the investment case",
+   "High margin (24% EBITDA)"
   ],
   "checks": [
-   "Owner not yet confirmed",
-   "Sales up 53% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 2220943.0,
-  "interest_cover": 284.194832867226,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "09956206": {
-  "rank": 37,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis",
-  "why": [
-   "High margin (43% EBITDA)"
-  ],
-  "checks": [
-   "Sales fell 23% last year: find out why",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Both Heneghan family directors resigned on 26 Oct 2026 (Companies House): find out whether the business has been sold or is changing hands",
-   "The accounts call concentration of revenue the largest internal risk: find out which customer and how much",
+   "Employee-owned: a sale needs the trustees to agree and is rare",
+   "Margin moved between 11% and 23% over the years read: find out what drives it",
+   "Netomnia, a customer, is being bought by nexfibre: check how much of sales it is",
    "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
-  "ebitda": 17939797.0,
-  "interest_cover": null,
-  "revenue_mix": "Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
-  "revenue_mix_source": "Heneghan Holdings accounts FY Apr 2025 (strategic report, principal risks)",
-  "capex_share": null
+  "history": [
+   {
+    "year": 2023,
+    "sales": 104273509.0,
+    "margin": 0.1119284668937342,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 74397230.0,
+    "margin": 0.163019980717024,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 75597498.0,
+    "margin": 0.2343891592814354,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 18109918.0,
+  "interest_cover": 264.5886006958443,
+  "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at \u00a375.6m. No split between ongoing maintenance and one-off build work.",
+  "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
+  "capex_share": 0.0067532044652468
  },
- "12421328": {
-  "rank": 38,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1339695.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02797895": {
-  "rank": 39,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a35.5m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 5489000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "06797181": {
-  "rank": 40,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a33.3m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 3289170.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02763306": {
-  "rank": 41,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "EBITDA of \u00a34.1m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales fell 11% last year: find out why",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 4116610.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "04544886": {
-  "rank": 42,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a35.1m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 68% last year"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales up 68% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 5147258.0,
-  "interest_cover": 88.30415789063109,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "05240202": {
-  "rank": 43,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1702000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "06472696": {
-  "rank": 44,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a35.1m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales fell 18% last year: find out why",
-   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match, but the accounts cover 9 months (year-end changed to March); D&A not found",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Latest accounts cover 9 months to March 2025 (year-end changed), so sales and profit are understated against a full year",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 5057000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "05448638": {
-  "rank": 45,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a34.5m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 4512212.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "04085164": {
-  "rank": 46,
+ "08043921": {
+  "rank": 51,
   "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis; recurring revenue estimated",
   "why": [
-   "Sales up 25% last year",
-   "Founder-owned, so a direct approach is possible"
+   "EBITDA of \u00a36.7m, in the \u00a32\u201315m range most mid-market buyers target"
   ],
   "checks": [
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [
    {
+    "year": 2022,
+    "sales": 37707153.0,
+    "margin": 0.2489694461949964,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 39721464.0,
+    "margin": 0.2561729597881891,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2024,
-    "sales": 14422719.0,
-    "margin": 0.026453680474534655,
+    "sales": 39634934.0,
+    "margin": 0.2028920749558962,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
-    "sales": 18004724.0,
-    "margin": 0.08603197694116277,
+    "sales": 36580431.0,
+    "margin": 0.1678508380614761,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 1653446.0,
-  "interest_cover": 142.42203015814638,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.004368075844983795
- },
- "NI612801": {
-  "rank": 47,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a33.6m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 120% last year",
-   "Cash of \u00a32.9m and net assets of \u00a35.9m"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales up 120% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 3607125.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "04031272": {
-  "rank": 48,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 24752141.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "08235914": {
-  "rank": 49,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a33.5m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 39% last year",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Owner not yet confirmed",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 3496258.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "05954905": {
-  "rank": 50,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a36.4m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Cash of \u00a315.3m and net assets of \u00a312.0m"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 6358000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "04632756": {
-  "rank": 51,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "Founder-owned, so a direct approach is possible",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1520142.0,
+  "ebitda": 6720195.0,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
@@ -1223,144 +2218,192 @@
  },
  "05217343": {
   "rank": 52,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
-   "Sales up 22% last year",
+   "Sales up 43% a year over 4 years",
    "Cash of \u00a36.4m and net assets of \u00a34.6m"
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
+   "Margin moved between -12% and 6% over the years read: find out what drives it",
+   "Sales up 43% a year: check how much came from acquisitions or one-off contracts",
    "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1967967.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "04210561": {
-  "rank": 53,
-  "confidence": "Low",
-  "confidence_reasons": "figures read from the accounts text; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a33.4m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read from the text of the accounts: check them against the filing",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
+    "year": 2022,
+    "sales": 10313933.0,
+    "margin": -0.1227970939892667,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 21787453.0,
+    "margin": 0.0039381381568556,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2024,
-    "sales": 36442070.0,
-    "margin": 0.08616662006302057,
+    "sales": 25037550.0,
+    "margin": 0.0445405001687465,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
-    "sales": 39743266.0,
-    "margin": 0.06168551925249425,
+    "sales": 30431973.0,
+    "margin": 0.0630501019437681,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 3364747.0,
-  "interest_cover": 872.139452152259,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.002771387736478426
- },
- "03101568": {
-  "rank": 54,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a37.1m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover, operating profit and D&A match; EBITDA matches the company's \u00a37.1m",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 7051000.0,
+  "ebitda": 1967967.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Strategic report: solution design, project installation and service for smart buildings and networks",
+  "revenue_mix_source": "North Pb Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
- "10021562": {
-  "rank": 55,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "03101568": {
+  "rank": 53,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
-   "EBITDA of \u00a33.5m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 36% last year"
+   "EBITDA of \u00a36.7m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Margin moved between 0% and 21% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover, operating profit and D&A match; EBITDA matches the company's \u00a37.1m",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 100458000.0,
+    "margin": 0.2054291345636982,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 109986000.0,
+    "margin": 0.0037277471678213,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 120661000.0,
+    "margin": 0.0157134451065381,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 126668000.0,
+    "margin": 0.0246234250165787,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 6730000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: broadband and connectivity subscriptions to consumer, business and partner customers",
+  "revenue_mix_source": "Zen Internet Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "02763306": {
+  "rank": 54,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing",
+  "why": [
+   "Squarely inside the investment case",
+   "EBITDA of \u00a32.9m, in the \u00a32\u201315m range most mid-market buyers target"
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 3502542.0,
-  "interest_cover": 13.911839958095776,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02296733": {
-  "rank": 56,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing net assets; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a32.0m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Owner not yet confirmed",
+   "Sales fell 11% last year: find out why",
    "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
-  "ebitda": 2044387.0,
+  "history": [
+   {
+    "year": 2023,
+    "sales": 73115523.0,
+    "margin": 0.0810259129241269,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 67761995.0,
+    "margin": 0.0762395646704321,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 50952182.0,
+    "margin": 0.0426873377081279,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 45307587.0,
+    "margin": 0.0855434653803125,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2898066.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Strategic report: fibre upgrade works and national network maintenance under frameworks, plus project work",
+  "revenue_mix_source": "John Henry Group Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
- "12520403": {
-  "rank": 57,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "13567332": {
+  "rank": 55,
+  "confidence": "Medium",
+  "confidence_reasons": "figures confirmed by the next filing; missing net assets; only adjacent to the thesis",
   "why": [
-   "EBITDA of \u00a32.8m, in the \u00a32\u201315m range most mid-market buyers target",
-   "Sales up 35% last year",
-   "Founder-owned, so a direct approach is possible"
+   "High margin (22% EBITDA)",
+   "Sales up 17% last year",
+   "Most sales repeat (read from the accounts)"
   ],
   "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Figures were read as \u00a3000s by mistake; corrected to pounds (operating profit \u00a32.5m) and D&A added",
+   "Bought by a private equity fund in 2026: unlikely to be sold for a few years",
+   "Figures were read by OCR from scanned accounts: check every number against the filing",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Group holding company of SCG, which also owns X-On Health (ranked separately): a buyer would buy the group, so X-On and SCG are one opportunity, not two",
+   "Providence Equity took a significant stake in July 2026, so a sale in the next few years is unlikely",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
-  "ebitda": 2839316.0,
+  "history": [
+   {
+    "year": 2023,
+    "sales": 162149751.0,
+    "margin": -0.0876650128189219,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 143696937.0,
+    "margin": -0.0767070351680495,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 168064390.0,
+    "margin": -0.1251340036994154,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 36240001.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Strategic report: business voice, data, cloud and mobile with fixed recurring margin and low revenue churn",
+  "revenue_mix_source": "Saint Topco Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
  "02665837": {
-  "rank": 58,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "rank": 56,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
   "why": [
    "EBITDA of \u00a35.1m, in the \u00a32\u201315m range most mid-market buyers target"
   ],
@@ -1368,37 +2411,128 @@
    "Owner not yet confirmed",
    "Figures were read by OCR and checked against the filing: Operating profit misread (4,187 for 1,157); corrected from the P&L arithmetic. EBITDA \u00a35.1m including amortisation",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 90011000.0,
+    "margin": -0.0086656075368566,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 100903000.0,
+    "margin": -0.0171253580171055,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 97862000.0,
+    "margin": 0.0386769123868304,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 92229000.0,
+    "margin": 0.0125448611608062,
+    "basis": "Operating profit"
+   }
+  ],
   "ebitda": 5063000.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Strategic report: recurring revenue \u00a368.4m and project revenue \u00a323.8m (74% recurring)",
+  "revenue_mix_source": "Maintel Europe Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
- "04560277": {
-  "rank": 59,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing cash; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
+ "05240202": {
+  "rank": 57,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Sales up 27% a year over 4 years"
+  ],
   "checks": [
-   "Owner not yet confirmed",
+   "Probably owned by a private equity fund: check when it bought in",
+   "Margin moved between -8% and 12% over the years read: find out what drives it",
    "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 14302000.0,
+    "margin": -0.0786603272269612,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 24892000.0,
+    "margin": 0.0157078579463281,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 26514000.0,
+    "margin": 0.1152598627140378,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 29561000.0,
+    "margin": 0.0520618382328067,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1702000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: connectivity subscriptions grow with installed devices; hardware sales are a large and lumpier part",
+  "revenue_mix_source": "Ground Control Technologies Uk Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "03526932": {
+  "rank": 58,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Sales up 14% a year over 3 years"
+  ],
+  "checks": [
+   "Figures were read by OCR and checked against the filing: Turnover \u00a329,124,437, cost of sales and gross profit add up; operating profit \u00a31,078,609; cash \u00a3648,128 and net assets \u00a32,287,626 (group) match the text",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
-  "history": [],
-  "ebitda": 1382000.0,
+  "history": [
+   {
+    "year": 2023,
+    "sales": 22278504.0,
+    "margin": 0.0203992153153551,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 27482323.0,
+    "margin": 0.0373001947470015,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 29124437.0,
+    "margin": 0.0370345013021195,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1121727.0,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
   "capex_share": null
  },
  "02804354": {
-  "rank": 60,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; missing net assets; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "rank": 59,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; missing net assets; only adjacent to the thesis; recurring revenue estimated",
   "why": [
    "EBITDA of \u00a33.8m, in the \u00a32\u201315m range most mid-market buyers target"
   ],
@@ -1408,364 +2542,803 @@
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
-  "history": [],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 63591000.0,
+    "margin": -0.0389048764762309,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 69216000.0,
+    "margin": -0.0475323624595469,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 73258000.0,
+    "margin": -0.014947173004996,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 66370000.0,
+    "margin": -0.0049570589121591,
+    "basis": "Operating profit"
+   }
+  ],
   "ebitda": 3839000.0,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
   "capex_share": null
  },
- "07020016": {
-  "rank": 61,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1124277.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03193093": {
-  "rank": 62,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "EBITDA of \u00a36.0m, in the \u00a32\u201315m range most mid-market buyers target"
-  ],
-  "checks": [
-   "Interest cover only 2.9x: check how much debt it already carries",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 6005453.0,
-  "interest_cover": 2.860653683337878,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "SC211701": {
-  "rank": 63,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "Sales up 21% last year",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover matches; operating profit used is before \u00a30.9m non-recurring costs",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 470855.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02652955": {
-  "rank": 64,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Sales fell 24% last year: find out why",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 377399.0,
-  "interest_cover": 17.47689147552208,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "04380546": {
-  "rank": 65,
+ "04560277": {
+  "rank": 60,
   "confidence": "Medium",
-  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
+  "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
+  "why": [],
   "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales fell 29% last year: find out why",
-   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Owner not yet confirmed",
+   "Margin moved between 10% and 23% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
+    "year": 2022,
+    "sales": 12036000.0,
+    "margin": 0.2317215021601861,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 12262000.0,
+    "margin": 0.1725656499755341,
+    "basis": "Operating profit"
+   },
+   {
     "year": 2024,
-    "sales": 29380521.0,
-    "margin": 0.02227526870609272,
+    "sales": 12590000.0,
+    "margin": 0.1346306592533757,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
-    "sales": 20980894.0,
-    "margin": 0.02662956116169311,
+    "sales": 12218000.0,
+    "margin": 0.101162219675888,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 558712.0,
-  "interest_cover": 18.108838686675526,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.014348959581989213
- },
- "05238375": {
-  "rank": 66,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1236022.0,
+  "ebitda": 1382000.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03868503": {
-  "rank": 67,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "Cash of \u00a35.4m and net assets of \u00a39.3m",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 914325.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "01763970": {
-  "rank": 68,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1233380.0,
-  "interest_cover": 59.51788587696497,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "SC646446": {
-  "rank": 69,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1111441.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "03958887": {
-  "rank": 70,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales fell 36% last year: find out why",
-   "Figures were read by OCR and checked against the filing: EBITDA after restructuring matches the company figure ($0.4m)",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 312888.80000000005,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
+  "revenue_mix": "Paging and critical messaging billed in advance: deferred income \u00a33.2m",
+  "revenue_mix_source": "Pageone Communications Limited accounts, latest filing (read 26 Nov 2026)",
   "capex_share": null
  },
  "06521296": {
-  "rank": 71,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "rank": 61,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
+   "Sales up 27% a year over 3 years",
    "Founder-owned, so a direct approach is possible"
   ],
   "checks": [
    "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1131214.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02946493": {
-  "rank": 72,
-  "confidence": "Low",
-  "confidence_reasons": "figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
-  "checks": [
-   "Sales fell 21% last year: find out why",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 276198.0,
-  "interest_cover": 3.5115638951361148,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "05316540": {
-  "rank": 73,
-  "confidence": "Low",
-  "confidence_reasons": "numbers flagged",
-  "why": [
-   "Squarely inside the investment case"
-  ],
-  "checks": [
-   "Probably owned by a private equity fund: check when it bought in",
-   "Sales fell 20% last year: find out why",
-   "Figures were read by OCR and checked against the filing: EBITDA matches the company's own figure ($17.5m)",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 13228453.600000001,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "01938625": {
-  "rank": 74,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
-  "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 806000.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "14354114": {
-  "rank": 75,
-  "confidence": "Low",
-  "confidence_reasons": "numbers flagged",
-  "why": [
-   "Sales up 952% last year",
-   "Founder-owned, so a direct approach is possible",
-   "A type of business that usually earns repeat revenue (estimated)"
-  ],
-  "checks": [
-   "Sales up 952% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 628206.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "09180490": {
-  "rank": 76,
-  "confidence": "Medium",
-  "confidence_reasons": "EBITDA estimated; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
-  "checks": [
-   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [
    {
     "year": 2023,
-    "sales": 17003298.0,
-    "margin": 0.013457683327081605,
+    "sales": 40740955.0,
+    "margin": 0.0027925462228364,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
-    "sales": 19246654.0,
-    "margin": 0.021420502493576285,
+    "sales": 57296965.0,
+    "margin": 0.0209787377045189,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 65233379.0,
+    "margin": 0.0089829165525826,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 412273.0,
-  "interest_cover": 8.628749032001506,
+  "ebitda": 1131214.0,
+  "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.000595947742397198
+  "capex_share": null
  },
- "00714431": {
-  "rank": 77,
-  "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
-  "why": [],
+ "11641366": {
+  "rank": 62,
+  "confidence": "High",
+  "confidence_reasons": "figures confirmed by the next filing; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "Founder-owned, so a direct approach is possible",
+   "A type of business that usually earns repeat revenue (estimated)"
+  ],
   "checks": [
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Figures were read from the text of the accounts: check them against the filing",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
   "history": [
    {
     "year": 2024,
+    "sales": 21984399.0,
+    "margin": -0.067661071835532,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 22151482.0,
+    "margin": -0.0534827421479068,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2026,
+    "sales": 22378763.0,
+    "margin": -0.0531048565999827,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 445948.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null
+ },
+ "02797895": {
+  "rank": 63,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a35.5m, in the \u00a32\u201315m range most mid-market buyers target",
+   "Founder-owned, so a direct approach is possible",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 64261000.0,
+    "margin": 0.0237624686824045,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 48722000.0,
+    "margin": null,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2025,
+    "sales": 46018000.0,
+    "margin": 0.068277630492416,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 5489000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: 86% contracted recurring revenue; legacy small-business connectivity churns at 16% a year",
+  "revenue_mix_source": "Chess Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "07020016": {
+  "rank": 64,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 11558390.0,
+    "margin": 0.0644412413839643,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 12261150.0,
+    "margin": 0.0303700713228367,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 12133693.0,
+    "margin": 0.0588756448675601,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1124277.0,
+  "interest_cover": 3.7762865072023257,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": 0.0008344025371953
+ },
+ "02652955": {
+  "rank": 65,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Sales up 15% a year over 3 years"
+  ],
+  "checks": [
+   "Sales fell 24% last year: find out why",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 14757921.0,
+    "margin": 0.084661857181645,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 25602482.0,
+    "margin": 0.0065407721017048,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 19398232.0,
+    "margin": 0.0064017174348672,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 377399.0,
+  "interest_cover": 14.171174255391987,
+  "revenue_mix": "Strategic report: focus on high-margin recurring revenue streams; acquired a managed service provider with a strong recurring base",
+  "revenue_mix_source": "Bdr Voice & Data Solutions Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0054546846215569
+ },
+ "SC646446": {
+  "rank": 66,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Sales up 14% a year over 4 years"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 24962134.0,
+    "margin": -0.0505985986614766,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 36291351.0,
+    "margin": -0.0284711638318452,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 36911203.0,
+    "margin": -0.0014987861544366,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 36944202.0,
+    "margin": -0.0370268384738693,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1111441.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: contracts with corporate and public-sector customers on a UK-wide network, with renewal dates",
+  "revenue_mix_source": "Highlands Bidco Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "NI614374": {
+  "rank": 67,
+  "confidence": "High",
+  "confidence_reasons": "only adjacent to the thesis",
+  "why": [
+   "Sales up 19% a year over 3 years",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 14240087.0,
+    "margin": null,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2023,
+    "sales": 15181248.0,
+    "margin": 0.0384297127614277,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 20274554.0,
+    "margin": 0.0386314786505291,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 891948.0,
+  "interest_cover": 24.35965539763008,
+  "revenue_mix": "Principal activity: construction of utility projects for electricity and telecoms",
+  "revenue_mix_source": "M & M Contractors (Europe) Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0101269689760807
+ },
+ "01763970": {
+  "rank": 68,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 24274518.0,
+    "margin": 0.0171773544586961,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 26655839.0,
+    "margin": 0.0175174752518575,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 25724056.0,
+    "margin": 0.0052134857737831,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 26309539.0,
+    "margin": 0.018218525227675,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1233380.0,
+  "interest_cover": 59.32924866938978,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": 0.0132885925504182
+ },
+ "01938625": {
+  "rank": 69,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Sales up 14% a year over 4 years"
+  ],
+  "checks": [
+   "Margin moved between -6% and 8% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 35306000.0,
+    "margin": 0.0669574576559225,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 39284000.0,
+    "margin": 0.0796252927400468,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 50374000.0,
+    "margin": -0.0072855044268868,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 52623000.0,
+    "margin": -0.062691218668643,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 806000.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: IT managed services, hosting and mobility; some customer churn and contract erosion",
+  "revenue_mix_source": "Intercity Technology Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "02296733": {
+  "rank": 70,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; missing net assets; only adjacent to the thesis",
+  "why": [
+   "EBITDA of \u00a32.0m, in the \u00a32\u201315m range most mid-market buyers target"
+  ],
+  "checks": [
+   "Owner not yet confirmed",
+   "Margin moved between 11% and 29% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 32122735.0,
+    "margin": 0.2864379076065596,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2023,
+    "sales": 29934768.0,
+    "margin": 0.1812740289151397,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 19140522.0,
+    "margin": 0.1182828242615326,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 18313423.0,
+    "margin": 0.1062890864258418,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 2044387.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: managed network services for customers of the GCX group",
+  "revenue_mix_source": "Vanco Uk Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "04632756": {
+  "rank": 71,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Interest cover only 1.4x: check how much debt it already carries",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 12425367.0,
+    "margin": 0.0420640291751543,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 11643084.0,
+    "margin": 0.0610072039332534,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 11919703.0,
+    "margin": 0.0580424696823402,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1520142.0,
+  "interest_cover": 1.3951606398167342,
+  "revenue_mix": "Strategic report: resilient recurring revenue base; elevated customer churn in the sector",
+  "revenue_mix_source": "Telappliant Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0074422229150455
+ },
+ "14354114": {
+  "rank": 72,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
+  "why": [
+   "Sales up 952% last year",
+   "Founder-owned, so a direct approach is possible",
+   "Most sales repeat (read from the accounts)"
+  ],
+  "checks": [
+   "Sales up 952% in one year: check how much came from acquisitions or one-off contracts",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 1064855.0,
+    "margin": null,
+    "basis": "Profit before tax"
+   },
+   {
+    "year": 2025,
+    "sales": 11203973.0,
+    "margin": 0.0012414346232358,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 628206.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: service contracts billed in advance (deferred income \u00a36.8m) to schools and NHS bodies",
+  "revenue_mix_source": "Talk Straight Holdings Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "02697046": {
+  "rank": 73,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
+  "why": [
+   "Sales up 21% last year"
+  ],
+  "checks": [
+   "Figures were read by OCR and checked against the filing: Turnover \u00a314,464,285 and operating profit \u00a347,940 match the text: the margin really is under 1% (prior year \u00a31.26m)",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2024,
+    "sales": 11969630.0,
+    "margin": 0.1054843800518478,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 14464285.0,
+    "margin": 0.0033143705340429,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 58186.0,
+  "interest_cover": null,
+  "revenue_mix": "Principal activity: civil and fibre-optic engineering, installation and associated maintenance",
+  "revenue_mix_source": "Erh Communications Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0008797264410011
+ },
+ "04503928": {
+  "rank": 74,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Sales up 5950% last year",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Margin moved between -10% and 0% over the years read: find out what drives it",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2023,
+    "sales": 33645523.0,
+    "margin": -0.0085811416871124,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 31644508.0,
+    "margin": -0.0971092993450869,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 27191000.0,
+    "margin": 0.003210326946416,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 1506241.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: moving to recurring cloud and managed services; cloud communications recurring revenue \u00a33.78m",
+  "revenue_mix_source": "New Technology Group Holdings Plc accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.000587804788349
+ },
+ "04380546": {
+  "rank": 75,
+  "confidence": "Medium",
+  "confidence_reasons": "EBITDA estimated (no D&A found); only adjacent to the thesis",
+  "why": [],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Sales fell 29% last year: find out why",
+   "EBITDA is estimated because depreciation is not tagged: confirm from the accounts",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 24369933.0,
+    "margin": -0.0123489875823622,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 24417062.0,
+    "margin": 0.0058043838361879,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 29380521.0,
+    "margin": 0.0222752687060927,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 20980894.0,
+    "margin": 0.0266295611616931,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 558712.0,
+  "interest_cover": 18.10883868667553,
+  "revenue_mix": "Strategic report: building contracted recurring revenue as a managed service provider",
+  "revenue_mix_source": "Vcg Technology Services Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0119451010654305
+ },
+ "05942331": {
+  "rank": 76,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [
+   "Sales up 22% a year over 4 years"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 12135332.0,
+    "margin": -0.0420209352327567,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 15671124.0,
+    "margin": 0.0387725219965077,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 16597743.0,
+    "margin": 0.0225012521280754,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 22061311.0,
+    "margin": 0.0262122681648429,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 636464.0,
+  "interest_cover": null,
+  "revenue_mix": "Strategic report: project implementation plus maintenance of video conferencing systems",
+  "revenue_mix_source": "York Telecom Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": null
+ },
+ "02893478": {
+  "rank": 77,
+  "confidence": "High",
+  "confidence_reasons": "",
+  "why": [
+   "Squarely inside the investment case",
+   "Sales up 17% a year over 4 years",
+   "Founder-owned, so a direct approach is possible"
+  ],
+  "checks": [
+   "Interest cover only 1.6x: check how much debt it already carries",
+   "Margin moved between -24% and 3% over the years read: find out what drives it",
+   "Sales fell 30% last year: find out why",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 10965420.0,
+    "margin": -0.2385676973613413,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 18212080.0,
+    "margin": 0.0306757932097816,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 25142876.0,
+    "margin": 0.0198473714781077,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 17478481.0,
+    "margin": 0.0141729707518633,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 291531.0,
+  "interest_cover": 1.6485346181489071,
+  "revenue_mix": "Strategic report: mast build programmes for mobile operators",
+  "revenue_mix_source": "Teligent Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0081168289143403
+ },
+ "00714431": {
+  "rank": 78,
+  "confidence": "High",
+  "confidence_reasons": "only adjacent to the thesis",
+  "why": [],
+  "checks": [
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 28113730.0,
+    "margin": -0.0490411624498065,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 28804127.0,
+    "margin": 0.0138679432985419,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
     "sales": 26005566.0,
-    "margin": 0.0016076558379848375,
+    "margin": 0.0016076558379848,
     "basis": "Operating profit"
    },
    {
@@ -1777,133 +3350,174 @@
   ],
   "ebitda": 341638.0,
   "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.0018585985015750106
+  "revenue_mix": "Strategic report: survey, design and installation projects; order book of contracts",
+  "revenue_mix_source": "Fourway Communication Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0033011568754206
  },
- "NI614374": {
-  "rank": 78,
-  "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+ "03868503": {
+  "rank": 79,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
-   "Sales up 34% last year",
+   "Cash of \u00a35.4m and net assets of \u00a39.3m",
    "Founder-owned, so a direct approach is possible"
   ],
   "checks": [
+   "Margin moved between 4% and 17% over the years read: find out what drives it",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
   "history": [
    {
     "year": 2023,
-    "sales": 15181248.0,
-    "margin": 0.03842971276142778,
+    "sales": 23828765.0,
+    "margin": 0.1657598285097863,
     "basis": "Operating profit"
    },
    {
     "year": 2024,
-    "sales": 20274554.0,
-    "margin": 0.038631478650529134,
-    "basis": "Operating profit"
-   }
-  ],
-  "ebitda": 891948.0,
-  "interest_cover": 24.359655397630082,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.007795831168468614
- },
- "02893478": {
-  "rank": 79,
-  "confidence": "Medium",
-  "confidence_reasons": "fewer than 3 years read; recurring revenue estimated",
-  "why": [
-   "Squarely inside the investment case",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Interest cover only 1.6x: check how much debt it already carries",
-   "Sales fell 30% last year: find out why",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [
-   {
-    "year": 2024,
-    "sales": 25142876.0,
-    "margin": 0.019847371478107754,
+    "sales": 19026062.0,
+    "margin": 0.0840212230991363,
     "basis": "Operating profit"
    },
    {
     "year": 2025,
-    "sales": 17478481.0,
-    "margin": 0.014172970751863391,
+    "sales": 17692938.0,
+    "margin": 0.0393631628619283,
     "basis": "Operating profit"
    }
   ],
-  "ebitda": 291531.0,
-  "interest_cover": 1.6485346181489073,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": 0.015709774779627587
+  "ebitda": 914325.0,
+  "interest_cover": 24.53584639774529,
+  "revenue_mix": "Strategic report: IT consultancy, maintenance and hardware; growing 3-7 year hardware-as-a-service contracts",
+  "revenue_mix_source": "Medhurst Communications Limited accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0209477883681017
  },
- "05942331": {
+ "09180490": {
   "rank": 80,
-  "confidence": "Low",
-  "confidence_reasons": "OCR figures checked against the filing; fewer than 3 years read; only adjacent to the thesis; recurring revenue estimated",
+  "confidence": "High",
+  "confidence_reasons": "only adjacent to the thesis",
+  "why": [],
+  "checks": [
+   "Margin moved between -23% and 6% over the years read: find out what drives it",
+   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
+  ],
+  "history": [
+   {
+    "year": 2021,
+    "sales": 18381930.0,
+    "margin": 0.0555191429844417,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2022,
+    "sales": 14821906.0,
+    "margin": -0.2317779508249479,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 17003298.0,
+    "margin": 0.0134576833270816,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 19246654.0,
+    "margin": 0.0214205024935762,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 868427.0,
+  "interest_cover": 8.628749032001506,
+  "revenue_mix": "Strategic report: over 67,000 mobile connections and landline, VoIP and hosted services to over 4,000 businesses",
+  "revenue_mix_source": "Ice Telecommunications Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.0008199275148044
+ },
+ "SC211701": {
+  "rank": 81,
+  "confidence": "Medium",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
-   "Sales up 33% last year"
+   "Sales up 21% last year",
+   "A type of business that usually earns repeat revenue (estimated)"
   ],
   "checks": [
    "Probably owned by a private equity fund: check when it bought in",
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Margin moved between -45% and 6% over the years read: find out what drives it",
+   "Figures were read by OCR and checked against the filing: Turnover matches; operating profit used is before \u00a30.9m non-recurring costs",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
    "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
   ],
-  "history": [],
-  "ebitda": 636464.0,
+  "history": [
+   {
+    "year": 2022,
+    "sales": 24243290.0,
+    "margin": 0.0585576875085848,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 13870642.0,
+    "margin": -0.4471579613978935,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 12244871.0,
+    "margin": -0.2748988535689759,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 14764341.0,
+    "margin": 0.0073922703356688,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 241015.0,
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
   "capex_share": null
  },
- "04503928": {
-  "rank": 81,
-  "confidence": "Low",
-  "confidence_reasons": "numbers flagged",
-  "why": [
-   "Sales up 5950% last year",
-   "Founder-owned, so a direct approach is possible"
-  ],
-  "checks": [
-   "Sales up 5950% in one year: check how much came from acquisitions or one-off contracts",
-   "Figures were read from the text of the accounts and checked against the filing: Turnover and operating profit match; D&A added from the operating profit note",
-   "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
-  ],
-  "history": [],
-  "ebitda": 1506241.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
- },
- "02697046": {
+ "02946493": {
   "rank": 82,
-  "confidence": "Low",
-  "confidence_reasons": "numbers flagged",
-  "why": [
-   "Sales up 21% last year"
-  ],
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
+  "why": [],
   "checks": [
-   "Figures were read by OCR and checked against the filing: Turnover and operating profit match the filing; profit before tax ties to operating profit",
+   "Sales fell 21% last year: find out why",
+   "Figures were read from the text of the accounts and checked against the filing: Turnover, operating profit and D&A match the filing text",
    "Only adjacent to the investment case: confirm it owns or runs infrastructure",
-   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+   "Repeat revenue is read from the accounts, which rarely give renewal rates: get the contract list and renewal history"
   ],
-  "history": [],
-  "ebitda": 58186.0,
-  "interest_cover": null,
-  "revenue_mix": null,
-  "revenue_mix_source": null,
-  "capex_share": null
+  "history": [
+   {
+    "year": 2023,
+    "sales": 22431545.0,
+    "margin": 0.0301541423027259,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 17055774.0,
+    "margin": 0.010675387701549,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 13457775.0,
+    "margin": 0.0155096217613981,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 276198.0,
+  "interest_cover": 3.5031553153637005,
+  "revenue_mix": "Strategic report: distribution rights and product sales to an existing customer base",
+  "revenue_mix_source": "Corporate Direct (Europe) Ltd accounts, latest filing (read 26 Nov 2026)",
+  "capex_share": 0.004385069016495
  }
 }

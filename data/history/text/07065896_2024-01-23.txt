@@ -1,0 +1,1794 @@
+=== page 1 ===
+Green Frog Connect Limited - Limited company accounts 23.2
+IRIS Accounts Production
+v23.3.1.45
+07065896
+Board of Directors
+1.6.22
+31.5.23
+31.5.23
+The company is a Lloyds accredited Independent Connection Provider and an Engineering, Procurement and Construction (EPC) Contractor to the power generation industry.
+true
+true
+false
+true
+true
+false
+false
+true
+false
+Ordinary
+0.10000
+iso4217:GBP
+iso4217:USD
+iso4217:EUR
+xbrli:shares
+xbrli:pure
+utr:tonnes
+utr:kWh
+07065896
+2022-05-31
+07065896
+2023-05-31
+07065896
+2022-06-01
+2023-05-31
+07065896
+2021-05-31
+07065896
+2021-06-01
+2022-05-31
+07065896
+2022-05-31
+07065896
+ns10:Original
+ns15:EnglandWales
+2022-06-01
+2023-05-31
+07065896
+ns14:PoundSterling
+ns10:Original
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:Director1
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+2023-05-31
+07065896
+ns10:Original
+ns10:PrivateLimitedCompanyLtd
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+=== page 2 ===
+ns10:FRS102
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:Audited
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:SmallCompaniesRegimeForDirectorsReport
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:FullAccounts
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:OrdinaryShareClass1
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:Director2
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:Director3
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:Director4
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:RegisteredOffice
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+2022-05-31
+07065896
+ns10:Original
+ns5:CurrentFinancialInstruments
+2023-05-31
+07065896
+ns10:Original
+ns5:CurrentFinancialInstruments
+2022-05-31
+07065896
+ns5:ShareCapital
+ns10:Original
+2023-05-31
+07065896
+ns5:ShareCapital
+ns10:Original
+2022-05-31
+07065896
+ns10:Original
+ns5:CapitalRedemptionReserve
+2023-05-31
+=== page 3 ===
+07065896
+ns10:Original
+ns5:CapitalRedemptionReserve
+2022-05-31
+07065896
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2023-05-31
+07065896
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-05-31
+07065896
+ns5:ShareCapital
+ns10:Original
+2021-05-31
+07065896
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2021-05-31
+07065896
+ns10:Original
+ns5:CapitalRedemptionReserve
+2021-05-31
+07065896
+ns10:Original
+2021-05-31
+07065896
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns5:CapitalRedemptionReserve
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:CapitalRedemptionReserve
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:PlantMachinery
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:FurnitureFittings
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:MotorVehicles
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:ComputerEquipment
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:ReportableOperatingSegment1
+=== page 4 ===
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:ReportableOperatingSegment1
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:TotalReportableOperatingSegmentsIncludingAnyUnallocatedAmount
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns10:HighestPaidDirector
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:HighestPaidDirector
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+5
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+5
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns5:HirePurchaseContracts
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:HirePurchaseContracts
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:PlantEquipmentOtherAssetsUnderOperatingLeases
+2021-06-01
+2022-05-31
+07065896
+ns5:OwnedAssets
+ns10:Original
+2022-06-01
+2023-05-31
+07065896
+ns5:OwnedAssets
+ns10:Original
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns10:OrdinaryShareClass1
+=== page 5 ===
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns5:PlantMachinery
+2022-05-31
+07065896
+ns10:Original
+ns5:FurnitureFittings
+2022-05-31
+07065896
+ns10:Original
+ns5:MotorVehicles
+2022-05-31
+07065896
+ns10:Original
+ns5:ComputerEquipment
+2022-05-31
+07065896
+ns10:Original
+2022-05-31
+07065896
+ns10:Original
+ns5:PlantMachinery
+2023-05-31
+07065896
+ns10:Original
+ns5:FurnitureFittings
+2023-05-31
+07065896
+ns10:Original
+ns5:MotorVehicles
+2023-05-31
+07065896
+ns10:Original
+ns5:ComputerEquipment
+2023-05-31
+07065896
+ns10:Original
+ns5:PlantMachinery
+2022-05-31
+07065896
+ns10:Original
+ns5:FurnitureFittings
+2022-05-31
+07065896
+ns10:Original
+ns5:MotorVehicles
+2022-05-31
+07065896
+ns10:Original
+ns5:ComputerEquipment
+2022-05-31
+07065896
+ns10:Original
+ns5:AdditionsToInvestments
+2023-05-31
+07065896
+ns10:Original
+ns5:CostValuation
+2023-05-31
+07065896
+ns10:Original
+ns5:Subsidiary1
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:Subsidiary1
+1
+=== page 6 ===
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2023-05-31
+07065896
+ns10:Original
+ns5:CurrentFinancialInstruments
+ns5:WithinOneYear
+2022-05-31
+07065896
+ns10:Original
+ns5:WithinOneYear
+2023-05-31
+07065896
+ns10:Original
+ns5:WithinOneYear
+2022-05-31
+07065896
+ns5:BetweenOneFiveYears
+ns10:Original
+2023-05-31
+07065896
+ns5:BetweenOneFiveYears
+ns10:Original
+2022-05-31
+07065896
+ns10:Original
+ns5:AllPeriods
+2023-05-31
+07065896
+ns10:Original
+ns5:AllPeriods
+2022-05-31
+07065896
+ns10:Original
+ns5:DeferredTaxation
+2022-05-31
+07065896
+ns10:Original
+ns5:DeferredTaxation
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns5:DeferredTaxation
+2023-05-31
+07065896
+ns10:Original
+ns10:OrdinaryShareClass1
+2023-05-31
+07065896
+ns10:Original
+ns5:RetainedEarningsAccumulatedLosses
+2022-05-31
+07065896
+ns10:Original
+ns5:CapitalRedemptionReserve
+2022-05-31
+07065896
+ns10:Original
+ns10:Director2
+2
+2022-05-31
+07065896
+ns10:Original
+ns10:Director2
+2
+=== page 7 ===
+2021-05-31
+07065896
+ns10:Original
+ns10:Director2
+2
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+ns10:Director2
+2
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+ns10:Director2
+2
+2023-05-31
+07065896
+ns10:Original
+ns10:Director2
+2
+2022-05-31
+07065896
+ns10:Original
+1
+ns10:Director1
+2022-05-31
+07065896
+ns10:Original
+1
+ns10:Director1
+2021-05-31
+07065896
+ns10:Original
+1
+ns10:Director1
+2022-06-01
+2023-05-31
+07065896
+ns10:Original
+1
+ns10:Director1
+2021-06-01
+2022-05-31
+07065896
+ns10:Original
+1
+ns10:Director1
+2023-05-31
+07065896
+ns10:Original
+1
+ns10:Director1
+2022-05-31
+REGISTERED NUMBER: 
+07065896
+(England and Wales) 
+GREEN FROG CONNECT LIMITED
+STRATEGIC REPORT, REPORT OF THE DIRECTORS AND
+ FINANCIAL STATEMENTS
+ FOR THE YEAR ENDED 31 MAY 2023
+Folkes Worton LLP
+Chartered Accountants and Statutory Auditor
+15-17 Church Street
+Stourbridge
+West Midlands
+DY8 1LU
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+CONTENTS OF THE FINANCIAL STATEMENTS
+=== page 8 ===
+FOR THE YEAR ENDED 31 MAY 2023
+Page
+Company Information  
+1
+Strategic Report  
+2
+Report of the Directors  
+4
+Report of the Independent Auditors  
+5
+Income Statement  
+9
+Other Comprehensive Income  
+10
+Balance Sheet  
+11
+Statement of Changes in Equity  
+12
+Notes to the Financial Statements 
+13
+GREEN FROG CONNECT LIMITED
+COMPANY INFORMATION 
+FOR THE YEAR ENDED 31 MAY 2023
+DIRECTORS:
+Mr T Drake
+Mr M W Jones
+Mr R M Shearer
+Mr J W K Taylor
+REGISTERED OFFICE:
+The Hive
+Beaufighter Road
+Weston-Super-Mare
+Somerset
+BS24 8EE
+REGISTERED NUMBER:
+07065896
+(England and Wales) 
+AUDITORS:
+Folkes Worton LLP
+Chartered Accountants and Statutory Auditor
+15-17 Church Street
+Stourbridge
+West Midlands
+DY8 1LU
+Page 1
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+STRATEGIC REPORT 
+FOR THE YEAR ENDED 31 MAY 2023
+INTRODUCTION
+The directors are pleased to present the strategic report for the year ended 31 May 2023. This report highlights the 
+company's achievements, ongoing strategies, and future prospects, continuing our journey as a leading Lloyds accredited 
+Independent Connection Provider and EPC Contractor in the power generation industry.The directors are pleased to 
+present the strategic report for the year ended 31 May 2023. This report highlights the company's achievements, ongoing 
+strategies, and future prospects, continuing our journey as a leading Lloyds accredited Independent Connection Provider 
+and EPC Contractor in the power generation industry.
+REVIEW OF BUSINESS
+The company is a Lloyds accredited Independent Connection Provider and an Engineering, Procurement and 
+Construction (EPC) Contractor to the power generation and energy storage industry.
+Building on our robust performance in the previous year, our company has further solidified its presence in the 
+Renewable and Energy Storage sectors. As renewable energy projects grow in scale and complexity, we've successfully 
+transitioned to higher voltage connections, focusing on numerous 66kV and 132kV projects. This progression aligns 
+with our desire to execute more complex and higher-value projects, which complement our internal capabilities for 
+detailed design and engineering.
+Financially, we remain strong with a solid balance sheet, no external borrowings, and an increasing order book, 
+empowering us to pursue these ambitious, high-value renewable energy projects.
+FUTURE DEVELOPMENTS
+Looking forward, Green Frog Connect is poised for continued expansion into a broader spectrum of renewable energy 
+sources, energy storage solutions, and advanced grid stabilisation technologies. We are exploring opportunities for 
+international expansion, with initial plans focusing on the Republic of Ireland. Concurrently, we are committed to 
+developing our nascent operation and maintenance division, which holds the potential for recurring revenue streams. 
+=== page 9 ===
+Additionally, we are exploring the possibility of moving into transmission connections, aiming to broaden our scope of 
+services and reinforce our position in the energy sector.
+MARKET POSITION AND COMPETITIVE LANDSCAPE
+This year marked a significant shift in the competitive landscape, with two of our largest competitors exiting the market. 
+This development has not only underscored Green Frog Connect's resilience and operational stability but also created 
+new opportunities for us to expand our market share. As one of the leading Independent Connection Providers, our focus 
+on power generation and energy storage has been further solidified, setting us apart in a rapidly evolving industry.
+PRINCIPAL RISKS AND UNCERTAINTIES
+The main risks associated with the company's financial assets and liabilities are set out below;
+Credit risk
+The company has external debtors. However, the company undertakes assessments of its customers in order to ensure 
+that credit is not extended where there is a likelihood of default.
+Liquidity risk
+The company aims to mitigate liquidity risk by managing cash generated by its operations, applying cash collection 
+targets and monitoring cash flow on a contract by contract basis.
+Page 2
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+STRATEGIC REPORT 
+FOR THE YEAR ENDED 31 MAY 2023
+CONCLUSION
+The year 2023 has been one of significant growth for our company. We have not only strengthened our financial position 
+but also positioned ourselves at the forefront of the UK's transition to a net-zero power system. We are excited about the 
+future, confident in our strategy, and our team's ability to drive sustained growth and contribute meaningfully to the 
+renewable energy sector and the broader net-zero objective.
+ON BEHALF OF THE BOARD:
+Mr R M Shearer
+- Director 
+9 January 2024
+Page 3
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+REPORT OF THE DIRECTORS 
+FOR THE YEAR ENDED 31 MAY 2023
+The directors present their report with the financial statements of the company for the year ended 31 May 2023. 
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 June 2022 to the date of this report. 
+Mr T Drake
+Mr M W Jones
+Mr R M Shearer
+Mr J W K Taylor
+STATEMENT OF DIRECTORS' RESPONSIBILITIES
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the financial statements 
+in accordance with applicable law and regulations. 
+Company law requires the directors to prepare financial statements for each financial year.  Under that law the directors 
+have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting 
+Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not 
+approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the 
+company and of the profit or loss of the company for that period.  In preparing these financial statements, the directors 
+are required to: 
+-
+select suitable accounting policies and then apply them consistently; 
+-
+make judgements and accounting estimates that are reasonable and prudent; 
+-
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will 
+continue in business. 
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the 
+company's transactions and disclose with reasonable accuracy at any time the financial position of the company and 
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for 
+safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud 
+and other irregularities. 
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITORS
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of the Companies Act 
+2006) of which the company's auditors are unaware, and each director has taken all the steps that he ought to have taken 
+as a director in order to make himself aware of any relevant audit information and to establish that the company's 
+auditors are aware of that information. 
+AUDITORS
+The auditors,  Folkes Worton LLP, will be proposed for re-appointment at the forthcoming Annual General Meeting.
+This report has been prepared in accordance with the provisions of Part 15 of the Companies Act 2006 relating to small 
+companies. 
+ON BEHALF OF THE BOARD:
+=== page 10 ===
+Mr R M Shearer
+- Director 
+9 January 2024
+Page 4
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+GREEN FROG CONNECT LIMITED
+Opinion
+We have audited the financial statements of Green Frog Connect Limited (the 'company') for the year ended 
+31 May 2023 which comprise the Income Statement, Other Comprehensive Income, Balance Sheet, Statement of 
+Changes in Equity and Notes to the Financial Statements, including a summary of significant accounting policies. The 
+financial reporting framework that has been applied in their preparation is applicable law and United Kingdom 
+Accounting Standards, including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the 
+UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice). 
+In our opinion the financial statements: 
+-
+give a true and fair view of the state of the company's affairs as at 31 May 2023 and of its profit for the year then 
+ended; 
+-
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and 
+-
+have been prepared in accordance with the requirements of the Companies Act 2006. 
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. 
+Our responsibilities under those standards are further described in the Auditors' responsibilities for the audit of the 
+financial statements section of our report.  We are independent of the company in accordance with the ethical 
+requirements that are relevant to our audit of the financial statements in the UK, including the FRC's Ethical Standard, 
+and we have fulfilled our other ethical responsibilities in accordance with these requirements.  We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion. 
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis of accounting in 
+the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions 
+that, individually or collectively, may cast significant doubt on the company's ability to continue as a going concern for a 
+period of at least twelve months from when the financial statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant 
+sections of this report. 
+Other information
+The directors are responsible for the other information. The other information comprises the information in the Strategic 
+Report and the Report of the Directors, but does not include the financial statements and our Report of the Auditors 
+thereon. 
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise 
+explicitly stated in our report, we do not express any form of assurance conclusion thereon. 
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing 
+so, consider whether the other information is materially inconsistent with the financial statements or our knowledge 
+obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or 
+apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in the 
+financial statements themselves. If, based on the work we have performed, we conclude that there is a material 
+misstatement of this other information, we are required to report that fact.  We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+-
+the information given in the Strategic Report and the Report of the Directors for the financial year for which the 
+financial statements are prepared is consistent with the financial statements; and 
+-
+the Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal 
+requirements. 
+Page 5
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+GREEN FROG CONNECT LIMITED
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, 
+we have not identified material misstatements in the Strategic Report or the Report of the Directors. 
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you 
+if, in our opinion: 
+-
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from 
+branches not visited by us; or 
+-
+the financial statements are not in agreement with the accounting records and returns; or 
+-
+=== page 11 ===
+certain disclosures of directors' remuneration specified by law are not made; or 
+-
+we have not received all the information and explanations we require for our audit; or 
+-
+the directors were not entitled to take advantage of the small companies' exemption from the requirement to prepare a 
+Strategic Report or in preparing the Report of the Directors. 
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities set out on page four, the directors are responsible 
+for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such 
+internal control as the directors determine necessary to enable the preparation of financial statements that are free from 
+material misstatement, whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a 
+going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of 
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic 
+alternative but to do so. 
+Page 6
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+GREEN FROG CONNECT LIMITED
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue a Report of the Auditors that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs 
+(UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these financial statements. 
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below: 
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line 
+with our responsibilities, outlined above and on the Financial Reporting Council's website, to detect material 
+misstatements in respect of irregularities, including fraud.
+We obtain and update our understanding of the entity, its activities, its control environment, and likely future 
+developments, including in relation to the legal and regulatory framework applicable and how the entity is complying 
+with that framework. Based on this understanding, we identify and assess the risks of material misstatement of the 
+financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and 
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. This includes consideration of 
+the risk of acts by the entity that were contrary to applicable laws and regulations, including fraud.
+In response to the risk of irregularities and non-compliance with laws and regulations, including fraud, we designed 
+procedures which include:
+-Enquire of management and those charged with governance around actual and potential litigation and claims as well as 
+actual, suspected and alleged fraud;
+-Reviewing minutes of meetings of those charged with governance;
+-Assessing the extent of compliance with the laws and regulations considered to have a direct material effect on the 
+financial statements or the operations of the company through enquiry and inspection;
+-Reviewing financial statement disclosures and testing to supporting documentation to assess compliance with applicable 
+laws and regulations;
+-Performing audit work over the risk of management bias and override of controls, including testing of journal entries 
+and other adjustments for appropriateness, evaluating the business rationale of significant transactions outside the 
+normal course of business and reviewing accounting estimates for indicators of potential bias.
+Because of the inherent limitations of an audit, there is a risk that we will not detect all irregularities, including those 
+leading to a material misstatement in the financial statements or non-compliance with regulation. This risk increases the 
+more that compliance with a law or regulation is removed from the events and transactions reflected in the financial 
+statements, as we will be less likely to become aware of instances of non-compliance. The risk  of not detecting a 
+material misstatement resulting from fraud is higher then for one resulting from error, as fraud may involve collusion, 
+forgery, intentional omissions, misrepresentations, or the override of internal controls.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting 
+Council's website at www.frc.org.uk/auditorsresponsibilities. This description forms part of our Report of the Auditors. 
+Page 7
+REPORT OF THE INDEPENDENT AUDITORS TO THE MEMBERS OF 
+GREEN FROG CONNECT LIMITED
+Use of our report
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those 
+matters we are required to state to them in a Report of the Auditors and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company's 
+members as a body, for our audit work, for this report, or for the opinions we have formed. 
+Mr John Hegney
+(Senior Statutory Auditor) 
+for and on behalf of 
+Folkes Worton LLP
+Chartered Accountants and Statutory Auditor
+15-17 Church Street
+=== page 12 ===
+Stourbridge
+West Midlands
+DY8 1LU
+9 January 2024
+Page 8
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+INCOME STATEMENT 
+FOR THE YEAR ENDED 31 MAY 2023
+2023
+2022
+Notes
+£   
+£   
+TURNOVER
+3
+20,891,104
+8,381,153
+Cost of sales
+17,322,464
+6,952,414
+GROSS PROFIT
+3,568,640
+1,428,739
+Administrative expenses
+2,301,345
+1,627,181
+OPERATING PROFIT/(LOSS)
+1,267,295
+(
+198,442
+)
+Interest receivable and similar income 
+953
+-
+1,268,248
+(198,442
+)
+Interest payable and similar expenses 
+5
+-
+1,585
+PROFIT/(LOSS) BEFORE TAXATION 
+6
+1,268,248
+(
+200,027
+)
+Tax on profit/(loss)
+8
+185,291
+(
+78,534
+)
+PROFIT/(LOSS) FOR THE FINANCIAL 
+YEAR 
+1,082,957
+(
+121,493
+)
+The notes form part of these financial statements
+Page 9
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+OTHER COMPREHENSIVE INCOME 
+FOR THE YEAR ENDED 31 MAY 2023
+2023
+2022
+Notes
+£   
+£   
+PROFIT/(LOSS) FOR THE YEAR
+=== page 13 ===
+1,082,957
+(
+121,493
+)
+OTHER COMPREHENSIVE INCOME
+-
+-
+TOTAL COMPREHENSIVE INCOME 
+FOR THE YEAR 
+1,082,957
+(
+121,493
+)
+The notes form part of these financial statements
+Page 10
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+BALANCE SHEET 
+31 MAY 2023
+2023
+2022
+Notes
+£   
+£   
+£   
+£   
+FIXED ASSETS
+Tangible assets
+10
+40,505
+16,757
+Investments
+11
+75
+-
+40,580
+16,757
+CURRENT ASSETS
+Stocks
+12
+306,732
+283,100
+Debtors
+13
+7,052,094
+2,439,427
+Cash at bank and in hand
+8,130,996
+2,090,419
+15,489,822
+4,812,946
+CREDITORS
+Amounts falling due within one year 
+14
+12,920,033
+2,410,803
+NET CURRENT ASSETS
+2,569,789
+2,402,143
+TOTAL ASSETS LESS CURRENT 
+LIABILITIES 
+2,610,369
+2,418,900
+PROVISIONS FOR LIABILITIES
+16
+8,512
+-
+NET ASSETS
+2,601,857
+2,418,900
+CAPITAL AND RESERVES
+=== page 14 ===
+Called up share capital
+17
+736
+736
+Capital redemption reserve
+18
+264
+264
+Retained earnings
+18
+2,600,857
+2,417,900
+SHAREHOLDERS' FUNDS
+2,601,857
+2,418,900
+The financial statements were approved by the Board of Directors and authorised for issue on 
+9 January 2024
+and were 
+signed on its behalf by: 
+Mr R M Shearer
+- Director 
+The notes form part of these financial statements
+Page 11
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+STATEMENT OF CHANGES IN EQUITY 
+FOR THE YEAR ENDED 31 MAY 2023
+Called up
+Capital
+share
+Retained
+redemption
+Total
+capital
+earnings
+reserve
+equity
+£   
+£   
+£   
+£   
+Balance at 1 June 2021
+736
+2,539,393
+264
+2,540,393
+Changes in equity
+Total comprehensive income
+-
+(
+121,493
+)
+-
+(
+121,493
+)
+Balance at 31 May 2022
+736
+2,417,900
+264
+2,418,900
+Changes in equity
+Dividends
+-
+(
+900,000
+)
+-
+(
+900,000
+)
+=== page 15 ===
+Total comprehensive income
+-
+1,082,957
+-
+1,082,957
+Balance at 31 May 2023
+736
+2,600,857
+264
+2,601,857
+The notes form part of these financial statements
+Page 12
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS 
+FOR THE YEAR ENDED 31 MAY 2023
+1.
+STATUTORY INFORMATION
+Green Frog Connect Limited is a 
+private company, limited by shares
+, registered in England and Wales. The 
+company's registered number and registered office address can be found on the Company Information page. 
+2.
+ACCOUNTING POLICIES
+Basis of preparing the financial statements
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland" and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+The company has taken advantage of the following disclosure exemption in preparing these financial statements, 
+as permitted by FRS 102 "The Financial Reporting Standard applicable in the UK and Republic of Ireland": 
+•
+the requirements of Section 7 Statement of Cash Flows. 
+Preparation of consolidated financial statements
+The financial statements contain information about Green Frog Connect Limited as an individual company and 
+do not contain consolidated financial information as the parent of a group. The company is exempt under Section 
+399(2A) of the Companies Act 2006 from the requirements to prepare consolidated financial statements. 
+Significant judgements and estimates
+In the application of the company's accounting policies, the directors are required to make judgements, estimates 
+and assumptions about the carrying amount of assets and liabilities that are not readily apparent from other 
+sources. The estimates and associated assumptions are based on historical experience and other factors that are 
+considered to be relevant. Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates 
+are recognised in the period in which the estimate is revised where the revision effects only that period, or in the 
+period of the revision and future periods where the revision affects both current and future periods.
+   Key sources of estimation uncertainty
+The estimates and assumptions which have a significant risk of causing a material adjustment to the carrying 
+amount of assets and liabilities are as follows;
+   Estimation of stage of completion of construction contracts
+The level of revenue recognised for each project is directly related to the stage of completion recognised by both 
+the company's own internal quantity surveyors together with the customer's own agent.
+Page 13
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+2.
+ACCOUNTING POLICIES - continued
+Turnover
+Turnover, which all derives from UK activities, is recognised at the fair value of the consideration received or 
+receivable for goods and services provided in the normal course of business, and is shown net of VAT and other 
+sales related taxes. The fair value of consideration takes into account trade discounts, settlement discounts and 
+volume rebates.
+Revenue from the sales of goods is recognised when the significant risks and rewards of ownership of the goods 
+have passed to the buyer (usually on dispatch of goods), the amount of revenue can be measured reliably, it is 
+probable that the economic benefits associated with the transaction will flow to the entity and the costs incurred 
+or to be incurred in respect of the transaction can be measured reliably.
+Revenue from contracts for the provision of construction of plant and related professional services is recognised 
+by reference to the stage of completion when the stage of completion, costs incurred and costs to complete can 
+be estimated reliably. The stage of completion is calculated by comparing costs incurred, mainly in relation to 
+contractual hourly staff rates and materials, as a proportion of total costs. Where the outcome cannot be 
+estimated reliably, revenue is recognised only to the extent of the expenses recognised that it is probable will be 
+recovered.
+Tangible fixed assets
+=== page 16 ===
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life.
+Plant and machinery
+- 
+20% on cost
+Fixtures and fittings
+- 
+20% on cost
+Motor vehicles
+- 
+33% on cost
+Computer equipment
+- 
+20% on cost
+Tangible fixed assets are initially measured at cost and subsequently measured at cost, net of depreciation and 
+any impairment losses. Depreciation is recognised so as to write off the cost of asset less their residual values 
+over their useful lives on the above bases. The gain or loss arising on the disposal of an asset is determined as the 
+difference between the sale proceeds and the carrying value of the asset, and is credited or charged to the profit 
+and loss.
+Investments in subsidiaries
+Investments in subsidiary undertakings are recognised at cost. 
+Stocks
+Work in progress is valued at the lower of cost and net realisable value. 
+Cost is calculated using the first-in, first-out method and includes all purchase, transport, and handling costs in 
+bringing stocks to their present location and condition. 
+Page 14
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+2.
+ACCOUNTING POLICIES - continued
+Financial instruments
+The company has elected to apply the provisions of Section 11 'Basic Financial Instruments' and Section 12 
+'Other Financial Instruments Issues' of FRS 102 to all of its financial instruments.
+Financial instruments are recognised in the company's balance sheet when the company becomes party to the 
+contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is 
+a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to 
+realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include debtors and cash and bank balances, are initially measured at transaction 
+price including transaction costs and are subsequently carried at amortised cost using the effective interest 
+method unless the arrangement constitutes a financing transaction, where the transaction is measured at the 
+present value of the future receipts discounted at a market value of interest. Financial assets classified as 
+receivable within one year are not amortised.
+Impairment of financial assets
+Financial assets, other than those held at fair value through profit and loss, are assessed for indicators of 
+impairment at each reporting end date.
+Financial assets are impaired where there is objective evidence that, as a result of one or more events that 
+occurred after the initial recognition of the financial asset, the estimated future cash flows have been affected. If 
+an asset is impaired, the impairment loss is the difference between the carrying amount and the present value of 
+the estimated cash flows discounted at the asset's original effective interest rate. The impairment loss is 
+recognised in profit and loss.
+If there is a decrease in the impairment loss arising from the event occurring after the impairment was 
+recognised, the impairment is reversed. The reversal is such that the current carrying amount does not exceed 
+what the carrying amount would have been, had the impairment not previously been recognised. The impairment 
+reversal is recognised in profit and loss.
+Derecognition of financial assets
+Financial assets are derecognised only when the contractual rights to the cash flow from the asset expires or are 
+settled, or when the company transfers the financial asset and substantially all the risks and rewards of ownership 
+to another entity, or if some significant risks and rewards of ownership are retained but control of the asset has 
+transferred to another party that is able to sell the asset in its entirety to an unrelated third party.
+Classification of financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual 
+arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of 
+the company after deducting all of its liabilities.
+Basic financial liabilities
+Basic financial liabilities, including creditors, bank loans and loans to fellow group companies, are initially 
+recognised at transaction price unless the arrangement constitutes a financing transaction, where the debt 
+instrument is measured at the present value of the future payments discounted at a market rate of interest. 
+=== page 17 ===
+Financial liabilities classified as payable within one year are not amortised.
+Page 15
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+2.
+ACCOUNTING POLICIES - continued
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of 
+business from suppliers. Amounts payable are classified as current liabilities if payment is due within one year or 
+less. If not, they are presented as non-current liabilities. Trade creditors are recognised initially at transaction 
+price and subsequently measured at amortised cost using the effective interest method.
+Taxation
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Income Statement, except to 
+the extent that it relates to items recognised in other comprehensive income or directly in equity.
+Current or deferred taxation assets and liabilities are not discounted.
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have been enacted or 
+substantively enacted by the balance sheet date.
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date.
+Timing differences arise from the inclusion of income and expenses in tax assessments in periods different from 
+those in which they are recognised in financial statements. Deferred tax is measured using tax rates and laws that 
+have been enacted or substantively enacted by the year end and that are expected to apply to the reversal of the 
+timing difference.
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is probable that they 
+will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Employee benefits
+The costs of short-term employee benefits are recognised as a liability and an expense, unless those costs are 
+required to be recognised as part of the cost of stock of fixed assets.
+The cost of any unused holiday entitlement is recognised in the period in which the employee's services are 
+received.
+Termination benefits are recognised immediately as an expense when the company is demonstrably committed to 
+terminate the employment of an employee or to provide termination benefits.
+Retirement benefits
+The company operates a defined contribution pension scheme.  Contributions payable to the company's pension 
+scheme are charged to profit or loss in the period to which they relate.
+Payments to defined contribution retirement benefit schemes are charged as an expense as they fall due.
+Cash and cash equivalents
+Cash and cash equivalents are basic financial assets and include cash in hand, deposits held at call with banks, 
+other short-term liquid investments with original maturities of three months or less.
+Going concern
+At the time of approving the financial statements, the directors have a reasonable expectation that the company 
+has adequate resources to continue in operational existence for the foreseeable future. Thus the directors 
+continue to adopt the going concern basis of accounting in preparing the financial statements.
+Page 16
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+3.
+TURNOVER
+The turnover and profit (2022 - loss) before taxation are attributable to the one principal activity of the company.
+An analysis of turnover by class of business is given below: 
+2023
+2022
+£   
+£   
+Goods and contract revenue
+20,891,104
+8,381,153
+20,891,104
+8,381,153
+4.
+EMPLOYEES AND DIRECTORS
+2023
+2022
+£   
+£   
+Wages and salaries
+=== page 18 ===
+1,382,915
+867,778
+Social security costs
+149,630
+112,831
+Other pension costs
+47,173
+35,346
+1,579,718
+1,015,955
+The average number of employees during the year was as follows: 
+2023
+2022
+Operations
+19
+13
+Administration
+4
+3
+23
+16
+2023
+2022
+£   
+£   
+Directors' remuneration
+240,000
+220,000
+Directors' pension contributions to money purchase schemes  
+12,000
+11,000
+Information regarding the highest paid director is as follows:
+2023
+2022
+£   
+£   
+Emoluments etc
+130,000
+120,000
+Pension contributions to money purchase schemes
+6,500
+6,000
+5.
+INTEREST PAYABLE AND SIMILAR EXPENSES 
+2023
+2022
+£   
+£   
+Corporation Tax interest
+-
+518
+Hire purchase interest
+-
+1,067
+-
+1,585
+Page 17
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+6.
+PROFIT/(LOSS) BEFORE TAXATION
+The profit (2022 - loss) is stated after charging/(crediting): 
+2023
+2022
+£   
+£   
+Hire of plant and machinery
+65,767
+=== page 19 ===
+49,967
+Other operating leases
+34,536
+33,316
+Depreciation - owned assets
+9,515
+15,220
+Profit on disposal of fixed assets
+-
+(
+30,212
+)
+7.
+AUDITORS' REMUNERATION
+2023
+2022
+£   
+£   
+Fees payable to the company's auditors for the audit of the company's 
+financial statements 
+8,400
+13,000
+8.
+TAXATION
+Analysis of the tax charge/(credit)
+The tax charge/(credit) on the profit for the year was as follows: 
+2023
+2022
+£   
+£   
+Current tax:
+UK corporation tax
+213,485
+-
+Prior year tax adjustment
+(74,031
+)
+(41,288
+)
+Total current tax
+139,454
+(
+41,288
+)
+Deferred tax
+45,837
+(
+37,246
+)
+Tax on profit/(loss)
+185,291
+(
+78,534
+)
+Reconciliation of total tax charge/(credit) included in profit and loss
+The tax assessed for the year is lower than the standard rate of corporation tax in the UK. The difference is 
+explained below: 
+2023
+2022
+£   
+£   
+Profit/(loss) before tax
+1,268,248
+(
+200,027
+)
+Profit/(loss) multiplied by the standard rate of corporation tax in the UK of 
+19
+% (2022 - 
+19
+=== page 20 ===
+%)  
+240,967
+(
+38,005
+)
+Effects of:
+Expenses not deductible for tax purposes
+1,779
+1,665
+Capital allowances in excess of depreciation
+-
+(
+906
+)
+Depreciation in excess of capital allowances
+16,576
+-
+Adjustments to tax charge in respect of previous periods 
+(
+74,031
+)
+(
+41,288
+)
+Total tax charge/(credit)
+185,291
+(78,534
+)
+Page 18
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+9.
+DIVIDENDS
+2023
+2022
+£   
+£   
+Interim
+900,000
+-
+10.
+TANGIBLE FIXED ASSETS
+Fixtures
+Plant and
+and
+Motor
+Computer
+machinery
+fittings
+vehicles
+equipment
+Totals
+£   
+£   
+£   
+£   
+£   
+COST
+At 1 June 2022 
+35,575
+12,004
+8,800
+16,832
+73,211
+Additions
+21,775
+4,713
+-
+=== page 21 ===
+6,775
+33,263
+At 31 May 2023 
+57,350
+16,717
+8,800
+23,607
+106,474
+DEPRECIATION
+At 1 June 2022 
+26,790
+11,605
+8,800
+9,259
+56,454
+Charge for year 
+5,417
+506
+-
+3,592
+9,515
+At 31 May 2023 
+32,207
+12,111
+8,800
+12,851
+65,969
+NET BOOK VALUE
+At 31 May 2023 
+25,143
+4,606
+-
+10,756
+40,505
+At 31 May 2022 
+8,785
+399
+-
+7,573
+16,757
+11.
+FIXED ASSET INVESTMENTS
+Shares in
+group
+undertakings
+£   
+COST
+Additions
+75
+At 31 May 2023
+75
+NET BOOK VALUE
+At 31 May 2023
+75
+The company's investments at the Balance Sheet date in the share capital of companies include the following: 
+PHD Electrical Contractors Limited
+Registered office: 
+United Kingdom 
+Nature of business: 
+Repair of electrical equipment
+%
+Class of shares:
+holding
+Ordinary
+75.00
+12.
+STOCKS
+2023
+2022
+£   
+=== page 22 ===
+£   
+Work-in-progress
+306,732
+283,100
+Page 19
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+13.
+DEBTORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade debtors
+4,620,240
+814,387
+Gross amounts owed by contract
+customer
+1,467,716
+1,397,088
+Other debtors
+832,087
+3,531
+Directors' loan accounts
+-
+100,000
+Tax
+94,484
+53,250
+Deferred tax asset
+-
+37,325
+Prepayments and accrued income
+37,567
+33,846
+7,052,094
+2,439,427
+14.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR 
+2023
+2022
+£   
+£   
+Trade creditors
+3,053,965
+1,041,341
+Amounts owed to group undertakings
+19,975
+-
+Tax
+213,485
+87,078
+Social security and other taxes 
+1,047,604
+209,384
+Other creditors
+750,186
+136,910
+Deferred income
+7,005,122
+907,091
+Accrued expenses
+829,696
+28,999
+12,920,033
+2,410,803
+15.
+LEASING AGREEMENTS
+=== page 23 ===
+Minimum lease payments under non-cancellable operating leases fall due as follows: 
+2023
+2022
+£   
+£   
+Within one year
+62,893
+56,919
+Between one and five years
+51,822
+62,189
+114,715
+119,108
+16.
+PROVISIONS FOR LIABILITIES
+2023
+£   
+Deferred tax
+8,512
+Deferred
+tax
+£   
+Balance at 1 June 2022
+(
+37,325
+)
+Provided during year
+45,837
+Balance at 31 May 2023
+8,512
+Page 20
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+17.
+CALLED UP SHARE CAPITAL
+Allotted, issued and fully paid:
+Number:
+Class:
+Nominal
+2023
+2022
+value:
+£   
+£   
+735,687
+Ordinary
+10p
+736
+736
+18.
+RESERVES
+Capital
+Retained
+redemption
+earnings
+reserve
+Totals
+£   
+£   
+£   
+At 1 June 2022
+2,417,900
+264
+2,418,164
+Profit for the year 
+1,082,957
+1,082,957
+Dividends
+=== page 24 ===
+(
+900,000
+)
+(
+900,000
+)
+At 31 May 2023
+2,600,857
+264
+2,601,121
+19.
+DIRECTORS' ADVANCES, CREDITS AND GUARANTEES
+The following advances and credits to directors subsisted during the years ended 31 May 2023 and 
+31 May 2022: 
+2023
+2022
+£   
+£   
+Mr T Drake
+Balance outstanding at start of year
+-
+60,000
+Amounts repaid
+-
+(
+60,000
+)
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+-
+-
+Mr R M Shearer
+Balance outstanding at start of year
+100,000
+-
+Amounts advanced
+-
+100,000
+Amounts repaid
+(
+100,000
+)
+-
+Amounts written off
+-
+-
+Amounts waived
+-
+-
+Balance outstanding at end of year
+-
+100,000
+Page 21
+continued...
+GREEN FROG CONNECT LIMITED (REGISTERED NUMBER: 07065896)
+NOTES TO THE FINANCIAL STATEMENTS - continued 
+FOR THE YEAR ENDED 31 MAY 2023
+20.
+RELATED PARTY DISCLOSURES
+Transactions with related parties
+Name of related party
+Nature of relationship
+Green Frog Utilities Limited
+Common directorship
+Genovate Power Solutions Limited
+=== page 25 ===
+Common directorship
+Green Frog Power Limited
+Common directorship
+Green Frog Industries Limited
+Common directorship
+PHD Electrical Contractors Limited
+Subsidiary
+Description of 
+Income
+Payments
+transactions
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Green Frog Utilities Limited
+Sales/Purchases
+-
+300
+56,434
+183,518
+Genovate Power Solutions Ltd
+Sales/Purchases
+-
+-
+-
+27,000
+Green Frog Power Limited
+Sales/Purchases
+12,000
+-
+-
+-
+Green Frog Industries Limited
+Sales/Purchases
+-
+-
+2,130
+-
+PHD Electrical Contractors Ltd
+Sales/Purchases
+-
+-
+382,671
+-
+Balances with related parties
+Amounts owed by 
+related parties
+Amounts owed to 
+related parties
+2023
+2022
+2023
+2022
+£
+£
+£
+£
+Green Frog Utilities Limited
+-
+7,613
+-
+-
+Genovate Power Solutions Ltd
+-
+-
+=== page 26 ===
+-
+-
+Green Frog Power Limited
+14,400
+-
+-
+-
+Green Frog Industries Limited
+-
+-
+330
+-
+PHD Electrical Contractors Ltd
+-
+-
+19,975
+-
+Page 22

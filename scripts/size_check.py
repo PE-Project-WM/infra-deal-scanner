@@ -17,8 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = json.load(open(f'{ROOT}/config/valuation.json'))
 M = V['multiple_ranges']
 BAND = V['deal_size_band_gbp']
-C = json.load(open(f'{ROOT}/config/criteria_digital_infra.json'))
-W = C['scoring_weights']
+from settings import C, TYPES
 rk = pd.read_csv(f'{ROOT}/data/outputs/ranking_latest.csv', dtype={'CompanyNumber': str})
 AO = pd.read_csv(f'{ROOT}/config/asset_owners.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber')
 
@@ -45,13 +44,13 @@ for _, r in rk.iterrows():
     num, e = r['CompanyNumber'], r['ebitda']
     out = {'rank': int(r['rank']), 'CompanyNumber': num, 'CompanyName': r['CompanyName'], 'ebitda': e}
     asset = num in AO.index
-    if asset:
-        kind = 'network_asset_owners'
-    else:
-        vis = r['pts_revenue_visibility'] / W['revenue_visibility']
-        kind = 'recurring_services' if vis >= 0.6 else 'project_contractors'
-    band = dict(M[kind])
-    if not asset and pd.notna(e) and e < M['small_ebitda_threshold_gbp']:
+    kind = r['business_type'] if 'business_type' in r and pd.notna(r['business_type']) else ('network_owner' if asset else 'recurring_services')
+    if kind == 'project_company':
+        out.update(size_flag='Within £10–250m' if pd.notna(e) and e > 0 else 'Not estimated', size_basis='Project company: valued on the cash left in its contract (see the price check)', size_kind=TYPES[kind]['label'])
+        rows.append(out)
+        continue
+    band = dict(TYPES[kind]['price_range'])
+    if kind != 'network_owner' and pd.notna(e) and e < M['small_ebitda_threshold_gbp']:
         for k in ('low', 'high'):
             band[k] -= M['small_ebitda_discount']
     if pd.isna(e) or e <= 0:
@@ -59,8 +58,7 @@ for _, r in rk.iterrows():
         rows.append(out)
         continue
     low, high = e * band['low'], e * band['high']
-    basis = {'network_asset_owners': f'Network asset owner: {AO.at[num, "asset_type"].lower() if asset else ""}',
-             'recurring_services': 'Recurring services', 'project_contractors': 'Project contractor'}[kind]
+    basis = f'Network owner: {AO.at[num, "asset_type"].lower()}' if asset else TYPES[kind]['label']
     out.update(ev_low=round(low), ev_high=round(high), mult_low=band['low'], mult_high=band['high'], size_kind=basis)
     text = f'{m(low)}–{m(high)} at {band["low"]:g}–{band["high"]:g}x EBITDA of {m(e)} ({basis.lower()})'
     rep = AO.at[num, 'reported_ev_gbp'] if asset else None

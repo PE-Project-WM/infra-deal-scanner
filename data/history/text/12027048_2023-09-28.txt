@@ -1,0 +1,2500 @@
+=== page 1 ===
+Trust Group Ventures Ltd - Period Ending 2022-11-29
+Trust Group Ventures Ltd
+12027048
+false
+2021-11-30
+2022-11-29
+2022-11-29
+2022-11-29
+The principal activity of the company is is to act as a holding company.
+Digita Accounts Production Advanced
+6.30.9574.0
+true
+true
+true
+false
+false
+false
+true
+false
+false
+false
+12027048
+2021-11-30
+2022-11-29
+12027048
+2022-11-29
+12027048
+bus:OrdinaryShareClass1
+bus:Consolidated
+2022-11-29
+12027048
+bus:Consolidated
+2022-11-29
+12027048
+core:AcceleratedTaxDepreciationDeferredTax
+bus:Consolidated
+2022-11-29
+12027048
+core:OtherDeferredTax
+bus:Consolidated
+2022-11-29
+12027048
+core:Non-controllingInterests
+bus:Consolidated
+2022-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+2022-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2022-11-29
+12027048
+core:ShareCapital
+2022-11-29
+12027048
+core:ShareCapital
+bus:Consolidated
+2022-11-29
+12027048
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+bus:Consolidated
+2022-11-29
+12027048
+core:HirePurchaseContracts
+core:CurrentFinancialInstruments
+2022-11-29
+12027048
+core:HirePurchaseContracts
+core:CurrentFinancialInstruments
+=== page 2 ===
+bus:Consolidated
+2022-11-29
+12027048
+core:CurrentFinancialInstruments
+2022-11-29
+12027048
+core:CurrentFinancialInstruments
+bus:Consolidated
+2022-11-29
+12027048
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2022-11-29
+12027048
+core:CurrentFinancialInstruments
+core:WithinOneYear
+bus:Consolidated
+2022-11-29
+12027048
+core:Non-currentFinancialInstruments
+2022-11-29
+12027048
+core:Non-currentFinancialInstruments
+bus:Consolidated
+2022-11-29
+12027048
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2022-11-29
+12027048
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+bus:Consolidated
+2022-11-29
+12027048
+core:Goodwill
+bus:Consolidated
+2022-11-29
+12027048
+core:BetweenTwoFiveYears
+bus:Consolidated
+2022-11-29
+12027048
+core:WithinOneYear
+bus:Consolidated
+2022-11-29
+12027048
+core:FurnitureFittings
+bus:Consolidated
+2022-11-29
+12027048
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+bus:Consolidated
+2022-11-29
+12027048
+core:MotorVehicles
+bus:Consolidated
+2022-11-29
+12027048
+core:PlantMachinery
+bus:Consolidated
+2022-11-29
+12027048
+core:DeferredTaxation
+bus:Consolidated
+2022-11-29
+12027048
+bus:FRS102
+bus:Consolidated
+=== page 3 ===
+2021-11-30
+2022-11-29
+12027048
+bus:Audited
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:FullAccounts
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:RegisteredOffice
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:Director1
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:Director2
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:Director3
+2021-11-30
+2022-11-29
+12027048
+bus:Director3
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:OrdinaryShareClass1
+2021-11-30
+2022-11-29
+12027048
+bus:OrdinaryShareClass1
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:Consolidated
+1
+2021-11-30
+2022-11-29
+12027048
+bus:Consolidated
+2
+2021-11-30
+2022-11-29
+12027048
+bus:Consolidated
+3
+2021-11-30
+2022-11-29
+12027048
+bus:Consolidated
+1
+2021-11-30
+2022-11-29
+12027048
+=== page 4 ===
+bus:PrivateLimitedCompanyLtd
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+bus:ConsolidatedGroupCompanyAccounts
+2021-11-30
+2022-11-29
+12027048
+core:Non-controllingInterests
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+2021-11-30
+2022-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:ShareCapital
+2021-11-30
+2022-11-29
+12027048
+core:ShareCapital
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+countries:RestWorldOutsideEurope
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+countries:UnitedKingdom
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:Goodwill
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:LandBuildingsUnderOperatingLeases
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:OtherAssetsUnderOperatingLeases
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:Buildings
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:FurnitureFittings
+bus:Consolidated
+2021-11-30
+=== page 5 ===
+2022-11-29
+12027048
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:MotorCars
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:MotorVehicles
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:PlantMachinery
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:DeferredTaxation
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+core:Subsidiary1
+2021-11-30
+2022-11-29
+12027048
+core:Subsidiary1
+1
+2021-11-30
+2022-11-29
+12027048
+core:Subsidiary2
+2021-11-30
+2022-11-29
+12027048
+core:Subsidiary2
+1
+2021-11-30
+2022-11-29
+12027048
+core:Subsidiary3
+2021-11-30
+2022-11-29
+12027048
+core:Subsidiary3
+1
+2021-11-30
+2022-11-29
+12027048
+core:UKTax
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+countries:EnglandWales
+bus:Consolidated
+2021-11-30
+2022-11-29
+12027048
+2021-11-29
+12027048
+bus:Consolidated
+2021-11-29
+12027048
+=== page 6 ===
+core:Non-controllingInterests
+bus:Consolidated
+2021-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+2021-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2021-11-29
+12027048
+core:ShareCapital
+2021-11-29
+12027048
+core:ShareCapital
+bus:Consolidated
+2021-11-29
+12027048
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+bus:Consolidated
+2021-11-29
+12027048
+core:Goodwill
+bus:Consolidated
+2021-11-29
+12027048
+core:CostValuation
+2021-11-29
+12027048
+core:FurnitureFittings
+bus:Consolidated
+2021-11-29
+12027048
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+bus:Consolidated
+2021-11-29
+12027048
+core:MotorVehicles
+bus:Consolidated
+2021-11-29
+12027048
+core:PlantMachinery
+bus:Consolidated
+2021-11-29
+12027048
+core:DeferredTaxation
+bus:Consolidated
+2021-11-29
+12027048
+2020-11-30
+2021-11-29
+12027048
+2021-11-29
+12027048
+bus:OrdinaryShareClass1
+bus:Consolidated
+2021-11-29
+12027048
+bus:Consolidated
+2021-11-29
+12027048
+bus:Consolidated
+core:RestatedAmount
+2021-11-29
+12027048
+core:AcceleratedTaxDepreciationDeferredTax
+bus:Consolidated
+2021-11-29
+12027048
+=== page 7 ===
+core:OtherDeferredTax
+bus:Consolidated
+2021-11-29
+12027048
+core:HirePurchaseContracts
+core:CurrentFinancialInstruments
+2021-11-29
+12027048
+core:HirePurchaseContracts
+core:CurrentFinancialInstruments
+bus:Consolidated
+2021-11-29
+12027048
+core:CurrentFinancialInstruments
+2021-11-29
+12027048
+core:CurrentFinancialInstruments
+bus:Consolidated
+2021-11-29
+12027048
+core:CurrentFinancialInstruments
+core:WithinOneYear
+2021-11-29
+12027048
+core:CurrentFinancialInstruments
+core:WithinOneYear
+bus:Consolidated
+2021-11-29
+12027048
+core:CurrentFinancialInstruments
+core:WithinOneYear
+bus:Consolidated
+core:RestatedAmount
+2021-11-29
+12027048
+core:Non-currentFinancialInstruments
+2021-11-29
+12027048
+core:Non-currentFinancialInstruments
+bus:Consolidated
+2021-11-29
+12027048
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+2021-11-29
+12027048
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+bus:Consolidated
+2021-11-29
+12027048
+core:Non-currentFinancialInstruments
+core:AfterOneYear
+bus:Consolidated
+core:RestatedAmount
+2021-11-29
+12027048
+core:Goodwill
+bus:Consolidated
+2021-11-29
+12027048
+core:BetweenTwoFiveYears
+bus:Consolidated
+2021-11-29
+12027048
+core:WithinOneYear
+bus:Consolidated
+2021-11-29
+12027048
+core:FurnitureFittings
+=== page 8 ===
+bus:Consolidated
+2021-11-29
+12027048
+core:LandBuildings
+core:OwnedOrFreeholdAssets
+bus:Consolidated
+2021-11-29
+12027048
+core:MotorVehicles
+bus:Consolidated
+2021-11-29
+12027048
+core:PlantMachinery
+bus:Consolidated
+2021-11-29
+12027048
+bus:OrdinaryShareClass1
+2020-11-30
+2021-11-29
+12027048
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+bus:Consolidated
+1
+2020-11-30
+2021-11-29
+12027048
+bus:Consolidated
+2
+2020-11-30
+2021-11-29
+12027048
+bus:Consolidated
+3
+2020-11-30
+2021-11-29
+12027048
+bus:Consolidated
+core:RestatedAmount
+2020-11-30
+2021-11-29
+12027048
+core:Non-controllingInterests
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+2020-11-30
+2021-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+core:ShareCapital
+2020-11-30
+2021-11-29
+12027048
+core:ShareCapital
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+bus:Consolidated
+2020-11-30
+=== page 9 ===
+2021-11-29
+12027048
+countries:RestWorldOutsideEurope
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+countries:UnitedKingdom
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+core:LandBuildingsUnderOperatingLeases
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+core:OtherAssetsUnderOperatingLeases
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+core:Subsidiary1
+1
+2020-11-30
+2021-11-29
+12027048
+core:Subsidiary2
+1
+2020-11-30
+2021-11-29
+12027048
+core:Subsidiary3
+1
+2020-11-30
+2021-11-29
+12027048
+core:UKTax
+bus:Consolidated
+2020-11-30
+2021-11-29
+12027048
+2020-11-29
+12027048
+bus:Consolidated
+2020-11-29
+12027048
+core:Non-controllingInterests
+bus:Consolidated
+2020-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+2020-11-29
+12027048
+core:RetainedEarningsAccumulatedLosses
+bus:Consolidated
+2020-11-29
+12027048
+core:ShareCapital
+2020-11-29
+12027048
+core:ShareCapital
+bus:Consolidated
+2020-11-29
+12027048
+core:TotalEquityAttributableToOwnersParentBeforeNon-controllingInterests
+bus:Consolidated
+2020-11-29
+iso4217:GBP
+xbrli:pure
+=== page 10 ===
+xbrli:shares
+Registration number: 
+12027048
+Trust Group Ventures Ltd
+Annual Report and Consolidated Financial Statements
+for the Year Ended 29 November 2022 
+Beever and Struthers
+One Express
+1 George Leigh Street
+Manchester
+M4 5DL
+Trust Group Ventures Ltd
+Contents
+Company Information
+1
+Strategic Report
+2
+ to 
+3
+Directors' Report
+4
+Statement of Directors' Responsibilities
+5
+Independent Auditor's Report
+6
+ to 
+9
+Consolidated Income Statement
+10
+Consolidated Statement of Financial Position
+11
+Statement of Financial Position
+12
+Consolidated Statement of Changes in Equity
+13
+Statement of Changes in Equity
+14
+Consolidated Statement of Cash Flows
+15
+Notes to the Financial Statements
+16
+ to 
+32
+Trust Group Ventures Ltd
+Company Information
+Directors
+Mr V P Leahy
+Mr T Ambrose
+Mrs J B Leahy
+Registered office
+Phoenix Park Industrial Estate
+Park Street
+Heywood
+Lancashire
+OL10 2AB
+Auditors
+Beever and Struthers
+One Express
+1 George Leigh Street
+Manchester
+M4 5DL
+Page 1
+Trust Group Ventures Ltd
+Strategic Report for the Year Ended 29 November 2022
+The directors present their strategic report for the year ended 29 November 2022. 
+Principal activity
+The principal activity of the group is is to act as a holding company.
+The principal activities of the subsidiary companies are the supply, distribution and support to business of high quality voice and data solutions.
+Fair review of the business
+During the year ended 29 November 2022, the plans of Trust Distribution Ltd    (“Trust”) and SOS Communications Ltd ("SOS") continued to be impacted by the pandemic. Our overriding priority has continued to be the stability of our sales and profitability, this year was when we felt the full impact of Panasonic leaving the telecoms market permanently and Mitel stopping production of the MiVoice250 phone system.  This was our best seller, and we unfortunately lost a lot of customers to other vendors due to this, vendors which we didn’t have in our portfolio.  We also have seen our market shrink by approx. 100 resellers as the 6/7 large telecoms channel companies embarked on their acquisition journeys.
+=== page 11 ===
+Trust has seen an accumulative £8million downturn in revenue 2020-2022 as a result of the disruption detailed above.  However we added in new revenue of £2million in 2022 by finding new products and services to take to market.  This came at a large cost as we invested heavily in new products and infrastructure, to guide the business into its new “hybrid” sales, not just “on premises” sales but moving into Cloud based recurring revenue products and services. Interest rates increased as did our borrowings, reflecting again the disruption detailed above and as shareholders and directors we continue to keep a tight control on the companies finances.
+Despite the continued disruption as seen in 2020/21, Trust, in 2022, produced another credible year of trading with turnover of £12.7m. with gross margin being £1.9m (down from 2021).  SOS has experienced a similar impact.
+It’s important to point out that as we publish these 2022 Accounts that the 1st 7 trading months of 2023 the group has seen a dramatic positive change we have almost halved the 2020-2022 profit deficit, and the group’s profitability is on a steep upward trajectory as we see the 2022 investments into new products and services start to come to fruition.  In addition through natural progression staffing levels have lowered adding to reduced monthly salary costs.  The company has had to transition quickly into the new hybrid world, of less hardware sales and more cloud based sales to mitigate the unseen impacts the pandemic caused and the investments costs/turnover and profit losses we incurred in 2022 unfortunately is still a direct result of the pandemic, however, as stated, 2023 has become a year of seeing that turn around.
+Our new Cloud based and Licence services are growing well as are our Hospitality Phones sales, Trust is the exclusive distributor of Vtech Hospitality phones across EMEA…. 
+We have also seen our SIP and Cloud services company TruSIP Ltd grow at a remarkable rate, and as a 60% shareholder, The group is experiencing the benefit of that too……….2023 will finish strong 
+We continue to maintain strong relationships with our banks and suppliers.  These relationships, combined with the support provided by the shareholders through the year, is key to the ongoing success of the group .
+Page 2
+Trust Group Ventures Ltd
+Strategic Report for the Year Ended 29 November 2022
+Principal risks and uncertainties
+The principal risks and uncertainties facing the business are explained in more detail above, but in summary relate to: 
+Market disruption
+Reference the notes above, the group is looking to mitigate these risks by developing new revenue streams and customer bases.
+Credit risk
+The directors are involved in the operation of the group on a day to day basis, and as such are well placed to keep a firm control on all debt, and maintain close relationships with all customers.
+Liquidity risk
+Likewise the close involvement of the directors in all aspects of the group’s operations means they are well placed to monitor the cost basis, and maintain close relationships with all suppliers and funders.
+Interest rate risks
+The rise in interest rates has inevitably impacted the reported results.
+Key performance indicators
+The directors are closely involved in the operations of the business, and as such do not require formal reporting of key performance indicators.
+The indicators of most relevance in current market conditions relate to revenue and margins, as referred to in the review above.
+Approved and authorised by the 
+Board
+ on 
+18 September 2023
+ and signed on its behalf by:
+.........................................
+Mrs J B Leahy
+Director
+Page 3
+Trust Group Ventures Ltd
+Directors' Report for the Year Ended 29 November 2022
+The directors present their report and the  for the year ended 29 November 2022. 
+Directors of the group
+The directors who held office during the year were as follows:
+Mr V P Leahy
+Mr T Ambrose
+Mrs J B Leahy
+Going concern
+The financial statements have been prepared on a going concern basis, which assumes the group will continue in operational existence for the foreseaable future.  Accordingly,  the assets are recognised and measured on the basis that the company expects to recover the recorded amounts in the normal course of business and the liabilities are recognised and measured on the basis that they will be discharged in the normal course of business.
+The validity of the assumptions depends on the continued support of the directors and other members of the group.
+The directors are satisfied that this continued support of the directors has been granted and the directors therefore consider that it is appropriate to prepare the financial statements on a going concern basis.
+Disclosure of information to the auditor
+Each director has taken steps that they ought to have taken as a director in order to make themselves aware of any relevant audit information and to establish that the company's auditor is aware of that information. The directors confirm that there is no relevant information that they know of and of which they know the auditor is unaware.
+Approved and authorised by the 
+Board
+ on 
+18 September 2023
+ and signed on its behalf by:
+.........................................
+Mrs J B Leahy
+Director
+Page 4
+Trust Group Ventures Ltd
+Statement of Directors' Responsibilities
+The directors acknowledge their responsibilities for preparing the Annual Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the group and the company and of the profit or loss of the group for that period. In preparing these financial statements, the directors are required to:
+•
+select suitable accounting policies and apply them consistently;
+•
+make judgements and accounting estimates that are reasonable and prudent;
+•
+state whether applicable UK Accounting Standards have been followed, subject to any material departures disclosed and explained in the financial statements; and
+•
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the group's and the company's transactions and disclose with reasonable accuracy at any time the financial position of the group and the company and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the group and the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Page 5
+Trust Group Ventures Ltd
+Independent Auditor's Report to the Members of Trust Group Ventures Ltd
+=== page 12 ===
+Opinion
+We have audited  the financial statements of Trust Group Ventures Ltd (the 'parent company') and its subsidiaries (the 'group') for the year ended 29 November 2022, which comprise the Consolidated Income Statement, Consolidated Statement of Financial Position, Statement of Financial Position, Consolidated Statement of Changes in Equity, Statement of Changes in Equity, Consolidated Statement of Cash Flows, and Notes to the Financial Statements, including a summary of significant accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards, including Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the UK and Republic of Ireland' (United Kingdom Generally Accepted Accounting Practice).
+In our opinion the financial statements:
+•
+give a true and fair view of the state of the group's and the parent company's affairs as at 29 November 2022 and of the group's loss for the year then ended;
+•
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+•
+have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the auditor responsibilities for the audit of the financial statements section of our report. We are independent of the group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Emphasis of matter
+We draw your attention to note 2 to the financial statements which describes the basis on which the accounts are prepared relating to going concern.  Our opinion is not modified in this respect.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the director's use of the going concern basis of accounting in the preparation of the financial statements is appropriate. 
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the group's ability to continue as a going concern for a period of at least twelve months from when the original financial statements were authorised for issue.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+Other information
+The directors are responsible for the other information. The other information comprises the information included in the annual report, other than the financial statements and our auditor’s report thereon. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+Page 6
+Trust Group Ventures Ltd
+Independent Auditor's Report to the Members of Trust Group Ventures Ltd
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinion on other matter prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+•
+the information given in the Strategic Report and Directors' Report for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+•
+the Strategic Report and Directors' Report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of our knowledge and understanding of the company and its environment obtained in the course of the audit, we have not identified material misstatements in the Strategic Report and the Directors' Report.
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if, in our opinion:
+•
+adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received from branches not visited by us; or
+•
+the parent company financial statements are not in agreement with the accounting records and returns; or
+•
+certain disclosures of directors' remuneration specified by law are not made; or
+•
+we have not received all the information and explanations we require for our audit.
+Responsibilities of directors
+As explained more fully in the Statement of Directors' Responsibilities, set out on page 
+5
+, the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic alternative but to do so.
+Auditor Responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below:
+Page 7
+Trust Group Ventures Ltd
+Independent Auditor's Report to the Members of Trust Group Ventures Ltd
+We identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, and then design and perform audit procedures responsive to those risks, including obtaining audit evidence that is sufficient and appropriate to provide a basis for our opinion.
+In identifying and addressing risks of material misstatement in respect of irregularities, including fraud and non-compliance with laws and regulations, our procedures included the following:
+•
+We obtained an understanding of laws and regulations that affect the Group and the Company, focusing on those that had a direct effect on the financial statements or that had a fundamental effect on its operations. Key laws and regulations that we identified included the Companies Act 2006 and tax legislation.
+•
+We enquired of the Directors and reviewed meeting minutes for evidence of non-compliance with relevant laws and regulations.
+•
+We enquired of the Directors about any incidences of fraud that had taken place during the accounting period.
+•
+The risk of fraud and non-compliance with laws and regulations was discussed within the audit team and tests were planned and performed to address these risks.
+•
+We enquired of the Directors about actual and potential litigation and claims.
+•
+We performed analytical procedures to identify any unusual or unexpected relationships that might indicate risks of material misstatement due to fraud.
+•
+In addressing the risk of fraud due to management override of internal controls we tested the appropriateness of journal entries and assessed whether the judgements made in making accounting estimates were indicative of a potential bias.
+Due to the inherent limitations of an audit, there is an unavoidable risk that we may not have detected some material misstatements in the financial statements, even though we have properly planned and performed our audit in accordance with auditing standards. For example, as with any audit, there remained a higher risk of non-detection of irregularities, as these may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal controls.  We are not responsible for preventing fraud or non-compliance with laws and regulations and cannot be expected to detect all fraud and non-compliance with laws and regulations.
+A further description of our responsibilities is available on the Financial Reporting Council’s website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+=== page 13 ===
+Page 8
+Trust Group Ventures Ltd
+Independent Auditor's Report to the Members of Trust Group Ventures Ltd
+Use of our report
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+......................................
+Caroline Monk BA BFP FCA
+ (Senior Statutory Auditor)
+For and on behalf of 
+Beever and Struthers
+, Statutory Auditor
+One Express
+1 George Leigh Street
+Manchester
+M4 5DL
+27 September 2023
+Page 9
+Trust Group Ventures Ltd
+Consolidated Income Statement for the Year Ended 29 November 2022
+Note
+2022
+£
+2021
+£
+Turnover
+3
+15,237,840
+17,084,322
+Cost of sales
+(
+12,331,899
+)
+(
+14,149,134
+)
+Gross profit
+2,905,941
+2,935,188
+Administrative expenses
+(
+3,054,460
+)
+(
+3,027,244
+)
+Other operating income
+4
+-
+22,251
+Operating loss
+5
+(
+148,519
+)
+(
+69,805
+)
+Other interest receivable and similar income
+6
+19
+1,817
+Interest payable and similar expenses
+7
+(
+13,275
+)
+(
+26,182
+)
+(13,256)
+=== page 14 ===
+(24,365)
+Loss before tax
+(
+161,775
+)
+(
+94,170
+)
+Tax on loss
+11
+(
+6,818
+)
+(
+24,293
+)
+Loss for the financial year
+(
+168,593
+)
+(
+118,463
+)
+Profit/(loss) attributable to:
+Owners of the company
+(
+229,777
+)
+(
+150,936
+)
+Minority interests
+61,184
+32,473
+(
+168,593
+)
+(
+118,463
+)
+The group has no recognised gains or losses for the year other than the results above.
+The notes on pages 
+16
+ to 
+32
+ form an integral part of these financial statements.
+Page 10
+Trust Group Ventures Ltd
+(Registration number: 12027048)
+ Consolidated Statement of Financial Position as at 29 November 2022
+Note
+2022
+£
+As restated
+2021
+£
+Fixed assets
+Intangible assets
+12
+1,818,166
+2,053,547
+Tangible assets
+13
+386,026
+445,633
+2,204,192
+2,499,180
+Current assets
+Stocks
+15
+=== page 15 ===
+1,200,678
+1,627,890
+Debtors
+16
+2,582,764
+3,326,859
+Cash at bank and in hand
+103,304
+434,025
+3,886,746
+5,388,774
+Creditors
+: Amounts falling due within one year
+17
+(
+5,836,459
+)
+(
+6,988,933
+)
+Net current 
+liabilities
+(
+1,949,713
+)
+(
+1,600,159
+)
+Total assets less current liabilities
+254,479
+899,021
+Creditors
+: Amounts falling due after more than one year
+17
+(
+1,348,019
+)
+(
+1,632,810
+)
+Provisions for liabilities
+18
+(
+34,658
+)
+(
+41,777
+)
+Net 
+liabilities
+(
+1,128,198
+)
+(
+775,566
+)
+Capital and reserves
+Called up share capital
+20
+200
+200
+Retained earnings
+21
+(1,156,143)
+(742,327)
+Equity attributable to owners of the company
+(1,155,943)
+(742,127)
+Minority interests
+27,745
+=== page 16 ===
+(33,439)
+Shareholders' deficit
+(1,128,198)
+(775,566)
+Approved and authorised by the 
+Board
+ on 
+18 September 2023
+ and signed on its behalf by:
+.........................................
+Mrs J B Leahy
+Director
+The notes on pages 
+16
+ to 
+32
+ form an integral part of these financial statements.
+Page 11
+Trust Group Ventures Ltd
+(Registration number: 12027048)
+ Statement of Financial Position as at 29 November 2022
+Note
+2022
+£
+2021
+£
+Fixed assets
+Investments
+14
+1,950,837
+1,950,837
+Current assets
+Debtors
+16
+3
+3
+Creditors
+: Amounts falling due within one year
+17
+(
+742,564
+)
+(
+559,060
+)
+Net current 
+liabilities
+(
+742,561
+)
+(
+559,057
+)
+Total assets less current liabilities
+1,208,276
+1,391,780
+Creditors
+: Amounts falling due after more than one year
+17
+(
+1,208,076
+)
+(
+1,391,580
+)
+Net 
+assets
+200
+200
+Capital and reserves
+=== page 17 ===
+Called up share capital
+20
+200
+200
+Shareholders' funds
+200
+200
+The company made a profit after tax for the financial year of £184,039 (2021 - profit of £187,052).
+Approved and authorised by the 
+Board
+ on 
+18 September 2023
+ and signed on its behalf by:
+.........................................
+Mrs J B Leahy
+Director
+The notes on pages 
+16
+ to 
+32
+ form an integral part of these financial statements.
+Page 12
+Trust Group Ventures Ltd
+Consolidated Statement of Changes in Equity for the Year Ended 29 November 2022
+Equity attributable to the parent company
+Share capital
+£
+Retained earnings
+£
+Total
+£
+Non- controlling interests
+£
+Total equity
+£
+At 30 November 2021
+200
+(
+742,327
+)
+(
+742,127
+)
+(
+33,439
+)
+(
+775,566
+)
+(Loss)/profit for the year
+-
+(
+229,777
+)
+(
+229,777
+)
+61,184
+(
+168,593
+)
+Dividends
+-
+(
+184,039
+)
+(
+184,039
+)
+-
+=== page 18 ===
+(
+184,039
+)
+At 29 November 2022
+200
+(
+1,156,143
+)
+(
+1,155,943
+)
+27,745
+(
+1,128,198
+)
+Share capital
+£
+Retained earnings
+£
+Total
+£
+Non- controlling interests
+£
+Total equity
+£
+At 30 November 2020
+200
+(
+320,452
+)
+(
+320,252
+)
+-
+(
+320,252
+)
+(Loss)/profit for the year 
+-
+(
+150,936
+)
+(
+150,936
+)
+32,473
+(
+118,463
+)
+Dividends 
+-
+(
+187,052
+)
+(
+187,052
+)
+-
+(
+187,052
+)
+Increase in ownership interests in subsidiaries 
+-
+(
+83,887
+)
+(
+83,887
+)
+(
+=== page 19 ===
+65,912
+)
+(
+149,799
+)
+At 29 November 2021 (As restated)
+200
+(742,327)
+(742,127)
+(33,439)
+(775,566)
+The notes on pages 
+16
+ to 
+32
+ form an integral part of these financial statements.
+Page 13
+Trust Group Ventures Ltd
+Statement of Changes in Equity for the Year Ended 29 November 2022
+Share capital
+£
+Retained earnings
+£
+Total
+£
+At 30 November 2021
+200
+-
+200
+Profit for the year
+-
+184,039
+184,039
+Dividends
+-
+(
+184,039
+)
+(
+184,039
+)
+At 29 November 2022
+200
+-
+200
+Share capital
+£
+Retained earnings
+£
+Total
+£
+At 30 November 2020
+200
+-
+200
+Profit for the year 
+-
+187,052
+187,052
+Dividends 
+-
+(
+187,052
+)
+(
+187,052
+)
+At 29 November 2021
+200
+-
+=== page 20 ===
+200
+The notes on pages 
+16
+ to 
+32
+ form an integral part of these financial statements.
+Page 14
+Trust Group Ventures Ltd
+Consolidated Statement of Cash Flows for the Year Ended 29 November 2022
+Note
+2022
+£
+2021
+£
+Cash flows from operating activities
+Loss for the year
+(
+168,593
+)
+(
+118,463
+)
+Adjustments to cash flows from non-cash items
+Depreciation and amortisation
+5
+296,268
+293,859
+Finance income
+6
+(
+19
+)
+(
+1,817
+)
+Finance costs
+7
+13,938
+10,005
+Income tax expense
+11
+6,818
+24,293
+Accrued expenses
+53,080
+1,036
+201,492
+208,913
+Working capital adjustments
+Decrease in stocks
+15
+427,212
+399,129
+Decrease/(increase) in trade debtors
+16
+75,279
+(
+700,870
+)
+(Decrease)/increase in trade creditors
+17
+(
+393,320
+)
+157,647
+Cash generated from operations
+310,663
+64,819
+Income taxes paid
+11
+=== page 21 ===
+(
+31,574
+)
+(
+12,547
+)
+Net cash flow from operating activities
+279,089
+52,272
+Cash flows from investing activities
+Interest received
+19
+1,817
+Acquisitions of tangible assets
+(
+1,279
+)
+(
+11,331
+)
+Acquisition of subsidiaries
+14
+-
+(
+149,799
+)
+Net cash flows from investing activities
+(
+1,260
+)
+(
+159,313
+)
+Cash flows from financing activities
+Interest paid
+7
+(
+13,938
+)
+(
+10,005
+)
+Proceeds from bank borrowing draw downs
+-
+35,230
+Repayment of bank borrowing
+24,866
+-
+Directors loan advanced
+125,000
+-
+Repayment of other borrowing
+(
+544,929
+)
+-
+Payments to finance lease creditors
+(
+15,608
+)
+(
+18,461
+)
+Dividends paid
+(
+184,039
+)
+(
+187,052
+)
+=== page 22 ===
+Net cash flows from financing activities
+(
+608,648
+)
+(
+180,288
+)
+Net decrease in cash and cash equivalents
+(
+330,819
+)
+(
+287,329
+)
+Cash and cash equivalents at 30 November
+434,025
+721,354
+Cash and cash equivalents at 29 November
+103,206
+434,025
+The notes on pages 
+16
+ to 
+32
+ form an integral part of these financial statements.
+Page 15
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+1
+General information
+The company is a private company limited by share capital, incorporated in England and Wales.
+The address of its registered office is:
+Phoenix Park Industrial Estate
+Park Street
+Heywood
+Lancashire
+OL10 2AB
+These financial statements were authorised for issue by the 
+Board
+ on 
+18 September 2023
+.
+2
+Accounting policies
+Summary of significant accounting policies and key accounting estimates
+ The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+Statement of compliance
+These financial statements were prepared in accordance with Financial Reporting Standard 102 'The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland and the Companies Act 2006'.
+Basis of preparation
+These financial statements have been prepared using the historical cost convention.
+The financial statements are prepared in sterling, which is the functional currency of the entity.
+Summary of disclosure exemptions
+The parent company satisfies the criteria of being a qualifying entity as defined in FRS 102.  As such, advantage has been taken of the following reduced disclosures avaialbe under FRS 102:
+(a) No cash flow statement has been presented for the company.
+(b) Disclosures in respect of financial instruments have not been presented..
+Basis of consolidation
+The consolidated financial statements consolidate the financial statements of the company and its subsidiary undertakings drawn up to 29 November 2022.
+The parent company has applied the exemption contained in section 408 of the Companies Act 2006 and has not presented its individual income statement.
+Non-Controlling Interests
+Minority interests in the net assets of consolidated subsidiaries are identified separately from the Groups' equity. Minority interests consist of the amount of those interests at the date of the original business combination and the minority's share of changes in equity since the date of the combination.
+The proportions of profit and loss and changes in equity allocated to the owners of the parent and to the minority interests are determined on the basis of existing ownership interests and do not reflect the possible exercise or conversion of options or convertible instruments.
+Page 16
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+Going concern
+The financial statements have been prepared on a going concern basis, which assumes that the group will continue in operational existence for the forseeable future.  Accordingly, the assets are recognised and measured on the basis that the group expects to recover the recorded amounts in the normal course of business and the liabilities are recognised and measured on the basis that theywill be discharged in the normal course of business.
+The validity of this depends on various factors, taking into account the current market conditions within the telecoms industry and the continued impact of the COVID  pandemic leading to changes in customer behaviour.  The directors have reviewed the business plans for the group and on this basis are satsified that they are taking the necessary steps to drive the business of the group forward, and so consider it appropriate to prepare the financial statements on a going concern basis.
+Page 17
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+=== page 23 ===
+Prior period errors
+In July 2021, Trust Distirbution Ltd entered into an agreement wherby it acquired a further 834 shares in Trusip Limited, total acquisition price £102,000.
+This transaction was not reflected in the accounting records in the year ended 29 November 2021, the prior year adjustment corrects this position.
+The error understated intangible fixed asset, current assets, current liabilities and long term liabilities by the amounts shown below.
+Per 2021 accounts
+£
+PYA identified
+£
+Revised
+£
+Intangible fixed assets
+1,951,547
+102,000
+2,053,547
+Tangible assets
+445,633
+-
+445,633
+Investments
+50
+(50)
+-
+Current assets
+5,403,270
+(14,495)
+5,388,775
+Current liabilities
+(6,931,229)
+(57,705)
+(6,988,934)
+Liabilities falling due after one year
+(1,603,060)
+(29,750)
+(1,632,810)
+Provisions for liabilities
+(41,777)
+-
+(41,777)
+-
+-
+-
+Net liabilities
+(775,566)
+-
+(775,566)
+-
+-
+-
+Share capital
+200
+-
+200
+Profit and loss account
+(742,327)
+-
+(742,327)
+Minority Interests
+(33,439)
+-
+(33,439)
+-
+-
+-
+Shareholders' deficit
+(775,566)
+-
+(775,566)
+Page 18
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+=== page 24 ===
+Judgements
+The preparation of the financial statements requires management to make judgements, estimates and assumptions that affect the amounts reported.  These estimates and judgements are continually reviewed and are based on experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+Significant judgements
+The judgements (apart from those involving estimations) that management has made in the process of applying the entity's accounting policies and that have the most significant effect on the amounts recognised in the financial statements are as follows:
+• Determination of whether there are indicators of impairment of the group's company's intangible and tangible fixed assets. Factors taken into consideration in reaching such a decision include the economic viability and expected future financial performance of the assets.
+• Determination of whether leases entered into by the group and company as lessee are operating or finance leases. These decisions depend on an assessment of whether the risks and rewards of ownership have been transferred from the lessor to the lessee on a lease by lease basis.
+• Determination of recoverability of trade debtors. A specific provision is made against certain debts where in the opinion of the directors the debt is not fully recoverable.
+• Determination of whether a provision against stock is considered necessary.
+Key sources of estimation uncertainty
+Accounting estimates and assumptions are made concerning the future and, by their nature, will rarely equal the related actual outcome. The key assumptions and other sources of estimation uncertainty that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are as follows:
+• Tangible fixed assets are depreciated over their useful lives taking into account residual values, where appropriate. The actual lives of the assets and residual values are assessed annually and may vary depending on a number of factors. In re-assessing asset lives, factors such as technological innovation, product life cycles and maintenance are taken into account. Residual value assessments consider issues such as future market conditions, the remaining life of the asset and projected disposal values.
+• Recoverability of trade debtors. A specific provision of £13,225 has been made against debts where in the opinion of the directors the debt is not considered to be fully recoverable.
+• Valuation of stock. A specific provision of £137,589 has been made against stock where in the opinion of the directors the cost needs to be written down.
+Revenue recognition
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of services in the ordinary course of the group’s activities. Turnover is shown net of sales/value added tax, returns, rebates and discounts and after eliminating sales within the group.
+Revenue from the sale of goods is recognised when the significant risks and rewards of organisation of the goods have transferred to the buyer, usually on despatch of the goods, the amount of revenue can be measured reliably, it is probable that the associated economic benefits will flow to the entity, and the costs incurred or to be incurred in respect of the transactions cna be measured reliably.
+Page 19
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+Foreign currency transactions and balances
+Transactions in foreign currencies are initially recorded at the functional currency rate prevailing at the date of the transaction. Monetary assets and liabilities denominated in foreign currencies are retranslated into the respective functional currency of the entity at the rates prevailing on the reporting period date.
+Tax
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a change attributable to an item of income or expense recognised as other comprehensive income is also recognised directly in other comprehensive income.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the reporting date in the countries where the group operates and generates taxable income.
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the consolidated financial statements.
+ Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+ Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the reporting date and that are expected to apply to the reversal of the timing difference.
+Tangible assets
+Tangible assets are stated in the statement of financial position at cost, less any subsequent accumulated depreciation and subsequent accumulated impairment losses.
+Depreciation
+Depreciation is charged so as to write off the cost of assets, over their estimated useful lives, as follows:
+Asset class
+Depreciation method and rate
+Leasehold property
+Over 20 years
+Plant and machinery
+20% straight line
+Fixtures and fittings
+20% straight line
+Motor vehicles
+25% straight line
+Business combinations
+Business combinations are accounted for using the purchase method. The consideration for each acquisition is measured at the aggregate of the fair values at acquisition date of assets given, liabilities incurred or assumed, and equity instruments issued by the group in exchange for control of the acquired, plus any costs directly attributable to the business combination. When a business combination agreement provides for an adjustment to the cost of the combination contingent on future events, the group includes the estimated amount of that adjustment in the cost of the combination at the acquisition date if the adjustment is probable and can be measured reliably.
+Goodwill
+Goodwill arising on the acquisition of an entity represents the excess of the cost of acquisition over the group’s interest in the net fair value of the identifiable assets, liabilities and contingent liabilities of the entity recognised at the date of acquisition. Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less accumulated amortisation and accumulated impairment losses.  Goodwill is amortised over its useful life, which shall not exceed ten years if a reliable estimate of the useful life cannot be made.
+Page 20
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+Amortisation
+Amortisation is provided on intangible assets so as to write off the cost, less any estimated residual value, over their useful life as follows:
+Asset class
+Amortisation method and rate
+Goodwill
+10% straight line
+Investments
+Investments in equity shares which are not publicly traded and where fair value cannot be measured reliably are measured at cost less impairment.
+Dividends on equity securities are recognised in income when receivable.
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+Trade debtors
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary course of business.
+ Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost using the effective interest method, less provision for impairment. A provision for the impairment of trade debtors is established when there is objective evidence that the group will not be able to collect all amounts due according to the original terms of the receivables.
+Stocks
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost is determined using the first-in, first-out (FIFO) method.
+Trade creditors
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if the group does not have an unconditional right, at the end of the reporting period, to defer settlement of the creditor for at least twelve months after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the reporting date, they are presented as non-current liabilities.
+ Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using the effective interest method.
+Borrowings
+Interest-bearing borrowings are initially recorded at fair value, net of transaction costs. Interest-bearing borrowings are subsequently carried at amortised cost, with the difference between the proceeds, net of transaction costs, and the amount due on redemption being recognised as a charge to the income statement over the period of the relevant borrowing.
+ Interest expense is recognised on the basis of the effective interest method and is included in interest payable and similar charges.
+=== page 25 ===
+ Borrowings are classified as current liabilities unless the group has an unconditional right to defer settlement of the liability for at least twelve months after the reporting date.
+Page 21
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+Leases
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as operating leases. Payments made under operating leases are charged to profit or loss on a straight-line basis over the period of the lease.
+ Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+ Assets held under finance leases are recognised at the lower of their fair value at inception of the lease and the present value of the minimum lease payments. These assets are depreciated on a straight-line basis over the shorter of the useful life of the asset and the lease term. The corresponding liability to the lessor is included in the statement of financial position as a finance lease obligation.
+ Lease payments are apportioned between finance costs in the income statement and reduction of the lease obligation so as to achieve a constant periodic rate of interest on the remaining balance of the liability.
+Share capital
+Ordinary shares are classified as equity.
+Dividends
+Dividend distribution to the group’s shareholders is recognised as a liability in the financial statements in the reporting period in which the dividends are declared.
+Defined contribution pension obligation
+A defined contribution plan is a pension plan under which fixed contributions are paid into a pension fund and the group has no legal or constructive obligation to pay further contributions even if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+ Contributions to defined contribution plans are recognised as employee benefit expense when they are due. If contribution payments exceed the contribution due for service, the excess is recognised as a prepayment.
+3
+Turnover
+The analysis of the group's turnover for the year from continuing operations is as follows:
+2022
+£
+2021
+£
+Sale of goods
+15,237,840
+17,084,322
+The turnover is attributable to the one principal activity of the group. The analysis of the group's turnover for the year by market is as follows:
+2022
+£
+2021
+£
+UK
+13,474,133
+15,572,241
+Overseas
+1,763,707
+1,512,081
+15,237,840
+17,084,322
+Page 22
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+4
+Other operating income
+The analysis of the group's other operating income for the year is as follows:
+2022
+£
+2021
+£
+Management charges receivable
+-
+22,251
+5
+Operating loss 
+Arrived at after charging/(crediting)
+2022
+£
+2021
+£
+Depreciation expense
+60,887
+58,478
+Amortisation expense
+235,381
+235,381
+Foreign exchange (gains)/losses
+(
+663
+)
+16,177
+=== page 26 ===
+Operating lease expense - property
+80,550
+80,550
+Operating lease expense - other
+5,562
+4,709
+6
+Other interest receivable and similar income
+2022
+£
+2021
+£
+Interest income on bank deposits
+19
+1,817
+7
+Interest payable and similar expenses
+2022
+£
+2021
+£
+Interest on bank overdrafts and borrowings
+12,620
+10,005
+Interest on obligations under finance leases and hire purchase contracts
+1,318
+-
+Foreign exchange (losses)/gains
+(
+663
+)
+16,177
+13,275
+26,182
+Page 23
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+8
+Staff costs
+The aggregate payroll costs (including directors' remuneration) were as follows:
+2022
+£
+2021
+£
+Wages and salaries
+1,549,612
+1,706,123
+Social security costs
+179,551
+178,574
+Pension costs, defined contribution scheme
+42,886
+46,672
+1,772,049
+1,931,369
+The average number of persons employed by the group (including directors) during the year, analysed by category was as follows:
+2022
+No.
+2021
+No.
+Administrative staff
+36
+33
+Distribution staff
+6
+6
+Management staff
+7
+7
+49
+=== page 27 ===
+46
+9
+Directors' remuneration
+The directors' remuneration for the year was as follows:
+2022
+£
+2021
+£
+Remuneration 
+124,898
+35,800
+Contributions paid to money purchase schemes
+12,145
+13,126
+137,043
+48,926
+During the year the number of directors who were receiving benefits and share incentives was as follows:
+2022
+No.
+2021
+No.
+Accruing benefits under money purchase pension scheme
+2
+3
+Page 24
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+10
+Auditors' remuneration
+2022
+£
+2021
+£
+Audit of the financial statements of subsidiaries of the company
+29,250
+21,250
+Other fees to auditors
+Taxation compliance services
+5,175
+7,625
+All other non-audit services
+1,052
+894
+6,227
+8,519
+The audit fees for the parent company are included within the fees charged to the subsidiary company.
+11
+Taxation
+Tax charged/(credited) in the consolidated income statement
+2022
+£
+2021
+£
+Current taxation
+UK corporation tax
+7,459
+25,144
+UK corporation tax adjustment to prior periods
+6,478
+-
+13,937
+25,144
+Deferred taxation
+Arising from origination and reversal of timing differences
+(
+7,119
+)
+(
+851
+)
+=== page 28 ===
+Tax expense in the income statement
+6,818
+24,293
+The tax on profit before tax for the year is the same as the standard rate of corporation tax in the UK (2021 - the same as the standard rate of corporation tax in the UK) of 
+19
+%
+ (2021 - 
+19
+%
+).
+The differences are reconciled below:
+2022
+£
+2021
+£
+Loss before tax
+(
+161,775
+)
+(
+94,170
+)
+Corporation tax at standard rate
+(
+30,737
+)
+(
+17,892
+)
+Effect of revenues exempt from taxation
+-
+35,540
+Effect of expense not deductible in determining taxable profit (tax loss)
+29,851
+11,503
+Increase in UK and foreign current tax from adjustment for prior periods
+5,477
+-
+Other tax effects for reconciliation between accounting profit and tax expense (income)
+2,227
+(
+4,858
+)
+Total tax charge
+6,818
+24,293
+Page 25
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+Deferred tax
+Group
+Deferred tax assets and liabilities
+2022
+Asset
+£
+Liability
+£
+Accelerated capital allowances
+-
+35,724
+Other timing differences
+1,066
+-
+1,066
+35,724
+2021
+Asset
+£
+Liability
+£
+=== page 29 ===
+Accelerated capital allowances
+-
+42,875
+Other timing differences
+1,098
+-
+1,098
+42,875
+Page 26
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+12
+Intangible assets
+Group
+Goodwill
+ £
+Total
+£
+Cost or valuation
+At 30 November 2021 - as restated
+2,455,809
+2,455,809
+At 29 November 2022
+2,455,809
+2,455,809
+Amortisation
+At 30 November 2021
+402,262
+402,262
+Amortisation charge
+235,381
+235,381
+At 29 November 2022
+637,643
+637,643
+Carrying amount
+At 29 November 2022
+1,818,166
+1,818,166
+At 29 November 2021 - as restated
+2,053,547
+2,053,547
+13
+Tangible assets
+Group
+Land and buildings
+£
+Fixtures and fittings
+£
+Plant and machinery
+£
+Motor vehicles
+ £
+Total
+£
+Cost or valuation
+At 30 November 2021
+415,443
+41,211
+250,044
+34,821
+741,519
+Additions
+-
+1,279
+-
+-
+1,279
+At 29 November 2022
+415,443
+=== page 30 ===
+42,490
+250,044
+34,821
+742,798
+Depreciation
+At 30 November 2021
+66,611
+18,378
+199,358
+11,539
+295,886
+Charge for the year
+20,772
+8,329
+20,178
+11,607
+60,886
+At 29 November 2022
+87,383
+26,707
+219,536
+23,146
+356,772
+Carrying amount
+At 29 November 2022
+328,060
+15,783
+30,508
+11,675
+386,026
+At 29 November 2021
+348,832
+22,833
+50,686
+23,282
+445,633
+Page 27
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+14
+Investments
+Company
+2022
+£
+2021
+£
+Investments in subsidiaries
+1,950,837
+1,950,837
+Subsidiaries
+£
+Cost or valuation
+At 30 November 2021
+1,950,837
+Provision
+Carrying amount
+At 29 November 2022
+1,950,837
+At 29 November 2021
+1,950,837
+Details of undertakings
+Details of the investments in which the company holds 20% or more of the nominal value of any class of share capital are as follows:
+Undertaking
+Registered office
+Holding
+Proportion of voting rights and shares held
+2022
+2021
+Subsidiary undertakings
+Trust Distribution Limited
+=== page 31 ===
+Phoenix Park Industrial Estate,
+Park Street, 
+Heywood, 
+Lancashire
+OL10 2AB
+Ordinary shares
+100
+%
+100
+%
+SOS Communication Ltd
+Phoenix Park Industrial Estate,
+Park Street, 
+Heywood, 
+Lancashire
+OL10 2AB
+Ordinary shares
+100
+%
+100
+%
+Trusip Ltd
+Phoenix Park Industrial Estate,
+Park Street, 
+Heywood, 
+Lancashire
+OL10 2AB
+Ordinary shares
+58.34
+%
+58.34
+%
+Page 28
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+15
+Stocks
+Group
+Company
+2022
+£
+2021
+£
+2022
+£
+2021
+£
+Raw materials and consumables
+1,200,678
+1,627,890
+-
+-
+16
+Debtors
+Group
+Company
+2022
+£
+(As restated)
+2021
+£
+2022
+£
+2021
+£
+Trade debtors
+2,366,260
+3,158,767
+-
+-
+=== page 32 ===
+Other debtors
+118,505
+51,864
+3
+3
+Prepayments
+97,999
+116,228
+-
+-
+2,582,764
+3,326,859
+3
+3
+17
+Creditors
+Group
+Company
+Note
+2022
+£
+(As restated)
+2021
+£
+2022
+£
+2021
+£
+Due within one year
+Loans and borrowings
+22
+1,556,077
+1,998,410
+-
+-
+Trade creditors
+3,677,012
+4,070,335
+-
+-
+Amounts due to related parties
+26
+-
+-
+559,060
+375,556
+Social security and other taxes
+94,702
+112,390
+-
+-
+Outstanding defined contribution pension costs
+6,252
+-
+-
+-
+Other payables
+189,774
+234,164
+-
+-
+Accruals
+121,679
+25,278
+-
+-
+Corporation tax liability
+11
+7,459
+25,144
+=== page 33 ===
+-
+-
+Loan notes
+183,504
+523,212
+183,504
+183,504
+5,836,459
+6,988,933
+742,564
+559,060
+Due after one year
+Loans and borrowings
+22
+139,943
+211,480
+-
+-
+Loan notes
+1,208,076
+1,421,330
+1,208,076
+1,391,580
+1,348,019
+1,632,810
+1,208,076
+1,391,580
+Page 29
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+18
+Provisions for liabilities
+Group
+Deferred tax
+£
+Total
+£
+At 30 November 2021
+41,777
+41,777
+Increase (decrease) in existing provisions
+(
+7,119
+)
+(
+7,119
+)
+At 29 November 2022
+34,658
+34,658
+19
+Pension and other schemes
+Defined contribution pension scheme
+The group operates a defined contribution pension scheme. The pension cost charge for the year represents contributions payable by the group to the scheme and amounted to
+£
+42,886
+ (2021 -
+£
+46,672
+)
+.
+Contributions totalling
+£
+6,252
+ (2021 - £Nil)
+ were payable to the scheme at the end of the year and are included in creditors.
+20
+Share capital
+Allotted, called up and fully paid shares
+2022
+=== page 34 ===
+2021
+No. 
+£ 
+No. 
+£ 
+Ordinary shares
+ of £
+1
+  each
+200
+200
+200
+200
+21
+Reserves
+Profit and loss account - This reserve records retained earnings and accumulated losses.
+Page 30
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+22
+Loans and borrowings
+Group
+Company
+2022
+£
+2021
+£
+2022
+£
+2021
+£
+Non-current loans and borrowings
+Bank borrowings
+139,943
+211,480
+-
+-
+Group
+Company
+2022
+£
+2021
+£
+2022
+£
+2021
+£
+Current loans and borrowings
+Bank borrowings
+103,911
+63,166
+-
+-
+Bank overdrafts
+47,432
+-
+-
+-
+Hire purchase contracts
+-
+15,608
+-
+-
+Invoice financing
+1,404,734
+1,919,636
+-
+-
+1,556,077
+1,998,410
+=== page 35 ===
+-
+-
+The invoice financing creditor of £1,404,734 (2021: £1,919,636) is secured by way of book debts of the group.
+A fixed and floating legal charge over the assets exists in favour of National Westmister Bank plc
+23
+Obligations under leases and hire purchase contracts
+Group
+Operating leases
+The total of future minimum lease payments is as follows:
+2022
+£
+2021
+£
+Not later than one year
+100,926
+101,566
+Later than one year and not later than five years
+932
+932
+101,858
+102,498
+24
+Dividends
+Interim dividends paid
+2022
+£
+2021
+£
+Interim dividend of £
+1,840.39
+  (2021 - £
+1,870.52
+) per each 
+Ordinary shares
+184,039
+187,052
+Page 31
+Trust Group Ventures Ltd
+Notes to the Financial Statements for the Year Ended 29 November 2022
+25
+Analysis of changes in net debt 
+Group
+At 30 November 2021
+£
+Cash flows
+£
+At 29 November 2022
+£
+Cash and cash equivalents
+Cash
+434,024
+(330,721)
+103,303
+Borrowings
+Long term borrowings
+(211,480)
+71,537
+(139,943)
+Short term borrowings
+(1,998,410)
+442,333
+(1,556,077)
+(2,209,890)
+513,870
+(1,696,020)
+(
+1,775,866
+)
+183,149
+(
+=== page 36 ===
+1,592,717
+)
+26
+Related party transactions
+Group
+At 30 November 2022, Mr V Leahy and Mrs J B Leahy were owed by the company £29,470 (2022: £32,008 owed to the company) and £49,478 (2022: £12,000 owed to the company) respectively. The directors current accounts do not bear any interest and has no scheduled repayment date
+Company
+The company has taken advatnage of the exemption in FRS102 Section 33.1 A not to disclose transactions with other members of the group, where the subsidiary is 100% owned by the company.
+27
+Controlling Party
+The ultimate controlling party is 
+Mr V Leahy and Mrs J B Leahy
+. Mr V Leahy and Mrs J B Leahy are the majority shareholders of Trust Group Ventures Limited.
+Page 32

@@ -1,0 +1,1448 @@
+=== page 1 ===
+ee
+
+=== page 2 ===
+Maintel Europe Limited
+. Report and financial statements
+for the year ended 31 December 2023
+Contents
+Page /
+4 Strategic report ;
+10 Directors' report : :
+; 13 Independent auditor’s report
+16 Statement of comprehensive income
+17 Statement of financial position
+18 . Statement of changes in equity , : .
+19 Notes forming part of the financial statements
+Directors /
+A J McCaffery Director
+D J Davies Director
+G J Pirona Director
+Registered office
+160 Blackfriars Road, London, SE1 8EZ
+. Company number . :
+02665837
+Auditors
+RSM UK Audit LLP, 25 Farringdon Street, London, EC4A 4AB .
+
+=== page 3 ===
+Maintel Europe Limited
+Strategic report
+: for the year ended 31 December 2023 :
+Business review :
+Maintel Europe Limited (‘the Company’) is a cloud and managed services company focused on communication.
+It also supplies and installs voice and data equipment to managed services customers, both to our direct clients
+and into our partner customers. .
+2023 was a year of business transformation resulting from the successful implementation of a strategic review
+in the first half of the year and new focus on Unified Communications and Collaboration, Customer Experience,
+and Security and Connectivity, assisted by a more normalised trading environment, following the easing of the
+global supply chain of micro-chips, and the associated unwind of the order book, which resulted in a turnaround
+of the Company’s performance. ,
+The results for the year and financial position of the Company are shown in the annexed financial statements.
+Key Performance Indicators :
+The Company's revenues increased by 12.1% to £100.9m (2022: £90.0m). ;
+The table below summarises the revenue performance of the core operating segments of the business.
+2023 . 2022 % increase /
+. : (decrease)
+Revenue analysis £000 £000
+Managed services 25,437 24,552 3.6%
+Technology 26,301 20,931 25.7%
+"Managed services & Technology 51,738 45,483 13.8%
+Network services 45,317 - 40,094 13.0%
+Mobile 3,848 4,434 (13.2%)
+Total revenue . 100,903 90,011 12.1%
+Elements of cloud services revenues are currently accounted for in both the managed services and technology
+division (under the technology revenue line) and the network services division.
+_Managed services and technology division
+The managed services and technology division contains two distinct revenue lines:
+e Managed services: all support and managed service recurring revenues for hardware and software
+located on customer premises. This combines both legacy PBX and Contact Centre systems, which are in
+a managed decline across the sector as organisations migrate to more effective and efficient cloud :
+solutions, with areas of technology such as Local Area Networking (LAN), WIFI and security, which are still
+very much current and developing technology areas and therefore enduring sources of revenue.
+e¢ Technology: all non-recurring revenues from hardware, software, professional and consultancy services
+: and other non-recurring sales.
+Services are predominantly provided across the UK, with a limited number customers also having international
+. footprints. The division also supplies and installs project-based technology, professional and consultancy services
+to our direct clients and through our partner relationships.
+This division increased revenue by 13.8% to £51.7m, mainly driven by strong project revenue following the
+successful unwinding of our contracted order book, enabled by the availability of equipment following the easing of
+the availability of semiconductor and the normaiisation of the global technology hardware supply chain. Both the
+technology and professional services divisions benefitted from the improved trading conditions and grew
+respectively by 29.4% and 18.1% respectively in 2023.
+1
+
+=== page 4 ===
+Maintel Europe Limited
+Strategic report
+for the year ended 31 December 2023
+Key Performance Indicators (continued)
+
+: The slowdown in the decline of our heritage on premise support business, combined with price actions resulted in
+a 3.6% growth in the revenue of Managed Services to £25.4m. The general global market decline in the legacy
+PBX and contact centre markets, still benefits the Network Services division with customers from our legacy
+managed service base transitioning to Maintel’s cloud-based services. The most notable transformation contracts
+in 2023 being for a number of key financial services and retail customers. Gross profit increased in the division at
+a lower rate than revenue (+9.7%), due to the revenue mix weighted towards the Technology revenue streams.
+
+: The revenue mix also translates into the decrease in the average gross margin of the division from 24.4% to 23.5%.
+
+Network Services Division
+The Network Services division is made up of three strategic revenue lines: .
+
+e Cloud — subscription and managed service revenues from cloud contracts.
+
+¢ Data — subscription, circuit, co-location and managed service revenues from Wide Area Network (WAN),
+
+SD-WAN, internet access and managed security service contracts.
+¢ Call traffic and line rental — recurring revenues from both legacy voice and modern SIP Trunking
+contracts.
+Network services revenue grew by 13.0% and gross profit increased by 18.8% to £17.4m, resulting in a 1.0%
+improvement in gross profit margin to 38% (2022: 37%). The growth in the higher margin cloud revenue products
+has offset the decline in lower margin call traffic revenues. Our fixed line telephony revenues increased by 3.2% to
+£10.6m (2022: £10.3m). Within this, our overall line rental revenues reduced by 2.1%, reflecting the overall market
+decline for legacy Public Switched Telephone Network (PSTN) products as customers migrate to consolidated
+modern SIP Trunking or Cloud Communication services. However, our revenue from Call Traffic increased by
+16.7%, driven by an increase in inbound contact centre calling traffic and outbound SIP call traffic, predominantly
+from our strong Financial Services customer base.
+Data connectivity revenues saw a significant increase of 11.4% during the year. The acceleration of revenue since
+2022 is now reflecting the increasing impact that our new Software Defined Wide Area Networking (SD-WAN) and
+managed Cloud Security Services are having on the performance of this division. Much of the business closed in
+these new areas had been delayed from delivery by the semiconductor supply shortage however delivery
+conditions have now normalised, and the trend is set to continue as we continue to win new contracts.
+Mobile .
+Maintel’s mobile division generates revenue primarily from commissions received as part of its dealer agreements
+with O2 which scales in line with growth in partner revenues, in addition to value added services sold alongside
+mobile such as mobile fleet management and mobile device management.
+Revenues decreased by 13.2% to £3.8m (2022: £4.4m) and gross profits also declined by 13.8%, reflecting the
+refocus of the Maintel’s business development towards our core revenue streams. Although customer churn
+remained low in the period, the lack of new business compounded by downward price pressure on contract
+renewals drove the negative revenue movement. Recognising these market challenges, Maintel has been
+proactively resourcing the mobile sales team to focus on customer retention as opposed to new business.
+Other operating income
+Other operating income of £0.5m (2022: £0.5m) primarily relates to the recovery of one year’s R&D tax credit of
+£0.3m (2022: £0. 5m).
+2
+
+=== page 5 ===
+Mainte!l Europe Limited
+Strategic report
+for the year ended 31 December 2023
+Key Performance Indicators (continued) . : .
+Exceptional items .
+Exceptional costs of £6.3m (2022: £0.5m) were substantially driven by the business transformation project (£4.8m).
+, : Average _ Average At 31
+. ; December
+Restated .
+Headcount 2023 —- 2022 2023
+Corporate and administration . 95 86 100
+Sales and customer service : 161 174 155
+. Technical and engineering 221 229 208
+. 477 489 463
+2023 2022 Increase
+Gross profit (£000) . 31,140 27,565 13.0%
+Gross profit % 30.9% 30.6% 0.3pp
+Given the application of common resource across both managed service and technology sales, it is not practical
+to quote definitive margin data on the separate business sectors; however, management figures are used to monitor
+constituent elements internally. ;
+Statement of financial. position
+Net assets decreased by £1.4m in the year to £11.9m (2022: 13.3m), with key movements explained below.
+
+, Intangible assets valued at £74.4m, decreased by £2.3m (2022: £76.7m), driven by impairment charges of £2.3m
+in relation to the termination of the Callmedia business, amortisation of £3.1m, offset by £3.1m of capital
+expenditure in relation to capitalised software development and software licences. _
+
+Right of use assets valued at £1.0m (2022: £2.3m) decreased by £1.3m, driven principally by an impairment charge
+of £0.8m in relation to the Blackfriars Road London office lease. .
+Inventories reduced by £0.9m in the period driven by the delivery of hardware associated with the unwinding of the
+significant order book built up through 2021 and 2022.
+Debtors within current assets decreased by £1.8m to £25.4m (2022: £27.2m) driven by a decrease in prepayments -
+and accrued income to £12.8m (2022: £13.5m), a reduction in other debtors of £0.4m related to a reduction in
+prepaid sales commissions, combined with a decrease in trade debtors of £0.6m to £12.3m.
+Creditors falling due within one year decreased by £5.3m to £95.4m (2022: £100.7m), driven by a reduction in trade
+creditors of £5.9m, following the normalisation of working capital; deferred income increased by £2m driven by
+recurring revenue and technology advance billings; other payables and accruals increased by £1.0m driven
+principally by the recognition of an onerous lease contract, following the review of the Company property footprint,
+and capital expenditure accruals; amounts owed to group companies decreased by £2.4m.
+Creditors falling due after one year decreased by £0.6m to £1.2m (2022: £1.8m). This was driven by the unwinding
+of the lease liability balance during the year.
+
+3
+
+=== page 6 ===
+Maintel Europe Limited
+Strategic report :
+for the year ended 31 December 2023 (continued)
+Directors’ duties
+Engaging with our stakeholders and acting in a way that promotes the long-term success of the Company, while
+taking into account the impacts of business decisions on our stakeholders, are central to the Directors’ strategic
+thinking and duties in accordance with Section 172 of the Companies Act 2006 (s.172 CA). We are aware that
+each stakeholder group requires a tailored engagement approach in order to foster effective and mutually beneficial
+relationships. Our understanding of stakeholders is then factored into boardroom discussions, regarding the
+potential long-term impacts of our strategic decisions on each group, and how we might best address their needs
+and concerns. Our key stakeholders are our shareholders, employees, customers, suppliers, and the wider society
+in which all our stakeholders exist. See pages 7 to 8 for how the Board has made principal decisions relating to
+each stakeholder group.
+The Directors consider, both individually and together, that they have acted in the way that they consider, in good
+faith, would be most likely to promote the success of the Company for the benefit of its members as a whole, having
+regard to the stakeholders and matters set out in s.172 CA in the decisions taken during the year. .
+As part of their induction, Directors are briefed on their duties and they can access professional advice on these,
+either from the Company Secretary or, if they judge it necessary, from an independent adviser. It is important to
+recognise that in a large organisation such as Maintel, the Directors fulfil their duties partly through a governance
+_ framework that delegates day-to-day decision-making to managers. The following paragraphs summarise how the
+Directors fulfil their duties:
+Risk management ‘ :
+The Directors have overall responsibility for setting the risk appetite for the business and for ensuring that the
+Company's ongoing risk profile aligns with this. The Board is also responsible for identifying the business risks and
+. uncertainties faced by the Company that could have a material adverse effect on the business, most of which are
+beyond its control, and for determining the appropriate course of action to manage these. It reviews a dynamic risk
+report quarterly, the process behind which is monitored by the Audit and Risk committee. The most significant
+current risks and uncertainties are described below; the extent of the impact of each would naturally depend on the
+precise nature and duration of the event. This list is not exhaustive and there may be risks and uncertainties of
+which we are currently unaware, or which we currently believe are immaterial, that could have an adverse effect
+on the business.
+Disruptive technology changes the | Maintel has a dedicated product function to ensure that
+landscape of the market, and the | the Company's product and service portfolio remains
+Company may not keep pace with | competitive. We have also re-structured the business to =
+product and service innovation. ensure focus on accelerating developments, including
+. those of the ICON platform.
+A catastrophic event — for example a | All employees can work remotely, and the Company's
+power outage or pandemic - means | operational and administrative servers are located and
+that the Company is unable to service | managed such that damage from an outage is minimised. ,
+its customers. A business continuity plan is in place which is reviewed
+regularly and enhanced from the results of testing. The =
+Company is also increasingly moving to.cloud based
+systems which are more readily available for a response
+to a catastrophic event. |S022301- Business Continuity is
+maintained and externally audited on an annual basis.
+4
+
+=== page 7 ===
+Maintel Europe Limited
+Strategic report
+for the year ended 31 December 2023 (continued)
+Risk management (continued)
+Cyber-attacks on Maintel, customer | The Company has an outsourced Security Operations
+or supplier systems rendering them | Centre (SOC) and compliments this with in-house
+unusable temporarily or permanently. | systems and tools to ensure Maintel and its customer
+systems are secured. Customer networks and data are
+completely segregated from the Company's and data and
+systems are replicated in more than one location. Maintel
+. holds several security accreditations including Cyber. ps
+Essentials, ISO 27001 Information Security, |S022301-
+Business Continuity and PCI DSS, all of which entail
+extensive external auditing of the Company’s systems
+and processes. Maintel is also covered by cyber threat
+: insurance.
+Loss of key supplier through its | The Company has a multi-vendor strategy to reduce this
+business failure or termination of | risk and has defined product managers who work closely
+relationship with Maintel. with each supplier to maintain constructive relationships
+and promptly identify potential issues, formalised by
+monthly internal review meetings. Due to the
+unprecedented semi-conductor shortage, we are
+monitoring our key suppliers more closely for adverse
+impacts and have raised the risk level accordingly.
+Loss of major customer through its | The impact of this risk is partly mitigated by the fact that
+business failure or termination of | no customer provides more than 10% of the Company's
+relationship with Maintel or Maintel’s | revenue. We have developed various initiatives to
+partners. manage this risk including executive sponsorship and
+. improved account management and engagement. We are
+actively monitoring customer churn and continue to
+develop our customer offering and service delivery. Vy
+c == Risk unchanged from last year ,
+Risk reduced compared with last year
+t Risk increased compared with last year
+5
+
+=== page 8 ===
+Maintel Europe Limited
+Strategic report |
+for the year ended 31 December 2023 (continued)
+Risk management (continued) :
+The Directors are ultimately responsible for the Company's systems of internal control and for reviewing their
+effectiveness. Such systems can provide reasonable, but not absolute, assurance against material misstatement
+or loss. The Directors believe that the Company has internal control systems in place appropriate to the size and
+nature of its business.
+The Company maintains a comprehensive process of financial reporting. The annual budget is reviewed and
+approved by the Operating Board before being formally adopted, following monthly financial reports of the
+Company's performance compared to the budget are made available, with explanations of significant variances.
+Short term weekly and Long term monthly cash flow forecasts are prepared, as are budget reforecasts if deemed
+appropriate..
+The Executive Directors monitor key performance indicators on a monthly basis, management of these being
+delegated to the Company's senior management. :
+The key operational functions of the Company are subject to processes established and held within the Maintel
+. integrated Management System which the Directors consider to be valuable additional internal and external control .
+
+tools of the business and encompasses multiple certifications including:
+
+e 1§09001:2015-Quality
+
+e 1$045001:2018-Health and Safety
+
+e 1$027001:2013-Information Security
+
+e 1§014001:2015-Environmental .
+
+e PCI-DSS ;
+
+e . Cyber Essentials
+
+e €coVadis Sustainability
+
+e Financial Services Qualification System (FSQS)
+
+e Financial Conduct Authority (FCA) Limited Credit Brokering
+
+e Safe Systems in Procurement (SSIP) :
+
+e Safe Contractor .
+
+6 .
+
+=== page 9 ===
+Maintel Europe Limited
+Strategic report
+for the year ended 31 December 2023 (continued)
+Responsible business
+The Directors are committed to behaving responsibly and ethically at all times, in line with our Company values,
+and to ensure that our management teams operate the business in a responsible manner and to the highest
+standards of business conduct and good governance. ,
+The Directors recognise the importance of establishing and maintaining a consistent, positive corporate culture.
+The Company promotes a defined set of Maintel values, framing the culture of the Company in a range of
+areas. These values are designed to be: applied to all aspects of the Company's operations, are regularly
+communicated to staff, enshrined in the Company handbook and set out separately on the Company’s intranet.
+Maintel Europe Limited’s journey is explicitly aligned to the UN Sustainable Development Goals (‘SDG’). There are
+many goals that we contribute to, and we are continuing to improve. The ones that we have identified as material
+. to our business are:
+e SDG 4 - Quality Education
+e SDG 5-Gender Equality .
+: e SDG 8 - Decent Work and Economic Growth
+
+e SDG 9 - Industry Innovation and Infrastructure :
+. e SDG 13 — Climate Action .
+
+e SDG 16 —- Peace, Justice and Strong Institutions
+Please also see further discussion of the Company’s environmental policy and SECR reporting in the Directors’
+‘report on page 11.
+
+: The Directors are committed to nurturing an open and communicative culture which encourages employee
+participation in the exchange of ideas, information and suggestions. The culture is embedded in the Company not
+only through the way in which the senior leadership team behaves but also by way of regular employee
+
+: communications: in person at each of the Company's offices, through online. interactive meetings, using Maintel
+Matters - the Company’s employee forum; and via regular emails and newsletters. The emphasis is on two-way
+communication, in order to ensure that cultural aspirations are authentically pursued.
+
+Business relationships .
+Our strategy prioritises organic growth, driven by cross-selling and up-selling services to existing clients and
+bringing new clients into the Company. To do this, we develop and maintain strong client relationships. We value
+and have continued to strengthen how we engage with our suppliers during the year.
+Contacts are maintained at senior level with all the Company’s main suppliers. The Company also employs product
+managers to monitor the changing products and services of existing and potential new suppliers and manage
+. felationships with them. Key suppliers have an allocated executive sponsor, and throughout the year regular
+communication was in place to ensure good operations between the Company and its business partners for
+managing challenges such as the pandemic and supply-chain issues connected to Brexit and the global shortage
+of semiconductors. These key relationships also enable the Executive Directors and the Company’s senior
+management team to remain informed about the view of the market from the perspective of suppliers — and in
+particular about future technological developments — providing vital input to the Board’s Annual Strategic Review.
+7
+
+=== page 10 ===
+Maintel Europe Limited :
+Strategic report
+for the year ended 31 December 2023 (continued)
+Employees
+The Board understands how vital our employees are to the success of our business. During 2023, the Board
+engaged with employees through regular consultations and CEO updates, in addition to providing our staff a voice
+on matters that concern them through a directly elected employee forum. Maintel also maintains a whistleblowing
+procedure and a prevention of modern slavery policy.
+Shareholders
+The Directors maintain contact with shareholders with a view to understanding their needs and maximising their
+long-term returns.
+The Board continues to take a prudent approach to the Company's dividend policy. Throughout 2023 the Board
+has been focused on investing in the future growth of the Group’s operations. Consequently, it has made the
+decision not to propose a final dividend for the full year 2023 (2022: £nil). It remains the Board's intention to review
+returns to shareholders when economic conditions improve and financial performance permits.
+Going concern ,
+The Company has a sound financial record including strong operating cash flows derived from a substantial level
+of recurring revenue across a range of sectors. At 31 December 2023, the Company’s parent, Maintel Holdings
+Plc, continues to benefit from a financing facility with HSBC Bank plc (“HSBC”) consisting of a revolving credit .
+facility (“RCF”) of £20m with a £6m term loan on a reducing basis. These borrowings are held by the Company’s
+parent and are used to support the financing of the Group. Repayments of the term loan started in October 2022,
+and at 31 December 2023 £3.0m remained outstanding. The key covenants include net leverage ratio and interest
+cover tests, assessed on a quarterly basis. While the main terms of the financing facility remain unchanged, in early
+2023 the Company’s parent and HSBC agreed to accommodate further leeway in the covenants to allow for the
+temporary deterioration in profits, whilst the Group and the Company completed its transformation programme. The
+Group successfully met the temporary milestones and HSBC being satisfied that the recovery phase had been
+successfully completed, reinstated the initial covenants of the loan in early 2024. In March 2024 the facility was .
+extended to 30 September 2025, from the initial term ending on 24 March 2025.
+As highlighted in the risk management section (see pages 4-5) the Board has put robust business continuity plans
+in place to ensure continuity of trading and operations. : :
+The Company’s forecasts and projection models have been built on a prudent basis, taking into account uncertainty
+around the impact of the supply chain issues with regard to both project delivery and timing of pipeline conversion,
+allows for actual performance to exceed management forecasts in terms of revenue expectations. The Board has
+reviewed the model in detail, taking account of reasonably possible changes in trading performance, including
+sensitivities in pipeline conversion and renewal risk, together with further mitigating actions it could take such as
+overhead savings. As a result, the Board believes that the Company has sufficient headroom in its agreed funding
+arrangements to withstand a greater negative impact on its cash flow than it currently expects. :
+On this basis, the Directors have a reasonable expectation that the Company has adequate resources to continue
+in operational existence for the foreseeable future.
+8
+
+=== page 11 ===
+Maintel Europe Limited
+’ Strategic report
+; for the year ended 31 December 2023 (continued)
+Future developments and events after the reporting date
+In 2024, the Company continues to focus on margin improvement and strategic organic growth initiatives, has
+successfully closed significant new contracts and has launched several new product initiatives.
+The facility with HSBC Bank pic extended to the Company's parent company, Maintel Holdings Plc, and consisting
+of a revolving credit facility of £20m with a £6m term loan on a reducing basis, remained in place during the year
+and has been extended to 30 September 2025 in March 2024. .
+There are no other events subsequent to the reporting date which would have a material impact on the financial
+statements.
+On behalf of the Board
+G J Pirona
+. Director
+Date: 26/07/24 .
+9
+
+=== page 12 ===
+Maintel Europe Limited ;
+Directors’ report
+for the year ended 31 December 2023
+The Directors present their report together with the audited financial statements for Maintel Europe Limited (‘MEL’)
+for the year ended 31 December 2023. The Company is a private limited company.
+Dividends : .
+The Directors do not recommend payment of a final dividend (2022: £nil).
+Strategic report :
+Information required to be in the Directors’ report is included in the Strategic report under $414c( 11) on pages 1 to
+9.
+Directors :
+The Directors of the Company during the year and up to the date of signing this report were:
+JD S Booth — Resigned on 26 June 2024
+| G MacRae — Resigned on 28 February 2023
+A J McCaffery .
+D J Davies
+G J Pirona
+No director has any. interest in the share capital of the Company. All Directors are also Directors of the ultimate
+parent company, Maintel Holdings Plc. The Directors’ interests in the share capital of that company are shown in
+: its financial statements.
+The Company provides an indemnity to all the Company’s Directors in respect of all losses arising out of or in
+connection with the execution of their powers, duties and responsibilities as Directors. The Company also
+maintained insurance cover during the year for its Directors and officers under a directors’ and officers’ liability
+insurance policy against liabilities that may be incurred by them while carrying out their duties. In each case, the
+Directors remain liable in the event of their negligence, default, breach of duty or breach of trust.
+The Directors are able to seek independent professional advice as necessary, at the Company’s expense within
+designated financial limits. .
+Employees ; ; /
+Maintel’s success is dependent on the knowledge, experience and engagement of its employees. Its ability to
+attract and retain those people is key and therefore the Company is committed to providing a competitive total
+employment package that includes both financial and non-financial rewards, to align employee interests with those
+of the Company. .
+Full and fair consideration is given to applications for employment from disabled persons, having regard to their
+aptitudes and abilities and to their training and career development. This includes, where applicable and possible,
+the retraining and retention of staff who become disabled during their employment. 7
+The approach to communication with employees is reviewed on a regular basis to ensure relevance of both delivery
+methods and content of information. This currently includes channels such as face to face updates from the
+Operating Board and regular news updates emailed to all employees, as well as regular team and individual
+meetings with employees. Two-way communication is key to the success of the Company and an employee forum
+developed in previous years is now a well-established mechanism to achieve this, accompanied by an annual
+employee survey, with action taken on the results where practicable. :
+10
+
+=== page 13 ===
+Maintel Europe Limited
+Directors’ report
+for the year ended 31 December 2023
+Environment
+The Company acknowledges its responsibilities for the environment and Maintel’s environmental sustainability
+progress is externally audited through Streamlined Energy and Carbon Reduction (SECR) regulation, International
+standard 1S014001:2015-Environmental and EcoVadis Sustainable Business certification.
+Methodology used to estimate the quantities of emissions is in accordance with the Environmental Reporting
+Guidelines: GHG Reporting protocol — Corporate Standard and includes Streamlined Energy and Carbon Reporting
+. Guidance. .
+In accordance with SECR, a full review of energy consumption across our offices and operations has been
+undertaken for the 12 months to December 2023. The SECR accounting period has been fully aligned to Maintel's
+financial year. The table below identifies the baseline reference measurement across all Maintel offices for gas and
+. vehicles owned or controlled by Maintel within Scope 1, electricity within Scope 2 and transport within Scope 3.
+Scope 1 = Direct emissions from Gas and vehicles owned or controlled by Maintel
+Scope 2 = Indirect emissions associated with the purchase of electricity :
+Scope 3 = Indirect emissions associated with employee travel
+Scope 1 - Combustion of fuel, owned transport 8,024.43 1,549.55
+Scope 2 - Consumption of Electricity 130,955.14 205,148.94 .
+Scope 3 - Business Travel in employee owned vehicles 698,195.45 703,120.00
+Total energy use 837,175.02 909,818.49
+; GHG emissions (tonne CO2e)
+Scope 1 - Combustion of fuel, owned transport’ - 1.99 0.39
+. Scope 2 - Consumption of Electricity 27.12 39.67
+Scope 3 - Business Travel in employee owned vehicles 173.24 161.66
+Total gross CO2e emissions 202.35 201.72
+Gold Standard offset : 0 0
+- Total net CO2e emissions after Gold Standard offset 202.35 201.72 :
+Intensity ratio
+Average number of employees 477 489
+Total GHG emission per employee (Tonne CO2e/employee) 0.42 0.41
+The key focus during 2023 has been to reduce the electricity consumption across all offices with a range of
+: initiatives. : ;
+Subsequent Events '
+The facility with HSBC Bank plc extended to the Company's parent company, Maintel Holdings Plc, and consisting
+of a revolving credit facility of £20m with a £6m term loan on a reducing basis, remained in place during the year
+and has been extended to 30 September 2025 in March 2024.
+There are no other events subsequent to the reporting date which would have a material impact on the financial
+statements.
+: 11
+
+=== page 14 ===
+Maintel Europe Limited
+: Directors’ report
+for the year ended 31 December 2023
+
+Directors’ responsibilities
+The Directors are responsible for preparing the annual report and the financial statements in accordance with
+applicable United Kingdom law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year. Under that law the
+Directors have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards) and applicable law. Under company law the Directors
+must not approve the financial statements unless they are satisfied that they give a true and fair view of the state
+of affairs of the Company and of the profit or loss of the Company for that period. In preparing those financial
+statements, the Directors are required to:
+e — select suitable accounting policies and then apply them consistently;
+e make judgements and estimates that are reasonable and prudent;
+
+, e — state whether applicable UK accounting standards have been followed, subject to any material departures
+
+disclosed and explained in the financial statements; and
+* prepare the financial statements on the going concern basis unless it is inappropriate to presume that the
+Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+Company’s transactions and disclose with reasonable accuracy at any time the financial position of the Company
+and to enable them to ensure that the financial statements comply with the Companies Act 2006. They are also
+responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities.
+Auditors :
+All of the current Directors have taken all the steps that they ought to have taken to make themselves aware of any
+information needed by the Company's auditors for the purposes of their audit and to ensure that the auditors are
+aware of that information. The Directors are not aware of any relevant audit information of which the auditors are
+unaware. ,
+RSM UK Audit LLP has expressed their willingness to remain in office and a resolution to re-appoint them has been
+passed at the annual general meeting.
+On behalf of the Board
+| Ars
+G J Pirona
+Director .
+Date: 26/07/24 :
+12
+
+=== page 15 ===
+Maintel Europe Limited
+Independent auditor’s report
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF MAINTEL EUROPE LIMITED
+Opinion
+We have audited the financial statements of Maintel Europe Limited (the ‘Company’) for the year ended 31
+: December 2023 which comprise the statement of comprehensive income, statement of financial position,
+statement of changes in equity and notes to the financial statements, including significant accounting policies.
+. The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom
+- Accounting Standards, including FRS 101 “Reduced Disclosure Framework” (United Kingdom Generally
+Accepted Accounting Practice).
+In our opinion, the financial statements: ,
+e give a true and fair view of the state of the Company’s affairs as at 31 December 2023 and of its loss for
+the year then ended;
+e have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice;
+. e have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion .
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable
+law. Our responsibilities under those standards are further described in the Auditor’s responsibilities for the audit
+of the financial statements section of our report. We are independent of the Company in accordance with the
+_ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s
+Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+opinion. :
+Conclusions relating to going concern .
+In auditing the financial statements, we have concluded that the Directors’ use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the Company’s ability to continue as a
+going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the Directors with respect to going concern are described in the
+relevant sections of this report.
+Other information
+The other information comprises the information included in the annual report, other than the financial statements
+and our auditor’s report thereon. The Directors are responsible for the other information contained within the
+annual report. Our opinion on the financial statements does not cover the other information and, except to the
+extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. ;
+’ Our responsibility is to read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the financial statements or our knowledge obtained in the course of the audit or
+otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial
+statements themselves. If, based on the work we have performed, we conclude that there is a material
+misstatement of this other information, we are required to report that fact.
+We have nothing to report in this regard.
+, 13
+
+=== page 16 ===
+Maintel Europe Limited ,
+Independent auditor’s report (continued)
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+¢ the information given in the Strategic report and the Directors’ report for the financial year for which the
+financial statements are prepared is consistent with the financial statements; and
+e the Strategic report and the Directors’ report have been prepared in accordance with applicable legal
+requirements. ;
+Matters on which we are required to report by exception . :
+in the light of the knowledge and understanding of the Company and its environment obtained in the course of
+the audit, we have not identified material misstatements in the Strategic report or the Directors’ report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires
+us to report to you if, in our opinion:
+e adequate accounting records have not been kept, or returns adequate for our audit have not been
+received from branches not visited by us; or
+e the financial statements are not in agreement with the accounting records and returns; or
+e certain disclosures of Directors’ remuneration specified by law are not made; or
+* we have not received all the information and explanations we require for our audit; or
+Responsibilities of Directors
+As explained more fully in the Directors’ responsibilities statement set out on page 12, the Directors are
+responsible for the preparation of the financia! statements and for being satisfied that they give a true and fair
+view, and for such internal control as the Directors determine is necessary to enable the preparation of financial
+statements that are free from material misstatement, whether due to fraud or error. :
+In preparing the financial statements, the Directors are responsible for assessing the Company’s ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless the Directors either intend to liquidate the Company or to cease operations,
+or have no realistic alternative but to do so. .
+Auditor's responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in
+accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise
+from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on the basis of these financial statements.
+The extent to which the audit was considered capable of detecting irregularities, including fraud
+Irregularities are instances of non-compliance with laws and regulations. The objectives of our audit are to obtain
+sufficient appropriate audit evidence regarding compliance with laws and regulations that have a direct effect on
+. the determination of material amounts and disclosures in the financial statements, to perform audit procedures
+to help identify instances of non-compliance with other laws and regulations that may have a material effect on
+the financial statements, and to respond appropriately to identified or suspected non-compliance with laws and
+regulations identified during the audit.
+14 ,
+
+=== page 17 ===
+; Maintel Europe Limited
+: Independent auditor’s report (continued)
+In relation to fraud, the objectives of our audit are to identify and assess the risk of material misstaternent of the
+financial statements due to fraud, to obtain sufficient appropriate audit evidence regarding the assessed risks of
+material misstatement due to fraud through designing and implementing appropriate responses and to respond
+appropriately to fraud or suspected fraud identified during the audit. :
+
+, However, it is the primary responsibility of management, with the oversight of those charged with governance,
+to ensure that the entity's operations are conducted in accordance with the provisions of laws and regulations
+and for the prevention and detection of fraud.
+
+In identifying and assessing risks of material misstatement in respect of irregularities, including fraud, the audit
+_ engagement team:
+
+e obtained an understanding of the nature of the industry and sector, including. the legal and regulatory
+frameworks that the Company operates in and how the Company is complying with the legal and
+regulatory frameworks; : .
+
+e inquired of management, and those charged with governance, about their own identification and
+assessment of the risks of irregularities, including any known actual, suspected or alleged instances of
+fraud;
+
+e discussed matters about non-compliance with laws and regulations and how fraud might occur including
+assessment of how and where the financial statements may be susceptible to fraud. .
+
+As a result of these procedures we consider the most significant laws and regulations that have a direct impact
+on the financial statements are FRS 101, the Companies Act 2006 and tax compliance regulations. We
+performed audit procedures to detect non-compliances which may have a material impact on the financial
+statements which included reviewing financial statement disclosures, inspecting correspondence with local tax
+authorities and evaluating advice received from external tax advisors.
+The audit engagement team identified the risk of management override of controls, revenue recognition and
+valuation of investments as the areas where the financial statements were most susceptible to material
+misstatement due to fraud. Audit procedures performed included but were not limited to testing manual journal
+entries and other adjustments and evaluating the business rationale in relation to significant, unusual
+transactions and transactions entered into outside the normal course of business, consideration of whether the
+Company had completed its performance obligations under revenue contracts prior to the reporting date for
+revenue recognised in the year and challenging judgements and estimates applied in the valuation of
+investments.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial
+Reporting Council's website at: http://www. fre.org.uk/auditorsresponsibilities This description forms part of our
+auditor’s report.
+Use of our report
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s members
+those matters we are required to state to them in an auditor's report and for no other purpose. To the fullest
+extent permitted by law, we do not accept or assume responsibility to anyone other than the Company and the
+Company's members as a body, for our audit work, for this report, or for the opinions we have formed.
+Dawe Clark
+DAVID CLARK (Senior Statutory Auditor) :
+For and on behalf of RSM UK Audit LLP, Statutory Auditor
+Chartered Accountants
+25 Farringdon Street .
+London EC4A 4AB
+Date: 26 July 2024
+
+: 15
+
+=== page 18 ===
+Maintel Europe Limited
+Statement of comprehensive income .
+for the year ended 31 December 2023 a
+Note 2023. 2022
+. £000 £000 -
+Revenue a, 3 100,903 90,011
+Exceptional items 10 - (278) :
+Other costs of sales 69,763 62,168
+Cost ofsales” . (69,763) (62,446)
+Gross profit 31,140 27,565
+Other operating income : , , 4 557 540
+Intangibles amortisation 12 (3,051) (3,021)
+Exceptional items 10 (6,337) (516)
+Other administrative expenses 24,037 25,348) |.
+Administrative expenses (33,425) (28,885)
+Operating loss . . 7 (1,728) (780)
+Interest payable 8 (83) (134)
+Loss on ordinary activities before taxation (1,811) (914)
+Taxation credit/(charge) : 9 426 (124)
+. Loss on ordinary activities after taxation : (1,385) (1,038)
+All amounts relate to continuing activities.
+There is no other comprehensive income in the current or prior year.
+The notes on pages 19 to 39 form part of these financial statements.
+16 ,
+
+=== page 19 ===
+Maintel Europe Limited
+Statement of financial position
+as at 31 December 2023
+: “ 34December 31 December 31December 31 December
+Company number Note 2023 2023 2022 2022
+. 02665837 £000 £000 £000 £000
+Fixed assets
+Intangible assets 12 74,374 76,659
+Tangible assets 13 1,109 1,381
+Right of use assets 14 : 1,036 2,263
+Deferred tax 21 161 -
+. 76,680 80,303
+Current assets ,
+Stock 15 1,661 . 2,568
+Debtors 16 25,406 27,246
+Cash at bank and in hand 4,720 5,909 So
+31,787 35,723
+Creditors: amounts falling
+due within one year 17 (95,350) (100,668)
+
+. Net current liabilities (63,563) (64,945)
+Total assets less current ; .
+liabilities 13,117 15,358
+Creditors: amounts falling
+due after more than one year 18 (1,232) - (1,823)
+Provisions for liabilities 20 . - (265)
+Net assets 11,885 13,270
+Capital and reserves
+Called up share capital 22 1 1
+Retained earnings 11,884 13,269
+Shareholders’ funds 11,885 . 13,270
+
+The financial statements were approved, authorised for issue by the board and signed on its behalf by:
+Ales
+G J Pirona :
+Director :
+Date: 26/07/24
+The notes on pages 19 to 39 form part of these financial statements.
+17
+
+=== page 20 ===
+Maintel Europe Limited
+Statement of changes in equity
+for the year ended 31 December 2023
+Share Retained :
+capital earnings Total
+£000 £000 £000
+At 1 January 2022 1 14,307 14,308
+Loss for the year , - (1,038) (1,038)
+Total comprehensive expense for the year - (1,038) (1,038)
+’ At 31 December 2022 and 1 January 2023 1 13,269 13,270
+: Loss for the year - (1,385) (1,385)
+Total comprehensive expense for the year : - (1,385) (1,385)
+At 31 December 2023 . 1 11,884 11,885
+The notes on pages 19 to 39 form part of these financial statements. :
+18
+
+=== page 21 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+for the year ended 31 December 2023
+1 Accounting policies ;
+
+The financial statements have been prepared in accordance with Financial Reporting Standard 100
+
+Application of Financial Reporting Requirements and Financial Reporting Standard 101 Reduced Disclosure
+
+Framework.
+
+The principal accounting policies adopted in the preparation of the financial statements are set out below.
+
+The policies have been consistently applied to all the years presented, unless otherwise stated.
+
+, (a) Basis of preparation , ,
+
+The financial statements of the Company are presented as required by the Companies Act 2006.
+
+The Company has applied FRS 101 ‘Reduced Disclosure Framework’ in these financial statements, which is
+
+based on the recognition and measurement requirements of International Financial Reporting Standards
+
+(IFRS). It intends to continue to use FRS 101 for the foreseeable future.
+
+All amounts disclosed in the financial statements and notes have been rounded to the nearest thousand
+
+unless otherwise stated.
+
+(b) Consolidated financial statements
+
+“The Company has taken advantage of the exemption in section 401 of the Companies Act 2006 from the
+
+requirement to prepare consolidated financial statements, as it is a wholly owned subsidiary of Maintel
+
+Holdings PLC, a company incorporated in the United Kingdom. Consequently, these financial statements
+
+present the financial position and financial performance of the Company as a single entity.
+
+(c) Going concern : .
+
+The Company has a sound financial record including strong operating cash flows derived from a substantial
+
+level of recurring revenue across a range of sectors. At December 2023, the Company’s parent, Maintel
+
+Holdings Pic, continues to benefit from a financing facility with HSBC Bank plc (“HSBC”) consisting of a
+
+revolving credit facility ("RCF”) of £20m with a £6m term loan on a reducing basis. These borrowings are held
+
+: by the Company’s parent and are used to support the financing of the Group. Repayments of the term loan
+
+started in October 2022, and at 31 December 2023 £3.0m remained outstanding: The key covenants include
+
+net leverage ratio and interest cover tests, assessed on a quarterly basis. While the main terms of the
+
+financing facility remain unchanged, in early 2023 the Company’s parent and HSBC agreed to accommodate
+
+further leeway in the covenants to allow for the temporary deterioration in profits, whilst the Group and the
+. - Company completed its transformation programme. The Group successfully met the temporary milestones
+
+and HSBC being satisfied that the recovery phase had been successfully completed, reinstated the initial
+
+covenants of the loan in early 2024. In March 2024 the facility was extended to 30 September 2025, from the
+
+initial term ending on 24 March 2025.
+
+As highlighted in the risk management section (see pages 4-5) the Board has put robust business continuity
+
+plans in place to ensure continuity of trading and operations.
+
+The Company’s forecasts and projection models have been built on a prudent basis, taking into account
+
+uncertainty around the impact of the supply chain issues with regard to both project delivery and timing of
+
+pipeline conversion, allows for actual performance to exceed management forecasts in terms of revenue
+
+expectations. The Board has reviewed the model in detail, taking account of reasonably possible changes in
+
+trading performance, including sensitivities in pipeline conversion and renewal risk, together with further
+
+mitigating actions it could take such as overhead savings. As a result, the Board believes that the Company
+
+has sufficient headroom in its agreed funding arrangements to withstand a greater negative impact on its cash
+
+flow than it currently expects.
+
+On this basis, the Directors have a reasonable expectation that the Company has adequate resources to
+
+continue in operational existence for the foreseeable future ,
+
+. 19
+
+=== page 22 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+; 1 Accounting policies (continued) ; ;
+(d) Disclosure exemptions adopted .
+The Company is a member of a Group, where the parent of that Group prepares publicly available
+consolidated financial statements, including this Company, which are intended to give a true and fair view of
+. the assets, liabilities, financial position and profit or loss of the Group.
+
+. - The consolidated financial statements of Maintel Holdings Plc (the “Group”) are prepared in accordance with
+UK adopted International Accounting Standards and are available to the public. Copies of the financial
+statements are available from Companies House. :
+
+: The Company has therefore taken advantage of exemptions available under FRS 101 from the following
+disclosure requirements:
+e IFRS 7, ‘Financial instruments: Disclosures’.
+e Paragraphs 91 to 99 of IFRS 13, ‘Fair vatue measurement’ (disclosure of valuation techniques and
+inputs used for fair value measurement of assets and liabilities).
+e Paragraph 38 of IAS 1, 'Presentation of financial statements’ — comparative information requirements
+in respect of:
+o paragraph 79(a)(iv) of IAS 1;
+© paragraph 73(e) of IAS 16, ‘Property, plant and equipment’; and :
+© paragraph 118(e) of IAS 38, ‘Intangible assets' (reconciliations between the carrying amount
+at the beginning and end of the period).
+e The following paragraphs of IAS 1, ‘Presentation of financial statements’:
+o 16 (statement of compliance with all IFRS);
+. o 134-136 (capital management disclosures). ;
+e IAS 7, ‘Statement of cash flows’.
+e Paragraphs 30 and 31 of IAS 8, ‘Accounting policies, changes in accounting estimates and errors’
+(requirement for the disclosure of information when an entity has not applied a new IFRS that has
+: been issued but is not yet effective).
+e Paragraph 17 of IAS 24, ‘Related party disclosures’ (key management compensation).
+: e The requirements in IAS 24, ‘Related party disclosures’, to disclose related party transactions entered
+into between two or more members of a group.
+(e) Foreign currency
+The Company's functional and presentation currency is pound sterling. Transactions entered into by the
+Company in a currency other than the functional currency are recorded at the rates of exchange prevailing on
+the dates of the transactions. Foreign currency monetary assets and liabilities are translated at the rates ruling
+at the reporting date. Exchange differences on the retranslation of unsettled monetary assets and liabilities
+are recognised immediately in the income statement.
+20
+
+=== page 23 ===
+Maintel Europe Limited =
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+1 Accounting policies (continued)
+(f) Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Company
+‘and can be reliably measured.
+Revenue represents sales to customers at invoiced amounts and commissions receivable from suppliers, less
+value added tax. .
+Managed services and technology :
+. Managed services revenues are recognised over time, over the relevant contract term, on the basis that the
+. customer simultaneously receives and consumes the benefits provided by the Company's performance of the
+services over the contract term. Where the Company’s performance of its obligations under a contract
+exceeds amounts received, accrued income or a trade receivable is recognised depending on Company’s
+billing rights. Where the Company's performance of its obligations under a contract is less than amounts
+received, deferred income is recognised.
+Technology revenues for contracts with customers, which include both supply of technology goods and
+installation services, represent in substance one performance obligation and result in revenue recognition at
+a point in time, when the Company has fulfilled its performance obligations under the relevant customer
+: contract. Under these contracts, the Company performs a significant integration service which results in the
+technology goods and the integration service being one performance obligation. Over the course of the
+contract, the technology goods, which comprise both hardware and software components are customised
+through the integration services to such an extent that the final customised technology goods installed on
+completion are substantially different to their form prior to the integration service. Revenue is recognised when
+the integrated technology equipment and software has been installed and accepted by the customer.
+Network services : ,
+Revenues for network services are comprised of call traffic, line rentals and data services, which are
+recognised over time, for services provided up to the reporting date, on the basis that the customer
+simultaneously receives and consumes the benefits provided by the Company's performance of the services
+over the contract term. Amounts received in advance of the performance of the call traffic, line rentals and
+data services are recognised as performance obligations and released to revenue as the Company performs
+the services under the contract. Where the Company's performance of its obligations under a contract are
+less than amounts received, deferred income is recognised.
+Mobile
+Connection commission received from the mobile network operators on fixed line revenues, are allocated
+primarily to two separate performance obligations, being (i) the obligation to provide a hardware fund to end
+users for the supply of handsets and other hardware kit - revenues are recognised under these contracts at a
+point in time when the hardware goods are delivered to the customer and the customer has control of the
+assets; and (ii) ongoing service obligations to the customer - revenues are spread over the course of the
+customer contract term. In the case of (i) revenues are recognised based on the fair value of the hardware
+goods provided to the customer on delivery and for (ii) the residual amounts, representing connection
+commissions less the hardware revenues are recognised as revenues over the customer contract term. .
+Customer overspend and bonus payments are recognised monthly at a point in time when the Company's :
+performance obligations have been completed; these are also payable by the network operators on a monthly
+basis.
+21
+
+=== page 24 ===
+Maintel Europe Limited
+Notes forming part of the financial statements :
+for the year ended 31 December 2023 (continued)
+1 Accounting policies (continued) -
+(g) Dividends :
+Dividends unpaid at the balance sheet date are’ only recognised as a liability at that date to the extent that
+they are appropriately authorised and are no longer at the discretion of the Company. Proposed but unpaid
+dividends that do not meet these criteria are disclosed in the notes to the accounts.
+(h) Interest .
+Interest income and expense is recognised using the effective interest rate basis.
+(i) Taxation .
+. Current tax is the expected tax payable on the taxable income for the year, together with any adjustments to
+: tax payable in respect of previous years.
+Deferred tax is provided using the balance sheet liability method, providing for temporary differences between
+the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for
+taxation purposes, except for differences arising on:
+. e = The initial recognition of goodwill
+e = The initial recognition of an asset or liability in a transaction which is not a business combination and
+at the time of the transaction affects neither accounting nor taxable profit; and
+e Investments in subsidiaries where the Company is able to control the timing of the reversal of the
+difference and it is probable that the difference will not reverse in the foreseeable future.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits and taxable
+temporary differences will be available against which the asset can be utilised. ,
+Management judgement is used in determining the amount of deferred tax asset that can.be recognised,
+: based upon the likely timing and level of future taxable profits together with future tax planning strategies.
+The amount of the deferred tax asset or liability is measured on an undiscounted basis and is determined
+using tax rates that have been enacted or substantively enacted by the date of the consolidated statement of
+financial position and are expected to apply when the deferred tax assets/liabilities are recovered/settled.
+Deferred tax assets and liabilities are offset when the Company has a legally enforceable right to offset current
+tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax
+authority.
+(j) Exceptional items :
+
+"Exceptional items are significant items of non-recurring income or expenditure that have been separately
+presented by virtue of their nature to enable a better understanding of the Group’s financial performance.
+Non-recurring exceptional items are presented separately in the consolidated statement of comprehensive
+
+. income. :
+
+(k) Employee benefits .
+
+The Company operates a defined contribution plan for eligible employees, which is a post-employment benefit
+plan under which the Company pays fixed contributions into a separate entity and will have no legal or
+constructive obligation to pay further amounts. Obligations for contributions to defined contribution pension
+plans are recognised as an expense in the income statement in the periods during which services are
+rendered by employees.
+
+22 .
+
+=== page 25 ===
+Maintel Europe Limited ;
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+1 Accounting policies (continued)
+(l)_ Investments
+: investments in subsidiary undertakings are stated at the lower of cost and recoverable value at the reporting
+date. The carrying values of investments are reviewed for impairment when events or changes in
+circumstances indicate that the carrying values may not be recoverable.
+Dividend income from shares in subsidiary undertakings is recognised in other operating income through profit
+and loss at the time the dividends are declared and authorised by the investees and the Company has an
+unconditional right to receive payment of the dividends.
+(m) Leased assets .
+When the Company enters into a lease, a lease liability and a right of use asset is created.
+A lease liability is recognised at the commencement date of the lease term and is measured at the present
+. value of the remaining lease payments discounted using the Company’s incremental borrowing rate. In
+determining the lease term, hindsight will be applied in respect of leases which contain an option to terminate.
+the lease. The lease liability is subsequently increased for a constant periodic rate of interest on the remaining
+balance of the lease liability and reduced for lease payments. Interest on the lease liability is recognised in
+the income statement. :
+A right of use asset is recognised at the commencement date of the lease term and is measured at an amount
+equal to the lease liability. The right of use asset will subsequently be measured at cost less accumulated
+depreciation and any accumulated impairment losses.
+Depreciation for leased property (disclosed as ‘Land and buildings’ in Note 14), motor vehicles and office and
+computer equipment is charged to the statement of comprehensive income on a straight-line basis over the
+shorter of the lease term and the useful economic life of the asset. The useful economic life of a right of use
+asset is based on that assigned to equivalent owned assets, as disclosed in the ‘Tangible assets’ policy (n).
+Where leases are 12 months or less or of low value, payments made are expensed evenly over the period of
+the lease. ;
+Rentals receivable under operating leases are credited to the statement of comprehensive income on a
+straight-line basis over the term of the lease. The aggregate cost of lease incentives offered is recognised as
+a reduction of the rental income over the lease term on a straight-line basis.
+In addition, the carrying amount of the right-of-use assets and lease liabilities are remeasured if there is a
+modification, a change in the lease term or a change in the fixed lease payments. The remeasured lease
+liability (and corresponding right-of-use asset) is calculated using a revised discount rate, based upon a
+revised incremental borrowing rate at the time of the change.
+(n) Tangible assets : .
+Tangible assets are stated at cost, Jess accumulated depreciation and any impairment in value.
+Depreciation is provided to write off the cost, less estimated residual values, of all tangible fixed assets, other
+than freehold land, over their expected useful lives, at the following rates:
+Leasehold improvements - over the remaining period of the lease
+Office and computer equipment - 25% per annum oncost .
+Motor vehicles - 25% per annum on cost
+23
+
+=== page 26 ===
+; Maintel Europe Limited
+; Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+1 Accounting policies (continued) :
+(0) Intangible assets ,
+Customer relationships
+Customer relationships are stated at fair value where acquired through a‘ business combination, less
+accumulated amortisation. .
+. Customer relationships are amortised over their estimated useful lives of six years to eight years.
+Goodwill
+Goodwill represents the excess of the fair value of the consideration of a business combination over the
+. acquisition date fair value of the identifiable assets, liabilities and contingent liabilities acquired; the fair value
+of the consideration comprises the fair value of assets given. Direct costs of acquisition are recognised
+immediately as an expense. :
+Goodwill is capitalised as an intangible asset and carried at cost with any impairment in carrying value being
+. charged to the consolidated statement of comprehensive income. .
+Software (Microsoft licences, third-party subscription licences and Calimedia)
+. Software is stated at cost less accumulated amortisation. Where these assets have been acquired through a
+business combination, the cost is the fair value allocated in the acquisition accounting.
+Software is amortised over its estimated useful life of three years in respect of the Microsoft licences.
+The net book value of the Callmedia capitalised systems, software and development costs has been impaired
+in the year in line with the decision made in 2023 to exit the Callmedia business by January 2024. See Note
+12 for further information.
+Third-party subscription licences are stated at cost less accumulated amortisation. Where these assets have
+been acquired through a business combination, the cost is the fair value allocated in the acquisition
+accounting. Licences are amortised over their estimated useful lives of three years.
+Product platform .
+The product platform is stated at cost less accumulated amortisation and is included within the ‘Software’
+category in Note 12. Where these have been acquired through a business combination, the cost is the fair
+value allocated less accumulated amortisation.
+The product platform is amortised over its estimated useful life of eight years.
+Other :
+Other intangible assets include stock management platforms, which are managed by third parties and are
+included within the ‘Software’ category in Note 12. Other intangibles are amortised over their estimated useful
+lives, being 5 years.
+(p) Stock
+Stock held for resale comprises of stock purchased for customer orders which has not been installed at the
+end of the financial period. Stock is valued at the lower of cost and net realisable value. Cost is based on the
+- average cost of purchase. Net realisable value is based on estimated selling price less additional costs to
+completion and disposal.
+. (q) Cash at bank and in hand : :
+Cash at bank and in hand comprise cash balances and short-term deposits with an original maturity of three
+months or less, held for meeting short term commitments. .
+24 /
+
+=== page 27 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+1 Accounting policies (continued) ;
+, (r) Judgements and key areas of estimation uncertainty
+The preparation of financial statements in compliance with FRS 101 requires the use of certain critical
+accounting estimates. It also requires the Company's Directors to exercise judgement in applying the
+Company's accounting policies. The areas where significant judgements and estimates have been made in
+preparing the financial statements and their effect are disclosed in Note 2.
+(s) Financial assets and liabilities ,
+The Company's financial assets and liabilities mainly comprise cash, borrowings, trade and other receivables
+and trade and other payables.
+‘’ Trade and other receivables are not interest bearing and are stated at their amortised cost as reduced by
+appropriate allowances for irrecoverable amounts or additional costs required to effect recovery.
+The Company reviews the amount of credit loss associated with its trade receivables based on forward looking
+estimates that take into account current and forecast credit conditions. The Company has applied the
+Simplified Approach applying a provision matrix based on number of days past due to measure lifetime
+expected credit losses and after taking into account customer sectors with different credit risk profiles anid
+current and forecast trading conditions. Trade and other payables are not interest bearing and are stated at
+their amortised cost.
+(t) Accounting standards issued
+The following amendments to standards were issued and adopted in the year, with no material impact on the
+financial statements: :
+e IFRS 17 - Insurance Contracts
+e Deferred tax related to assets and liabilities arising from a single transaction — amendments to IAS
+12
+e International tax reform and temporary exception for deferred tax assets and liabilities related to the
+OECD pillar two income taxes — amendments to IAS 12
+e Definition of Accounting Estimates - amendments to IAS 8
+e Disclosure of Material Accounting Policies - amendments to IAS 1 and IFRS Practice Statement 2
+There were no other new accounting standards issued have been adopted in the year.
+(u) Standards in issue but not yet effective a
+_ At the date of authorisation of these financial statements there were amendments to standards which were in
+issue, but which were not yet effective, and which have not been applied. The principal ones were:
+Effective for annual periods beginning on or after 1 January 2024 ,
+e Lease liability in a sale and leaseback transaction - amendments to IFRS 16
+e Non-current liabilities with covenants - amendments to IAS 1
+e Supplier finance - amendments to IAS 7 and IFRS 7
+Effective for annual periods beginning on or after 1 January 2025
+e Lack of exchangeability in currencies - amendments to IAS 21
+The Directors do not expect the adoption of these amendments to standards, to have a material impact on the
+financial statements.
+25 ,
+
+=== page 28 ===
+; Maintel Europe Limited
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued) . .
+: 1 Accounting policies (continued) .
+, (v) Impairment of non-current assets : ,
+“The Company is required to test, on annual basis, whether goodwill has suffered any impairment. The
+Company is also required to test other finite life intangible assets for impairment where impairment indicators
+are present. The recoverability of assets subject to impairment reviews is assessed based on whether the
+carrying value of assets can be supported by the net present value of future cash flows derived from such
+assets, using cash flow projections which have been discounted at an appropriate rate. In calculating the net
+present value of the future cash flows, certain assumptions are required to be made in respect of uncertain
+matters.
+2 = Critical accounting estimates and judgements
+
+The Company makes certain estimates and assumptions regarding the future. Estimates and judgements are
+continually evaluated based on historica! experience and other factors, including expectations of future events
+that are believed to be reasonable under the circumstances. In the future, actual experience may differ from
+these estimates and assumptions. The estimates and judgements that have a significant risk of causing a
+material adjustment to the carrying amounts of assets and liabilities within the next financial year are
+discussed below.
+Judgements: :
+Impairment of non-current assets
+The Company is required to test, on annual basis, whether goodwill has suffered any impairment. The
+Company is also required to test other finite life intangible assets for impairment where impairment indicators
+are present. The recoverability of assets subject to impairment reviews is assessed based on whether the
+carrying value of assets can be supported by the net present value of future cash flows derived from such
+
+: assets, using cash flow projections which have been discounted at an appropriate rate. In calculating the net
+present value of the future cash flows, certain assumptions are required to be made in respect of uncertain
+matters. : : ,
+
+: In particular, management exercises estimation in determining assumptions for revenue growth rates and
+gross margins for future periods which are important components of future cash flows, and also in determining
+the appropriate discount rates which are used across the Company's cash generating units.
+
+: 26
+
+=== page 29 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+3. Revenue .
+* Revenue is wholly attributable to the principal activities of the Company in the current and prior year.
+: Analysis of revenue by geographical location: .
+: 2023 2022
+: £000 £000
+United Kingdom : 99,476 88,989
+European Union 1,346 999
+Rest of the world ; 81 23
+, . 100,903 90,011
+In 2023 the Company had no customer (2022: none) which accounted for more than 10% of its revenue.
+Analysis of revenue by timing of recognition:
+mo, : 2023 2022
+£000 £000
+Revenue recognised at a point in time 26,301 20,894
+Revenue recognised over time 74,602 69,117
+100,903 90,011
+Analysis of movements in deferred income:
+“ : 2023 2022 —
+. , £000 £000
+Deferred income — opening balance (19,894) (18,243)
+Revenue recognised in the year 17,435 17,127
+New revenue deferrals in the year (19,400) (18,778)
+Deferred income — closing balance (21,859) (19,894)
+4 Other operating income
+Other operating income relates primarily to research and development credits of £331k (2022: £540k).
+5 Directors
+Four of the Directors who held office during the year were employees of Maintel Holdings Ple and received
+remuneration from that company in the current and prior year. The costs borne directly by the Company for
+services provided by the Directors is £5k (2022: £5k).
+27
+
+=== page 30 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+: for the year ended 31 December 2023 (continued) ;
+6 Employees
+2023 2022
+The average number of employees, including Directors, Restated
+during the period was: Number Number
+Corporate and administration 95 - 86
+Sales and customer service : 161 174
+Technical and engineering 221 229
+477 489
+. , Restated
+Staff costs (excluding Directors) consist of: £000 £000
+Wages and salaries : . 24,703 26,004
+Social security costs 2,679 3,189
+Other pension costs 671 726
+28,053 29,919
+: The Company makes contributions to defined contribution personal pension schemes for employees and
+Directors. Contributions to defined contribution personal pension schemes for the Directors were received
+from Maintel Holdings Pic. The assets of the schemes are separate from those of the Company. Pension
+contributions of £166k (2022: £167k) were payable at the year end and are included in other creditors.
+The 2022 staff costs have been restated to correct the inclusion of 2022 staff costs relating to employees of
+other group entities not borne by the Company. The table below summarises the impact of the adjustments
+on the financial statements for the year ended 31 December 2022. There has been no overall impact on the -
+_ total comprehensive expense for the year ended 31 December 2022. :
+: Previously Restated
+Stated 2022
+Staff costs (excluding Directors) consist of: £000 Adjustments £000
+. Wages and salaries 26,837 (833) 26,004
+. Social security costs 3,298 * (109) 3,189
+Other pension costs 744 (18) 726
+30,879 (960) 29,919
+28 ,
+
+=== page 31 ===
+Maintel Europe Limited ,
+Notes forming part of the financial statements .
+; for the year ended 31 December 2023 (continued)
+7 Operating loss
+. 2023 2022
+£000 £000
+This has been arrived at after charging: .
+Depreciation of property, plant and equipment , 637 642
+Depreciation of right of use assets 835 940
+Amortisation of intangible fixed assets 3,051 3,021
+Foreign exchange losses . 32 219
+Auditor's remuneration - fees payable for audit services 122 - 113
+Exceptional costs (see Note 10) 6,337 794
+8 Financial expense
+. 2023 2022
+: £000 £000
+Interest payable on deferred consideration - 27
+Interest expense on leases 73 97
+Other interest charges 10 10 .
+83 134
+9 Taxation on profit from ordinary activities
+2023 2022
+: £000 £000
+UK corporation tax
+Adjustments relating to prior years - 67
+, : 67
+Deferred tax (Note 21)
+
+: Origination and reversal of temporary differences (412) (204) .
+Effect of change in UK corporation tax rate - - (64) ,
+Adjustments relating to prior years (14) 325
+
+. (426) 57
+Taxation on profit on ordinary activities (426) 124
+29
+
+=== page 32 ===
+Maintel Europe Limited
+. Notes forming part of the financial statements :
+- for the year ended 31 December 2023 (continued) ;
+“9 Taxation on profit from ordinary activities (continued)
+The tax assessed for the year is lower than (2022: higher than) the standard rate of corporation tax in the UK
+of 23.52% (2022: 19.00%). The differences are explained below.
+"2023 2022
+. £000 : £000
+Loss on ordinary activities before tax (1,811) (914)
+Loss on ordinary activities at the standard rate :
+of corporation tax in the UK of 23.52% (2022: 19%) (426) . (174)
+Effect of:
+Net expenditure/(income) not taxable 16 (5)
+Adjustments relating to prior years (14) 392
+Impact of changes in UK tax rate (24) (64)
+Capital allowances in excess of depreciation 21 (25)
+Other . 41 -
+. Total tax (credit)/charge for the year (426) 124
+Included within ‘Adjustments relating to prior years’ is £14k adjustment for the year ended 31 December 2023
+which relates to a decrease in deferred tax timing differences on losses and other items per the final 2022
+, trading subsidiary Corporation tax return as compared to the draft tax return available at the time of signing of
+the 2022 financial statements. :
+Factors that may affect future tax charges/credits:
+The rate of UK Corporation tax increased from 19% to 25% on 6 April 2023. Existing deferred tax assets and
+liabilities had been calculated at the rate at which the relevant balances were expected to be recovered or
+settled. This rate was 25% and therefore existing deferred tax liabilities have not had to be remeasured.
+There are no future factors at the reporting date that are expected to impact the Company’s future tax
+charge. The Company is not within the scope of the OECD Pillar Two model rules.
+30
+
+=== page 33 ===
+. a .
+Maintel Europe Limited
+Notes forming part of the financial statements ,
+for the year ended 31 December 2023 (continued)
+_ 10 Exceptional items
+The costs analysed below have been shown as exceptional items in the statement of comprehensive income
+as they are not considered to be part of the Company’s recurring income or expenses: :
+2023 2022
+£000 £000
+Exceptional items included within cost of sales
+Foreign exchange expense on delayed orders - 278
+Exceptional items included within administrative expenses :
+Transformation costs 4,835 -
+Staff restructuring and other employee related costs - 1,502 417
+Costs relating to an onerous property lease - 63
+Fees relating to revised credit facilities agreement - 52
+Gain on disposal of Doc Sol - (16)
+6,337 794
+Exceptional items included within cost of sales
+Foreign exchange expense on delayed orders in the prior year of £278k related to the loss incurred on a
+contract that faced significant delay due to the industry-wide chip shortages. This was considered to be
+exceptional circumstances given the 18-month wait between orders with the supplier and installation for the
+client (15 months having elapsed at 31 December 2022). These delays resulted in the Group incurring a loss
+on fluctuating USD to GBP exchange rates as the required materials were invoiced in USD.
+Exceptional items included within administrative expenses
+Transformation costs of £4,835k (2022: £nil) incurred in the year include the following items relating to the
+ongoing strategic review of the business which was implemented during the year:
+Impairment charges amounting to £2,288k (2022: £nil) relating to previously capitalised ‘Callmedia’ software ;
+development and development costs of £333k net of associated revenues, resultant to the decision made
+during the year to discontinue the development of our own “Callmedia” Contact Centre product line, including
+the CX Now public cloud CCaaS variant. Refer to Note 12 Intangible assets.
+Onerous lease costs of £1,342k include £761k relating to the impairment of the right of use asset in relation
+to the Blackfriars Road London office lease, £53k relating to the impairment of leasehold improvements and
+other onerous operating lease costs of £528k. In addition, exceptional service charges of £237k were incurred
+in the year also relating to the downsizing of the London office space.
+Other transformation costs in the year of £635k, included professional fees from third party specialists engaged
+by the Company to perform a strategic and product review of the business and costs associated with the
+implementation of the results of the strategic and full product review.
+. Staff restructuring and other employee related costs of £1,502k (2022: £417k) principally include redundancy
+costs. © .
+Onerous lease costs in the prior year of £63k relate to the Fareham property and included the remaining
+expected costs of completion in relation to the onerous contract to July 2023.
+Fees relating to the revised credit facilities agreement of £52k in the prior year include the Company's share
+of associated professional fees in negotiating the Mainte! Group’s facility that commenced in the prior year.
+31
+
+=== page 34 ===
+Maintel Europe Limited
+: Notes forming part of the financial statements :
+for the year ended 31 December 2023 (continued)
+11 Investment in subsidiaries .
+Shares in
+: subsidiary
+undertakings
+. : : £000
+Cost
+At 1 January 2023 and 31 December 2023 42,495
+Provision for impairment .
+. At 1 January 2023 and 31 December 2023 (42,495)
+: Net book value ;
+: At 1 January 2023 and 31 December 2023 .
+Name of Place of Proportion of Proportion of — Principal
+subsidiary Incorporation Ownership voting power Activity
+Interest held
+% %
+Azzurri Communications Ltd England & Wales 100 100 Dormant
+Maintel Voice & Data Ltd England & Wales 100 100 Dormant
+Maintel Mobile Limited England & Wales 100 100 Dormant
+Datapoint Customer Solutions Ltd England & Wales 100 100 Dormant
+Datapoint Global Services Ltd England & Wales “400 100 Dormant
+Intrinsic Technology Ltd : England & Wales 100 100 Dormant
+The subsidiaries of the Company were dormant as at 31 December 2023 and had been placed under
+members’ voluntary liquidation during the year. -
+The registered office for each of the subsidiaries is Teneo Financial Advisory Limited, The Colmore Building,
+20 Colmore Circus Queensway, Birmingham, B4 6AT.
+32
+
+=== page 35 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+. for the year ended 31 December 2023 (continued)
+12 Intangible assets . Customer :
+relationships Goodwill Software = Total
+£000 £000 £000 £000
+Cost/Deemed cost , . ,
+At 1 January 2023 13,862 66,580 12,716 93,158
+. Additions tos - 3,054 3,054
+, At 31 December 2023 13,862 66,580 45,770 96,212
+Amortisation and impairment :
+At 1 January 2023 8,993 - 7,506 16,499
+Amortisation in the year 1,575 - 1,476 3,051
+Impairment in the year - - 2,288 2,288
+At 31 December 2023 10,568 - 11,270 21,838
+Net book value :
+At 31 December 2023 3,294 66,580 ; 4,500 74,374
+At 31 December 2022 _ 4,869 66,580 5,210 76,659
+Amortisation charges for the year have been charged through administrative expenses in the statement of
+comprehensive income. .
+Included within the amortisation charge for the year ended 31 December 2023 is £1,387k (2022: £1,386k)
+relating to amortisation from non-acquired intangible assets (here meaning assets not acquired as part of a
+business combination).
+Impairment charges for the year of £2,288k (2022: Enil) relate to Callmedia and have been recognised as
+transformation costs within exceptional items (Note 10).
+: : Software and product platform include capitalised development costs, being internally generated assets. Other
+intangible assets include stock management platforms which are managed by third parties.
+33
+
+=== page 36 ===
+Maintel Europe Limited
+Notes forming part of the financial statements
+for the year ended 31 December 2023 (continued)
+13 Tangible assets
+. . Office and
+Leasehold computer .
+Improvements : equipment Total
+£000 £000 £000
+Cost or valuation
+At 1 January 2023 513 2,113 2,626
+Additions - 418 418
+At 31 December 2023 , §13 2,531 _ (3,044
+Depreciation
+. At 1 January 2023 325 920 1,245
+Depreciation in the year 57 580 637
+-Impairment in the year 53 - 53
+At 31 December 2023 435 1,500 1,935
+" Net book value
+At 31 December 2023 78 1,031 1,109
+At 31 December 2022 188 1,193 1,381
+Impairment charges for the year of £53k (2022: £nil) relate to onerous lease costs and have been recognised within
+exceptional items (Note 10).
+, 34
+

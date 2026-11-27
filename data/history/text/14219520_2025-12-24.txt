@@ -1,0 +1,2654 @@
+=== page 1 ===
+ACCOUNTS - Final Accounts preparation
+Caseware UK (AP4) 2024.0.164
+ 2024.0.164
+2024-12-31
+2024-12-31
+2
+false
+2
+2024-01-01
+false
+false
+false
+14219520
+2024-01-01
+2024-12-31
+14219520
+2023-07-01
+2023-12-31
+14219520
+2024-12-31
+14219520
+2023-12-31
+14219520
+2023-07-01
+14219520
+1
+2024-01-01
+2024-12-31
+14219520
+d:Director1
+2024-01-01
+2024-12-31
+14219520
+d:Director2
+2024-01-01
+2024-12-31
+14219520
+d:RegisteredOffice
+2024-01-01
+2024-12-31
+14219520
+c:Buildings
+2024-01-01
+2024-12-31
+14219520
+c:PlantMachinery
+2024-01-01
+2024-12-31
+14219520
+c:PlantMachinery
+2024-12-31
+14219520
+c:PlantMachinery
+2023-12-31
+14219520
+c:PlantMachinery
+c:OwnedOrFreeholdAssets
+2024-01-01
+2024-12-31
+14219520
+c:FurnitureFittings
+2024-01-01
+2024-12-31
+14219520
+c:OfficeEquipment
+2024-01-01
+2024-12-31
+14219520
+c:ComputerEquipment
+2024-01-01
+=== page 2 ===
+2024-12-31
+14219520
+c:Goodwill
+2024-01-01
+2024-12-31
+14219520
+c:CurrentFinancialInstruments
+2024-12-31
+14219520
+c:CurrentFinancialInstruments
+2023-12-31
+14219520
+c:Non-currentFinancialInstruments
+2024-01-01
+2024-12-31
+14219520
+c:Non-currentFinancialInstruments
+2024-12-31
+14219520
+c:Non-currentFinancialInstruments
+2023-12-31
+14219520
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2024-12-31
+14219520
+c:CurrentFinancialInstruments
+c:WithinOneYear
+2023-12-31
+14219520
+c:ShareCapital
+2024-01-01
+2024-12-31
+14219520
+c:ShareCapital
+2024-12-31
+14219520
+c:ShareCapital
+2023-07-01
+2023-12-31
+14219520
+c:ShareCapital
+2023-12-31
+14219520
+c:ShareCapital
+2023-07-01
+14219520
+c:RetainedEarningsAccumulatedLosses
+2024-01-01
+2024-12-31
+14219520
+c:RetainedEarningsAccumulatedLosses
+2024-12-31
+14219520
+c:RetainedEarningsAccumulatedLosses
+2023-07-01
+2023-12-31
+14219520
+c:RetainedEarningsAccumulatedLosses
+2023-12-31
+14219520
+c:RetainedEarningsAccumulatedLosses
+2023-07-01
+14219520
+d:OrdinaryShareClass1
+2024-01-01
+2024-12-31
+14219520
+d:OrdinaryShareClass1
+2024-12-31
+=== page 3 ===
+14219520
+d:OrdinaryShareClass1
+2023-12-31
+14219520
+d:FRS102
+2024-01-01
+2024-12-31
+14219520
+d:Audited
+2024-01-01
+2024-12-31
+14219520
+d:FullAccounts
+2024-01-01
+2024-12-31
+14219520
+d:PrivateLimitedCompanyLtd
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary1
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary2
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary2
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary3
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary3
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary4
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary4
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary5
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary5
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary6
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary6
+=== page 4 ===
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary7
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary7
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary8
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary8
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary9
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary9
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary10
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary10
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary11
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary11
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary12
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary12
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary13
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary13
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary14
+2024-01-01
+2024-12-31
+=== page 5 ===
+14219520
+c:Subsidiary14
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary15
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary15
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary16
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary16
+1
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary17
+2024-01-01
+2024-12-31
+14219520
+c:Subsidiary17
+1
+2024-01-01
+2024-12-31
+14219520
+d:Consolidated
+2024-12-31
+14219520
+d:ConsolidatedGroupCompanyAccounts
+2024-01-01
+2024-12-31
+14219520
+2
+2024-01-01
+2024-12-31
+14219520
+6
+2024-01-01
+2024-12-31
+14219520
+c:SpecificBusinessCombination1
+2024-01-01
+2024-12-31
+14219520
+c:SpecificBusinessCombination1
+2024-12-31
+14219520
+c:SpecificBusinessCombination1
+5
+2024-12-31
+14219520
+c:SpecificBusinessCombination1
+c:CurrentFinancialInstruments
+2024-12-31
+14219520
+f:PoundSterling
+2024-01-01
+2024-12-31
+xbrli:shares
+iso4217:GBP
+xbrli:pure
+nLighten UK Ltd
+=== page 6 ===
+Registered number: 14219520
+Annual report and
+ consolidated financial statements
+For the year ended 31 December 2024
+NLIGHTEN UK LTD
+COMPANY INFORMATION
+Directors
+H T R M Beusker
+C S Mccarthy
+Registered number
+14219520
+Registered office
+27 Old Gloucester Street
+London
+WC1N 3AX
+Independent auditors
+PricewaterhouseCoopers LLP
+Chartered Accountants and Statutory Auditors
+One Chamberlain Square
+Birmingham
+B3 3AX
+NLIGHTEN UK LTD
+CONTENTS
+Page
+Group Strategic Report
+1 - 2
+Directors' Report
+3 - 5
+Independent Auditors' Report to the members of the nLighten UK Ltd
+6 - 10
+Consolidated Statement of Comprehensive Income
+11
+Consolidated Statement of Financial Position
+12
+Company Statement of Financial Position
+13
+Consolidated Statement of Changes in Equity
+14
+Company Statement of Changes in Equity
+15
+Consolidated Statement of Cash Flows
+16 - 17
+Notes to the Financial Statements
+18 - 43
+NLIGHTEN UK LTD
+GROUP STRATEGIC REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Introduction
+The directors present their Strategic Report for the period ended 31 December 2024.
+nLighten UK Ltd (the “Company”) is the UK subsidiary of nLighten HQ B.V, and was formed in July 2022 with the purpose of acting as the holding company of the future UK trading division of the nLighten data centre group. The Company was dormant throughout its first year following incorporation.
+The financial period ending 31 December 2024 is the first full 12 month period, as the previous  short period of six months from 1 July 2023 was to bring the financial year of the Company into alignment with the wider nLighten Group of companies. 
+In line with our commitment to enhancing the quality and capacity of our infrastructure, further capital continues to be deployed to upgrade and improve the existing data centre sites. These investments have been key in ensuring that our facilities remain at the forefront of technological advancement, efficiency, and connectivity, positioning us as a leader in providing Edge data centre services across Europe.
+To further drive our growth and ensure excellence in customer service, we have made significant new hires across the organisation. These strategic additions to our team bring specialised skills and experience, enabling us to meet our targets and maintain a high standard of customer satisfaction as we expand our operations.
+The Company continues to  look for acquisitions in the UK that fit with its growth plan.
+Overall, the period has been one of significant progress, setting a strong foundation for continued growth and success in the coming years.
+Business review
+Revenue
+Company
+: As a holding company for the UK operations of nLighten, the Company’s revenue in the period consisted largely of management fees relating to services provided to the UK Group by the larger nLighten central functions based in the Netherlands. The management fees are charged to the UK subsidiary companies through nLighten UK Data Centres Limited. As such, the Company had no external revenues in the period. 
+At a Group level, revenues in the period that constitutes the active Group period of performance were stable. Colocation revenues were the majority of the revenues reflecting the core services sold in the Group making up 55% of total revenues. Power charges for customer use of power at the Group’s data centres, running their IT equipment, accounted for 42% of total revenues. These charges increased for the period, due to a significant new customer at Chester from 31 December 2023. This reflects two aspects. Other revenues associated with connectivity and other associated services comprised the remaining 3% of total revenues.
+Principal risks and uncertainties
+Company
+: As holding company of a data centre group in the UK, Risks unique to the Company relate to long term funding and interest costs. These are largely hedged through the main investing company, I Squared Capital, having a sustained and detailed investment plan for the Company under the management of the directors.
+- 1 -
+NLIGHTEN UK LTD
+GROUP STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Financial key performance indicators
+Financial performance
+The Group reported a loss of £13.5 million for the year (restated 2023: £5.0 million), reflecting the significant acquisition and start-up costs. These costs are indicative of our strategic focus on building a robust foundation for future growth. Management is confident that these investments will yield substantial long-term benefits, including increased revenue streams and enhanced competitiveness across our markets. It is important to assess the Group's financial performance within the context of our growth-oriented strategy. The incurred costs are viewed as calculated investments in the Group's future, laying the groundwork for sustainable profitability and long-term success. We are confident that short-term financial impacts will translate into enduring value creation as our expansion initiatives mature.
+=== page 7 ===
+Financial position
+At the end of 2024, the Group reported total assets of £175 million (restated 2023: £148 million) and liabilities of £143 million (restated 2023: £113 million), resulting in an equity position of £32 million (restated 2023: £35 million). Our working capital remains Robust.
+Market position
+The Group has firmly established its presence in key markets across UK, positioning itself as a significant player in the region's edge data centre industry. We are expanding our footprint with new customers and strengthening our position in existing markets. This strategic expansion allows us to better serve our customers with localised, high-performance data centre solutions, while also capitalising on the growing demand for edge computing.
+Future outlook
+Looking ahead, the Group is well-positioned to continue its growth in the UK, further strengthening our brand and market presence. We plan to build on the momentum of our recent growth by enhancing our service offerings in existing locations. This strategic expansion will not only broaden our markets footprint but also reinforce our reputation as a leading provider of cutting-edge data centre solutions.
+Summary
+The Company has seen a significant milestone in its progression in the period to end 31 December 2024. Significant funding has meant that the Company can look forward with great confidence, with development plans secured.
+This report was approved by the board on
+23 December 2025
+ and signed on its behalf
+.
+H T R M Beusker
+Director
+- 2 -
+NLIGHTEN UK LTD
+DIRECTORS' REPORT
+FOR THE YEAR ENDED 31 DECEMBER 2024
+The 
+directors
+present
+their
+report and the
+ audited consolidated 
+financial statements
+ for the 
+year
+ ended 
+31 December 2024
+.
+Directors' responsibilities statement
+The 
+directors
+are
+ responsible for preparing the
+ Group Strategic Report, the Directors' Report and the 
+consolidated 
+financial statements
+ in accordance with 
+applicable law and regulations
+.
+Company law
+requires
+ the 
+directors
+ to prepare 
+financial statements
+ for each financial 
+year
+. Under that law the directors have elected to prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in the UK and Republic of Ireland'. Under company law the directors must not approve the financial statements unless they are satisfied that they give
+ a true and fair view of the state of affairs of the 
+Company and the Group
+ and of the 
+profit or loss
+ of the 
+Group
+ for that period.
+ In preparing these financial statements, the directors are required to:
+∙
+select suitable 
+accounting policies for the Group's financial statements
+ and then apply them consistently;
+∙
+make 
+judgments
+ and accounting estimates that are reasonable and prudent; and
+∙
+prepare the 
+financial statements
+ on the going concern basis
+=== page 8 ===
+ unless it is inappropriate to presume that the Group will continue in business
+.
+The 
+directors
+are
+ responsible for keeping 
+adequate
+accounting records that are sufficient to show and explain the Company's transactions and
+ disclose with reasonable accuracy at any time the financial position of the 
+Company and the Group
+ and to enable 
+them
+ to ensure that the 
+financial statements
+comply with the Companies Act 2006
+. 
+They are
+ also responsible for safeguarding the assets of the 
+Company and the Group
+ and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Results and dividends
+The 
+loss
+ for the 
+year
+, after taxation, amounted to 
+£
+13,540,775
+ (restated 2023 - 
+loss 
+£
+5,002,234
+)
+.
+During the year dividends amounting to £Nil were declared (2023 - £Nil).
+Directors
+The 
+directors
+ who served during the 
+year, and up to the date of signing,
+were:
+H T R M Beusker
+C S Mccarthy
+- 3 -
+NLIGHTEN UK LTD
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Going concern
+nLighten UK Ltd and subsidiaries have a facility agreement in place with ICG - Longbow Investment No. 5 S.A.R.L for a total amount of £77m. This facility matures on 31st March 2026 at which point it falls due for repayment. The Group is actively engaged in agreeing replacement facilities with the existing and alternative providers and the directors have a reasonable expectation that this will be successfully executed in 2026, however this is not certain. 
+In making their assessment of going concern, the directors have considered their forecast of future cash flows over a period of 12 months from the approval of these financial statements. The ability of the Group and the Company to continue operating as a going concern is dependent on the refinancing of the facility agreement and on the continued financial support from its majority shareholder. The Group has also received confirmation from Group entities that amounts due won't be called for a period of at least 12 months. The majority shareholder has indicated its intention to provide continuing financial support; however, no legally binding agreement is in place at the date of these financial statements. The directors have reviewed the operating cash requirement for the Group and Company and are satisfied that in the event of a significant negative financial performance, the Group and the Company will continue to receive funding from its majority shareholder to make up any shortfall in operating cash requirements. 
+After due consideration of the matters set out above, the directors believe that it remains appropriate to prepare the financial statements on a going concern basis. Nevertheless, the requirement to renegotiate the Group's UK debt facility within the next 12 months and the potential need for uncommitted funds from the Group's investors indicates the existence of a material uncertainty which may cast significant doubt about the Group’s and the Company’s ability to continue as a going concern and, therefore, to continue realising their assets and discharging their liabilities in the normal course of business. These financial statements do not include the adjustments that would result if the Group and Company were unable to continue as a going concern.
+Economic impact of global events
+UK businesses are currently facing many uncertainties such as the consequences of Brexit, Covid 19, environmental sustainability and geopolitical events such as the Russian invasion of Ukraine. These uncertainties have contributed to an environment where there exists a range of issues and risks, including inflation, rising interest rates, labour shortages, disrupted supply chains and new ways of working.
+The Directors have carried out an assessment of the potential impact of these uncertainties on the business, including the impact of mitigation measures, and have concluded that these are non-adjusting events with the greatest impact on the business expected to be from the economic ripple effect on the global economy. The Directors have taken account of these potential impacts in their going concern assessment.
+The Group continues to work with its partners to minimise any impacts of these events and maximise the realisation of any opportunities they may provide to the business.
+Disclosure of information to auditors
+Each of the persons who are 
+directors
+ at the time when this 
+Directors' Report
+ is approved has confirmed that:
+∙
+so far as 
+the director
+ is aware, there is no relevant audit information of which the 
+Company and the Group
+'s auditor
+s
+are
+ unaware, and
+=== page 9 ===
+∙
+the director
+ has taken all the steps that ought to have been taken as a 
+director
+ in order to be aware of any relevant audit information and to establish that the 
+Company and the Group
+'s auditor
+s
+are
+ aware of that information.
+- 4 -
+NLIGHTEN UK LTD
+DIRECTORS' REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Post balance sheet events
+Following the year end, nLighten Bridgend Limited sold land and buildings for £1.75m. 
+Post year end, on 14 March 2025, the Company issued an additional 23,963,769 Ordinary shares at par value.
+Independent auditors
+During the year, Dux Advisory Limited resigned as auditors and PricewaterhouseCoopers LLP were appointed.
+The auditor
+s
+, 
+PricewaterhouseCoopers LLP
+, 
+will be proposed for reappointment in accordance with 
+section 485 of the Companies Act 2006.
+This report was approved by the 
+board
+ on 
+23 December 2025
+ and signed on 
+its
+ behalf.
+H T R M Beusker
+Director
+- 5 -
+NLIGHTEN UK LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NLIGHTEN UK LTD
+Report on the audit of the financial statements
+Opinion
+In our opinion, nLighten UK Ltd’s Group financial statements and Company financial statements (the “financial statements”):
+∙
+give a true and fair view of the state of the Group’s and of the Company’s affairs as at 31 December 2024 and of the Group’s loss and the Group’s cash flows for the year then ended;
+∙
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards, including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland”, and applicable law); and
+∙
+have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements, included within the Annual Report and consolidated financial statements (the “Annual Report”), which comprise: the Consolidated and Company Statements of Financial Position as at 31 December 2024; the Consolidated Statement of Comprehensive Income, the Consolidated and Company Statement of Changes in Equity and the Consolidated Statement of Cash Flows for the year then ended; and the notes to the financial statements, which include a description of the significant accounting policies.
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (“ISAs (UK)”) and applicable law. Our responsibilities under ISAs (UK) are further described in the Auditors’ responsibilities for the audit of the financial statements section of our report. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Independence
+We remained independent of the Group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, which includes the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+- 6 -
+NLIGHTEN UK LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NLIGHTEN UK LTD (CONTINUED)
+Material uncertainty related to going concern
+In forming our opinion on the financial statements, which is not modified, we have considered the adequacy of the disclosure made in note 2.3 to the financial statements concerning the Group’s and the Company’s ability to continue as a going concern. The Group has a facility agreement in place totalling £78.7 million which matures on 31st March 2026 at which point it falls due for repayment. The directors have a reasonable expectation that replacement facilities will be agreed with the existing and alternative providers, however this is not certain. In addition, the directors have considered their forecast of future cash flows over a period of 12 months from the approval of these financial statements. The ability of the Group and the Company to continue operating as a going concern is dependent on the refinancing of the facility agreement and on the continued financial support from its majority shareholder. The majority shareholder has indicated their intention to provide continuing financial support; however, no legally binding agreement is in place at the date of these financial statements. These conditions, along with the other matters explained in note 2.3 to the financial statements, indicate the existence of a material uncertainty which may cast significant doubt about the Group’s and the Company's ability to continue as a going concern. The financial statements do not include the adjustments that would result if the Group and the Company were unable to continue as a going concern.
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+Our
+ responsibilities and the responsibilities of the 
+directors
+ with respect to going concern are described in the relevant sections of this report.
+Reporting on other information
+The other information comprises all of the information in the Annual Report other than the financial statements and our auditors’ report thereon. The directors are responsible for the other information. Our opinion on the financial statements does not cover the other information and, accordingly, we do not express an audit opinion or, except to the extent otherwise explicitly stated in this report, any form of assurance thereon.
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated. If we identify an apparent material inconsistency or material misstatement, we are required to perform procedures to conclude whether there is a material misstatement of the financial statements or a material misstatement of the other information. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report based on these responsibilities.
+With respect to the Strategic Report and Directors' Report, we also considered whether the disclosures required by the UK Companies Act 2006 have been included.
+Based on our work undertaken in the course of the audit, the Companies Act 2006 requires us also to report certain opinions and matters as described below.
+- 7 -
+NLIGHTEN UK LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NLIGHTEN UK LTD (CONTINUED)
+=== page 10 ===
+Strategic Report and Directors' Report
+In our opinion, based on the work undertaken in the course of the audit, the information given in the Strategic Report and Directors' Report for the year ended 31 December 2024 is consistent with the financial statements and has been prepared in accordance with applicable legal requirements.
+In light of the knowledge and understanding of the group and company and their environment obtained in the course of the audit, we did not identify any material misstatements in the Strategic report and Directors' Report.
+Responsibilities for the financial statements and the audit
+Responsibilities of the directors for the financial statements
+As explained more fully in the Directors' responsibilities statement, the directors are responsible for the preparation of the financial statements in accordance with the applicable framework and for being satisfied that they give a true and fair view. The directors are also responsible for such internal control as they determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the Group’s and the Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the Group or the Company or to cease operations, or have no realistic alternative but to do so.
+Auditors' responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including fraud. The extent to which our procedures are capable of detecting irregularities, including fraud, is detailed below.
+- 8 -
+NLIGHTEN UK LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NLIGHTEN UK LTD (CONTINUED)
+Auditors' responsibilities for the audit of the financial statements (continued)
+Based on our understanding of the Group and industry, we identified that the principal risks of non-compliance with laws and regulations related to health and safety regulation and employment law, and we considered the extent to which non-compliance might have a material effect on the financial statements. We also considered those laws and regulations that have a direct impact on the financial statements such as the Companies Act 2006 and taxation legislation. We evaluated management’s incentives and opportunities for fraudulent manipulation of the financial statements (including the risk of override of controls), and determined that the principal risks were related to the posting of inappropriate journal entries and management bias in accounting estimates. Audit procedures performed by the engagement team included:
+∙
+Enquiry with management and those charged with governance of any known instances of non-compliance with laws, regulations and fraud;
+∙
+Challenging assumptions and judgements made by management in their significant accounting estimates;
+∙
+Identifying and testing journal entries, in particular journal entries posted with unexpected account combinations;
+∙
+Incorporating unpredictability into the nature, timing and/or extent of our testing; and
+∙
+Reviewing financial statement disclosures and testing to supporting documentation to assess compliance with applicable laws and regulations.
+There are inherent limitations in the audit procedures described above. We are less likely to become aware of instances of non-compliance with laws and regulations that are not closely related to events and transactions reflected in the financial statements. Also, the risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations, or through collusion.
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s website at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditors’ report.
+Use of this report
+This report, including the opinions, has been prepared for and only for the company’s members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other purpose. We do not, in giving these opinions, accept or assume responsibility for any other purpose or to any other person to whom this report is shown or into whose hands it may come save where expressly agreed by our prior consent in writing.
+- 9 -
+NLIGHTEN UK LTD
+INDEPENDENT AUDITORS' REPORT TO THE MEMBERS OF NLIGHTEN UK LTD (CONTINUED)
+Other required reporting
+Companies Act 2006 exception reporting
+Under the Companies Act 2006 we are required to report to you if, in our opinion:
+∙
+we have not obtained all the information and explanations we require for our audit; or
+∙
+adequate accounting records have not been kept by the company, or returns adequate for our audit have not been received from branches not visited by us; or
+∙
+certain disclosures of directors’ remuneration specified by law are not made; or
+∙
+the company financial statements are not in agreement with the accounting records and returns.
+We have no exceptions to report arising from this responsibility.
+Matt Palmer
+ (Senior Statutory Auditor)
+for and on behalf of
+PricewaterhouseCoopers LLP
+Chartered Accountants and Statutory Auditors
+Birmingham
+23 December 2025
+- 10 -
+NLIGHTEN UK LTD
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE YEAR ENDED
+31 DECEMBER 2024
+Year ended
+31 December
+As restated*
+6 month period ended
+31 December
+2024
+2023
+Note
+£
+£
+Turnover
+4
+25,357,470
+8,682,356
+=== page 11 ===
+Cost of sales
+(19,245,598
+)
+(6,216,522
+)
+Gross profit
+6,111,872
+2,465,834
+Administrative expenses
+(16,213,033
+)
+(5,159,717
+)
+Operating loss
+5
+(10,101,161
+)
+(2,693,883
+)
+Interest receivable and similar income
+8
+77,760
+-
+Interest payable and similar expenses
+9
+(5,963,994
+)
+(1,785,587
+)
+Loss before taxation
+(15,987,395
+)
+(4,479,470
+)
+Tax on loss
+10
+2,446,620
+(522,764
+)
+Loss for the financial year/period
+(13,540,775
+)
+(5,002,234
+)
+There were no recognised gains and losses for 
+2024
+ or 
+2023
+ other than those included in the 
+consolidated statement of comprehensive income
+.
+There was no other comprehensive income for 
+2024
+ (
+2023
+:
+ £
+NIL
+).
+The notes on pages 18 to 43 form part of these 
+financial statements
+.
+*See note 24 for further details of the prior year restatement.
+- 11 -
+NLIGHTEN UK LTD
+REGISTERED NUMBER: 
+14219520
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+AS AT 
+31 DECEMBER 2024
+=== page 12 ===
+As restated*
+2024
+2023
+Note
+£
+£
+Fixed assets
+Intangible assets
+11
+(2,606,672
+)
+(3,189,261
+)
+Tangible assets
+12
+165,257,926
+141,442,025
+162,651,254
+138,252,764
+Current assets
+Debtors
+14
+7,997,029
+5,613,147
+Cash at bank and in hand
+15
+4,591,005
+4,261,310
+12,588,034
+9,874,457
+Creditors: amounts falling due within one year
+16
+(47,826,420
+)
+(14,723,981
+)
+Net current liabilities
+(35,238,386
+)
+(4,849,524
+)
+Total assets less current liabilities
+127,412,868
+133,403,240
+Creditors: amounts falling due after more than one year
+17
+(78,694,111
+)
+(78,694,111
+)
+Provisions for liabilities
+Deferred taxation
+19
+(16,886,646
+)
+(19,370,261
+)
+Net assets
+31,832,111
+35,338,868
+Capital and reserves
+Called up share capital 
+20
+50,375,120
+40,341,102
+Profit and loss account
+21
+(18,543,009
+)
+(5,002,234
+=== page 13 ===
+)
+31,832,111
+35,338,868
+*See note 24 for further details of the prior year restatement.
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ on
+23 December 2025
+.
+H T R M Beusker
+Director
+The notes on pages 18 to 43 form part of these financial statements.
+- 12 -
+NLIGHTEN UK LTD
+REGISTERED NUMBER: 
+14219520
+COMPANY STATEMENT OF FINANCIAL POSITION
+AS AT 
+31 DECEMBER 2024
+2024
+2023
+Note
+£
+£
+Fixed assets
+Tangible assets
+12
+909,043
+-
+Investments
+13
+53,258,811
+44,729,524
+54,167,854
+44,729,524
+Current assets
+Debtors
+14
+34,509,092
+1,477,678
+Cash at bank and in hand
+15
+41,199
+-
+34,550,291
+1,477,678
+Creditors: amounts falling due within one year
+16
+(
+38,493,436
+)
+(
+5,983,312
+)
+Net current liabilities
+(
+3,943,145
+)
+(
+4,505,634
+)
+Total assets less current liabilities
+50,224,709
+40,223,890
+Net assets
+=== page 14 ===
+50,224,709
+40,223,890
+Capital and reserves
+Called up share capital 
+20
+50,375,120
+40,341,102
+Profit and loss account
+(
+150,411
+)
+(
+117,212
+)
+50,224,709
+40,223,890
+The Company has taken advantage of the exemption allowed under section 408 of the Companies Act 2006 and has not presented its own Statement of Comprehensive Income in these financial statements. 
+The loss after tax of the Parent Company for the year was £
+33,199
+ (2023: £
+117,212
+).
+The 
+financial statements
+ were approved and authorised for issue by the 
+board
+ and were signed on 
+its
+ behalf
+ on
+23 December 2025
+.
+H T R M Beusker
+Director
+The notes on pages 18 to 43 form part of these financial statements.
+- 13 -
+NLIGHTEN UK LTD
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 DECEMBER 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 July 2023
+100
+-
+100
+Comprehensive expense for the period (as restated)
+Loss for the period (as restated)
+-
+(5,002,234
+)
+(5,002,234
+)
+Total comprehensive expense for the period (as restated)
+-
+(5,002,234
+)
+(5,002,234
+)
+Contributions by and distributions to owners
+Shares issued during the period
+40,341,002
+-
+40,341,002
+Total transactions with owners
+40,341,002
+=== page 15 ===
+-
+40,341,002
+At 31 December 2023 (as previously stated)
+40,341,102
+(2,632,641
+)
+37,708,461
+Prior year adjustment - correction of error (note 24)
+-
+(2,369,593
+)
+(2,369,593
+)
+At 31 December 2023 (as restated)
+40,341,102
+(5,002,234
+)
+35,338,868
+Comprehensive expense for the year
+Loss for the year
+-
+(13,540,775
+)
+(13,540,775
+)
+Total comprehensive expense for the year
+-
+(13,540,775
+)
+(13,540,775
+)
+Contributions by and distributions to owners
+Shares issued during the year
+10,034,018
+-
+10,034,018
+Total transactions with owners
+10,034,018
+-
+10,034,018
+At 31 December 2024
+50,375,120
+(18,543,009
+)
+31,832,111
+The notes on pages 18 to 43 form part of these 
+financial statements
+.
+- 14 -
+NLIGHTEN UK LTD
+COMPANY STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 
+31 DECEMBER 2024
+Called up share capital
+Profit and loss account
+Total equity
+£
+£
+£
+At 1 July 2023
+100
+-
+100
+Comprehensive expense for the period
+Loss for the period
+-
+(
+117,212
+)
+(
+=== page 16 ===
+117,212
+)
+Total comprehensive expense for the period
+-
+(
+117,212
+)
+(
+117,212
+)
+Contributions by and distributions to owners
+Shares issued during the period
+40,341,002
+-
+40,341,002
+Total transactions with owners
+40,341,002
+-
+40,341,002
+At 31 December 2023
+40,341,102
+(
+117,212
+)
+40,223,890
+Comprehensive expense for the period
+Loss for the year
+-
+(
+33,199
+)
+(
+33,199
+)
+Total comprehensive expense for the period
+-
+(
+33,199
+)
+(
+33,199
+)
+Contributions by and distributions to owners
+Shares issued during the year
+10,034,018
+-
+10,034,018
+Total transactions with owners
+10,034,018
+-
+10,034,018
+At 31 December 2024
+50,375,120
+(
+150,411
+)
+50,224,709
+The notes on pages 18 to 43 form part of these 
+financial statements
+.
+- 15 -
+NLIGHTEN UK LTD
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+As restated*
+Year ended 31 December 2024
+6 month period ended 31 December 2023
+£
+£
+Cash flows from operating activities
+=== page 17 ===
+Loss for the financial year
+(13,540,775
+)
+(5,002,234
+)
+Adjustments for:
+Amortisation of intangible assets
+(362,448
+)
+(126,319
+)
+Depreciation of tangible assets
+3,275,272
+998,954
+Impairments of fixed assets
+2,623,181
+1,031,825
+Interest paid
+5,963,994
+1,785,587
+Interest received
+(77,760
+)
+-
+Taxation (credit)/charge
+(2,446,620
+)
+522,764
+(Increase)/decrease in debtors
+(1,619,211
+)
+4,203,757
+Increase in amounts owed by groups
+(143,246
+)
+-
+Increase/(decrease) in creditors
+3,554,437
+(93,862,138
+)
+Increase in amounts owed to groups
+29,048,836
+5,539,073
+Corporation tax (paid)/received
+(67,137
+)
+30,142
+Net cash generated from/(used in) operating activities
+26,208,523
+(84,878,589
+)
+Cash flows from investing activities
+Purchase of tangible fixed assets
+(27,539,353
+)
+(1,632,729
+)
+Purchase of subsidiary, net of cash acquired
+(2,487,259
+)
+(17,895,902
+)
+Interest received
+77,760
+-
+Net cash used in investing activities
+(29,948,852
+)
+(19,528,631
+)
+=== page 18 ===
+- 16 -
+NLIGHTEN UK LTD
+CONSOLIDATED STATEMENT OF CASH FLOWS (CONTINUED)
+FOR THE YEAR ENDED 31 DECEMBER 2024
+As restated
+2024
+2023
+£
+£
+Cash flows from financing activities
+Issue of ordinary shares
+10,034,018
+40,341,002
+Other new loans
+-
+78,694,111
+Loans from group companies repaid
+-
+(8,580,996
+)
+Interest paid
+(5,963,994
+)
+(1,785,587
+)
+Net cash generated from financing activities
+4,070,024
+108,668,530
+Net increase in cash and cash equivalents
+329,695
+4,261,310
+Cash and cash equivalents at beginning of year
+4,261,310
+-
+Cash and cash equivalents at the end of year
+4,591,005
+4,261,310
+Cash and cash equivalents at the end of year comprise:
+Cash at bank and in hand
+4,591,005
+4,261,310
+*See note 24 for further details of the prior year restatement.
+- 17 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+1.
+General information
+nLighten UK Ltd ("the Company") is a private limited Company, limited by shares and incorporated in England and Wales, registered number 14219520. The address of the registered office is 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX.
+The principal activity of the Group is data centre management activities. The Group provide server space to the market through data centres that varies in sizes from site to site. Each individual data centre is held in a subsidiary Company of the Group. The actual servers are owned by the customers and not by the Group, however, the storage equipment is owned by the Group.
+The prior period financial statements were presented for a 6 month period to 31 December 2023 and are therefore not directly comparable with the current year.
+The principal activity of the Company is that of a holding company for the UK operations of the group.
+2.
+Accounting policies
+2.1
+Basis of preparation of financial statements
+The 
+financial statements
+ have been prepared under the historical cost convention unless otherwise specified within these accounting policies and in accordance with 
+Financial Reporting Standard 102, the Financial Reporting Standard applicable in 
+the UK and the Republic of Ireland and the Companies Act 2006
+.
+The preparation of 
+financial statements
+ in compliance with FRS 
+102
+ requires the use of certain critical accounting estimates. It also requires 
+Group 
+management to exercise 
+judgment
+=== page 19 ===
+ in applying the 
+Group
+'s 
+accounting policies
+ (see note 3).
+The 
+Company
+ has taken advantage of the exemption allowed under 
+section 408 of the
+Companies Act 2006
+ and has not presented its own 
+Statement of Comprehensive Income
+ in these 
+financial statements
+.
+Parent Company disclosure exemptions
+In preparing the separate financial statements of the parent Company, advantage has been taken of the following disclosure exemptions available in FRS 102:
+∙
+No Statement of Cash Flows has been presented for the Parent Company;
+∙
+Disclosures in respect of the Parent Company's financial instruments have not been presented as equivalent disclosures have been provided in respect of the Group as a whole; and
+∙
+No disclosures have been given for the aggregate remuneration of the key management personnel of the Parent Company as their remuneration is included in the totals for the Group as a whole.
+The following principal 
+accounting policies
+ have been applied:
+- 18 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.2
+Basis of consolidation
+The consolidated 
+financial statements
+ present the results of the 
+Company
+ and its own subsidiaries ("the 
+Group
+") as if they form a single entity. Intercompany transactions and balances between group companies are therefore eliminated in full.
+The consolidated 
+financial statements
+ incorporate the results of business combinations using the purchase method. In the 
+Statement of Financial Position
+, the acquiree's identifiable assets, liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date. The results of acquired operations are included in the 
+Consolidated Statement of Comprehensive Income
+ from the date on which control is obtained. They are deconsolidated from the date control ceases.
+In accordance with the transitional exemption available in FRS 102, the Group has chosen not to retrospectively apply the standard to business combinations that occurred before the date of transition to FRS 102.
+2.3
+Going concern
+nLighten UK Ltd and subsidiaries have a facility agreement in place with ICG - Longbow Investment No. 5 S.A.R.L for a total amount of £77m. This facility matures on 31st March 2026 at which point it falls due for repayment. The Group is actively engaged in agreeing replacement facilities with the existing and alternative providers and the directors have a reasonable expectation that this will be successfully executed in 2026, however this is not certain. 
+In making their assessment of going concern, the directors have considered their forecast of future cash flows over a period of 12 months from the approval of these financial statements. The ability of the Group and the Company to continue operating as a going concern is dependent on the refinancing of the facility agreement and on the continued financial support from its majority shareholder. The Group has also received confirmation from Group entities that amounts due won't be called for a period of at least 12 months. The majority shareholder has indicated its intention to provide continuing financial support; however, no legally binding agreement is in place at the date of these financial statements. The directors have reviewed the operating cash requirement for the Group and Company and are satisfied that in the event of a significant negative financial performance, the Group and the Company will continue to receive funding from its majority shareholder to make up any shortfall in operating cash requirements. 
+After due consideration of the matters set out above, the directors believe that it remains appropriate to prepare the financial statements on a going concern basis. Nevertheless, the requirement to renegotiate the Group's UK debt facility within the next 12 months and the potential need for uncommitted funds from the Group's investors indicates the existence of a material uncertainty which may cast significant doubt about the Group’s and the Company’s ability to continue as a going concern and, therefore, to continue realising their assets and discharging their liabilities in the normal course of business. These financial statements do not include the adjustments that would result if the Group and Company were unable to continue as a going concern.
+- 19 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.4
+Foreign currency translation
+Functional and presentation currency
+The 
+Company
+'s functional and presentational currency is 
+GBP, rounded to the nearest £
+.
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the spot exchange rates at the dates of the transactions.
+=== page 20 ===
+At each period end foreign currency monetary items are translated using the closing rate. Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction
+ and non-monetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses resulting from the settlement of transactions and from the translation at period-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss
+ except when deferred in other comprehensive income as qualifying cash flow hedges.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the 
+Consolidated Statement of Comprehensive Income
+ within 'finance income or costs'. All other foreign exchange gains and losses are presented in profit or loss within 'other operating income'.
+On consolidation, the results of overseas operations are translated into 
+Sterling
+ at rates approximating to those ruling when the transactions took place. All assets and liabilities of overseas operations are translated at the rate ruling at the reporting date. Exchange differences arising on translating the opening net assets at opening rate and the results of overseas operations at actual rate are recognised in other comprehensive income.
+2.5
+Revenue
+Revenue
+ is recognised to the extent that it is probable that the economic benefits will flow to the 
+Group
+ and the 
+revenue
+ can be reliably measured. 
+Revenue
+ is measured as the fair value of the consideration received or receivable, excluding discounts, rebates, value added tax and other sales taxes. The following criteria must also be met before 
+revenue
+ is recognised:
+Rendering of services
+Revenue
+ from a contract to provide services is recognised in the period in which the services are provided in accordance with the stage of completion of the contract when all of the following conditions are satisfied:
+∙
+the amount of 
+revenue
+ can be measured reliably;
+∙
+it is probable that the 
+Group
+ will receive the consideration due under the contract;
+∙
+the stage of completion of the contract at the end of the reporting period can be measured reliably; and
+∙
+the costs incurred and the costs to complete the contract can be measured reliably.
+- 20 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.6
+Operating leases: the Group as lessee
+Rentals paid under operating leases are charged to profit or loss on a straight-line basis over the lease term.
+Benefits received and receivable as an incentive to sign an operating lease are recognised on a straight-line basis over the lease term, unless another systematic basis is representative of the time pattern of the lessee's benefit from the use of the leased asset.
+2.7
+Interest income
+Interest income is recognised in profit or loss using the effective interest method.
+2.8
+Finance costs
+Finance costs are charged to profit or loss over the term of the debt using the effective interest method so that the amount charged is at a constant rate on the carrying amount. Issue costs are initially recognised as a reduction in the proceeds of the associated capital instrument.
+2.9
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the period in which they are incurred.
+2.10
+Borrowing costs
+All borrowing costs are recognised in profit or loss in the 
+year
+ in which they are incurred.
+2.11
+Pensions
+Defined contribution pension plan
+The 
+Group
+ operates a defined contribution plan for its employees. A defined contribution plan is a pension plan under which the 
+Group
+ pays fixed contributions into a separate entity. Once the contributions have been paid the 
+Group
+=== page 21 ===
+ has no further payment obligations.
+The contributions are recognised as an expense in profit or loss when they fall due. Amounts not paid are shown in accruals as a liability in the 
+Statement of Financial Position
+. The assets of the plan are held separately from the 
+Group
+ in independently administered funds.
+- 21 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.12
+Current and deferred taxation
+The tax expense for the year comprises current and deferred tax. 
+Tax is recognised in profit or loss except that a charge attributable to an item of income and expense recognised as other comprehensive income or to an item recognised directly in equity is also recognised in other comprehensive income or directly in equity respectively.
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+ in the countries where the 
+Company and the Group operate and generate income
+.
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the 
+reporting date
+, except that:
+∙
+The recognition of deferred tax assets is limited to the extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits
+;
+∙
+Any deferred tax balances are reversed if and when all conditions for retaining associated tax allowances have been met
+; and
+∙
+Where they relate to timing differences in respect of interests in subsidiaries, associates, branches and joint ventures and the 
+Group
+ can control the reversal of the timing differences and such reversal is not considered probable in the foreseeable future.
+Deferred tax balances are not recognised in respect of permanent differences except in respect of business combinations, when deferred tax is recognised on the differences between the fair values of assets acquired and the future tax deductions available for them and the differences between the fair values of liabilities acquired and the amount that will be assessed for tax. Deferred tax is determined using tax rates and laws that have been enacted or substantively enacted by the 
+reporting date
+.
+- 22 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.13
+Intangible assets
+Goodwill
+Goodwill represents the difference between amounts paid on the cost of a business combination and the acquirer’s interest in the fair value of 
+the Group's share of its
+ identifiable assets and liabilities of the acquiree at the date of acquisition. Subsequent to initial recognition, goodwill is measured at cost less accumulated amortisation and accumulated impairment losses. Goodwill is amortised on a straight-line basis to the 
+Consolidated Statement of Comprehensive Income
+ over its useful economic life.
+Other intangible assets
+Intangible assets are initially recognised at cost. After recognition, under the cost model, intangible assets are measured at cost less any accumulated amortisation and any accumulated impairment losses.
+All intangible assets are considered to have a finite useful life. If a reliable estimate of the useful life cannot be made, the useful life shall not exceed ten years.
+ The estimated useful lives range as follows:
+Goodwill
+-
+10
+years
+2.14
+Tangible fixed assets
+Tangible fixed assets under the cost model are stated at historical cost less accumulated depreciation and any accumulated impairment losses. Historical cost includes expenditure that is directly attributable to bringing the asset to the location and condition necessary for it to be capable of operating in the manner intended by management.
+Depreciation is charged so as to allocate the cost of assets less their residual value over their estimated useful lives, 
+using the following basis
+.
+Depreciation is provided on the following basis:
+Freehold property
+-
+2
+%
+=== page 22 ===
+straight line (see note 3)
+Plant and machinery
+-
+10
+%
+straight line
+Fixtures and fittings
+-
+20
+%
+straight line
+Office equipment
+-
+20
+%
+straight line
+Computer equipment
+-
+33
+%
+straight line
+The assets' residual values, useful lives and depreciation methods are reviewed, and adjusted prospectively if appropriate, or if there is an indication of a significant change since the last reporting date.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in profit or loss.
+- 23 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.15
+Impairment of fixed assets and goodwill
+Assets that are subject to depreciation or amortisation are assessed at each 
+reporting date
+ to determine whether there is any indication that the assets are impaired. Where there is any indication that an asset may be impaired, the carrying value of the asset (or cash-generating unit to which the asset has been allocated) is tested for impairment. An impairment loss is recognised for the amount by which the asset's carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an asset's (or CGU's) fair value less costs to sell and value in use. For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable cash flows (CGUs). Non-financial assets that have been previously impaired are reviewed at each 
+reporting date
+ to assess whether there is any indication that the impairment losses recognised in prior periods may no longer exist or may have decreased.
+2.16
+Valuation of investments
+Investments in subsidiaries are measured at cost less accumulated impairment.
+2.17
+Debtors
+Short-term debtors are measured at transaction price, less any impairment. Loans receivable are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method, less any impairment.
+2.18
+Cash and cash equivalents
+Cash is represented by cash in hand and deposits with financial institutions repayable without penalty on notice of not more than 24 hours. Cash equivalents are highly liquid investments that mature in no more than three months from the date of acquisition and that are readily convertible to known amounts of cash with insignificant risk of change in value.
+In the 
+Consolidated Statement of Cash Flows
+, cash and cash equivalents are shown net of bank overdrafts that are repayable on demand and form an integral part of the 
+Group
+'s cash management.
+2.19
+Creditors
+Short-term creditors are measured at the transaction price. Other financial liabilities, including bank loans, are measured initially at fair value, net of transaction costs, and are measured subsequently at amortised cost using the effective interest method.
+2.20
+Provisions for liabilities
+Provisions are recognised when an event has taken place that gives rise to a legal or constructive obligation, a transfer of economic benefits is probable and a reliable estimate can be made.
+Provisions are measured as the best estimate of the amount required to settle the obligation, taking into account the related risks and uncertainties.
+Increases in provisions are generally charged as an expense to profit or loss.
+- 24 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.21
+Financial instruments
+The 
+Group
+ has elected to apply the provisions of Section 11 “Basic Financial Instruments” of FRS 102 to all of its financial instruments.
+The 
+=== page 23 ===
+Group
+ has elected to apply the recognition and measurement provisions of IFRS 9 Financial Instruments (as adopted by the UK Endorsement Board) with the disclosure requirements of Sections 11 and 12 and the other presentation requirements of FRS 102.
+Financial instruments are recognised in the 
+Group's
+Statement of Financial Position
+ when the 
+Group
+ becomes party to the contractual provisions of the instrument.
+Financial assets and liabilities are offset, with the net amounts presented in the financial statements, when there is a legally enforceable right to set off the recognised amounts and there is an intention to settle on a net basis or to realise the asset and settle the liability simultaneously.
+Basic financial assets
+Basic financial assets, which include trade and other debtors, cash and bank balances, are initially measured at their transaction price (adjusted for transaction costs except in the initial measurement of financial assets that are subsequently measured at fair value through profit and loss) and are subsequently carried at their amortised cost using the effective interest method, less any provision for impairment, unless the arrangement constitutes a financing transaction, where the transaction is measured at the present value of the future receipts discounted at a market rate of interest.
+Discounting is omitted where the effect of discounting is immaterial. The 
+Group's
+ cash and cash equivalents, trade and most other debtors due with the operating cycle fall into this category of financial instruments.
+Other financial assets
+Other financial assets, which includes investments in equity instruments which are not classified as subsidiaries, associates or joint ventures, are initially measured at fair value, which is normally the recognised transaction price. Such assets are subsequently measured at fair value with the changes in fair value being recognised in the profit or loss. Where other financial assets are not publicly traded, hence their fair value cannot be measured reliably, they are measured at cost less impairment.
+Impairment of financial assets
+At the end of each reporting period financial assets measured at amortised cost are assessed for objective evidence of impairment. If an asset is impaired the impairment loss is the difference between the carrying amount and the present value of the estimated cash flows discounted at the asset’s original effective interest rate. The impairment loss is recognised in profit or loss. 
+Financial assets are impaired when events, subsequent to their initial recognition, indicate the estimated future cash flows derived from the financial asset(s) have been adversely impacted. The impairment loss will be the difference between the current carrying amount and the present value of the future cash flows at the asset(s) original effective interest rate.
+- 25 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+2.
+Accounting policies (continued)
+2.21
+Financial instruments (continued)
+If there is a favourable change in relation to the events surrounding the impairment loss then the impairment can be reviewed for possible reversal. The reversal will not cause the current carrying amount to exceed the original carrying amount had the impairment not been recognised. The impairment reversal is recognised in the profit or loss.
+Basic financial liabilities
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. An equity instrument is any contract that evidences a residual interest in the assets of the 
+Group
+ after the deduction of all its liabilities.
+Basic financial liabilities, which include trade and other creditors, bank loans
+,
+ other loans 
+and loans due to fellow group companies 
+are initially measured at their transaction price (adjusting for transaction costs except in the initial measurement of financial liabilities that are subsequently measured at fair value through profit and loss). When this constitutes a financing transaction, whereby the debt instrument is measured at the present value of the future payments discounted at a market rate of interest, discounting is omitted where the effect of discounting is immaterial.
+Debt instruments are subsequently carried at their amortised cost using the effective interest rate method.
+Trade creditors are obligations to pay for goods and services that have been acquired in the ordinary course of business from suppliers. Trade creditors are classified as current liabilities if the payment is due within one year. If not, they represent non-current liabilities. Trade creditors are initially recognised at their transaction price and subsequently are measured at amortised cost using the effective interest method. Discounting is omitted where the effect of discounting is immaterial.
+Derecognition of financial instruments
+Derecognition of financial assets
+Financial assets are derecognised when their contractual right to future cash flow expire, or are settled, or when the 
+Group
+ transfers the asset and substantially all the risks and rewards of ownership to another party. If significant risks and rewards of ownership are retained after the transfer to another party, then the 
+Group
+ will continue to recognise the value of the portion of the risks and rewards retained.
+Derecognition of financial liabilities
+Financial liabilities are derecognised when the 
+Group's
+ contractual obligations expire or are discharged or cancelled.
+- 26 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+3.
+Judgments in applying accounting policies and key sources of estimation uncertainty
+Critical judgments in applying the Group's accounting policies
+The critical judgments that the directors have made in the process of applying the Group's accounting policies that have the most significant effect on the statutory financial statements are discussed below.
+Assessing indicators of impairment
+In assessing whether there have been any indicators of impairment of assets, the directors have considered both external and internal sources of information such as market conditions, counterparty credit ratings and experience of recoverability. There have been no indicators of impairments identified during the current financial year.
+Key sources of estimation uncertainty
+(i) Determining useful economic lives of tangible fixed assets
+The Group depreciates tangible fixed assets over their estimated useful lives. The estimation of the useful lives of assets is based on historic performance as well as expectations about future use and therefore requires estimates and assumptions to be applied by management. The actual lives of these assets can vary depending on variety of factors, including technological innovation, product life cycles and maintenance programmes.
+The judgment is applied by management when determining the residual values for tangible fixed assets. When determining the residual value management aim to assess the amount that the Group would currently obtain for the disposal of the asset, if it were already of the condition expected at the end of its useful life. Where possible this is done with reference to external market prices..
+(ii) Recoverability of debtors
+The Group and Company establishes a provision for debtors and amounts owed by group entities that are estimated not to be recoverable. When assessing recoverability, the directors have considered factors such as the aging of the debtors, past experience of recoverability, and the credit profile of individual or groups of customers.
+4.
+Turnover
+The whole of the turnover is attributable to the principal activity of the Group.
+All turnover arose 
+=== page 24 ===
+within the United Kingdom
+.
+- 27 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+5.
+Operating loss
+The operating loss is stated after (crediting)/charging:
+Year ended
+31 December
+As restated*
+6 month period ended
+31 December
+2024
+2023
+£
+£
+Amortisation
+(362,448
+)
+(67,678
+)
+Bad debt expense
+41,776
+43,099
+Other operating lease rentals
+180,327
+44,577
+Exchange differences
+2,410
+-
+Impairment of freehold property
+2,623,181
+1,031,825
+Depreciation
+3,275,272
+1,227,241
+*See note 24 for further details of the prior year restatement.
+6.
+Auditor's remuneration
+Fees in the prior year totalled £78,000 and were paid to Dux Advisory Limited. In the current year all fees paid to PricewaterhouseCoopers LLP were paid by nLighten UK Topco Limited and not recharged.
+- 28 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+7.
+Employees
+Staff costs
+, including directors' remuneration,
+ were as follows:
+Group
+Group
+2024
+2023
+£
+£
+Wages and salaries
+2,771,155
+1,091,677
+Social security costs
+426,706
+118,380
+Cost of defined contribution scheme
+156,354
+94,149
+3,354,215
+1,304,206
+None of the directors of the Group were remunerated for their services. All such costs are incurred by nLighten HQ B.V, a fellow subsidiary of the nLighten UK Topco Limited group. 
+The average
+=== page 25 ===
+ monthly
+ number of 
+employees, including the directors,
+ during the 
+year
+ was as follows:
+Group
+Group
+Company
+Company
+Year ended
+31 December
+6 month period ended
+31 December
+Year ended
+31 December
+6 month period ended
+31 December
+2024
+2023
+2024
+2023
+No.
+No.
+No.
+No.
+Staff
+58
+52
+2
+2
+8.
+Interest receivable and similar income
+Year ended
+31 December
+6 month period ended
+31 December
+2024
+2023
+£
+£
+Other interest receivable
+77,760
+-
+- 29 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+9.
+Interest payable and similar expenses
+Year ended
+31 December
+6 month period ended
+31 December
+2024
+2023
+£
+£
+Loan facility interest payable
+5,963,994
+1,785,587
+10.
+Tax on loss
+Year ended
+31 December
+As restated*
+6 month period ended
+31 December
+2024
+2023
+=== page 26 ===
+£
+£
+Corporation tax
+Adjustments in respect of previous periods
+36,995
+-
+Total current tax
+36,995
+-
+Deferred tax
+Origination and reversal of timing differences
+(2,203,903
+)
+522,764
+Adjustments in respect of previous periods
+(279,712
+)
+-
+Total deferred tax
+(2,483,615
+)
+522,764
+Tax on loss
+(2,446,620
+)
+522,764
+- 30 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+10.
+Tax on loss (continued)
+Factors affecting tax charge for the year/period
+The tax assessed for the 
+year/period
+ is 
+higher than
+ (2023 - higher than) 
+the standard rate of corporation tax
+ in the UK of
+25
+% (2023 -
+25
+%)
+. The differences are explained below:
+Year ended
+31 December
+As restated*
+6 month period ended
+31 December
+2024
+2023
+£
+£
+Loss before tax
+(15,987,395
+)
+(4,479,470
+)
+Loss before tax multiplied by standard rate of corporation tax in the UK of 25% (2023 - 25%)
+(3,996,849
+)
+(1,119,868
+)
+Effects of:
+Non-tax deductible amortisation of goodwill and impairment
+(90,612
+)
+(16,919
+)
+=== page 27 ===
+Expenses not deductible for tax purposes
+2,248,018
+1,267,340
+Adjustments to tax charge in respect of prior periods
+36,995
+-
+Adjustments to tax charge in respect of prior periods - deferred tax
+(279,712
+)
+-
+Fixed asset differences
+101,615
+15,321
+Other differences leading to an increase in the tax charge
+14,257
+376,890
+Movement in deferred tax asset recognised
+(480,332
+)
+-
+Total tax charge for the year/period
+(2,446,620
+)
+522,764
+Factors that may affect future tax charges
+There were no factors that may affect future tax charges.
+*See note 24 for further details of the prior year restatement.
+- 31 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+11.
+Intangible assets
+Group
+Goodwill
+Negative goodwill
+Total
+£
+£
+£
+Cost
+At 1 January 2024 (as previously stated)
+13,176,526
+(11,874,400
+)
+1,302,126
+Prior Year Adjustment
+*
+(13,176,526
+)
+8,558,820
+(4,617,706
+)
+At 1 January 2024 (as restated)
+-
+(3,315,580
+)
+(3,315,580
+)
+Additions
+220,141
+-
+220,141
+At 31 December 2024
+220,141
+(3,315,580
+)
+(3,095,439
+)
+Accumulated amortisation
+=== page 28 ===
+At 1 January 2024 (as previously stated)
+4,513,273
+(1,137,489
+)
+3,375,784
+Prior Year Adjustment
+*
+(4,513,273
+)
+1,011,170
+(3,502,103
+)
+At 1 January 2024 (as restated)
+-
+(126,319
+)
+(126,319
+)
+Charge for the year
+16,510
+(378,958
+)
+(362,448
+)
+At 31 December 2024
+16,510
+(505,277
+)
+(488,767
+)
+Net book value
+At 31 December 2024
+203,631
+(2,810,303
+)
+(2,606,672
+)
+At 31 December 2023 (as restated)
+-
+(3,189,261
+)
+(3,189,261
+)
+*See 24 for further details of the prior year restatement.
+- 32 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+12.
+Tangible assets
+Group
+Freehold property
+Plant and machinery
+Fixtures and fittings
+Office equipment
+Computer equipment
+Total
+£
+£
+£
+£
+£
+£
+Cost
+At 1 January 2024
+141,344,078
+2,301,791
+-
+4,304
+572,801
+=== page 29 ===
+144,222,974
+Additions
+6,871,899
+20,222,639
+49,332
+50,011
+345,472
+27,539,353
+Acquisition of subsidiary
+242,705
+-
+-
+10,906
+1,921,390
+2,175,001
+At 31 December 2024
+148,458,682
+22,524,430
+49,332
+65,221
+2,839,663
+173,937,328
+Accumulated depreciation
+At 1 January 2024 (as previously stated)
+605,390
+741,123
+-
+933
+179,513
+1,526,959
+Prior Year Adjustment
+1,253,990
+-
+-
+-
+-
+1,253,990
+At 1 January 2024 (as restated)
+1,859,380
+741,123
+-
+933
+179,513
+2,780,949
+Charge for the year
+2,482,666
+668,506
+-
+295
+123,805
+3,275,272
+Impairment charge
+2,623,181
+-
+-
+-
+-
+2,623,181
+At 31 December 2024
+6,965,227
+1,409,629
+-
+1,228
+303,318
+8,679,402
+Net book value
+At 31 December 2024
+141,493,455
+21,114,801
+49,332
+=== page 30 ===
+63,993
+2,536,345
+165,257,926
+At 31 December 2023 (as restated)
+139,484,698
+1,560,668
+-
+3,371
+393,288
+141,442,025
+*See note 24 for further details of the prior year restatement.
+Included within freehold property is land totalling £30,140,000 (restated 2023: £28,140,000) which is not depreciated.
+An impairment charge of £2,623,181 has been charged on freehold property within nLighten Bridgend Limited to adjust the net realisable value to £1,750,000.
+- 33 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+12.
+Tangible assets (continued)
+Company
+Plant and machinery
+£
+Cost
+At 1 January 2024
+-
+Additions
+909,043
+At 31 December 2024
+909,043
+Accumulated depreciation
+At 1 January 2024
+-
+Charge for the year
+-
+At 31 December 2024
+-
+Net book value
+At 31 December 2024
+909,043
+- 34 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+13.
+Investments
+Company
+Investments in subsidiary companies
+£
+Cost and net book value
+At 1 January 2024
+44,729,524
+Additions
+8,529,287
+At 31 December 2024
+53,258,811
+On 28 March 2024, nLighten UK Ltd acquired 100% shareholding in EI Data Center UK Ltd, which has since been renamed nLighten London Limited, for a purchase consideration of £2,495,269.
+During the year the Company made additional investment by way of share issue in its subsidiary nLighten UK Data Centres Limited of £6,034,018.
+Subsidiary undertakings
+The following 
+were subsidiary undertakings of the Company:
+Name
+Class of shares
+Holding
+nLighten London Limited
+Ordinary A
+100
+%
+nLighten UK Data Centres Limited
+Ordinary A
+100
+=== page 31 ===
+%
+nLighten UK Propco Limited*
+Ordinary A
+100
+%
+nLighten UK Opco Limited*
+Ordinary A
+100
+%
+Proximity Data Centres Operations Limited*
+Ordinary A
+100
+%
+nLighten Wakefield Limited*
+Ordinary A
+100
+%
+nLighten Nottingham Limited*
+Ordinary A
+100
+%
+nLighten Leeds Limited*
+Ordinary A
+100
+%
+nLighten Liverpool Limited*
+Ordinary A
+100
+%
+nLighten Chester Limited*
+Ordinary A
+100
+%
+nLighten Milton Keynes Limited*
+Ordinary A
+100
+%
+nLighten Bridgend Limited*
+Ordinary A
+100
+%
+nLighten Swindon Limited*
+Ordinary A
+100
+%
+nLighten Birmingham Limited*
+Ordinary A
+100
+%
+nLighten Bristol Limited*
+Ordinary A
+100
+%
+Sentrum (Rugby) Limited*
+Ordinary A
+100
+%
+Nuco Technologies Limited*
+Ordinary A
+100
+%
+- 35 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Subsidiary undertakings (continued)
+The registered office of all subsidiaries excluding Sentrum (Rugby) Limited and nLighten London Limited is Proximity House, Unit 2, Chester Gates, Chester, England, CH1 6LT.
+The registered office of Sentrum (Rugby) Limited is PO BOX 145, Level 6, 10a Prospect Hill, Douglas, Isle Of Man, IM99 1FY and for nLighten London Limited is 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX.
+All subsidiaries marked with a * are companies which are indirectly held by nLighten UK Ltd. 
+The following companies were exempt from the requirements relating to the audit of individual financial statements by virtue of Section 479A of Companies Act 2006 and parent guarantee being provided by the Company: 
+=== page 32 ===
+nLighten London Limited
+nLighten UK Data Centres Limited
+nLighten UK Propco Limited
+Proximity Data Centres Operations Limited
+nLighten Wakefield Limited
+nLighten Nottingham Limited
+nLighten Leeds Limited
+nLighten Liverpool Limited
+nLighten Chester Limited
+nLighten Milton Keynes Limited
+nLighten Bridgend Limited
+nLighten Swindon Limited
+nLighten Birmingham Limited
+nLighten Bristol Limited
+Sentrum (Rugby) Limited
+Nuco Technologies Limited
+14.
+Debtors
+Group
+Group
+Company
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Trade debtors
+3,051,096
+1,559,491
+-
+-
+Amounts owed by group undertakings
+143,246
+-
+34,442,748
+1,475,376
+Other debtors
+3,092,129
+2,616,667
+66,344
+2,302
+Prepayments and accrued income
+1,710,558
+1,436,989
+-
+-
+7,997,029
+5,613,147
+34,509,092
+1,477,678
+Included within trade debtors is a provision for doubtful debts of £92,120 (2023: £75,000).
+Amounts owed by group companies are unsecured and interest free. There is no formal repayment date in place.
+- 36 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+15.
+Cash at bank and in hand
+Group
+Group
+Company
+Company
+2024
+2023
+2024
+2023
+=== page 33 ===
+£
+£
+£
+£
+Cash at bank and in hand
+4,591,005
+4,261,310
+41,199
+-
+16.
+Creditors: Amounts falling due within one year
+Group
+Group
+Company
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Trade creditors
+1,760,995
+2,129,996
+20,188
+-
+Amounts owed to group undertakings
+34,587,909
+5,539,073
+34,274,572
+5,080,866
+Corporation tax
+-
+30,142
+-
+-
+Other taxation and social security
+741,057
+257,997
+-
+-
+Other creditors
+2,055,918
+2,033,766
+880,928
+842,446
+Accruals and deferred income
+8,680,541
+4,733,007
+3,317,748
+60,000
+47,826,420
+14,723,981
+38,493,436
+5,983,312
+Amounts owed to group companies are unsecured and interest free. There is no formal repayment date in place.
+17.
+Creditors: Amounts falling due after more than one year
+Group
+Group
+Company
+Company
+2024
+2023
+2024
+2023
+£
+£
+=== page 34 ===
+£
+£
+Loan facility
+78,694,111
+78,694,111
+-
+-
+The loan facility provided by ICG - Longbow Investment No.5 S.A.R.L is due to mature in March 2026. Interest accrues on the facility at 7.5%.
+On 9 March 2020 and 12 November 2020, ICG - Longbow Investment No.5 S.A.R.L created a fixed and floating charge over the undertaking of all property and assets present and future of nLighten UK Opco Limited, a subsidiary of the Company.
+- 37 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+18.
+Loans
+Analysis of the maturity of loans is given below:
+Group
+Group
+2024
+2023
+£
+£
+Amounts falling due 1-2 years
+Loan facility
+78,694,111
+78,694,111
+19.
+Deferred taxation
+Group
+2024
+2023
+£
+£
+At beginning of year
+(19,370,261
+)
+-
+Charged to profit or loss
+2,483,615
+(522,764
+)
+Arising on business combinations
+-
+(18,847,497
+)
+At end of year
+(16,886,646
+)
+(19,370,261
+)
+The 
+provision for deferred taxation
+ is made up as follows:
+Group
+Group
+2024
+2023
+£
+£
+Accelerated capital allowances
+(2,824,956
+)
+(2,748,196
+)
+Short term timing difference
+-
+2,723
+Capital gains
+(16,886,646
+)
+=== page 35 ===
+(16,624,788
+)
+Losses and other deductions
+2,824,956
+-
+(16,886,646
+)
+(19,370,261
+)
+As at 31 December 2024, the Group had a deferred tax asset of £635,471 (2023: £1,258,068) not recognised.
+- 38 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+20.
+Called up share capital
+2024
+2023
+£
+£
+Allotted, called up and fully paid
+50,375,120
+ (2023 - 
+40,341,102
+)
+Ordinary
+shares of
+£
+1.00
+ each
+50,375,120
+40,341,102
+Ordinary shares carry voting rights and the right to receive dividends. 
+On 31 January 2024, the Company issued 2,572,500 Ordinary shares at par value. 
+On 3 May 2024, the Company issued 3,461,518 Ordinary shares at par value.
+On 12 July 2024, the Company issued 4,000,000 Ordinary shares at par value.
+Post year end, on 14 March 2025, the Company issued an additional 23,963,769 Ordinary shares at par value.
+21.
+Reserves
+Profit and loss account
+This reserve represents cumulative profits and losses less dividends declared.
+22.
+Analysis of net debt
+At 1 January 2024
+Cash flows
+At 31 December 2024
+£
+£
+£
+Cash at bank and in hand
+4,261,310
+329,695
+4,591,005
+Debt due after 1 year
+(78,694,111
+)
+-
+(78,694,111
+)
+(74,432,801
+)
+329,695
+(74,103,106
+)
+- 39 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+23.
+Business combinations
+=== page 36 ===
+The purchase method of acquisition for EI Data Center UK Ltd, now named nLighten London Limited, on 28 March 2024 is set out below.
+Acquisition of 
+EI Data Center UK Ltd
+Recognised amounts of identifiable assets acquired and liabilities assumed
+Book value
+Fair value
+£
+£
+Fixed Assets
+Tangible
+2,175,001
+2,175,001
+2,175,001
+2,175,001
+Current Assets
+Debtors
+621,425
+621,425
+Cash at bank and in hand
+8,110
+8,110
+Total Assets
+2,804,536
+2,804,536
+Creditors
+Due within one year
+(529,308
+)
+(
+529,308
+)
+Total Identifiable net assets
+2,275,228
+2,275,228
+Goodwill
+220,141
+Total purchase consideration
+2,495,369
+Consideration
+£
+Cash
+2,220,124
+Directly attributable costs
+275,245
+Total purchase consideration
+2,495,369
+- 40 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+23.
+Business combinations (continued)
+Cash outflow on acquisition
+£
+Purchase consideration settled in cash, as above
+2,220,124
+Directly attributable costs
+275,245
+2,495,369
+Less: Cash and cash equivalents acquired
+(8,110
+)
+Net cash outflow on acquisition
+2,487,259
+The results of 
+EI Data Center UK Ltd
+, now named nLighten London Limited, since acquisition are as follows:
+Current period since acquisition
+£
+Turnover
+=== page 37 ===
+2,912,275
+Profit for the period since acquisition
+565,440
+- 41 -
+NLIGHTEN UK LTD
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+24.
+Prior year adjustment
+In the prior year, negative goodwill was overstated by £7,547,650 and goodwill was overstated by £8,663,253 due to the incorrect recognition of goodwill in the net assets on acquisition. The net impact of £1,115,603, being a reduction to intangible assets and associated increase to administrative expenses, comprises legal fees of £1,759,236 in relation to the acquisition that were erroneously capitalised within goodwill, further costs of £474,000 that were expensed have now been capitalised within goodwill and associated amortisation charges reduced by £169,633. 
+In the prior year, depreciation expenses related to freehold buildings of £827,555 (included within "tangible assets") were erroneously excluded from the Group's financial results. Prior year adjustments have now been made to recognise the appropriate depreciation expense (included within "administrative expenses"). Impairment charges also increased by £426,435 to reflect the market value of property held, with the aim to sell. The net result of these changes is a decrease to tangible assets of £1,253,990, and an associated increase to administrative expenses. 
+The following table shows the impact of the prior year adjustments:
+Financial statement line item
+2023 (as reported)
+Adjustment
+2023 (as restated)
+Consolidated statement of comprehensive income
+Administrative expenses
+2,790,124
+2,369,593
+5,159,717
+Tax on loss
+522,764
+-
+522,764
+Consolidated statement of financial position
+Tangible assets
+142,696,015
+(1,253,990)
+141,442,025
+Intangible assets
+(2,073,658)
+(1,115,603)
+(3,189,261)
+Consolidated statement of changes in equity
+Profit and loss account reserve
+(2,632,641)
+(2,369,593)
+(5,002,234)
+As a result of this adjustment, although "net cash used in operating activities" in the consolidated statement of cash flows for the period ended 31 December 2023 remained the same, the following lines have been adjusted:
+Amortisation of inangible assets - decreased by £169,633;
+Depreciation of tangible fixed assets - increased by £827,555;
+Impairments of fixed assets - increased by £426,435; and 
+Decrease in creditors - increased by £1,285,236. 
+25.
+Capital commitments
+At 
+31 December 2024
+ the 
+Group and Company
+ had capital commitments as follows:
+Group
+Group
+Company
+Company
+2024
+2023
+2024
+2023
+£
+£
+£
+£
+Contracted for but not provided in these financial statements
+-
+5,575,000
+-
+5,175,000
+- 42 -
+NLIGHTEN UK LTD
+=== page 38 ===
+NOTES TO THE FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+26.
+Pension commitments
+The Group operates a defined contributions pension scheme. The assets of the scheme are held separately from those of the group in an independently administered fund. The pension cost charge represents contributions payable by the group to the fund and amounted to £
+156,354
+ (2023: £
+94,149
+). Contributions totalling £50,475 (2023: £16,159) were payable to the fund at the Statement of Financial Position date and are included in creditors.
+27.
+Related party transactions
+The Group has taken advantage of the exemption conferred by FRS102 paragraph 33.1A and has not disclosed transactions and outstanding balances with its fellow subsidiary undertakings on the basis that all the relevant companies are directly or indirectly wholly owned.
+During the year, key management personnel remuneration totalled £412,600 (2023: £171,300).
+The Group had balances due to nLighten HQ B.V that were unsecured and interest free amounting to £33,466,591 (2023: £4,873,405).
+The Group had balances due to nLighten UK Topco Limited that were unsecured and interest free amounting to £345,568 (2023: £345,568).
+The Group had balances due to nLighten UK Bidco Limited that were unsecured and interest free amounting to £320,000 (2023: £320,000).
+During the year, the Group purchased the Hoddesden data centre from EXA Infrastructure UK Limited and EXA Infrastructure Services UK Limited. The Group made sales of £542,518 (2023: £Nil) and purchases of £486,534 (2023: £Nil). As at the year end, the Group had outstanding amounts of £489,644 (2023: £Nil) in debtors, and £309,929 (2023: £Nil) in creditors. The net debtor was therefore £179,715 (2023: £Nil). 
+28.
+Post balance sheet events
+Following the year end, nLighten Bridgend Limited sold land and buildings for £1.75m. 
+Post year end, on 14 March 2025, the Company issued an additional 23,963,769 Ordinary shares at par value.
+29.
+Controlling party
+As at the year end, the immediate parent Company is nLighten HQ B.V, a Company registered in the Netherlands. The largest group in which the Company is consolidated is nLighten UK Topco Limited, a Company registered in England and Wales under company number 14348462, its registered address being 1 Bartholomew Lane, London, EC2N 2AX.
+The ultimate controlling party is I Squared Capital Advisors (US) LLC, a Company registered in the US.
+- 43 -

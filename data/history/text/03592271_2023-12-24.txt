@@ -1,0 +1,814 @@
+=== page 1 ===
+1
+* .
+}
+|
+: Telecommunications Management Limited
+Annual Report and Financial Statements
+YEAR ENDED 31 MARCH 2023
+Company Registration Number 3592271
+. we :
+' '
+'
+z :
+a 4
+4
+: *ACIF7V8Z*
+, A20 15/12/2023 #15
+COMPANIES HOUSE
+
+=== page 2 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED .
+| REPORT AND ACCOUNTS ,
+FOR THE YEAR ENDED 31 MARCH 2023
+t
+Contents
+Page
+Strategic Report ; 1
+Directors’ Report 3
+Statement of Directors’ Responsibilities in respect of the Strategic Report, the Directors’ Report
+and the Financial Statements 4
+Independent Auditor’s Report to the Members of Telecommunications Management Limited 5
+Profit and Loss Account and Other Comprehensive Income 8
+Balance Sheet 9
+Statement of Changes in Equity 10
+Notes to the Financial Statements 11
+’ '
+
+=== page 3 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+REPORT AND ACCOUNTS
+FOR THE YEAR ENDED 31 MARCH 2023 .
+Directors of the company
+CF Wigoder ,
+N Schoenfeld
+C Wetherall
+S Burnett
+Secretary and registered office
+D Baxter
+Network HQ .
+508 Edgware Road
+The Hyde
+London
+NW9 5AB
+Independent auditor
+KPMG LLP
+15 Canada Square
+London
+E14 5GL :
+Bankers
+Barclays Bank PLC
+1 Churchill Place
+London
+E14 SHP
+Lloyds Bank PLC
+25 Gresham Street
+London
+EC2V 7HN .
+Bank of Ireland Group Ple ;
+Bow Bells House
+1 Bread Street
+London .
+EC4M 9BE
+
+=== page 4 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+| STRATEGIC REPORT
+} FOR THE YEAR ENDED 31 MARCH 2023
+REVIEW OF THE BUSINESS
+Amounts included in the annual accounts relate to the provision of fixed wire telecommunication services to business and
+public-sector customers, and mobile telecommunications services to residential and business customers. The Company’s
+parent company, Utility Warehouse Limited, facilitates access to the necessary infrastructure for the provision of these
+services, for which the Company is duly charged by the parent company.
+The profit on ordinary activities before taxation for the year ended 31 March 2023, set out on page 8, was £538,386 (2022:
+£664,567). The Company does not have any financial instruments other than debtors and creditors arising from its normal
+business activities. Any risks in respect of financial instruments of the ultimate parent company, Telecom Plus PLC are
+disclosed in its accounts.
+The resulting financial position of the Company is set out in the balance sheet on page 9.
+DEVELOPMENT AND PERFORMANCE
+The Company has traded satisfactorily during the year, whilst investing in the growth of its mobile offering, and is expected
+to continue to do so.
+Services
+The table below sets out the number of key services supplied by the Company.
+2023 2022
+Fixed Telephony (calls and NGN) 3,101 4,032
+Fixed Telephony (line rental) 2,836 3,323
+Broadband 1,566 1,771
+Mobile 182,381 134,710
+Total 189,884 143,836
+PRINCIPAL RISKS AND UNCERTAINTIES
+The principal specific risks arising from the Company’s business model, and the measures taken to mitigate those risks, are
+set out below.
+Information technology risk
+The Company is reliant on its in-house developed and supported systems for the successful operation of its business model.
+Any failure in the operation of these systems could negatively impact service to customers and potentially be damaging to
+the Company reputation. Application software is developed and maintained by the parent company’s Technology team to
+. support the changing needs of the business using the best ’fit for purpose’ tools and infrastructure. The Technology team is
+made up of highly-skilled, motivated and experienced individuals. The parent company has a dedicated information
+security team which provides governance and oversight ensuring the confidentiality, availability and integrity of the
+: Company’s systems and operations whilst ensuring that any risks and vulnerabilities that arise are managed and mitigated.
+The parent company has strategic control over the core customer including the software development frameworks and
+: source code behind these key applications. The parent company also uses strategic third-party vendors to deliver solutions
+: outside of our core competency. This largely restricts our counterparty risks to services that can be replaced with
+i alternative vendors if required, albeit this could lead to temporary disruption to the day-to-day operations of the business.
+
+, Monitoring, backing up and restoring of the software and underlying data are made on a regular basis. Backups are securely .
+stored or replicated to different locations. Disaster recovery facilities are either provided through cloud-based infrastructure
+as a service, and in critical cases maintained in a warm standby or active-active state to mitigate risk in the event of a failure
+of the production systems.
+
+1
+
+=== page 5 ===
+} TELECOMMUNICATIONS MANAGEMENT LIMITED
+} STRATEGIC REPORT (CONTINUED)
+FOR THE YEAR ENDED 31 MARCH 2023
+Data security risk
+The Company processes sensitive personal and commercial data and in doing so is required by law to protect customer and
+corporate information and data, as well as to keep its infrastructure secure. A breach of security could result in the
+Company facing prosecution and fines as well as loss of business from damage to the Company’s reputation. Recovery
+could be hampered due to any extended period necessary to identify and recover a loss of sensitive information and
+financial losses could arise from fraud and theft. Unplanned costs could be incurred to restore the Company’s security.
+The Information Commissioner’s Officer (‘ICO’) upholds information rights in the public interest and the Company is a
+data controller registered with the ICO. If the Company fails to comply with all the relevant legislation and industry
+specific regulations concerning data protection and information security, it could be subject to enforcement action,
+significant fines and the potential loss of its operating licence.
+Legislative and regulatory risk
+The Company is subject to varying laws and regulations, including possible adverse effects from European regulatory
+intervention. The telecommunications market in the UK is regulated by Ofcom. If the Company fails to comply with its
+obligations, it could be subject to fines or lose its ability to operate. The ongoing implementation of the European
+Electronic Communications Code has resulted in an increased regulatory burden and an even stronger Ofcom focus on
+compliance monitoring. Regulatory changes to the fixed line and broadband switching processes effective this calendar
+year are substantial and require cooperation from all fixed telecom providers. The Company is closely engaged in the
+relevant forums and industry groups to both influence and prepare for the changes.
+Amendments to the regulatory regime could have an impact on the Company’s ability to achieve its financial goals and any
+failure to comply may result in the Company being fined and lead to reputational damage which could impact the
+Company’s brand and ability to attract and retain customers.
+Fraud and bad debt risk
+Fraud and bad debt within the telephony industry may arise from customers using the services, or being provided with a
+mobile handset, without intending to pay their supplier. The amounts involved are generally relatively small as the
+Company has sophisticated call traffic monitoring systems to identify material occurrences of usage fraud. The Company is
+able to immediately eliminate any further usage bad debt exposure by disconnecting any telephony service that
+demonstrates a suspicious usage profile, or falls into arrears on payments.
+Infrastructure risk
+The provision of services to the Company’s customers is reliant on the efficient operation of third party physical
+infrastructure. There is a risk of disruption to the supply of services to customers through any failure in the infrastructure
+e.g. damage to communications networks. However, as the infrastructure is generally shared with other suppliers, any
+material disruption to the supply of services is likely to impact a large part of the market as a whole and it is unlikely that
+the Company would be disproportionately affected. In the event of any prolonged disruption isolated to the Company’s
+principal supplier services required by customers could in due course be sourced from another provider.
+The construction of ‘local monopoly’ fibre telephony networks to which the Company’s access may be limited as a reseller
+could restrict the Company’s ability to compete effectively for customers in certain areas.
+, BY ORDER OF THE BOARD
+N Schoenfeld
+: Director
+26 July 2023
+2
+
+=== page 6 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+J DIRECTORS’ REPORT
+| FOR THE YEAR ENDED 31 MARCH 2023
+The directors have pleasure in presenting their report and the audited financial statements for the year ended 31 March 2023.
+ACTIVITIES
+The principal activity of the Company is the supply of fixed wire and mobile telecommunication services to business and
+public sector customers and prepay mobile telephony to retail and business consumers. Information on the principal risks
+and the development of the Company are set out in the Strategic Report on pages 1 to 2. The Company did not make any
+political donations during the period.
+DIRECTORS
+The directors of the Company during the year were:
+CF Wigoder
+N Schoenfeld
+C Wetherall
+S Burnett
+REGISTERED OFFICE
+Network HQ
+508 Edgware Road
+The Hyde
+London
+NW9 SAB
+FUTURE PROSPECTS
+The Company has traded satisfactorily during the year, whilst investing in the growth of its mobile offering, and is expected
+to continue to do so.
+DIVIDENDS
+The directors recommend that no dividend is paid (2022: Nil).
+DISCLOSURE OF INFORMATION
+So far as the directors are aware, there is no information needed by the Company's auditor in connection with preparing
+their report of which they are unaware, and the directors have taken all the steps that they ought to have taken as directors
+in order to make themselves aware of any relevant audit information and to establish that the Company's auditor is aware of
+. that information.
+DIRECTORS’ AND OFFICERS’ LIABILITY INSURANCE :
+: The Company maintains appropriate insurance to cover directors’ and officers’ liability and has provided an indemnity, as“
+permitted by the Companies Act 2006, in respect of all of the Company’s directors which was in force throughout the
+: financial year and remains in force. Neither the insurance nor the indemnity provides cover where a director has acted
+fraudulently or dishonestly. : :
+AUDITOR
+: Pursuant to Section 487 of the Companies Act 2006, the auditor will be deemed to be reappointed and KPMG LLP will
+therefore continue in office.
+BY ORDER OF THE BOARD
+SE ere
+Director
+. 26 July 2023
+3
+
+=== page 7 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+DIRECTORS’ RESPONSIBILITIES
+FOR THE YEAR ENDED 31 MARCH 2023 ,
+STATEMENT OF DIRECTORS’ RESPONSIBILITIES IN RESPECT OF THE STRATEGIC REPORT, THE
+DIRECTORS’ REPORT AND THE FINANCIAL STATEMENTS
+The directors are responsible for preparing the Directors’ Report and the financial statements in accordance with applicable - ‘
+law and regulations.
+Company law requires the directors to prepare financial statements for each financial year. Under that law they have
+elected to prepare the financial statements in accordance with UK accounting standards and applicable law (UK Generally
+Accepted Accounting Practice), including FRS 101 Reduced Disclosure Framework
+Under company law the directors must not approve the financial statements unless they are satisfied that they give a true
+and fair view of the state of affairs of the company and of the profit or loss of the company for that period. In preparing
+these financial statements, the directors are required to:
+e select suitable accounting policies and then apply them consistently;
+e make judgements and estimates that are reasonable and prudent;
+e — state whether applicable UK accounting standards have been followed, subject to any material departures disclosed
+and explained in the financial statements;
+e assess the company’s ability to continue as a going concem, disclosing, as applicable, matters related to going
+concern; and
+e use the going concern basis of accounting unless they either intend to liquidate the company or to cease operations,
+or have no realistic alternative but to do so.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the company’s
+transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to
+ensure that the financial statements comply with the Companies Act 2006. They are responsible for such internal control as
+they determine is necessary to enable the preparation of financial statements that are free from material misstatement,
+whether due to fraud or error, and have general responsibility for taking such steps as are reasonably open to them to
+_ safeguard the assets of the company and to prevent and detect fraud and other irregularities.
+4
+
+=== page 8 ===
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF
+| TELECOMMUNICATIONS MANAGEMENT LIMITED
+}
+Opinion :
+We have audited the financial statements of Telecommunications Management Limited (“the company”) for the year ended
+31 March 2023 which comprise the Profit and Loss Account and Other Comprehensive Income, Balance Sheet and Statement
+of Changes in Equity and related notes, including the accounting policies in note 1.
+In our opinion the financial statements:
+
+© give a true and fair view of the state of the company’s affairs as at 31 March 2023 and of its profit for the year
+then ended; ,
+
+e have been properly prepared in accordance with UK accounting standards, including FRS 101 Reduced
+Disclosure Framework, and
+
+e have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (“ISAs (UK)”) and applicable law.
+Our responsibilities are described below. We have fulfilled our ethical responsibilities under, and are independent of the
+company in accordance with, UK ethical requirements including the FRC Ethical Standard. We believe that the audit
+evidence we have obtained is a sufficient and appropriate basis for our opinion.
+
+Going concern
+
+The directors have prepared the financial statements on the going concern basis as they do not intend to liquidate the company
+or to cease its operations, and as they have concluded that the company’s financial position means that this is realistic. They
+have also concluded that there are no material uncertainties that could have cast significant doubt over its ability to continue
+as a going concern for at least a year from the date of approval of the financial statements (“the going concern period”).
+
+In our evaluation of the directors’ conclusions, we considered the inherent risks to the company’s business model and
+analysed how those risks might affect the company’s financial resources or ability to continue operations over the going
+concern period. :
+
+Our conclusions based on this work:
+
+we consider that the directors’ use of the going concern basis of accounting in the preparation of the financial
+statements is appropriate;
+
+e we have not identified, and concur with the directors’ assessment that there is not, a material uncertainty related to
+events or conditions that, individually or collectively, may cast significant doubt on the company's ability to
+continue as a going concer for the going concern period.
+
+However, as we cannot predict all future events or conditions and as subsequent events may result in outcomes that are
+inconsistent with judgements that were reasonable at the time they were made, the above conclusions are not a guarantee
+that the company will continue in operation.
+
+Fraud and breaches of laws and regulations — ability to detect
+
+Identifying and responding to risks of material misstatement due to fraud : ;
+
+To identify risks of material misstatement due to fraud (“fraud risks”) we assessed events or conditions that could indicate
+an incentive or pressure to commit fraud or provide an opportunity to commit fraud. Our risk assessment procedures
+included:
+
+e  Enquiring of directors and inspection of policy documentation as to the Company’s high-level policies’ and
+procedures to prevent and detect fraud, including the Company’s channel for “whistleblowing”, as well as whether
+they have knowledge of any actual, suspected or alleged fraud.
+
+e Reading Board meeting minutes.
+
+e Using analytical procedures to identify any unusual or unexpected relationships.
+
+e Considering remuneration incentive schemes and performance targets for management and directors.
+
+We communicated identified fraud risks throughout the audit team and remained alert to any indications of fraud throughout
+the audit.
+
+=== page 9 ===
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF
+j TELECOMMUNICATIONS MANAGEMENT LIMITED
+i]
+
+As required by auditing standards, and taking into account possible pressures to meet profit targets we perform procedures
+to address the risk of management override of controls, in particular the risk that management may be in a position to make
+inappropriate accounting entries On this audit we do not believe there is a fraud risk related to revenue recognition because
+revenue constitutes a high volume of individually small transactions with little complexity or judgement.
+We did not identify any additional fraud risks.
+We performed procedures including:
+
+e Identifying journal entries to test based on risk criteria and comparing the identified entries to supporting
+
+documentation. These included revenue and cash entries posted to unusual accounts.
+
+Identifying and responding to risks of material misstatement due to non-compliance with laws and regulations
+We identified areas of laws and regulations that could reasonably be expected to have a material effect on the financial
+statements from our general commercial and sector experience, through discussion with the directors and other management
+(as required by auditing standards), and from inspection of the Company’s regulatory and legal correspondence and discussed
+with the directors and other management the policies and procedures regarding compliance with laws and regulations.
+We communicated identified laws and regulations throughout our team and remained alert to any indications of non-
+compliance throughout the audit.
+The potential effect of these laws and regulations on the financial statements varies considerably.
+Firstly, the Company is subject to laws and regulations that directly affect the financial statements including financial
+reporting legislation (including related companies legislation), distributable profits legislation and taxation legislation and
+we assessed the extent of compliance with these laws and regulations as part of our procedures on the related financial
+statement items.
+Secondly, the Company is subject to many other laws and regulations where the consequences of non-compliance could
+have a material effect on amounts or disclosures in the financial statements, for instance through the imposition of fines or
+litigation. We identified the following areas as those most likely to have such an effect: compliance with its licence
+obligations set by Ofcom and certain aspects of company legislation recognising the regulated nature of the Company’s
+activities and its legal form. Auditing standards limit the required audit procedures to identify non-compliance with these
+laws and regulations to enquiry of the directors and other management and inspection of regulatory and legal correspondence,
+if any. Therefore if a breach of operational regulations is not disclosed to us or evident from relevant correspondence, an
+audit will not detect that breach.
+Context of the ability of the audit to detect fraud or breaches of law or regulation
+Owing to the inherent limitations of an audit, there is an unavoidable risk that we may not have detected some material
+misstatements in the financial statements, even though we have properly planned and performed our audit in accordance
+with auditing standards. For example, the further removed non-compliance with laws and regulations is from the events and
+transactions reflected in the financial statements, the less likely the inherently limited procedures required by auditing
+standards would identify it.
+In addition, as with any audit, there remained a higher risk of non-detection of fraud, as these may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal controls. Our audit procedures are designed to detect
+material misstatement. We are not responsible for preventing non-compliance or fraud and cannot be expected to detect non-
+compliance with all laws and regulations.
+Directors’ report ,
+The directors are responsible for the directors’ report. Our opinion on the financial statements does not cover that report and
+we do not express an audit opinion thereon.
+Our responsibility is to read the directors’ report and, in doing so, consider whether, based on our financial statements audit
+work, the information therein is materially misstated or inconsistent with the financial statements or our audit knowledge.
+Based solely on that work: .
+
+e i we have not identified material misstatements in the directors’ report;
+
+e , in our opinion the information given in that report for the financial year is consistent with the financial statements;
+
+nd ;
+e — in our opinion that report has been prepared in accordance with the Companies Act 2006.
+
+=== page 10 ===
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+| .
+
+Matters on which we are required to report by exception
+Under the Companies Act 2006 we are required to report to you if, in our opinion:
+
+© adequate accounting records have not been kept, or returns adequate for our audit have not been received from
+
+branches not visited by us; or
+
+e the financial statements are not in agreement with the accounting records and returns; or
+
+e certain disclosures of directors’ remuneration specified by law are not made; or
+
+e we have not received all the information and explanations we require for our audit.
+
+e the directors were not entitled to take advantage of the small companies exemption from the requirement to prepare
+
+a strategic report.
+We have nothing to report in these respects.
+Directors’ responsibilities
+As explained more fully in their statement set out on page 4, the directors are responsible for: the preparation of the financial
+statements and for being satisfied that they give a true and fair view; such internal control as they determine is necessary to
+enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error;
+assessing the company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern;
+and using the going concern basis of accounting unless they either intend to liquidate the company or to cease operations, or
+have no realistic alternative but to do so.
+Auditor’s responsibilities
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material
+misstatement, whether due to fraud or error, and to issue our opinion in an auditor’s report. Reasonable assurance is a high
+level of assurance, but does not guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material
+misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of the financial
+statements.
+A fuller description of our responsibilities is provided on the FRC’s website at www. frc.org.uk/auditorsresponsibilities.
+The purpose of our audit work and to whom we owe our responsibilities
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies
+Act 2006. Our audit work has been undertaken so that we might state to the company’s members those matters we are
+required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not
+accept or assume responsibility to anyone other than the company and the company’s members, as a body, for our audit
+work, for this report, or for the opinions we have formed.
+Robert Seale (Senior Statutory Auditor)
+for and on behalf of KPMG LLP, Statutory Auditor :
+Chartered Accountants
+15 Canada Square, London : ;
+E14 5GL '
+United Kingdom :
+26 July 2023
+; 1
+! !
+
+=== page 11 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+PROFIT AND LOSS ACCOUNT AND OTHER COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 MARCH 2023
+Year ended Year ended
+31 March 31 March
+2023 2022
+Note £ £
+Turnover 2 6,510,837 5,343,176
+Cost of sales (4,159,947) (3,123,992)
+Gross profit 2,350,890 2,219,184
+Distribution costs (827,531) (830,611)
+Administrative expenses (984,678) (723,302)
+Operating profit 4 538,681 665,271
+’ Financial expenses (295) (704)
+Profit on ordinary activities before
+taxation 538,386 664,567
+Taxation 5 (222,616) (15,390)
+Profit on ordinary activities after 315,770 649,177
+taxation
+All amounts relate to continuing activities.
+The Company has no other comprehensive income for the year.
+The notes on pages 11 to 18 form part of these financial statements.
+‘ ‘
+8
+
+=== page 12 ===
+Company number: 3592271
+. TELECOMMUNICATIONS MANAGEMENT LIMITED
+' BALANCE SHEET
+} YEAR ENDED 31 MARCH 2023
+Note 31 March 2023 31 March 2022
+£ £ £ £
+Property, plant and equipment 6 23,853 51,389
+CURRENT ASSETS
+Debtors 7 14,334,914 13,883,724
+Stock 21,588 13,950
+Cash 127,662 17,249
+14,484,164 13,914,923
+CREDITORS: amounts falling due
+within one year g (5,300,557) (5,053,917)
+NET CURRENT ASSETS 9,183,607 8,861,006
+TOTAL ASSETS LESS
+CURRENT LIABILITIES 9,207,460 8,912,395
+NON-CURRENT LIABILITIES
+Lease liabilities 9 (3,491) : (24,196)
+NET ASSETS 9,203,969 8,888,199
+CAPITAL AND RESERVES
+Called up share capital 10 2 2
+Profit and loss account 9,203,967 8,888,197
+SHAREHOLDERS’ FUNDS 9,203,969 8,888,199
+The notes on pages 11 to 18 form part of these financial statements. .
+The Board of Directors approved these financial statements on 26 July 2023.
+Signed and authorised for issue on behalf of the Board of Directors:
+Director . ,
+9
+
+=== page 13 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED :
+| STATEMENT OF CHANGES IN EQUITY
+! YEAR ENDED 31 MARCH 2023
+Called up
+share Profit and Total equity
+. loss account
+capital
+£ £ £
+Balance at 1 April 2021 2 8,239,020 8,239,022
+Profit for the year - 649,177 649,177
+Other Comprehensive Income - - -
+Balance at 31 March 2022 2 8,888,197 8,888,199
+Balance at 1 April 2022 2 8,888,197 8,888,199
+Profit for the year - 315,770 315,770
+Other Comprehensive Income - - -
+Balance at 31 March 2023 ; 2 9,203,967 9,203,969
+The notes on pages 11 to 18 form part of these financial statements.
+10 :
+
+=== page 14 ===
+i TELECOMMUNICATIONS MANAGEMENT LIMITED :
+i NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+1 ACCOUNTING POLICIES
+Telecommunications Management Limited (“the Company”) is a company incorporated and domiciled in the UK.
+These financial statements were prepared in accordance with Financial Reporting Standard 101 Reduced Disclosure
+Framework (“FRS 101”), The amendments to FRS 101 (2014/15 Cycle) issued in July 2015 and effective
+immediately have been applied.
+In preparing these financial statements, the Company applies the recognition, measurement and disclosure
+requirements of international accounting standards in conformity with the requirements of the Companies Act 2006
+("UK-Adopted IFRSs), but makes amendments where necessary in order to comply with Companies Act 2006 and has
+set out below where advantage of the FRS 101 disclosure exemptions has been taken.
+The Company’s ultimate parent undertaking, Telecom Plus PLC includes the Company in its consolidated financial
+statements. The consolidated financial statements of Telecom Plus PLC are prepared in accordance with international
+accounting standards in conformity with the requirements of the Companies Act 2006 ("UK-Adopted IFRSs") and are
+available to the public and may be obtained from Network HQ, 508 Edgware Road, London, NW9 SAB.
+In these financial statements, the Company has applied the exemptions available under FRS 101 in respect of the
+following disclosures:
+e aCash Flow Statement and related notes;
+: e Disclosures in respect of transactions with fellow wholly owned subsidiaries and parent company Telecom
+Plus PLC;
+© Disclosures in respect of capital management;
+e The effects of new but not yet effective IFRSs;
+e Disclosures in respect of the compensation of Key Management Personnel; and
+e Disclosures of transactions with a management entity that provides key management personnel services to
+the company.
+As the consolidated financial statements of Telecom Plus PLC include the equivalent disclosures, the Company has
+also taken the exemptions under FRS 101 available in respect of the following disclosures:
+e Certain disclosure required by IFRS 13 Fair Value Measurement and the disclosures required by IFRS 7
+Financial Instrument Disclosures.
+The Company proposes to continue to adopt the reduced disclosure framework of FRS 101 in its next financial
+statements.
+Adopted new standards, amendments and IFRIC interpretations
+There are no amendments to accounting standards, or IFRIC interpretations that are effective for the year ended 31
+March 2023 that have had a material impact on the company.
+The accounting policies set out below have, unless otherwise stated, been applied consistently to all periods presented
+in these financial statements.
+Critical accounting estimates, judgements and assumptions
+In the process of applying the accounting policies, which are described below, the Directors have made judgements,
+estimations and assumptions regarding the future. The Directors have not identified any significant estimates or
+judgements in relation to these financial statements.
+ll
+
+=== page 15 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023 :
+Significant Accounting Policies
+(a) Basis of accounting
+The financial statements are prepared under the historical cost convention and in accordance with applicable
+accounting standards. The directors have prepared these accounts on a going concern basis.
+(b) Taxation
+Tax on the profit or loss for the year comprises current and deferred tax. Tax is recognised in the profit and loss
+account except to the extent that it relates to items recognised directly in equity or other comprehensive income,
+in which case it is recognised directly in equity or other comprehensive income.
+Current tax is the expected tax payable or receivable on the taxable income or loss for the year, using tax rates
+enacted or substantively enacted at the balance sheet date, and any adjustment to tax payable in respect of
+previous years.
+Deferred tax is provided on temporary differences between the carrying amounts of assets and liabilities for
+financial reporting purposes and the amounts used for taxation purposes. The following temporary differences
+are not provided for: the initial recognition of goodwill; the initial recognition of assets or liabilities that affect
+neither accounting nor taxable profit other than in a business combination, and differences relating to
+investments in subsidiaries to the extent that they will probably not reverse in the foreseeable future. The
+amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying
+amount of assets and liabilities, using tax rates enacted or substantively enacted at the balance sheet date.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits will be
+available against which the temporary difference can be utilised.
+(c) Pensions
+The Company makes contributions to certain employees’ personal pension plans. These are charged to the profit
+and loss account in the year in which they become payable.
+(d) Revenue recognition
+The Company principally generates revenue from providing fixed and mobile telecommunications services
+including line rental and call charges. Revenue is recognised during the period in which the services are
+supplied and any unbilled revenue is accrued at each period end.
+(e) Related parties
+The company, as a wholly owned subsidiary undertaking of Utility Warehouse Limited which is in turn wholly
+owned by Telecom Plus PLC, the ultimate parent company, has taken advantage of an exemption contained in
+FRS 101 in preparing its financial statements. This exemption allows the company not to disclose details of.
+transactions with other group companies or investees of the group qualifying as related parties, as the
+consolidated financial statements of Telecom Plus PLC, in which the company is included, are publicly
+available. : ;
+(f) Going concern ;
+The directors have prepared base and sensitised forecasts for a period of at least 12 months from the date ‘of
+authorisation of these financial statements, including the effect of severe, but plausible, downside scenarios. These
+forecasts indicate that the company has adequate resources to continue in operational existence for a period of, at
+least 12 months from the date of approval of these financial statements.
+The Company, as part of the Telecom Plus Plc Group (“the Group”), is a participant in a group banking
+arrangement and meets its day to day working capital requirement from its own cash balances and the availability
+of the Group banking arrangements.
+12
+
+=== page 16 ===
+| TELECOMMUNICATIONS MANAGEMENT LIMITED
+} NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+(f} Going concern (continued)
+The Group has total revolving credit facilities of £175.0 million with Barclays Bank PLC, Lloyds Bank PLC and
+Bank of Ireland Group PLC for the period to 30 June 2024, of which £90 million was drawn down as at 31 March
+2023 (2022: £100m drawn down). In light of the track record of the Company and its continued prospects,
+successful refinancing beyond June 2024 is anticipated by the directors. Until 30 July 2023 the Company has an
+option, subject to bank approval, to extend the existing facility by another year to 30 June 2025.
+Based on the above, the directors believe that the company will have sufficient funds to continue to meet its
+liabilities as they fall due for at least 12 months from the date of approval of the financial statements and therefore
+it remains appropriate to prepare the financial statements on a going concern basis.
+(g) Leases
+As a lessee
+Recognition of a lease
+The contracts are assessed by the Company to determine whether a contract is, or contains, a lease. In general
+contracts are deemed to contain a lease when the following apply:
+*Conveys the right to control the use of an identified asset for a certain period in exchange for consideration;
+*The Company has substantially all economic benefits from the use of the asset; and
+*The Company can direct the use of the identified asset.
+This policy is applied to contracts entered into, or changed, on or after 1 April 2019.
+At commencement or on modification of a contract that contains a lease component, the Company recognises a
+right-of-use asset and a lease liability at the lease commencement date.
+Right-of-use asset .
+The right-of-use asset is initially measured at cost, which comprises the initial amount of the lease liability adjusted
+for any lease payments made at or before the commencement date, plus any initial direct costs incurred, less any
+lease incentives received. The right-of-use asset is subsequently depreciated using the straight-line method from
+the commencement date to the end of the lease term, unless the lease transfers ownership of the underlying asset
+to the Company by the end of the lease term, or the cost of the right-of-use asset reflects that the Company will
+exercise a purchase option. In that case the right-of-use asset will be depreciated over the useful life of the
+underlying asset, which is determined on the same basis as those of property and equipment. In addition, the right-
+of-use asset is periodically reduced by impairment losses, if any, and adjusted for certain remeasurements of the
+lease liability.
+Lease Liability
+The lease liability is initially measured at the present value of the lease payments that are not paid at the
+commencement date, discounted using the interest rate implicit in the lease or, if that rate cannot be readily
+determined, the Company's incremental borrowing rate. '
+The Company includes right-of-use assets within property, plant and: equipment and the corresponding lease
+liabilities in ‘lease liabilities' on the balance sheet. .
+Short-term leases and leases of low-value assets
+The Company has elected not to recognise right-of-use assets and lease liabilities for lease of low-value assets and
+short-term leases. The Company recognises the lease payments associated with these leases as an expense on a
+straight-line basis over the lease term. :
+(hb) Trade receivables :
+‘Trade receivables are stated at their nominal value as reduced by expected lifetime credit losses in accordance
+with IFRS 9. Trade receivables are not considered to contain a significant financing component and therefore the :
+simplified approach for Expected Credit Losses is applied.
+13
+
+=== page 17 ===
+} TELECOMMUNICATIONS MANAGEMENT LIMITED
+} NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+2 TURNOVER
+Turnover is wholly attributable to the principal activity of the Company and arises solely within the United Kingdom.
+3 DIRECTORS AND EMPLOYEES
+Directors’ emoluments
+Year ended Year ended
+31 March 31 March
+2023 2022
+£ £
+Salaries, fees and other benefits 133,300 128,096
+Pension contributions 5,000 5,000
+138,300 133,096
+The directors of the Company are paid by the parent company, Utility Warehouse Limited. The amounts included in
+the table above represent the allocation of directors’ emoluments to the Company.
+Employee costs during the period
+2023 2022
+£ £
+Wages and salaries 585,828 574,321
+Social security costs 76,685 48,312
+Pension contributions 20,385 31,889
+682,898 654,522
+2023 2022
+Average number employed by the Company (excluding directors) 1 2
+4 OPERATING PROFIT .
+Operating profit is stated after charging: .
+: Year ended Year ended
+: 31 March 31 March
+. 2023 ‘2022
+, & : £
+1 i
+Auditor’s remuneration — audit of the financial statements 25,000 22,000
+Fees paid to the Company’s auditor for non-audit services were £Nil (2022: £Nil).
+i i
+14
+
+=== page 18 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED :
+| NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+5 TAX CHARGE ON PROFIT ON ORDINARY ACTIVITIES
+Year ended Year ended
+31 March 31 March
+2023 2022
+£ £
+The tax charge comprises:
+Current tax charge 104,873 7,488
+Adjustments to tax charge in respect of prior years 109,735 9,334
+Deferred tax charge (Other short term timing differences) 8,008 (1,432)
+Total tax charge for the year 222,616 15,390
+Factors affecting the tax charge for the year
+Profit on ordinary activities before tax 538,386 39,411
+: Profit on ordinary activities multiplied by the standard rate of 102,293 7,488
+corporation tax in the UK of 19% (2022: 19%) ” ,
+Expenses not deductible for taxation purposes 1373 -
+Other short term timing differences 8,008 (1,432)
+Adjustments to tax charge in respect of prior years 109,735 9,334
+Other current tax adjustments 1,207 -
+222,616 15,390
+Factors which may affect future tax charges
+The UK corporation tax rate is currently 19%. Section 6 of the Finance Act 2021 (FA 2021) increases the main rate of
+corporation tax by six percentage points, from 19% to 25%, with efféct from the financial year beginning 1 April
+2023. The Company’s future current tax charge will therefore increase accordingly. The deferred tax balance at 31
+March 2023 has been calculated at 25%, (2022: 25%) which reflects that the rate increase from 1 April 2023.
+: !
+i) 1
+15
+
+=== page 19 ===
+TELECOMMUNICATIONS MANAGEMENT LIMITED -
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+6 PROPERTY, PLANT AND EQUIPMENT
+Fixtures, fittings
+Leasehold land & office
+& buildings equipment Total
+£ £ £
+2023
+Cost
+At 1 April 2022 83,201 45,007 128,208
+Additions - 2,737 2,737
+At 31 March 2023 83,201 47,744 130,945
+Depreciation
+At | April 2022 _ (59,750) (17,069) (76,819)
+Depreciation charge for the year (19,968) (10,305) (30,273)
+At 31 March 2023 (79,718) (27,374) (107,092)
+Net book amount at 31 March 2023 3,483 20,370 23,853
+Net book amount at 31 March 2022 23,451 27,938 51,389
+Leasehold land & buildings comprise right-of-use assets recognised under IFRS 16.
+7 DEBTORS
+2023 2022
+£ £
+Trade debtors 90,925 201,979
+Amounts owed by parent company 14,210,795 13,641,571
+Prepayments and accrued income 33,194 40,174
+: 14,334,914 13,883,724
+Amounts owed by group undertakings incur no interest and are repayable on demand.
+8 CREDITORS - AMOUNTS FALLING DUE WITHIN ONE YEAR
+2023 2022
+£ £
+Trade creditors 116,435 21,515
+Amount owed to group undertakings 4,504,491 4,504,491
+Social security and other taxes 88,203 73,962
+Corporation tax 223,325 . 709
+Accruals and deferred income 156,896 243,828
+Other creditors 211,207 209,412
+: 5,300,557 5,053,917
+16
+
+=== page 20 ===
+| TELECOMMUNICATIONS MANAGEMENT LIMITED
+} NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+9 LEASES AS LESSEE
+2023 2022
+& £
+As at 1 April 24,196 44,492
+Payment of lease liabilities (21,000) (21,000)
+Interest relating to lease liabilities 295 704
+Total as at 31 March 3,491 24,196
+Maturity analysis 2023 2022
+£ £
+Due in one year or less 3,500 21,000
+Due in more than one year but not more than five years - 3,500
+Due in more than five years - :
+3,500 24,500
+The analysis of maturity above shows the contractual undiscounted cashflows associated with lease liabilities.
+10 CALLED UP SHARE CAPITAL :
+. © 2023 2022
+£ £
+Called up, allotted and fully paid
+2 ordinary shares of £1 each 2 2
+11 RELATED PARTY TRANSACTIONS
+The Company has taken advantage of the exemption in FRS 101 extended to wholly-owned subsidiary undertakings
+whose voting rights are controlled within a group. Consequently no disclosure has been made regarding any
+transactions with other entities within the Telecom Plus PLC group.
+12 ULTIMATE PARENT COMPANY AND CONTROLLING ENTITY
+At 31 March 2023, the ultimate parent company and controlling entity was Telecom Plus PLC. Telecom Plus PLC is a
+company registered in England and Wales and incorporated in the UK. The financial statements of the ultimate parent
+. company and controlling entity are available from the registered office, Network HQ, 508 Edgware Road, The Hyde,
+London NW9 SAB.
+17
+
+=== page 21 ===
+, i TELECOMMUNICATIONS MANAGEMENT LIMITED
+} NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2023
+13. FINANCIAL INSTRUMENTS
+The Company has given a guarantee in respect of the Parent company’s indebtedness to its bankers. At 31 March
+2023, the Group had total revolving credit facilities of £175,000,000 (2022: £175,000,000). These facilities are
+available to the Group until 30 June 2024. As at 31 March 2023 £90,000,000 of the facilities was drawn down (2022:
+£100,000,000 drawn down). Until 30 July 2023 the Company has an option, subject to bank approval, to extend the
+existing facility by another year to 30 June 2025.
+14 SUBSIDIARIES
+The Company owns 100% of ordinary share capital of eight dormant non-trading subsidiaries as listed below:
+1p mobile Limited
+One Penny Mobile Limited
+One Penny Telecoms Limited .
+Penny Mobile Limited
+Penny Telecom Limited
+One Penny Broadband Limited
+Penny Broadband Limited
+1p Broadband Limited
+The registered office of each company referred to in this note is: Network HQ, 508 Edgware Road, London, NW9 SAB.
+All companies are registered in England & Wales.
+18
+
