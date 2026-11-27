@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'top10 = last 3 tagged accounts of the top 10; history = last 3 accounts (tagged and scanned) of every company going forward'
+        description: 'top10 = last 3 tagged accounts of the top 10; history = last 3 accounts (tagged and scanned) of every company going forward; universe = add companies under the extra industry codes'
         required: false
         default: 'top10'
       shards:
@@ -15,6 +15,8 @@ on:
         description: 'History mode only: comma-separated company numbers for a top-up run (blank = every company going forward)'
         required: false
         default: ''
+  schedule:
+    - cron: '17 2 1 * *'   # 1st of each month, 02:17 UTC: read filings of companies that are new or have filed again
   push:
     branches: [main]
     paths:
@@ -26,7 +28,7 @@ permissions:
 
 jobs:
   deep-dive:
-    if: ${{ (inputs.mode || 'top10') == 'top10' }}
+    if: ${{ github.event_name != 'schedule' && (inputs.mode || 'top10') == 'top10' }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -54,7 +56,7 @@ jobs:
           git push
 
   plan:
-    if: ${{ inputs.mode == 'history' }}
+    if: ${{ inputs.mode == 'history' || inputs.mode == 'universe' || github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     outputs:
       shards: ${{ steps.p.outputs.shards }}
@@ -62,12 +64,13 @@ jobs:
     steps:
       - id: p
         run: |
-          N=${{ inputs.shards || '16' }}
+          N=${{ inputs.shards || '4' }}
           echo "shards=$N" >> $GITHUB_OUTPUT
           echo "list=[$(seq -s, 0 $((N-1)))]" >> $GITHUB_OUTPUT
 
   history:
     needs: plan
+    if: ${{ inputs.mode == 'history' || github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     timeout-minutes: 340
     strategy:
@@ -88,7 +91,7 @@ jobs:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}
           SHARD: ${{ matrix.shard }}
           SHARDS: ${{ needs.plan.outputs.shards }}
-          NUMBERS: ${{ inputs.numbers }}
+          NUMBERS: ${{ github.event_name == 'schedule' && 'NEW' || inputs.numbers }}
         run: python scripts/history_fetch.py
       - uses: actions/upload-artifact@v4
         if: always()
@@ -99,7 +102,7 @@ jobs:
 
   save-history:
     needs: history
-    if: always() && needs.history.result != 'skipped'
+    if: ${{ always() && needs.history.result != 'skipped' && (inputs.mode == 'history' || github.event_name == 'schedule') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -134,5 +137,92 @@ jobs:
           git config user.email "screener-bot@users.noreply.github.com"
           git add data/history
           git commit -m "Three-year accounts read $(date -u +%Y-%m-%dT%H:%MZ)" || echo "Nothing to commit"
+          git pull --rebase -X theirs
+          git push
+
+  universe-list:
+    needs: plan
+    if: ${{ inputs.mode == 'universe' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas requests beautifulsoup4 lxml
+      - name: List companies under the extra industry codes
+        env:
+          STAGE: list
+        run: python scripts/universe_extend.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: universe-list
+          path: data/inputs/universe_added.csv
+          retention-days: 7
+
+  universe-read:
+    needs: [plan, universe-list]
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas requests beautifulsoup4 lxml
+      - uses: actions/download-artifact@v4
+        with:
+          name: universe-list
+          path: data/inputs
+      - name: Read the latest accounts of each company in this shard
+        env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
+          STAGE: read
+          SHARD: ${{ matrix.shard }}
+          SHARDS: ${{ needs.plan.outputs.shards }}
+        run: python scripts/universe_extend.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: universe-shard-${{ matrix.shard }}
+          path: data/inputs/financials_added_*.csv
+          retention-days: 7
+
+  save-universe:
+    needs: universe-read
+    if: ${{ always() && needs.universe-read.result != 'skipped' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: universe-*
+          path: data/inputs
+          merge-multiple: true
+      - name: Combine the shards
+        run: |
+          python - <<'EOF'
+          import glob, os, pandas as pd
+          parts = [pd.read_csv(p, dtype={'CompanyNumber': str}) for p in sorted(glob.glob('data/inputs/financials_added_*.csv')) if os.path.getsize(p) > 2]
+          if parts:
+              pd.concat(parts, ignore_index=True).to_csv('data/inputs/financials_added.csv', index=False)
+          for p in glob.glob('data/inputs/financials_added_*.csv'):
+              os.remove(p)
+          EOF
+      - name: Save the results back to the repository
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data/inputs/universe_added.csv data/inputs/financials_added.csv
+          git commit -m "Universe widened to extra industry codes $(date -u +%Y-%m-%dT%H:%MZ)" || echo "Nothing to commit"
           git pull --rebase -X theirs
           git push

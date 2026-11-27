@@ -8,7 +8,8 @@ The ranking shows where a mid-market buyer should look first. It is not a valuat
 
 | Step | Script | What it does |
 |---|---|---|
-| Universe | `accounts.py`, notebooks | Every active UK private company under the sector's industry codes, with sales in the band (default £10–250m) |
+| Universe | `accounts.py`, notebooks, `universe_extend.py` | Every active UK private company under the sector's industry codes, with sales in the band (default £10–250m); plus neighbouring codes where real targets register (IT services, electrical and civil installation), with an automatic rulebook call |
+| Monthly reading | `history_fetch.py` (deep_dive.yml, 1st of each month) | Reads the filings of companies that are new or have filed again, so three years stay read |
 | Read accounts | `ocr_fetch.py`, `ocr_parse.py`, `history_fetch.py`, `history_parse.py` | Latest accounts, then the last three filings of every company going forward, tagged or scanned |
 | Clean | `clean.py` | Number checks, ownership from the register, group rule, sector calls, exclusions |
 | History | `history.py` | Years of sales and profit per company, each year checked against the next filing |

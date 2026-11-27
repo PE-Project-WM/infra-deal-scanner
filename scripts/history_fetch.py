@@ -69,6 +69,16 @@ def main():
     D = pd.read_csv(f'{ROOT}/data/outputs/candidates_clean.csv', dtype={'CompanyNumber': str})
     todo = D[D['goes_forward']].sort_values('CompanyNumber').reset_index(drop=True)
     only = [n.strip() for n in os.environ.get('NUMBERS', '').split(',') if n.strip()]
+    if only == ['NEW']:   # the monthly run: companies going forward with no filings read yet, or a newer filing than the last read
+        fp = f'{OUT}/filings.csv'
+        F = pd.read_csv(fp, dtype={'CompanyNumber': str}) if os.path.exists(fp) else pd.DataFrame(columns=['CompanyNumber', 'filed'])
+        last = F.groupby('CompanyNumber')['filed'].max()
+        fwd = D[D['goes_forward']]
+        only = [n for n, f in zip(fwd['CompanyNumber'], fwd['accounts_filed'].astype(str))
+                if n not in last.index or (f not in ('', 'nan') and f[:10] > str(last[n])[:10])]
+        print(f'Monthly run: {len(only)} companies with new or unread filings', flush=True)
+        if not only:
+            only = ['NONE']
     if only:   # a top-up run for named companies (e.g. ones that started going forward after the last run)
         todo = D[D['CompanyNumber'].isin(only)].drop_duplicates('CompanyNumber').reset_index(drop=True)
     todo = todo[todo.index % SHARDS == SHARD]

@@ -64,6 +64,9 @@ def ocr_pages(pdf, n):
 
 def main():
     F = pd.read_csv(f'{ROOT}/data/inputs/financials_all.csv', dtype={'CompanyNumber': str})
+    added = f'{ROOT}/data/inputs/financials_added.csv'
+    if os.environ.get('INCLUDE_ADDED') and os.path.exists(added):   # scanned accounts of companies under the extra codes
+        F = pd.read_csv(added, dtype={'CompanyNumber': str})
     todo = F[F['format'] == 'pdf'].sort_values('CompanyNumber').reset_index(drop=True)
     todo = todo[todo.index % SHARDS == SHARD]
     if LIMIT:

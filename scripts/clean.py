@@ -15,6 +15,12 @@ KEY = os.environ.get('CH_API_KEY', '').strip()
 OFFLINE = not KEY   # no API key (local runs): reuse the ownership found on the register by the last online run
 
 F = pd.read_csv(f'{INP}/financials_all.csv', dtype={'CompanyNumber': str})
+ADDED = f'{INP}/financials_added.csv'   # companies under the extra industry codes (universe_extend.py, method v4.1)
+if os.path.exists(ADDED):
+    A_ = pd.read_csv(ADDED, dtype={'CompanyNumber': str})
+    A_ = A_[~A_['CompanyNumber'].isin(F['CompanyNumber'])]
+    F = pd.concat([F, A_], ignore_index=True)
+    print(f'Universe widened by {len(A_)} companies under the extra industry codes')
 import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from ocr_apply import apply_ocr
@@ -217,6 +223,16 @@ print(dups[['CompanyName', 'duplicate_of', 'turnover']].to_string())
 R = pd.read_csv(f'{CFG}/relevance_draft.csv', dtype={'CompanyNumber': str})
 D = D.drop(columns=[c for c in ('relevance', 'relevance_reason') if c in D.columns])
 D = D.merge(R[['CompanyNumber', 'relevance', 'relevance_reason']], on='CompanyNumber', how='left')
+# Automatic rulebook call for companies under the extra codes (IT services, electrical and civil installation):
+# OUT unless the principal activity in their accounts mentions network work; then UNSURE for a manual call
+if 'network_words' in D.columns:
+    extra = D['relevance'].isna() & D['source'].fillna('').str.contains('extra codes')
+    net = D['network_words'].fillna('') != ''
+    D.loc[extra & ~net, 'relevance'] = 'OUT'
+    D.loc[extra & ~net, 'relevance_reason'] = ('Registered under an IT or installation code and its accounts describe no network work'
+                                              ' (automatic rulebook call): ' + D.loc[extra & ~net, 'activity_text'].fillna('no principal activity found').str[:120])
+    D.loc[extra & net, 'relevance_reason'] = ('Not yet reviewed: accounts mention ' + D.loc[extra & net, 'network_words'] + ': '
+                                             + D.loc[extra & net, 'activity_text'].fillna('').str[:120])
 D['relevance'] = D['relevance'].fillna('UNSURE')
 D['relevance_reason'] = D['relevance_reason'].fillna('Not yet reviewed')
 
