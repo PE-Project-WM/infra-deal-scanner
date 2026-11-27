@@ -2,11 +2,9 @@ CompanyNumber,CompanyName,filed,made_up_to,kind,format,document_url
 03223673,A-2-SEA SOLUTIONS LIMITED,2026-06-17,2025-09-26,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/pR70XErLysHW2MqIG7U47AGiT5WvAaHFFLjtxFnb2Ak/content
 03223673,A-2-SEA SOLUTIONS LIMITED,2025-09-05,2024-09-27,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/_grvCc5SwALGJL-SEAvBLZTdAoCNQYkULISPEduZaYM/content
 03223673,A-2-SEA SOLUTIONS LIMITED,2024-06-30,2023-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/0vMlwOzTEollNjAkQ4gpLJU3_yxE7-WnhJDwxYY2TMA/content
-07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2026-10-16,2026-03-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/i6PemwtLWRx1G0YqwoGzX51rNhXQSYdSGGm4m1dAbRo/content
 07413288,COMMUNITY FIBRE LIMITED,2026-07-06,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/SCWPphPK2Iu07x0vjhxILBPqKxTWJF9d0waM8h__mi8/content
 10902222,THE BADGER GROUP LIMITED,2026-02-05,2025-09-30,group,pdf,https://document-api.company-information.service.gov.uk/document/UZbO85TO6lOHKXsIX7cyhQlLWhLry_OgULwMKrOaicU/content
 02853596,MAP GROUP (UK) LIMITED,2026-06-26,2025-09-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/chObhtX5e0OvTDkWWQVN0yWNV8Exnpl-e3ASj7xutlw/content
-09228224,REDWOOD TECHNOLOGIES GROUP LTD,2026-05-13,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/7QlFaJRmcZW39ZSrjjev9khVF03juBeV-KwqB_E2pjo/content
 03368473,WINGNUT UTILITIES LIMITED,2025-12-17,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/C58oxFvdr4KXuNzf2sXpzwy5Lmjq_neheUqngDwUTis/content
 01708481,GLOBAL MARINE SYSTEMS LIMITED,2026-09-14,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/voV5sQC2JFQEPtM7Q6JEC59bV1VKhiHyYWrFpqlxohU/content
 02578478,X-ON HEALTH LIMITED,2025-12-21,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/sYrTedkm339QAZ_Z7JN9CjaE4RDefwy2g4Qq-8JFCFo/content
@@ -20,7 +18,6 @@ NI624500,BARCLAY DIGITAL SERVICES LTD,2025-09-12,2025-05-31,full,ixbrl,https://d
 06968249,NATTERBOX LIMITED,2026-10-06,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/0y7bpYnGq0uEd0NMjYavj_zZlg9g_FutUExVdJkDoL8/content
 08043921,AERIAL DIRECT LIMITED,2026-05-17,2025-09-30,full,pdf,https://document-api.company-information.service.gov.uk/document/hwCH8KhN-hnMeCVzYvFjNF8HoF-w_ueJBoYpiTy6qvQ/content
 10174559,NANO FIBRE UK LIMITED,2026-10-15,2026-05-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/to5noLd5vTaDRxWA-EclosFRt8ZOpBwKMTl6YP2YrVk/content
-11480193,RAPID RESPONSE TELECOMS LTD,2026-07-24,2025-07-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/HR-cmd90ZPWn9SQ4T3h1mMgj7cTnk1npuRP6A99Qz8A/content
 04213760,BABBLE CLOUD LIMITED,2026-06-30,2025-11-30,full,ixbrl,https://document-api.company-information.service.gov.uk/document/dg5BYa_nhbzk4gxGs4byMbpBxmMnvs-iphyFTKEoxd4/content
 03752620,WINDSOR TELECOM LIMITED,2026-08-17,2025-07-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/X_vzjZ_VaWHhH5yApmBmKlBkxmPrZw9XE9q6v3YI8pU/content
 09956206,HENEGHAN HOLDINGS LIMITED,2025-11-05,2025-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/byR5CKjI7A0v0oARR3A2NZ8V2suf4gHFVGAj8_DCd3U/content
@@ -80,33 +77,45 @@ NI614374,M & M CONTRACTORS (EUROPE) LTD,2026-02-17,2024-10-31,full,ixbrl,https:/
 04503928,NEW TECHNOLOGY GROUP HOLDINGS PLC,2026-01-29,2025-07-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/k6fWxQ4dVIFlGd_lLEg14UZ2YABgTVctgLo8HOgd3q8/content
 12520403,OPUS TECH LIMITED,2026-02-10,2025-04-30,group,ixbrl,https://document-api.company-information.service.gov.uk/document/mYF6u_PnNgg9Y45VKuOvXsLehwCzBeswX_kJ7az5hQs/content
 02697046,ERH COMMUNICATIONS LIMITED,2026-02-25,2025-05-31,medium,pdf,https://document-api.company-information.service.gov.uk/document/wZA05zqUbf2jC4hcJsGTTQFz22MLPiRW_Z_YuEBxXuU/content
-03921568,WIFINITY LIMITED,2026-06-26,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/gyhaf393EVd-KyCr07dNMOZaOIpbWJ7H3R6tKQDhEbU/content
-03921568,WIFINITY LIMITED,2025-06-24,2024-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/_g8CmURHpxo7cYzgR-S1dTvp1RxmX37uhNHm6-_XPGs/content
-03921568,WIFINITY LIMITED,2024-09-24,2023-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/dmw83VLycay09dj-ywFYS1wQCuhKG0B8DmtzvPU-ckE/content
-13433533,VEA GROUP LIMITED,2026-06-30,2026-02-28,full,ixbrl,https://document-api.company-information.service.gov.uk/document/ysesccajg603FxTmSA32KKk7CpUbcqCEeH1ZhaGOKwc/content
-13433533,VEA GROUP LIMITED,2025-08-05,2025-02-28,full,ixbrl,https://document-api.company-information.service.gov.uk/document/y1KM5mjII-OgjBbrr4Smcw0c5B78UfN6B9ot9J0p2IU/content
-13433533,VEA GROUP LIMITED,2024-06-03,2024-02-29,small,ixbrl,https://document-api.company-information.service.gov.uk/document/EqXA2QE80hGEXFdkrPbGkCLY8coNJ4Epqbts5-mQf9I/content
-05412813,OPEN FIBRE NETWORKS LIMITED,2026-09-21,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/5n31wzQDvAbLpCEF5CAAJdCBhDyt1p2yDljJ3yn-ouA/content
-05412813,OPEN FIBRE NETWORKS LIMITED,2025-07-21,2024-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/wobiJM0IQc3Ayl_oLxkYP4JIw3buzRyhlXndK7nUCrY/content
-05412813,OPEN FIBRE NETWORKS LIMITED,2024-07-10,2023-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/fxO3L2s7QayJu41fwOAI19bahPKTS2uzyE5WENg0WBM/content
-03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2026-11-03,2025-12-31,audit-exemption-subsiduary,pdf,https://document-api.company-information.service.gov.uk/document/IGrmpawAHhR5eKgVpzNEfRUDeTW_Mj5V3SCMEUvRMUs/content
-03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2025-09-25,2024-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/SlhI3paespEPMkdvY4ZUtpJTy_dVb3-KTBVSDPjnh-g/content
-03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2024-12-09,2023-12-31,audit-exemption-subsiduary,pdf,https://document-api.company-information.service.gov.uk/document/J5X2XIHQqukivRLT3WW5HgtAAz0OReBtgkK5nUF2QC0/content
 02150618,KCOM GROUP LIMITED,2026-04-10,2025-03-31,group,pdf,https://document-api.company-information.service.gov.uk/document/khRh6_VU7-e-eZIpg2QHnq-nruD0mclBnKKG2xksHgc/content
 02150618,KCOM GROUP LIMITED,2024-10-14,2024-03-31,group,pdf,https://document-api.company-information.service.gov.uk/document/uxtN2vxh9SI9_j0gaIjWXPEI4j_U2Rxb1gcSRSSBJuI/content
 02150618,KCOM GROUP LIMITED,2023-10-05,2023-03-31,group,pdf,https://document-api.company-information.service.gov.uk/document/GAsDJMGDRNd159XxJD2uEfZsArs-FZNV-DxUwW1YBrI/content
-03912906,ALERT COMMUNICATIONS LIMITED,2026-11-24,2026-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/MuzoZtDirUTczoP-QAeKaAZeKofTwIp_ssbkgsFTtM4/content
-03912906,ALERT COMMUNICATIONS LIMITED,2025-11-12,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/bYPqPPSGH78vFSq7qtF01QSKhhIxQMLOYZca5fnUNXA/content
-03912906,ALERT COMMUNICATIONS LIMITED,2024-11-12,2024-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/YoEQWknuTzB4OOw0WXTBkKEmhIjPjBVonNvZRQxZCaI/content
 02386327,NATIONAL GRID TELECOMS LIMITED,2025-11-07,2025-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/BLA46ZCaOaXd-kLbKrIVZXRd8WuUO50H0aG-WgTQFkE/content
 02386327,NATIONAL GRID TELECOMS LIMITED,2024-11-27,2024-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/zOD-jZ4cwhYagbVCRyP8w0maCLAlh-i6GkapqeR3HP0/content
 02386327,NATIONAL GRID TELECOMS LIMITED,2023-11-17,2023-03-31,full,pdf,https://document-api.company-information.service.gov.uk/document/3JxDTgyqm1ZJ1vDWKCS6kCp_kkFFUtH6bVyV4jPwQWM/content
-SC492820,CLARUS NETWORKS LIMITED,2026-09-30,2025-12-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/5RHe7dKzxTSLJbfsQLiqdxKJSCu94sT0df3vFrNkmC0/content
-SC492820,CLARUS NETWORKS LIMITED,2025-09-10,2024-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/tRhFouvNekjXmNhxZA8Vq8VPSQobpt2gsbozFcB3w6E/content
-SC492820,CLARUS NETWORKS LIMITED,2024-09-27,2023-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/Hq3vdfMK2_39bWvNYi8a36nuCN0nStoNXhXUQRUcBM4/content
 04186486,BEACON COMMUNICATION SERVICES LIMITED,2025-12-27,2025-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/cZ0KtqRUvrgteGf8OZgs70jZWH-G1ZwHv8JBU9iWcNA/content
 04186486,BEACON COMMUNICATION SERVICES LIMITED,2025-01-30,2024-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/lwbIFgls3Py6FHPkRmv7Oo5M3YDtGj2HKbEwoGdwRlk/content
 04186486,BEACON COMMUNICATION SERVICES LIMITED,2024-02-06,2023-04-30,full,pdf,https://document-api.company-information.service.gov.uk/document/tZ6snFd0b_jVRGOGKaU4g2ujlOX8g-g0HqmX9Mh9UJQ/content
 08414530,DSTNY GLOBAL SERVICES UK LTD,2026-10-13,2025-12-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/Npg-_342-23mdqOimnTHXA4-s9z3WCLW-BQGeJTaCr8/content
 08414530,DSTNY GLOBAL SERVICES UK LTD,2025-07-22,2024-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/-_Dz--dde-0ceiKvY1QNMhM5a1idhJijykv5RHQMioA/content
 08414530,DSTNY GLOBAL SERVICES UK LTD,2024-09-13,2023-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/V-wXI9MP-I5hAEL9oRHymMm_twPJgb5frUvVGgtXoEM/content
+03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2026-11-03,2025-12-31,audit-exemption-subsiduary,pdf,https://document-api.company-information.service.gov.uk/document/IGrmpawAHhR5eKgVpzNEfRUDeTW_Mj5V3SCMEUvRMUs/content
+03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2025-09-25,2024-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/SlhI3paespEPMkdvY4ZUtpJTy_dVb3-KTBVSDPjnh-g/content
+03307001,THE WIRELESS INFRASTRUCTURE COMPANY LIMITED,2024-12-09,2023-12-31,audit-exemption-subsiduary,pdf,https://document-api.company-information.service.gov.uk/document/J5X2XIHQqukivRLT3WW5HgtAAz0OReBtgkK5nUF2QC0/content
+03921568,WIFINITY LIMITED,2026-06-26,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/gyhaf393EVd-KyCr07dNMOZaOIpbWJ7H3R6tKQDhEbU/content
+03921568,WIFINITY LIMITED,2025-06-24,2024-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/_g8CmURHpxo7cYzgR-S1dTvp1RxmX37uhNHm6-_XPGs/content
+03921568,WIFINITY LIMITED,2024-09-24,2023-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/dmw83VLycay09dj-ywFYS1wQCuhKG0B8DmtzvPU-ckE/content
+13433533,VEA GROUP LIMITED,2026-06-30,2026-02-28,full,ixbrl,https://document-api.company-information.service.gov.uk/document/ysesccajg603FxTmSA32KKk7CpUbcqCEeH1ZhaGOKwc/content
+13433533,VEA GROUP LIMITED,2025-08-05,2025-02-28,full,ixbrl,https://document-api.company-information.service.gov.uk/document/y1KM5mjII-OgjBbrr4Smcw0c5B78UfN6B9ot9J0p2IU/content
+13433533,VEA GROUP LIMITED,2024-06-03,2024-02-29,small,ixbrl,https://document-api.company-information.service.gov.uk/document/EqXA2QE80hGEXFdkrPbGkCLY8coNJ4Epqbts5-mQf9I/content
+07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2026-10-16,2026-03-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/i6PemwtLWRx1G0YqwoGzX51rNhXQSYdSGGm4m1dAbRo/content
+07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2025-07-30,2025-03-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/k-HzJzEmnfHjh0r92QimR7opF0I5tTxw8ZV2LASwtto/content
+07667393,THE NETWORKING PEOPLE (TNP) LIMITED,2024-07-01,2024-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/eK4mM6qyUtWaOLZDGcOZAmRRetAnRWROKUfdKHaVjSM/content
+09228224,REDWOOD TECHNOLOGIES GROUP LTD,2026-05-13,2025-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/7QlFaJRmcZW39ZSrjjev9khVF03juBeV-KwqB_E2pjo/content
+09228224,REDWOOD TECHNOLOGIES GROUP LTD,2025-06-05,2024-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/IigxsgG_qPhg8vkJeIykmQkl1qOWQY_XYkfIAtGao4c/content
+09228224,REDWOOD TECHNOLOGIES GROUP LTD,2024-12-10,2023-12-31,group,pdf,https://document-api.company-information.service.gov.uk/document/tcnZGP5cok8ZBnZlz58QXMC5ndeBBabX3y6Y4aj2yW4/content
+05412813,OPEN FIBRE NETWORKS LIMITED,2026-09-21,2025-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/5n31wzQDvAbLpCEF5CAAJdCBhDyt1p2yDljJ3yn-ouA/content
+05412813,OPEN FIBRE NETWORKS LIMITED,2025-07-21,2024-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/wobiJM0IQc3Ayl_oLxkYP4JIw3buzRyhlXndK7nUCrY/content
+05412813,OPEN FIBRE NETWORKS LIMITED,2024-07-10,2023-12-31,full,pdf,https://document-api.company-information.service.gov.uk/document/fxO3L2s7QayJu41fwOAI19bahPKTS2uzyE5WENg0WBM/content
+SC492820,CLARUS NETWORKS LIMITED,2026-09-30,2025-12-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/5RHe7dKzxTSLJbfsQLiqdxKJSCu94sT0df3vFrNkmC0/content
+SC492820,CLARUS NETWORKS LIMITED,2025-09-10,2024-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/tRhFouvNekjXmNhxZA8Vq8VPSQobpt2gsbozFcB3w6E/content
+SC492820,CLARUS NETWORKS LIMITED,2024-09-27,2023-12-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/Hq3vdfMK2_39bWvNYi8a36nuCN0nStoNXhXUQRUcBM4/content
+07867043,COMMUNICATE TECHNOLOGY LIMITED,2026-09-30,2025-12-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/7kGHUOtd3Zm1DFw_q991T_HoNH5Uow34PgofRBtPaaw/content
+07867043,COMMUNICATE TECHNOLOGY LIMITED,2026-01-30,2024-12-31,group,ixbrl,https://document-api.company-information.service.gov.uk/document/HKJ2xfvXxKklcW4Y_XrDytcF3A6ZfZ5CyVgAtaFLF6U/content
+07867043,COMMUNICATE TECHNOLOGY LIMITED,2024-12-20,2023-12-31,small,ixbrl,https://document-api.company-information.service.gov.uk/document/jluByHMl99-yx6QyL0ANDB1_bFU_-u5u149mHHU8jf4/content
+11480193,RAPID RESPONSE TELECOMS LTD,2026-07-24,2025-07-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/HR-cmd90ZPWn9SQ4T3h1mMgj7cTnk1npuRP6A99Qz8A/content
+11480193,RAPID RESPONSE TELECOMS LTD,2025-06-19,2024-07-31,medium,ixbrl,https://document-api.company-information.service.gov.uk/document/Las_itk8A3ANpSCDd4N77m26fnat3B6z9JxhOgTR7Js/content
+11480193,RAPID RESPONSE TELECOMS LTD,2024-04-30,2023-07-31,total-exemption-full,ixbrl,https://document-api.company-information.service.gov.uk/document/3abyLp8DQBUJk3HSRm071oiFb95HYFc7uPK58GtN-hA/content
+03912906,ALERT COMMUNICATIONS LIMITED,2026-11-24,2026-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/MuzoZtDirUTczoP-QAeKaAZeKofTwIp_ssbkgsFTtM4/content
+03912906,ALERT COMMUNICATIONS LIMITED,2025-11-12,2025-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/bYPqPPSGH78vFSq7qtF01QSKhhIxQMLOYZca5fnUNXA/content
+03912906,ALERT COMMUNICATIONS LIMITED,2024-11-12,2024-03-31,full,ixbrl,https://document-api.company-information.service.gov.uk/document/YoEQWknuTzB4OOw0WXTBkKEmhIjPjBVonNvZRQxZCaI/content
