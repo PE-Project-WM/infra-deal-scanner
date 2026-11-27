@@ -27,6 +27,8 @@ on:
       - 'config/balance_sheet.csv'
       - 'scripts/history.py'
       - 'scripts/score.py'
+      - 'scripts/signals.py'
+      - 'config/sector_measures.csv'
       - 'scripts/history_parse.py'
       - 'scripts/normalise.py'
       - 'scripts/settings.py'
@@ -79,6 +81,7 @@ jobs:
           python scripts/valuation.py 2>&1 | tee data/outputs/valuation_log.txt
           python scripts/size_check.py
           python scripts/sectors.py
+          python scripts/signals.py
           python scripts/site.py
       - name: Save results
         run: |
