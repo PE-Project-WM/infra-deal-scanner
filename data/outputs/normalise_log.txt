@@ -1,4 +1,4 @@
-EBITDA rules applied to 134 companies; changed for 28:
+EBITDA rules applied to 133 companies; changed for 28:
 CompanyNumber  ebitda_reported  ebitda_normalised                                                                                                                                          adjustments
      08322856       14670000.0       1.316800e+07                                                                                            R2 IFRS 16: £1.50m of leased-asset depreciation taken off
      03101568        7051000.0       6.730000e+06                                                                                                                R1 R&D tax credit of £0.32m taken out

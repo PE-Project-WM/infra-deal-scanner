@@ -1,10 +1,10 @@
 OCR: figures filled for 605 scanned filings; 234 could not be read
-Hand corrections applied to 26 filings
+Hand corrections applied to 28 filings
 Candidates to clean: 620
 status
-Shortlist                  440
+Shortlist                  442
 Watchlist (loss-making)     95
-In band, EBITDA unknown     85
+In band, EBITDA unknown     83
 Companies with a number to check: 19
                                   CompanyName    turnover       ebitda  ebitda_margin  turnover_growth                    figures_source                                            data_flags
 52                       AVANTI SPACE LIMITED  18089972.8   13228453.6          0.731           -0.199   OCR, check (converted from USD)                               EBITDA margin above 60%
@@ -114,21 +114,21 @@ OUT         279
 UNSURE      165
 ADJACENT    102
 IN           74
-Candidates: 620 | going forward: 134 | excluded: 486
+Candidates: 620 | going forward: 133 | excluded: 487
 
 Going forward, by status:
 status
-Shortlist                  81
+Shortlist                  82
 Watchlist (loss-making)    30
-In band, EBITDA unknown    23
+In band, EBITDA unknown    21
 
 Shortlist going forward, by relevance and ownership:
 ownership  Employee-owned (EOT)  Foreign parent, founder group  Founder or family-owned  Likely sponsor-owned (check)  Sponsor-owned, recent entry  UK group, owner-managed  Unknown  All
 relevance                                                                                                                                                                                
 ADJACENT                      1                              0                       19                            17                            1                       11        8   57
-IN                            2                              1                        8                             4                            2                        5        1   23
+IN                            2                              1                        8                             5                            2                        5        1   24
 UNSURE                        0                              0                        0                             0                            0                        1        0    1
-All                           3                              1                       27                            21                            3                       17        9   81
+All                           3                              1                       27                            22                            3                       17        9   82
 
 PLCs to check are not listed: ['BISTECH GROUP PLC', 'NEW TECHNOLOGY GROUP HOLDINGS PLC']
 Saved candidates_clean.csv and excluded_log.csv to data/outputs

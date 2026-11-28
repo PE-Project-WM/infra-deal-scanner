@@ -1,4 +1,4 @@
-## Deal types and correlation (2026-11-27)
+## Deal types and correlation (2026-11-28)
 
 **The top 10 is about 5 independent bets, not 10.**
 
@@ -28,7 +28,7 @@ Correlation flag for the top 10: **GREEN** (amber when 30% of the top 10, weight
 
 Top 20: about 5 independent bets (flag green).
 
-Deal types across all ranked companies: Between buckets 23, Under pressure 22, High-growth 20, Steady compounder 15, Numbers to check 3.
+Deal types across all ranked companies: Between buckets 24, Under pressure 22, High-growth 20, Steady compounder 15, Numbers to check 3.
 Watchlist (27 loss-making companies): Under pressure 15, Growth infrastructure 11, Numbers to check 1.
 
 _Splits for the top 10 are estimated from the accounts and web checks (config/demand_driver_split.csv); companies with two named drivers are assumed 70/30; the rest come from judgement or rules and should be confirmed._

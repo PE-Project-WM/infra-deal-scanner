@@ -44,7 +44,22 @@
   "interest_cover": null,
   "revenue_mix": "Turnover note: recurring infrastructure services \u00a331.2m of \u00a338.9m (80%); the rest is other revenue (2024: 84%)",
   "revenue_mix_source": "The Wireless Infrastructure Company Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "contracted",
+   "revenue_type_basis": "described",
+   "contract_length": "10+ years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "core-plus",
+   "tier_reason": null,
+   "barriers_to_entry": "Owns tower and in-building sites with planning consents and landlord agreements; hard to replicate site by site",
+   "essential_service": "Carries mobile and wireless coverage for operators",
+   "evidence": "Recurring infrastructure services were \u00a331.2m of \u00a338.9m (80%) of sales; site agreements with mobile operators for towers and in-building systems (length not stated in the accounts).",
+   "source": "WIG accounts (filed Sep 2025), turnover note",
+   "infra_confidence": "Low"
+  }
  },
  "03921568": {
   "rank": 2,
@@ -92,7 +107,22 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: a higher share of recurring revenue after a major holiday-park programme finished; project works for customers alongside network access",
   "revenue_mix_source": "Wifinity Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "described",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "core-plus",
+   "tier_reason": null,
+   "barriers_to_entry": "Often the only network on the sites it serves",
+   "essential_service": "Residents' main connectivity on military bases and in student housing",
+   "evidence": "Network access revenue repeats; project works for customers sit alongside it. Serves military bases, student housing and holiday parks under site agreements (length not stated).",
+   "source": "Wifinity accounts (filed Jun 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "13433533": {
   "rank": 3,
@@ -135,7 +165,22 @@
   "interest_cover": null,
   "revenue_mix": "Mix of fibre maintenance contracts (about 1.28m premises covered in Feb 2026) and build and civils projects. The accounts call its contracts long-term but periodically renewed, and don't split sales by type.",
   "revenue_mix_source": "VEA accounts FY Feb 2026 (business review, principal risks); VEA Telecoms job adverts on maintenance contracts",
-  "capex_share": 0.00977135856940696
+  "capex_share": 0.00977135856940696,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": "Low to moderate: accredited workforce and positions on network owners' frameworks",
+   "essential_service": "Keeps live fibre networks running (maintenance and repairs)",
+   "evidence": "Fibre maintenance contracts (about 1.28m premises) plus build and civils projects; the accounts call contracts long-term but periodically renewed.",
+   "source": "VEA accounts FY Feb 2026, business review",
+   "infra_confidence": "Low"
+  }
  },
  "07667393": {
   "rank": 4,
@@ -183,7 +228,22 @@
   "interest_cover": 241.40448420337447,
   "revenue_mix": "Accounts split sales: connectivity \u00a37.5m (41%), labour and support \u00a33.2m (18%), materials \u00a37.4m (41%). \u00a34.4m of income was received in advance (24% of sales), which points to contracted, prepaid services.",
   "revenue_mix_source": "TNP accounts FY Mar 2026 (turnover note, creditors note, strategic report)",
-  "capex_share": 0.02902042784477803
+  "capex_share": 0.02902042784477803,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "inferred",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": "Moderate: incumbent on public-sector network contracts",
+   "essential_service": "Connectivity for councils and public bodies",
+   "evidence": "Connectivity \u00a37.5m (41%), labour and support \u00a33.2m, materials \u00a37.4m; \u00a34.4m received in advance points to prepaid contracted services. Public-sector network contracts, length not stated.",
+   "source": "TNP accounts FY Mar 2026, turnover note",
+   "infra_confidence": "Low"
+  }
  },
  "09228224": {
   "rank": 5,
@@ -230,7 +290,22 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: recurring revenue (seat licences and usage) 86% of total (2024: 83%); ARR \u00a370.8m; customer churn 2.8%",
   "revenue_mix_source": "Redwood Technologies Group Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": "Switching costs of an embedded telephony platform",
+   "essential_service": "Business telephony for regulated customers; useful, not physical infrastructure",
+   "evidence": "Recurring licence and usage revenue 86% of sales, churn 2.8%: repeat but renewed within a few years.",
+   "source": "Redwood accounts (filed Jun 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "05412813": {
   "rank": 6,
@@ -278,7 +353,22 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "unknown",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "described",
+   "infra_tier": "core-plus",
+   "tier_reason": null,
+   "barriers_to_entry": "Often the only fibre network on the estates it builds",
+   "essential_service": "Broadband to homes",
+   "evidence": "Owns fibre networks on new-build estates and earns per connected home, so revenue depends on take-up. The accounts value the networks on an RPI-based revenue growth model.",
+   "source": "OFNL accounts (filed Jul 2025), valuation note",
+   "infra_confidence": "Low"
+  }
  },
  "SC492820": {
   "rank": 7,
@@ -314,7 +404,22 @@
   "interest_cover": 111.46175637393767,
   "revenue_mix": "Equipment sales and installation alongside recurring connectivity subscriptions and managed support; the accounts say recurring service revenue grew. No split given. Resells Starlink, OneWeb and Amazon Leo; 12-month CalMac fleet contract.",
   "revenue_mix_source": "Clarus accounts FY Dec 2025 (strategic report); ISPreview; Edinburgh Chamber",
-  "capex_share": 0.011699093578495277
+  "capex_share": 0.011699093578495277,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": "Low: resells satellite capacity owned by others",
+   "essential_service": "Connectivity for ferries and remote sites",
+   "evidence": "Equipment sales and installation plus connectivity subscriptions; example contract: 12-month CalMac fleet contract. Resells Starlink, OneWeb and Amazon Leo.",
+   "source": "Clarus accounts FY Dec 2025, strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "07867043": {
   "rank": 8,
@@ -350,7 +455,22 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: managed IT, network and cloud services to SMEs and business-park tenants on long-term recurring contracts",
   "revenue_mix_source": "Communicate Technology Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.02785271561741736
+  "capex_share": 0.02785271561741736,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "described",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": "Moderate: networks in the business parks it serves",
+   "essential_service": "Tenants' connectivity and IT",
+   "evidence": "Managed IT, network and cloud services to SMEs and business-park tenants on contracts the accounts call long-term (length not given).",
+   "source": "Communicate Technology accounts (filed Sep 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "11480193": {
   "rank": 9,
@@ -393,7 +513,22 @@
   "interest_cover": 39.49574970484061,
   "revenue_mix": "Fibre build and installation services; sales up 56% to \u00a333.1m. Work is priced under fixed framework contracts, so it is repeat work but project by project.",
   "revenue_mix_source": "Rapid Response Telecoms accounts FY Jul 2025 (strategic report)",
-  "capex_share": 0.07073226915153802
+  "capex_share": 0.07073226915153802,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "no",
+   "inflation_basis": "described",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": "Low: framework positions and workforce",
+   "essential_service": "Builds networks others own",
+   "evidence": "Fibre build and installation priced under fixed framework contracts: repeat work, but project by project.",
+   "source": "Rapid Response accounts (filed Jul 2026), strategic report",
+   "infra_confidence": "Medium"
+  }
  },
  "03912906": {
   "rank": 10,
@@ -439,7 +574,22 @@
   "interest_cover": 1.9762954166046938,
   "revenue_mix": "A single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22 and ending in 2033: fully contracted, but only about seven years left.",
   "revenue_mix_source": "Alert Communications accounts FY Mar 2026 (principal activity, turnover note)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "contracted",
+   "revenue_type_basis": "stated",
+   "contract_length": "10+ years",
+   "contract_length_basis": "stated",
+   "inflation_linkage": "yes",
+   "inflation_basis": "inferred",
+   "infra_tier": "core",
+   "tier_reason": null,
+   "barriers_to_entry": "Sole contract holder until 2033",
+   "essential_service": "Defence communications link",
+   "evidence": "Single Ministry of Defence PFI contract to finance, operate and maintain a communications link, in year 22, ending 2033. PFI payments are normally indexed; not confirmed in these accounts.",
+   "source": "Alert accounts (filed Nov 2026)",
+   "infra_confidence": "Medium"
+  }
  },
  "10902222": {
   "rank": 11,
@@ -481,7 +631,22 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: subsidiary MRTC manufactures and rents out radio equipment (rental repeats; no split given)",
   "revenue_mix_source": "The Badger Group Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "unknown",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Subsidiary MRTC makes and rents out radio equipment; rental repeats, no split given.",
+   "source": "Badger Group accounts (filed Oct 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "07800863": {
   "rank": 12,
@@ -522,10 +687,86 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.005607597991901124
+  "capex_share": 0.005607597991901124,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
+ },
+ "03591105": {
+  "rank": 13,
+  "confidence": "High",
+  "confidence_reasons": "figures checked against the filing; recurring revenue estimated",
+  "why": [
+   "Squarely inside the investment case",
+   "High margin (12% EBITDA)",
+   "Cash of \u00a314.6m and net assets of \u00a349.1m"
+  ],
+  "checks": [
+   "Probably owned by a private equity fund: check when it bought in",
+   "Figures were read by OCR from scanned accounts: check every number against the filing",
+   "Repeat revenue is estimated from the type of business: get the contract mix, customer concentration and renewal rates"
+  ],
+  "history": [
+   {
+    "year": 2022,
+    "sales": 115014756.0,
+    "margin": 0.11594787020197651,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2023,
+    "sales": 148113496.0,
+    "margin": 0.13661595024399398,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2024,
+    "sales": 182231394.0,
+    "margin": 0.1248805296413416,
+    "basis": "Operating profit"
+   },
+   {
+    "year": 2025,
+    "sales": 143634561.0,
+    "margin": 0.09831147811284778,
+    "basis": "Operating profit"
+   }
+  ],
+  "ebitda": 16770341.0,
+  "interest_cover": null,
+  "revenue_mix": null,
+  "revenue_mix_source": null,
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "High-voltage power for data centres, grid reinforcement and renewables, and digital network installation; the accounts tie results to the timing of major customer programmes (project work).",
+   "source": "JSM Group accounts FY Dec 2025 (filed Oct 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "05556360": {
-  "rank": 13,
+  "rank": 14,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [
@@ -564,10 +805,25 @@
   "interest_cover": 152.3187414500684,
   "revenue_mix": "Turnover note: groundworks \u00a311.8m of \u00a313.5m (project work); machine hire \u00a31.6m",
   "revenue_mix_source": "Taylor Plant Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.10803023824892931
+  "capex_share": 0.10803023824892931,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Groundworks \u00a311.8m of \u00a313.5m (project work); machine hire \u00a31.6m.",
+   "source": "Taylor Plant accounts (filed Nov 2026), turnover note",
+   "infra_confidence": "Medium"
+  }
  },
  "04186486": {
-  "rank": 14,
+  "rank": 15,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; recurring revenue estimated",
   "why": [
@@ -612,10 +868,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "NI612801": {
-  "rank": 15,
+  "rank": 16,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -649,10 +920,25 @@
   "interest_cover": null,
   "revenue_mix": "Turnover note: provision of services; strategic report describes project-by-project work with price risk on projects",
   "revenue_mix_source": "Ocu Nettworx Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.011204114517001783
+  "capex_share": 0.011204114517001783,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "no",
+   "inflation_basis": "described",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Project-by-project work with price risk on projects.",
+   "source": "OCU Nettworx accounts (filed Dec 2024), strategic report",
+   "infra_confidence": "Medium"
+  }
  },
  "03752620": {
-  "rank": 16,
+  "rank": 17,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -697,10 +983,25 @@
   "interest_cover": 2.5624209040213293,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.00395567323316896
+  "capex_share": 0.00395567323316896,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "03592271": {
-  "rank": 17,
+  "rank": 18,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
   "why": [
@@ -744,10 +1045,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: fixed and mobile telecoms services billed as line rental and call charges",
   "revenue_mix_source": "Telecommunications Management Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Fixed and mobile services billed as line rental and call charges.",
+   "source": "TML accounts (filed Dec 2024); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "NI624500": {
-  "rank": 18,
+  "rank": 19,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -778,10 +1094,25 @@
   "interest_cover": null,
   "revenue_mix": "The accounts describe it only as telecommunications sales, and sales fell last year. The wider Barclay group sells business mobile, landline and broadband contracts; this company's role in the group is not clear.",
   "revenue_mix_source": "Barclay Digital Services accounts FY 2025 (directors' report); Irish News; Mobile News",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "05208041": {
-  "rank": 19,
+  "rank": 20,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; converted from USD at 1.32 per \u00a3",
   "why": [
@@ -830,10 +1161,25 @@
   "interest_cover": 2.2927420316988334,
   "revenue_mix": "All sales are satellite airtime ($36.3m), billed by usage to maritime and land customers, so revenue repeats but varies with use. Customers are spread: Asia 36%, Europe and Middle East 30%, US 18%, Oceania 16%.",
   "revenue_mix_source": "Satcom Global accounts FY Jun 2024 (turnover note, strategic report)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "described",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "stated",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "All sales are satellite airtime billed by usage; the accounts say most customers are contracted on 3\u20135 year terms.",
+   "source": "Satcom Global accounts (filed Mar 2025), strategic report",
+   "infra_confidence": "Medium"
+  }
  },
  "10021562": {
-  "rank": 20,
+  "rank": 21,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -865,10 +1211,25 @@
   "interest_cover": 13.911839958095776,
   "revenue_mix": "Strategic report: power distribution, civils, fibre connections and EV charging delivered as projects",
   "revenue_mix_source": "Glenelly Infrastructure Solutions Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.00450424870162401
+  "capex_share": 0.00450424870162401,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Power distribution, civils, fibre connections and EV charging delivered as projects.",
+   "source": "Glenelly accounts (filed Dec 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "10779280": {
-  "rank": 21,
+  "rank": 22,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -905,10 +1266,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0013200222689642457
+  "capex_share": 0.0013200222689642457,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "03193093": {
-  "rank": 22,
+  "rank": 23,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -951,10 +1327,25 @@
   "interest_cover": 2.706729352403458,
   "revenue_mix": "Strategic report: secure medium to long-term contracts; revenue on long-term contracts by stage of completion",
   "revenue_mix_source": "Ferns Surfacing Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.10567935840623906
+  "capex_share": 0.10567935840623906,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "The accounts describe medium to long-term contracts, with revenue recognised by stage of completion: long contracts, but work is ordered under them.",
+   "source": "Ferns accounts (filed Feb 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "05448638": {
-  "rank": 23,
+  "rank": 24,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -996,10 +1387,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: a contracted recurring revenue base gives forward visibility; managed services paid in advance",
   "revenue_mix_source": "4Net Technologies Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Contracted recurring base; managed services paid in advance.",
+   "source": "4net accounts (filed Apr 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "03513467": {
-  "rank": 24,
+  "rank": 25,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1043,10 +1449,25 @@
   "interest_cover": null,
   "revenue_mix": "Business phone systems and fixed lines (typically contracts and line rental), plus fibre cabling and installation through subsidiaries; no split given. Bought subsidiaries for \u00a31.6m last year.",
   "revenue_mix_source": "5G Communications accounts FY Sep 2025 (principal activities, cash flow)",
-  "capex_share": 0.027969782705371794
+  "capex_share": 0.027969782705371794,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Business phone systems and fixed lines, plus fibre cabling and installation.",
+   "source": "5G Communications accounts (filed Jun 2026); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "12520403": {
-  "rank": 25,
+  "rank": 26,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
   "why": [
@@ -1085,10 +1506,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: recurring revenue 90% of total (92% prior year), \u00a333.5m; low churn",
   "revenue_mix_source": "Opus Tech Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Recurring revenue 90% of sales, low churn.",
+   "source": "Opus Tech accounts (filed Feb 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "09956206": {
-  "rank": 26,
+  "rank": 27,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1126,10 +1562,25 @@
   "interest_cover": 1245.7123960968559,
   "revenue_mix": "Groundworks and cabling for the telecoms industry, through its subsidiary; no sales split given. The directors say telecoms funding has been reduced and they are bidding for new frameworks and other sectors.",
   "revenue_mix_source": "Heneghan Holdings accounts FY Apr 2025 (strategic report, principal risks)",
-  "capex_share": 0.03364792884514789
+  "capex_share": 0.03364792884514789,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Groundworks and cabling for telecoms; directors say telecoms funding has been reduced.",
+   "source": "Heneghan accounts (filed Nov 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "04031272": {
-  "rank": 27,
+  "rank": 28,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1171,10 +1622,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: about 86% of revenue is recurring (2024: about 87%)",
   "revenue_mix_source": "Onecom Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "About 86% of revenue recurring (business mobile and fixed).",
+   "source": "Onecom accounts (filed Dec 2025); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "07974624": {
-  "rank": 28,
+  "rank": 29,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -1217,10 +1683,25 @@
   "interest_cover": 553.0956521739131,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0018836479245534178
+  "capex_share": 0.0018836479245534178,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "02150618": {
-  "rank": 29,
+  "rank": 30,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; recurring revenue estimated",
   "why": [
@@ -1267,10 +1748,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "described",
+   "contract_length": "unknown",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "core-plus",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Regulated by Ofcom as the network owner in the Hull area, plus retail and enterprise services elsewhere.",
+   "source": "KCOM accounts (filed Oct 2024), principal risks",
+   "infra_confidence": "Low"
+  }
  },
  "02386327": {
-  "rank": 30,
+  "rank": 31,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; missing cash",
   "why": [
@@ -1313,10 +1809,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: wholesale fibre, managed services and radio connectivity, with rental income from mobile operators; low churn",
   "revenue_mix_source": "National Grid Telecoms Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "described",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "core-plus",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Wholesale fibre, managed services and radio connectivity, with rental income from mobile operators; low churn.",
+   "source": "National Grid Telecoms accounts (filed Nov 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "06797181": {
-  "rank": 31,
+  "rank": 32,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1352,10 +1863,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: most revenue is contractual and recurring",
   "revenue_mix_source": "Bistech Group Plc accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Most revenue contractual and recurring.",
+   "source": "Bistech accounts (filed Jan 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "08322856": {
-  "rank": 32,
+  "rank": 33,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1401,10 +1927,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: recurring revenue 88.5% of managed-service revenue (FY24: 88.3%)",
   "revenue_mix_source": "Redcentric Solutions Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Recurring revenue 88.5% of managed-service revenue; owns and runs data centres bought from 4D and Sungard.",
+   "source": "Redcentric accounts (filed Oct 2024), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "08709631": {
-  "rank": 33,
+  "rank": 34,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing",
   "why": [
@@ -1443,10 +1984,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: larger projects for Tier 1 customers under long-term framework agreements; growing owned fibre assets",
   "revenue_mix_source": "Network Planning Solutions Ltd. accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0756195990877756
+  "capex_share": 0.0756195990877756,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Larger projects for Tier 1 customers under long-term framework agreements; growing owned fibre assets.",
+   "source": "NPS accounts (filed Oct 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "06391276": {
-  "rank": 34,
+  "rank": 35,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing",
   "why": [
@@ -1491,10 +2047,25 @@
   "interest_cover": null,
   "revenue_mix": "Turnover note: one class, installation and maintenance of fibre-optic cables",
   "revenue_mix_source": "Centercomms Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "One class of business: installation and maintenance of fibre-optic cables.",
+   "source": "Centercomms accounts (filed Mar 2025), turnover note",
+   "infra_confidence": "Low"
+  }
  },
  "04210561": {
-  "rank": 35,
+  "rank": 36,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1539,10 +2110,25 @@
   "interest_cover": 872.139452152259,
   "revenue_mix": "Strategic report: recurring revenue \u00a334.8m, 88% of \u00a339.7m turnover",
   "revenue_mix_source": "I.P. Integration Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.002771387736478426
+  "capex_share": 0.002771387736478426,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Recurring revenue \u00a334.8m, 88% of \u00a339.7m.",
+   "source": "IP Integration accounts (filed Jun 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "05954905": {
-  "rank": 36,
+  "rank": 37,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1584,10 +2170,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: recurring revenue 70% of total (2024: 63%)",
   "revenue_mix_source": "Natilik Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Recurring revenue 70% of sales.",
+   "source": "Natilik accounts (filed Dec 2024), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "12421328": {
-  "rank": 37,
+  "rank": 38,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing",
   "why": [
@@ -1623,10 +2224,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: installation of wired networks plus hardware and professional services; some multi-year revenue streams",
   "revenue_mix_source": "Nets International Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Wired network installation plus hardware and professional services; some multi-year revenue.",
+   "source": "Nets International accounts (filed Apr 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "03368473": {
-  "rank": 38,
+  "rank": 39,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; two years read; recurring revenue estimated",
   "why": [
@@ -1657,10 +2273,25 @@
   "interest_cover": 38.29274908711528,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.022894504483382143
+  "capex_share": 0.022894504483382143,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "04544886": {
-  "rank": 39,
+  "rank": 40,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1698,10 +2329,25 @@
   "interest_cover": 90.30281223184336,
   "revenue_mix": "Strategic report: large projects won through long-term framework agreements",
   "revenue_mix_source": "Radiocoms Systems Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.024130795474141858
+  "capex_share": 0.024130795474141858,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Large projects won through long-term framework agreements.",
+   "source": "Radiocoms accounts (filed Feb 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "10174559": {
-  "rank": 40,
+  "rank": 41,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
@@ -1738,10 +2384,25 @@
   "interest_cover": 5.688720102036429,
   "revenue_mix": "Turnover note: installations \u00a321.7m and civils and remediation \u00a32.5m: all project work",
   "revenue_mix_source": "Nano Fibre Uk Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.011769495874323662
+  "capex_share": 0.011769495874323662,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Installations \u00a321.7m and civils \u00a32.5m: all project work.",
+   "source": "Nano Fibre accounts (filed Oct 2026), turnover note",
+   "infra_confidence": "Medium"
+  }
  },
  "09585068": {
-  "rank": 41,
+  "rank": 42,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -1773,10 +2434,25 @@
   "interest_cover": 282.5273671594087,
   "revenue_mix": "Strategic report: mission-critical services that generate recurring revenue; mix shifting towards hardware and cloud resale after acquisitions",
   "revenue_mix_source": "Croft Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.004513546768232957
+  "capex_share": 0.004513546768232957,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Mission-critical services with recurring revenue; mix moving towards hardware and cloud resale.",
+   "source": "Croft accounts (filed Mar 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "06968249": {
-  "rank": 42,
+  "rank": 43,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; EBITDA estimated (no D&A found); missing net assets; only adjacent to the thesis",
   "why": [
@@ -1820,10 +2496,25 @@
   "interest_cover": null,
   "revenue_mix": "Turnover note: all turnover is fee income (cloud telephony subscriptions)",
   "revenue_mix_source": "Natterbox Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "All turnover is fee income (cloud telephony subscriptions).",
+   "source": "Natterbox accounts (filed Sep 2025), turnover note",
+   "infra_confidence": "Low"
+  }
  },
  "04085164": {
-  "rank": 43,
+  "rank": 44,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [
@@ -1864,10 +2555,25 @@
   "interest_cover": 142.42203015814638,
   "revenue_mix": "Strategic report: growing recurring service models; project work moved into a separate company (FLR Projects)",
   "revenue_mix_source": "Flr Spectron Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.01922747254269876
+  "capex_share": 0.01922747254269876,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Growing recurring service models; project work moved to FLR Projects.",
+   "source": "FLR Spectron accounts (filed Feb 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "04213760": {
-  "rank": 44,
+  "rank": 45,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -1912,10 +2618,25 @@
   "interest_cover": 11.148902821316614,
   "revenue_mix": "Strategic report: contracted and usage-based recurring revenue; after the year end O2 Business said it would end its contracted volumes",
   "revenue_mix_source": "Babble Cloud Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.007832653252661696
+  "capex_share": 0.007832653252661696,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Contracted and usage-based recurring revenue; O2 Business said it would end its contracted volumes.",
+   "source": "Babble accounts (filed Jun 2026); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "03188615": {
-  "rank": 45,
+  "rank": 46,
   "confidence": "Medium",
   "confidence_reasons": "figures confirmed by the next filing; missing net assets; recurring revenue estimated",
   "why": [
@@ -1960,10 +2681,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "contracted",
+   "revenue_type_basis": "inferred",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "core-plus",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Broadband supplied to student and residential buildings under agreements with building operators (length not stated); invests in its own core network.",
+   "source": "Glide accounts (filed Jul 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "02557464": {
-  "rank": 46,
+  "rank": 47,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2006,10 +2742,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: cloud services replacing on-premise work with recurring revenue; no customer above 20% of revenue",
   "revenue_mix_source": "Connect Managed Services (Uk) Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Cloud services replacing on-premise work; no customer above 20% of revenue.",
+   "source": "Connect Managed Services accounts (filed Dec 2024), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "07413288": {
-  "rank": 47,
+  "rank": 48,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; missing net assets; recurring revenue estimated",
   "why": [
@@ -2055,10 +2806,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "value-add",
+   "tier_reason": "Still building its network and growing take-up: returns depend on growth, not on an established base",
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Sells fibre broadband to homes and businesses in London on consumer-style contracts; take-up risk.",
+   "source": "Community Fibre accounts (filed May 2025); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "06011062": {
-  "rank": 48,
+  "rank": 49,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
@@ -2094,10 +2860,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: project-manages installation, repair and relocation of cabling for main contractors and councils",
   "revenue_mix_source": "C.A. Telecom Uk Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.036401616097723674
+  "capex_share": 0.036401616097723674,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Project-manages installation, repair and relocation of cabling for main contractors and councils.",
+   "source": "CA Telecom accounts (filed Jul 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "NI620995": {
-  "rank": 49,
+  "rank": 50,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing",
   "why": [
@@ -2133,10 +2914,25 @@
   "interest_cover": null,
   "revenue_mix": "Principal activity: delivery, supply and installation of civil engineering and telecoms projects",
   "revenue_mix_source": "Gcu (Uk) Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.00963662635986079
+  "capex_share": 0.00963662635986079,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Delivery and installation of civil engineering and telecoms projects.",
+   "source": "GCU accounts (filed Nov 2026), principal activity",
+   "infra_confidence": "Low"
+  }
  },
  "02853596": {
-  "rank": 50,
+  "rank": 51,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
@@ -2173,10 +2969,25 @@
   "interest_cover": 264.5886006958443,
   "revenue_mix": "All sales are services to network operators, service providers, utilities and public bodies; flat at \u00a375.6m. No split between ongoing maintenance and one-off build work.",
   "revenue_mix_source": "MAP Group accounts FY Sep 2025 (turnover note, review of the business)",
-  "capex_share": 0.006753204465246891
+  "capex_share": 0.006753204465246891,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "unknown",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Services to network operators, utilities and public bodies; no split between maintenance and build.",
+   "source": "MAP Group accounts (filed Jun 2026)",
+   "infra_confidence": "Low"
+  }
  },
  "08043921": {
-  "rank": 51,
+  "rank": 52,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2217,10 +3028,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "05217343": {
-  "rank": 52,
+  "rank": 53,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2265,10 +3091,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: solution design, project installation and service for smart buildings and networks",
   "revenue_mix_source": "North Pb Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Design, project installation and service for smart buildings and networks.",
+   "source": "North PB accounts (filed Jan 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "03101568": {
-  "rank": 53,
+  "rank": 54,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2312,10 +3153,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: broadband and connectivity subscriptions to consumer, business and partner customers",
   "revenue_mix_source": "Zen Internet Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Broadband and connectivity subscriptions to consumers, businesses and partners.",
+   "source": "Zen accounts (filed Feb 2025); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "02763306": {
-  "rank": 54,
+  "rank": 55,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing",
   "why": [
@@ -2358,10 +3214,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: fibre upgrade works and national network maintenance under frameworks, plus project work",
   "revenue_mix_source": "John Henry Group Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Fibre upgrade works and national network maintenance under frameworks, plus project work; the accounts cite data-centre power demand.",
+   "source": "John Henry accounts (filed Nov 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "02665837": {
-  "rank": 55,
+  "rank": 56,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
   "why": [
@@ -2403,10 +3274,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: recurring revenue \u00a368.4m and project revenue \u00a323.8m (74% recurring)",
   "revenue_mix_source": "Maintel Europe Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Recurring \u00a368.4m and project \u00a323.8m (74% recurring).",
+   "source": "Maintel Europe accounts (filed Mar 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "05240202": {
-  "rank": 56,
+  "rank": 57,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2449,10 +3335,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: connectivity subscriptions grow with installed devices; hardware sales are a large and lumpier part",
   "revenue_mix_source": "Ground Control Technologies Uk Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Connectivity subscriptions grow with devices installed; hardware sales are large and lumpy.",
+   "source": "Ground Control accounts (filed Nov 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "13567332": {
-  "rank": 57,
+  "rank": 58,
   "confidence": "Medium",
   "confidence_reasons": "figures confirmed by the next filing; missing net assets; only adjacent to the thesis",
   "why": [
@@ -2493,10 +3394,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: business voice, data, cloud and mobile with fixed recurring margin and low revenue churn",
   "revenue_mix_source": "Saint Topco Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Business voice, data, cloud and mobile with low revenue churn.",
+   "source": "Saint Topco accounts (filed Nov 2024); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "03526932": {
-  "rank": 58,
+  "rank": 59,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2531,10 +3447,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "02804354": {
-  "rank": 59,
+  "rank": 60,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing net assets; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2576,10 +3507,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "04560277": {
-  "rank": 60,
+  "rank": 61,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing cash; only adjacent to the thesis",
   "why": [],
@@ -2620,10 +3566,25 @@
   "interest_cover": null,
   "revenue_mix": "Paging and critical messaging billed in advance: deferred income \u00a33.2m",
   "revenue_mix_source": "Pageone Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Paging and critical messaging billed in advance (deferred income \u00a33.2m).",
+   "source": "PageOne accounts (filed Sep 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "11641366": {
-  "rank": 61,
+  "rank": 62,
   "confidence": "High",
   "confidence_reasons": "figures confirmed by the next filing; recurring revenue estimated",
   "why": [
@@ -2659,10 +3620,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "06521296": {
-  "rank": 62,
+  "rank": 63,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2698,10 +3674,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "02797895": {
-  "rank": 63,
+  "rank": 64,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2738,10 +3729,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: 86% contracted recurring revenue; legacy small-business connectivity churns at 16% a year",
   "revenue_mix_source": "Chess Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "86% contracted recurring revenue; legacy small-business connectivity churns 16% a year.",
+   "source": "Chess accounts (filed Jan 2026); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Medium"
+  }
  },
  "07020016": {
-  "rank": 64,
+  "rank": 65,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2776,10 +3782,25 @@
   "interest_cover": 3.7762865072023257,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.0008344025371953365
+  "capex_share": 0.0008344025371953365,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "02652955": {
-  "rank": 65,
+  "rank": 66,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2815,10 +3836,25 @@
   "interest_cover": 14.171174255391989,
   "revenue_mix": "Strategic report: focus on high-margin recurring revenue streams; acquired a managed service provider with a strong recurring base",
   "revenue_mix_source": "Bdr Voice & Data Solutions Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.005454684621556929
+  "capex_share": 0.005454684621556929,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Focus on recurring revenue; bought a managed service provider.",
+   "source": "BDR accounts (filed Jun 2026); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "SC646446": {
-  "rank": 66,
+  "rank": 67,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2860,10 +3896,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: contracts with corporate and public-sector customers on a UK-wide network, with renewal dates",
   "revenue_mix_source": "Highlands Bidco Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Contracts with corporate and public-sector customers on a UK-wide network, with renewal dates.",
+   "source": "Highlands Bidco accounts (filed Jul 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "NI614374": {
-  "rank": 67,
+  "rank": 68,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [
@@ -2898,10 +3949,25 @@
   "interest_cover": 24.359655397630082,
   "revenue_mix": "Principal activity: construction of utility projects for electricity and telecoms",
   "revenue_mix_source": "M & M Contractors (Europe) Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.010126968976080725
+  "capex_share": 0.010126968976080725,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Construction of utility projects for electricity and telecoms.",
+   "source": "M&M Contractors accounts (filed Feb 2026), principal activity",
+   "infra_confidence": "Low"
+  }
  },
  "01763970": {
-  "rank": 68,
+  "rank": 69,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -2942,10 +4008,25 @@
   "interest_cover": 59.32924866938978,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": 0.01328859255041827
+  "capex_share": 0.01328859255041827,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "01938625": {
-  "rank": 69,
+  "rank": 70,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -2987,10 +4068,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: IT managed services, hosting and mobility; some customer churn and contract erosion",
   "revenue_mix_source": "Intercity Technology Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "IT managed services, hosting and mobility; some churn and contract erosion.",
+   "source": "Intercity accounts (filed Oct 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "02296733": {
-  "rank": 70,
+  "rank": 71,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; missing net assets; only adjacent to the thesis",
   "why": [
@@ -3033,10 +4129,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: managed network services for customers of the GCX group",
   "revenue_mix_source": "Vanco Uk Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Managed network services for customers of the GCX group.",
+   "source": "Vanco UK accounts (filed Dec 2024), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "NI624452": {
-  "rank": 71,
+  "rank": 72,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -3066,10 +4177,25 @@
   "interest_cover": null,
   "revenue_mix": "Accounting policy and principal activity: construction of utility projects, revenue recognised by stage of completion (project work)",
   "revenue_mix_source": "Electricityworx Ltd accounts, latest filing (read 27 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "stated",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Construction of utility projects, revenue by stage of completion.",
+   "source": "Electricityworx accounts, accounting policy",
+   "infra_confidence": "Medium"
+  }
  },
  "04632756": {
-  "rank": 72,
+  "rank": 73,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3105,10 +4231,25 @@
   "interest_cover": 1.3951606398167342,
   "revenue_mix": "Strategic report: resilient recurring revenue base; elevated customer churn in the sector",
   "revenue_mix_source": "Telappliant Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.007442222915045587
+  "capex_share": 0.007442222915045587,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Recurring revenue base; elevated churn in the sector.",
+   "source": "Telappliant accounts (filed Sep 2026); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "14354114": {
-  "rank": 73,
+  "rank": 74,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -3140,10 +4281,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: service contracts billed in advance (deferred income \u00a36.8m) to schools and NHS bodies",
   "revenue_mix_source": "Talk Straight Holdings Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Service contracts billed in advance to schools and NHS bodies (deferred income \u00a36.8m).",
+   "source": "Talk Straight accounts (filed Feb 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "02697046": {
-  "rank": 74,
+  "rank": 75,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; two years read; only adjacent to the thesis",
   "why": [
@@ -3172,10 +4328,25 @@
   "interest_cover": null,
   "revenue_mix": "Principal activity: civil and fibre-optic engineering, installation and associated maintenance",
   "revenue_mix_source": "Erh Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0008797264410011003
+  "capex_share": 0.0008797264410011003,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Civil and fibre-optic engineering, installation and maintenance.",
+   "source": "ERH accounts (filed Dec 2024), principal activity",
+   "infra_confidence": "Low"
+  }
  },
  "04503928": {
-  "rank": 75,
+  "rank": 76,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3212,10 +4383,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: moving to recurring cloud and managed services; cloud communications recurring revenue \u00a33.78m",
   "revenue_mix_source": "New Technology Group Holdings Plc accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0005878047883490861
+  "capex_share": 0.0005878047883490861,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "public",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Moving to recurring cloud and managed services; operates in Ofcom-regulated markets.",
+   "source": "New Technology Group accounts (filed Jan 2026); Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Low"
+  }
  },
  "04380546": {
-  "rank": 76,
+  "rank": 77,
   "confidence": "Medium",
   "confidence_reasons": "EBITDA estimated (no D&A found); only adjacent to the thesis",
   "why": [],
@@ -3256,10 +4442,25 @@
   "interest_cover": 18.108838686675526,
   "revenue_mix": "Strategic report: building contracted recurring revenue as a managed service provider",
   "revenue_mix_source": "Vcg Technology Services Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.011945101065430529
+  "capex_share": 0.011945101065430529,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Building contracted recurring revenue as a managed service provider.",
+   "source": "VCG accounts (filed Dec 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "05942331": {
-  "rank": 77,
+  "rank": 78,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3301,10 +4502,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: project implementation plus maintenance of video conferencing systems",
   "revenue_mix_source": "York Telecom Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Project implementation plus maintenance of video conferencing systems.",
+   "source": "York Telecom accounts (filed Jun 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "02893478": {
-  "rank": 78,
+  "rank": 79,
   "confidence": "High",
   "confidence_reasons": "",
   "why": [
@@ -3348,10 +4564,25 @@
   "interest_cover": 1.6485346181489073,
   "revenue_mix": "Strategic report: mast build programmes for mobile operators",
   "revenue_mix_source": "Teligent Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.008116828914340372
+  "capex_share": 0.008116828914340372,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Mast build programmes for mobile operators.",
+   "source": "Teligent accounts (filed Aug 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "00714431": {
-  "rank": 79,
+  "rank": 80,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [],
@@ -3389,10 +4620,25 @@
   "interest_cover": null,
   "revenue_mix": "Strategic report: survey, design and installation projects; order book of contracts",
   "revenue_mix_source": "Fourway Communication Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0033011568754206322
+  "capex_share": 0.0033011568754206322,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "under 1 year",
+   "contract_length_basis": "described",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Survey, design and installation projects; order book of contracts.",
+   "source": "Fourway accounts (filed Dec 2025), strategic report",
+   "infra_confidence": "Low"
+  }
  },
  "03868503": {
-  "rank": 80,
+  "rank": 81,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [
@@ -3429,10 +4675,25 @@
   "interest_cover": 24.53584639774529,
   "revenue_mix": "Strategic report: IT consultancy, maintenance and hardware; growing 3-7 year hardware-as-a-service contracts",
   "revenue_mix_source": "Medhurst Communications Limited accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.020947788368101794
+  "capex_share": 0.020947788368101794,
+  "infra_test": {
+   "revenue_type": "mixed",
+   "revenue_type_basis": "described",
+   "contract_length": "3\u201310 years",
+   "contract_length_basis": "stated",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "IT consultancy, maintenance and hardware; the growing hardware-as-a-service part runs on 3\u20137 year terms.",
+   "source": "Medhurst accounts (filed Jul 2026), accounting policy",
+   "infra_confidence": "Medium"
+  }
  },
  "09180490": {
-  "rank": 81,
+  "rank": 82,
   "confidence": "High",
   "confidence_reasons": "only adjacent to the thesis",
   "why": [],
@@ -3471,10 +4732,25 @@
   "interest_cover": 8.628749032001506,
   "revenue_mix": "Strategic report: over 67,000 mobile connections and landline, VoIP and hosted services to over 4,000 businesses",
   "revenue_mix_source": "Ice Telecommunications Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.000819927514804435
+  "capex_share": 0.000819927514804435,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "partial",
+   "inflation_basis": "stated",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Over 67,000 mobile connections and landline, VoIP and hosted services to 4,000+ businesses; the accounts book RPI-linked increases, which Ofcom bars in new small-business contracts since Jan 2025.",
+   "source": "ICE accounts (filed Aug 2025), revenue policy; Ofcom statement on inflation-linked price rises (Jul 2024, in force 17 Jan 2025)",
+   "infra_confidence": "Medium"
+  }
  },
  "SC211701": {
-  "rank": 82,
+  "rank": 83,
   "confidence": "Medium",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis; recurring revenue estimated",
   "why": [
@@ -3518,10 +4794,25 @@
   "interest_cover": null,
   "revenue_mix": null,
   "revenue_mix_source": null,
-  "capex_share": null
+  "capex_share": null,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "inferred",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Not read yet: business-type default",
+   "source": "Business type (config/business_type.csv or sector default)",
+   "infra_confidence": "Low"
+  }
  },
  "02946493": {
-  "rank": 83,
+  "rank": 84,
   "confidence": "High",
   "confidence_reasons": "figures checked against the filing; only adjacent to the thesis",
   "why": [],
@@ -3555,6 +4846,21 @@
   "interest_cover": 3.5031553153637005,
   "revenue_mix": "Strategic report: distribution rights and product sales to an existing customer base",
   "revenue_mix_source": "Corporate Direct (Europe) Ltd accounts, latest filing (read 26 Nov 2026)",
-  "capex_share": 0.0043850690164950095
+  "capex_share": 0.0043850690164950095,
+  "infra_test": {
+   "revenue_type": "merchant",
+   "revenue_type_basis": "described",
+   "contract_length": "1\u20133 years",
+   "contract_length_basis": "inferred",
+   "inflation_linkage": "unknown",
+   "inflation_basis": "inferred",
+   "infra_tier": "hybrid",
+   "tier_reason": null,
+   "barriers_to_entry": null,
+   "essential_service": null,
+   "evidence": "Distribution rights and product sales to an existing customer base.",
+   "source": "Corporate Direct accounts (filed Sep 2026), strategic report",
+   "infra_confidence": "Low"
+  }
  }
 }

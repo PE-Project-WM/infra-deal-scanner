@@ -1,5 +1,5 @@
 SATCOM GLOBAL LIMITED: converted from USD at 1.32 per £
-Companies to score: 83 (1 more need a sector check first); network owners still building: 8
+Companies to score: 84 (1 more need a sector check first); network owners still building: 8
  rank                                 CompanyName  score      business_type confidence relevance turnover ebitda_margin
     1 THE WIRELESS INFRASTRUCTURE COMPANY LIMITED   92.9      network_owner       High        IN    38.9m         59.0%
     2                            WIFINITY LIMITED   89.7      network_owner       High        IN    39.8m         42.0%
@@ -13,14 +13,14 @@ Companies to score: 83 (1 more need a sector check first); network owners still 
    10                ALERT COMMUNICATIONS LIMITED   79.1    project_company       High  ADJACENT    10.8m         50.0%
    11                    THE BADGER GROUP LIMITED   78.7 recurring_services       High  ADJACENT    13.6m         33.0%
    12                                KNTC LIMITED   78.6         contractor       High        IN    21.5m         14.0%
-   13                            TAYLOR PLANT LTD   76.1         contractor       High  ADJACENT    13.5m         21.0%
-   14       BEACON COMMUNICATION SERVICES LIMITED   76.0         contractor       High        IN    31.8m         19.0%
-   15                        OCU NETTWORX LIMITED   75.7         contractor     Medium  ADJACENT    27.9m         13.0%
-   16                     WINDSOR TELECOM LIMITED   75.5 recurring_services     Medium  ADJACENT    15.4m         18.0%
-   17       TELECOMMUNICATIONS MANAGEMENT LIMITED   74.7 recurring_services     Medium  ADJACENT    10.6m         20.0%
-   18                BARCLAY DIGITAL SERVICES LTD   74.6 recurring_services     Medium  ADJACENT    17.5m         22.0%
-   19                       SATCOM GLOBAL LIMITED   73.5 recurring_services       High        IN    27.5m         17.0%
-   20   GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED   72.9         contractor     Medium  ADJACENT    24.8m         14.0%
-Confidence: {'High': 55, 'Medium': 28}
+   13                  JSM GROUP SERVICES LIMITED   77.0         contractor       High        IN   143.6m         12.0%
+   14                            TAYLOR PLANT LTD   76.1         contractor       High  ADJACENT    13.5m         21.0%
+   15       BEACON COMMUNICATION SERVICES LIMITED   76.0         contractor       High        IN    31.8m         19.0%
+   16                        OCU NETTWORX LIMITED   75.7         contractor     Medium  ADJACENT    27.9m         13.0%
+   17                     WINDSOR TELECOM LIMITED   75.5 recurring_services     Medium  ADJACENT    15.4m         18.0%
+   18       TELECOMMUNICATIONS MANAGEMENT LIMITED   74.7 recurring_services     Medium  ADJACENT    10.6m         20.0%
+   19                BARCLAY DIGITAL SERVICES LTD   74.6 recurring_services     Medium  ADJACENT    17.5m         22.0%
+   20                       SATCOM GLOBAL LIMITED   73.5 recurring_services       High        IN    27.5m         17.0%
+Confidence: {'High': 56, 'Medium': 28}
 
 Saved ranking_latest.csv, building_latest.csv, a dated copy in data/outputs/rankings/ and sector_check.csv

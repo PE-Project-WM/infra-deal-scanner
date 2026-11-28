@@ -1,6 +1,34 @@
 {
- "built": "2026-11-27",
- "events_since": "2026-11-27",
- "signals": [],
+ "built": "2026-11-28",
+ "events_since": "2026-08-30",
+ "signals": [
+  {
+   "number": "05448638",
+   "company": "4Net Technologies",
+   "date": "2026-10-23",
+   "signal": "Refinancing with a fund or security agent",
+   "strength": "strong",
+   "why": "Old security released and new security registered in favour of a security agent or fund, which often comes with a buyout or a private credit loan",
+   "evidence": "3 new charges (Alter Domus Trustees (UK) Limited as Security Agent; Alter Domus Trustees (UK) Limited, as Security Agent; Palatine Private Equity LLP (The Security Trustee)), 1 released"
+  },
+  {
+   "number": "02804354",
+   "company": "Charterhouse Voice & Data",
+   "date": "2026-11-11",
+   "signal": "Board reshaped",
+   "strength": "moderate",
+   "why": "Several directors changed on one day; this often follows a sale, a refinancing or a group reorganisation",
+   "evidence": "6 director changes on one day"
+  },
+  {
+   "number": "11480193",
+   "company": "Rapid Response Telecoms",
+   "date": "2026-10-16",
+   "signal": "New bank borrowing",
+   "strength": "weak",
+   "why": "A lender registered security over the company, usually for a new loan or facility",
+   "evidence": "1 new charge (Barclays Bank PLC)"
+  }
+ ],
  "_about": "Signals are reasons to look, not proof. Names of individuals are left out."
 }

@@ -1,0 +1,1441 @@
+{
+ "date": "2026-11-28",
+ "checked_since": "2026-08-30",
+ "previous_scored_on": "2026-11-27",
+ "headline": "0 new in the top 10, 0 dropped out, 0 moved within it",
+ "method_changed": false,
+ "method_version": "v4",
+ "events_count": 27,
+ "companies_checked": 83,
+ "top10": [
+  {
+   "rank": 1,
+   "company": "The Wireless Infrastructure Company",
+   "score": 92.9,
+   "fit": "IN",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 38943912.0,
+   "margin": 0.587225905810387,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "London",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 16.0,
+    "growth": 12.8,
+    "strategy_fit": 15.0,
+    "size_fit": 14.1,
+    "margin_quality": 20.0,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 2,
+   "company": "Wifinity",
+   "score": 89.7,
+   "fit": "IN",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 39805588.0,
+   "margin": 0.41600382840720757,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "London",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 15.0,
+    "growth": 13.9,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 15.8,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 3,
+   "company": "VEA Group",
+   "score": 87.4,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 32560948.0,
+   "margin": 0.2334146244024491,
+   "access": "Low-Medium",
+   "access_note": "UK arm of an overseas founder group, carve-out needed",
+   "town": "Bracknell",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 12.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 15.4,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 4,
+   "company": "The Networking People (TNP)",
+   "score": 82.1,
+   "fit": "IN",
+   "segment": "Other telecoms networks",
+   "turnover": 18099102.0,
+   "margin": 0.12734206371122722,
+   "access": "Low",
+   "access_note": "sponsor bought in the last 2 years, unlikely to sell soon",
+   "town": "Lancaster",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 14.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 9.6,
+    "balance_sheet": 13.5
+   }
+  },
+  {
+   "rank": 5,
+   "company": "Redwood Technologies Group",
+   "score": 81.8,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 80319834.0,
+   "margin": 0.161082915086702,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Bracknell",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 18.0,
+    "growth": 13.4,
+    "strategy_fit": 9.0,
+    "size_fit": 15.0,
+    "margin_quality": 11.4,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 6,
+   "company": "Open Fibre Networks",
+   "score": 81.5,
+   "fit": "IN",
+   "segment": "Fibre and wired telecoms networks",
+   "turnover": 27759695.0,
+   "margin": 0.5089354548023672,
+   "access": "Medium",
+   "access_note": "owned via a UK holding company",
+   "town": "Bury St. Edmunds",
+   "confidence": "Medium",
+   "pts": {
+    "revenue_visibility": 18.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 14.0,
+    "balance_sheet": 4.5
+   }
+  },
+  {
+   "rank": 7,
+   "company": "Clarus Networks",
+   "score": 81.4,
+   "fit": "IN",
+   "segment": "Wireless networks, towers and fixed wireless",
+   "turnover": 26680567.0,
+   "margin": 0.11508904589621352,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Bathgate",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 14.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 8.4,
+    "balance_sheet": 14.0
+   }
+  },
+  {
+   "rank": 8,
+   "company": "Communicate Technology",
+   "score": 79.5,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 13755104.0,
+   "margin": 0.1612189918738528,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "Billingham",
+   "confidence": "Medium",
+   "pts": {
+    "revenue_visibility": 15.0,
+    "growth": 15.0,
+    "strategy_fit": 9.0,
+    "size_fit": 15.0,
+    "margin_quality": 10.5,
+    "balance_sheet": 15.0
+   }
+  },
+  {
+   "rank": 9,
+   "company": "Rapid Response Telecoms",
+   "score": 79.2,
+   "fit": "IN",
+   "segment": "Building and maintaining telecoms and utility networks",
+   "turnover": 33104076.0,
+   "margin": 0.1634559442166578,
+   "access": "High",
+   "access_note": "founder-owned, proprietary approach possible",
+   "town": "Barnsley",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 8.0,
+    "growth": 15.0,
+    "strategy_fit": 15.0,
+    "size_fit": 15.0,
+    "margin_quality": 15.5,
+    "balance_sheet": 10.7
+   }
+  },
+  {
+   "rank": 10,
+   "company": "Alert Communications",
+   "score": 79.1,
+   "fit": "ADJACENT",
+   "segment": "Other telecoms networks",
+   "turnover": 10761040.0,
+   "margin": 0.5022290596447927,
+   "access": "Medium",
+   "access_note": "sponsor-owned, sale timing depends on hold year",
+   "town": "London",
+   "confidence": "High",
+   "pts": {
+    "revenue_visibility": 19.0,
+    "growth": 7.0,
+    "strategy_fit": 9.0,
+    "size_fit": 15.0,
+    "margin_quality": 17.5,
+    "balance_sheet": 11.6
+   }
+  }
+ ],
+ "top10_moves": [
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "same",
+   "from": 9,
+   "to": 9,
+   "score_from": 79.2,
+   "score_to": 79.2,
+   "reasons": [],
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
+  },
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "same",
+   "from": 10,
+   "to": 10,
+   "score_from": 79.1,
+   "score_to": 79.1,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  }
+ ],
+ "all_moves": [
+  {
+   "company": "Fourway Communication",
+   "number": "00714431",
+   "kind": "down",
+   "from": 79,
+   "to": 80,
+   "score_from": 40.9,
+   "score_to": 40.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Avoira",
+   "number": "01763970",
+   "kind": "down",
+   "from": 68,
+   "to": 69,
+   "score_from": 50.7,
+   "score_to": 50.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Intercity Technology",
+   "number": "01938625",
+   "kind": "down",
+   "from": 69,
+   "to": 70,
+   "score_from": 50.4,
+   "score_to": 50.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Kcom Group",
+   "number": "02150618",
+   "kind": "down",
+   "from": 29,
+   "to": 30,
+   "score_from": 71.1,
+   "score_to": 71.1,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Vanco UK",
+   "number": "02296733",
+   "kind": "down",
+   "from": 70,
+   "to": 71,
+   "score_from": 50.3,
+   "score_to": 50.3,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "National Grid Telecoms",
+   "number": "02386327",
+   "kind": "down",
+   "from": 30,
+   "to": 31,
+   "score_from": 71.0,
+   "score_to": 71.0,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "New accounts (2026-11-24): New accounts filed, but figures could not be read (PDF or untagged)",
+    "Director resigned (2026-10-01): Sharma, Tanya Joy resigned"
+   ]
+  },
+  {
+   "company": "Connect Managed Services (UK)",
+   "number": "02557464",
+   "kind": "down",
+   "from": 46,
+   "to": 47,
+   "score_from": 68.3,
+   "score_to": 68.3,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "BDR Voice & Data Solutions",
+   "number": "02652955",
+   "kind": "down",
+   "from": 65,
+   "to": 66,
+   "score_from": 54.4,
+   "score_to": 54.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Maintel Europe",
+   "number": "02665837",
+   "kind": "down",
+   "from": 55,
+   "to": 56,
+   "score_from": 62.2,
+   "score_to": 62.2,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "ERH Communications",
+   "number": "02697046",
+   "kind": "down",
+   "from": 74,
+   "to": 75,
+   "score_from": 45.8,
+   "score_to": 45.8,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "John Henry Group",
+   "number": "02763306",
+   "kind": "down",
+   "from": 54,
+   "to": 55,
+   "score_from": 63.8,
+   "score_to": 63.8,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Chess",
+   "number": "02797895",
+   "kind": "down",
+   "from": 63,
+   "to": 64,
+   "score_from": 54.7,
+   "score_to": 54.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Charterhouse Voice & Data",
+   "number": "02804354",
+   "kind": "down",
+   "from": 59,
+   "to": 60,
+   "score_from": 56.1,
+   "score_to": 56.1,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Director appointed (2026-11-11): Skiba, Giles Tomasz Christopher appointed",
+    "Director appointed (2026-11-11): Pitt, Jonathan Louis appointed",
+    "Director appointed (2026-11-11): Parkman, Ross Stuart appointed",
+    "Director appointed (2026-11-11): Brar, Taranjit Singh appointed",
+    "Director resigned (2026-11-11): Crawford, Amy Elizabeth resigned",
+    "Director resigned (2026-11-11): Stevenson, Kelly Louise resigned"
+   ]
+  },
+  {
+   "company": "MAP Group (UK)",
+   "number": "02853596",
+   "kind": "down",
+   "from": 50,
+   "to": 51,
+   "score_from": 66.8,
+   "score_to": 66.8,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Teligent",
+   "number": "02893478",
+   "kind": "down",
+   "from": 78,
+   "to": 79,
+   "score_from": 41.6,
+   "score_to": 41.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Corporate Direct (Europe)",
+   "number": "02946493",
+   "kind": "down",
+   "from": 83,
+   "to": 84,
+   "score_from": 35.0,
+   "score_to": 35.0,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "ZEN Internet",
+   "number": "03101568",
+   "kind": "down",
+   "from": 53,
+   "to": 54,
+   "score_from": 63.9,
+   "score_to": 63.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Glide Student & Residential",
+   "number": "03188615",
+   "kind": "down",
+   "from": 45,
+   "to": 46,
+   "score_from": 68.5,
+   "score_to": 68.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ferns Surfacing",
+   "number": "03193093",
+   "kind": "down",
+   "from": 22,
+   "to": 23,
+   "score_from": 72.4,
+   "score_to": 72.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Wingnut Utilities",
+   "number": "03368473",
+   "kind": "down",
+   "from": 38,
+   "to": 39,
+   "score_from": 69.6,
+   "score_to": 69.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "5G Communications",
+   "number": "03513467",
+   "kind": "down",
+   "from": 24,
+   "to": 25,
+   "score_from": 72.1,
+   "score_to": 72.1,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Global 4 Communications",
+   "number": "03526932",
+   "kind": "down",
+   "from": 58,
+   "to": 59,
+   "score_from": 56.6,
+   "score_to": 56.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "JSM Group Services",
+   "number": "03591105",
+   "kind": "new",
+   "from": null,
+   "to": 13,
+   "score_from": null,
+   "score_to": 77.0,
+   "reasons": [
+    "entered the ranking (IN fit, medium accessibility)"
+   ],
+   "events": []
+  },
+  {
+   "company": "Telecommunications Management",
+   "number": "03592271",
+   "kind": "down",
+   "from": 17,
+   "to": 18,
+   "score_from": 74.7,
+   "score_to": 74.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Windsor Telecom",
+   "number": "03752620",
+   "kind": "down",
+   "from": 16,
+   "to": 17,
+   "score_from": 75.5,
+   "score_to": 75.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Medhurst Communications",
+   "number": "03868503",
+   "kind": "down",
+   "from": 80,
+   "to": 81,
+   "score_from": 40.4,
+   "score_to": 40.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Alert Communications",
+   "number": "03912906",
+   "kind": "same",
+   "from": 10,
+   "to": 10,
+   "score_from": 79.1,
+   "score_to": 79.1,
+   "reasons": [],
+   "events": [
+    "Director appointed (2026-11-04): Britton, Cara Marie appointed"
+   ]
+  },
+  {
+   "company": "Onecom",
+   "number": "04031272",
+   "kind": "down",
+   "from": 27,
+   "to": 28,
+   "score_from": 71.5,
+   "score_to": 71.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "FLR Spectron",
+   "number": "04085164",
+   "kind": "down",
+   "from": 43,
+   "to": 44,
+   "score_from": 68.9,
+   "score_to": 68.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Beacon Communication Services",
+   "number": "04186486",
+   "kind": "down",
+   "from": 14,
+   "to": 15,
+   "score_from": 76.0,
+   "score_to": 76.0,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "I.P. Integration",
+   "number": "04210561",
+   "kind": "down",
+   "from": 35,
+   "to": 36,
+   "score_from": 69.9,
+   "score_to": 69.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Babble Cloud",
+   "number": "04213760",
+   "kind": "down",
+   "from": 44,
+   "to": 45,
+   "score_from": 68.9,
+   "score_to": 68.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Director resigned (2026-11-19): Clark, Alexander Ross resigned"
+   ]
+  },
+  {
+   "company": "VCG Technology Services",
+   "number": "04380546",
+   "kind": "down",
+   "from": 76,
+   "to": 77,
+   "score_from": 43.0,
+   "score_to": 43.0,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "NEW Technology Group Holdings PLC",
+   "number": "04503928",
+   "kind": "down",
+   "from": 75,
+   "to": 76,
+   "score_from": 44.3,
+   "score_to": 44.3,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Radiocoms Systems",
+   "number": "04544886",
+   "kind": "down",
+   "from": 39,
+   "to": 40,
+   "score_from": 69.5,
+   "score_to": 69.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Pageone Communications",
+   "number": "04560277",
+   "kind": "down",
+   "from": 60,
+   "to": 61,
+   "score_from": 55.7,
+   "score_to": 55.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Telappliant",
+   "number": "04632756",
+   "kind": "down",
+   "from": 72,
+   "to": 73,
+   "score_from": 50.0,
+   "score_to": 50.0,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Satcom Global",
+   "number": "05208041",
+   "kind": "down",
+   "from": 19,
+   "to": 20,
+   "score_from": 73.5,
+   "score_to": 73.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "New accounts (2026-11-26): New accounts filed, but figures could not be read (PDF or untagged)",
+    "Director resigned (2026-09-02): Leydon, Chris resigned"
+   ]
+  },
+  {
+   "company": "North PB",
+   "number": "05217343",
+   "kind": "down",
+   "from": 52,
+   "to": 53,
+   "score_from": 64.4,
+   "score_to": 64.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Director appointed (2026-10-28): Mauguy, Philippe Robert Francis appointed",
+    "Director resigned (2026-10-28): Crawford, David William resigned"
+   ]
+  },
+  {
+   "company": "Ground Control Technologies UK",
+   "number": "05240202",
+   "kind": "down",
+   "from": 56,
+   "to": 57,
+   "score_from": 61.1,
+   "score_to": 61.1,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "4Net Technologies",
+   "number": "05448638",
+   "kind": "down",
+   "from": 23,
+   "to": 24,
+   "score_from": 72.2,
+   "score_to": 72.2,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "New charge (2026-10-23): Security registered in favour of Alter Domus Trustees (UK) Limited, as Security Agent (possible new borrowing)",
+    "Charge satisfied (2026-09-23): Security for Alter Domus Trustees (UK) Limited as Security Agent released (debt repaid or refinanced)",
+    "New charge (2026-09-18): Security registered in favour of Alter Domus Trustees (UK) Limited as Security Agent (possible new borrowing)",
+    "New charge (2026-09-18): Security registered in favour of Palatine Private Equity LLP (The Security Trustee) (possible new borrowing)"
+   ]
+  },
+  {
+   "company": "Taylor Plant",
+   "number": "05556360",
+   "kind": "down",
+   "from": 13,
+   "to": 14,
+   "score_from": 76.1,
+   "score_to": 76.1,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "York Telecom",
+   "number": "05942331",
+   "kind": "down",
+   "from": 77,
+   "to": 78,
+   "score_from": 42.7,
+   "score_to": 42.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Natilik",
+   "number": "05954905",
+   "kind": "down",
+   "from": 36,
+   "to": 37,
+   "score_from": 69.8,
+   "score_to": 69.8,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "C.A. Telecom UK",
+   "number": "06011062",
+   "kind": "down",
+   "from": 48,
+   "to": 49,
+   "score_from": 67.9,
+   "score_to": 67.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Centercomms",
+   "number": "06391276",
+   "kind": "down",
+   "from": 34,
+   "to": 35,
+   "score_from": 69.9,
+   "score_to": 69.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Ridown Capital",
+   "number": "06521296",
+   "kind": "down",
+   "from": 62,
+   "to": 63,
+   "score_from": 55.4,
+   "score_to": 55.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Bistech Group PLC",
+   "number": "06797181",
+   "kind": "down",
+   "from": 31,
+   "to": 32,
+   "score_from": 70.7,
+   "score_to": 70.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Natterbox",
+   "number": "06968249",
+   "kind": "down",
+   "from": 42,
+   "to": 43,
+   "score_from": 69.3,
+   "score_to": 69.3,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Lily Communications",
+   "number": "07020016",
+   "kind": "down",
+   "from": 64,
+   "to": 65,
+   "score_from": 54.6,
+   "score_to": 54.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Community Fibre",
+   "number": "07413288",
+   "kind": "down",
+   "from": 47,
+   "to": 48,
+   "score_from": 68.0,
+   "score_to": 68.0,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Tela Technology",
+   "number": "07974624",
+   "kind": "down",
+   "from": 28,
+   "to": 29,
+   "score_from": 71.4,
+   "score_to": 71.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Aerial Direct",
+   "number": "08043921",
+   "kind": "down",
+   "from": 51,
+   "to": 52,
+   "score_from": 66.1,
+   "score_to": 66.1,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Redcentric Solutions",
+   "number": "08322856",
+   "kind": "down",
+   "from": 32,
+   "to": 33,
+   "score_from": 70.6,
+   "score_to": 70.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)",
+    "Charge satisfied (2026-09-01): Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
+   ]
+  },
+  {
+   "company": "Network Planning Solutions",
+   "number": "08709631",
+   "kind": "down",
+   "from": 33,
+   "to": 34,
+   "score_from": 70.2,
+   "score_to": 70.2,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "ICE Telecommunications",
+   "number": "09180490",
+   "kind": "down",
+   "from": 81,
+   "to": 82,
+   "score_from": 38.5,
+   "score_to": 38.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Croft Communications",
+   "number": "09585068",
+   "kind": "down",
+   "from": 41,
+   "to": 42,
+   "score_from": 69.4,
+   "score_to": 69.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Heneghan Holdings",
+   "number": "09956206",
+   "kind": "down",
+   "from": 26,
+   "to": 27,
+   "score_from": 71.6,
+   "score_to": 71.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Director resigned (2026-10-26): Heneghan, Michael Edward resigned",
+    "Director resigned (2026-10-26): Heneghan, Patrick William resigned"
+   ]
+  },
+  {
+   "company": "Glenelly Infrastructure Solutions",
+   "number": "10021562",
+   "kind": "down",
+   "from": 20,
+   "to": 21,
+   "score_from": 72.9,
+   "score_to": 72.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Nano Fibre UK",
+   "number": "10174559",
+   "kind": "down",
+   "from": 40,
+   "to": 41,
+   "score_from": 69.4,
+   "score_to": 69.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Abzorb Group",
+   "number": "10779280",
+   "kind": "down",
+   "from": 21,
+   "to": 22,
+   "score_from": 72.6,
+   "score_to": 72.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Rapid Response Telecoms",
+   "number": "11480193",
+   "kind": "same",
+   "from": 9,
+   "to": 9,
+   "score_from": 79.2,
+   "score_to": 79.2,
+   "reasons": [],
+   "events": [
+    "New charge (2026-10-16): Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+   ]
+  },
+  {
+   "company": "Spitfire Technology Holdings",
+   "number": "11641366",
+   "kind": "down",
+   "from": 61,
+   "to": 62,
+   "score_from": 55.4,
+   "score_to": 55.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Nets International",
+   "number": "12421328",
+   "kind": "down",
+   "from": 37,
+   "to": 38,
+   "score_from": 69.8,
+   "score_to": 69.8,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Opus Tech",
+   "number": "12520403",
+   "kind": "down",
+   "from": 25,
+   "to": 26,
+   "score_from": 71.7,
+   "score_to": 71.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Saint Topco",
+   "number": "13567332",
+   "kind": "down",
+   "from": 57,
+   "to": 58,
+   "score_from": 57.5,
+   "score_to": 57.5,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Director appointed (2026-10-05): Overd, Matthew John appointed",
+    "Director appointed (2026-10-05): Pile, Daryl James appointed"
+   ]
+  },
+  {
+   "company": "Talk Straight Holdings",
+   "number": "14354114",
+   "kind": "down",
+   "from": 73,
+   "to": 74,
+   "score_from": 48.9,
+   "score_to": 48.9,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "OCU Nettworx",
+   "number": "NI612801",
+   "kind": "down",
+   "from": 15,
+   "to": 16,
+   "score_from": 75.7,
+   "score_to": 75.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "M & M Contractors (Europe)",
+   "number": "NI614374",
+   "kind": "down",
+   "from": 67,
+   "to": 68,
+   "score_from": 51.6,
+   "score_to": 51.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "GCU (UK)",
+   "number": "NI620995",
+   "kind": "down",
+   "from": 49,
+   "to": 50,
+   "score_from": 67.7,
+   "score_to": 67.7,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Electricityworx",
+   "number": "NI624452",
+   "kind": "down",
+   "from": 71,
+   "to": 72,
+   "score_from": 50.2,
+   "score_to": 50.2,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": [
+    "Director appointed (2026-09-10): Brown, Ashley John appointed",
+    "Director resigned (2026-09-10): Hart, Jonathan Peter resigned"
+   ]
+  },
+  {
+   "company": "Barclay Digital Services",
+   "number": "NI624500",
+   "kind": "down",
+   "from": 18,
+   "to": 19,
+   "score_from": 74.6,
+   "score_to": 74.6,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Pelion IOT",
+   "number": "SC211701",
+   "kind": "down",
+   "from": 82,
+   "to": 83,
+   "score_from": 38.4,
+   "score_to": 38.4,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  },
+  {
+   "company": "Highlands Bidco",
+   "number": "SC646446",
+   "kind": "down",
+   "from": 66,
+   "to": 67,
+   "score_from": 53.2,
+   "score_to": 53.2,
+   "reasons": [
+    "moved because companies around it entered or left the ranking"
+   ],
+   "events": []
+  }
+ ],
+ "events": [
+  {
+   "CompanyNumber": "05208041",
+   "CompanyName": "SATCOM GLOBAL LIMITED",
+   "event": "New accounts",
+   "date": "2026-11-26",
+   "detail": "New accounts filed, but figures could not be read (PDF or untagged)"
+  },
+  {
+   "CompanyNumber": "02386327",
+   "CompanyName": "NATIONAL GRID TELECOMS LIMITED",
+   "event": "New accounts",
+   "date": "2026-11-24",
+   "detail": "New accounts filed, but figures could not be read (PDF or untagged)"
+  },
+  {
+   "CompanyNumber": "04213760",
+   "CompanyName": "BABBLE CLOUD LIMITED",
+   "event": "Director resigned",
+   "date": "2026-11-19",
+   "detail": "Clark, Alexander Ross resigned"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Skiba, Giles Tomasz Christopher appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Pitt, Jonathan Louis appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Parkman, Ross Stuart appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-11",
+   "detail": "Brar, Taranjit Singh appointed"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director resigned",
+   "date": "2026-11-11",
+   "detail": "Crawford, Amy Elizabeth resigned"
+  },
+  {
+   "CompanyNumber": "02804354",
+   "CompanyName": "CHARTERHOUSE VOICE & DATA LIMITED",
+   "event": "Director resigned",
+   "date": "2026-11-11",
+   "detail": "Stevenson, Kelly Louise resigned"
+  },
+  {
+   "CompanyNumber": "03912906",
+   "CompanyName": "ALERT COMMUNICATIONS LIMITED",
+   "event": "Director appointed",
+   "date": "2026-11-04",
+   "detail": "Britton, Cara Marie appointed"
+  },
+  {
+   "CompanyNumber": "05217343",
+   "CompanyName": "NORTH PB LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-28",
+   "detail": "Mauguy, Philippe Robert Francis appointed"
+  },
+  {
+   "CompanyNumber": "05217343",
+   "CompanyName": "NORTH PB LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-28",
+   "detail": "Crawford, David William resigned"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Michael Edward resigned"
+  },
+  {
+   "CompanyNumber": "09956206",
+   "CompanyName": "HENEGHAN HOLDINGS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-26",
+   "detail": "Heneghan, Patrick William resigned"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "New charge",
+   "date": "2026-10-23",
+   "detail": "Security registered in favour of Alter Domus Trustees (UK) Limited, as Security Agent (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "11480193",
+   "CompanyName": "RAPID RESPONSE TELECOMS LTD",
+   "event": "New charge",
+   "date": "2026-10-16",
+   "detail": "Security registered in favour of Barclays Bank PLC (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "13567332",
+   "CompanyName": "SAINT TOPCO LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-05",
+   "detail": "Overd, Matthew John appointed"
+  },
+  {
+   "CompanyNumber": "13567332",
+   "CompanyName": "SAINT TOPCO LIMITED",
+   "event": "Director appointed",
+   "date": "2026-10-05",
+   "detail": "Pile, Daryl James appointed"
+  },
+  {
+   "CompanyNumber": "02386327",
+   "CompanyName": "NATIONAL GRID TELECOMS LIMITED",
+   "event": "Director resigned",
+   "date": "2026-10-01",
+   "detail": "Sharma, Tanya Joy resigned"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "Charge satisfied",
+   "date": "2026-09-23",
+   "detail": "Security for Alter Domus Trustees (UK) Limited as Security Agent released (debt repaid or refinanced)"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "New charge",
+   "date": "2026-09-18",
+   "detail": "Security registered in favour of Alter Domus Trustees (UK) Limited as Security Agent (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "05448638",
+   "CompanyName": "4NET TECHNOLOGIES LTD",
+   "event": "New charge",
+   "date": "2026-09-18",
+   "detail": "Security registered in favour of Palatine Private Equity LLP (The Security Trustee) (possible new borrowing)"
+  },
+  {
+   "CompanyNumber": "NI624452",
+   "CompanyName": "ELECTRICITYWORX LTD",
+   "event": "Director appointed",
+   "date": "2026-09-10",
+   "detail": "Brown, Ashley John appointed"
+  },
+  {
+   "CompanyNumber": "NI624452",
+   "CompanyName": "ELECTRICITYWORX LTD",
+   "event": "Director resigned",
+   "date": "2026-09-10",
+   "detail": "Hart, Jonathan Peter resigned"
+  },
+  {
+   "CompanyNumber": "05208041",
+   "CompanyName": "SATCOM GLOBAL LIMITED",
+   "event": "Director resigned",
+   "date": "2026-09-02",
+   "detail": "Leydon, Chris resigned"
+  },
+  {
+   "CompanyNumber": "08322856",
+   "CompanyName": "REDCENTRIC SOLUTIONS LIMITED",
+   "event": "Charge satisfied",
+   "date": "2026-09-01",
+   "detail": "Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
+  },
+  {
+   "CompanyNumber": "08322856",
+   "CompanyName": "REDCENTRIC SOLUTIONS LIMITED",
+   "event": "Charge satisfied",
+   "date": "2026-09-01",
+   "detail": "Security for National Westminster Bank PLC as Security Agent released (debt repaid or refinanced)"
+  }
+ ],
+ "ranked": 84
+}

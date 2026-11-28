@@ -1,5 +1,5 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "top_n": {
   "n": 10,
   "effective_bets": 4.7,
@@ -101,30 +101,9 @@
  },
  "top_20": {
   "n": 20,
-  "effective_bets": 5.2,
+  "effective_bets": 5.4,
   "flag": "green",
   "factors": [
-   {
-    "factor": "Construction and utility capex",
-    "share": 0.26,
-    "exposure": 5.2,
-    "count": 4,
-    "flag": "green",
-    "companies": [
-     "Kntc",
-     "OCU Nettworx",
-     "Glenelly Infrastructure Solutions",
-     "Taylor Plant",
-     "Open Fibre Networks (30%)",
-     "Beacon Communication Services (30%)",
-     "Clarus Networks (25%)",
-     "Rapid Response Telecoms (20%)",
-     "VEA Group (15%)"
-    ],
-    "drivers": [
-     "Utility and civil construction"
-    ]
-   },
    {
     "factor": "SME IT and telecoms spending",
     "share": 0.21,
@@ -142,6 +121,26 @@
     "drivers": [
      "Business telecoms (SME)",
      "Hosting and cloud (SME)"
+    ]
+   },
+   {
+    "factor": "Construction and utility capex",
+    "share": 0.21,
+    "exposure": 4.2,
+    "count": 3,
+    "flag": "green",
+    "companies": [
+     "Taylor Plant",
+     "OCU Nettworx",
+     "Kntc",
+     "Open Fibre Networks (30%)",
+     "Beacon Communication Services (30%)",
+     "Clarus Networks (25%)",
+     "Rapid Response Telecoms (20%)",
+     "VEA Group (15%)"
+    ],
+    "drivers": [
+     "Utility and civil construction"
     ]
    },
    {
@@ -165,11 +164,12 @@
    },
    {
     "factor": "Altnet funding and interest rates",
-    "share": 0.14,
-    "exposure": 2.8,
-    "count": 3,
+    "share": 0.19,
+    "exposure": 3.8,
+    "count": 4,
     "flag": "green",
     "companies": [
+     "JSM Group Services",
      "VEA Group (85%)",
      "Rapid Response Telecoms (80%)",
      "Open Fibre Networks (70%)",
@@ -427,7 +427,7 @@
  ],
  "deal_type_counts": {
   "ranked": {
-   "Between buckets": 23,
+   "Between buckets": 24,
    "Under pressure": 22,
    "High-growth": 20,
    "Steady compounder": 15,

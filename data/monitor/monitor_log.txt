@@ -1,3 +1,8 @@
-Checking for changes since 2026-11-27
-Companies checked: 83 | events: 0 | accounts re-read: 0
-No changes
+Checking for changes since 2026-08-30
+Companies checked: 83 | events: 27 | accounts re-read: 0
+event
+Charge satisfied      3
+Director appointed    9
+Director resigned     9
+New accounts          2
+New charge            4

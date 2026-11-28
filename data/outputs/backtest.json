@@ -1,5 +1,5 @@
 {
- "sample": 204,
+ "sample": 206,
  "deals": 15,
  "pe_deals": 7,
  "weights": {
@@ -12,11 +12,11 @@
     "margin_quality": 25,
     "balance_sheet": 15
    },
-   "auc_all": 0.509347442680776,
-   "auc_pe": 0.5692530819434373,
+   "auc_all": 0.4942408376963351,
+   "auc_pe": 0.542713567839196,
    "auc_pe_90": [
-    0.3676214648295867,
-    0.7643219724437998
+    0.34242641780330224,
+    0.7451902368987795
    ]
   },
   "v4 (adopted)": {
@@ -28,11 +28,11 @@
     "margin_quality": 20,
     "balance_sheet": 15
    },
-   "auc_all": 0.5717813051146384,
-   "auc_pe": 0.6664249456127629,
+   "auc_all": 0.5612565445026177,
+   "auc_pe": 0.6460875807609476,
    "auc_pe_90": [
-    0.45968092820884704,
-    0.8527918781725888
+    0.42997128499641063,
+    0.8449748743718593
    ]
   },
   "growth-heavy (test)": {
@@ -44,11 +44,11 @@
     "margin_quality": 15,
     "balance_sheet": 15
    },
-   "auc_all": 0.6204585537918871,
-   "auc_pe": 0.7113850616388687,
+   "auc_all": 0.6034904013961606,
+   "auc_pe": 0.6841349605168701,
    "auc_pe_90": [
-    0.5097897026831038,
-    0.8847715736040609
+    0.4643575017946877,
+    0.881586503948313
    ]
   },
   "equal (test)": {
@@ -60,40 +60,204 @@
     "margin_quality": 16.666666666666668,
     "balance_sheet": 16.666666666666668
    },
-   "auc_all": 0.5795414462081129,
-   "auc_pe": 0.6700507614213198,
+   "auc_all": 0.5678883071553229,
+   "auc_pe": 0.6503948312993539,
    "auc_pe_90": [
-    0.45315445975344454,
-    0.8586294416243654
+    0.42925340990667626,
+    0.8515075376884421
    ]
   }
  },
  "criteria": {
   "revenue_visibility": {
-   "auc_all": 0.35731922398589067,
-   "auc_pe": 0.364394488759971
+   "auc_all": 0.36020942408376966,
+   "auc_pe": 0.3664752333094042
   },
   "growth": {
-   "auc_all": 0.6864197530864198,
-   "auc_pe": 0.7621464829586657
+   "auc_all": 0.6821989528795811,
+   "auc_pe": 0.7591529073941135
   },
   "strategy_fit": {
-   "auc_all": 0.5380952380952381,
-   "auc_pe": 0.5464104423495286
+   "auc_all": 0.5312390924956369,
+   "auc_pe": 0.5398420674802584
   },
   "size_fit": {
-   "auc_all": 0.47354497354497355,
-   "auc_pe": 0.522480058013053
+   "auc_all": 0.4698080279232112,
+   "auc_pe": 0.5190236898779612
   },
   "margin_quality": {
-   "auc_all": 0.5890652557319224,
-   "auc_pe": 0.6229151559100797
+   "auc_all": 0.5835951134380454,
+   "auc_pe": 0.6180904522613065
   },
   "balance_sheet": {
-   "auc_all": 0.5947089947089947,
-   "auc_pe": 0.6047860768672951
+   "auc_all": 0.5787085514834206,
+   "auc_pe": 0.5768126346015793
   }
  },
+ "infra_test": {
+  "revenue_type on its own": {
+   "auc_all": 0.3970331588132635,
+   "auc_pe": 0.44041636755204594,
+   "auc_pe_90": [
+    0.35175879396984927,
+    0.5689698492462312
+   ]
+  },
+  "contract_length on its own": {
+   "auc_all": 0.5322862129144852,
+   "auc_pe": 0.4895908111988514,
+   "auc_pe_90": [
+    0.33056353194544147,
+    0.6407035175879398
+   ]
+  },
+  "v4 + revenue type (10 pts)": {
+   "auc_all": 0.5396160558464224,
+   "auc_pe": 0.6274228284278536,
+   "auc_pe_90": [
+    0.4149318018664752,
+    0.8262742282842785
+   ]
+  },
+  "v4 + contract length (10 pts)": {
+   "auc_all": 0.5650959860383944,
+   "auc_pe": 0.6396267049533381,
+   "auc_pe_90": [
+    0.42494615936826996,
+    0.8392318736539841
+   ]
+  },
+  "v4 + both (10 pts each)": {
+   "auc_all": 0.5333333333333333,
+   "auc_pe": 0.615218951902369,
+   "auc_pe_90": [
+    0.40699928212491027,
+    0.8140703517587939
+   ]
+  }
+ },
+ "infra_test_labels_of_deals": [
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "SAINT TOPCO LIMITED",
+   "buyer_type": "sponsor"
+  },
+  {
+   "revenue_type": "mixed",
+   "contract_length": "unknown",
+   "inflation_linkage": "unknown",
+   "infra_tier": "core-plus",
+   "CompanyName": "WIFINITY LIMITED",
+   "buyer_type": "sponsor"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "NORTH PB LIMITED",
+   "buyer_type": "sponsor"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "under 1 year",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "OCU NETTWORX LIMITED",
+   "buyer_type": "sponsor platform"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED",
+   "buyer_type": "sponsor platform"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "YORK TELECOM LIMITED",
+   "buyer_type": "sponsor platform"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "THE NETWORKING PEOPLE (TNP) LIMITED",
+   "buyer_type": "sponsor"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "DAISY COMMUNICATIONS LTD.",
+   "buyer_type": "merger"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "DATALEC POWER INSTALLATIONS LIMITED",
+   "buyer_type": "merger"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "QXTEL LIMITED",
+   "buyer_type": "trade"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "ARROW BUSINESS COMMUNICATIONS LIMITED",
+   "buyer_type": "merger"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED",
+   "buyer_type": "trade"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "under 1 year",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "NOVO TECHNOLOGIES LTD",
+   "buyer_type": "trade"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "A-2-SEA SOLUTIONS LIMITED",
+   "buyer_type": "trade"
+  },
+  {
+   "revenue_type": "merchant",
+   "contract_length": "1\u20133 years",
+   "inflation_linkage": "unknown",
+   "infra_tier": "hybrid",
+   "CompanyName": "PURE IP LIMITED",
+   "buyer_type": "trade"
+  }
+ ],
  "companies": [
   {
    "CompanyName": "WIFINITY LIMITED",
@@ -103,12 +267,12 @@
   {
    "CompanyName": "THE NETWORKING PEOPLE (TNP) LIMITED",
    "buyer_type": "sponsor",
-   "pct": 0.98
+   "pct": 0.97
   },
   {
    "CompanyName": "OCU NETTWORX LIMITED",
    "buyer_type": "sponsor platform",
-   "pct": 0.86
+   "pct": 0.85
   },
   {
    "CompanyName": "GLENELLY INFRASTRUCTURE SOLUTIONS LIMITED",
@@ -133,7 +297,7 @@
   {
    "CompanyName": "ARROW BUSINESS COMMUNICATIONS LIMITED",
    "buyer_type": "merger",
-   "pct": 0.57
+   "pct": 0.58
   },
   {
    "CompanyName": "GLOBAL RADIODATA COMMUNICATIONS HOLDINGS LIMITED",
@@ -143,12 +307,7 @@
   {
    "CompanyName": "NORTH PB LIMITED",
    "buyer_type": "sponsor",
-   "pct": 0.47
-  },
-  {
-   "CompanyName": "SAINT TOPCO LIMITED",
-   "buyer_type": "sponsor",
-   "pct": 0.44
+   "pct": 0.46
   },
   {
    "CompanyName": "NOVO TECHNOLOGIES LTD",
@@ -156,19 +315,24 @@
    "pct": 0.38
   },
   {
+   "CompanyName": "SAINT TOPCO LIMITED",
+   "buyer_type": "sponsor",
+   "pct": 0.33
+  },
+  {
    "CompanyName": "PURE IP LIMITED",
    "buyer_type": "trade",
-   "pct": 0.23
+   "pct": 0.22
   },
   {
    "CompanyName": "QXTEL LIMITED",
    "buyer_type": "trade",
-   "pct": 0.16
+   "pct": 0.15
   },
   {
    "CompanyName": "YORK TELECOM LIMITED",
    "buyer_type": "sponsor platform",
-   "pct": 0.1
+   "pct": 0.09
   }
  ]
 }

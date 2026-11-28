@@ -1,7 +1,6 @@
 CompanyNumber,sector,sector_source,sector_basis
 08630000,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 03601208,build,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
-03591105,build,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 07524755,build,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 03036806,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 13692788,satellite,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
@@ -9,7 +8,6 @@ CompanyNumber,sector,sector_source,sector_basis
 08772997,fibre,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 04686010,fibre,industry code,"Industry code 61100 only, not yet checked"
 08203105,satellite,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
-03208975,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 SC145376,satellite,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 11816413,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 13803408,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
@@ -24,6 +22,7 @@ SC145376,satellite,checked,"Main activity from the sector call (rulebook, 26 Nov
 03191078,fibre,industry code,"Industry code 61100 only, not yet checked"
 04031272,services,checked,Main activity from the checked company description (25 Nov 2026)
 13567332,services,checked,Main activity from the checked company description (25 Nov 2026)
+03591105,build,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 08322856,services,checked,Managed IT and network services; its eight data centres were sold to Stellanor in May 2026 (checked 25 Nov 2026)
 03101568,services,checked,Main activity from the checked company description (25 Nov 2026)
 07413288,fibre,checked,Main activity from the checked company description (25 Nov 2026)
@@ -350,6 +349,7 @@ SC493745,satellite,industry code,"Industry code 61300 only, not yet checked"
 05454622,datacentres,industry code,"Industry code 63110 only, not yet checked"
 00282704,services,industry code,"Industry code 61900 only, not yet checked"
 00173103,services,industry code,"Industry code 61900 only, not yet checked"
+03208975,services,checked,"Main activity from the sector call (rulebook, 26 Nov 2026)"
 02796345,fibre,industry code,"Industry code 61100 only, not yet checked"
 02760731,satellite,industry code,"Industry code 61300 only, not yet checked"
 09643131,datacentres,industry code,"Industry code 63110 only, not yet checked"
