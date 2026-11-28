@@ -1,4 +1,4 @@
-# Northing method (v4, 26 November 2026)
+# Northing method (v4.1, 28 November 2026)
 
 This is the general method. It applies to every sector. Each sector adds an appendix (for digital infrastructure: [digital.md](digital.md)) and one settings file (`config/thesis/<sector>.json`). Adding solar, water and waste, transport and logistics or social infrastructure means writing those two files, not changing the code.
 
@@ -16,7 +16,9 @@ The ranking shows where a mid-market buyer should look first. It is not a valuat
 | EBITDA rules | `normalise.py` | One set of adjustments for every company (section 6) |
 | Score | `score.py` | Business type, six criteria, confidence, the ranked list and the list of network owners still building |
 | Price and size | `valuation.py`, `size_check.py` | Price range and buyer returns by business type |
-| Back-test | `backtest.py` | Checks the weights against real deals (section 9) |
+| Infrastructure test | `infra_test.py` | Four investor labels per ranked company, shown but not scored (section 10a) |
+| Data-centre check | `dc_adjacent.py` | Companies whose accounts link them to data centres, in or out of the ranking (section 10b) |
+| Back-test | `backtest.py` | Checks the weights against real deals (section 9); runs every week |
 
 ## 2. Rulebook: is a company in the sector?
 
@@ -115,6 +117,27 @@ High is 0.85 or more, Medium 0.60 or more, otherwise Low. Figures with a failed 
 
 Measures an investor prices in a sector (homes passed, take-up, sites, MW, order book) are shown but not scored. A measure counts in the score only once it is collected for at least 80% of the ranked companies of that business type in the sector, so no company is marked down for a figure nobody collected.
 
+## 10a. Infrastructure test (shown, not scored)
+
+Infrastructure investors ask whether a company is "real" infrastructure: how certain its revenue is, how long its contracts run, whether prices follow inflation, how hard it is to copy and whether the service is essential. The score measures financial quality, so these labels sit beside it (`config/infra_test.csv`, `data/outputs/infra_test_latest.csv`). They are on the company profiles, in the workbook (Infra test sheet) and in the memo template.
+
+| Label | Values | Meaning |
+|---|---|---|
+| Revenue type (after EDHEC TICCS business-risk models) | contracted / regulated / merchant / mixed | Contracted: most revenue fixed by contracts of 3+ years with committed payments (lease, availability, PFI, bulk agreements). Regulated: price set by a regulator. Merchant: revenue depends on orders, usage or renewals within 3 years, including short subscriptions and framework work. Mixed: a material part (about a quarter or more) of two of these |
+| Typical contract length | under 1 year / 1–3 years / 3–10 years / 10+ years / unknown | The term customers sign for, not how long they stay |
+| Inflation linkage | yes / partial / no / unknown | Yes: indexed contracts or regulated prices. Partial: some indexation or fixed annual rises |
+| Infra tier | core / core-plus / value-add / hybrid | Default from business type: project company core, network owner core-plus, recurring services and contractor hybrid. Changed by hand only with a written reason |
+
+Each label carries its basis and points, as in section 8: stated in the accounts 0.9, described in the accounts 0.6, public information 0.6, inferred from the business model 0.4. The company's infrastructure-test confidence is the average over revenue type, contract length and inflation linkage (High 0.85+, Medium 0.6+, otherwise Low). Contract terms and indexation are rarely in UK accounts, so most labels start Low: they rise as contract lists, terms and conditions and management answers come in.
+
+Hybrid infrastructure: recurring-services and contractor companies earn repeat revenue from infrastructure without owning much of it. Memos frame them as hybrid and state the gaps openly (short contracts, few physical assets, merchant revenue).
+
+A label joins the score only if the back-test shows it clearly improves the ranking (section 9). The back-test uses labels from rules alone (business type plus contract terms found in the accounts text) so that bought and not-bought companies are labelled the same way.
+
+## 10b. Data-centre adjacent check
+
+Each week `dc_adjacent.py` reads every set of accounts the pipeline holds and lists the companies linked to data centres, by role (operator, connectivity, power, cooling, fit-out, or a user of data-centre space), and whether each is ranked or why not. Hand checks in `config/dc_adjacent.csv` set the role and a note. Companies coded only as electrical installation, cooling or building M&E are outside the sector's codes; the sector appendix says which of those codes the universe extension covers.
+
 ## 11. What stays a limit
 
 - Public information only; accounts can be up to two years old.
@@ -131,3 +154,4 @@ Measures an investor prices in a sector (homes passed, take-up, sites, MW, order
 4. Make sector calls with the rulebook (section 2); place companies and set business types.
 5. List the deals of the last three years in the sector and run the back-test before trusting the weights.
 6. Write the sector appendix in `method/<sector>.md`.
+7. Fill `config/infra_test.csv` for the ranked companies (section 10a) and the memo template's infrastructure section for any memo.

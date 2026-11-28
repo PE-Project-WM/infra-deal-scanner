@@ -1,4 +1,4 @@
-# Appendix: UK digital infrastructure (method v4, 26 November 2026)
+# Appendix: UK digital infrastructure (method v4.1, 28 November 2026)
 
 Settings: `config/thesis/digital.json`. General method: [METHOD.md](METHOD.md).
 
@@ -60,6 +60,18 @@ Sales growth on its own separates bought companies best (0.76 for private equity
 
 What moved it: three years read for almost every company; figures checked against the filing now count for nearly as much as tagged figures (they are checked line by line); revenue mix read from the accounts for 64 companies; cash, net assets and D&A filled from the same accounts where the first reader missed them; three number flags checked and found real. What keeps 27 at Medium: 58 ranked companies are only adjacent to the thesis, and 9 have only two years of accounts.
 
+## Infrastructure test (28 November 2026)
+
+84 ranked companies labelled (`config/infra_test.csv`). Revenue type: 74 merchant, 7 mixed, 3 contracted (WIG, Alert, Glide). Tier: 76 hybrid, 6 core-plus, 1 core (Alert), 1 value-add (Community Fibre, still building out). Confidence: 10 Medium, 74 Low, because UK accounts rarely give contract terms or indexation.
+
+Telecoms services to consumers and small businesses are labelled "partial" inflation linkage: since 17 January 2025 Ofcom bars inflation-linked or percentage rises in new contracts for them, though fixed rises in pounds are allowed. Older contracts can still carry RPI or CPI rises (ICE Telecommunications books them).
+
+Back-test of the labels (data/outputs/backtest.md): v4 scores 0.65 for private-equity deals on today's data (0.67 on 26 November; the figure moves as filings are read). Revenue type on its own scores 0.44 and contract length 0.49, both no better than chance; adding either at 10 points lowers v4 to 0.63–0.64. No weight change. With 7 private-equity deals, no result here is firm.
+
+## Data-centre adjacent check (data/outputs/dc_adjacent.md)
+
+Ranked suppliers to data centres: JSM Group (high-voltage power; entered at rank 13 once its figures were read by hand), John Henry Group (power and fibre, pursuing data-centre projects) and North (security and networking for a data-centre operator). Five more ranked companies use data-centre space rather than supply it. Redcentric's data centres have left the group. Not ranked: Datalec (merged into 3C Datalec), Vysiion (part of Exponential-e, about eight times its size), Six Degrees (operating loss after exceptional items), (AQ) and LMG (too small), nLighten (loss-making). Electrical installers (43210) come in with the universe extension; cooling and M&E specialists (43220, 43290) are not covered.
+
 ## Checks closed on 27 November 2026
 
 - 110 sector calls made from public knowledge were checked against the principal activity in the companies' filed accounts. Ten changed: Purdicom, TXO Systems, MDA Satconn, Radio Design and Resilient to OUT (equipment or software); (AQ) and Transaction Network Services to IN (TNS is US-owned, so excluded); NexGen Cloud, Brightsolid and Electricityworx to ADJACENT. Connexin sold its fibre network, so it is now a services firm and off the still-building list. 145 calls on companies that do not reach the ranking (mostly obvious OUTs such as software firms) still rest on public knowledge.
@@ -69,4 +81,6 @@ What moved it: three years read for almost every company; figures checked agains
 
 ## Open checks
 
-- Companies registered under IT or engineering codes: being added (method v4.1, universe extension).
+- Companies registered under IT or engineering codes: being added (universe extension), waiting for the Companies House download site, which was down on 27–28 November.
+- Infrastructure test: contract terms and indexation for the top 20, from published terms and conditions or management, to move their labels from Low.
+- Six Degrees: check the exceptional items, then decide whether it ranks.

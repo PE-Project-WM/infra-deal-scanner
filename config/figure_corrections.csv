@@ -53,3 +53,10 @@ CompanyNumber,CompanyName,accounts_filed,field,value,note
 12520403,OPUS TECH LIMITED,2026-02-10,ebitda_basis,Operating profit + D&A (checked against the filing),
 NI620995,GCU (UK) LIMITED,2026-11-11,ebitda,5642685,"Operating profit + depreciation of owned assets 602,033 (operating profit note)"
 NI620995,GCU (UK) LIMITED,2026-11-11,ebitda_basis,Operating profit + D&A (checked against the filing),
+03591105,JSM GROUP SERVICES LIMITED,2026-10-07,operating_profit,14120926,"Continuing operating profit FY Dec 2025, after £2.68m exceptional costs (total incl. discontinued £12.41m); OCR missed it"
+03591105,JSM GROUP SERVICES LIMITED,2026-10-07,da_total,2649415,"Depreciation owned 689,063 + finance-leased 1,776,962 + amortisation 183,390 (note 7)"
+03591105,JSM GROUP SERVICES LIMITED,2026-10-07,ebitda,16770341,Continuing operating profit 14.12m + all D&A 2.65m (D&A not split by discontinued activity)
+03591105,JSM GROUP SERVICES LIMITED,2026-10-07,ebitda_basis,Operating profit + D&A (checked against the filing),
+03208975,VYSIION LIMITED,2026-07-01,operating_profit,3909000,"Operating profit FY Jan 2026 (P&L, £000s); OCR missed it"
+03208975,VYSIION LIMITED,2026-07-01,ebitda,6806000,"Operating profit 3,909 + depreciation and amortisation 2,897 (P&L); the accounts show underlying EBITDA of 6,805"
+03208975,VYSIION LIMITED,2026-07-01,ebitda_basis,Operating profit + D&A (checked against the filing),

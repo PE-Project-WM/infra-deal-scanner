@@ -10,9 +10,13 @@ def build_notes(wb):
             'Funnel: 48,467 companies with the six industry codes > 1,209 active, private, full accounts, 3+ years > 211 inside £10-250m turnover > 105 after cleaning > 74 scored.',
             'Built by William Mikollovci with Claude, Python and GitHub Actions. Skills used: thesis-development, market-map-and-sourcing, deal-screening, dcf-model, irr-moic-calculator, debt-schedule.']),
         ('How the score works', [
-            'Six criteria scored 0-1 and weighted (Scorecard row 5): revenue visibility 25, strategy fit 20, size fit 15, margin quality 15, data completeness 15, debt capacity 10.',
-            'Revenue visibility is an ESTIMATE from business type (accounts do not split recurring revenue). Debt capacity is a PROXY from net assets, cash and margin.',
+            'Method v4: six criteria scored 0-1 and weighted (Scorecard row 5): revenue visibility 20, growth 15, strategy fit 15, size fit 15, margin quality 20, balance sheet 15. Size, margin and debt ranges depend on the business type (network owner, recurring services, contractor, project company).',
+            'Revenue visibility is read from the accounts where they describe the revenue mix, otherwise estimated from the business type; the profile says which.',
             'Accessibility (who owns it and whether it could be sold) is shown separately and never blended into the score, so an available company cannot outrank a better fit.']),
+        ('Infrastructure test (method v4.1, not scored)', [
+            'The Infra test sheet labels each company the way an infrastructure investor would: revenue type (contracted, regulated, merchant or mixed), typical contract length, inflation linkage, and tier (core, core-plus, value-add or hybrid).',
+            'Each label has a basis: stated or described in the accounts, public information, or inferred from the type of business. Most contract lengths and inflation terms are not in the accounts, so most labels are inferred and confidence is mostly Low.',
+            'Recurring-services and contractor companies are hybrid infrastructure: short contracts and few physical assets. The back-test found that adding these labels to the score did not improve it, so they are shown only.']),
         ('Valuation method', [
             'Price range uses sector benchmarks, not company-specific comparables: 6.5x (listed telecom services, Damodaran Jan 2026), 8.0x base, 9.0x walk-away (UK TMT deals under £100m at 8.9x LTM to Sep 2026, MarktoMarket via Alinea).',
             'DCF: five-year projection from simple growth and margin assumptions, discounted at the WACC on the Assumptions sheet, with an exit value at the base multiple held flat.',
@@ -53,8 +57,9 @@ build_shortlist(wb, R, first, last)
 build_assumptions(wb)
 out = build_models(wb)
 build_valuation(wb, out)
+build_infra_test(wb)
 build_notes(wb)
-order = ['Shortlist', 'Valuation', 'Scorecard', 'Assumptions', 'Models', 'Notes', 'Data']
+order = ['Shortlist', 'Valuation', 'Scorecard', 'Infra test', 'Assumptions', 'Models', 'Notes', 'Data']
 wb._sheets = [wb[n] for n in order]
 for ws in wb.worksheets:
     ws.sheet_view.showGridLines = False
