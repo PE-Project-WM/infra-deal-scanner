@@ -19,6 +19,8 @@ BS = pd.read_csv(f'{CFG}/balance_sheet.csv', dtype={'CompanyNumber': str}).set_i
 RM = pd.read_csv(f'{CFG}/revenue_mix.csv', dtype={'CompanyNumber': str}).set_index('CompanyNumber') if os.path.exists(f'{CFG}/revenue_mix.csv') else pd.DataFrame()
 _V = f'{os.path.dirname(OUT)}/ocr/verified.csv'
 OCR_CHECKED = pd.read_csv(_V, dtype={'CompanyNumber': str}).set_index('CompanyNumber')['result'].to_dict() if os.path.exists(_V) else {}
+_IT = f'{OUT}/infra_test_latest.csv'   # infrastructure test (v4.1): shown, not scored
+IT = pd.read_csv(_IT, dtype={'CompanyNumber': str}).fillna('').set_index('CompanyNumber') if os.path.exists(_IT) else pd.DataFrame()
 NOTES = pd.read_csv(f'{CFG}/company_notes.csv', dtype={'CompanyNumber': str}) if os.path.exists(f'{CFG}/company_notes.csv') else pd.DataFrame(columns=['CompanyNumber', 'check'])
 m = lambda v: f'£{v / 1e6:.1f}m'
 pct = lambda v: f'{v * 100:.0f}%'
@@ -111,13 +113,22 @@ def history(num):
     return [{'year': int(x['fy']), 'sales': float(x['sales']), 'margin': None if pd.isna(x['margin']) else float(x['margin']),
              'basis': x['profit_basis']} for _, x in g.iterrows()]
 
+def infra(num):
+    if num not in IT.index:
+        return None
+    t = IT.loc[num]
+    keys = ['revenue_type', 'revenue_type_basis', 'contract_length', 'contract_length_basis', 'inflation_linkage', 'inflation_basis',
+            'infra_tier', 'tier_reason', 'barriers_to_entry', 'essential_service', 'evidence', 'source', 'infra_confidence']
+    return {k: (t[k] if t[k] != '' else None) for k in keys}
+
 P = {}
 for _, r in R.iterrows():
     num = r['CompanyNumber']
     P[num] = {'rank': int(r['rank']), 'confidence': r['confidence'], 'confidence_reasons': '' if pd.isna(r['confidence_reasons']) else r['confidence_reasons'],
               'why': why(r), 'checks': checks(r), 'history': history(num), 'ebitda': None if pd.isna(r['ebitda']) else float(r['ebitda']),
               'interest_cover': hs(num, 'interest_cover'), 'revenue_mix': RM.at[num, 'evidence'] if num in RM.index else None,
-              'revenue_mix_source': RM.at[num, 'source'] if num in RM.index else None, 'capex_share': hs(num, 'capex_share_avg')}
+              'revenue_mix_source': RM.at[num, 'source'] if num in RM.index else None, 'capex_share': hs(num, 'capex_share_avg'),
+              'infra_test': infra(num)}
 json.dump(P, open(f'{OUT}/profiles.json', 'w'), indent=1, default=str)
 for num, p in list(P.items())[:3]:
     print(R.loc[R['CompanyNumber'] == num, 'CompanyName'].iloc[0], json.dumps(p, indent=1, default=str)[:900])

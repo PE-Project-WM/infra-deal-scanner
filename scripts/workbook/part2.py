@@ -254,3 +254,37 @@ def build_valuation(wb, out):
     for i, w in enumerate([24, 11, 11, 10, 11, 11, 11, 13, 11, 11, 10, 10, 12, 14, 28], 1):
         ws.column_dimensions[get_column_letter(i)].width = w
     ws.freeze_panes = 'B5'
+
+
+def build_infra_test(wb):
+    """Infrastructure test (method v4.1): four investor labels per ranked company, shown but not scored."""
+    path = f'{REPO}/data/outputs/infra_test_latest.csv'
+    if not _os.path.exists(path):
+        return
+    T = _pd.read_csv(path, dtype={'CompanyNumber': str}).fillna('').sort_values('rank')
+    ws = wb.create_sheet('Infra test')
+    title(ws, 'Infrastructure test: how an infrastructure investor would label each company',
+          'Shown for information only: these labels are not in the score and the v4 weights are unchanged. Basis: stated / described in the accounts, public information, or inferred from the type of business.')
+    heads = ['Rank', 'Company', 'Company number', 'Business type', 'Revenue type', 'Basis', 'Typical contract', 'Basis', 'Inflation linkage', 'Basis',
+             'Infra tier', 'Tier reason', 'Barriers to entry', 'Essential service', 'Confidence', 'Evidence', 'Source']
+    keys = ['rank', 'CompanyName', 'CompanyNumber', 'business_type', 'revenue_type', 'revenue_type_basis', 'contract_length', 'contract_length_basis',
+            'inflation_linkage', 'inflation_basis', 'infra_tier', 'tier_reason', 'barriers_to_entry', 'essential_service', 'infra_confidence', 'evidence', 'source']
+    header_row(ws, 4, heads)
+    for i, (_, r) in enumerate(T.iterrows()):
+        for j, k in enumerate(keys):
+            v = r[k]
+            if k == 'rank':
+                v = int(v)
+            elif k == 'business_type':
+                v = str(v).replace('_', ' ')
+            c = ws.cell(row=5 + i, column=1 + j, value=v)
+            c.font = font(); c.border = BOX
+            c.alignment = Alignment(vertical='top', wrap_text=k in ('evidence', 'source', 'tier_reason', 'barriers_to_entry', 'essential_service'))
+    widths = [6, 34, 12, 16, 12, 10, 13, 10, 12, 10, 12, 30, 30, 30, 11, 60, 40]
+    for j, w in enumerate(widths):
+        ws.column_dimensions[get_column_letter(1 + j)].width = w
+    ws.freeze_panes = 'C5'
+    n = len(T) + 6
+    counts = T['revenue_type'].value_counts().to_dict(), T['infra_tier'].value_counts().to_dict(), T['infra_confidence'].value_counts().to_dict()
+    for k, (lab, d) in enumerate(zip(['Revenue type', 'Infra tier', 'Confidence'], counts)):
+        ws.cell(row=n + k, column=2, value=f'{lab}: ' + ', '.join(f'{a} {b}' for a, b in d.items())).font = font(color='595959', italic=True, size=9)

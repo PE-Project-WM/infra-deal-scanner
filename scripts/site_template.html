@@ -676,6 +676,21 @@ else short.push(U.top10_moves.length ? `<b>${esc(U.headline)}.</b> See what chan
 document.getElementById('short').innerHTML = short.map(s => `<li>${s}</li>`).join('');
 
 // Top ten
+const BASIS = {stated: 'stated in the accounts', described: 'described in the accounts', public: 'public information', inferred: 'estimated from the type of business'};
+const TIER = {'core': 'Core', 'core-plus': 'Core-plus', 'value-add': 'Value-add', 'hybrid': 'Hybrid (infrastructure-like services)'};
+const cap = v => String(v || '').charAt(0).toUpperCase() + String(v || '').slice(1);
+function infraBlock(I) {
+  const row = (k, v, b) => `<div><dt>${k}</dt><dd>${esc(cap(v))} <span style="color:var(--mute)">(${v === 'unknown' ? 'not found in the accounts or public information' : esc(BASIS[b] || b)})</span></dd></div>`;
+  return `<h4 style="margin-top:20px">Infrastructure test</h4><p style="color:var(--mute);margin:0 0 8px">How an infrastructure investor would label it. Shown for information; not part of the score. Confidence: ${esc(I.infra_confidence)}.</p><dl class="facts">
+    ${row('Revenue type', I.revenue_type, I.revenue_type_basis)}
+    ${row('Typical contract', I.contract_length, I.contract_length_basis)}
+    ${row('Inflation linkage', I.inflation_linkage, I.inflation_basis)}
+    <div><dt>Infrastructure tier</dt><dd>${esc(TIER[I.infra_tier] || I.infra_tier)}${I.tier_reason ? ': ' + esc(I.tier_reason) : ''}</dd></div>
+    ${I.barriers_to_entry ? `<div><dt>Barriers to entry</dt><dd>${esc(I.barriers_to_entry)}</dd></div>` : ''}
+    ${I.essential_service ? `<div><dt>Essential service</dt><dd>${esc(I.essential_service)}</dd></div>` : ''}
+    <div><dt>Evidence</dt><dd>${esc(I.evidence)} <span style="color:var(--mute)">Source: ${esc(I.source)}.</span></dd></div>
+  </dl>`;
+}
 const histTable = h => !h || !h.length ? '' : `<table class="hist"><thead><tr><th>Year</th>${h.map(x => `<th>${x.year}</th>`).join('')}</tr></thead><tbody>
   <tr><td>Sales</td>${h.map(x => `<td>${money(x.sales)}</td>`).join('')}</tr>
   <tr><td>${esc(h[h.length-1].basis === 'Operating profit' ? 'Operating margin' : 'Pre-tax margin')}</td>${h.map(x => `<td>${x.margin != null ? pct(x.margin) : '–'}</td>`).join('')}</tr></tbody></table>`;
@@ -701,7 +716,9 @@ document.getElementById('rank').innerHTML = U.top10.map(t => {
       <div><dt>Ease of buying</dt><dd>${esc(ACCESS[t.access] || t.access)}. ${esc(t.access_note.charAt(0).toUpperCase() + t.access_note.slice(1))}.</dd></div>
       ${P.revenue_mix ? `<div><dt>Where sales come from</dt><dd>${esc(P.revenue_mix)} <span style="color:var(--mute)">Source: ${esc(P.revenue_mix_source)}.</span></dd></div>` : ''}
       ${P.confidence ? `<div><dt>Confidence</dt><dd>${esc(P.confidence)}${P.confidence_reasons ? ': ' + esc(P.confidence_reasons) : ': figures tagged in the filing, three or more years read'}.</dd></div>` : ''}
-    </dl></div>
+    </dl>
+      ${P.infra_test ? infraBlock(P.infra_test) : ''}
+    </div>
     <div>
       <h4>Results by year</h4>${histTable(P.history) || `<p style="margin-bottom:20px">Latest year only: sales ${money(t.turnover)}${t.growth != null ? `, ${t.growth >= 0 ? 'up' : 'down'} ${pct(Math.abs(t.growth))} on the year before` : ''}, EBITDA margin ${t.margin != null ? pct(t.margin) : 'not available'}.</p>`}
       <h4>How the ${t.score.toFixed(0)} is made up</h4><div class="bars">${bars}</div>
